@@ -1,0 +1,22 @@
+{
+  "targetCount": 3000,
+  "generated": 3000,
+  "source": "clearupsc_original_practice",
+  "sourceLabel": "UPSC-pattern practice (ClearUPSC original)",
+  "bySubject": {
+    "CSAT": 456,
+    "Essay": 192,
+    "GS1": 591,
+    "GS2": 708,
+    "GS3": 855,
+    "GS4": 198
+  },
+  "byTrap": {
+    "conceptual_clarity": 1000,
+    "absolute_statement": 1000,
+    "mains_framework": 1000
+  },
+  "officialPyqWarning": "These are original ClearUPSC UPSC-pattern practice questions, not official UPSC PYQs.",
+  "generatedAt": "2026-05-25T18:18:19.422Z",
+  "enrichedColumns": false
+}

@@ -1,0 +1,11 @@
+.next
+node_modules
+/data/content-reports
+/data/ncert-pdfs
+/data/upsc-pyq-pdfs
+/data/*.json
+antigravity-handoff
+*.log
+*.err.log
+.env.local
+.env.*.local

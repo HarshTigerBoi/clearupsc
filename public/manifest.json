@@ -1,0 +1,16 @@
+{
+  "name": "ClearUPSC",
+  "short_name": "ClearUPSC",
+  "description": "UPSC planning, practice and revision workspace.",
+  "theme_color": "#1a2744",
+  "background_color": "#ffffff",
+  "display": "standalone",
+  "start_url": "/dashboard",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}

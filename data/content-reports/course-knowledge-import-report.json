@@ -1,0 +1,27 @@
+{
+  "generatedAt": "2026-05-25T18:28:30.465Z",
+  "sourceFiles": [
+    "gs1-history.ts",
+    "gs2-polity-gov.ts",
+    "gs3-economy.ts"
+  ],
+  "totalKnowledgeTopics": 27,
+  "imported": 27,
+  "importedWithContentQuality": 0,
+  "importedWithoutContentQuality": 27,
+  "failed": [],
+  "sampleKeys": [
+    "gs1_history",
+    "gs1_history_ancient",
+    "gs1_history_medieval",
+    "gs1_history_modern",
+    "gs1_history_world",
+    "gs1_history_art_culture",
+    "gs2_polity",
+    "gs2_polity_constitution",
+    "gs2_polity_features",
+    "gs2_polity_federalism",
+    "gs2_polity_parliament",
+    "gs2_polity_executive"
+  ]
+}

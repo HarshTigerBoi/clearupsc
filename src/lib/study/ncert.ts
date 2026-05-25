@@ -1,0 +1,298 @@
+export interface NcertChapter {
+  classLevel: string;
+  subject: string;
+  gsPaper: "GS1" | "GS2" | "GS3" | "GS4" | "CSAT";
+  book: string;
+  chapter: string;
+  topicKeys: string[];
+  url: string;
+}
+
+export const NCERT_LIBRARY: NcertChapter[] = [
+  {
+    classLevel: "Class 6",
+    subject: "History",
+    gsPaper: "GS1",
+    book: "Our Pasts I",
+    chapter: "What, Where, How and When?",
+    topicKeys: ["gs1_history_ancient", "gs1_history_sources"],
+    url: "https://ncert.nic.in/textbook.php",
+  },
+  {
+    classLevel: "Class 6",
+    subject: "Geography",
+    gsPaper: "GS1",
+    book: "The Earth Our Habitat",
+    chapter: "The Earth in the Solar System",
+    topicKeys: ["gs1_geography_physical", "gs1_geography_earth"],
+    url: "https://ncert.nic.in/textbook.php",
+  },
+  {
+    classLevel: "Class 7",
+    subject: "History",
+    gsPaper: "GS1",
+    book: "Our Pasts II",
+    chapter: "The Delhi Sultans",
+    topicKeys: ["gs1_history_medieval", "gs1_history_delhi_sultanate"],
+    url: "https://ncert.nic.in/textbook.php",
+  },
+  {
+    classLevel: "Class 7",
+    subject: "Geography",
+    gsPaper: "GS1",
+    book: "Our Environment",
+    chapter: "Inside Our Earth",
+    topicKeys: ["gs1_geography_physical", "gs1_geography_geomorphology"],
+    url: "https://ncert.nic.in/textbook.php",
+  },
+  {
+    classLevel: "Class 8",
+    subject: "History",
+    gsPaper: "GS1",
+    book: "Our Pasts III",
+    chapter: "When People Rebel 1857 and After",
+    topicKeys: ["gs1_history_modern", "gs1_history_revolt_1857"],
+    url: "https://ncert.nic.in/textbook.php",
+  },
+  {
+    classLevel: "Class 8",
+    subject: "Political Science",
+    gsPaper: "GS2",
+    book: "Social and Political Life III",
+    chapter: "The Indian Constitution",
+    topicKeys: ["gs2_polity_constitution"],
+    url: "https://ncert.nic.in/textbook.php",
+  },
+  {
+    classLevel: "Class 9",
+    subject: "Economics",
+    gsPaper: "GS3",
+    book: "Economics",
+    chapter: "Poverty as a Challenge",
+    topicKeys: ["gs3_economy_poverty", "gs2_social_justice_poverty"],
+    url: "https://ncert.nic.in/textbook.php",
+  },
+  {
+    classLevel: "Class 9",
+    subject: "Science",
+    gsPaper: "GS3",
+    book: "Science",
+    chapter: "Natural Resources",
+    topicKeys: ["gs3_environment_resources", "gs3_environment_pollution"],
+    url: "https://ncert.nic.in/textbook.php",
+  },
+  {
+    classLevel: "Class 10",
+    subject: "Economics",
+    gsPaper: "GS3",
+    book: "Understanding Economic Development",
+    chapter: "Money and Credit",
+    topicKeys: ["gs3_economy_banking", "gs3_economy_financial_inclusion"],
+    url: "https://ncert.nic.in/textbook.php",
+  },
+  {
+    classLevel: "Class 10",
+    subject: "Geography",
+    gsPaper: "GS1",
+    book: "Contemporary India II",
+    chapter: "Resources and Development",
+    topicKeys: ["gs1_geography_resources", "gs3_environment_resources"],
+    url: "https://ncert.nic.in/textbook.php",
+  },
+  {
+    classLevel: "Class 11",
+    subject: "Political Science",
+    gsPaper: "GS2",
+    book: "Indian Constitution at Work",
+    chapter: "Rights in the Indian Constitution",
+    topicKeys: ["gs2_polity_constitution", "gs2_polity_fundamental_rights"],
+    url: "https://ncert.nic.in/textbook/pdf/keps202.pdf",
+  },
+  {
+    classLevel: "Class 11",
+    subject: "Political Science",
+    gsPaper: "GS2",
+    book: "Indian Constitution at Work",
+    chapter: "Federalism",
+    topicKeys: ["gs2_polity_federalism"],
+    url: "https://ncert.nic.in/textbook/pdf/keps207.pdf",
+  },
+  {
+    classLevel: "Class 11",
+    subject: "Political Science",
+    gsPaper: "GS2",
+    book: "Indian Constitution at Work",
+    chapter: "Election and Representation",
+    topicKeys: ["gs2_polity_elections", "gs2_polity_democracy"],
+    url: "https://ncert.nic.in/textbook/pdf/keps203.pdf",
+  },
+  {
+    classLevel: "Class 11",
+    subject: "Political Science",
+    gsPaper: "GS2",
+    book: "Indian Constitution at Work",
+    chapter: "Executive",
+    topicKeys: ["gs2_polity_executive", "gs2_polity_parliamentary_system"],
+    url: "https://ncert.nic.in/textbook/pdf/keps204.pdf",
+  },
+  {
+    classLevel: "Class 11",
+    subject: "Political Science",
+    gsPaper: "GS2",
+    book: "Indian Constitution at Work",
+    chapter: "Legislature",
+    topicKeys: ["gs2_polity_parliament", "gs2_polity_law_making"],
+    url: "https://ncert.nic.in/textbook/pdf/keps205.pdf",
+  },
+  {
+    classLevel: "Class 11",
+    subject: "Political Science",
+    gsPaper: "GS2",
+    book: "Indian Constitution at Work",
+    chapter: "Judiciary",
+    topicKeys: ["gs2_polity_judiciary", "gs2_polity_supreme_court"],
+    url: "https://ncert.nic.in/textbook/pdf/keps206.pdf",
+  },
+  {
+    classLevel: "Class 11",
+    subject: "Geography",
+    gsPaper: "GS1",
+    book: "Fundamentals of Physical Geography",
+    chapter: "Geomorphic Processes",
+    topicKeys: ["gs1_geography_physical", "gs1_geography_geomorphology"],
+    url: "https://ncert.nic.in/textbook/pdf/kegy106.pdf",
+  },
+  {
+    classLevel: "Class 11",
+    subject: "Geography",
+    gsPaper: "GS1",
+    book: "Fundamentals of Physical Geography",
+    chapter: "Composition and Structure of Atmosphere",
+    topicKeys: ["gs1_geography_climatology", "gs1_geography_atmosphere"],
+    url: "https://ncert.nic.in/textbook/pdf/kegy108.pdf",
+  },
+  {
+    classLevel: "Class 11",
+    subject: "Geography",
+    gsPaper: "GS1",
+    book: "India Physical Environment",
+    chapter: "Drainage System",
+    topicKeys: ["gs1_geography_india", "gs1_geography_rivers"],
+    url: "https://ncert.nic.in/textbook.php",
+  },
+  {
+    classLevel: "Class 11",
+    subject: "Art & Culture",
+    gsPaper: "GS1",
+    book: "An Introduction to Indian Art",
+    chapter: "Prehistoric Rock Paintings",
+    topicKeys: ["gs1_art_culture", "gs1_history_prehistoric"],
+    url: "https://ncert.nic.in/textbook.php",
+  },
+  {
+    classLevel: "Class 12",
+    subject: "Economics",
+    gsPaper: "GS3",
+    book: "Introductory Macroeconomics",
+    chapter: "Money and Banking",
+    topicKeys: ["gs3_economy_banking", "gs3_economy_monetary_policy"],
+    url: "https://ncert.nic.in/textbook/pdf/leec102.pdf",
+  },
+  {
+    classLevel: "Class 12",
+    subject: "Economics",
+    gsPaper: "GS3",
+    book: "Introductory Macroeconomics",
+    chapter: "Government Budget and the Economy",
+    topicKeys: ["gs3_economy_budget", "gs3_economy_fiscal_policy"],
+    url: "https://ncert.nic.in/textbook/pdf/leec105.pdf",
+  },
+  {
+    classLevel: "Class 12",
+    subject: "History",
+    gsPaper: "GS1",
+    book: "Themes in Indian History III",
+    chapter: "Mahatma Gandhi and the Nationalist Movement",
+    topicKeys: ["gs1_history_modern", "gs1_history_freedom_struggle"],
+    url: "https://ncert.nic.in/textbook/pdf/lehs303.pdf",
+  },
+  {
+    classLevel: "Class 12",
+    subject: "History",
+    gsPaper: "GS1",
+    book: "Themes in Indian History III",
+    chapter: "Colonialism and the Countryside",
+    topicKeys: ["gs1_history_modern", "gs1_history_colonial_economy"],
+    url: "https://ncert.nic.in/textbook/pdf/lehs301.pdf",
+  },
+  {
+    classLevel: "Class 12",
+    subject: "History",
+    gsPaper: "GS1",
+    book: "Themes in Indian History II",
+    chapter: "Bhakti-Sufi Traditions",
+    topicKeys: ["gs1_history_medieval", "gs1_art_culture"],
+    url: "https://ncert.nic.in/textbook.php",
+  },
+  {
+    classLevel: "Class 12",
+    subject: "Sociology",
+    gsPaper: "GS1",
+    book: "Indian Society",
+    chapter: "The Demographic Structure of Indian Society",
+    topicKeys: ["gs1_society", "gs1_society_demography"],
+    url: "https://ncert.nic.in/textbook/pdf/lesy102.pdf",
+  },
+  {
+    classLevel: "Class 12",
+    subject: "Sociology",
+    gsPaper: "GS1",
+    book: "Social Change and Development in India",
+    chapter: "Change and Development in Rural Society",
+    topicKeys: ["gs1_society", "gs1_society_rural"],
+    url: "https://ncert.nic.in/textbook.php",
+  },
+  {
+    classLevel: "Class 12",
+    subject: "Science",
+    gsPaper: "GS3",
+    book: "Biology",
+    chapter: "Biodiversity and Conservation",
+    topicKeys: ["gs3_environment_biodiversity", "gs3_environment_conservation"],
+    url: "https://ncert.nic.in/textbook.php",
+  },
+  {
+    classLevel: "Class 12",
+    subject: "Science",
+    gsPaper: "GS3",
+    book: "Biology",
+    chapter: "Environmental Issues",
+    topicKeys: ["gs3_environment_pollution", "gs3_environment_climate_change"],
+    url: "https://ncert.nic.in/textbook.php",
+  },
+  {
+    classLevel: "Class 12",
+    subject: "Political Science",
+    gsPaper: "GS2",
+    book: "Politics in India Since Independence",
+    chapter: "Challenges of Nation Building",
+    topicKeys: ["gs1_history_post_independence", "gs2_polity_federalism"],
+    url: "https://ncert.nic.in/textbook.php",
+  },
+];
+
+export function ncertForTopic(topicKey: string) {
+  return NCERT_LIBRARY.filter((chapter) => chapter.topicKeys.includes(topicKey));
+}
+
+export function ncertClasses() {
+  return Array.from(new Set(NCERT_LIBRARY.map((chapter) => chapter.classLevel))).sort();
+}
+
+export function ncertSubjects() {
+  return Array.from(new Set(NCERT_LIBRARY.map((chapter) => chapter.subject))).sort();
+}
+
+export function ncertGsPapers() {
+  return Array.from(new Set(NCERT_LIBRARY.map((chapter) => chapter.gsPaper))).sort();
+}

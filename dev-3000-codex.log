@@ -1,0 +1,33 @@
+
+> clearupsc@0.1.0 dev
+> next dev
+
+  ▲ Next.js 14.2.35
+  - Local:        http://localhost:3000
+  - Environments: .env.local
+
+ ✓ Starting...
+> [PWA] PWA support is disabled
+> [PWA] PWA support is disabled
+ ✓ Ready in 2.8s
+ ○ Compiling /study/[topicId] ...
+ ✓ Compiled /study/[topicId] in 5.8s (2541 modules)
+ GET /study/csat_comprehension 200 in 6406ms
+ ○ Compiling /api/study/topic/[topicId] ...
+ ✓ Compiled /api/study/topic/[topicId] in 2.4s (1365 modules)
+ GET /api/study/topic/csat_comprehension 200 in 6318ms
+ ✓ Compiled in 478ms (2532 modules)
+ ✓ Compiled in 321ms (1259 modules)
+ ✓ Compiled in 175ms (1259 modules)
+ ✓ Compiled in 280ms (1259 modules)
+ GET /study/csat_comprehension 200 in 185ms
+ ✓ Compiled /api/study/topic/[topicId] in 245ms (1365 modules)
+ GET /api/study/topic/csat_comprehension 200 in 2081ms
+ ✓ Compiled in 242ms (1259 modules)
+ ✓ Compiled in 315ms (1259 modules)
+ ✓ Compiled in 168ms (1259 modules)
+ ✓ Compiled in 181ms (1259 modules)
+ ✓ Compiled in 178ms (1259 modules)
+ ✓ Compiled in 351ms (1259 modules)
+ ✓ Compiled in 245ms (1259 modules)
+ ✓ Compiled in 261ms (1259 modules)

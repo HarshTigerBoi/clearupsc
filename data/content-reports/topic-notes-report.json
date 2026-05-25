@@ -1,0 +1,16 @@
+{
+  "mode": "gemini",
+  "force": false,
+  "forceAll": false,
+  "processed": 0,
+  "skipped": 1193,
+  "publishReadyPreserved": 0,
+  "structuredJson": 1193,
+  "plainTextRemaining": 0,
+  "missingStructuredNotes": 0,
+  "missingWikiSlugs": 0,
+  "missingGovernmentSources": 0,
+  "missingNcertRefs": 664,
+  "totalTopics": 1193,
+  "generatedAt": "2026-05-25T20:14:49.080Z"
+}

@@ -1,0 +1,40 @@
+
+> clearupsc@0.1.0 dev
+> next dev -p 3011
+
+  ▲ Next.js 14.2.35
+  - Local:        http://localhost:3011
+  - Environments: .env.local
+
+ ✓ Starting...
+> [PWA] PWA support is disabled
+> [PWA] PWA support is disabled
+ ✓ Ready in 2.7s
+ ○ Compiling /study/[topicId] ...
+ ✓ Compiled /study/[topicId] in 7.2s (2541 modules)
+ GET /study/gs2_polity_judiciary 200 in 7800ms
+ GET /study/gs2_polity_judiciary 200 in 46ms
+ ○ Compiling /api/study/topic/[topicId] ...
+ ✓ Compiled /api/study/topic/[topicId] in 701ms (1365 modules)
+ GET /api/study/topic/gs2_polity_judiciary 200 in 3750ms
+ GET /study/gs2_polity_judiciary 200 in 275ms
+ GET /api/study/topic/gs2_polity_judiciary 200 in 1946ms
+ GET /api/study/topic/gs2_polity_judiciary 200 in 1816ms
+ ✓ Compiled in 610ms (2624 modules)
+ ✓ Compiled in 243ms (1259 modules)
+ ✓ Compiled in 234ms (1259 modules)
+ ✓ Compiled /_not-found in 468ms (2613 modules)
+ GET /_next/static/css/app/layout.css?v=1779711628577 404 in 596ms
+ GET /_next/static/css/app/layout.css?v=1779711628844 404 in 331ms
+ ✓ Compiled in 252ms (1261 modules)
+ ○ Compiling /_error ...
+ ✓ Compiled /_error in 1487ms (2747 modules)
+ GET /study/gs2_polity_judiciary 200 in 189ms
+ GET /_next/static/css/app/layout.css?v=1779711666757 404 in 30ms
+ GET /_next/static/chunks/main-app.js?v=1779711666757 404 in 38ms
+ GET /_next/static/chunks/app-pages-internals.js 404 in 38ms
+ GET /_next/static/chunks/app/study/%5BtopicId%5D/page.js 404 in 37ms
+ ✓ Compiled in 282ms (1447 modules)
+ ✓ Compiled in 195ms (1447 modules)
+ ✓ Compiled in 237ms (1444 modules)
+ ✓ Compiled in 208ms (1444 modules)

@@ -1,0 +1,145 @@
+{
+  "source": "UPSC official previous-question-paper PDFs",
+  "sourcePage": "https://upsc.gov.in/examinations/previous-question-papers",
+  "generatedAt": "2026-05-25T04:07:50.686Z",
+  "papers": [
+    {
+      "year": 2025,
+      "paper": "GS1",
+      "url": "https://upsc.gov.in/sites/default/files/QP-CSP-25-GENERAL-STUDIES-PAPER-I-26052025.pdf",
+      "downloaded": true,
+      "textLength": 757,
+      "parsedQuestions": 0,
+      "inserted": 0,
+      "status": "needs_ocr",
+      "note": "Official PDF appears scanned/image-only or extraction failed. Do not replace it with synthetic data."
+    },
+    {
+      "year": 2025,
+      "paper": "CSAT",
+      "url": "https://upsc.gov.in/sites/default/files/QP-CSP-25-GENERAL-STUDIES-PAPER-II-26052025.pdf",
+      "downloaded": true,
+      "textLength": 757,
+      "parsedQuestions": 0,
+      "inserted": 0,
+      "status": "needs_ocr",
+      "note": "Official PDF appears scanned/image-only or extraction failed. Do not replace it with synthetic data."
+    },
+    {
+      "year": 2024,
+      "paper": "GS1",
+      "url": "https://upsc.gov.in/sites/default/files/QP-CSP-24-GENERAL-STUDIES-PAPER-I-180624.pdf",
+      "downloaded": true,
+      "textLength": 757,
+      "parsedQuestions": 0,
+      "inserted": 0,
+      "status": "needs_ocr",
+      "note": "Official PDF appears scanned/image-only or extraction failed. Do not replace it with synthetic data."
+    },
+    {
+      "year": 2024,
+      "paper": "CSAT",
+      "url": "https://upsc.gov.in/sites/default/files/QP-CSP-24-GENERAL-STUDIES-PAPER-II-180624.pdf",
+      "downloaded": true,
+      "textLength": 757,
+      "parsedQuestions": 0,
+      "inserted": 0,
+      "status": "needs_ocr",
+      "note": "Official PDF appears scanned/image-only or extraction failed. Do not replace it with synthetic data."
+    },
+    {
+      "year": 2023,
+      "paper": "GS1",
+      "url": "https://upsc.gov.in/sites/default/files/QP_CS_Pre_Exam_2023_280523.pdf",
+      "downloaded": true,
+      "textLength": 74405,
+      "parsedQuestions": 71,
+      "inserted": 71,
+      "status": "imported"
+    },
+    {
+      "year": 2023,
+      "paper": "CSAT",
+      "url": "https://upsc.gov.in/sites/default/files/QP_CS_Pre_Exam_2023_GENERAL_STUDIES_PAPER_II_280523.pdf",
+      "downloaded": true,
+      "textLength": 757,
+      "parsedQuestions": 0,
+      "inserted": 0,
+      "status": "needs_ocr",
+      "note": "Official PDF appears scanned/image-only or extraction failed. Do not replace it with synthetic data."
+    },
+    {
+      "year": 2022,
+      "paper": "GS1",
+      "url": "https://upsc.gov.in/sites/default/files/GENERAL%20STUDIES%20PAPER%20I.pdf",
+      "downloaded": true,
+      "textLength": 757,
+      "parsedQuestions": 0,
+      "inserted": 0,
+      "status": "needs_ocr",
+      "note": "Official PDF appears scanned/image-only or extraction failed. Do not replace it with synthetic data."
+    },
+    {
+      "year": 2022,
+      "paper": "CSAT",
+      "url": "https://upsc.gov.in/sites/default/files/GENERAL%20STUDIES%20PAPER%20II.pdf",
+      "downloaded": true,
+      "textLength": 757,
+      "parsedQuestions": 0,
+      "inserted": 0,
+      "status": "needs_ocr",
+      "note": "Official PDF appears scanned/image-only or extraction failed. Do not replace it with synthetic data."
+    },
+    {
+      "year": 2021,
+      "paper": "GS1",
+      "url": "https://upsc.gov.in/sites/default/files/QP-CSP-21-GeneralStudiesPaper-I-121021.pdf",
+      "downloaded": true,
+      "textLength": 757,
+      "parsedQuestions": 0,
+      "inserted": 0,
+      "status": "needs_ocr",
+      "note": "Official PDF appears scanned/image-only or extraction failed. Do not replace it with synthetic data."
+    },
+    {
+      "year": 2021,
+      "paper": "CSAT",
+      "url": "https://upsc.gov.in/sites/default/files/QP-CSP-21-GeneralStudiesPaper-II-121021.pdf",
+      "downloaded": true,
+      "textLength": 757,
+      "parsedQuestions": 0,
+      "inserted": 0,
+      "status": "needs_ocr",
+      "note": "Official PDF appears scanned/image-only or extraction failed. Do not replace it with synthetic data."
+    },
+    {
+      "year": 2020,
+      "paper": "GS1",
+      "url": "https://upsc.gov.in/sites/default/files/CSP_2020_GS_Paper-1.pdf",
+      "downloaded": true,
+      "textLength": 757,
+      "parsedQuestions": 0,
+      "inserted": 0,
+      "status": "needs_ocr",
+      "note": "Official PDF appears scanned/image-only or extraction failed. Do not replace it with synthetic data."
+    },
+    {
+      "year": 2020,
+      "paper": "CSAT",
+      "url": "https://upsc.gov.in/sites/default/files/CSP_2020_GS_Paper-2.pdf",
+      "downloaded": true,
+      "textLength": 757,
+      "parsedQuestions": 0,
+      "inserted": 0,
+      "status": "needs_ocr",
+      "note": "Official PDF appears scanned/image-only or extraction failed. Do not replace it with synthetic data."
+    }
+  ],
+  "totals": {
+    "papers": 12,
+    "parsedQuestions": 71,
+    "inserted": 71,
+    "scannedOrUnreadable": 11,
+    "failed": 0
+  }
+}
