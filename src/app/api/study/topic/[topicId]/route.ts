@@ -72,7 +72,7 @@ async function getProgress(supabase: Awaited<ReturnType<typeof createClient>>, u
 }
 
 async function getTopicMcqs(supabase: Awaited<ReturnType<typeof createClient>>, topicKey: string) {
-  const selectWithSource = "id,question_text,year,tags,source_label,trap_type,related_topic_key,explanation,question_options(option_label,option_text,is_correct)";
+  const selectWithSource = "id,question_text,year,tags,source_label,trap_type,explanation,question_options(option_label,option_text,is_correct)";
   const selectLegacy = "id,question_text,year,tags,question_options(option_label,option_text,is_correct)";
   const enriched = await supabase
     .from("questions")
@@ -97,7 +97,7 @@ async function getTopicMcqs(supabase: Awaited<ReturnType<typeof createClient>>, 
   if (error) return [];
   return (data ?? []).map((question) => {
     const options = [...(question.question_options ?? [])].sort((a, b) => String(a.option_label).localeCompare(String(b.option_label)));
-    const record = question as typeof question & { source_label?: string | null; trap_type?: string | null; related_topic_key?: string | null; explanation?: string | null };
+    const record = question as typeof question & { source_label?: string | null; trap_type?: string | null; explanation?: string | null };
     return {
       id: question.id,
       year: question.year,
@@ -108,12 +108,12 @@ async function getTopicMcqs(supabase: Awaited<ReturnType<typeof createClient>>, 
       explanation: record.explanation ?? "Use the syllabus concept first, then eliminate extreme statements and mismatched institutions.",
       sourceLabel: record.source_label ?? "UPSC-pattern practice (ClearUPSC original)",
       trapType: record.trap_type ?? "Concept trap",
-      relatedTopicKey: record.related_topic_key ?? topicKey,
+      relatedTopicKey: topicKey,
     };
   });
 }
 
-async function getTopicPyqs(supabase: Awaited<ReturnType<typeof createClient>>, topicKey: string, subject: string) {
+async function getTopicPyqs(supabase: Awaited<ReturnType<typeof createClient>>, topicKey: string, _subject: string) {
   const { data, error } = await supabase
     .from("pyq_questions")
     .select("id,year,paper,question_text,options,correct_option,explanation,topics,difficulty,source")
@@ -121,20 +121,7 @@ async function getTopicPyqs(supabase: Awaited<ReturnType<typeof createClient>>, 
     .order("year", { ascending: false })
     .limit(10);
   if (!error && data?.length) return data;
-  return [
-    {
-      id: `pattern-${topicKey}-1`,
-      year: 2026,
-      paper: subject,
-      question_text: `Based on UPSC pattern: Which statement best captures the UPSC relevance of ${topicKey.replaceAll("_", " ")}?`,
-      options: ["It is only a factual topic.", "It connects facts with governance and current affairs.", "It is only useful for optional papers.", "It is never asked indirectly."],
-      correct_option: 1,
-      explanation: "UPSC often asks topics through application, governance relevance and current affairs linkage, not only direct definitions.",
-      topics: [topicKey],
-      difficulty: "medium",
-      source: "Based on UPSC pattern",
-    },
-  ];
+  return [];
 }
 
 async function getSiblingTopics(supabase: Awaited<ReturnType<typeof createClient>>, topicKey: string, parentKey: string, subject: string) {

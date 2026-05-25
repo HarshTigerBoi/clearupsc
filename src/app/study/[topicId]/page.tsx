@@ -198,7 +198,7 @@ export default function StudyTopicPage({ params }: { params: { topicId: string }
   }
 
   const data = query.data;
-  const ncert = data.ncertRefs?.[0] ?? data.ncert?.[0] ?? null;
+  const ncertRefs = data.ncertRefs?.length ? data.ncertRefs : data.ncert ?? [];
   const answerUrl = `/answer-writing/practice?topic=${encodeURIComponent(data.topic.key)}&question=${encodeURIComponent(`Write a 150-word UPSC answer on ${data.topic.title}.`)}`;
 
   return (
@@ -252,7 +252,7 @@ export default function StudyTopicPage({ params }: { params: { topicId: string }
             </StepSection>
 
             <StepSection id="read-it" step="05" label="Read It" title="NCERT" tone="gray">
-              <NcertViewer ncert={ncert} />
+              <NcertViewer ncerts={ncertRefs} coverage={data.notesStructured.ncert_coverage} />
             </StepSection>
 
             <StepSection id="prove-it" step="06" label="Prove It" title="Official + Pattern Questions" tone="white">
@@ -609,8 +609,10 @@ function ConciseTable({ rows }: { rows: StructuredTopicNotes["concise_notes"] })
   );
 }
 
-function NcertViewer({ ncert }: { ncert: NcertRef | null }) {
-  if (!ncert) {
+function NcertViewer({ ncerts, coverage }: { ncerts: NcertRef[]; coverage: string[] }) {
+  const primary = ncerts[0] ?? null;
+  const hasCoverage = coverage.length > 0;
+  if (!primary && !hasCoverage) {
     return (
       <div className="rounded-3xl border border-slate-200 bg-white p-6 shadow-sm">
         <BookOpen className="h-8 w-8 text-[#f97316]" />
@@ -622,26 +624,55 @@ function NcertViewer({ ncert }: { ncert: NcertRef | null }) {
       </div>
     );
   }
-  const isPdf = ncert.url.toLowerCase().endsWith(".pdf");
+  const isPdf = primary?.url.toLowerCase().endsWith(".pdf") ?? false;
   return (
     <div className="rounded-3xl border border-slate-200 bg-white p-4 shadow-sm sm:p-5">
       <div className="mb-4 rounded-2xl bg-indigo-50 p-4 text-sm font-bold leading-6 text-indigo-900">
         Now that you understand the topic, the NCERT will feel easy.
       </div>
-      <div className="flex flex-col gap-3 sm:flex-row sm:items-center sm:justify-between">
-        <div>
-          <h3 className="text-xl font-black text-[#1a2744]">{ncert.chapter}</h3>
-          <p className="mt-1 text-sm text-slate-500">{ncert.classLevel} | {ncert.subject} | {ncert.book}</p>
+      {primary ? (
+        <div className="flex flex-col gap-3 sm:flex-row sm:items-center sm:justify-between">
+          <div>
+            <h3 className="text-xl font-black text-[#1a2744]">{primary.chapter}</h3>
+            <p className="mt-1 text-sm text-slate-500">{primary.classLevel} | {primary.subject} | {primary.book}</p>
+          </div>
+          <a href={primary.url} target="_blank" rel="noreferrer" className="inline-flex min-h-11 items-center gap-2 rounded-full bg-[#1a2744] px-4 text-sm font-black text-white">
+            Official NCERT <ExternalLink className="h-4 w-4" />
+          </a>
         </div>
-        <a href={ncert.url} target="_blank" rel="noreferrer" className="inline-flex min-h-11 items-center gap-2 rounded-full bg-[#1a2744] px-4 text-sm font-black text-white">
-          Official PDF <ExternalLink className="h-4 w-4" />
-        </a>
-      </div>
-      {isPdf ? (
-        <iframe title={`${ncert.chapter} NCERT`} src={ncert.url} className="mt-5 h-[72vh] min-h-[520px] w-full rounded-2xl border border-slate-200 bg-slate-100" />
-      ) : (
+      ) : null}
+      {primary && isPdf ? (
+        <iframe title={`${primary.chapter} NCERT`} src={primary.url} className="mt-5 h-[72vh] min-h-[520px] w-full rounded-2xl border border-slate-200 bg-slate-100" />
+      ) : primary ? (
         <div className="mt-5 rounded-2xl bg-slate-50 p-5 text-sm text-slate-600">
           This NCERT entry opens on the official NCERT textbook page.
+        </div>
+      ) : null}
+      {ncerts.length > 1 ? (
+        <div className="mt-5 grid gap-3 sm:grid-cols-2">
+          {ncerts.slice(1, 5).map((item) => (
+            <a key={`${item.classLevel}-${item.book}-${item.chapter}`} href={item.url} target="_blank" rel="noreferrer" className="rounded-2xl border border-slate-200 bg-slate-50 p-4 hover:border-indigo-300">
+              <p className="text-xs font-black uppercase tracking-[0.14em] text-slate-500">{item.classLevel} | {item.subject}</p>
+              <p className="mt-2 text-sm font-black leading-6 text-[#1a2744]">{item.chapter}</p>
+              <p className="mt-1 text-xs font-bold text-slate-500">{item.book}</p>
+            </a>
+          ))}
+        </div>
+      ) : null}
+      {hasCoverage ? (
+        <div className="mt-5 rounded-2xl border border-amber-200 bg-amber-50 p-4">
+          <p className="text-xs font-black uppercase tracking-[0.16em] text-amber-700">NCERT coverage in these notes</p>
+          <div className="mt-3 grid gap-2">
+            {coverage.slice(0, 8).map((item) => (
+              <div key={item} className="rounded-xl bg-white/80 px-3 py-2 text-sm font-bold leading-6 text-amber-950">
+                {item}
+              </div>
+            ))}
+          </div>
+        </div>
+      ) : (
+        <div className="mt-5 rounded-2xl border border-slate-200 bg-slate-50 p-4 text-sm font-bold text-slate-600">
+          Detailed NCERT chapter coverage is being reviewed for this topic.
         </div>
       )}
       <Link href="/study/ncert" className="mt-4 inline-flex min-h-11 items-center gap-2 rounded-full border border-slate-200 px-4 text-sm font-black text-[#1a2744]">

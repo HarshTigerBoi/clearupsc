@@ -7,7 +7,7 @@ const { url, serviceKey } = requireSupabaseEnv();
 const supabase = createClient(url, serviceKey, { auth: { persistSession: false } });
 const ncertLibrary = loadNcertLibrary();
 
-const topics = await fetchAllTopics("key,title,subject,ncert_refs");
+const topics = await fetchAllTopics("key,title,subject,ncert_refs,structured_notes");
 
 const missingTopics = [];
 const mappedCounts = {};
@@ -26,7 +26,7 @@ let processed = 0;
 for (const batch of chunks(updates, 25)) {
   await Promise.all(
     batch.map(async (item) => {
-      const updatePayload = { ncert_refs: item.refs, content_quality: item.refs.length ? "human_review_needed" : "wiki_seeded" };
+      const updatePayload = { ncert_refs: item.refs };
       const { error: updateError } = await supabase.from("topics").update(updatePayload).eq("key", item.key);
       if (updateError) {
         const { error: fallbackError } = await supabase.from("topics").update({ ncert_refs: item.refs }).eq("key", item.key);
@@ -51,12 +51,13 @@ console.log(JSON.stringify(report, null, 2));
 function refsForTopic(topic) {
   const direct = ncertLibrary.filter((chapter) => chapter.topicKeys.includes(topic.key));
   if (direct.length) return direct;
-  const lower = `${topic.key} ${topic.title} ${topic.subject}`.toLowerCase();
+  const coverage = normalizeCoverage(topic.structured_notes);
+  const lower = `${topic.key} ${topic.title} ${topic.subject} ${coverage.join(" ")}`.toLowerCase();
   const scored = ncertLibrary
     .map((chapter) => ({
       chapter,
-      score: chapter.topicKeys.reduce((sum, key) => {
-        const words = key.split("_").filter((word) => word.length > 3);
+      score: [...chapter.topicKeys, chapter.book, chapter.chapter, chapter.subject].reduce((sum, key) => {
+        const words = String(key).toLowerCase().split(/[^a-z0-9]+/).filter((word) => word.length > 3);
         return sum + words.filter((word) => lower.includes(word)).length;
       }, 0),
     }))
@@ -65,6 +66,20 @@ function refsForTopic(topic) {
     .slice(0, 2)
     .map((item) => item.chapter);
   return scored;
+}
+
+function normalizeCoverage(notes) {
+  const parsed = typeof notes === "string" ? safeJson(notes) : notes;
+  if (!parsed || typeof parsed !== "object" || !Array.isArray(parsed.ncert_coverage)) return [];
+  return parsed.ncert_coverage.filter((item) => typeof item === "string");
+}
+
+function safeJson(value) {
+  try {
+    return JSON.parse(value);
+  } catch {
+    return null;
+  }
 }
 
 function loadNcertLibrary() {

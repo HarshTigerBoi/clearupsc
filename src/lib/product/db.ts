@@ -424,8 +424,9 @@ export async function getQuestionPool(testId: string): Promise<PYQQuestion[]> {
   const limit = test?.test_type === "prelims_full" ? 100 : Number(test?.duration_minutes ?? 20) >= 120 ? 80 : 30;
   const { data } = await supabase
     .from("questions")
-    .select("id,question_text,year,tags,model_answer,question_options(option_label,option_text,is_correct)")
+    .select("id,question_text,year,tags,explanation,source_label,trap_type,question_options(option_label,option_text,is_correct)")
     .eq("question_type", "mcq")
+    .not("explanation", "is", null)
     .limit(limit);
   const dbQuestions = (data ?? []).map((row): PYQQuestion | null => {
     const optionsRaw = row.question_options as Array<{ option_label?: string; option_text?: string; is_correct?: boolean }> | null;
@@ -442,7 +443,10 @@ export async function getQuestionPool(testId: string): Promise<PYQQuestion[]> {
         .sort((a, b) => String(a.option_label).localeCompare(String(b.option_label)))
         .map((option) => ({ label: option.option_label as "A" | "B" | "C" | "D", text: String(option.option_text) })),
       correct: correct as "A" | "B" | "C" | "D",
-      explanation: String(row.model_answer ?? "Read the statement carefully, connect it with syllabus demand, and remove options that are absolute or conceptually disconnected."),
+      explanation: String(row.explanation ?? "Read the statement carefully, connect it with syllabus demand, and remove options that are absolute or conceptually disconnected."),
+      sourceLabel: String(row.source_label ?? "ClearUPSC Pattern"),
+      sourceType: String(row.source_label ?? "").toLowerCase().includes("official") ? "official_pyq" : "clearupsc_original",
+      trapType: String(row.trap_type ?? "Concept trap"),
     };
   }).filter((item): item is PYQQuestion => Boolean(item));
 
