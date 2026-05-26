@@ -8,10 +8,40 @@ import { createClient } from "@/lib/supabase/client";
 
 export function LoginModal({ open, onClose }: { open: boolean; onClose: () => void }) {
   const [email, setEmail] = useState("");
-  const [status, setStatus] = useState<"idle" | "sending" | "sent" | "error">("idle");
+  const [status, setStatus] = useState<"idle" | "sending" | "github" | "sent" | "error">("idle");
   const [message, setMessage] = useState("");
 
   if (!open) return null;
+
+  function getCallbackUrl() {
+    const origin = window.location.origin;
+    const next = new URLSearchParams(window.location.search).get("next");
+    return next?.startsWith("/")
+      ? `${origin}/auth/callback?next=${encodeURIComponent(next)}`
+      : `${origin}/auth/callback`;
+  }
+
+  async function signInWithGithub() {
+    setStatus("github");
+    setMessage("");
+
+    if (!hasSupabaseConfig()) {
+      setStatus("error");
+      setMessage("Login is temporarily unavailable. Please try again after configuration is restored.");
+      return;
+    }
+
+    const supabase = createClient();
+    const { error } = await supabase.auth.signInWithOAuth({
+      provider: "github",
+      options: { redirectTo: getCallbackUrl() },
+    });
+
+    if (error) {
+      setStatus("error");
+      setMessage(`Auth error: ${error?.message || error?.status || JSON.stringify(error)}`);
+    }
+  }
 
   async function sendMagicLink() {
     if (!/^\S+@\S+\.\S+$/.test(email)) {
@@ -30,14 +60,9 @@ export function LoginModal({ open, onClose }: { open: boolean; onClose: () => vo
     }
 
     const supabase = createClient();
-    const origin = window.location.origin;
-    const next = new URLSearchParams(window.location.search).get("next");
-    const callbackUrl = next?.startsWith("/")
-      ? `${origin}/auth/callback?next=${encodeURIComponent(next)}`
-      : `${origin}/auth/callback`;
     const { error } = await supabase.auth.signInWithOtp({
       email,
-      options: { emailRedirectTo: callbackUrl },
+      options: { emailRedirectTo: getCallbackUrl() },
     });
 
     if (error) {
@@ -63,6 +88,15 @@ export function LoginModal({ open, onClose }: { open: boolean; onClose: () => vo
           </button>
         </div>
         <div className="mt-5 space-y-3">
+          <Button className="min-h-11 w-full gap-2 bg-[#24292f] text-white hover:bg-[#1f2328]" disabled={status === "github"} onClick={signInWithGithub}>
+            <span className="grid h-5 w-5 place-items-center rounded-full bg-white text-xs font-black text-[#24292f]">GH</span>
+            {status === "github" ? "Opening GitHub..." : "Continue with GitHub"}
+          </Button>
+          <div className="flex items-center gap-3">
+            <span className="h-px flex-1 bg-slate-200" />
+            <span className="text-xs font-bold uppercase tracking-[0.18em] text-slate-400">or</span>
+            <span className="h-px flex-1 bg-slate-200" />
+          </div>
           <input
             className="w-full rounded-lg border border-[#e2e8f0] px-3 py-3 text-sm outline-none focus:border-[#f97316] focus:ring-4 focus:ring-orange-100"
             type="email"
