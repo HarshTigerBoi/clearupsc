@@ -36,12 +36,12 @@ export default function MockTestsPage() {
         {testsQuery.isError ? <StateBox title="No mocks loaded" body="Seed mock_tests and question data in Supabase to start protected mock attempts." /> : null}
         <div className="mt-6 grid gap-4 md:grid-cols-2">
           {(testsQuery.data ?? []).map((test) => (
-            <Link key={test.id} href={`/prelims/mock-tests/${test.id}`} className="rounded-2xl border border-slate-200 bg-white p-5 shadow-sm hover:border-[#f97316]">
+            <Link key={test.id} href={`/prelims/mock-tests/${test.id}`} className="block min-h-44 rounded-2xl border border-slate-200 bg-white p-4 shadow-sm hover:border-[#f97316] sm:p-5">
               <div className="flex items-start justify-between gap-3">
-                <FileQuestion className="text-[#f97316]" />
+                <FileQuestion className="h-6 w-6 shrink-0 text-[#f97316]" />
                 <span className="rounded-full bg-slate-100 px-3 py-1 text-xs font-black text-[#1a2744]">{typeLabel(test.test_type ?? test.testType)}</span>
               </div>
-              <h2 className="mt-4 text-xl font-black text-[#1a2744]">{test.title}</h2>
+              <h2 className="mt-4 break-words text-lg font-black leading-6 text-[#1a2744] sm:text-xl">{test.title}</h2>
               <p className="mt-2 flex items-center gap-2 text-sm font-semibold text-slate-500">
                 <Clock className="h-4 w-4" /> {test.duration_minutes ?? test.durationMinutes ?? 20} minutes
               </p>
@@ -53,7 +53,7 @@ export default function MockTestsPage() {
                   </PieChart>
                 </ResponsiveContainer>
               </div>
-              <p className="mt-4 inline-flex rounded-full bg-[#1a2744] px-4 py-2 text-sm font-black text-white">Start mock</p>
+              <p className="mt-4 inline-flex min-h-11 w-full items-center justify-center rounded-full bg-[#1a2744] px-4 py-2 text-sm font-black text-white sm:w-auto">Start mock</p>
             </Link>
           ))}
         </div>

@@ -62,15 +62,15 @@ export default function ActiveMockPage({ params }: { params: { id: string } }) {
 
   return (
     <ProductShell>
-      <section className="mx-auto max-w-4xl px-4 py-8 sm:px-6 lg:px-8">
-        <div className="rounded-2xl border border-slate-200 bg-white p-5 shadow-sm">
-          <p className="text-sm font-black uppercase tracking-[0.18em] text-[#f97316]">Active mock</p>
+      <section className="mx-auto max-w-4xl px-4 py-6 sm:px-6 sm:py-8 lg:px-8">
+        <div className="rounded-2xl border border-slate-200 bg-white p-4 shadow-sm sm:p-5">
+          <p className="text-xs font-black uppercase tracking-[0.12em] text-[#f97316] sm:text-sm sm:tracking-[0.18em]">Active mock</p>
           <div className="mt-3 flex flex-wrap items-center gap-3 text-sm font-bold text-slate-500">
             <span className="inline-flex items-center gap-2 rounded-full bg-slate-100 px-3 py-1">
               <Clock className="h-4 w-4" /> {Math.floor(seconds / 60)}:{String(seconds % 60).padStart(2, "0")}
             </span>
             <span>{Object.keys(answers).length} of {questions.length} attempted</span>
-            <button onClick={() => setPaused((value) => !value)} className="min-h-9 rounded-full bg-slate-100 px-3 text-xs font-black text-[#1a2744]">
+            <button onClick={() => setPaused((value) => !value)} className="min-h-11 rounded-full bg-slate-100 px-4 text-xs font-black text-[#1a2744]">
               {paused ? "Resume" : "Pause"}
             </button>
           </div>
@@ -79,11 +79,11 @@ export default function ActiveMockPage({ params }: { params: { id: string } }) {
 
           {result ? (
             <div className="mt-5">
-              <h1 className="text-4xl font-black text-[#1a2744]">{result.score} marks</h1>
+              <h1 className="text-3xl font-black text-[#1a2744] sm:text-4xl">{result.score} marks</h1>
               <p className="mt-2 text-sm text-slate-500">{result.correct} correct · {result.wrong} wrong · {result.unattempted} unattempted</p>
               <div className="mt-5 grid gap-3 sm:grid-cols-2">
                 {result.subjectBreakdown.map((item) => (
-                  <div key={item.subject} className="rounded-2xl bg-slate-50 p-4">
+                  <div key={item.subject} className="min-w-0 rounded-2xl bg-slate-50 p-4">
                     <p className="font-black text-[#1a2744]">{item.subject}</p>
                     <p className="mt-1 text-sm text-slate-500">{item.correct}/{item.total} correct</p>
                   </div>
@@ -104,14 +104,14 @@ export default function ActiveMockPage({ params }: { params: { id: string } }) {
           ) : (
             <div className="mt-5 space-y-5">
               {questions.map((question, index) => (
-                <div key={question.id} className="rounded-2xl bg-slate-50 p-4">
-                  <p className="font-black text-[#1a2744]">{index + 1}. {question.question}</p>
+                <div key={question.id} className="rounded-2xl bg-slate-50 p-4 sm:p-5">
+                  <p className="break-words text-base font-black leading-7 text-[#1a2744]">{index + 1}. {question.question}</p>
                   <div className="mt-3 grid gap-2 sm:grid-cols-2">
                     {question.options.map((option) => (
                       <button
                         key={option.label}
                         onClick={() => setAnswers({ ...answers, [question.id]: option.label })}
-                        className={`rounded-xl border p-3 text-left text-sm ${answers[question.id] === option.label ? "border-[#f97316] bg-orange-50 font-black" : "border-slate-200 bg-white"}`}
+                        className={`min-h-14 w-full rounded-xl border p-4 text-left text-sm leading-6 sm:text-base ${answers[question.id] === option.label ? "border-[#f97316] bg-orange-50 font-black" : "border-slate-200 bg-white"}`}
                       >
                         {option.label}. {option.text}
                       </button>
@@ -119,7 +119,7 @@ export default function ActiveMockPage({ params }: { params: { id: string } }) {
                   </div>
                 </div>
               ))}
-              <Button onClick={submit} disabled={!questions.length}>Submit mock</Button>
+              <Button onClick={submit} disabled={!questions.length} className="min-h-12 w-full sm:w-auto">Submit mock</Button>
             </div>
           )}
         </div>

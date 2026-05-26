@@ -113,11 +113,11 @@ export default function OnboardingPage() {
       <section className="w-full max-w-2xl rounded-2xl border border-white/10 bg-white/[0.03] p-5 shadow-2xl sm:p-8">
         {screens[step]}
         {error ? <p className="mt-5 rounded-md border border-red-500/30 bg-red-500/10 px-4 py-3 text-sm font-bold text-red-200">{error}</p> : null}
-        <div className="mt-9 flex items-center justify-between gap-3">
+        <div className="mt-9 flex flex-col gap-3 sm:flex-row sm:items-center sm:justify-between">
           <button
             type="button"
             onClick={() => setStep((value) => Math.max(0, value - 1))}
-            className="min-h-12 rounded-md border border-white/10 px-5 text-sm font-black text-white transition hover:border-[#f97316] hover:text-[#f97316]"
+            className="min-h-12 w-full rounded-md border border-white/10 px-5 text-sm font-black text-white transition hover:border-[#f97316] hover:text-[#f97316] sm:w-auto"
           >
             Back
           </button>
@@ -125,7 +125,7 @@ export default function OnboardingPage() {
             type="button"
             onClick={() => (step === screens.length - 1 ? finish() : setStep((value) => value + 1))}
             disabled={saving}
-            className="min-h-12 rounded-md bg-[#f97316] px-5 text-sm font-black text-white transition hover:bg-[#ea580c] disabled:opacity-60"
+            className="min-h-12 w-full rounded-md bg-[#f97316] px-5 text-sm font-black text-white transition hover:bg-[#ea580c] disabled:opacity-60 sm:w-auto"
           >
             {step === screens.length - 1 ? (saving ? "Saving..." : "Build Dashboard") : "Next"}
           </button>
@@ -138,8 +138,8 @@ export default function OnboardingPage() {
 function Question({ eyebrow, title, children }: { eyebrow: string; title: string; children: React.ReactNode }) {
   return (
     <div>
-      <p className="text-xs font-black uppercase tracking-[0.22em] text-[#f97316]">{eyebrow}</p>
-      <h1 className="mt-4 text-4xl font-black tracking-normal text-white sm:text-5xl">{title}</h1>
+      <p className="text-xs font-black uppercase tracking-[0.14em] text-[#f97316] sm:tracking-[0.22em]">{eyebrow}</p>
+      <h1 className="mt-4 text-3xl font-black tracking-normal text-white sm:text-5xl">{title}</h1>
       {children}
     </div>
   );
@@ -154,7 +154,7 @@ function Choice({ active, onClick, children }: { active: boolean; onClick: () =>
     <button
       type="button"
       onClick={onClick}
-      className={`min-h-14 rounded-md border px-4 text-left text-sm font-black transition ${
+      className={`min-h-16 w-full rounded-md border px-4 text-left text-base font-black transition ${
         active ? "border-[#f97316] bg-[#f97316] text-white" : "border-white/10 bg-white/5 text-zinc-300 hover:border-[#f97316] hover:text-white"
       }`}
     >

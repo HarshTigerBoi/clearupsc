@@ -100,18 +100,18 @@ export default function DashboardPage() {
               <summary className="cursor-pointer list-none px-5 py-4 text-sm font-black uppercase tracking-[0.14em] text-slate-500">
                 Full Dashboard Details
               </summary>
-              <div className="border-t border-slate-100 p-5">
-                <div className="grid gap-4 md:grid-cols-4">
+              <div className="border-t border-slate-100 p-4 sm:p-5">
+                <div className="grid grid-cols-2 gap-3 md:grid-cols-4 md:gap-4">
                   {[
                     { label: "Syllabus", value: `${stats.syllabusCompletion}%`, helper: "Completion across GS + CSAT", icon: Target },
                     { label: "Streak", value: `${stats.currentStreak} days`, helper: "Consecutive study days", icon: Flame },
                     { label: "Cards due", value: String(stats.cardsDue), helper: "SM-2 recall queue", icon: Brain },
                     { label: "Mock trend", value: stats.mockScoreTrend, helper: "Prelims target: 120+", icon: CheckCircle2 },
                   ].map((item) => (
-                    <div key={item.label} className="rounded-2xl border border-slate-200 bg-white p-5 shadow-sm">
+                    <div key={item.label} className="min-w-0 rounded-2xl border border-slate-200 bg-white p-4 shadow-sm sm:p-5">
                       <item.icon className="text-[#f97316]" size={22} />
-                      <p className="mt-4 text-xs font-bold uppercase tracking-[0.18em] text-slate-500">{item.label}</p>
-                      <p className="mt-2 text-3xl font-black text-[#1a2744]">{item.value}</p>
+                      <p className="mt-4 text-[11px] font-bold uppercase tracking-[0.12em] text-slate-500 sm:text-xs sm:tracking-[0.18em]">{item.label}</p>
+                      <p className="mt-2 break-words text-2xl font-black text-[#1a2744] sm:text-3xl">{item.value}</p>
                       <p className="mt-1 text-sm text-slate-500">{item.helper}</p>
                     </div>
                   ))}
@@ -322,11 +322,11 @@ function NextActionCard({ stats }: { stats: UserStats }) {
   const action = stats.nextAction;
 
   return (
-    <section className="mt-6 overflow-hidden rounded-2xl bg-[#0a0a0a] p-6 text-white shadow-sm sm:p-8">
+    <section className="mt-6 w-full overflow-hidden rounded-2xl bg-[#0a0a0a] p-5 text-white shadow-sm sm:p-8">
       <div className="flex flex-col gap-7 lg:flex-row lg:items-end lg:justify-between">
-        <div className="max-w-3xl">
+        <div className="min-w-0 max-w-3xl">
           <p className="text-xs font-black uppercase tracking-[0.22em] text-[#f97316]">Next Action</p>
-          <h2 className="mt-4 text-4xl font-black tracking-normal text-white sm:text-5xl">{action.title}</h2>
+          <h2 className="mt-4 break-words text-3xl font-black tracking-normal text-white sm:text-5xl">{action.title}</h2>
           {action.topicTitle ? <p className="mt-3 text-xl font-black text-zinc-100">{action.topicTitle}</p> : null}
           {action.stepLabel ? <p className="mt-1 text-sm font-bold uppercase tracking-[0.16em] text-[#f97316]">{action.stepLabel}</p> : null}
           {typeof action.cardCount === "number" ? <p className="mt-3 text-xl font-black text-zinc-100">{action.cardCount} topics due</p> : null}
@@ -334,7 +334,7 @@ function NextActionCard({ stats }: { stats: UserStats }) {
         </div>
         <Link
           href={action.href}
-          className="inline-flex min-h-12 shrink-0 items-center justify-center rounded-md bg-[#f97316] px-6 text-sm font-black text-white transition hover:bg-[#ea580c]"
+          className="inline-flex min-h-12 w-full shrink-0 items-center justify-center rounded-md bg-[#f97316] px-6 text-sm font-black text-white transition hover:bg-[#ea580c] sm:w-auto"
         >
           {action.buttonLabel}
         </Link>

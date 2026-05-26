@@ -14,13 +14,13 @@ export default async function LandingPage() {
         <div className="mt-9 flex w-full max-w-sm flex-col gap-3 sm:max-w-none sm:flex-row sm:justify-center">
           <Link
             href="/optional-selector"
-            className="inline-flex min-h-12 items-center justify-center rounded-md bg-[#f97316] px-6 text-sm font-black text-white transition hover:bg-[#ea580c]"
+            className="inline-flex min-h-14 w-full items-center justify-center rounded-md bg-[#f97316] px-6 text-sm font-black text-white transition hover:bg-[#ea580c] sm:w-auto"
           >
             Start Preparing
           </Link>
           <Link
             href="/dashboard"
-            className="inline-flex min-h-12 items-center justify-center rounded-md border border-white/20 px-6 text-sm font-black text-white transition hover:border-[#f97316] hover:text-[#f97316]"
+            className="inline-flex min-h-14 w-full items-center justify-center rounded-md border border-white/20 px-6 text-sm font-black text-white transition hover:border-[#f97316] hover:text-[#f97316] sm:w-auto"
           >
             Open Dashboard
           </Link>

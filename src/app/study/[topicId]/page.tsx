@@ -262,7 +262,7 @@ export default function StudyTopicPage({ params }: { params: { topicId: string }
 
   return (
     <ProductShell>
-      <main className="scroll-smooth bg-slate-50 pb-28 text-slate-900">
+      <main className="scroll-smooth bg-slate-50 pb-48 text-slate-900 lg:pb-28">
         <Hero data={data} />
         <div className="mx-auto grid max-w-7xl gap-8 px-4 py-8 sm:px-6 lg:grid-cols-[160px_minmax(0,1fr)] lg:px-8">
           <StepSidebar activeStep={activeStep} />
@@ -344,14 +344,14 @@ export default function StudyTopicPage({ params }: { params: { topicId: string }
         </div>
 
         <MobileProgress activeStep={activeStep} />
-        <div className="fixed bottom-4 left-4 right-4 z-40 flex flex-wrap justify-center gap-2 rounded-3xl border border-slate-200 bg-white/95 p-2 shadow-2xl backdrop-blur md:left-1/2 md:right-auto md:-translate-x-1/2">
-          <button onClick={() => setActionPanel("flashcard")} className="min-h-11 rounded-full bg-[#1a2744] px-4 text-xs font-black text-white">
+        <div className="fixed bottom-4 left-3 right-3 z-40 grid grid-cols-3 gap-2 rounded-3xl border border-slate-200 bg-white/95 p-2 shadow-2xl backdrop-blur md:left-1/2 md:right-auto md:flex md:-translate-x-1/2 md:flex-wrap md:justify-center">
+          <button onClick={() => setActionPanel("flashcard")} className="min-h-11 rounded-full bg-[#1a2744] px-3 text-xs font-black text-white">
             Add Flashcard
           </button>
-          <button onClick={() => setActionPanel("note")} className="min-h-11 rounded-full border border-slate-200 px-4 text-xs font-black text-[#1a2744]">
+          <button onClick={() => setActionPanel("note")} className="min-h-11 rounded-full border border-slate-200 px-3 text-xs font-black text-[#1a2744]">
             Add Note
           </button>
-          <Link href={answerUrl} className="inline-flex min-h-11 items-center rounded-full border border-slate-200 px-4 text-xs font-black text-[#1a2744]">
+          <Link href={answerUrl} className="inline-flex min-h-11 items-center justify-center rounded-full border border-slate-200 px-3 text-center text-xs font-black text-[#1a2744]">
             Write Answer
           </Link>
         </div>
@@ -362,11 +362,11 @@ export default function StudyTopicPage({ params }: { params: { topicId: string }
 
 function CompleteAndContinue({ nextTopic, pending, onComplete }: { nextTopic: TopicLink | null; pending: boolean; onComplete: () => void }) {
   return (
-    <section className="rounded-[2rem] border border-green-200 bg-white p-5 shadow-sm sm:p-7">
-      <div className="flex flex-col gap-5 lg:flex-row lg:items-center lg:justify-between">
-        <div>
-          <p className="text-xs font-black uppercase tracking-[0.18em] text-green-700">Study flow complete</p>
-          <h2 className="mt-2 text-3xl font-black text-[#1a2744]">Mark Complete & Continue</h2>
+      <section className="rounded-[2rem] border border-green-200 bg-white p-5 shadow-sm sm:p-7">
+        <div className="flex flex-col gap-5 lg:flex-row lg:items-center lg:justify-between">
+          <div className="min-w-0">
+            <p className="text-xs font-black uppercase tracking-[0.18em] text-green-700">Study flow complete</p>
+            <h2 className="mt-2 text-2xl font-black text-[#1a2744] sm:text-3xl">Mark Complete & Continue</h2>
           <p className="mt-2 max-w-2xl text-sm leading-6 text-slate-600">
             Save this topic as completed in your progress tracker and move straight to {nextTopic ? nextTopic.title : "your dashboard"}.
           </p>
@@ -375,7 +375,7 @@ function CompleteAndContinue({ nextTopic, pending, onComplete }: { nextTopic: To
           type="button"
           onClick={onComplete}
           disabled={pending}
-          className="inline-flex min-h-12 shrink-0 items-center justify-center gap-2 rounded-full bg-green-600 px-5 text-sm font-black text-white shadow-sm transition hover:bg-green-700 disabled:opacity-60"
+            className="inline-flex min-h-12 w-full shrink-0 items-center justify-center gap-2 rounded-full bg-green-600 px-5 text-sm font-black text-white shadow-sm transition hover:bg-green-700 disabled:opacity-60 sm:w-auto"
         >
           <CheckCircle2 className="h-4 w-4" />
           {pending ? "Saving..." : "Mark Complete & Continue"}
@@ -392,7 +392,7 @@ function Hero({ data }: { data: TopicPayload }) {
       <div className="mx-auto max-w-7xl px-4 py-6 sm:px-6 lg:px-8">
         <div className="flex flex-col gap-5 lg:flex-row lg:items-end lg:justify-between">
           <div>
-            <div className="flex flex-wrap items-center gap-2 text-sm font-bold text-slate-500">
+              <div className="flex flex-wrap items-center gap-2 break-words text-sm font-bold text-slate-500">
               <Link href="/study" className="hover:text-[#1a2744]">Study</Link>
               <ChevronRight className="h-4 w-4" />
               <span>{paperLabel}</span>
@@ -401,7 +401,7 @@ function Hero({ data }: { data: TopicPayload }) {
               <ChevronRight className="h-4 w-4" />
               <span className="text-[#1a2744]">{data.topic.title}</span>
             </div>
-            <h1 className="mt-4 text-4xl font-black tracking-tight text-[#1a2744] sm:text-6xl">{data.topic.title}</h1>
+              <h1 className="mt-4 break-words text-4xl font-black tracking-tight text-[#1a2744] sm:text-6xl">{data.topic.title}</h1>
             <div className="mt-4 flex flex-wrap gap-2">
               <Badge>{data.topic.exam_stage}</Badge>
               <Badge>{data.readTime.full}</Badge>
@@ -492,7 +492,7 @@ function StepSidebar({ activeStep }: { activeStep: number }) {
 
 function MobileProgress({ activeStep }: { activeStep: number }) {
   return (
-    <div className="fixed inset-x-3 bottom-20 z-30 rounded-2xl border border-slate-200 bg-white/95 p-3 shadow-2xl backdrop-blur lg:hidden">
+      <div className="fixed inset-x-3 bottom-24 z-30 rounded-2xl border border-slate-200 bg-white/95 p-3 shadow-2xl backdrop-blur lg:hidden">
       <div className="flex items-center justify-between text-xs font-black text-[#1a2744]">
         <span>Step {activeStep + 1} of 6</span>
         <span>{steps[activeStep].label}</span>
@@ -513,12 +513,12 @@ function StepSection({ id, step, label, title, tone, children }: { id: string; s
       whileInView={{ opacity: 1, y: 0 }}
       viewport={{ once: true, margin: "-80px" }}
       transition={{ duration: 0.45, ease: "easeOut" }}
-      className={`relative scroll-mt-8 overflow-hidden rounded-[2rem] border border-slate-200 ${bg} p-5 shadow-sm sm:p-8`}
+        className={`relative scroll-mt-8 overflow-hidden rounded-[2rem] border border-slate-200 ${bg} p-4 shadow-sm sm:p-8`}
     >
       <span className="pointer-events-none absolute right-5 top-0 text-8xl font-black leading-none text-slate-200/70 sm:text-9xl">{step}</span>
       <div className="relative">
-        <p className="text-sm font-black uppercase tracking-[0.18em] text-slate-500">{label}</p>
-        <h2 className="mt-2 bg-gradient-to-r from-indigo-700 to-purple-700 bg-clip-text text-3xl font-black tracking-tight text-transparent sm:text-5xl">{title}</h2>
+          <p className="text-xs font-black uppercase tracking-[0.14em] text-slate-500 sm:text-sm sm:tracking-[0.18em]">{label}</p>
+          <h2 className="mt-2 bg-gradient-to-r from-indigo-700 to-purple-700 bg-clip-text text-3xl font-black tracking-tight text-transparent sm:text-5xl">{title}</h2>
         <div className="mt-6">{children}</div>
       </div>
     </motion.section>
@@ -868,10 +868,10 @@ function QuestionPractice({ topicId, questions, progress }: { topicId: string; q
                 const showCorrect = selected && question.correct === option.label;
                 const showWrong = selected === option.label && question.correct !== option.label && !question.reviewOnly;
                 return (
-                  <button
-                    key={`${question.id}-${option.label}`}
-                    onClick={() => setAnswers((current) => ({ ...current, [question.id]: option.label }))}
-                    className={`min-h-12 rounded-2xl border px-4 text-left text-sm font-bold transition ${
+                    <button
+                      key={`${question.id}-${option.label}`}
+                      onClick={() => setAnswers((current) => ({ ...current, [question.id]: option.label }))}
+                      className={`min-h-14 w-full rounded-2xl border px-4 py-3 text-left text-sm font-bold leading-6 transition sm:text-base ${
                       showCorrect
                         ? "border-green-300 bg-green-50 text-green-800"
                         : showWrong

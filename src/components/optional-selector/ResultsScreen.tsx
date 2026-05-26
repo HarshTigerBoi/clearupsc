@@ -29,12 +29,12 @@ export function ResultsScreen({
       <h1 className="mt-3 text-3xl font-extrabold text-[#1a2744]">Your Top Optional Subjects</h1>
       <div className="mt-8 grid gap-4">
         {results.slice(0, 3).map((result, index) => (
-          <div key={result.subject} className="rounded-xl border border-[#e2e8f0] bg-white p-5 shadow-sm">
+          <div key={result.subject} className="min-h-16 rounded-xl border border-[#e2e8f0] bg-white p-5 text-base shadow-sm">
             <div className="flex flex-col gap-4 sm:flex-row sm:items-start sm:justify-between">
               <div>
                 <div className="flex items-center gap-3">
                   <span className="grid h-8 w-8 place-items-center rounded-full bg-orange-100 text-sm font-black text-[#f97316]">{medals[index]}</span>
-                  <h2 className="text-2xl font-extrabold text-[#1a2744]">{result.subject}</h2>
+                  <h2 className="text-xl font-extrabold text-[#1a2744] sm:text-2xl">{result.subject}</h2>
                 </div>
                 <p className="mt-3 text-sm leading-6 text-[#64748b]">{result.reasoning}</p>
               </div>

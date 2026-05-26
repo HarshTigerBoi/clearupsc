@@ -16,12 +16,14 @@
 
 html {
   scroll-behavior: smooth;
+  overflow-x: hidden;
 }
 
 body {
   margin: 0;
   background: #ffffff;
   color: #0f172a;
+  overflow-x: hidden;
 }
 
 button,
@@ -31,4 +33,12 @@ input {
 
 button {
   cursor: pointer;
+}
+
+img,
+svg,
+canvas,
+video,
+iframe {
+  max-width: 100%;
 }

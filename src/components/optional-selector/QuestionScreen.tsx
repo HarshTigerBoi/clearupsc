@@ -21,9 +21,9 @@ export function QuestionScreen({
     <div className="mx-auto max-w-3xl">
       <Progress value={((currentStep + 1) / 6) * 100} />
       <div className="mt-6 flex items-center justify-between gap-3">
-        <p className="text-sm font-bold uppercase tracking-[0.16em] text-[#f97316]">Question {currentStep + 1} of 6</p>
+        <p className="text-xs font-bold uppercase tracking-[0.12em] text-[#f97316] sm:text-sm sm:tracking-[0.16em]">Question {currentStep + 1} of 6</p>
         {currentStep > 0 ? (
-          <button className="text-sm font-semibold text-[#64748b] hover:text-[#1a2744]" onClick={onBack}>
+          <button className="min-h-11 px-2 text-sm font-semibold text-[#64748b] hover:text-[#1a2744]" onClick={onBack}>
             Back
           </button>
         ) : null}
@@ -35,7 +35,7 @@ export function QuestionScreen({
           return (
             <button
               key={option.value}
-              className={`rounded-xl border p-5 text-left shadow-sm transition hover:border-[#f97316] hover:bg-orange-50 ${
+              className={`min-h-16 w-full rounded-xl border p-5 text-left text-base shadow-sm transition hover:border-[#f97316] hover:bg-orange-50 ${
                 selected ? "border-[#f97316] bg-orange-50" : "border-[#e2e8f0] bg-white"
               }`}
               onClick={() => onAnswer(option.value)}
