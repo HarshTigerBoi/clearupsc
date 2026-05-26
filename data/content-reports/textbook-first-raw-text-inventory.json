@@ -1,0 +1,1932 @@
+{
+  "generated_at": "2026-05-26T19:38:57.805Z",
+  "count": 321,
+  "files": [
+    {
+      "file": "gs1_art_class11_indian_art_ch01_prehistoric_rock_paintings.txt",
+      "key": "gs1_art_class11_indian_art_ch01_prehistoric_rock_paintings",
+      "path": "data/study/textbook-first/raw-text/gs1_art_class11_indian_art_ch01_prehistoric_rock_paintings.txt",
+      "characters": 13904
+    },
+    {
+      "file": "gs1_art_class11_indian_art_ch02_arts_of_the_indus_valley.txt",
+      "key": "gs1_art_class11_indian_art_ch02_arts_of_the_indus_valley",
+      "path": "data/study/textbook-first/raw-text/gs1_art_class11_indian_art_ch02_arts_of_the_indus_valley.txt",
+      "characters": 14090
+    },
+    {
+      "file": "gs1_art_class11_indian_art_ch03_arts_of_the_mauryan_period.txt",
+      "key": "gs1_art_class11_indian_art_ch03_arts_of_the_mauryan_period",
+      "path": "data/study/textbook-first/raw-text/gs1_art_class11_indian_art_ch03_arts_of_the_mauryan_period.txt",
+      "characters": 13676
+    },
+    {
+      "file": "gs1_art_class11_indian_art_ch04_post_mauryan_trends_in_indian_art_and_architecture.txt",
+      "key": "gs1_art_class11_indian_art_ch04_post_mauryan_trends_in_indian_art_and_architecture",
+      "path": "data/study/textbook-first/raw-text/gs1_art_class11_indian_art_ch04_post_mauryan_trends_in_indian_art_and_architecture.txt",
+      "characters": 48804
+    },
+    {
+      "file": "gs1_art_class11_indian_art_ch05_later_mural_traditions.txt",
+      "key": "gs1_art_class11_indian_art_ch05_later_mural_traditions",
+      "path": "data/study/textbook-first/raw-text/gs1_art_class11_indian_art_ch05_later_mural_traditions.txt",
+      "characters": 11330
+    },
+    {
+      "file": "gs1_art_class11_indian_art_ch06_temple_architecture_and_sculpture.txt",
+      "key": "gs1_art_class11_indian_art_ch06_temple_architecture_and_sculpture",
+      "path": "data/study/textbook-first/raw-text/gs1_art_class11_indian_art_ch06_temple_architecture_and_sculpture.txt",
+      "characters": 56738
+    },
+    {
+      "file": "gs1_art_class11_indian_art_ch07_indian_bronze_sculpture.txt",
+      "key": "gs1_art_class11_indian_art_ch07_indian_bronze_sculpture",
+      "path": "data/study/textbook-first/raw-text/gs1_art_class11_indian_art_ch07_indian_bronze_sculpture.txt",
+      "characters": 12917
+    },
+    {
+      "file": "gs1_art_class11_indian_art_ch08_some_aspects_of_indo_islamic_architecture.txt",
+      "key": "gs1_art_class11_indian_art_ch08_some_aspects_of_indo_islamic_architecture",
+      "path": "data/study/textbook-first/raw-text/gs1_art_class11_indian_art_ch08_some_aspects_of_indo_islamic_architecture.txt",
+      "characters": 34294
+    },
+    {
+      "file": "gs1_geo_class10_contemporary_india_ii_ch01_resources_and_development.txt",
+      "key": "gs1_geo_class10_contemporary_india_ii_ch01_resources_and_development",
+      "path": "data/study/textbook-first/raw-text/gs1_geo_class10_contemporary_india_ii_ch01_resources_and_development.txt",
+      "characters": 26863
+    },
+    {
+      "file": "gs1_geo_class10_contemporary_india_ii_ch02_forest_and_wildlife_resources.txt",
+      "key": "gs1_geo_class10_contemporary_india_ii_ch02_forest_and_wildlife_resources",
+      "path": "data/study/textbook-first/raw-text/gs1_geo_class10_contemporary_india_ii_ch02_forest_and_wildlife_resources.txt",
+      "characters": 13293
+    },
+    {
+      "file": "gs1_geo_class10_contemporary_india_ii_ch03_water_resources.txt",
+      "key": "gs1_geo_class10_contemporary_india_ii_ch03_water_resources",
+      "path": "data/study/textbook-first/raw-text/gs1_geo_class10_contemporary_india_ii_ch03_water_resources.txt",
+      "characters": 23349
+    },
+    {
+      "file": "gs1_geo_class10_contemporary_india_ii_ch04_agriculture.txt",
+      "key": "gs1_geo_class10_contemporary_india_ii_ch04_agriculture",
+      "path": "data/study/textbook-first/raw-text/gs1_geo_class10_contemporary_india_ii_ch04_agriculture.txt",
+      "characters": 24625
+    },
+    {
+      "file": "gs1_geo_class10_contemporary_india_ii_ch05_minerals_and_energy_resources.txt",
+      "key": "gs1_geo_class10_contemporary_india_ii_ch05_minerals_and_energy_resources",
+      "path": "data/study/textbook-first/raw-text/gs1_geo_class10_contemporary_india_ii_ch05_minerals_and_energy_resources.txt",
+      "characters": 31683
+    },
+    {
+      "file": "gs1_geo_class10_contemporary_india_ii_ch06_manufacturing_industries.txt",
+      "key": "gs1_geo_class10_contemporary_india_ii_ch06_manufacturing_industries",
+      "path": "data/study/textbook-first/raw-text/gs1_geo_class10_contemporary_india_ii_ch06_manufacturing_industries.txt",
+      "characters": 25200
+    },
+    {
+      "file": "gs1_geo_class10_contemporary_india_ii_ch07_lifelines_of_national_economy.txt",
+      "key": "gs1_geo_class10_contemporary_india_ii_ch07_lifelines_of_national_economy",
+      "path": "data/study/textbook-first/raw-text/gs1_geo_class10_contemporary_india_ii_ch07_lifelines_of_national_economy.txt",
+      "characters": 26491
+    },
+    {
+      "file": "gs1_geo_class11_india_ch01_location.txt",
+      "key": "gs1_geo_class11_india_ch01_location",
+      "path": "data/study/textbook-first/raw-text/gs1_geo_class11_india_ch01_location.txt",
+      "characters": 8790
+    },
+    {
+      "file": "gs1_geo_class11_india_ch02_structure_physiography.txt",
+      "key": "gs1_geo_class11_india_ch02_structure_physiography",
+      "path": "data/study/textbook-first/raw-text/gs1_geo_class11_india_ch02_structure_physiography.txt",
+      "characters": 23142
+    },
+    {
+      "file": "gs1_geo_class11_india_ch03_drainage_system.txt",
+      "key": "gs1_geo_class11_india_ch03_drainage_system",
+      "path": "data/study/textbook-first/raw-text/gs1_geo_class11_india_ch03_drainage_system.txt",
+      "characters": 28699
+    },
+    {
+      "file": "gs1_geo_class11_india_ch04_climate.txt",
+      "key": "gs1_geo_class11_india_ch04_climate",
+      "path": "data/study/textbook-first/raw-text/gs1_geo_class11_india_ch04_climate.txt",
+      "characters": 36175
+    },
+    {
+      "file": "gs1_geo_class11_india_ch05_natural_vegetation.txt",
+      "key": "gs1_geo_class11_india_ch05_natural_vegetation",
+      "path": "data/study/textbook-first/raw-text/gs1_geo_class11_india_ch05_natural_vegetation.txt",
+      "characters": 21825
+    },
+    {
+      "file": "gs1_geo_class11_india_ch06_soils.txt",
+      "key": "gs1_geo_class11_india_ch06_soils",
+      "path": "data/study/textbook-first/raw-text/gs1_geo_class11_india_ch06_soils.txt",
+      "characters": 49739
+    },
+    {
+      "file": "gs1_geo_class11_phys_ch01_geography_as_discipline.txt",
+      "key": "gs1_geo_class11_phys_ch01_geography_as_discipline",
+      "path": "data/study/textbook-first/raw-text/gs1_geo_class11_phys_ch01_geography_as_discipline.txt",
+      "characters": 25774
+    },
+    {
+      "file": "gs1_geo_class11_phys_ch02_origin_evolution_earth.txt",
+      "key": "gs1_geo_class11_phys_ch02_origin_evolution_earth",
+      "path": "data/study/textbook-first/raw-text/gs1_geo_class11_phys_ch02_origin_evolution_earth.txt",
+      "characters": 13440
+    },
+    {
+      "file": "gs1_geo_class11_phys_ch02_the_origin_and_evolution_of_earth.txt",
+      "key": "gs1_geo_class11_phys_ch02_the_origin_and_evolution_of_earth",
+      "path": "data/study/textbook-first/raw-text/gs1_geo_class11_phys_ch02_the_origin_and_evolution_of_earth.txt",
+      "characters": 13440
+    },
+    {
+      "file": "gs1_geo_class11_phys_ch03_interior_of_earth.txt",
+      "key": "gs1_geo_class11_phys_ch03_interior_of_earth",
+      "path": "data/study/textbook-first/raw-text/gs1_geo_class11_phys_ch03_interior_of_earth.txt",
+      "characters": 22964
+    },
+    {
+      "file": "gs1_geo_class11_phys_ch04_distribution_oceans_continents.txt",
+      "key": "gs1_geo_class11_phys_ch04_distribution_oceans_continents",
+      "path": "data/study/textbook-first/raw-text/gs1_geo_class11_phys_ch04_distribution_oceans_continents.txt",
+      "characters": 23547
+    },
+    {
+      "file": "gs1_geo_class11_phys_ch05_minerals_and_rocks.txt",
+      "key": "gs1_geo_class11_phys_ch05_minerals_and_rocks",
+      "path": "data/study/textbook-first/raw-text/gs1_geo_class11_phys_ch05_minerals_and_rocks.txt",
+      "characters": 33818
+    },
+    {
+      "file": "gs1_geo_class11_phys_ch06_geomorphic_processes.txt",
+      "key": "gs1_geo_class11_phys_ch06_geomorphic_processes",
+      "path": "data/study/textbook-first/raw-text/gs1_geo_class11_phys_ch06_geomorphic_processes.txt",
+      "characters": 43095
+    },
+    {
+      "file": "gs1_geo_class11_phys_ch07_landforms_evolution.txt",
+      "key": "gs1_geo_class11_phys_ch07_landforms_evolution",
+      "path": "data/study/textbook-first/raw-text/gs1_geo_class11_phys_ch07_landforms_evolution.txt",
+      "characters": 8338
+    },
+    {
+      "file": "gs1_geo_class11_phys_ch08_composition_and_structure_of_atmosphere.txt",
+      "key": "gs1_geo_class11_phys_ch08_composition_and_structure_of_atmosphere",
+      "path": "data/study/textbook-first/raw-text/gs1_geo_class11_phys_ch08_composition_and_structure_of_atmosphere.txt",
+      "characters": 20011
+    },
+    {
+      "file": "gs1_geo_class11_phys_ch09_solar_radiation_heat_balance_and_temperature.txt",
+      "key": "gs1_geo_class11_phys_ch09_solar_radiation_heat_balance_and_temperature",
+      "path": "data/study/textbook-first/raw-text/gs1_geo_class11_phys_ch09_solar_radiation_heat_balance_and_temperature.txt",
+      "characters": 24344
+    },
+    {
+      "file": "gs1_geo_class11_phys_ch10_atmospheric_circulation_and_weather_systems.txt",
+      "key": "gs1_geo_class11_phys_ch10_atmospheric_circulation_and_weather_systems",
+      "path": "data/study/textbook-first/raw-text/gs1_geo_class11_phys_ch10_atmospheric_circulation_and_weather_systems.txt",
+      "characters": 14023
+    },
+    {
+      "file": "gs1_geo_class11_phys_ch11_water_in_the_atmosphere.txt",
+      "key": "gs1_geo_class11_phys_ch11_water_in_the_atmosphere",
+      "path": "data/study/textbook-first/raw-text/gs1_geo_class11_phys_ch11_water_in_the_atmosphere.txt",
+      "characters": 25423
+    },
+    {
+      "file": "gs1_geo_class11_phys_ch12_world_climate_and_climate_change.txt",
+      "key": "gs1_geo_class11_phys_ch12_world_climate_and_climate_change",
+      "path": "data/study/textbook-first/raw-text/gs1_geo_class11_phys_ch12_world_climate_and_climate_change.txt",
+      "characters": 18429
+    },
+    {
+      "file": "gs1_geo_class11_phys_ch13_water_oceans.txt",
+      "key": "gs1_geo_class11_phys_ch13_water_oceans",
+      "path": "data/study/textbook-first/raw-text/gs1_geo_class11_phys_ch13_water_oceans.txt",
+      "characters": 17333
+    },
+    {
+      "file": "gs1_geo_class11_phys_ch14_movements_of_ocean_water.txt",
+      "key": "gs1_geo_class11_phys_ch14_movements_of_ocean_water",
+      "path": "data/study/textbook-first/raw-text/gs1_geo_class11_phys_ch14_movements_of_ocean_water.txt",
+      "characters": 14498
+    },
+    {
+      "file": "gs1_geo_class12_human_ch01_human_geography_nature_and_scope.txt",
+      "key": "gs1_geo_class12_human_ch01_human_geography_nature_and_scope",
+      "path": "data/study/textbook-first/raw-text/gs1_geo_class12_human_ch01_human_geography_nature_and_scope.txt",
+      "characters": 17816
+    },
+    {
+      "file": "gs1_geo_class12_human_ch02_world_population_distribution_density_and_growth.txt",
+      "key": "gs1_geo_class12_human_ch02_world_population_distribution_density_and_growth",
+      "path": "data/study/textbook-first/raw-text/gs1_geo_class12_human_ch02_world_population_distribution_density_and_growth.txt",
+      "characters": 15512
+    },
+    {
+      "file": "gs1_geo_class12_human_ch03_population_composition.txt",
+      "key": "gs1_geo_class12_human_ch03_population_composition",
+      "path": "data/study/textbook-first/raw-text/gs1_geo_class12_human_ch03_population_composition.txt",
+      "characters": 21735
+    },
+    {
+      "file": "gs1_geo_class12_human_ch04_human_development.txt",
+      "key": "gs1_geo_class12_human_ch04_human_development",
+      "path": "data/study/textbook-first/raw-text/gs1_geo_class12_human_ch04_human_development.txt",
+      "characters": 24646
+    },
+    {
+      "file": "gs1_geo_class12_human_ch05_primary_activities.txt",
+      "key": "gs1_geo_class12_human_ch05_primary_activities",
+      "path": "data/study/textbook-first/raw-text/gs1_geo_class12_human_ch05_primary_activities.txt",
+      "characters": 20140
+    },
+    {
+      "file": "gs1_geo_class12_human_ch06_secondary_activities.txt",
+      "key": "gs1_geo_class12_human_ch06_secondary_activities",
+      "path": "data/study/textbook-first/raw-text/gs1_geo_class12_human_ch06_secondary_activities.txt",
+      "characters": 23161
+    },
+    {
+      "file": "gs1_geo_class12_human_ch07_tertiary_and_quaternary_activities.txt",
+      "key": "gs1_geo_class12_human_ch07_tertiary_and_quaternary_activities",
+      "path": "data/study/textbook-first/raw-text/gs1_geo_class12_human_ch07_tertiary_and_quaternary_activities.txt",
+      "characters": 39561
+    },
+    {
+      "file": "gs1_geo_class12_human_ch08_transport_and_communication.txt",
+      "key": "gs1_geo_class12_human_ch08_transport_and_communication",
+      "path": "data/study/textbook-first/raw-text/gs1_geo_class12_human_ch08_transport_and_communication.txt",
+      "characters": 19485
+    },
+    {
+      "file": "gs1_geo_class12_india_people_economy_ch01_population_distribution_density_growth_and_composition.txt",
+      "key": "gs1_geo_class12_india_people_economy_ch01_population_distribution_density_growth_and_composition",
+      "path": "data/study/textbook-first/raw-text/gs1_geo_class12_india_people_economy_ch01_population_distribution_density_growth_and_composition.txt",
+      "characters": 31654
+    },
+    {
+      "file": "gs1_geo_class12_india_people_economy_ch02_migration.txt",
+      "key": "gs1_geo_class12_india_people_economy_ch02_migration",
+      "path": "data/study/textbook-first/raw-text/gs1_geo_class12_india_people_economy_ch02_migration.txt",
+      "characters": 14699
+    },
+    {
+      "file": "gs1_geo_class12_india_people_economy_ch03_human_development.txt",
+      "key": "gs1_geo_class12_india_people_economy_ch03_human_development",
+      "path": "data/study/textbook-first/raw-text/gs1_geo_class12_india_people_economy_ch03_human_development.txt",
+      "characters": 45845
+    },
+    {
+      "file": "gs1_geo_class12_india_people_economy_ch04_human_settlements.txt",
+      "key": "gs1_geo_class12_india_people_economy_ch04_human_settlements",
+      "path": "data/study/textbook-first/raw-text/gs1_geo_class12_india_people_economy_ch04_human_settlements.txt",
+      "characters": 28438
+    },
+    {
+      "file": "gs1_geo_class12_india_people_economy_ch05_land_resources_and_agriculture.txt",
+      "key": "gs1_geo_class12_india_people_economy_ch05_land_resources_and_agriculture",
+      "path": "data/study/textbook-first/raw-text/gs1_geo_class12_india_people_economy_ch05_land_resources_and_agriculture.txt",
+      "characters": 23052
+    },
+    {
+      "file": "gs1_geo_class12_india_people_economy_ch06_water_resources.txt",
+      "key": "gs1_geo_class12_india_people_economy_ch06_water_resources",
+      "path": "data/study/textbook-first/raw-text/gs1_geo_class12_india_people_economy_ch06_water_resources.txt",
+      "characters": 21167
+    },
+    {
+      "file": "gs1_geo_class12_india_people_economy_ch07_mineral_and_energy_resources.txt",
+      "key": "gs1_geo_class12_india_people_economy_ch07_mineral_and_energy_resources",
+      "path": "data/study/textbook-first/raw-text/gs1_geo_class12_india_people_economy_ch07_mineral_and_energy_resources.txt",
+      "characters": 24337
+    },
+    {
+      "file": "gs1_geo_class12_india_people_economy_ch08_manufacturing_industries.txt",
+      "key": "gs1_geo_class12_india_people_economy_ch08_manufacturing_industries",
+      "path": "data/study/textbook-first/raw-text/gs1_geo_class12_india_people_economy_ch08_manufacturing_industries.txt",
+      "characters": 18747
+    },
+    {
+      "file": "gs1_geo_class12_india_people_economy_ch09_planning_and_sustainable_development.txt",
+      "key": "gs1_geo_class12_india_people_economy_ch09_planning_and_sustainable_development",
+      "path": "data/study/textbook-first/raw-text/gs1_geo_class12_india_people_economy_ch09_planning_and_sustainable_development.txt",
+      "characters": 28057
+    },
+    {
+      "file": "gs1_geo_class7_our_environment_ch01_environment.txt",
+      "key": "gs1_geo_class7_our_environment_ch01_environment",
+      "path": "data/study/textbook-first/raw-text/gs1_geo_class7_our_environment_ch01_environment.txt",
+      "characters": 9552
+    },
+    {
+      "file": "gs1_geo_class7_our_environment_ch02_inside_our_earth.txt",
+      "key": "gs1_geo_class7_our_environment_ch02_inside_our_earth",
+      "path": "data/study/textbook-first/raw-text/gs1_geo_class7_our_environment_ch02_inside_our_earth.txt",
+      "characters": 7329
+    },
+    {
+      "file": "gs1_geo_class7_our_environment_ch03_our_changing_earth.txt",
+      "key": "gs1_geo_class7_our_environment_ch03_our_changing_earth",
+      "path": "data/study/textbook-first/raw-text/gs1_geo_class7_our_environment_ch03_our_changing_earth.txt",
+      "characters": 12322
+    },
+    {
+      "file": "gs1_geo_class7_our_environment_ch04_air.txt",
+      "key": "gs1_geo_class7_our_environment_ch04_air",
+      "path": "data/study/textbook-first/raw-text/gs1_geo_class7_our_environment_ch04_air.txt",
+      "characters": 16353
+    },
+    {
+      "file": "gs1_geo_class7_our_environment_ch05_water.txt",
+      "key": "gs1_geo_class7_our_environment_ch05_water",
+      "path": "data/study/textbook-first/raw-text/gs1_geo_class7_our_environment_ch05_water.txt",
+      "characters": 13556
+    },
+    {
+      "file": "gs1_geo_class7_our_environment_ch06_natural_vegetation_and_wildlife.txt",
+      "key": "gs1_geo_class7_our_environment_ch06_natural_vegetation_and_wildlife",
+      "path": "data/study/textbook-first/raw-text/gs1_geo_class7_our_environment_ch06_natural_vegetation_and_wildlife.txt",
+      "characters": 16391
+    },
+    {
+      "file": "gs1_geo_class7_our_environment_ch07_human_environment_settlement_transport_and_communication.txt",
+      "key": "gs1_geo_class7_our_environment_ch07_human_environment_settlement_transport_and_communication",
+      "path": "data/study/textbook-first/raw-text/gs1_geo_class7_our_environment_ch07_human_environment_settlement_transport_and_communication.txt",
+      "characters": 12446
+    },
+    {
+      "file": "gs1_geo_class8_resources_development_ch01_resources.txt",
+      "key": "gs1_geo_class8_resources_development_ch01_resources",
+      "path": "data/study/textbook-first/raw-text/gs1_geo_class8_resources_development_ch01_resources.txt",
+      "characters": 33156
+    },
+    {
+      "file": "gs1_geo_class8_resources_development_ch02_land_soil_water_natural_vegetation_and_wildlife_resources.txt",
+      "key": "gs1_geo_class8_resources_development_ch02_land_soil_water_natural_vegetation_and_wildlife_resources",
+      "path": "data/study/textbook-first/raw-text/gs1_geo_class8_resources_development_ch02_land_soil_water_natural_vegetation_and_wildlife_resources.txt",
+      "characters": 15916
+    },
+    {
+      "file": "gs1_geo_class8_resources_development_ch03_mineral_and_power_resources.txt",
+      "key": "gs1_geo_class8_resources_development_ch03_mineral_and_power_resources",
+      "path": "data/study/textbook-first/raw-text/gs1_geo_class8_resources_development_ch03_mineral_and_power_resources.txt",
+      "characters": 33134
+    },
+    {
+      "file": "gs1_geo_class8_resources_development_ch04_agriculture.txt",
+      "key": "gs1_geo_class8_resources_development_ch04_agriculture",
+      "path": "data/study/textbook-first/raw-text/gs1_geo_class8_resources_development_ch04_agriculture.txt",
+      "characters": 23146
+    },
+    {
+      "file": "gs1_geo_class8_resources_development_ch05_industries.txt",
+      "key": "gs1_geo_class8_resources_development_ch05_industries",
+      "path": "data/study/textbook-first/raw-text/gs1_geo_class8_resources_development_ch05_industries.txt",
+      "characters": 29380
+    },
+    {
+      "file": "gs1_geo_class8_resources_development_ch06_human_resources.txt",
+      "key": "gs1_geo_class8_resources_development_ch06_human_resources",
+      "path": "data/study/textbook-first/raw-text/gs1_geo_class8_resources_development_ch06_human_resources.txt",
+      "characters": 25135
+    },
+    {
+      "file": "gs1_hist_class10_contemporary_world_ii_ch01_rise_of_nationalism_in_europe.txt",
+      "key": "gs1_hist_class10_contemporary_world_ii_ch01_rise_of_nationalism_in_europe",
+      "path": "data/study/textbook-first/raw-text/gs1_hist_class10_contemporary_world_ii_ch01_rise_of_nationalism_in_europe.txt",
+      "characters": 58418
+    },
+    {
+      "file": "gs1_hist_class10_contemporary_world_ii_ch02_nationalism_in_india.txt",
+      "key": "gs1_hist_class10_contemporary_world_ii_ch02_nationalism_in_india",
+      "path": "data/study/textbook-first/raw-text/gs1_hist_class10_contemporary_world_ii_ch02_nationalism_in_india.txt",
+      "characters": 53790
+    },
+    {
+      "file": "gs1_hist_class10_contemporary_world_ii_ch03_the_making_of_a_global_world.txt",
+      "key": "gs1_hist_class10_contemporary_world_ii_ch03_the_making_of_a_global_world",
+      "path": "data/study/textbook-first/raw-text/gs1_hist_class10_contemporary_world_ii_ch03_the_making_of_a_global_world.txt",
+      "characters": 59424
+    },
+    {
+      "file": "gs1_hist_class10_contemporary_world_ii_ch04_the_age_of_industrialisation.txt",
+      "key": "gs1_hist_class10_contemporary_world_ii_ch04_the_age_of_industrialisation",
+      "path": "data/study/textbook-first/raw-text/gs1_hist_class10_contemporary_world_ii_ch04_the_age_of_industrialisation.txt",
+      "characters": 52329
+    },
+    {
+      "file": "gs1_hist_class10_contemporary_world_ii_ch05_print_culture_and_the_modern_world.txt",
+      "key": "gs1_hist_class10_contemporary_world_ii_ch05_print_culture_and_the_modern_world",
+      "path": "data/study/textbook-first/raw-text/gs1_hist_class10_contemporary_world_ii_ch05_print_culture_and_the_modern_world.txt",
+      "characters": 58560
+    },
+    {
+      "file": "gs1_hist_class11_themes_world_history_ch01_writing_and_city_life.txt",
+      "key": "gs1_hist_class11_themes_world_history_ch01_writing_and_city_life",
+      "path": "data/study/textbook-first/raw-text/gs1_hist_class11_themes_world_history_ch01_writing_and_city_life.txt",
+      "characters": 55014
+    },
+    {
+      "file": "gs1_hist_class11_themes_world_history_ch02_an_empire_across_three_continents.txt",
+      "key": "gs1_hist_class11_themes_world_history_ch02_an_empire_across_three_continents",
+      "path": "data/study/textbook-first/raw-text/gs1_hist_class11_themes_world_history_ch02_an_empire_across_three_continents.txt",
+      "characters": 110827
+    },
+    {
+      "file": "gs1_hist_class11_themes_world_history_ch03_nomadic_empires.txt",
+      "key": "gs1_hist_class11_themes_world_history_ch03_nomadic_empires",
+      "path": "data/study/textbook-first/raw-text/gs1_hist_class11_themes_world_history_ch03_nomadic_empires.txt",
+      "characters": 13409
+    },
+    {
+      "file": "gs1_hist_class11_themes_world_history_ch04_the_three_orders.txt",
+      "key": "gs1_hist_class11_themes_world_history_ch04_the_three_orders",
+      "path": "data/study/textbook-first/raw-text/gs1_hist_class11_themes_world_history_ch04_the_three_orders.txt",
+      "characters": 43383
+    },
+    {
+      "file": "gs1_hist_class11_themes_world_history_ch05_changing_cultural_traditions.txt",
+      "key": "gs1_hist_class11_themes_world_history_ch05_changing_cultural_traditions",
+      "path": "data/study/textbook-first/raw-text/gs1_hist_class11_themes_world_history_ch05_changing_cultural_traditions.txt",
+      "characters": 38861
+    },
+    {
+      "file": "gs1_hist_class11_themes_world_history_ch06_displacing_indigenous_peoples.txt",
+      "key": "gs1_hist_class11_themes_world_history_ch06_displacing_indigenous_peoples",
+      "path": "data/study/textbook-first/raw-text/gs1_hist_class11_themes_world_history_ch06_displacing_indigenous_peoples.txt",
+      "characters": 60407
+    },
+    {
+      "file": "gs1_hist_class11_themes_world_history_ch07_paths_to_modernisation.txt",
+      "key": "gs1_hist_class11_themes_world_history_ch07_paths_to_modernisation",
+      "path": "data/study/textbook-first/raw-text/gs1_hist_class11_themes_world_history_ch07_paths_to_modernisation.txt",
+      "characters": 78450
+    },
+    {
+      "file": "gs1_hist_class12_indian_history_i_ch01_bricks_beads_and_bones.txt",
+      "key": "gs1_hist_class12_indian_history_i_ch01_bricks_beads_and_bones",
+      "path": "data/study/textbook-first/raw-text/gs1_hist_class12_indian_history_i_ch01_bricks_beads_and_bones.txt",
+      "characters": 55541
+    },
+    {
+      "file": "gs1_hist_class12_indian_history_i_ch02_kings_farmers_and_towns.txt",
+      "key": "gs1_hist_class12_indian_history_i_ch02_kings_farmers_and_towns",
+      "path": "data/study/textbook-first/raw-text/gs1_hist_class12_indian_history_i_ch02_kings_farmers_and_towns.txt",
+      "characters": 56389
+    },
+    {
+      "file": "gs1_hist_class12_indian_history_i_ch03_kinship_caste_and_class.txt",
+      "key": "gs1_hist_class12_indian_history_i_ch03_kinship_caste_and_class",
+      "path": "data/study/textbook-first/raw-text/gs1_hist_class12_indian_history_i_ch03_kinship_caste_and_class.txt",
+      "characters": 63556
+    },
+    {
+      "file": "gs1_hist_class12_indian_history_i_ch04_thinkers_beliefs_and_buildings.txt",
+      "key": "gs1_hist_class12_indian_history_i_ch04_thinkers_beliefs_and_buildings",
+      "path": "data/study/textbook-first/raw-text/gs1_hist_class12_indian_history_i_ch04_thinkers_beliefs_and_buildings.txt",
+      "characters": 56125
+    },
+    {
+      "file": "gs1_hist_class12_indian_history_ii_ch01_through_the_eyes_of_travellers.txt",
+      "key": "gs1_hist_class12_indian_history_ii_ch01_through_the_eyes_of_travellers",
+      "path": "data/study/textbook-first/raw-text/gs1_hist_class12_indian_history_ii_ch01_through_the_eyes_of_travellers.txt",
+      "characters": 57770
+    },
+    {
+      "file": "gs1_hist_class12_indian_history_ii_ch02_bhakti_sufi_traditions.txt",
+      "key": "gs1_hist_class12_indian_history_ii_ch02_bhakti_sufi_traditions",
+      "path": "data/study/textbook-first/raw-text/gs1_hist_class12_indian_history_ii_ch02_bhakti_sufi_traditions.txt",
+      "characters": 67043
+    },
+    {
+      "file": "gs1_hist_class12_indian_history_ii_ch03_an_imperial_capital_vijayanagara.txt",
+      "key": "gs1_hist_class12_indian_history_ii_ch03_an_imperial_capital_vijayanagara",
+      "path": "data/study/textbook-first/raw-text/gs1_hist_class12_indian_history_ii_ch03_an_imperial_capital_vijayanagara.txt",
+      "characters": 45717
+    },
+    {
+      "file": "gs1_hist_class12_indian_history_ii_ch04_peasants_zamindars_and_the_state.txt",
+      "key": "gs1_hist_class12_indian_history_ii_ch04_peasants_zamindars_and_the_state",
+      "path": "data/study/textbook-first/raw-text/gs1_hist_class12_indian_history_ii_ch04_peasants_zamindars_and_the_state.txt",
+      "characters": 66432
+    },
+    {
+      "file": "gs1_hist_class12_indian_history_iii_ch01_colonialism_and_the_countryside.txt",
+      "key": "gs1_hist_class12_indian_history_iii_ch01_colonialism_and_the_countryside",
+      "path": "data/study/textbook-first/raw-text/gs1_hist_class12_indian_history_iii_ch01_colonialism_and_the_countryside.txt",
+      "characters": 68027
+    },
+    {
+      "file": "gs1_hist_class12_indian_history_iii_ch02_rebels_and_the_raj_1857.txt",
+      "key": "gs1_hist_class12_indian_history_iii_ch02_rebels_and_the_raj_1857",
+      "path": "data/study/textbook-first/raw-text/gs1_hist_class12_indian_history_iii_ch02_rebels_and_the_raj_1857.txt",
+      "characters": 62925
+    },
+    {
+      "file": "gs1_hist_class12_indian_history_iii_ch03_mahatma_gandhi_and_the_nationalist_movement.txt",
+      "key": "gs1_hist_class12_indian_history_iii_ch03_mahatma_gandhi_and_the_nationalist_movement",
+      "path": "data/study/textbook-first/raw-text/gs1_hist_class12_indian_history_iii_ch03_mahatma_gandhi_and_the_nationalist_movement.txt",
+      "characters": 72283
+    },
+    {
+      "file": "gs1_hist_class12_indian_history_iii_ch04_framing_the_constitution.txt",
+      "key": "gs1_hist_class12_indian_history_iii_ch04_framing_the_constitution",
+      "path": "data/study/textbook-first/raw-text/gs1_hist_class12_indian_history_iii_ch04_framing_the_constitution.txt",
+      "characters": 64562
+    },
+    {
+      "file": "gs1_hist_class7_our_pasts_ii_ch01_tracing_changes_through_a_thousand_years.txt",
+      "key": "gs1_hist_class7_our_pasts_ii_ch01_tracing_changes_through_a_thousand_years",
+      "path": "data/study/textbook-first/raw-text/gs1_hist_class7_our_pasts_ii_ch01_tracing_changes_through_a_thousand_years.txt",
+      "characters": 19047
+    },
+    {
+      "file": "gs1_hist_class7_our_pasts_ii_ch02_new_kings_and_kingdoms.txt",
+      "key": "gs1_hist_class7_our_pasts_ii_ch02_new_kings_and_kingdoms",
+      "path": "data/study/textbook-first/raw-text/gs1_hist_class7_our_pasts_ii_ch02_new_kings_and_kingdoms.txt",
+      "characters": 16274
+    },
+    {
+      "file": "gs1_hist_class7_our_pasts_ii_ch03_the_delhi_sultans.txt",
+      "key": "gs1_hist_class7_our_pasts_ii_ch03_the_delhi_sultans",
+      "path": "data/study/textbook-first/raw-text/gs1_hist_class7_our_pasts_ii_ch03_the_delhi_sultans.txt",
+      "characters": 10976
+    },
+    {
+      "file": "gs1_hist_class7_our_pasts_ii_ch04_the_mughal_empire.txt",
+      "key": "gs1_hist_class7_our_pasts_ii_ch04_the_mughal_empire",
+      "path": "data/study/textbook-first/raw-text/gs1_hist_class7_our_pasts_ii_ch04_the_mughal_empire.txt",
+      "characters": 12124
+    },
+    {
+      "file": "gs1_hist_class7_our_pasts_ii_ch05_rulers_and_buildings.txt",
+      "key": "gs1_hist_class7_our_pasts_ii_ch05_rulers_and_buildings",
+      "path": "data/study/textbook-first/raw-text/gs1_hist_class7_our_pasts_ii_ch05_rulers_and_buildings.txt",
+      "characters": 16535
+    },
+    {
+      "file": "gs1_hist_class7_our_pasts_ii_ch06_towns_traders_and_craftspersons.txt",
+      "key": "gs1_hist_class7_our_pasts_ii_ch06_towns_traders_and_craftspersons",
+      "path": "data/study/textbook-first/raw-text/gs1_hist_class7_our_pasts_ii_ch06_towns_traders_and_craftspersons.txt",
+      "characters": 22617
+    },
+    {
+      "file": "gs1_hist_class7_our_pasts_ii_ch07_tribes_nomads_and_settled_communities.txt",
+      "key": "gs1_hist_class7_our_pasts_ii_ch07_tribes_nomads_and_settled_communities",
+      "path": "data/study/textbook-first/raw-text/gs1_hist_class7_our_pasts_ii_ch07_tribes_nomads_and_settled_communities.txt",
+      "characters": 18884
+    },
+    {
+      "file": "gs1_hist_class7_our_pasts_ii_ch08_devotional_paths_to_the_divine.txt",
+      "key": "gs1_hist_class7_our_pasts_ii_ch08_devotional_paths_to_the_divine",
+      "path": "data/study/textbook-first/raw-text/gs1_hist_class7_our_pasts_ii_ch08_devotional_paths_to_the_divine.txt",
+      "characters": 18346
+    },
+    {
+      "file": "gs1_hist_class8_our_pasts_iii_ch01_how_when_and_where.txt",
+      "key": "gs1_hist_class8_our_pasts_iii_ch01_how_when_and_where",
+      "path": "data/study/textbook-first/raw-text/gs1_hist_class8_our_pasts_iii_ch01_how_when_and_where.txt",
+      "characters": 18740
+    },
+    {
+      "file": "gs1_hist_class8_our_pasts_iii_ch02_from_trade_to_territory.txt",
+      "key": "gs1_hist_class8_our_pasts_iii_ch02_from_trade_to_territory",
+      "path": "data/study/textbook-first/raw-text/gs1_hist_class8_our_pasts_iii_ch02_from_trade_to_territory.txt",
+      "characters": 33953
+    },
+    {
+      "file": "gs1_hist_class8_our_pasts_iii_ch03_ruling_the_countryside.txt",
+      "key": "gs1_hist_class8_our_pasts_iii_ch03_ruling_the_countryside",
+      "path": "data/study/textbook-first/raw-text/gs1_hist_class8_our_pasts_iii_ch03_ruling_the_countryside.txt",
+      "characters": 26162
+    },
+    {
+      "file": "gs1_hist_class8_our_pasts_iii_ch04_tribals_dikus_and_the_vision_of_a_golden_age.txt",
+      "key": "gs1_hist_class8_our_pasts_iii_ch04_tribals_dikus_and_the_vision_of_a_golden_age",
+      "path": "data/study/textbook-first/raw-text/gs1_hist_class8_our_pasts_iii_ch04_tribals_dikus_and_the_vision_of_a_golden_age.txt",
+      "characters": 23982
+    },
+    {
+      "file": "gs1_hist_class8_our_pasts_iii_ch05_when_people_rebel_1857.txt",
+      "key": "gs1_hist_class8_our_pasts_iii_ch05_when_people_rebel_1857",
+      "path": "data/study/textbook-first/raw-text/gs1_hist_class8_our_pasts_iii_ch05_when_people_rebel_1857.txt",
+      "characters": 28813
+    },
+    {
+      "file": "gs1_hist_class8_our_pasts_iii_ch06_weavers_iron_smelters_and_factory_owners.txt",
+      "key": "gs1_hist_class8_our_pasts_iii_ch06_weavers_iron_smelters_and_factory_owners",
+      "path": "data/study/textbook-first/raw-text/gs1_hist_class8_our_pasts_iii_ch06_weavers_iron_smelters_and_factory_owners.txt",
+      "characters": 25679
+    },
+    {
+      "file": "gs1_hist_class8_our_pasts_iii_ch07_civilising_the_native_educating_the_nation.txt",
+      "key": "gs1_hist_class8_our_pasts_iii_ch07_civilising_the_native_educating_the_nation",
+      "path": "data/study/textbook-first/raw-text/gs1_hist_class8_our_pasts_iii_ch07_civilising_the_native_educating_the_nation.txt",
+      "characters": 32609
+    },
+    {
+      "file": "gs1_hist_class8_our_pasts_iii_ch08_women_caste_and_reform.txt",
+      "key": "gs1_hist_class8_our_pasts_iii_ch08_women_caste_and_reform",
+      "path": "data/study/textbook-first/raw-text/gs1_hist_class8_our_pasts_iii_ch08_women_caste_and_reform.txt",
+      "characters": 39657
+    },
+    {
+      "file": "gs1_post_independence_class12_politics_india_ch01_challenges_of_nation_building.txt",
+      "key": "gs1_post_independence_class12_politics_india_ch01_challenges_of_nation_building",
+      "path": "data/study/textbook-first/raw-text/gs1_post_independence_class12_politics_india_ch01_challenges_of_nation_building.txt",
+      "characters": 44558
+    },
+    {
+      "file": "gs1_post_independence_class12_politics_india_ch02_era_of_one_party_dominance.txt",
+      "key": "gs1_post_independence_class12_politics_india_ch02_era_of_one_party_dominance",
+      "path": "data/study/textbook-first/raw-text/gs1_post_independence_class12_politics_india_ch02_era_of_one_party_dominance.txt",
+      "characters": 38558
+    },
+    {
+      "file": "gs1_post_independence_class12_politics_india_ch03_politics_of_planned_development.txt",
+      "key": "gs1_post_independence_class12_politics_india_ch03_politics_of_planned_development",
+      "path": "data/study/textbook-first/raw-text/gs1_post_independence_class12_politics_india_ch03_politics_of_planned_development.txt",
+      "characters": 20256
+    },
+    {
+      "file": "gs1_post_independence_class12_politics_india_ch04_india_s_external_relations.txt",
+      "key": "gs1_post_independence_class12_politics_india_ch04_india_s_external_relations",
+      "path": "data/study/textbook-first/raw-text/gs1_post_independence_class12_politics_india_ch04_india_s_external_relations.txt",
+      "characters": 37355
+    },
+    {
+      "file": "gs1_post_independence_class12_politics_india_ch05_challenges_to_and_restoration_of_congress_system.txt",
+      "key": "gs1_post_independence_class12_politics_india_ch05_challenges_to_and_restoration_of_congress_system",
+      "path": "data/study/textbook-first/raw-text/gs1_post_independence_class12_politics_india_ch05_challenges_to_and_restoration_of_congress_system.txt",
+      "characters": 40339
+    },
+    {
+      "file": "gs1_post_independence_class12_politics_india_ch06_rise_of_popular_movements.txt",
+      "key": "gs1_post_independence_class12_politics_india_ch06_rise_of_popular_movements",
+      "path": "data/study/textbook-first/raw-text/gs1_post_independence_class12_politics_india_ch06_rise_of_popular_movements.txt",
+      "characters": 37536
+    },
+    {
+      "file": "gs1_post_independence_class12_politics_india_ch07_regional_aspirations.txt",
+      "key": "gs1_post_independence_class12_politics_india_ch07_regional_aspirations",
+      "path": "data/study/textbook-first/raw-text/gs1_post_independence_class12_politics_india_ch07_regional_aspirations.txt",
+      "characters": 53225
+    },
+    {
+      "file": "gs1_post_independence_class12_politics_india_ch08_recent_developments_in_indian_politics.txt",
+      "key": "gs1_post_independence_class12_politics_india_ch08_recent_developments_in_indian_politics",
+      "path": "data/study/textbook-first/raw-text/gs1_post_independence_class12_politics_india_ch08_recent_developments_in_indian_politics.txt",
+      "characters": 39097
+    },
+    {
+      "file": "gs1_society_class11_introducing_sociology_ch01_sociology_and_society.txt",
+      "key": "gs1_society_class11_introducing_sociology_ch01_sociology_and_society",
+      "path": "data/study/textbook-first/raw-text/gs1_society_class11_introducing_sociology_ch01_sociology_and_society.txt",
+      "characters": 50700
+    },
+    {
+      "file": "gs1_society_class11_introducing_sociology_ch02_terms_concepts_and_their_use_in_sociology.txt",
+      "key": "gs1_society_class11_introducing_sociology_ch02_terms_concepts_and_their_use_in_sociology",
+      "path": "data/study/textbook-first/raw-text/gs1_society_class11_introducing_sociology_ch02_terms_concepts_and_their_use_in_sociology.txt",
+      "characters": 39546
+    },
+    {
+      "file": "gs1_society_class11_introducing_sociology_ch03_understanding_social_institutions.txt",
+      "key": "gs1_society_class11_introducing_sociology_ch03_understanding_social_institutions",
+      "path": "data/study/textbook-first/raw-text/gs1_society_class11_introducing_sociology_ch03_understanding_social_institutions.txt",
+      "characters": 47724
+    },
+    {
+      "file": "gs1_society_class11_introducing_sociology_ch04_culture_and_socialisation.txt",
+      "key": "gs1_society_class11_introducing_sociology_ch04_culture_and_socialisation",
+      "path": "data/study/textbook-first/raw-text/gs1_society_class11_introducing_sociology_ch04_culture_and_socialisation.txt",
+      "characters": 44975
+    },
+    {
+      "file": "gs1_society_class11_introducing_sociology_ch05_doing_sociology_research_methods.txt",
+      "key": "gs1_society_class11_introducing_sociology_ch05_doing_sociology_research_methods",
+      "path": "data/study/textbook-first/raw-text/gs1_society_class11_introducing_sociology_ch05_doing_sociology_research_methods.txt",
+      "characters": 57719
+    },
+    {
+      "file": "gs1_society_class11_understanding_society_ch01_social_structure_stratification_and_social_processes.txt",
+      "key": "gs1_society_class11_understanding_society_ch01_social_structure_stratification_and_social_processes",
+      "path": "data/study/textbook-first/raw-text/gs1_society_class11_understanding_society_ch01_social_structure_stratification_and_social_processes.txt",
+      "characters": 44990
+    },
+    {
+      "file": "gs1_society_class11_understanding_society_ch02_social_change_and_social_order_in_rural_and_urban_society.txt",
+      "key": "gs1_society_class11_understanding_society_ch02_social_change_and_social_order_in_rural_and_urban_society",
+      "path": "data/study/textbook-first/raw-text/gs1_society_class11_understanding_society_ch02_social_change_and_social_order_in_rural_and_urban_society.txt",
+      "characters": 64587
+    },
+    {
+      "file": "gs1_society_class11_understanding_society_ch03_environment_and_society.txt",
+      "key": "gs1_society_class11_understanding_society_ch03_environment_and_society",
+      "path": "data/study/textbook-first/raw-text/gs1_society_class11_understanding_society_ch03_environment_and_society.txt",
+      "characters": 32601
+    },
+    {
+      "file": "gs1_society_class11_understanding_society_ch04_introducing_western_sociologists.txt",
+      "key": "gs1_society_class11_understanding_society_ch04_introducing_western_sociologists",
+      "path": "data/study/textbook-first/raw-text/gs1_society_class11_understanding_society_ch04_introducing_western_sociologists.txt",
+      "characters": 45636
+    },
+    {
+      "file": "gs1_society_class11_understanding_society_ch05_indian_sociologists.txt",
+      "key": "gs1_society_class11_understanding_society_ch05_indian_sociologists",
+      "path": "data/study/textbook-first/raw-text/gs1_society_class11_understanding_society_ch05_indian_sociologists.txt",
+      "characters": 50912
+    },
+    {
+      "file": "gs1_society_class12_indian_society_ch01_introducing_indian_society.txt",
+      "key": "gs1_society_class12_indian_society_ch01_introducing_indian_society",
+      "path": "data/study/textbook-first/raw-text/gs1_society_class12_indian_society_ch01_introducing_indian_society.txt",
+      "characters": 9394
+    },
+    {
+      "file": "gs1_society_class12_indian_society_ch02_the_demographic_structure.txt",
+      "key": "gs1_society_class12_indian_society_ch02_the_demographic_structure",
+      "path": "data/study/textbook-first/raw-text/gs1_society_class12_indian_society_ch02_the_demographic_structure.txt",
+      "characters": 61340
+    },
+    {
+      "file": "gs1_society_class12_indian_society_ch03_social_institutions_continuity_and_change.txt",
+      "key": "gs1_society_class12_indian_society_ch03_social_institutions_continuity_and_change",
+      "path": "data/study/textbook-first/raw-text/gs1_society_class12_indian_society_ch03_social_institutions_continuity_and_change.txt",
+      "characters": 43961
+    },
+    {
+      "file": "gs1_society_class12_indian_society_ch04_the_market_as_a_social_institution.txt",
+      "key": "gs1_society_class12_indian_society_ch04_the_market_as_a_social_institution",
+      "path": "data/study/textbook-first/raw-text/gs1_society_class12_indian_society_ch04_the_market_as_a_social_institution.txt",
+      "characters": 38560
+    },
+    {
+      "file": "gs1_society_class12_indian_society_ch05_patterns_of_social_inequality_and_exclusion.txt",
+      "key": "gs1_society_class12_indian_society_ch05_patterns_of_social_inequality_and_exclusion",
+      "path": "data/study/textbook-first/raw-text/gs1_society_class12_indian_society_ch05_patterns_of_social_inequality_and_exclusion.txt",
+      "characters": 67463
+    },
+    {
+      "file": "gs1_society_class12_indian_society_ch06_the_challenges_of_cultural_diversity.txt",
+      "key": "gs1_society_class12_indian_society_ch06_the_challenges_of_cultural_diversity",
+      "path": "data/study/textbook-first/raw-text/gs1_society_class12_indian_society_ch06_the_challenges_of_cultural_diversity.txt",
+      "characters": 53665
+    },
+    {
+      "file": "gs1_society_class12_indian_society_ch07_suggestions_for_project_work.txt",
+      "key": "gs1_society_class12_indian_society_ch07_suggestions_for_project_work",
+      "path": "data/study/textbook-first/raw-text/gs1_society_class12_indian_society_ch07_suggestions_for_project_work.txt",
+      "characters": 18820
+    },
+    {
+      "file": "gs1_society_class12_social_change_ch01_structural_change.txt",
+      "key": "gs1_society_class12_social_change_ch01_structural_change",
+      "path": "data/study/textbook-first/raw-text/gs1_society_class12_social_change_ch01_structural_change.txt",
+      "characters": 29875
+    },
+    {
+      "file": "gs1_society_class12_social_change_ch02_cultural_change.txt",
+      "key": "gs1_society_class12_social_change_ch02_cultural_change",
+      "path": "data/study/textbook-first/raw-text/gs1_society_class12_social_change_ch02_cultural_change.txt",
+      "characters": 35673
+    },
+    {
+      "file": "gs1_society_class12_social_change_ch03_the_story_of_indian_democracy.txt",
+      "key": "gs1_society_class12_social_change_ch03_the_story_of_indian_democracy",
+      "path": "data/study/textbook-first/raw-text/gs1_society_class12_social_change_ch03_the_story_of_indian_democracy.txt",
+      "characters": 20554
+    },
+    {
+      "file": "gs1_society_class12_social_change_ch04_change_and_development_in_rural_society.txt",
+      "key": "gs1_society_class12_social_change_ch04_change_and_development_in_rural_society",
+      "path": "data/study/textbook-first/raw-text/gs1_society_class12_social_change_ch04_change_and_development_in_rural_society.txt",
+      "characters": 41746
+    },
+    {
+      "file": "gs1_society_class12_social_change_ch05_change_and_development_in_industrial_society.txt",
+      "key": "gs1_society_class12_social_change_ch05_change_and_development_in_industrial_society",
+      "path": "data/study/textbook-first/raw-text/gs1_society_class12_social_change_ch05_change_and_development_in_industrial_society.txt",
+      "characters": 30113
+    },
+    {
+      "file": "gs1_society_class12_social_change_ch06_globalisation_and_social_change.txt",
+      "key": "gs1_society_class12_social_change_ch06_globalisation_and_social_change",
+      "path": "data/study/textbook-first/raw-text/gs1_society_class12_social_change_ch06_globalisation_and_social_change.txt",
+      "characters": 40898
+    },
+    {
+      "file": "gs1_society_class12_social_change_ch07_mass_media_and_communications.txt",
+      "key": "gs1_society_class12_social_change_ch07_mass_media_and_communications",
+      "path": "data/study/textbook-first/raw-text/gs1_society_class12_social_change_ch07_mass_media_and_communications.txt",
+      "characters": 47081
+    },
+    {
+      "file": "gs1_society_class12_social_change_ch08_social_movements.txt",
+      "key": "gs1_society_class12_social_change_ch08_social_movements",
+      "path": "data/study/textbook-first/raw-text/gs1_society_class12_social_change_ch08_social_movements.txt",
+      "characters": 46961
+    },
+    {
+      "file": "gs2_ir_class12_world_politics_ch01_cold_war_era.txt",
+      "key": "gs2_ir_class12_world_politics_ch01_cold_war_era",
+      "path": "data/study/textbook-first/raw-text/gs2_ir_class12_world_politics_ch01_cold_war_era.txt",
+      "characters": 36961
+    },
+    {
+      "file": "gs2_ir_class12_world_politics_ch02_disintegration_of_ussr.txt",
+      "key": "gs2_ir_class12_world_politics_ch02_disintegration_of_ussr",
+      "path": "data/study/textbook-first/raw-text/gs2_ir_class12_world_politics_ch02_disintegration_of_ussr.txt",
+      "characters": 32446
+    },
+    {
+      "file": "gs2_ir_class12_world_politics_ch03_us_hegemony.txt",
+      "key": "gs2_ir_class12_world_politics_ch03_us_hegemony",
+      "path": "data/study/textbook-first/raw-text/gs2_ir_class12_world_politics_ch03_us_hegemony.txt",
+      "characters": 38732
+    },
+    {
+      "file": "gs2_ir_class12_world_politics_ch04_alternative_centres_of_power.txt",
+      "key": "gs2_ir_class12_world_politics_ch04_alternative_centres_of_power",
+      "path": "data/study/textbook-first/raw-text/gs2_ir_class12_world_politics_ch04_alternative_centres_of_power.txt",
+      "characters": 39227
+    },
+    {
+      "file": "gs2_ir_class12_world_politics_ch05_south_asia.txt",
+      "key": "gs2_ir_class12_world_politics_ch05_south_asia",
+      "path": "data/study/textbook-first/raw-text/gs2_ir_class12_world_politics_ch05_south_asia.txt",
+      "characters": 39399
+    },
+    {
+      "file": "gs2_ir_class12_world_politics_ch06_international_organisations.txt",
+      "key": "gs2_ir_class12_world_politics_ch06_international_organisations",
+      "path": "data/study/textbook-first/raw-text/gs2_ir_class12_world_politics_ch06_international_organisations.txt",
+      "characters": 41923
+    },
+    {
+      "file": "gs2_ir_class12_world_politics_ch07_security_in_the_contemporary_world.txt",
+      "key": "gs2_ir_class12_world_politics_ch07_security_in_the_contemporary_world",
+      "path": "data/study/textbook-first/raw-text/gs2_ir_class12_world_politics_ch07_security_in_the_contemporary_world.txt",
+      "characters": 27474
+    },
+    {
+      "file": "gs2_ir_class12_world_politics_ch08_environment_and_natural_resources.txt",
+      "key": "gs2_ir_class12_world_politics_ch08_environment_and_natural_resources",
+      "path": "data/study/textbook-first/raw-text/gs2_ir_class12_world_politics_ch08_environment_and_natural_resources.txt",
+      "characters": 39097
+    },
+    {
+      "file": "gs2_polity_class10_democratic_politics_ii_ch01_power_sharing.txt",
+      "key": "gs2_polity_class10_democratic_politics_ii_ch01_power_sharing",
+      "path": "data/study/textbook-first/raw-text/gs2_polity_class10_democratic_politics_ii_ch01_power_sharing.txt",
+      "characters": 26511
+    },
+    {
+      "file": "gs2_polity_class10_democratic_politics_ii_ch02_federalism.txt",
+      "key": "gs2_polity_class10_democratic_politics_ii_ch02_federalism",
+      "path": "data/study/textbook-first/raw-text/gs2_polity_class10_democratic_politics_ii_ch02_federalism.txt",
+      "characters": 33558
+    },
+    {
+      "file": "gs2_polity_class10_democratic_politics_ii_ch03_democracy_and_diversity.txt",
+      "key": "gs2_polity_class10_democratic_politics_ii_ch03_democracy_and_diversity",
+      "path": "data/study/textbook-first/raw-text/gs2_polity_class10_democratic_politics_ii_ch03_democracy_and_diversity.txt",
+      "characters": 34949
+    },
+    {
+      "file": "gs2_polity_class10_democratic_politics_ii_ch04_gender_religion_and_caste.txt",
+      "key": "gs2_polity_class10_democratic_politics_ii_ch04_gender_religion_and_caste",
+      "path": "data/study/textbook-first/raw-text/gs2_polity_class10_democratic_politics_ii_ch04_gender_religion_and_caste.txt",
+      "characters": 36338
+    },
+    {
+      "file": "gs2_polity_class10_democratic_politics_ii_ch05_popular_struggles_and_movements.txt",
+      "key": "gs2_polity_class10_democratic_politics_ii_ch05_popular_struggles_and_movements",
+      "path": "data/study/textbook-first/raw-text/gs2_polity_class10_democratic_politics_ii_ch05_popular_struggles_and_movements.txt",
+      "characters": 24946
+    },
+    {
+      "file": "gs2_polity_class11_constitution_ch01_why_and_how.txt",
+      "key": "gs2_polity_class11_constitution_ch01_why_and_how",
+      "path": "data/study/textbook-first/raw-text/gs2_polity_class11_constitution_ch01_why_and_how.txt",
+      "characters": 46632
+    },
+    {
+      "file": "gs2_polity_class11_constitution_ch02_rights.txt",
+      "key": "gs2_polity_class11_constitution_ch02_rights",
+      "path": "data/study/textbook-first/raw-text/gs2_polity_class11_constitution_ch02_rights.txt",
+      "characters": 43934
+    },
+    {
+      "file": "gs2_polity_class11_constitution_ch03_election_and_representation.txt",
+      "key": "gs2_polity_class11_constitution_ch03_election_and_representation",
+      "path": "data/study/textbook-first/raw-text/gs2_polity_class11_constitution_ch03_election_and_representation.txt",
+      "characters": 49026
+    },
+    {
+      "file": "gs2_polity_class11_constitution_ch04_executive.txt",
+      "key": "gs2_polity_class11_constitution_ch04_executive",
+      "path": "data/study/textbook-first/raw-text/gs2_polity_class11_constitution_ch04_executive.txt",
+      "characters": 40460
+    },
+    {
+      "file": "gs2_polity_class11_constitution_ch05_legislature.txt",
+      "key": "gs2_polity_class11_constitution_ch05_legislature",
+      "path": "data/study/textbook-first/raw-text/gs2_polity_class11_constitution_ch05_legislature.txt",
+      "characters": 39684
+    },
+    {
+      "file": "gs2_polity_class11_constitution_ch06_judiciary.txt",
+      "key": "gs2_polity_class11_constitution_ch06_judiciary",
+      "path": "data/study/textbook-first/raw-text/gs2_polity_class11_constitution_ch06_judiciary.txt",
+      "characters": 43144
+    },
+    {
+      "file": "gs2_polity_class11_constitution_ch07_federalism.txt",
+      "key": "gs2_polity_class11_constitution_ch07_federalism",
+      "path": "data/study/textbook-first/raw-text/gs2_polity_class11_constitution_ch07_federalism.txt",
+      "characters": 42942
+    },
+    {
+      "file": "gs2_polity_class11_constitution_ch08_local_governments.txt",
+      "key": "gs2_polity_class11_constitution_ch08_local_governments",
+      "path": "data/study/textbook-first/raw-text/gs2_polity_class11_constitution_ch08_local_governments.txt",
+      "characters": 35018
+    },
+    {
+      "file": "gs2_polity_class11_constitution_ch09_constitution_as_a_living_document.txt",
+      "key": "gs2_polity_class11_constitution_ch09_constitution_as_a_living_document",
+      "path": "data/study/textbook-first/raw-text/gs2_polity_class11_constitution_ch09_constitution_as_a_living_document.txt",
+      "characters": 44278
+    },
+    {
+      "file": "gs2_polity_class11_constitution_ch10_the_philosophy_of_the_constitution.txt",
+      "key": "gs2_polity_class11_constitution_ch10_the_philosophy_of_the_constitution",
+      "path": "data/study/textbook-first/raw-text/gs2_polity_class11_constitution_ch10_the_philosophy_of_the_constitution.txt",
+      "characters": 44474
+    },
+    {
+      "file": "gs2_polity_class11_theory_ch01_political_theory_an_introduction.txt",
+      "key": "gs2_polity_class11_theory_ch01_political_theory_an_introduction",
+      "path": "data/study/textbook-first/raw-text/gs2_polity_class11_theory_ch01_political_theory_an_introduction.txt",
+      "characters": 28067
+    },
+    {
+      "file": "gs2_polity_class11_theory_ch02_freedom.txt",
+      "key": "gs2_polity_class11_theory_ch02_freedom",
+      "path": "data/study/textbook-first/raw-text/gs2_polity_class11_theory_ch02_freedom.txt",
+      "characters": 31489
+    },
+    {
+      "file": "gs2_polity_class11_theory_ch03_equality.txt",
+      "key": "gs2_polity_class11_theory_ch03_equality",
+      "path": "data/study/textbook-first/raw-text/gs2_polity_class11_theory_ch03_equality.txt",
+      "characters": 41112
+    },
+    {
+      "file": "gs2_polity_class11_theory_ch04_social_justice.txt",
+      "key": "gs2_polity_class11_theory_ch04_social_justice",
+      "path": "data/study/textbook-first/raw-text/gs2_polity_class11_theory_ch04_social_justice.txt",
+      "characters": 28422
+    },
+    {
+      "file": "gs2_polity_class11_theory_ch05_rights.txt",
+      "key": "gs2_polity_class11_theory_ch05_rights",
+      "path": "data/study/textbook-first/raw-text/gs2_polity_class11_theory_ch05_rights.txt",
+      "characters": 23554
+    },
+    {
+      "file": "gs2_polity_class11_theory_ch06_citizenship.txt",
+      "key": "gs2_polity_class11_theory_ch06_citizenship",
+      "path": "data/study/textbook-first/raw-text/gs2_polity_class11_theory_ch06_citizenship.txt",
+      "characters": 35221
+    },
+    {
+      "file": "gs2_polity_class11_theory_ch07_nationalism.txt",
+      "key": "gs2_polity_class11_theory_ch07_nationalism",
+      "path": "data/study/textbook-first/raw-text/gs2_polity_class11_theory_ch07_nationalism.txt",
+      "characters": 26842
+    },
+    {
+      "file": "gs2_polity_class11_theory_ch08_secularism.txt",
+      "key": "gs2_polity_class11_theory_ch08_secularism",
+      "path": "data/study/textbook-first/raw-text/gs2_polity_class11_theory_ch08_secularism.txt",
+      "characters": 36393
+    },
+    {
+      "file": "gs2_polity_class11_theory_ch09_peace.txt",
+      "key": "gs2_polity_class11_theory_ch09_peace",
+      "path": "data/study/textbook-first/raw-text/gs2_polity_class11_theory_ch09_peace.txt",
+      "characters": 44278
+    },
+    {
+      "file": "gs2_polity_class11_theory_ch10_development.txt",
+      "key": "gs2_polity_class11_theory_ch10_development",
+      "path": "data/study/textbook-first/raw-text/gs2_polity_class11_theory_ch10_development.txt",
+      "characters": 44474
+    },
+    {
+      "file": "gs2_polity_class7_social_political_life_ii_ch01_on_equality.txt",
+      "key": "gs2_polity_class7_social_political_life_ii_ch01_on_equality",
+      "path": "data/study/textbook-first/raw-text/gs2_polity_class7_social_political_life_ii_ch01_on_equality.txt",
+      "characters": 11371
+    },
+    {
+      "file": "gs2_polity_class7_social_political_life_ii_ch02_role_of_the_government_in_health.txt",
+      "key": "gs2_polity_class7_social_political_life_ii_ch02_role_of_the_government_in_health",
+      "path": "data/study/textbook-first/raw-text/gs2_polity_class7_social_political_life_ii_ch02_role_of_the_government_in_health.txt",
+      "characters": 20075
+    },
+    {
+      "file": "gs2_polity_class7_social_political_life_ii_ch03_how_the_state_government_works.txt",
+      "key": "gs2_polity_class7_social_political_life_ii_ch03_how_the_state_government_works",
+      "path": "data/study/textbook-first/raw-text/gs2_polity_class7_social_political_life_ii_ch03_how_the_state_government_works.txt",
+      "characters": 21753
+    },
+    {
+      "file": "gs2_polity_class7_social_political_life_ii_ch04_growing_up_as_boys_and_girls.txt",
+      "key": "gs2_polity_class7_social_political_life_ii_ch04_growing_up_as_boys_and_girls",
+      "path": "data/study/textbook-first/raw-text/gs2_polity_class7_social_political_life_ii_ch04_growing_up_as_boys_and_girls.txt",
+      "characters": 15507
+    },
+    {
+      "file": "gs2_polity_class7_social_political_life_ii_ch05_women_change_the_world.txt",
+      "key": "gs2_polity_class7_social_political_life_ii_ch05_women_change_the_world",
+      "path": "data/study/textbook-first/raw-text/gs2_polity_class7_social_political_life_ii_ch05_women_change_the_world.txt",
+      "characters": 22512
+    },
+    {
+      "file": "gs2_polity_class7_social_political_life_ii_ch06_understanding_media.txt",
+      "key": "gs2_polity_class7_social_political_life_ii_ch06_understanding_media",
+      "path": "data/study/textbook-first/raw-text/gs2_polity_class7_social_political_life_ii_ch06_understanding_media.txt",
+      "characters": 20987
+    },
+    {
+      "file": "gs2_polity_class7_social_political_life_ii_ch07_markets_around_us.txt",
+      "key": "gs2_polity_class7_social_political_life_ii_ch07_markets_around_us",
+      "path": "data/study/textbook-first/raw-text/gs2_polity_class7_social_political_life_ii_ch07_markets_around_us.txt",
+      "characters": 14144
+    },
+    {
+      "file": "gs2_polity_class7_social_political_life_ii_ch08_a_shirt_in_the_market.txt",
+      "key": "gs2_polity_class7_social_political_life_ii_ch08_a_shirt_in_the_market",
+      "path": "data/study/textbook-first/raw-text/gs2_polity_class7_social_political_life_ii_ch08_a_shirt_in_the_market.txt",
+      "characters": 18535
+    },
+    {
+      "file": "gs2_polity_class8_social_political_life_iii_ch01_the_indian_constitution.txt",
+      "key": "gs2_polity_class8_social_political_life_iii_ch01_the_indian_constitution",
+      "path": "data/study/textbook-first/raw-text/gs2_polity_class8_social_political_life_iii_ch01_the_indian_constitution.txt",
+      "characters": 18740
+    },
+    {
+      "file": "gs2_polity_class8_social_political_life_iii_ch02_understanding_secularism.txt",
+      "key": "gs2_polity_class8_social_political_life_iii_ch02_understanding_secularism",
+      "path": "data/study/textbook-first/raw-text/gs2_polity_class8_social_political_life_iii_ch02_understanding_secularism.txt",
+      "characters": 33953
+    },
+    {
+      "file": "gs2_polity_class8_social_political_life_iii_ch03_parliament_and_the_making_of_laws.txt",
+      "key": "gs2_polity_class8_social_political_life_iii_ch03_parliament_and_the_making_of_laws",
+      "path": "data/study/textbook-first/raw-text/gs2_polity_class8_social_political_life_iii_ch03_parliament_and_the_making_of_laws.txt",
+      "characters": 26162
+    },
+    {
+      "file": "gs2_polity_class8_social_political_life_iii_ch04_judiciary.txt",
+      "key": "gs2_polity_class8_social_political_life_iii_ch04_judiciary",
+      "path": "data/study/textbook-first/raw-text/gs2_polity_class8_social_political_life_iii_ch04_judiciary.txt",
+      "characters": 23982
+    },
+    {
+      "file": "gs2_polity_class8_social_political_life_iii_ch05_understanding_marginalisation.txt",
+      "key": "gs2_polity_class8_social_political_life_iii_ch05_understanding_marginalisation",
+      "path": "data/study/textbook-first/raw-text/gs2_polity_class8_social_political_life_iii_ch05_understanding_marginalisation.txt",
+      "characters": 28813
+    },
+    {
+      "file": "gs2_polity_class8_social_political_life_iii_ch06_confronting_marginalisation.txt",
+      "key": "gs2_polity_class8_social_political_life_iii_ch06_confronting_marginalisation",
+      "path": "data/study/textbook-first/raw-text/gs2_polity_class8_social_political_life_iii_ch06_confronting_marginalisation.txt",
+      "characters": 25679
+    },
+    {
+      "file": "gs2_polity_class8_social_political_life_iii_ch07_public_facilities.txt",
+      "key": "gs2_polity_class8_social_political_life_iii_ch07_public_facilities",
+      "path": "data/study/textbook-first/raw-text/gs2_polity_class8_social_political_life_iii_ch07_public_facilities.txt",
+      "characters": 32609
+    },
+    {
+      "file": "gs2_polity_class8_social_political_life_iii_ch08_law_and_social_justice.txt",
+      "key": "gs2_polity_class8_social_political_life_iii_ch08_law_and_social_justice",
+      "path": "data/study/textbook-first/raw-text/gs2_polity_class8_social_political_life_iii_ch08_law_and_social_justice.txt",
+      "characters": 39657
+    },
+    {
+      "file": "gs3_economy_class10_development_ch01_development.txt",
+      "key": "gs3_economy_class10_development_ch01_development",
+      "path": "data/study/textbook-first/raw-text/gs3_economy_class10_development_ch01_development.txt",
+      "characters": 39088
+    },
+    {
+      "file": "gs3_economy_class10_development_ch02_sectors_of_the_indian_economy.txt",
+      "key": "gs3_economy_class10_development_ch02_sectors_of_the_indian_economy",
+      "path": "data/study/textbook-first/raw-text/gs3_economy_class10_development_ch02_sectors_of_the_indian_economy.txt",
+      "characters": 53197
+    },
+    {
+      "file": "gs3_economy_class10_development_ch03_money_and_credit.txt",
+      "key": "gs3_economy_class10_development_ch03_money_and_credit",
+      "path": "data/study/textbook-first/raw-text/gs3_economy_class10_development_ch03_money_and_credit.txt",
+      "characters": 38859
+    },
+    {
+      "file": "gs3_economy_class10_development_ch04_globalisation_and_the_indian_economy.txt",
+      "key": "gs3_economy_class10_development_ch04_globalisation_and_the_indian_economy",
+      "path": "data/study/textbook-first/raw-text/gs3_economy_class10_development_ch04_globalisation_and_the_indian_economy.txt",
+      "characters": 47473
+    },
+    {
+      "file": "gs3_economy_class10_development_ch05_consumer_rights.txt",
+      "key": "gs3_economy_class10_development_ch05_consumer_rights",
+      "path": "data/study/textbook-first/raw-text/gs3_economy_class10_development_ch05_consumer_rights.txt",
+      "characters": 43245
+    },
+    {
+      "file": "gs3_economy_class11_indian_development_ch01_indian_economy_on_the_eve_of_independence.txt",
+      "key": "gs3_economy_class11_indian_development_ch01_indian_economy_on_the_eve_of_independence",
+      "path": "data/study/textbook-first/raw-text/gs3_economy_class11_indian_development_ch01_indian_economy_on_the_eve_of_independence.txt",
+      "characters": 27849
+    },
+    {
+      "file": "gs3_economy_class11_indian_development_ch02_indian_economy_1950_1990.txt",
+      "key": "gs3_economy_class11_indian_development_ch02_indian_economy_1950_1990",
+      "path": "data/study/textbook-first/raw-text/gs3_economy_class11_indian_development_ch02_indian_economy_1950_1990.txt",
+      "characters": 47663
+    },
+    {
+      "file": "gs3_economy_class11_indian_development_ch03_liberalisation_privatisation_and_globalisation.txt",
+      "key": "gs3_economy_class11_indian_development_ch03_liberalisation_privatisation_and_globalisation",
+      "path": "data/study/textbook-first/raw-text/gs3_economy_class11_indian_development_ch03_liberalisation_privatisation_and_globalisation.txt",
+      "characters": 43888
+    },
+    {
+      "file": "gs3_economy_class11_indian_development_ch04_poverty.txt",
+      "key": "gs3_economy_class11_indian_development_ch04_poverty",
+      "path": "data/study/textbook-first/raw-text/gs3_economy_class11_indian_development_ch04_poverty.txt",
+      "characters": 35324
+    },
+    {
+      "file": "gs3_economy_class11_indian_development_ch05_human_capital_formation.txt",
+      "key": "gs3_economy_class11_indian_development_ch05_human_capital_formation",
+      "path": "data/study/textbook-first/raw-text/gs3_economy_class11_indian_development_ch05_human_capital_formation.txt",
+      "characters": 39368
+    },
+    {
+      "file": "gs3_economy_class11_indian_development_ch06_rural_development.txt",
+      "key": "gs3_economy_class11_indian_development_ch06_rural_development",
+      "path": "data/study/textbook-first/raw-text/gs3_economy_class11_indian_development_ch06_rural_development.txt",
+      "characters": 47595
+    },
+    {
+      "file": "gs3_economy_class11_indian_development_ch07_employment.txt",
+      "key": "gs3_economy_class11_indian_development_ch07_employment",
+      "path": "data/study/textbook-first/raw-text/gs3_economy_class11_indian_development_ch07_employment.txt",
+      "characters": 39142
+    },
+    {
+      "file": "gs3_economy_class11_indian_development_ch08_infrastructure.txt",
+      "key": "gs3_economy_class11_indian_development_ch08_infrastructure",
+      "path": "data/study/textbook-first/raw-text/gs3_economy_class11_indian_development_ch08_infrastructure.txt",
+      "characters": 37406
+    },
+    {
+      "file": "gs3_economy_class12_macro_ch01_national_income_accounting.txt",
+      "key": "gs3_economy_class12_macro_ch01_national_income_accounting",
+      "path": "data/study/textbook-first/raw-text/gs3_economy_class12_macro_ch01_national_income_accounting.txt",
+      "characters": 21726
+    },
+    {
+      "file": "gs3_economy_class12_macro_ch02_money_and_banking.txt",
+      "key": "gs3_economy_class12_macro_ch02_money_and_banking",
+      "path": "data/study/textbook-first/raw-text/gs3_economy_class12_macro_ch02_money_and_banking.txt",
+      "characters": 80579
+    },
+    {
+      "file": "gs3_economy_class12_macro_ch03_determination_of_income_and_employment.txt",
+      "key": "gs3_economy_class12_macro_ch03_determination_of_income_and_employment",
+      "path": "data/study/textbook-first/raw-text/gs3_economy_class12_macro_ch03_determination_of_income_and_employment.txt",
+      "characters": 46068
+    },
+    {
+      "file": "gs3_economy_class12_macro_ch04_government_budget_and_the_economy.txt",
+      "key": "gs3_economy_class12_macro_ch04_government_budget_and_the_economy",
+      "path": "data/study/textbook-first/raw-text/gs3_economy_class12_macro_ch04_government_budget_and_the_economy.txt",
+      "characters": 34036
+    },
+    {
+      "file": "gs3_economy_class12_macro_ch05_balance_of_payments.txt",
+      "key": "gs3_economy_class12_macro_ch05_balance_of_payments",
+      "path": "data/study/textbook-first/raw-text/gs3_economy_class12_macro_ch05_balance_of_payments.txt",
+      "characters": 53761
+    },
+    {
+      "file": "gs3_economy_class12_micro_ch01_introduction.txt",
+      "key": "gs3_economy_class12_micro_ch01_introduction",
+      "path": "data/study/textbook-first/raw-text/gs3_economy_class12_micro_ch01_introduction.txt",
+      "characters": 21004
+    },
+    {
+      "file": "gs3_economy_class12_micro_ch02_consumer_behaviour.txt",
+      "key": "gs3_economy_class12_micro_ch02_consumer_behaviour",
+      "path": "data/study/textbook-first/raw-text/gs3_economy_class12_micro_ch02_consumer_behaviour.txt",
+      "characters": 70187
+    },
+    {
+      "file": "gs3_economy_class12_micro_ch03_production_and_costs.txt",
+      "key": "gs3_economy_class12_micro_ch03_production_and_costs",
+      "path": "data/study/textbook-first/raw-text/gs3_economy_class12_micro_ch03_production_and_costs.txt",
+      "characters": 39224
+    },
+    {
+      "file": "gs3_economy_class12_micro_ch04_theory_of_the_firm.txt",
+      "key": "gs3_economy_class12_micro_ch04_theory_of_the_firm",
+      "path": "data/study/textbook-first/raw-text/gs3_economy_class12_micro_ch04_theory_of_the_firm.txt",
+      "characters": 42985
+    },
+    {
+      "file": "gs3_economy_class12_micro_ch05_market_equilibrium.txt",
+      "key": "gs3_economy_class12_micro_ch05_market_equilibrium",
+      "path": "data/study/textbook-first/raw-text/gs3_economy_class12_micro_ch05_market_equilibrium.txt",
+      "characters": 54051
+    },
+    {
+      "file": "gs3_env_class11_biology_ch01_the_living_world.txt",
+      "key": "gs3_env_class11_biology_ch01_the_living_world",
+      "path": "data/study/textbook-first/raw-text/gs3_env_class11_biology_ch01_the_living_world.txt",
+      "characters": 19842
+    },
+    {
+      "file": "gs3_env_class11_biology_ch02_biological_classification.txt",
+      "key": "gs3_env_class11_biology_ch02_biological_classification",
+      "path": "data/study/textbook-first/raw-text/gs3_env_class11_biology_ch02_biological_classification.txt",
+      "characters": 29334
+    },
+    {
+      "file": "gs3_env_class11_biology_ch03_plant_kingdom.txt",
+      "key": "gs3_env_class11_biology_ch03_plant_kingdom",
+      "path": "data/study/textbook-first/raw-text/gs3_env_class11_biology_ch03_plant_kingdom.txt",
+      "characters": 25715
+    },
+    {
+      "file": "gs3_env_class11_biology_ch04_animal_kingdom.txt",
+      "key": "gs3_env_class11_biology_ch04_animal_kingdom",
+      "path": "data/study/textbook-first/raw-text/gs3_env_class11_biology_ch04_animal_kingdom.txt",
+      "characters": 32023
+    },
+    {
+      "file": "gs3_env_class11_biology_ch05_morphology_of_flowering_plants.txt",
+      "key": "gs3_env_class11_biology_ch05_morphology_of_flowering_plants",
+      "path": "data/study/textbook-first/raw-text/gs3_env_class11_biology_ch05_morphology_of_flowering_plants.txt",
+      "characters": 27735
+    },
+    {
+      "file": "gs3_env_class11_biology_ch06_anatomy_of_flowering_plants.txt",
+      "key": "gs3_env_class11_biology_ch06_anatomy_of_flowering_plants",
+      "path": "data/study/textbook-first/raw-text/gs3_env_class11_biology_ch06_anatomy_of_flowering_plants.txt",
+      "characters": 13853
+    },
+    {
+      "file": "gs3_env_class11_biology_ch07_structural_organisation_in_animals.txt",
+      "key": "gs3_env_class11_biology_ch07_structural_organisation_in_animals",
+      "path": "data/study/textbook-first/raw-text/gs3_env_class11_biology_ch07_structural_organisation_in_animals.txt",
+      "characters": 14726
+    },
+    {
+      "file": "gs3_env_class11_biology_ch08_cell_the_unit_of_life.txt",
+      "key": "gs3_env_class11_biology_ch08_cell_the_unit_of_life",
+      "path": "data/study/textbook-first/raw-text/gs3_env_class11_biology_ch08_cell_the_unit_of_life.txt",
+      "characters": 38409
+    },
+    {
+      "file": "gs3_env_class11_biology_ch09_biomolecules.txt",
+      "key": "gs3_env_class11_biology_ch09_biomolecules",
+      "path": "data/study/textbook-first/raw-text/gs3_env_class11_biology_ch09_biomolecules.txt",
+      "characters": 35278
+    },
+    {
+      "file": "gs3_env_class11_biology_ch10_cell_cycle_and_cell_division.txt",
+      "key": "gs3_env_class11_biology_ch10_cell_cycle_and_cell_division",
+      "path": "data/study/textbook-first/raw-text/gs3_env_class11_biology_ch10_cell_cycle_and_cell_division.txt",
+      "characters": 24074
+    },
+    {
+      "file": "gs3_env_class11_biology_ch11_transport_in_plants.txt",
+      "key": "gs3_env_class11_biology_ch11_transport_in_plants",
+      "path": "data/study/textbook-first/raw-text/gs3_env_class11_biology_ch11_transport_in_plants.txt",
+      "characters": 45368
+    },
+    {
+      "file": "gs3_env_class11_biology_ch12_mineral_nutrition.txt",
+      "key": "gs3_env_class11_biology_ch12_mineral_nutrition",
+      "path": "data/study/textbook-first/raw-text/gs3_env_class11_biology_ch12_mineral_nutrition.txt",
+      "characters": 29155
+    },
+    {
+      "file": "gs3_env_class11_biology_ch13_photosynthesis_in_higher_plants.txt",
+      "key": "gs3_env_class11_biology_ch13_photosynthesis_in_higher_plants",
+      "path": "data/study/textbook-first/raw-text/gs3_env_class11_biology_ch13_photosynthesis_in_higher_plants.txt",
+      "characters": 29342
+    },
+    {
+      "file": "gs3_env_class11_biology_ch14_respiration_in_plants.txt",
+      "key": "gs3_env_class11_biology_ch14_respiration_in_plants",
+      "path": "data/study/textbook-first/raw-text/gs3_env_class11_biology_ch14_respiration_in_plants.txt",
+      "characters": 22833
+    },
+    {
+      "file": "gs3_env_class11_biology_ch15_plant_growth_and_development.txt",
+      "key": "gs3_env_class11_biology_ch15_plant_growth_and_development",
+      "path": "data/study/textbook-first/raw-text/gs3_env_class11_biology_ch15_plant_growth_and_development.txt",
+      "characters": 28638
+    },
+    {
+      "file": "gs3_env_class11_biology_ch16_digestion_and_absorption.txt",
+      "key": "gs3_env_class11_biology_ch16_digestion_and_absorption",
+      "path": "data/study/textbook-first/raw-text/gs3_env_class11_biology_ch16_digestion_and_absorption.txt",
+      "characters": 23721
+    },
+    {
+      "file": "gs3_env_class11_biology_ch17_breathing_and_exchange_of_gases.txt",
+      "key": "gs3_env_class11_biology_ch17_breathing_and_exchange_of_gases",
+      "path": "data/study/textbook-first/raw-text/gs3_env_class11_biology_ch17_breathing_and_exchange_of_gases.txt",
+      "characters": 23886
+    },
+    {
+      "file": "gs3_env_class11_biology_ch18_body_fluids_and_circulation.txt",
+      "key": "gs3_env_class11_biology_ch18_body_fluids_and_circulation",
+      "path": "data/study/textbook-first/raw-text/gs3_env_class11_biology_ch18_body_fluids_and_circulation.txt",
+      "characters": 17473
+    },
+    {
+      "file": "gs3_env_class11_biology_ch19_excretory_products_and_their_elimination.txt",
+      "key": "gs3_env_class11_biology_ch19_excretory_products_and_their_elimination",
+      "path": "data/study/textbook-first/raw-text/gs3_env_class11_biology_ch19_excretory_products_and_their_elimination.txt",
+      "characters": 26040
+    },
+    {
+      "file": "gs3_env_class12_biology_ch01_reproduction_in_organisms.txt",
+      "key": "gs3_env_class12_biology_ch01_reproduction_in_organisms",
+      "path": "data/study/textbook-first/raw-text/gs3_env_class12_biology_ch01_reproduction_in_organisms.txt",
+      "characters": 49900
+    },
+    {
+      "file": "gs3_env_class12_biology_ch02_sexual_reproduction_in_plants.txt",
+      "key": "gs3_env_class12_biology_ch02_sexual_reproduction_in_plants",
+      "path": "data/study/textbook-first/raw-text/gs3_env_class12_biology_ch02_sexual_reproduction_in_plants.txt",
+      "characters": 30418
+    },
+    {
+      "file": "gs3_env_class12_biology_ch03_human_reproduction.txt",
+      "key": "gs3_env_class12_biology_ch03_human_reproduction",
+      "path": "data/study/textbook-first/raw-text/gs3_env_class12_biology_ch03_human_reproduction.txt",
+      "characters": 26681
+    },
+    {
+      "file": "gs3_env_class12_biology_ch04_reproductive_health.txt",
+      "key": "gs3_env_class12_biology_ch04_reproductive_health",
+      "path": "data/study/textbook-first/raw-text/gs3_env_class12_biology_ch04_reproductive_health.txt",
+      "characters": 60254
+    },
+    {
+      "file": "gs3_env_class12_biology_ch05_principles_of_inheritance.txt",
+      "key": "gs3_env_class12_biology_ch05_principles_of_inheritance",
+      "path": "data/study/textbook-first/raw-text/gs3_env_class12_biology_ch05_principles_of_inheritance.txt",
+      "characters": 66498
+    },
+    {
+      "file": "gs3_env_class12_biology_ch06_molecular_basis_of_inheritance.txt",
+      "key": "gs3_env_class12_biology_ch06_molecular_basis_of_inheritance",
+      "path": "data/study/textbook-first/raw-text/gs3_env_class12_biology_ch06_molecular_basis_of_inheritance.txt",
+      "characters": 31796
+    },
+    {
+      "file": "gs3_env_class12_biology_ch07_human_health_and_disease.txt",
+      "key": "gs3_env_class12_biology_ch07_human_health_and_disease",
+      "path": "data/study/textbook-first/raw-text/gs3_env_class12_biology_ch07_human_health_and_disease.txt",
+      "characters": 51220
+    },
+    {
+      "file": "gs3_env_class12_biology_ch08_microbes_in_human_welfare.txt",
+      "key": "gs3_env_class12_biology_ch08_microbes_in_human_welfare",
+      "path": "data/study/textbook-first/raw-text/gs3_env_class12_biology_ch08_microbes_in_human_welfare.txt",
+      "characters": 25590
+    },
+    {
+      "file": "gs3_env_class12_biology_ch09_biotechnology_principles_and_processes.txt",
+      "key": "gs3_env_class12_biology_ch09_biotechnology_principles_and_processes",
+      "path": "data/study/textbook-first/raw-text/gs3_env_class12_biology_ch09_biotechnology_principles_and_processes.txt",
+      "characters": 31195
+    },
+    {
+      "file": "gs3_env_class12_biology_ch10_biotechnology_and_its_applications.txt",
+      "key": "gs3_env_class12_biology_ch10_biotechnology_and_its_applications",
+      "path": "data/study/textbook-first/raw-text/gs3_env_class12_biology_ch10_biotechnology_and_its_applications.txt",
+      "characters": 25205
+    },
+    {
+      "file": "gs3_env_class12_biology_ch11_organisms_and_populations.txt",
+      "key": "gs3_env_class12_biology_ch11_organisms_and_populations",
+      "path": "data/study/textbook-first/raw-text/gs3_env_class12_biology_ch11_organisms_and_populations.txt",
+      "characters": 37138
+    },
+    {
+      "file": "gs3_env_class12_biology_ch12_ecosystem.txt",
+      "key": "gs3_env_class12_biology_ch12_ecosystem",
+      "path": "data/study/textbook-first/raw-text/gs3_env_class12_biology_ch12_ecosystem.txt",
+      "characters": 20681
+    },
+    {
+      "file": "gs3_env_class12_biology_ch13_biodiversity_and_conservation.txt",
+      "key": "gs3_env_class12_biology_ch13_biodiversity_and_conservation",
+      "path": "data/study/textbook-first/raw-text/gs3_env_class12_biology_ch13_biodiversity_and_conservation.txt",
+      "characters": 29497
+    },
+    {
+      "file": "gs3_sci_class10_science_ch01_chemical_reactions_and_equations.txt",
+      "key": "gs3_sci_class10_science_ch01_chemical_reactions_and_equations",
+      "path": "data/study/textbook-first/raw-text/gs3_sci_class10_science_ch01_chemical_reactions_and_equations.txt",
+      "characters": 32311
+    },
+    {
+      "file": "gs3_sci_class10_science_ch02_acids_bases_and_salts.txt",
+      "key": "gs3_sci_class10_science_ch02_acids_bases_and_salts",
+      "path": "data/study/textbook-first/raw-text/gs3_sci_class10_science_ch02_acids_bases_and_salts.txt",
+      "characters": 39320
+    },
+    {
+      "file": "gs3_sci_class10_science_ch03_metals_and_non_metals.txt",
+      "key": "gs3_sci_class10_science_ch03_metals_and_non_metals",
+      "path": "data/study/textbook-first/raw-text/gs3_sci_class10_science_ch03_metals_and_non_metals.txt",
+      "characters": 43361
+    },
+    {
+      "file": "gs3_sci_class10_science_ch04_carbon_and_its_compounds.txt",
+      "key": "gs3_sci_class10_science_ch04_carbon_and_its_compounds",
+      "path": "data/study/textbook-first/raw-text/gs3_sci_class10_science_ch04_carbon_and_its_compounds.txt",
+      "characters": 46595
+    },
+    {
+      "file": "gs3_sci_class10_science_ch05_periodic_classification_of_elements.txt",
+      "key": "gs3_sci_class10_science_ch05_periodic_classification_of_elements",
+      "path": "data/study/textbook-first/raw-text/gs3_sci_class10_science_ch05_periodic_classification_of_elements.txt",
+      "characters": 53092
+    },
+    {
+      "file": "gs3_sci_class10_science_ch06_life_processes.txt",
+      "key": "gs3_sci_class10_science_ch06_life_processes",
+      "path": "data/study/textbook-first/raw-text/gs3_sci_class10_science_ch06_life_processes.txt",
+      "characters": 30899
+    },
+    {
+      "file": "gs3_sci_class10_science_ch07_control_and_coordination.txt",
+      "key": "gs3_sci_class10_science_ch07_control_and_coordination",
+      "path": "data/study/textbook-first/raw-text/gs3_sci_class10_science_ch07_control_and_coordination.txt",
+      "characters": 38188
+    },
+    {
+      "file": "gs3_sci_class10_science_ch08_how_do_organisms_reproduce.txt",
+      "key": "gs3_sci_class10_science_ch08_how_do_organisms_reproduce",
+      "path": "data/study/textbook-first/raw-text/gs3_sci_class10_science_ch08_how_do_organisms_reproduce.txt",
+      "characters": 16119
+    },
+    {
+      "file": "gs3_sci_class10_science_ch09_heredity_and_evolution.txt",
+      "key": "gs3_sci_class10_science_ch09_heredity_and_evolution",
+      "path": "data/study/textbook-first/raw-text/gs3_sci_class10_science_ch09_heredity_and_evolution.txt",
+      "characters": 58546
+    },
+    {
+      "file": "gs3_sci_class10_science_ch10_light_reflection_and_refraction.txt",
+      "key": "gs3_sci_class10_science_ch10_light_reflection_and_refraction",
+      "path": "data/study/textbook-first/raw-text/gs3_sci_class10_science_ch10_light_reflection_and_refraction.txt",
+      "characters": 25722
+    },
+    {
+      "file": "gs3_sci_class10_science_ch11_the_human_eye_and_the_colourful_world.txt",
+      "key": "gs3_sci_class10_science_ch11_the_human_eye_and_the_colourful_world",
+      "path": "data/study/textbook-first/raw-text/gs3_sci_class10_science_ch11_the_human_eye_and_the_colourful_world.txt",
+      "characters": 46234
+    },
+    {
+      "file": "gs3_sci_class10_science_ch12_electricity.txt",
+      "key": "gs3_sci_class10_science_ch12_electricity",
+      "path": "data/study/textbook-first/raw-text/gs3_sci_class10_science_ch12_electricity.txt",
+      "characters": 30623
+    },
+    {
+      "file": "gs3_sci_class10_science_ch13_magnetic_effects_of_electric_current.txt",
+      "key": "gs3_sci_class10_science_ch13_magnetic_effects_of_electric_current",
+      "path": "data/study/textbook-first/raw-text/gs3_sci_class10_science_ch13_magnetic_effects_of_electric_current.txt",
+      "characters": 20628
+    },
+    {
+      "file": "gs3_sci_class11_chemistry_ch01_some_basic_concepts_of_chemistry.txt",
+      "key": "gs3_sci_class11_chemistry_ch01_some_basic_concepts_of_chemistry",
+      "path": "data/study/textbook-first/raw-text/gs3_sci_class11_chemistry_ch01_some_basic_concepts_of_chemistry.txt",
+      "characters": 80726
+    },
+    {
+      "file": "gs3_sci_class11_chemistry_ch02_structure_of_atom.txt",
+      "key": "gs3_sci_class11_chemistry_ch02_structure_of_atom",
+      "path": "data/study/textbook-first/raw-text/gs3_sci_class11_chemistry_ch02_structure_of_atom.txt",
+      "characters": 132536
+    },
+    {
+      "file": "gs3_sci_class11_chemistry_ch03_classification_of_elements_and_periodicity_in_properties.txt",
+      "key": "gs3_sci_class11_chemistry_ch03_classification_of_elements_and_periodicity_in_properties",
+      "path": "data/study/textbook-first/raw-text/gs3_sci_class11_chemistry_ch03_classification_of_elements_and_periodicity_in_properties.txt",
+      "characters": 69436
+    },
+    {
+      "file": "gs3_sci_class11_chemistry_ch04_chemical_bonding_and_molecular_structure.txt",
+      "key": "gs3_sci_class11_chemistry_ch04_chemical_bonding_and_molecular_structure",
+      "path": "data/study/textbook-first/raw-text/gs3_sci_class11_chemistry_ch04_chemical_bonding_and_molecular_structure.txt",
+      "characters": 90514
+    },
+    {
+      "file": "gs3_sci_class11_chemistry_ch05_states_of_matter.txt",
+      "key": "gs3_sci_class11_chemistry_ch05_states_of_matter",
+      "path": "data/study/textbook-first/raw-text/gs3_sci_class11_chemistry_ch05_states_of_matter.txt",
+      "characters": 86898
+    },
+    {
+      "file": "gs3_sci_class11_chemistry_ch06_thermodynamics.txt",
+      "key": "gs3_sci_class11_chemistry_ch06_thermodynamics",
+      "path": "data/study/textbook-first/raw-text/gs3_sci_class11_chemistry_ch06_thermodynamics.txt",
+      "characters": 156965
+    },
+    {
+      "file": "gs3_sci_class11_physics_ch01_physical_world.txt",
+      "key": "gs3_sci_class11_physics_ch01_physical_world",
+      "path": "data/study/textbook-first/raw-text/gs3_sci_class11_physics_ch01_physical_world.txt",
+      "characters": 39897
+    },
+    {
+      "file": "gs3_sci_class11_physics_ch02_units_and_measurements.txt",
+      "key": "gs3_sci_class11_physics_ch02_units_and_measurements",
+      "path": "data/study/textbook-first/raw-text/gs3_sci_class11_physics_ch02_units_and_measurements.txt",
+      "characters": 32185
+    },
+    {
+      "file": "gs3_sci_class11_physics_ch03_motion_in_a_straight_line.txt",
+      "key": "gs3_sci_class11_physics_ch03_motion_in_a_straight_line",
+      "path": "data/study/textbook-first/raw-text/gs3_sci_class11_physics_ch03_motion_in_a_straight_line.txt",
+      "characters": 56100
+    },
+    {
+      "file": "gs3_sci_class11_physics_ch04_motion_in_a_plane.txt",
+      "key": "gs3_sci_class11_physics_ch04_motion_in_a_plane",
+      "path": "data/study/textbook-first/raw-text/gs3_sci_class11_physics_ch04_motion_in_a_plane.txt",
+      "characters": 72240
+    },
+    {
+      "file": "gs3_sci_class11_physics_ch05_laws_of_motion.txt",
+      "key": "gs3_sci_class11_physics_ch05_laws_of_motion",
+      "path": "data/study/textbook-first/raw-text/gs3_sci_class11_physics_ch05_laws_of_motion.txt",
+      "characters": 58165
+    },
+    {
+      "file": "gs3_sci_class11_physics_ch06_work_energy_and_power.txt",
+      "key": "gs3_sci_class11_physics_ch06_work_energy_and_power",
+      "path": "data/study/textbook-first/raw-text/gs3_sci_class11_physics_ch06_work_energy_and_power.txt",
+      "characters": 104054
+    },
+    {
+      "file": "gs3_sci_class11_physics_ch07_system_of_particles_and_rotational_motion.txt",
+      "key": "gs3_sci_class11_physics_ch07_system_of_particles_and_rotational_motion",
+      "path": "data/study/textbook-first/raw-text/gs3_sci_class11_physics_ch07_system_of_particles_and_rotational_motion.txt",
+      "characters": 48591
+    },
+    {
+      "file": "gs3_sci_class12_chemistry_ch01_solutions.txt",
+      "key": "gs3_sci_class12_chemistry_ch01_solutions",
+      "path": "data/study/textbook-first/raw-text/gs3_sci_class12_chemistry_ch01_solutions.txt",
+      "characters": 72165
+    },
+    {
+      "file": "gs3_sci_class12_chemistry_ch02_electrochemistry.txt",
+      "key": "gs3_sci_class12_chemistry_ch02_electrochemistry",
+      "path": "data/study/textbook-first/raw-text/gs3_sci_class12_chemistry_ch02_electrochemistry.txt",
+      "characters": 70377
+    },
+    {
+      "file": "gs3_sci_class12_chemistry_ch03_chemical_kinetics.txt",
+      "key": "gs3_sci_class12_chemistry_ch03_chemical_kinetics",
+      "path": "data/study/textbook-first/raw-text/gs3_sci_class12_chemistry_ch03_chemical_kinetics.txt",
+      "characters": 54767
+    },
+    {
+      "file": "gs3_sci_class12_chemistry_ch04_the_d_and_f_block_elements.txt",
+      "key": "gs3_sci_class12_chemistry_ch04_the_d_and_f_block_elements",
+      "path": "data/study/textbook-first/raw-text/gs3_sci_class12_chemistry_ch04_the_d_and_f_block_elements.txt",
+      "characters": 76181
+    },
+    {
+      "file": "gs3_sci_class12_chemistry_ch05_coordination_compounds.txt",
+      "key": "gs3_sci_class12_chemistry_ch05_coordination_compounds",
+      "path": "data/study/textbook-first/raw-text/gs3_sci_class12_chemistry_ch05_coordination_compounds.txt",
+      "characters": 59046
+    },
+    {
+      "file": "gs3_sci_class12_physics_ch01_electric_charges_and_fields.txt",
+      "key": "gs3_sci_class12_physics_ch01_electric_charges_and_fields",
+      "path": "data/study/textbook-first/raw-text/gs3_sci_class12_physics_ch01_electric_charges_and_fields.txt",
+      "characters": 102469
+    },
+    {
+      "file": "gs3_sci_class12_physics_ch02_electrostatic_potential_and_capacitance.txt",
+      "key": "gs3_sci_class12_physics_ch02_electrostatic_potential_and_capacitance",
+      "path": "data/study/textbook-first/raw-text/gs3_sci_class12_physics_ch02_electrostatic_potential_and_capacitance.txt",
+      "characters": 79363
+    },
+    {
+      "file": "gs3_sci_class12_physics_ch03_current_electricity.txt",
+      "key": "gs3_sci_class12_physics_ch03_current_electricity",
+      "path": "data/study/textbook-first/raw-text/gs3_sci_class12_physics_ch03_current_electricity.txt",
+      "characters": 57790
+    },
+    {
+      "file": "gs3_sci_class12_physics_ch04_moving_charges_and_magnetism.txt",
+      "key": "gs3_sci_class12_physics_ch04_moving_charges_and_magnetism",
+      "path": "data/study/textbook-first/raw-text/gs3_sci_class12_physics_ch04_moving_charges_and_magnetism.txt",
+      "characters": 65784
+    },
+    {
+      "file": "gs3_sci_class12_physics_ch05_magnetism_and_matter.txt",
+      "key": "gs3_sci_class12_physics_ch05_magnetism_and_matter",
+      "path": "data/study/textbook-first/raw-text/gs3_sci_class12_physics_ch05_magnetism_and_matter.txt",
+      "characters": 37942
+    },
+    {
+      "file": "gs3_sci_class12_physics_ch06_electromagnetic_induction.txt",
+      "key": "gs3_sci_class12_physics_ch06_electromagnetic_induction",
+      "path": "data/study/textbook-first/raw-text/gs3_sci_class12_physics_ch06_electromagnetic_induction.txt",
+      "characters": 46150
+    },
+    {
+      "file": "gs3_sci_class12_physics_ch07_alternating_current.txt",
+      "key": "gs3_sci_class12_physics_ch07_alternating_current",
+      "path": "data/study/textbook-first/raw-text/gs3_sci_class12_physics_ch07_alternating_current.txt",
+      "characters": 48618
+    },
+    {
+      "file": "gs3_sci_class12_physics_ch08_electromagnetic_waves.txt",
+      "key": "gs3_sci_class12_physics_ch08_electromagnetic_waves",
+      "path": "data/study/textbook-first/raw-text/gs3_sci_class12_physics_ch08_electromagnetic_waves.txt",
+      "characters": 35294
+    },
+    {
+      "file": "gs3_sci_class7_science_ch01_nutrition_in_plants.txt",
+      "key": "gs3_sci_class7_science_ch01_nutrition_in_plants",
+      "path": "data/study/textbook-first/raw-text/gs3_sci_class7_science_ch01_nutrition_in_plants.txt",
+      "characters": 18527
+    },
+    {
+      "file": "gs3_sci_class7_science_ch02_nutrition_in_animals.txt",
+      "key": "gs3_sci_class7_science_ch02_nutrition_in_animals",
+      "path": "data/study/textbook-first/raw-text/gs3_sci_class7_science_ch02_nutrition_in_animals.txt",
+      "characters": 22529
+    },
+    {
+      "file": "gs3_sci_class7_science_ch03_fibre_to_fabric.txt",
+      "key": "gs3_sci_class7_science_ch03_fibre_to_fabric",
+      "path": "data/study/textbook-first/raw-text/gs3_sci_class7_science_ch03_fibre_to_fabric.txt",
+      "characters": 24116
+    },
+    {
+      "file": "gs3_sci_class7_science_ch04_heat.txt",
+      "key": "gs3_sci_class7_science_ch04_heat",
+      "path": "data/study/textbook-first/raw-text/gs3_sci_class7_science_ch04_heat.txt",
+      "characters": 15521
+    },
+    {
+      "file": "gs3_sci_class7_science_ch05_acids_bases_and_salts.txt",
+      "key": "gs3_sci_class7_science_ch05_acids_bases_and_salts",
+      "path": "data/study/textbook-first/raw-text/gs3_sci_class7_science_ch05_acids_bases_and_salts.txt",
+      "characters": 18746
+    },
+    {
+      "file": "gs3_sci_class7_science_ch06_physical_and_chemical_changes.txt",
+      "key": "gs3_sci_class7_science_ch06_physical_and_chemical_changes",
+      "path": "data/study/textbook-first/raw-text/gs3_sci_class7_science_ch06_physical_and_chemical_changes.txt",
+      "characters": 21415
+    },
+    {
+      "file": "gs3_sci_class7_science_ch07_weather_climate_and_adaptations_of_animals_to_climate.txt",
+      "key": "gs3_sci_class7_science_ch07_weather_climate_and_adaptations_of_animals_to_climate",
+      "path": "data/study/textbook-first/raw-text/gs3_sci_class7_science_ch07_weather_climate_and_adaptations_of_animals_to_climate.txt",
+      "characters": 20573
+    },
+    {
+      "file": "gs3_sci_class7_science_ch08_winds_storms_and_cyclones.txt",
+      "key": "gs3_sci_class7_science_ch08_winds_storms_and_cyclones",
+      "path": "data/study/textbook-first/raw-text/gs3_sci_class7_science_ch08_winds_storms_and_cyclones.txt",
+      "characters": 16916
+    },
+    {
+      "file": "gs3_sci_class7_science_ch09_soil.txt",
+      "key": "gs3_sci_class7_science_ch09_soil",
+      "path": "data/study/textbook-first/raw-text/gs3_sci_class7_science_ch09_soil.txt",
+      "characters": 28690
+    },
+    {
+      "file": "gs3_sci_class7_science_ch10_respiration_in_organisms.txt",
+      "key": "gs3_sci_class7_science_ch10_respiration_in_organisms",
+      "path": "data/study/textbook-first/raw-text/gs3_sci_class7_science_ch10_respiration_in_organisms.txt",
+      "characters": 23286
+    },
+    {
+      "file": "gs3_sci_class7_science_ch11_transportation_in_animals_and_plants.txt",
+      "key": "gs3_sci_class7_science_ch11_transportation_in_animals_and_plants",
+      "path": "data/study/textbook-first/raw-text/gs3_sci_class7_science_ch11_transportation_in_animals_and_plants.txt",
+      "characters": 26693
+    },
+    {
+      "file": "gs3_sci_class7_science_ch12_reproduction_in_plants.txt",
+      "key": "gs3_sci_class7_science_ch12_reproduction_in_plants",
+      "path": "data/study/textbook-first/raw-text/gs3_sci_class7_science_ch12_reproduction_in_plants.txt",
+      "characters": 21043
+    },
+    {
+      "file": "gs3_sci_class7_science_ch13_motion_and_time.txt",
+      "key": "gs3_sci_class7_science_ch13_motion_and_time",
+      "path": "data/study/textbook-first/raw-text/gs3_sci_class7_science_ch13_motion_and_time.txt",
+      "characters": 18953
+    },
+    {
+      "file": "gs3_sci_class8_science_ch01_crop_production_and_management.txt",
+      "key": "gs3_sci_class8_science_ch01_crop_production_and_management",
+      "path": "data/study/textbook-first/raw-text/gs3_sci_class8_science_ch01_crop_production_and_management.txt",
+      "characters": 27487
+    },
+    {
+      "file": "gs3_sci_class8_science_ch02_microorganisms_friend_and_foe.txt",
+      "key": "gs3_sci_class8_science_ch02_microorganisms_friend_and_foe",
+      "path": "data/study/textbook-first/raw-text/gs3_sci_class8_science_ch02_microorganisms_friend_and_foe.txt",
+      "characters": 24968
+    },
+    {
+      "file": "gs3_sci_class8_science_ch03_synthetic_fibres_and_plastics.txt",
+      "key": "gs3_sci_class8_science_ch03_synthetic_fibres_and_plastics",
+      "path": "data/study/textbook-first/raw-text/gs3_sci_class8_science_ch03_synthetic_fibres_and_plastics.txt",
+      "characters": 12602
+    },
+    {
+      "file": "gs3_sci_class8_science_ch04_materials_metals_and_non_metals.txt",
+      "key": "gs3_sci_class8_science_ch04_materials_metals_and_non_metals",
+      "path": "data/study/textbook-first/raw-text/gs3_sci_class8_science_ch04_materials_metals_and_non_metals.txt",
+      "characters": 23468
+    },
+    {
+      "file": "gs3_sci_class8_science_ch05_coal_and_petroleum.txt",
+      "key": "gs3_sci_class8_science_ch05_coal_and_petroleum",
+      "path": "data/study/textbook-first/raw-text/gs3_sci_class8_science_ch05_coal_and_petroleum.txt",
+      "characters": 22922
+    },
+    {
+      "file": "gs3_sci_class8_science_ch06_combustion_and_flame.txt",
+      "key": "gs3_sci_class8_science_ch06_combustion_and_flame",
+      "path": "data/study/textbook-first/raw-text/gs3_sci_class8_science_ch06_combustion_and_flame.txt",
+      "characters": 21823
+    },
+    {
+      "file": "gs3_sci_class8_science_ch07_conservation_of_plants_and_animals.txt",
+      "key": "gs3_sci_class8_science_ch07_conservation_of_plants_and_animals",
+      "path": "data/study/textbook-first/raw-text/gs3_sci_class8_science_ch07_conservation_of_plants_and_animals.txt",
+      "characters": 26067
+    },
+    {
+      "file": "gs3_sci_class8_science_ch08_cell_structure_and_functions.txt",
+      "key": "gs3_sci_class8_science_ch08_cell_structure_and_functions",
+      "path": "data/study/textbook-first/raw-text/gs3_sci_class8_science_ch08_cell_structure_and_functions.txt",
+      "characters": 33476
+    },
+    {
+      "file": "gs3_sci_class8_science_ch09_reproduction_in_animals.txt",
+      "key": "gs3_sci_class8_science_ch09_reproduction_in_animals",
+      "path": "data/study/textbook-first/raw-text/gs3_sci_class8_science_ch09_reproduction_in_animals.txt",
+      "characters": 17880
+    },
+    {
+      "file": "gs3_sci_class8_science_ch10_reaching_the_age_of_adolescence.txt",
+      "key": "gs3_sci_class8_science_ch10_reaching_the_age_of_adolescence",
+      "path": "data/study/textbook-first/raw-text/gs3_sci_class8_science_ch10_reaching_the_age_of_adolescence.txt",
+      "characters": 23883
+    },
+    {
+      "file": "gs3_sci_class8_science_ch11_force_and_pressure.txt",
+      "key": "gs3_sci_class8_science_ch11_force_and_pressure",
+      "path": "data/study/textbook-first/raw-text/gs3_sci_class8_science_ch11_force_and_pressure.txt",
+      "characters": 22093
+    },
+    {
+      "file": "gs3_sci_class8_science_ch12_friction.txt",
+      "key": "gs3_sci_class8_science_ch12_friction",
+      "path": "data/study/textbook-first/raw-text/gs3_sci_class8_science_ch12_friction.txt",
+      "characters": 24636
+    },
+    {
+      "file": "gs3_sci_class8_science_ch13_sound.txt",
+      "key": "gs3_sci_class8_science_ch13_sound",
+      "path": "data/study/textbook-first/raw-text/gs3_sci_class8_science_ch13_sound.txt",
+      "characters": 29217
+    },
+    {
+      "file": "gs3_sci_class9_science_ch01_matter_in_our_surroundings.txt",
+      "key": "gs3_sci_class9_science_ch01_matter_in_our_surroundings",
+      "path": "data/study/textbook-first/raw-text/gs3_sci_class9_science_ch01_matter_in_our_surroundings.txt",
+      "characters": 18436
+    },
+    {
+      "file": "gs3_sci_class9_science_ch02_is_matter_around_us_pure.txt",
+      "key": "gs3_sci_class9_science_ch02_is_matter_around_us_pure",
+      "path": "data/study/textbook-first/raw-text/gs3_sci_class9_science_ch02_is_matter_around_us_pure.txt",
+      "characters": 49413
+    },
+    {
+      "file": "gs3_sci_class9_science_ch03_atoms_and_molecules.txt",
+      "key": "gs3_sci_class9_science_ch03_atoms_and_molecules",
+      "path": "data/study/textbook-first/raw-text/gs3_sci_class9_science_ch03_atoms_and_molecules.txt",
+      "characters": 46336
+    },
+    {
+      "file": "gs3_sci_class9_science_ch04_structure_of_the_atom.txt",
+      "key": "gs3_sci_class9_science_ch04_structure_of_the_atom",
+      "path": "data/study/textbook-first/raw-text/gs3_sci_class9_science_ch04_structure_of_the_atom.txt",
+      "characters": 58260
+    },
+    {
+      "file": "gs3_sci_class9_science_ch05_the_fundamental_unit_of_life.txt",
+      "key": "gs3_sci_class9_science_ch05_the_fundamental_unit_of_life",
+      "path": "data/study/textbook-first/raw-text/gs3_sci_class9_science_ch05_the_fundamental_unit_of_life.txt",
+      "characters": 49896
+    },
+    {
+      "file": "gs3_sci_class9_science_ch06_tissues.txt",
+      "key": "gs3_sci_class9_science_ch06_tissues",
+      "path": "data/study/textbook-first/raw-text/gs3_sci_class9_science_ch06_tissues.txt",
+      "characters": 56620
+    },
+    {
+      "file": "gs3_sci_class9_science_ch07_diversity_in_living_organisms.txt",
+      "key": "gs3_sci_class9_science_ch07_diversity_in_living_organisms",
+      "path": "data/study/textbook-first/raw-text/gs3_sci_class9_science_ch07_diversity_in_living_organisms.txt",
+      "characters": 60375
+    },
+    {
+      "file": "gs3_sci_class9_science_ch08_motion.txt",
+      "key": "gs3_sci_class9_science_ch08_motion",
+      "path": "data/study/textbook-first/raw-text/gs3_sci_class9_science_ch08_motion.txt",
+      "characters": 48722
+    },
+    {
+      "file": "gs3_sci_class9_science_ch09_force_and_laws_of_motion.txt",
+      "key": "gs3_sci_class9_science_ch09_force_and_laws_of_motion",
+      "path": "data/study/textbook-first/raw-text/gs3_sci_class9_science_ch09_force_and_laws_of_motion.txt",
+      "characters": 47353
+    },
+    {
+      "file": "gs3_sci_class9_science_ch10_gravitation.txt",
+      "key": "gs3_sci_class9_science_ch10_gravitation",
+      "path": "data/study/textbook-first/raw-text/gs3_sci_class9_science_ch10_gravitation.txt",
+      "characters": 54089
+    },
+    {
+      "file": "gs3_sci_class9_science_ch11_work_and_energy.txt",
+      "key": "gs3_sci_class9_science_ch11_work_and_energy",
+      "path": "data/study/textbook-first/raw-text/gs3_sci_class9_science_ch11_work_and_energy.txt",
+      "characters": 53192
+    },
+    {
+      "file": "gs3_sci_class9_science_ch12_sound.txt",
+      "key": "gs3_sci_class9_science_ch12_sound",
+      "path": "data/study/textbook-first/raw-text/gs3_sci_class9_science_ch12_sound.txt",
+      "characters": 58501
+    },
+    {
+      "file": "gs3_sci_class9_science_ch13_why_do_we_fall_ill.txt",
+      "key": "gs3_sci_class9_science_ch13_why_do_we_fall_ill",
+      "path": "data/study/textbook-first/raw-text/gs3_sci_class9_science_ch13_why_do_we_fall_ill.txt",
+      "characters": 53505
+    }
+  ]
+}

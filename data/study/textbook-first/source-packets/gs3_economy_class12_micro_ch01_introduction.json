@@ -1,0 +1,83 @@
+{
+  "key": "gs3_economy_class12_micro_ch01_introduction",
+  "title": "Introduction",
+  "source": {
+    "book": "NCERT Class 12 Introductory Microeconomics",
+    "chapter": 1,
+    "chapter_title": "Introduction",
+    "pdf_url": "https://ncert.nic.in/textbook.php?leec2=0-5",
+    "page_range": "pending source extraction"
+  },
+  "resolved_pdf_url": "https://ncert.nic.in/textbook/pdf/leec201.pdf",
+  "sha256": "19a6e33c5d3ee5ee1a6b764483c7407ce0160b88a3fd7d9816c910a6ea419ef6",
+  "extraction": {
+    "raw_text_path": "data/study/textbook-first/raw-text/gs3_economy_class12_micro_ch01_introduction.txt",
+    "extracted_characters": 20982,
+    "page_count": 7,
+    "paragraph_count_estimate": 0,
+    "title_match_score": 1
+  },
+  "concept_candidates": [
+    {
+      "title": "1.1 A SIMPLE ECONOMY",
+      "first_seen_page_index": 1,
+      "source_trace": "NCERT Class 12 Introductory Microeconomics, Chapter 1, extracted page 1"
+    },
+    {
+      "title": "1.2 CENTRAL PROBLEMS OF AN ECONOMY",
+      "first_seen_page_index": 2,
+      "source_trace": "NCERT Class 12 Introductory Microeconomics, Chapter 1, extracted page 2"
+    },
+    {
+      "title": "3 Introduction",
+      "first_seen_page_index": 3,
+      "source_trace": "NCERT Class 12 Introductory Microeconomics, Chapter 1, extracted page 3"
+    },
+    {
+      "title": "EXAMPLE 1",
+      "first_seen_page_index": 3,
+      "source_trace": "NCERT Class 12 Introductory Microeconomics, Chapter 1, extracted page 3"
+    },
+    {
+      "title": "1.3 ORGANISATION OF ECONOMIC ACTIVITIES",
+      "first_seen_page_index": 4,
+      "source_trace": "NCERT Class 12 Introductory Microeconomics, Chapter 1, extracted page 4"
+    },
+    {
+      "title": "1.3.1 The Centrally Planned Economy",
+      "first_seen_page_index": 4,
+      "source_trace": "NCERT Class 12 Introductory Microeconomics, Chapter 1, extracted page 4"
+    },
+    {
+      "title": "5 Introduction",
+      "first_seen_page_index": 5,
+      "source_trace": "NCERT Class 12 Introductory Microeconomics, Chapter 1, extracted page 5"
+    },
+    {
+      "title": "1.3.2 The Market Economy",
+      "first_seen_page_index": 5,
+      "source_trace": "NCERT Class 12 Introductory Microeconomics, Chapter 1, extracted page 5"
+    },
+    {
+      "title": "1.4 POSITIVE AND NORMATIVE ECONOMICS",
+      "first_seen_page_index": 6,
+      "source_trace": "NCERT Class 12 Introductory Microeconomics, Chapter 1, extracted page 6"
+    },
+    {
+      "title": "1.5 MICROECONOMICS AND MACROECONOMICS",
+      "first_seen_page_index": 6,
+      "source_trace": "NCERT Class 12 Introductory Microeconomics, Chapter 1, extracted page 6"
+    },
+    {
+      "title": "1.6 PLAN OF THE BOOK",
+      "first_seen_page_index": 6,
+      "source_trace": "NCERT Class 12 Introductory Microeconomics, Chapter 1, extracted page 6"
+    },
+    {
+      "title": "7 Introduction",
+      "first_seen_page_index": 7,
+      "source_trace": "NCERT Class 12 Introductory Microeconomics, Chapter 1, extracted page 7"
+    }
+  ],
+  "production_status": "concept_candidates_ready_for_human_decode"
+}

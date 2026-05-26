@@ -1,0 +1,98 @@
+{
+  "key": "gs3_sci_class7_science_ch05_acids_bases_and_salts",
+  "title": "Acids Bases and Salts",
+  "source": {
+    "book": "NCERT Class 7 Science",
+    "chapter": 5,
+    "chapter_title": "Acids Bases and Salts",
+    "pdf_url": "https://ncert.nic.in/textbook.php?gesc1=0-18",
+    "page_range": "pending source extraction"
+  },
+  "resolved_pdf_url": "https://ncert.nic.in/textbook/pdf/gesc105.pdf",
+  "sha256": "a54ae650918b487514dd999eee721924c270714d3f8c42686c080ccf5dd46a98",
+  "extraction": {
+    "raw_text_path": "data/study/textbook-first/raw-text/gs3_sci_class7_science_ch05_acids_bases_and_salts.txt",
+    "extracted_characters": 18678,
+    "page_count": 10,
+    "paragraph_count_estimate": 0,
+    "title_match_score": 0
+  },
+  "concept_candidates": [
+    {
+      "title": "5.1 P HYSICAL C HANGES",
+      "first_seen_page_index": 1,
+      "source_trace": "NCERT Class 7 Science, Chapter 5, extracted page 1"
+    },
+    {
+      "title": "SCIENCE 48",
+      "first_seen_page_index": 2,
+      "source_trace": "NCERT Class 7 Science, Chapter 5, extracted page 2"
+    },
+    {
+      "title": "5.2 C HEMICAL CHANGE",
+      "first_seen_page_index": 2,
+      "source_trace": "NCERT Class 7 Science, Chapter 5, extracted page 2"
+    },
+    {
+      "title": "CAUTION",
+      "first_seen_page_index": 2,
+      "source_trace": "NCERT Class 7 Science, Chapter 5, extracted page 2"
+    },
+    {
+      "title": "PHYSICAL AND CHEMICAL CHANGES 49",
+      "first_seen_page_index": 3,
+      "source_trace": "NCERT Class 7 Science, Chapter 5, extracted page 3"
+    },
+    {
+      "title": "SCIENCE 50",
+      "first_seen_page_index": 4,
+      "source_trace": "NCERT Class 7 Science, Chapter 5, extracted page 4"
+    },
+    {
+      "title": "PHYSICAL AND CHEMICAL CHANGES 51",
+      "first_seen_page_index": 5,
+      "source_trace": "NCERT Class 7 Science, Chapter 5, extracted page 5"
+    },
+    {
+      "title": "(CaCO 3",
+      "first_seen_page_index": 5,
+      "source_trace": "NCERT Class 7 Science, Chapter 5, extracted page 5"
+    },
+    {
+      "title": "SCIENCE 52",
+      "first_seen_page_index": 6,
+      "source_trace": "NCERT Class 7 Science, Chapter 5, extracted page 6"
+    },
+    {
+      "title": "5.3 RUSTING OF IRON",
+      "first_seen_page_index": 6,
+      "source_trace": "NCERT Class 7 Science, Chapter 5, extracted page 6"
+    },
+    {
+      "title": "PHYSICAL AND CHEMICAL CHANGES 53",
+      "first_seen_page_index": 7,
+      "source_trace": "NCERT Class 7 Science, Chapter 5, extracted page 7"
+    },
+    {
+      "title": "5.4 CRYSTALLISATION",
+      "first_seen_page_index": 7,
+      "source_trace": "NCERT Class 7 Science, Chapter 5, extracted page 7"
+    },
+    {
+      "title": "SCIENCE 54",
+      "first_seen_page_index": 8,
+      "source_trace": "NCERT Class 7 Science, Chapter 5, extracted page 8"
+    },
+    {
+      "title": "PHYSICAL AND CHEMICAL CHANGES 55",
+      "first_seen_page_index": 9,
+      "source_trace": "NCERT Class 7 Science, Chapter 5, extracted page 9"
+    },
+    {
+      "title": "SCIENCE 56",
+      "first_seen_page_index": 10,
+      "source_trace": "NCERT Class 7 Science, Chapter 5, extracted page 10"
+    }
+  ],
+  "production_status": "concept_candidates_ready_for_human_decode"
+}

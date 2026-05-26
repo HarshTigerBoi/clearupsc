@@ -1,0 +1,28 @@
+{
+  "key": "gs1_society_class12_indian_society_ch01_introducing_indian_society",
+  "title": "Introducing Indian Society",
+  "source": {
+    "book": "NCERT Class 12 Indian Society",
+    "chapter": 1,
+    "chapter_title": "Introducing Indian Society",
+    "pdf_url": "https://ncert.nic.in/textbook.php?lesy1=0-7",
+    "page_range": "pending source extraction"
+  },
+  "resolved_pdf_url": "https://ncert.nic.in/textbook/pdf/lesy101.pdf",
+  "sha256": "3e7e9a0e59bea4b5ff5eecf81a888ce30fc59682441338d71e9bf5b8d3a92d79",
+  "extraction": {
+    "raw_text_path": "data/study/textbook-first/raw-text/gs1_society_class12_indian_society_ch01_introducing_indian_society.txt",
+    "extracted_characters": 9320,
+    "page_count": 4,
+    "paragraph_count_estimate": 0,
+    "title_match_score": 1
+  },
+  "concept_candidates": [
+    {
+      "title": "1.2 A Preview of this B ook",
+      "first_seen_page_index": 3,
+      "source_trace": "NCERT Class 12 Indian Society, Chapter 1, extracted page 3"
+    }
+  ],
+  "production_status": "concept_candidates_ready_for_human_decode"
+}

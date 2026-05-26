@@ -1,0 +1,78 @@
+{
+  "key": "gs3_env_class12_biology_ch12_ecosystem",
+  "title": "Ecosystem",
+  "source": {
+    "book": "NCERT Class 12 Biology",
+    "chapter": 12,
+    "chapter_title": "Ecosystem",
+    "pdf_url": "https://ncert.nic.in/textbook.php?lebo1=0-16",
+    "page_range": "pending source extraction"
+  },
+  "resolved_pdf_url": "https://ncert.nic.in/textbook/pdf/lebo112.pdf",
+  "sha256": "6d73b01f7ad5492d08a67b695ae8c05230631f20b1b40c791ab7435b39d0e59e",
+  "extraction": {
+    "raw_text_path": "data/study/textbook-first/raw-text/gs3_env_class12_biology_ch12_ecosystem.txt",
+    "extracted_characters": 20641,
+    "page_count": 11,
+    "paragraph_count_estimate": 0,
+    "title_match_score": 1
+  },
+  "concept_candidates": [
+    {
+      "title": "CHAPTER 12",
+      "first_seen_page_index": 1,
+      "source_trace": "NCERT Class 12 Biology, Chapter 12, extracted page 1"
+    },
+    {
+      "title": "ECOSYSTEM",
+      "first_seen_page_index": 1,
+      "source_trace": "NCERT Class 12 Biology, Chapter 12, extracted page 1"
+    },
+    {
+      "title": "12.1 Ecosystem–Structure",
+      "first_seen_page_index": 1,
+      "source_trace": "NCERT Class 12 Biology, Chapter 12, extracted page 1"
+    },
+    {
+      "title": "12.3 Decomposition",
+      "first_seen_page_index": 1,
+      "source_trace": "NCERT Class 12 Biology, Chapter 12, extracted page 1"
+    },
+    {
+      "title": "12.4 Energy Flow",
+      "first_seen_page_index": 1,
+      "source_trace": "NCERT Class 12 Biology, Chapter 12, extracted page 1"
+    },
+    {
+      "title": "12.5 Ecological Pyramids",
+      "first_seen_page_index": 1,
+      "source_trace": "NCERT Class 12 Biology, Chapter 12, extracted page 1"
+    },
+    {
+      "title": "BIOLOGY",
+      "first_seen_page_index": 2,
+      "source_trace": "NCERT Class 12 Biology, Chapter 12, extracted page 2"
+    },
+    {
+      "title": "12.1 ECOSYSTEM – STRUCTURE AND FUNCTION",
+      "first_seen_page_index": 2,
+      "source_trace": "NCERT Class 12 Biology, Chapter 12, extracted page 2"
+    },
+    {
+      "title": "12.2 PRODUCTIVITY",
+      "first_seen_page_index": 2,
+      "source_trace": "NCERT Class 12 Biology, Chapter 12, extracted page 2"
+    },
+    {
+      "title": "GPP – R = NPP",
+      "first_seen_page_index": 3,
+      "source_trace": "NCERT Class 12 Biology, Chapter 12, extracted page 3"
+    },
+    {
+      "title": "SUMMARY",
+      "first_seen_page_index": 10,
+      "source_trace": "NCERT Class 12 Biology, Chapter 12, extracted page 10"
+    }
+  ],
+  "production_status": "concept_candidates_ready_for_human_decode"
+}

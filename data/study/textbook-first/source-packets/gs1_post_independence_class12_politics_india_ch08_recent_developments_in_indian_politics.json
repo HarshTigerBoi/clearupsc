@@ -1,0 +1,198 @@
+{
+  "key": "gs1_post_independence_class12_politics_india_ch08_recent_developments_in_indian_politics",
+  "title": "Recent Developments in Indian Politics",
+  "source": {
+    "book": "NCERT Class 12 Politics in India since Independence",
+    "chapter": 8,
+    "chapter_title": "Recent Developments in Indian Politics",
+    "pdf_url": "https://ncert.nic.in/textbook.php?leps2=0-8",
+    "page_range": "pending source extraction"
+  },
+  "resolved_pdf_url": "https://ncert.nic.in/textbook/pdf/leps208.pdf",
+  "sha256": "5a22cb228b65586caf6e8caa7d45e8f892e216f7030c9d46796302fd0bc51c36",
+  "extraction": {
+    "raw_text_path": "data/study/textbook-first/raw-text/gs1_post_independence_class12_politics_india_ch08_recent_developments_in_indian_politics.txt",
+    "extracted_characters": 38897,
+    "page_count": 25,
+    "paragraph_count_estimate": 1,
+    "title_match_score": 1
+  },
+  "concept_candidates": [
+    {
+      "title": "138 Politics in India since Independence",
+      "first_seen_page_index": 3,
+      "source_trace": "NCERT Class 12 Politics in India since Independence, Chapter 8, extracted page 3"
+    },
+    {
+      "title": "1 May 1996 25 October 1995 20 August 2001 25 October 2004",
+      "first_seen_page_index": 4,
+      "source_trace": "NCERT Class 12 Politics in India since Independence, Chapter 8, extracted page 4"
+    },
+    {
+      "title": "140 Politics in India since Independence",
+      "first_seen_page_index": 5,
+      "source_trace": "NCERT Class 12 Politics in India since Independence, Chapter 8, extracted page 5"
+    },
+    {
+      "title": "142 Politics in India since Independence",
+      "first_seen_page_index": 7,
+      "source_trace": "NCERT Class 12 Politics in India since Independence, Chapter 8, extracted page 7"
+    },
+    {
+      "title": "CENTRAL GOVERNMENTS SINCE 1989",
+      "first_seen_page_index": 8,
+      "source_trace": "NCERT Class 12 Politics in India since Independence, Chapter 8, extracted page 8"
+    },
+    {
+      "title": "144 Politics in India since Independence",
+      "first_seen_page_index": 9,
+      "source_trace": "NCERT Class 12 Politics in India since Independence, Chapter 8, extracted page 9"
+    },
+    {
+      "title": "146 Politics in India since Independence",
+      "first_seen_page_index": 11,
+      "source_trace": "NCERT Class 12 Politics in India since Independence, Chapter 8, extracted page 11"
+    },
+    {
+      "title": "BAMCEF, DS-4",
+      "first_seen_page_index": 12,
+      "source_trace": "NCERT Class 12 Politics in India since Independence, Chapter 8, extracted page 12"
+    },
+    {
+      "title": "148 Politics in India since Independence",
+      "first_seen_page_index": 13,
+      "source_trace": "NCERT Class 12 Politics in India since Independence, Chapter 8, extracted page 13"
+    },
+    {
+      "title": "150 Politics in India since Independence",
+      "first_seen_page_index": 15,
+      "source_trace": "NCERT Class 12 Politics in India since Independence, Chapter 8, extracted page 15"
+    },
+    {
+      "title": "152 Politics in India since Independence",
+      "first_seen_page_index": 17,
+      "source_trace": "NCERT Class 12 Politics in India since Independence, Chapter 8, extracted page 17"
+    },
+    {
+      "title": "2019 Lok Sabha election. Even when BJP is getting full majority,",
+      "first_seen_page_index": 17,
+      "source_trace": "NCERT Class 12 Politics in India since Independence, Chapter 8, extracted page 17"
+    },
+    {
+      "title": "154 Politics in India since Independence",
+      "first_seen_page_index": 19,
+      "source_trace": "NCERT Class 12 Politics in India since Independence, Chapter 8, extracted page 19"
+    },
+    {
+      "title": "156 Politics in India since Independence",
+      "first_seen_page_index": 21,
+      "source_trace": "NCERT Class 12 Politics in India since Independence, Chapter 8, extracted page 21"
+    },
+    {
+      "title": "LET US DO IT TOGETHER",
+      "first_seen_page_index": 22,
+      "source_trace": "NCERT Class 12 Politics in India since Independence, Chapter 8, extracted page 22"
+    },
+    {
+      "title": "1 Aam Aadmi Party (AAP) - - 4 1",
+      "first_seen_page_index": 22,
+      "source_trace": "NCERT Class 12 Politics in India since Independence, Chapter 8, extracted page 22"
+    },
+    {
+      "title": "2 All India Anna Dravida Munnetra Kazhagam",
+      "first_seen_page_index": 22,
+      "source_trace": "NCERT Class 12 Politics in India since Independence, Chapter 8, extracted page 22"
+    },
+    {
+      "title": "(AIADMK)",
+      "first_seen_page_index": 22,
+      "source_trace": "NCERT Class 12 Politics in India since Independence, Chapter 8, extracted page 22"
+    },
+    {
+      "title": "3 Bahujan Samaj Party (BSP) 19 21 - 10",
+      "first_seen_page_index": 22,
+      "source_trace": "NCERT Class 12 Politics in India since Independence, Chapter 8, extracted page 22"
+    },
+    {
+      "title": "4 Bharatiya Janata Party (BJP) 138 116 282 303",
+      "first_seen_page_index": 22,
+      "source_trace": "NCERT Class 12 Politics in India since Independence, Chapter 8, extracted page 22"
+    },
+    {
+      "title": "5 Biju Janata Dal (BJD) 11 14 20 12",
+      "first_seen_page_index": 22,
+      "source_trace": "NCERT Class 12 Politics in India since Independence, Chapter 8, extracted page 22"
+    },
+    {
+      "title": "6 Communist Party of India – Marxist (CPI-M) 43 16 9 3",
+      "first_seen_page_index": 22,
+      "source_trace": "NCERT Class 12 Politics in India since Independence, Chapter 8, extracted page 22"
+    },
+    {
+      "title": "7 Communist Party of India (CPI) 10 4 1 2",
+      "first_seen_page_index": 22,
+      "source_trace": "NCERT Class 12 Politics in India since Independence, Chapter 8, extracted page 22"
+    },
+    {
+      "title": "8 Dravida Munnetra Kazhagam (DMK) 16 18 - 24",
+      "first_seen_page_index": 22,
+      "source_trace": "NCERT Class 12 Politics in India since Independence, Chapter 8, extracted page 22"
+    },
+    {
+      "title": "9 Indian National Congress(INC) 145 206 44 52",
+      "first_seen_page_index": 22,
+      "source_trace": "NCERT Class 12 Politics in India since Independence, Chapter 8, extracted page 22"
+    },
+    {
+      "title": "10 Janata Dal - United (JD -U) 8 20 2 16",
+      "first_seen_page_index": 22,
+      "source_trace": "NCERT Class 12 Politics in India since Independence, Chapter 8, extracted page 22"
+    },
+    {
+      "title": "11 Janata Dal -Secular (JD - S) 3 3 2 1",
+      "first_seen_page_index": 22,
+      "source_trace": "NCERT Class 12 Politics in India since Independence, Chapter 8, extracted page 22"
+    },
+    {
+      "title": "12 Lok Jan Shakti Party (LJSP) 4 - 6 6",
+      "first_seen_page_index": 22,
+      "source_trace": "NCERT Class 12 Politics in India since Independence, Chapter 8, extracted page 22"
+    },
+    {
+      "title": "13 Nationalist Congress Party (NCP) 9 9 6 5",
+      "first_seen_page_index": 22,
+      "source_trace": "NCERT Class 12 Politics in India since Independence, Chapter 8, extracted page 22"
+    },
+    {
+      "title": "14 Rashtriya Janata Dal (RJD) 24 4 4 -",
+      "first_seen_page_index": 22,
+      "source_trace": "NCERT Class 12 Politics in India since Independence, Chapter 8, extracted page 22"
+    },
+    {
+      "title": "15 Rashtriya Lok Dal (RLD) 3 5 1 -",
+      "first_seen_page_index": 22,
+      "source_trace": "NCERT Class 12 Politics in India since Independence, Chapter 8, extracted page 22"
+    },
+    {
+      "title": "16 Samajwadi Party (SP) 36 23 5 5",
+      "first_seen_page_index": 22,
+      "source_trace": "NCERT Class 12 Politics in India since Independence, Chapter 8, extracted page 22"
+    },
+    {
+      "title": "17 Shiromani Akali Dal (SAD) 8 4 4 2",
+      "first_seen_page_index": 22,
+      "source_trace": "NCERT Class 12 Politics in India since Independence, Chapter 8, extracted page 22"
+    },
+    {
+      "title": "18 Shiv Sena (SS) 12 11 18 18",
+      "first_seen_page_index": 22,
+      "source_trace": "NCERT Class 12 Politics in India since Independence, Chapter 8, extracted page 22"
+    },
+    {
+      "title": "19 Others 54 60 98 82",
+      "first_seen_page_index": 22,
+      "source_trace": "NCERT Class 12 Politics in India since Independence, Chapter 8, extracted page 22"
+    }
+  ],
+  "production_status": "concept_candidates_ready_for_human_decode"
+}

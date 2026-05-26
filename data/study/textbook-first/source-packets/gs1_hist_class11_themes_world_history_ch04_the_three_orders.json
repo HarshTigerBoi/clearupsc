@@ -1,0 +1,168 @@
+{
+  "key": "gs1_hist_class11_themes_world_history_ch04_the_three_orders",
+  "title": "The Three Orders",
+  "source": {
+    "book": "NCERT Class 11 Themes in World History",
+    "chapter": 4,
+    "chapter_title": "The Three Orders",
+    "pdf_url": "https://ncert.nic.in/textbook.php?kehs1=0-7",
+    "page_range": "pending source extraction"
+  },
+  "resolved_pdf_url": "https://ncert.nic.in/textbook/pdf/kehs104.pdf",
+  "sha256": "b81f6c717de30ddd98808fe187ac8d12022ed87caf1e770de88ea860c26b8dc0",
+  "extraction": {
+    "raw_text_path": "data/study/textbook-first/raw-text/gs1_hist_class11_themes_world_history_ch04_the_three_orders.txt",
+    "extracted_characters": 43089,
+    "page_count": 20,
+    "paragraph_count_estimate": 0,
+    "title_match_score": 1
+  },
+  "concept_candidates": [
+    {
+      "title": "86 THEMES IN WORLD HISTORY",
+      "first_seen_page_index": 1,
+      "source_trace": "NCERT Class 11 Themes in World History, Chapter 4, extracted page 1"
+    },
+    {
+      "title": "THE THREE ORDERS",
+      "first_seen_page_index": 1,
+      "source_trace": "NCERT Class 11 Themes in World History, Chapter 4, extracted page 1"
+    },
+    {
+      "title": "THEME",
+      "first_seen_page_index": 1,
+      "source_trace": "NCERT Class 11 Themes in World History, Chapter 4, extracted page 1"
+    },
+    {
+      "title": "88 THEMES IN WORLD HISTORY",
+      "first_seen_page_index": 3,
+      "source_trace": "NCERT Class 11 Themes in World History, Chapter 4, extracted page 3"
+    },
+    {
+      "title": "481 Clovis becomes king of the Franks",
+      "first_seen_page_index": 3,
+      "source_trace": "NCERT Class 11 Themes in World History, Chapter 4, extracted page 3"
+    },
+    {
+      "title": "486 Clovis and the Franks begin the conquest of northern Gaul",
+      "first_seen_page_index": 3,
+      "source_trace": "NCERT Class 11 Themes in World History, Chapter 4, extracted page 3"
+    },
+    {
+      "title": "496 Clovis and the Franks convert to Christianity",
+      "first_seen_page_index": 3,
+      "source_trace": "NCERT Class 11 Themes in World History, Chapter 4, extracted page 3"
+    },
+    {
+      "title": "714 Charles Martel becomes mayor of the palace",
+      "first_seen_page_index": 3,
+      "source_trace": "NCERT Class 11 Themes in World History, Chapter 4, extracted page 3"
+    },
+    {
+      "title": "751 Martel’s son Pepin deposes the Frankish ruler, becomes king",
+      "first_seen_page_index": 3,
+      "source_trace": "NCERT Class 11 Themes in World History, Chapter 4, extracted page 3"
+    },
+    {
+      "title": "768 Pepin succeeded by his son Charlemagne/Charles the",
+      "first_seen_page_index": 3,
+      "source_trace": "NCERT Class 11 Themes in World History, Chapter 4, extracted page 3"
+    },
+    {
+      "title": "800 Pope Leo III crowns Charlemagne as Holy Roman Emperor",
+      "first_seen_page_index": 3,
+      "source_trace": "NCERT Class 11 Themes in World History, Chapter 4, extracted page 3"
+    },
+    {
+      "title": "840 ONWARDS Raids by Vikings from Norway",
+      "first_seen_page_index": 3,
+      "source_trace": "NCERT Class 11 Themes in World History, Chapter 4, extracted page 3"
+    },
+    {
+      "title": "90 THEMES IN WORLD HISTORY",
+      "first_seen_page_index": 5,
+      "source_trace": "NCERT Class 11 Themes in World History, Chapter 4, extracted page 5"
+    },
+    {
+      "title": "ACTIVITY 1",
+      "first_seen_page_index": 6,
+      "source_trace": "NCERT Class 11 Themes in World History, Chapter 4, extracted page 6"
+    },
+    {
+      "title": "92 THEMES IN WORLD HISTORY",
+      "first_seen_page_index": 7,
+      "source_trace": "NCERT Class 11 Themes in World History, Chapter 4, extracted page 7"
+    },
+    {
+      "title": "ACTIVITY 2",
+      "first_seen_page_index": 7,
+      "source_trace": "NCERT Class 11 Themes in World History, Chapter 4, extracted page 7"
+    },
+    {
+      "title": "94 THEMES IN WORLD HISTORY",
+      "first_seen_page_index": 9,
+      "source_trace": "NCERT Class 11 Themes in World History, Chapter 4, extracted page 9"
+    },
+    {
+      "title": "96 THEMES IN WORLD HISTORY",
+      "first_seen_page_index": 11,
+      "source_trace": "NCERT Class 11 Themes in World History, Chapter 4, extracted page 11"
+    },
+    {
+      "title": "98 THEMES IN WORLD HISTORY",
+      "first_seen_page_index": 13,
+      "source_trace": "NCERT Class 11 Themes in World History, Chapter 4, extracted page 13"
+    },
+    {
+      "title": "ACTIVITY 3",
+      "first_seen_page_index": 14,
+      "source_trace": "NCERT Class 11 Themes in World History, Chapter 4, extracted page 14"
+    },
+    {
+      "title": "100 THEMES IN WORLD HISTORY",
+      "first_seen_page_index": 15,
+      "source_trace": "NCERT Class 11 Themes in World History, Chapter 4, extracted page 15"
+    },
+    {
+      "title": "102 THEMES IN WORLD HISTORY",
+      "first_seen_page_index": 17,
+      "source_trace": "NCERT Class 11 Themes in World History, Chapter 4, extracted page 17"
+    },
+    {
+      "title": "1066 Normans defeat Anglo-Saxons and conquer England",
+      "first_seen_page_index": 18,
+      "source_trace": "NCERT Class 11 Themes in World History, Chapter 4, extracted page 18"
+    },
+    {
+      "title": "1100 ONWARDS Cathedrals being built in France",
+      "first_seen_page_index": 18,
+      "source_trace": "NCERT Class 11 Themes in World History, Chapter 4, extracted page 18"
+    },
+    {
+      "title": "1381 Peasants’ revolts",
+      "first_seen_page_index": 18,
+      "source_trace": "NCERT Class 11 Themes in World History, Chapter 4, extracted page 18"
+    },
+    {
+      "title": "ACTIVITY 4",
+      "first_seen_page_index": 18,
+      "source_trace": "NCERT Class 11 Themes in World History, Chapter 4, extracted page 18"
+    },
+    {
+      "title": "104 THEMES IN WORLD HISTORY",
+      "first_seen_page_index": 19,
+      "source_trace": "NCERT Class 11 Themes in World History, Chapter 4, extracted page 19"
+    },
+    {
+      "title": "ANSWER IN BRIEF",
+      "first_seen_page_index": 20,
+      "source_trace": "NCERT Class 11 Themes in World History, Chapter 4, extracted page 20"
+    },
+    {
+      "title": "ANSWER IN A SHORT ESSAY",
+      "first_seen_page_index": 20,
+      "source_trace": "NCERT Class 11 Themes in World History, Chapter 4, extracted page 20"
+    }
+  ],
+  "production_status": "concept_candidates_ready_for_human_decode"
+}

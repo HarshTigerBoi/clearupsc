@@ -1,0 +1,223 @@
+{
+  "key": "gs3_sci_class8_science_ch07_conservation_of_plants_and_animals",
+  "title": "Conservation of Plants and Animals",
+  "source": {
+    "book": "NCERT Class 8 Science",
+    "chapter": 7,
+    "chapter_title": "Conservation of Plants and Animals",
+    "pdf_url": "https://ncert.nic.in/textbook.php?hesc1=0-18",
+    "page_range": "pending source extraction"
+  },
+  "resolved_pdf_url": "https://ncert.nic.in/textbook/pdf/hesc107.pdf",
+  "sha256": "cc9a4fdd497105a7e49d28aeb08d77179c8527e2a0817273374a2a328eaac39e",
+  "extraction": {
+    "raw_text_path": "data/study/textbook-first/raw-text/gs3_sci_class8_science_ch07_conservation_of_plants_and_animals.txt",
+    "extracted_characters": 25987,
+    "page_count": 14,
+    "paragraph_count_estimate": 0,
+    "title_match_score": 0.33
+  },
+  "concept_candidates": [
+    {
+      "title": "7.1 Adolescence and Puberty",
+      "first_seen_page_index": 1,
+      "source_trace": "NCERT Class 8 Science, Chapter 7, extracted page 1"
+    },
+    {
+      "title": "REACHING THE AGE OF ADOLESCENCE REACHING THE AGE OF ADOLESCENCE",
+      "first_seen_page_index": 1,
+      "source_trace": "NCERT Class 8 Science, Chapter 7, extracted page 1"
+    },
+    {
+      "title": "SCIENCE 80",
+      "first_seen_page_index": 2,
+      "source_trace": "NCERT Class 8 Science, Chapter 7, extracted page 2"
+    },
+    {
+      "title": "7.2 Changes at Puberty",
+      "first_seen_page_index": 2,
+      "source_trace": "NCERT Class 8 Science, Chapter 7, extracted page 2"
+    },
+    {
+      "title": "REACHING THE AGE OF ADOLESCENCE 81",
+      "first_seen_page_index": 3,
+      "source_trace": "NCERT Class 8 Science, Chapter 7, extracted page 3"
+    },
+    {
+      "title": "SCIENCE 82",
+      "first_seen_page_index": 4,
+      "source_trace": "NCERT Class 8 Science, Chapter 7, extracted page 4"
+    },
+    {
+      "title": "7.3 Secondary Sexual",
+      "first_seen_page_index": 4,
+      "source_trace": "NCERT Class 8 Science, Chapter 7, extracted page 4"
+    },
+    {
+      "title": "REACHING THE AGE OF ADOLESCENCE 83",
+      "first_seen_page_index": 5,
+      "source_trace": "NCERT Class 8 Science, Chapter 7, extracted page 5"
+    },
+    {
+      "title": "7.4 Role of Hormones in",
+      "first_seen_page_index": 5,
+      "source_trace": "NCERT Class 8 Science, Chapter 7, extracted page 5"
+    },
+    {
+      "title": "SCIENCE 84",
+      "first_seen_page_index": 6,
+      "source_trace": "NCERT Class 8 Science, Chapter 7, extracted page 6"
+    },
+    {
+      "title": "7.5 Reproductive Phase of",
+      "first_seen_page_index": 6,
+      "source_trace": "NCERT Class 8 Science, Chapter 7, extracted page 6"
+    },
+    {
+      "title": "7.6 How is the Sex of the",
+      "first_seen_page_index": 6,
+      "source_trace": "NCERT Class 8 Science, Chapter 7, extracted page 6"
+    },
+    {
+      "title": "REACHING THE AGE OF ADOLESCENCE 85",
+      "first_seen_page_index": 7,
+      "source_trace": "NCERT Class 8 Science, Chapter 7, extracted page 7"
+    },
+    {
+      "title": "7.7 Hormones other than",
+      "first_seen_page_index": 7,
+      "source_trace": "NCERT Class 8 Science, Chapter 7, extracted page 7"
+    },
+    {
+      "title": "SCIENCE 86",
+      "first_seen_page_index": 8,
+      "source_trace": "NCERT Class 8 Science, Chapter 7, extracted page 8"
+    },
+    {
+      "title": "7.8 Role of Hormones in",
+      "first_seen_page_index": 8,
+      "source_trace": "NCERT Class 8 Science, Chapter 7, extracted page 8"
+    },
+    {
+      "title": "7.9 Reproductive Health",
+      "first_seen_page_index": 8,
+      "source_trace": "NCERT Class 8 Science, Chapter 7, extracted page 8"
+    },
+    {
+      "title": "REACHING THE AGE OF ADOLESCENCE 87",
+      "first_seen_page_index": 9,
+      "source_trace": "NCERT Class 8 Science, Chapter 7, extracted page 9"
+    },
+    {
+      "title": "SCIENCE 88",
+      "first_seen_page_index": 10,
+      "source_trace": "NCERT Class 8 Science, Chapter 7, extracted page 10"
+    },
+    {
+      "title": "REACHING THE AGE OF ADOLESCENCE 89",
+      "first_seen_page_index": 11,
+      "source_trace": "NCERT Class 8 Science, Chapter 7, extracted page 11"
+    },
+    {
+      "title": "KEYWORDS KEYWORDS KEYWORDS KEYWORDS KEYWORDS",
+      "first_seen_page_index": 11,
+      "source_trace": "NCERT Class 8 Science, Chapter 7, extracted page 11"
+    },
+    {
+      "title": "ADAM’S APPLE",
+      "first_seen_page_index": 11,
+      "source_trace": "NCERT Class 8 Science, Chapter 7, extracted page 11"
+    },
+    {
+      "title": "ADOLESCENCE",
+      "first_seen_page_index": 11,
+      "source_trace": "NCERT Class 8 Science, Chapter 7, extracted page 11"
+    },
+    {
+      "title": "ADRENALIN",
+      "first_seen_page_index": 11,
+      "source_trace": "NCERT Class 8 Science, Chapter 7, extracted page 11"
+    },
+    {
+      "title": "BALANCED DIET",
+      "first_seen_page_index": 11,
+      "source_trace": "NCERT Class 8 Science, Chapter 7, extracted page 11"
+    },
+    {
+      "title": "ENDOCRINE GLANDS",
+      "first_seen_page_index": 11,
+      "source_trace": "NCERT Class 8 Science, Chapter 7, extracted page 11"
+    },
+    {
+      "title": "ESTROGEN",
+      "first_seen_page_index": 11,
+      "source_trace": "NCERT Class 8 Science, Chapter 7, extracted page 11"
+    },
+    {
+      "title": "HORMONES",
+      "first_seen_page_index": 11,
+      "source_trace": "NCERT Class 8 Science, Chapter 7, extracted page 11"
+    },
+    {
+      "title": "INSULIN",
+      "first_seen_page_index": 11,
+      "source_trace": "NCERT Class 8 Science, Chapter 7, extracted page 11"
+    },
+    {
+      "title": "LARYNX",
+      "first_seen_page_index": 11,
+      "source_trace": "NCERT Class 8 Science, Chapter 7, extracted page 11"
+    },
+    {
+      "title": "PITUITARY GLAND",
+      "first_seen_page_index": 11,
+      "source_trace": "NCERT Class 8 Science, Chapter 7, extracted page 11"
+    },
+    {
+      "title": "PUBERTY",
+      "first_seen_page_index": 11,
+      "source_trace": "NCERT Class 8 Science, Chapter 7, extracted page 11"
+    },
+    {
+      "title": "REPRODUCTIVE",
+      "first_seen_page_index": 11,
+      "source_trace": "NCERT Class 8 Science, Chapter 7, extracted page 11"
+    },
+    {
+      "title": "HEALTH",
+      "first_seen_page_index": 11,
+      "source_trace": "NCERT Class 8 Science, Chapter 7, extracted page 11"
+    },
+    {
+      "title": "SECONDARY SEXUAL",
+      "first_seen_page_index": 11,
+      "source_trace": "NCERT Class 8 Science, Chapter 7, extracted page 11"
+    },
+    {
+      "title": "CHARACTERS",
+      "first_seen_page_index": 11,
+      "source_trace": "NCERT Class 8 Science, Chapter 7, extracted page 11"
+    },
+    {
+      "title": "SEX CHROMOSOMES",
+      "first_seen_page_index": 11,
+      "source_trace": "NCERT Class 8 Science, Chapter 7, extracted page 11"
+    },
+    {
+      "title": "TARGET SITE",
+      "first_seen_page_index": 11,
+      "source_trace": "NCERT Class 8 Science, Chapter 7, extracted page 11"
+    },
+    {
+      "title": "TESTOSTERONE",
+      "first_seen_page_index": 11,
+      "source_trace": "NCERT Class 8 Science, Chapter 7, extracted page 11"
+    },
+    {
+      "title": "THYROXINE",
+      "first_seen_page_index": 11,
+      "source_trace": "NCERT Class 8 Science, Chapter 7, extracted page 11"
+    }
+  ],
+  "production_status": "concept_candidates_ready_for_human_decode"
+}

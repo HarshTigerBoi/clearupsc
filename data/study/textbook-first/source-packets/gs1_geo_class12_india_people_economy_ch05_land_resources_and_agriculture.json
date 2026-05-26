@@ -1,0 +1,58 @@
+{
+  "key": "gs1_geo_class12_india_people_economy_ch05_land_resources_and_agriculture",
+  "title": "Land Resources and Agriculture",
+  "source": {
+    "book": "NCERT Class 12 India People and Economy",
+    "chapter": 5,
+    "chapter_title": "Land Resources and Agriculture",
+    "pdf_url": "https://ncert.nic.in/textbook.php?legy2=0-12",
+    "page_range": "pending source extraction"
+  },
+  "resolved_pdf_url": "https://ncert.nic.in/textbook/pdf/legy205.pdf",
+  "sha256": "821f7a017a02300aaf7b58e246893d54fd50d856398726b76f0caca725cb0ea2",
+  "extraction": {
+    "raw_text_path": "data/study/textbook-first/raw-text/gs1_geo_class12_india_people_economy_ch05_land_resources_and_agriculture.txt",
+    "extracted_characters": 23024,
+    "page_count": 13,
+    "paragraph_count_estimate": 3,
+    "title_match_score": 0.67
+  },
+  "concept_candidates": [
+    {
+      "title": "MINERAL AND",
+      "first_seen_page_index": 1,
+      "source_trace": "NCERT Class 12 India People and Economy, Chapter 5, extracted page 1"
+    },
+    {
+      "title": "ENERGY",
+      "first_seen_page_index": 1,
+      "source_trace": "NCERT Class 12 India People and Economy, Chapter 5, extracted page 1"
+    },
+    {
+      "title": "RESOURCES",
+      "first_seen_page_index": 1,
+      "source_trace": "NCERT Class 12 India People and Economy, Chapter 5, extracted page 1"
+    },
+    {
+      "title": "54 India : People and Economy",
+      "first_seen_page_index": 2,
+      "source_trace": "NCERT Class 12 India People and Economy, Chapter 5, extracted page 2"
+    },
+    {
+      "title": "56 India : People and Economy",
+      "first_seen_page_index": 4,
+      "source_trace": "NCERT Class 12 India People and Economy, Chapter 5, extracted page 4"
+    },
+    {
+      "title": "58 India : People and Economy",
+      "first_seen_page_index": 6,
+      "source_trace": "NCERT Class 12 India People and Economy, Chapter 5, extracted page 6"
+    },
+    {
+      "title": "64 India : People and Economy",
+      "first_seen_page_index": 12,
+      "source_trace": "NCERT Class 12 India People and Economy, Chapter 5, extracted page 12"
+    }
+  ],
+  "production_status": "concept_candidates_ready_for_human_decode"
+}

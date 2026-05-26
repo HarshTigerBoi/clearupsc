@@ -1,0 +1,78 @@
+{
+  "key": "gs3_env_class12_biology_ch11_organisms_and_populations",
+  "title": "Organisms and Populations",
+  "source": {
+    "book": "NCERT Class 12 Biology",
+    "chapter": 11,
+    "chapter_title": "Organisms and Populations",
+    "pdf_url": "https://ncert.nic.in/textbook.php?lebo1=0-16",
+    "page_range": "pending source extraction"
+  },
+  "resolved_pdf_url": "https://ncert.nic.in/textbook/pdf/lebo111.pdf",
+  "sha256": "5b483a3ee69f88ae67b43daa8095e5e5ba6278bb1f288fb1cdcd3b02f461276f",
+  "extraction": {
+    "raw_text_path": "data/study/textbook-first/raw-text/gs3_env_class12_biology_ch11_organisms_and_populations.txt",
+    "extracted_characters": 36993,
+    "page_count": 17,
+    "paragraph_count_estimate": 0,
+    "title_match_score": 1
+  },
+  "concept_candidates": [
+    {
+      "title": "RAMDEO MISRA",
+      "first_seen_page_index": 2,
+      "source_trace": "NCERT Class 12 Biology, Chapter 11, extracted page 2"
+    },
+    {
+      "title": "CHAPTER 11",
+      "first_seen_page_index": 3,
+      "source_trace": "NCERT Class 12 Biology, Chapter 11, extracted page 3"
+    },
+    {
+      "title": "ORGANISMS AND POPULATIONS",
+      "first_seen_page_index": 3,
+      "source_trace": "NCERT Class 12 Biology, Chapter 11, extracted page 3"
+    },
+    {
+      "title": "11.1 Populations",
+      "first_seen_page_index": 3,
+      "source_trace": "NCERT Class 12 Biology, Chapter 11, extracted page 3"
+    },
+    {
+      "title": "11.1.1 Population Attributes",
+      "first_seen_page_index": 4,
+      "source_trace": "NCERT Class 12 Biology, Chapter 11, extracted page 4"
+    },
+    {
+      "title": "BIOLOGY",
+      "first_seen_page_index": 5,
+      "source_trace": "NCERT Class 12 Biology, Chapter 11, extracted page 5"
+    },
+    {
+      "title": "11.1.2 Population Growth",
+      "first_seen_page_index": 5,
+      "source_trace": "NCERT Class 12 Biology, Chapter 11, extracted page 5"
+    },
+    {
+      "title": "Nt+1 = Nt + [(B + I) – (D + E)]",
+      "first_seen_page_index": 6,
+      "source_trace": "NCERT Class 12 Biology, Chapter 11, extracted page 6"
+    },
+    {
+      "title": "11.1.3 Life History Variation",
+      "first_seen_page_index": 9,
+      "source_trace": "NCERT Class 12 Biology, Chapter 11, extracted page 9"
+    },
+    {
+      "title": "11.1.4 Population Interactions",
+      "first_seen_page_index": 9,
+      "source_trace": "NCERT Class 12 Biology, Chapter 11, extracted page 9"
+    },
+    {
+      "title": "SUMMARY",
+      "first_seen_page_index": 16,
+      "source_trace": "NCERT Class 12 Biology, Chapter 11, extracted page 16"
+    }
+  ],
+  "production_status": "concept_candidates_ready_for_human_decode"
+}

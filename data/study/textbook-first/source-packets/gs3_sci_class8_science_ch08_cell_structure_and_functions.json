@@ -1,0 +1,223 @@
+{
+  "key": "gs3_sci_class8_science_ch08_cell_structure_and_functions",
+  "title": "Cell Structure and Functions",
+  "source": {
+    "book": "NCERT Class 8 Science",
+    "chapter": 8,
+    "chapter_title": "Cell Structure and Functions",
+    "pdf_url": "https://ncert.nic.in/textbook.php?hesc1=0-18",
+    "page_range": "pending source extraction"
+  },
+  "resolved_pdf_url": "https://ncert.nic.in/textbook/pdf/hesc108.pdf",
+  "sha256": "5f90703bdf4a20e45567489035646b1883c38e6e15a8040c53832c636b0457d0",
+  "extraction": {
+    "raw_text_path": "data/study/textbook-first/raw-text/gs3_sci_class8_science_ch08_cell_structure_and_functions.txt",
+    "extracted_characters": 33449,
+    "page_count": 19,
+    "paragraph_count_estimate": 0,
+    "title_match_score": 0
+  },
+  "concept_candidates": [
+    {
+      "title": "FORCE AND PRESSURE FORCE AND PRESSURE",
+      "first_seen_page_index": 1,
+      "source_trace": "NCERT Class 8 Science, Chapter 8, extracted page 1"
+    },
+    {
+      "title": "8.1 Force – A Push or a Pull",
+      "first_seen_page_index": 1,
+      "source_trace": "NCERT Class 8 Science, Chapter 8, extracted page 1"
+    },
+    {
+      "title": "SCIENCE 94",
+      "first_seen_page_index": 2,
+      "source_trace": "NCERT Class 8 Science, Chapter 8, extracted page 2"
+    },
+    {
+      "title": "FORCE AND PRESSURE 95",
+      "first_seen_page_index": 3,
+      "source_trace": "NCERT Class 8 Science, Chapter 8, extracted page 3"
+    },
+    {
+      "title": "8.2 Forces are due to an",
+      "first_seen_page_index": 3,
+      "source_trace": "NCERT Class 8 Science, Chapter 8, extracted page 3"
+    },
+    {
+      "title": "SCIENCE 96",
+      "first_seen_page_index": 4,
+      "source_trace": "NCERT Class 8 Science, Chapter 8, extracted page 4"
+    },
+    {
+      "title": "8.3 Exploring Forces",
+      "first_seen_page_index": 4,
+      "source_trace": "NCERT Class 8 Science, Chapter 8, extracted page 4"
+    },
+    {
+      "title": "FORCE AND PRESSURE 97",
+      "first_seen_page_index": 5,
+      "source_trace": "NCERT Class 8 Science, Chapter 8, extracted page 5"
+    },
+    {
+      "title": "8.4 A Force can Change the",
+      "first_seen_page_index": 5,
+      "source_trace": "NCERT Class 8 Science, Chapter 8, extracted page 5"
+    },
+    {
+      "title": "SCIENCE 98",
+      "first_seen_page_index": 6,
+      "source_trace": "NCERT Class 8 Science, Chapter 8, extracted page 6"
+    },
+    {
+      "title": "FORCE AND PRESSURE 99",
+      "first_seen_page_index": 7,
+      "source_trace": "NCERT Class 8 Science, Chapter 8, extracted page 7"
+    },
+    {
+      "title": "8.5 Force can Change the",
+      "first_seen_page_index": 7,
+      "source_trace": "NCERT Class 8 Science, Chapter 8, extracted page 7"
+    },
+    {
+      "title": "SCIENCE 100",
+      "first_seen_page_index": 8,
+      "source_trace": "NCERT Class 8 Science, Chapter 8, extracted page 8"
+    },
+    {
+      "title": "8.6 Contact Forces",
+      "first_seen_page_index": 8,
+      "source_trace": "NCERT Class 8 Science, Chapter 8, extracted page 8"
+    },
+    {
+      "title": "FORCE AND PRESSURE 101",
+      "first_seen_page_index": 9,
+      "source_trace": "NCERT Class 8 Science, Chapter 8, extracted page 9"
+    },
+    {
+      "title": "8.7 Non-contact Forces",
+      "first_seen_page_index": 9,
+      "source_trace": "NCERT Class 8 Science, Chapter 8, extracted page 9"
+    },
+    {
+      "title": "SCIENCE 102",
+      "first_seen_page_index": 10,
+      "source_trace": "NCERT Class 8 Science, Chapter 8, extracted page 10"
+    },
+    {
+      "title": "FORCE AND PRESSURE 103",
+      "first_seen_page_index": 11,
+      "source_trace": "NCERT Class 8 Science, Chapter 8, extracted page 11"
+    },
+    {
+      "title": "8.8 Pressure",
+      "first_seen_page_index": 11,
+      "source_trace": "NCERT Class 8 Science, Chapter 8, extracted page 11"
+    },
+    {
+      "title": "SCIENCE 104",
+      "first_seen_page_index": 12,
+      "source_trace": "NCERT Class 8 Science, Chapter 8, extracted page 12"
+    },
+    {
+      "title": "8.9 Pressure Exerted by",
+      "first_seen_page_index": 12,
+      "source_trace": "NCERT Class 8 Science, Chapter 8, extracted page 12"
+    },
+    {
+      "title": "FORCE AND PRESSURE 105",
+      "first_seen_page_index": 13,
+      "source_trace": "NCERT Class 8 Science, Chapter 8, extracted page 13"
+    },
+    {
+      "title": "SCIENCE 106",
+      "first_seen_page_index": 14,
+      "source_trace": "NCERT Class 8 Science, Chapter 8, extracted page 14"
+    },
+    {
+      "title": "8.10 Atmospheric Pressure",
+      "first_seen_page_index": 14,
+      "source_trace": "NCERT Class 8 Science, Chapter 8, extracted page 14"
+    },
+    {
+      "title": "FORCE AND PRESSURE 107",
+      "first_seen_page_index": 15,
+      "source_trace": "NCERT Class 8 Science, Chapter 8, extracted page 15"
+    },
+    {
+      "title": "SCIENCE 108",
+      "first_seen_page_index": 16,
+      "source_trace": "NCERT Class 8 Science, Chapter 8, extracted page 16"
+    },
+    {
+      "title": "KEYWORDS KEYWORDS KEYWORDS KEYWORDS KEYWORDS",
+      "first_seen_page_index": 16,
+      "source_trace": "NCERT Class 8 Science, Chapter 8, extracted page 16"
+    },
+    {
+      "title": "ATMOSPHERIC",
+      "first_seen_page_index": 16,
+      "source_trace": "NCERT Class 8 Science, Chapter 8, extracted page 16"
+    },
+    {
+      "title": "PRESSURE",
+      "first_seen_page_index": 16,
+      "source_trace": "NCERT Class 8 Science, Chapter 8, extracted page 16"
+    },
+    {
+      "title": "CONTACT FORCE",
+      "first_seen_page_index": 16,
+      "source_trace": "NCERT Class 8 Science, Chapter 8, extracted page 16"
+    },
+    {
+      "title": "ELECTROSTATIC",
+      "first_seen_page_index": 16,
+      "source_trace": "NCERT Class 8 Science, Chapter 8, extracted page 16"
+    },
+    {
+      "title": "FORCE",
+      "first_seen_page_index": 16,
+      "source_trace": "NCERT Class 8 Science, Chapter 8, extracted page 16"
+    },
+    {
+      "title": "FRICTION",
+      "first_seen_page_index": 16,
+      "source_trace": "NCERT Class 8 Science, Chapter 8, extracted page 16"
+    },
+    {
+      "title": "GRAVITATIONAL",
+      "first_seen_page_index": 16,
+      "source_trace": "NCERT Class 8 Science, Chapter 8, extracted page 16"
+    },
+    {
+      "title": "GRAVITY",
+      "first_seen_page_index": 16,
+      "source_trace": "NCERT Class 8 Science, Chapter 8, extracted page 16"
+    },
+    {
+      "title": "MAGNETIC FORCE",
+      "first_seen_page_index": 16,
+      "source_trace": "NCERT Class 8 Science, Chapter 8, extracted page 16"
+    },
+    {
+      "title": "MUSCULAR FORCE",
+      "first_seen_page_index": 16,
+      "source_trace": "NCERT Class 8 Science, Chapter 8, extracted page 16"
+    },
+    {
+      "title": "NON-CONTACT",
+      "first_seen_page_index": 16,
+      "source_trace": "NCERT Class 8 Science, Chapter 8, extracted page 16"
+    },
+    {
+      "title": "PULL",
+      "first_seen_page_index": 16,
+      "source_trace": "NCERT Class 8 Science, Chapter 8, extracted page 16"
+    },
+    {
+      "title": "PUSH",
+      "first_seen_page_index": 16,
+      "source_trace": "NCERT Class 8 Science, Chapter 8, extracted page 16"
+    }
+  ],
+  "production_status": "concept_candidates_ready_for_human_decode"
+}

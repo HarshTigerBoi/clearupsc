@@ -1,0 +1,33 @@
+{
+  "key": "gs1_society_class12_social_change_ch06_globalisation_and_social_change",
+  "title": "Globalisation and Social Change",
+  "source": {
+    "book": "NCERT Class 12 Social Change and Development in India",
+    "chapter": 6,
+    "chapter_title": "Globalisation and Social Change",
+    "pdf_url": "https://ncert.nic.in/textbook.php?lesy2=0-8",
+    "page_range": "pending source extraction"
+  },
+  "resolved_pdf_url": "https://ncert.nic.in/textbook/pdf/lesy206.pdf",
+  "sha256": "59fcba40ef5562562c587abaf3e1d26695bf971d6214a206ac51781dd6ec87b4",
+  "extraction": {
+    "raw_text_path": "data/study/textbook-first/raw-text/gs1_society_class12_social_change_ch06_globalisation_and_social_change.txt",
+    "extracted_characters": 40713,
+    "page_count": 18,
+    "paragraph_count_estimate": 1,
+    "title_match_score": 1
+  },
+  "concept_candidates": [
+    {
+      "title": "6.1 Are GlobAl InterconnectIons",
+      "first_seen_page_index": 4,
+      "source_trace": "NCERT Class 12 Social Change and Development in India, Chapter 6, extracted page 4"
+    },
+    {
+      "title": "6.2 UnderstAndInG GlobAlIsAtIon",
+      "first_seen_page_index": 6,
+      "source_trace": "NCERT Class 12 Social Change and Development in India, Chapter 6, extracted page 6"
+    }
+  ],
+  "production_status": "concept_candidates_ready_for_human_decode"
+}

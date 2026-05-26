@@ -1,0 +1,215 @@
+{
+  "analogy": "Think of \"Physical World\" through the chapter's own opening images: CHAPTER ONE UNITS AND MEASUREMENT 1.1 INTRODUCTION Measurement of any physical quantity involves comparison with a certain basic, arbitrarily chosen, internationally accepted reference standard called unit. The result of a measurement of a physical quantity is expressed by a number (or numerical measure) accompanied by... The easy idea is that the visible surface is only the outside cover. The chapter keeps asking how we can know what is inside when no one can directly reach the deep interior. So the learner must read clues: rocks, mines, drilling, volcanic material, heat, gravity, magnetism and earthquake waves. Like solving a hidden-layer puzzle, each clue tells something about the crust, mantle, core and volcanic activity without inventing anything beyond the textbook.",
+  "full_notes": "Physical World is decoded here only from the NCERT chapter text. The chapter begins by asking how the nature of the earth should be imagined and why the interior cannot be known in the same direct way as the surface. It connects the hidden interior with visible results on the surface, especially landscape development, earthquakes, tsunamis and volcanic activity.\n\nThe text explains that cHAPTER ONE UNITS AND MEASUREMENT 1.1 INTRODUCTION Measurement of any physical quantity involves comparison with a certain basic, arbitrarily chosen, internationally accepted reference standard called unit.\n\nThe text explains that the result of a measurement of a physical quantity is expressed by a number (or numerical measure) accompanied by a unit.\n\nThe text explains that although the number of physical quantities appears to be very large, we need only a limited number of units for expressing all the physical quantities, since they are inter- related with one another.\n\nThe text explains that the units for the fundamental or base quantities are called fundamental or base units.\n\nThe text explains that the units of all other physical quantities can be expressed as combinations of the base units.\n\nThe text explains that such units obtained for the derived quantities are called derived units.\n\nThe text explains that a complete set of these units, both the base units and derived units, is known as the system of units.\n\nThe text explains that 1.2 THE INTERNATIONAL SYSTEM OF UNITS In earlier time scientists of different countries were using different systems of units for measurement.\n\nThe text explains that three such systems, the CGS, the FPS (or British) system and the MKS system were in use extensively till recently.\n\nThe text explains that the base units for length, mass and time in these systems were as follows : ∑ In CGS system they were centimetre, gram and second respectively. ∑ In FPS system they were foot, pound and second respectively. ∑ In MKS system they were metre, kilogram and second respectively.\n\nThe text explains that the system of units which is at present internationally accepted for measurement is the Système International d’ Unités (French for International System of Units), abbreviated as SI.\n\nThe text explains that the SI, with standard scheme of symbols, units and abbreviations, developed by the Bureau International des poids et mesures (The International Bureau of Weights and Measures, BIPM) in 1971 were recently revised by the General Conference on Weights and Measures in November 2018.\n\nThe text explains that the scheme is now for international usage 1.1 Introduction 1.2 The international system of units 1.3 Significant figures 1.4 Dimensions of physical quantities 1.5 Dimensional formulae and dimensional equations 1.6 Dimensional analysis and its applications Summary Exercises\n\nThe text explains that pHYSICS 2 Table 1.1 SI Base Quantities and Units* in scientific, technical, industrial and commercial work.\n\nThe text explains that because SI units used decimal system, conversions within the system are quite simple and convenient.\n\nThe text explains that in SI, there are seven base units as given in Table 1.1.\n\nThe text explains that thermo kelvin K The kelvin, symbol K, is the SI unit of thermodynamic temperature. dynamic It is defined by taking the fixed numerical value of the Boltzmann constant Temperature k to be 1.380649´10–23 when expressed in the unit J K–1, which is equal to kg m2 s–2 k–1, where the kilogram, metre and second are defined in terms of h, c and Dncs.\n\nThe text explains that luminous candela cd The candela is the SI unit of luminous intensity in given direction.\n\nThe text explains that thus, if mass of an object is measured to be, say, 4.237 g (four significant figures) and its volume is measured to be 2.51 cm3, then its density, by mere arithmetic division, is 1.68804780876 g/cm3 upto 11 decimal places.\n\nThe text explains that it would be clearly absurd and irrelevant to record the calculated value of density to such a precision when the measurements on which the value is based, have much less precision.\n\nThe text explains that thus, in the example above, density should be reported to three significant figures.\n\nThe text explains that density 4.237g 2.51 cm 1.69 g cm 3 -3   Similarly, if the speed of light is given as 3.00 × 108 m s-1 (three significant figure) and one year (1y = 365.25 d) has 3.1557 × 107 s (five significant figures), the light year is 9.47 × 1015 m (three significant figures).\n\nThe text explains that express its density by keeping the significant figures in view.\n\nThe text explains that hence the density should be expressed to only 2 significant figures.\n\nThe text explains that density = − 5.74 1.2 g cm 3 = 4.8 g cm--3 . ⊳ 1.3.3 Rules for Determining the Uncertainty in the Results of Arithmetic Calculations The rules for determining the uncertainty or error in the number/measured quantity in arithmetic operations can be understood from the following examples.\n\nThe text explains that thus, length has the dimension [L], mass [M], time [T], electric current [A], thermodynamic temperature [K], luminous intensity [cd], and amount of substance [mol].\n\nThe text explains that similarly, [M° L T–2] is the dimensional formula of acceleration and [M L–3 T°] that of mass density.\n\nThe text explains that for example, the dimensional equations of volume [V ], speed [v], force [F ] and mass density [ ρ] may be expressed as [V] = [M0 L3 T0] [v] = [M0 L T–1] [F] = [M L T–2] [ ρ] = [M L–3 T0] The dimensional equation can be obtained from the equation representing the relations between the physical quantities.\n\nThe text explains that thus, velocity cannot be added to force, or an electric current cannot be subtracted from the thermodynamic temperature.\n\nThe text explains that now we can test the dimensional consistency or homogeneity of the equation ( ) 2 1/2 0 0 x x v t a t = + + for the distance x travelled by a particle or body in time t which starts from the position x0 with an initial velocity v0 at time t = 0 and has uniform acceleration a along the direction of motion.\n\nThe text explains that certain physical quantities have been chosen as fundamental or base quantities (such as length, mass, time, electric current, thermodynamic temperature, amount of substance, and luminous intensity).\n\nThe text explains that 1.1 Fill in the blanks (a) The volume of a cube of side 1 cm is equal to .....m3 (b) The surface area of a solid cylinder of radius 2.0 cm and height 10.0 cm is equal to ...(mm)2 (c) A vehicle moving with a speed of 18 km h–1 covers....m in 1 s (d) The relative density of lead is 11.3.\n\nThe text explains that 1.6 Which of the following is the most precise device for measuring length : (a) a vernier callipers with 20 divisions on the sliding scale (b) a screw gauge of pitch 1 mm and 100 divisions on the circular scale (c) an optical instrument that can measure length to within a wavelength of light ?\n\nThe text explains that 1.15 One mole of an ideal gas at standard temperature and pressure occupies 22.4 L (molar volume).\n\nThe text explains that 1.16 Explain this common observation clearly : If you look out of the window of a fast moving train, the nearby trees, houses etc. seem to move rapidly in a direction opposite to the train’s motion, but the distant objects (hill tops, the Moon, the stars etc.) seem to be stationary.\n\nThe text explains that 1.17 The Sun is a hot plasma (ionized matter) with its inner core at a temperature exceeding 107 K, and its outer surface at a temperature of about 6000 K.\n\nThe text explains that at these high temperatures, no substance remains in a solid or liquid phase.\n\nThe text explains that in what range do you expect the mass density of the Sun to be, in the range of densities of solids and liquids or gases ?\n\nThe text explains that what is the total atomic volume in m3 of a mole of hydrogen atoms ?\n\nThe text explains that what is the ratio of molar volume to the atomic volume of a mole of hydrogen ?\n\nThe text explains that (Take the size of hydrogen molecule to be about 1 Å).\n\nThe text explains that (In fact, since you are aware that you are moving, these distant objects seem to move with you).\n\nThe text explains that check if your guess is correct from the following data : mass of the Sun = 2.0 ×1030 kg, radius of the Sun = 7.0 × 108 m.\n\nSource: NCERT Class 11 Physics, Chapter 1: Physical World",
+  "concise_notes": [
+    {
+      "term": "CHAPTER ONE",
+      "definition": "CHAPTER ONE UNITS AND MEASUREMENT 1.1 INTRODUCTION Measurement of any physical quantity involves comparison with a certain basic, arbitrarily chosen, internationally accepted reference standard called unit.",
+      "source_trace": "NCERT Class 11 Physics Ch1 pg 1"
+    },
+    {
+      "term": "UNITS AND MEASUREMENT",
+      "definition": "CHAPTER ONE UNITS AND MEASUREMENT 1.1 INTRODUCTION Measurement of any physical quantity involves comparison with a certain basic, arbitrarily chosen, internationally accepted reference standard called unit.",
+      "source_trace": "NCERT Class 11 Physics Ch1 pg 1"
+    },
+    {
+      "term": "1.1 INTRODUCTION",
+      "definition": "CHAPTER ONE UNITS AND MEASUREMENT 1.1 INTRODUCTION Measurement of any physical quantity involves comparison with a certain basic, arbitrarily chosen, internationally accepted reference standard called unit.",
+      "source_trace": "NCERT Class 11 Physics Ch1 pg 1"
+    },
+    {
+      "term": "1.2 THE INTERNATIONAL SYSTEM OF UNITS",
+      "definition": "CHAPTER ONE UNITS AND MEASUREMENT 1.1 INTRODUCTION Measurement of any physical quantity involves comparison with a certain basic, arbitrarily chosen, internationally accepted reference standard called unit.",
+      "source_trace": "NCERT Class 11 Physics Ch1 pg 1"
+    },
+    {
+      "term": "1.2 The international system of",
+      "definition": "CHAPTER ONE UNITS AND MEASUREMENT 1.1 INTRODUCTION Measurement of any physical quantity involves comparison with a certain basic, arbitrarily chosen, internationally accepted reference standard called unit.",
+      "source_trace": "NCERT Class 11 Physics Ch1 pg 1"
+    },
+    {
+      "term": "1.3 Significant figures",
+      "definition": "The scheme is now for international usage 1.1 Introduction 1.2 The international system of units 1.3 Significant figures 1.4 Dimensions of physical quantities 1.5 Dimensional formulae and dimensional...",
+      "source_trace": "NCERT Class 11 Physics Ch1 pg 1"
+    },
+    {
+      "term": "1.4 Dimensions of physical",
+      "definition": "The scheme is now for international usage 1.1 Introduction 1.2 The international system of units 1.3 Significant figures 1.4 Dimensions of physical quantities 1.5 Dimensional formulae and dimensional...",
+      "source_trace": "NCERT Class 11 Physics Ch1 pg 1"
+    },
+    {
+      "term": "1.5 Dimensional formulae and",
+      "definition": "The scheme is now for international usage 1.1 Introduction 1.2 The international system of units 1.3 Significant figures 1.4 Dimensions of physical quantities 1.5 Dimensional formulae and dimensional...",
+      "source_trace": "NCERT Class 11 Physics Ch1 pg 1"
+    },
+    {
+      "term": "1.6 Dimensional analysis and its",
+      "definition": "The scheme is now for international usage 1.1 Introduction 1.2 The international system of units 1.3 Significant figures 1.4 Dimensions of physical quantities 1.5 Dimensional formulae and dimensional...",
+      "source_trace": "NCERT Class 11 Physics Ch1 pg 1"
+    },
+    {
+      "term": "PHYSICS 2",
+      "definition": "PHYSICS 2 Table 1.1 SI Base Quantities and Units* in scientific, technical, industrial and commercial work.",
+      "source_trace": "NCERT Class 11 Physics Ch1 pg 1"
+    }
+  ],
+  "revision_bullets": [
+    "CHAPTER ONE UNITS AND MEASUREMENT 1.1 INTRODUCTION Measurement of any physical quantity involves comparison with a certain basic, arbitrarily chosen, internationally accepted reference standard called unit. (NCERT Class 11 Physics Ch1 pg 1)",
+    "The result of a measurement of a physical quantity is expressed by a number (or numerical measure) accompanied by a unit. (NCERT Class 11 Physics Ch1 pg 1)",
+    "Although the number of physical quantities appears to be very large, we need only a limited number of units for expressing all the physical quantities, since... (NCERT Class 11 Physics Ch1 pg 1)",
+    "The units for the fundamental or base quantities are called fundamental or base units. (NCERT Class 11 Physics Ch1 pg 1)",
+    "The units of all other physical quantities can be expressed as combinations of the base units. (NCERT Class 11 Physics Ch1 pg 1)",
+    "Such units obtained for the derived quantities are called derived units. (NCERT Class 11 Physics Ch1 pg 1)",
+    "A complete set of these units, both the base units and derived units, is known as the system of units. (NCERT Class 11 Physics Ch1 pg 1)",
+    "1.2 THE INTERNATIONAL SYSTEM OF UNITS In earlier time scientists of different countries were using different systems of units for measurement. (NCERT Class 11 Physics Ch1 pg 1)",
+    "Three such systems, the CGS, the FPS (or British) system and the MKS system were in use extensively till recently. (NCERT Class 11 Physics Ch1 pg 1)",
+    "The base units for length, mass and time in these systems were as follows : ∑ In CGS system they were centimetre, gram and second respectively.... (NCERT Class 11 Physics Ch1 pg 1)"
+  ],
+  "cases": [
+    {
+      "name": "The",
+      "point": "The system of units which is at present internationally accepted for measurement is the Système International d’ Unités (French for International System of Units), abbreviated as... (NCERT Class 11 Physics Ch1 pg 1)"
+    },
+    {
+      "name": "The SI",
+      "point": "The SI, with standard scheme of symbols, units and abbreviations, developed by the Bureau International des poids et mesures (The International Bureau of Weights and Measures,... (NCERT Class 11 Physics Ch1 pg 1)"
+    },
+    {
+      "name": "The",
+      "point": "The scheme is now for international usage 1.1 Introduction 1.2 The international system of units 1.3 Significant figures 1.4 Dimensions of physical quantities 1.5 Dimensional formulae... (NCERT Class 11 Physics Ch1 pg 1)"
+    },
+    {
+      "name": "PHYSICS",
+      "point": "PHYSICS 2 Table 1.1 SI Base Quantities and Units* in scientific, technical, industrial and commercial work. (NCERT Class 11 Physics Ch1 pg 1)"
+    },
+    {
+      "name": "Base SI Units",
+      "point": "Base SI Units quantity Name Symbol Definition Length metre m The metre is the SI unit of length. (NCERT Class 11 Physics Ch1 pg 1)"
+    }
+  ],
+  "schemes": [],
+  "ncert_coverage": [
+    "NCERT Class 11 Physics Chapter 1: Physical World"
+  ],
+  "prelims_traps": [
+    "Do not treat CHAPTER ONE and UNITS AND MEASUREMENT as identical unless the source text links them directly.",
+    "Do not add outside examples to Physical World; use only the examples and processes named in the chapter.",
+    "Do not confuse a visible surface result with the internal process or source evidence described by the text."
+  ],
+  "mains_angles": [
+    "Explain Physical World through the source chain: evidence, process and visible result.",
+    "Use CHAPTER ONE and UNITS AND MEASUREMENT to show how the chapter connects facts with mechanisms.",
+    "Frame an answer around causes, internal working, surface expression and source limitations from the NCERT chapter."
+  ],
+  "mcqs": [
+    {
+      "question_text": "In the NCERT discussion of Physical World, which statement is supported by the source text about CHAPTER ONE?",
+      "options": [
+        "CHAPTER ONE UNITS AND MEASUREMENT 1.1 INTRODUCTION Measurement of any physical quantity involves comparison with a certain basic, arbitrarily chosen, internationally accepted reference standard...",
+        "The result of a measurement of a physical quantity is expressed by a number (or numerical measure) accompanied by a unit.",
+        "Although the number of physical quantities appears to be very large, we need only a limited number of units for expressing all the physical...",
+        "The units for the fundamental or base quantities are called fundamental or base units."
+      ],
+      "correct_answer": 0,
+      "pattern": "statement",
+      "source_trace": "NCERT Class 11 Physics Ch1 pg 1",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 3,
+      "concepts_tested": [
+        "CHAPTER ONE"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Physical World, which statement is supported by the source text about UNITS AND MEASUREMENT?",
+      "options": [
+        "The units of all other physical quantities can be expressed as combinations of the base units.",
+        "Such units obtained for the derived quantities are called derived units.",
+        "A complete set of these units, both the base units and derived units, is known as the system of units.",
+        "1.2 THE INTERNATIONAL SYSTEM OF UNITS In earlier time scientists of different countries were using different systems of units for measurement."
+      ],
+      "correct_answer": 0,
+      "pattern": "statement",
+      "source_trace": "NCERT Class 11 Physics Ch1 pg 1",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 3,
+      "concepts_tested": [
+        "UNITS AND MEASUREMENT"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Physical World, which statement is supported by the source text about 1.1 INTRODUCTION?",
+      "options": [
+        "Three such systems, the CGS, the FPS (or British) system and the MKS system were in use extensively till recently.",
+        "The base units for length, mass and time in these systems were as follows : ∑ In CGS system they were centimetre, gram and...",
+        "The system of units which is at present internationally accepted for measurement is the Système International d’ Unités (French for International System of Units),...",
+        "The SI, with standard scheme of symbols, units and abbreviations, developed by the Bureau International des poids et mesures (The International Bureau of Weights..."
+      ],
+      "correct_answer": 0,
+      "pattern": "not_type",
+      "source_trace": "NCERT Class 11 Physics Ch1 pg 1",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 3,
+      "concepts_tested": [
+        "1.1 INTRODUCTION"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Physical World, which statement is supported by the source text about 1.2 THE INTERNATIONAL SYSTEM OF UNITS?",
+      "options": [
+        "The scheme is now for international usage 1.1 Introduction 1.2 The international system of units 1.3 Significant figures 1.4 Dimensions of physical quantities 1.5...",
+        "PHYSICS 2 Table 1.1 SI Base Quantities and Units* in scientific, technical, industrial and commercial work.",
+        "Because SI units used decimal system, conversions within the system are quite simple and convenient.",
+        "In SI, there are seven base units as given in Table 1.1."
+      ],
+      "correct_answer": 0,
+      "pattern": "statement",
+      "source_trace": "NCERT Class 11 Physics Ch1 pg 1",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 3,
+      "concepts_tested": [
+        "1.2 THE INTERNATIONAL SYSTEM OF UNITS"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Physical World, which statement is supported by the source text about 1.2 The international system of?",
+      "options": [
+        "Besides the seven base units, there are two more units that are defined for (a) plane angle d q as the ratio of length...",
+        "The unit for plane angle is radian with the symbol rad and the unit for the solid angle is steradian with the symbol sr.",
+        "1.1 Description of (a) plane angle d q and (b) solid angle d .",
+        "Base SI Units quantity Name Symbol Definition Length metre m The metre is the SI unit of length."
+      ],
+      "correct_answer": 0,
+      "pattern": "statement",
+      "source_trace": "NCERT Class 11 Physics Ch1 pg 1",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 3,
+      "concepts_tested": [
+        "1.2 The international system of"
+      ]
+    }
+  ],
+  "source_audit": {
+    "source_only": true,
+    "uncertain_or_omitted": [],
+    "generation_method": "local_source_only_extractive_decode"
+  },
+  "content_model": "clearupsc_textbook_decoded_from_source_v1",
+  "decode_status": "textbook_decoded",
+  "source": {
+    "book": "NCERT Class 11 Physics",
+    "chapter": 1,
+    "chapter_title": "Physical World",
+    "pdf_url": "https://ncert.nic.in/textbook.php?keph1=0-15",
+    "page_range": "pending source extraction"
+  },
+  "resolved_pdf_url": "https://ncert.nic.in/textbook/pdf/keph101.pdf",
+  "source_trace": "NCERT Class 11 Physics | Chapter 1: Physical World | https://ncert.nic.in/textbook/pdf/keph101.pdf | sha256:04d15c49505f58b1a56e5f984ae66efb80132e852260883dcf6ab7a31ff1150d",
+  "raw_text_path": "data/study/textbook-first/raw-text/gs3_sci_class11_physics_ch01_physical_world.txt",
+  "generated_by": "local_source_only_extractive_decode",
+  "generated_at": "2026-05-26T19:40:00.548Z"
+}

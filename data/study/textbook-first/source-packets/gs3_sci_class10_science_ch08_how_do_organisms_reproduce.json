@@ -1,0 +1,73 @@
+{
+  "key": "gs3_sci_class10_science_ch08_how_do_organisms_reproduce",
+  "title": "How Do Organisms Reproduce",
+  "source": {
+    "book": "NCERT Class 10 Science",
+    "chapter": 8,
+    "chapter_title": "How Do Organisms Reproduce",
+    "pdf_url": "https://ncert.nic.in/textbook.php?jesc1=0-16",
+    "page_range": "pending source extraction"
+  },
+  "resolved_pdf_url": "https://ncert.nic.in/textbook/pdf/jesc108.pdf",
+  "sha256": "b0357c0bcc860190c9d3dccc7c91ee31a65012442e795be5bc00cd9f621bff5b",
+  "extraction": {
+    "raw_text_path": "data/study/textbook-first/raw-text/gs3_sci_class10_science_ch08_how_do_organisms_reproduce.txt",
+    "extracted_characters": 16063,
+    "page_count": 6,
+    "paragraph_count_estimate": 1,
+    "title_match_score": 0.5
+  },
+  "concept_candidates": [
+    {
+      "title": "8 CHAPTER",
+      "first_seen_page_index": 1,
+      "source_trace": "NCERT Class 10 Science, Chapter 8, extracted page 1"
+    },
+    {
+      "title": "8.2 HEREDITY 8.2 HEREDITY 8.2 HEREDITY 8.2 HEREDITY 8.2 HEREDITY",
+      "first_seen_page_index": 2,
+      "source_trace": "NCERT Class 10 Science, Chapter 8, extracted page 2"
+    },
+    {
+      "title": "8.2.1 Inherited Traits",
+      "first_seen_page_index": 2,
+      "source_trace": "NCERT Class 10 Science, Chapter 8, extracted page 2"
+    },
+    {
+      "title": "Q U E S T I O N S",
+      "first_seen_page_index": 2,
+      "source_trace": "NCERT Class 10 Science, Chapter 8, extracted page 2"
+    },
+    {
+      "title": "8.2.2 Rules for the Inheritance of Traits – –– ––",
+      "first_seen_page_index": 2,
+      "source_trace": "NCERT Class 10 Science, Chapter 8, extracted page 2"
+    },
+    {
+      "title": "RRYY RRYy RrYY RrYy",
+      "first_seen_page_index": 4,
+      "source_trace": "NCERT Class 10 Science, Chapter 8, extracted page 4"
+    },
+    {
+      "title": "8.2.3 How do these Traits get Expressed?",
+      "first_seen_page_index": 4,
+      "source_trace": "NCERT Class 10 Science, Chapter 8, extracted page 4"
+    },
+    {
+      "title": "8.2.4 Sex Determination",
+      "first_seen_page_index": 5,
+      "source_trace": "NCERT Class 10 Science, Chapter 8, extracted page 5"
+    },
+    {
+      "title": "E X E R C I S E S",
+      "first_seen_page_index": 6,
+      "source_trace": "NCERT Class 10 Science, Chapter 8, extracted page 6"
+    },
+    {
+      "title": "(a) TTWW",
+      "first_seen_page_index": 6,
+      "source_trace": "NCERT Class 10 Science, Chapter 8, extracted page 6"
+    }
+  ],
+  "production_status": "concept_candidates_ready_for_human_decode"
+}

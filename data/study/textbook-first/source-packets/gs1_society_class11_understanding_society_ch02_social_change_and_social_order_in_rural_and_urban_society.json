@@ -1,0 +1,213 @@
+{
+  "key": "gs1_society_class11_understanding_society_ch02_social_change_and_social_order_in_rural_and_urban_society",
+  "title": "Social Change and Social Order in Rural and Urban Society",
+  "source": {
+    "book": "NCERT Class 11 Understanding Society",
+    "chapter": 2,
+    "chapter_title": "Social Change and Social Order in Rural and Urban Society",
+    "pdf_url": "https://ncert.nic.in/textbook.php?kesy2=0-5",
+    "page_range": "pending source extraction"
+  },
+  "resolved_pdf_url": "https://ncert.nic.in/textbook/pdf/kesy202.pdf",
+  "sha256": "0c7d0ef9ac4b9c43296a1c167c644e69ba2fcd41850f5cac517992da1023439a",
+  "extraction": {
+    "raw_text_path": "data/study/textbook-first/raw-text/gs1_society_class11_understanding_society_ch02_social_change_and_social_order_in_rural_and_urban_society.txt",
+    "extracted_characters": 64285,
+    "page_count": 29,
+    "paragraph_count_estimate": 0,
+    "title_match_score": 1
+  },
+  "concept_candidates": [
+    {
+      "title": "21 SOCIAL CHANGE AND SOCIAL ORDER IN RURAL AND URBAN SOCIETY",
+      "first_seen_page_index": 1,
+      "source_trace": "NCERT Class 11 Understanding Society, Chapter 2, extracted page 1"
+    },
+    {
+      "title": "CHAPTER 2",
+      "first_seen_page_index": 1,
+      "source_trace": "NCERT Class 11 Understanding Society, Chapter 2, extracted page 1"
+    },
+    {
+      "title": "SOCIAL CHANGE AND SOCIAL ORDER IN RURAL AND",
+      "first_seen_page_index": 1,
+      "source_trace": "NCERT Class 11 Understanding Society, Chapter 2, extracted page 1"
+    },
+    {
+      "title": "URBAN SOCIETY",
+      "first_seen_page_index": 1,
+      "source_trace": "NCERT Class 11 Understanding Society, Chapter 2, extracted page 1"
+    },
+    {
+      "title": "22 UNDERSTANDING SOCIETY",
+      "first_seen_page_index": 2,
+      "source_trace": "NCERT Class 11 Understanding Society, Chapter 2, extracted page 2"
+    },
+    {
+      "title": "SOCIAL CHANGE",
+      "first_seen_page_index": 2,
+      "source_trace": "NCERT Class 11 Understanding Society, Chapter 2, extracted page 2"
+    },
+    {
+      "title": "23 SOCIAL CHANGE AND SOCIAL ORDER IN RURAL AND URBAN SOCIETY",
+      "first_seen_page_index": 3,
+      "source_trace": "NCERT Class 11 Understanding Society, Chapter 2, extracted page 3"
+    },
+    {
+      "title": "24 UNDERSTANDING SOCIETY",
+      "first_seen_page_index": 4,
+      "source_trace": "NCERT Class 11 Understanding Society, Chapter 2, extracted page 4"
+    },
+    {
+      "title": "25 SOCIAL CHANGE AND SOCIAL ORDER IN RURAL AND URBAN SOCIETY",
+      "first_seen_page_index": 5,
+      "source_trace": "NCERT Class 11 Understanding Society, Chapter 2, extracted page 5"
+    },
+    {
+      "title": "26 UNDERSTANDING SOCIETY",
+      "first_seen_page_index": 6,
+      "source_trace": "NCERT Class 11 Understanding Society, Chapter 2, extracted page 6"
+    },
+    {
+      "title": "27 SOCIAL CHANGE AND SOCIAL ORDER IN RURAL AND URBAN SOCIETY",
+      "first_seen_page_index": 7,
+      "source_trace": "NCERT Class 11 Understanding Society, Chapter 2, extracted page 7"
+    },
+    {
+      "title": "28 UNDERSTANDING SOCIETY",
+      "first_seen_page_index": 8,
+      "source_trace": "NCERT Class 11 Understanding Society, Chapter 2, extracted page 8"
+    },
+    {
+      "title": "29 SOCIAL CHANGE AND SOCIAL ORDER IN RURAL AND URBAN SOCIETY",
+      "first_seen_page_index": 9,
+      "source_trace": "NCERT Class 11 Understanding Society, Chapter 2, extracted page 9"
+    },
+    {
+      "title": "30 UNDERSTANDING SOCIETY",
+      "first_seen_page_index": 10,
+      "source_trace": "NCERT Class 11 Understanding Society, Chapter 2, extracted page 10"
+    },
+    {
+      "title": "31 SOCIAL CHANGE AND SOCIAL ORDER IN RURAL AND URBAN SOCIETY",
+      "first_seen_page_index": 11,
+      "source_trace": "NCERT Class 11 Understanding Society, Chapter 2, extracted page 11"
+    },
+    {
+      "title": "32 UNDERSTANDING SOCIETY",
+      "first_seen_page_index": 12,
+      "source_trace": "NCERT Class 11 Understanding Society, Chapter 2, extracted page 12"
+    },
+    {
+      "title": "SOCIAL ORDER",
+      "first_seen_page_index": 12,
+      "source_trace": "NCERT Class 11 Understanding Society, Chapter 2, extracted page 12"
+    },
+    {
+      "title": "33 SOCIAL CHANGE AND SOCIAL ORDER IN RURAL AND URBAN SOCIETY",
+      "first_seen_page_index": 13,
+      "source_trace": "NCERT Class 11 Understanding Society, Chapter 2, extracted page 13"
+    },
+    {
+      "title": "34 UNDERSTANDING SOCIETY",
+      "first_seen_page_index": 14,
+      "source_trace": "NCERT Class 11 Understanding Society, Chapter 2, extracted page 14"
+    },
+    {
+      "title": "35 SOCIAL CHANGE AND SOCIAL ORDER IN RURAL AND URBAN SOCIETY",
+      "first_seen_page_index": 15,
+      "source_trace": "NCERT Class 11 Understanding Society, Chapter 2, extracted page 15"
+    },
+    {
+      "title": "36 UNDERSTANDING SOCIETY",
+      "first_seen_page_index": 16,
+      "source_trace": "NCERT Class 11 Understanding Society, Chapter 2, extracted page 16"
+    },
+    {
+      "title": "37 SOCIAL CHANGE AND SOCIAL ORDER IN RURAL AND URBAN SOCIETY",
+      "first_seen_page_index": 17,
+      "source_trace": "NCERT Class 11 Understanding Society, Chapter 2, extracted page 17"
+    },
+    {
+      "title": "SOCIAL ORDER AND CHANGE IN VILLAGE,",
+      "first_seen_page_index": 17,
+      "source_trace": "NCERT Class 11 Understanding Society, Chapter 2, extracted page 17"
+    },
+    {
+      "title": "TOWN AND CITY",
+      "first_seen_page_index": 17,
+      "source_trace": "NCERT Class 11 Understanding Society, Chapter 2, extracted page 17"
+    },
+    {
+      "title": "38 UNDERSTANDING SOCIETY",
+      "first_seen_page_index": 18,
+      "source_trace": "NCERT Class 11 Understanding Society, Chapter 2, extracted page 18"
+    },
+    {
+      "title": "39 SOCIAL CHANGE AND SOCIAL ORDER IN RURAL AND URBAN SOCIETY",
+      "first_seen_page_index": 19,
+      "source_trace": "NCERT Class 11 Understanding Society, Chapter 2, extracted page 19"
+    },
+    {
+      "title": "40 UNDERSTANDING SOCIETY",
+      "first_seen_page_index": 20,
+      "source_trace": "NCERT Class 11 Understanding Society, Chapter 2, extracted page 20"
+    },
+    {
+      "title": "(MGNREGA).",
+      "first_seen_page_index": 20,
+      "source_trace": "NCERT Class 11 Understanding Society, Chapter 2, extracted page 20"
+    },
+    {
+      "title": "41 SOCIAL CHANGE AND SOCIAL ORDER IN RURAL AND URBAN SOCIETY",
+      "first_seen_page_index": 21,
+      "source_trace": "NCERT Class 11 Understanding Society, Chapter 2, extracted page 21"
+    },
+    {
+      "title": "42 UNDERSTANDING SOCIETY",
+      "first_seen_page_index": 22,
+      "source_trace": "NCERT Class 11 Understanding Society, Chapter 2, extracted page 22"
+    },
+    {
+      "title": "43 SOCIAL CHANGE AND SOCIAL ORDER IN RURAL AND URBAN SOCIETY",
+      "first_seen_page_index": 23,
+      "source_trace": "NCERT Class 11 Understanding Society, Chapter 2, extracted page 23"
+    },
+    {
+      "title": "44 UNDERSTANDING SOCIETY",
+      "first_seen_page_index": 24,
+      "source_trace": "NCERT Class 11 Understanding Society, Chapter 2, extracted page 24"
+    },
+    {
+      "title": "45 SOCIAL CHANGE AND SOCIAL ORDER IN RURAL AND URBAN SOCIETY",
+      "first_seen_page_index": 25,
+      "source_trace": "NCERT Class 11 Understanding Society, Chapter 2, extracted page 25"
+    },
+    {
+      "title": "46 UNDERSTANDING SOCIETY",
+      "first_seen_page_index": 26,
+      "source_trace": "NCERT Class 11 Understanding Society, Chapter 2, extracted page 26"
+    },
+    {
+      "title": "47 SOCIAL CHANGE AND SOCIAL ORDER IN RURAL AND URBAN SOCIETY",
+      "first_seen_page_index": 27,
+      "source_trace": "NCERT Class 11 Understanding Society, Chapter 2, extracted page 27"
+    },
+    {
+      "title": "GLOSSARY",
+      "first_seen_page_index": 27,
+      "source_trace": "NCERT Class 11 Understanding Society, Chapter 2, extracted page 27"
+    },
+    {
+      "title": "48 UNDERSTANDING SOCIETY",
+      "first_seen_page_index": 28,
+      "source_trace": "NCERT Class 11 Understanding Society, Chapter 2, extracted page 28"
+    },
+    {
+      "title": "49 SOCIAL CHANGE AND SOCIAL ORDER IN RURAL AND URBAN SOCIETY",
+      "first_seen_page_index": 29,
+      "source_trace": "NCERT Class 11 Understanding Society, Chapter 2, extracted page 29"
+    }
+  ],
+  "production_status": "concept_candidates_ready_for_human_decode"
+}

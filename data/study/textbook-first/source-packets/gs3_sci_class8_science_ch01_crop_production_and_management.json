@@ -1,0 +1,223 @@
+{
+  "key": "gs3_sci_class8_science_ch01_crop_production_and_management",
+  "title": "Crop Production and Management",
+  "source": {
+    "book": "NCERT Class 8 Science",
+    "chapter": 1,
+    "chapter_title": "Crop Production and Management",
+    "pdf_url": "https://ncert.nic.in/textbook.php?hesc1=0-18",
+    "page_range": "pending source extraction"
+  },
+  "resolved_pdf_url": "https://ncert.nic.in/textbook/pdf/hesc101.pdf",
+  "sha256": "0640c479963c8fb3e60eb03132e5cbbffd7dbd80ec83bb45dfd76d24eb442e64",
+  "extraction": {
+    "raw_text_path": "data/study/textbook-first/raw-text/gs3_sci_class8_science_ch01_crop_production_and_management.txt",
+    "extracted_characters": 27451,
+    "page_count": 16,
+    "paragraph_count_estimate": 0,
+    "title_match_score": 1
+  },
+  "concept_candidates": [
+    {
+      "title": "CROP PRODUCTION AND MANAGEMENT CROP PRODUCTION AND MANAGEMENT",
+      "first_seen_page_index": 1,
+      "source_trace": "NCERT Class 8 Science, Chapter 1, extracted page 1"
+    },
+    {
+      "title": "1.1 Agricultural Practices",
+      "first_seen_page_index": 1,
+      "source_trace": "NCERT Class 8 Science, Chapter 1, extracted page 1"
+    },
+    {
+      "title": "SCIENCE 2",
+      "first_seen_page_index": 2,
+      "source_trace": "NCERT Class 8 Science, Chapter 1, extracted page 2"
+    },
+    {
+      "title": "1.2 Basic Practices of Crop",
+      "first_seen_page_index": 2,
+      "source_trace": "NCERT Class 8 Science, Chapter 1, extracted page 2"
+    },
+    {
+      "title": "1.3 Preparation of Soil",
+      "first_seen_page_index": 2,
+      "source_trace": "NCERT Class 8 Science, Chapter 1, extracted page 2"
+    },
+    {
+      "title": "CROP PRODUCTION AND MANAGEMENT 3",
+      "first_seen_page_index": 3,
+      "source_trace": "NCERT Class 8 Science, Chapter 1, extracted page 3"
+    },
+    {
+      "title": "SCIENCE 4",
+      "first_seen_page_index": 4,
+      "source_trace": "NCERT Class 8 Science, Chapter 1, extracted page 4"
+    },
+    {
+      "title": "1.4 Sowing",
+      "first_seen_page_index": 4,
+      "source_trace": "NCERT Class 8 Science, Chapter 1, extracted page 4"
+    },
+    {
+      "title": "CROP PRODUCTION AND MANAGEMENT 5",
+      "first_seen_page_index": 5,
+      "source_trace": "NCERT Class 8 Science, Chapter 1, extracted page 5"
+    },
+    {
+      "title": "1.5 Adding Manure and",
+      "first_seen_page_index": 5,
+      "source_trace": "NCERT Class 8 Science, Chapter 1, extracted page 5"
+    },
+    {
+      "title": "SCIENCE 6",
+      "first_seen_page_index": 6,
+      "source_trace": "NCERT Class 8 Science, Chapter 1, extracted page 6"
+    },
+    {
+      "title": "CROP PRODUCTION AND MANAGEMENT 7",
+      "first_seen_page_index": 7,
+      "source_trace": "NCERT Class 8 Science, Chapter 1, extracted page 7"
+    },
+    {
+      "title": "1.6 Irrigation",
+      "first_seen_page_index": 7,
+      "source_trace": "NCERT Class 8 Science, Chapter 1, extracted page 7"
+    },
+    {
+      "title": "SCIENCE 8",
+      "first_seen_page_index": 8,
+      "source_trace": "NCERT Class 8 Science, Chapter 1, extracted page 8"
+    },
+    {
+      "title": "CROP PRODUCTION AND MANAGEMENT 9",
+      "first_seen_page_index": 9,
+      "source_trace": "NCERT Class 8 Science, Chapter 1, extracted page 9"
+    },
+    {
+      "title": "SCIENCE 10",
+      "first_seen_page_index": 10,
+      "source_trace": "NCERT Class 8 Science, Chapter 1, extracted page 10"
+    },
+    {
+      "title": "1.7 Protection from Weeds",
+      "first_seen_page_index": 10,
+      "source_trace": "NCERT Class 8 Science, Chapter 1, extracted page 10"
+    },
+    {
+      "title": "1.8 Harvesting",
+      "first_seen_page_index": 10,
+      "source_trace": "NCERT Class 8 Science, Chapter 1, extracted page 10"
+    },
+    {
+      "title": "CROP PRODUCTION AND MANAGEMENT 11",
+      "first_seen_page_index": 11,
+      "source_trace": "NCERT Class 8 Science, Chapter 1, extracted page 11"
+    },
+    {
+      "title": "1.9 Storage",
+      "first_seen_page_index": 11,
+      "source_trace": "NCERT Class 8 Science, Chapter 1, extracted page 11"
+    },
+    {
+      "title": "SCIENCE 12",
+      "first_seen_page_index": 12,
+      "source_trace": "NCERT Class 8 Science, Chapter 1, extracted page 12"
+    },
+    {
+      "title": "1.10 Food from Animals Fig. 1.10 (a) : Silos for storage of grains",
+      "first_seen_page_index": 12,
+      "source_trace": "NCERT Class 8 Science, Chapter 1, extracted page 12"
+    },
+    {
+      "title": "CROP PRODUCTION AND MANAGEMENT 13",
+      "first_seen_page_index": 13,
+      "source_trace": "NCERT Class 8 Science, Chapter 1, extracted page 13"
+    },
+    {
+      "title": "KEYWORDS KEYWORDS KEYWORDS KEYWORDS KEYWORDS",
+      "first_seen_page_index": 13,
+      "source_trace": "NCERT Class 8 Science, Chapter 1, extracted page 13"
+    },
+    {
+      "title": "AGRICULTURAL",
+      "first_seen_page_index": 13,
+      "source_trace": "NCERT Class 8 Science, Chapter 1, extracted page 13"
+    },
+    {
+      "title": "PRACTICES",
+      "first_seen_page_index": 13,
+      "source_trace": "NCERT Class 8 Science, Chapter 1, extracted page 13"
+    },
+    {
+      "title": "ANIMAL HUSBANDRY",
+      "first_seen_page_index": 13,
+      "source_trace": "NCERT Class 8 Science, Chapter 1, extracted page 13"
+    },
+    {
+      "title": "CROP",
+      "first_seen_page_index": 13,
+      "source_trace": "NCERT Class 8 Science, Chapter 1, extracted page 13"
+    },
+    {
+      "title": "FERTILISER",
+      "first_seen_page_index": 13,
+      "source_trace": "NCERT Class 8 Science, Chapter 1, extracted page 13"
+    },
+    {
+      "title": "GRANARIES",
+      "first_seen_page_index": 13,
+      "source_trace": "NCERT Class 8 Science, Chapter 1, extracted page 13"
+    },
+    {
+      "title": "HARVESTING",
+      "first_seen_page_index": 13,
+      "source_trace": "NCERT Class 8 Science, Chapter 1, extracted page 13"
+    },
+    {
+      "title": "IRRIGATION",
+      "first_seen_page_index": 13,
+      "source_trace": "NCERT Class 8 Science, Chapter 1, extracted page 13"
+    },
+    {
+      "title": "KHARIF",
+      "first_seen_page_index": 13,
+      "source_trace": "NCERT Class 8 Science, Chapter 1, extracted page 13"
+    },
+    {
+      "title": "MANURE",
+      "first_seen_page_index": 13,
+      "source_trace": "NCERT Class 8 Science, Chapter 1, extracted page 13"
+    },
+    {
+      "title": "PLOUGH",
+      "first_seen_page_index": 13,
+      "source_trace": "NCERT Class 8 Science, Chapter 1, extracted page 13"
+    },
+    {
+      "title": "RABI",
+      "first_seen_page_index": 13,
+      "source_trace": "NCERT Class 8 Science, Chapter 1, extracted page 13"
+    },
+    {
+      "title": "SEEDS",
+      "first_seen_page_index": 13,
+      "source_trace": "NCERT Class 8 Science, Chapter 1, extracted page 13"
+    },
+    {
+      "title": "SILO",
+      "first_seen_page_index": 13,
+      "source_trace": "NCERT Class 8 Science, Chapter 1, extracted page 13"
+    },
+    {
+      "title": "SOWING",
+      "first_seen_page_index": 13,
+      "source_trace": "NCERT Class 8 Science, Chapter 1, extracted page 13"
+    },
+    {
+      "title": "STORAGE",
+      "first_seen_page_index": 13,
+      "source_trace": "NCERT Class 8 Science, Chapter 1, extracted page 13"
+    }
+  ],
+  "production_status": "concept_candidates_ready_for_human_decode"
+}

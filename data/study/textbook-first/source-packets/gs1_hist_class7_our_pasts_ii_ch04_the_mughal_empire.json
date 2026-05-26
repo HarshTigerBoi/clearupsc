@@ -1,0 +1,68 @@
+{
+  "key": "gs1_hist_class7_our_pasts_ii_ch04_the_mughal_empire",
+  "title": "The Mughal Empire",
+  "source": {
+    "book": "NCERT Class 7 Our Pasts II",
+    "chapter": 4,
+    "chapter_title": "The Mughal Empire",
+    "pdf_url": "https://ncert.nic.in/textbook.php?gess1=0-10",
+    "page_range": "pending source extraction"
+  },
+  "resolved_pdf_url": "https://ncert.nic.in/textbook/pdf/gess104.pdf",
+  "sha256": "c50ba0c363586bddb4834f2883d378fa848e6c2239836a5f6057a376f97a7f0b",
+  "extraction": {
+    "raw_text_path": "data/study/textbook-first/raw-text/gs1_hist_class7_our_pasts_ii_ch04_the_mughal_empire.txt",
+    "extracted_characters": 12040,
+    "page_count": 10,
+    "paragraph_count_estimate": 0,
+    "title_match_score": 1
+  },
+  "concept_candidates": [
+    {
+      "title": "39 THE MUGHALS",
+      "first_seen_page_index": 1,
+      "source_trace": "NCERT Class 7 Our Pasts II, Chapter 4, extracted page 1"
+    },
+    {
+      "title": "THE MUGHALS",
+      "first_seen_page_index": 1,
+      "source_trace": "NCERT Class 7 Our Pasts II, Chapter 4, extracted page 1"
+    },
+    {
+      "title": "( 16th TO 17 th CENTURY)",
+      "first_seen_page_index": 1,
+      "source_trace": "NCERT Class 7 Our Pasts II, Chapter 4, extracted page 1"
+    },
+    {
+      "title": "41 THE MUGHALS",
+      "first_seen_page_index": 3,
+      "source_trace": "NCERT Class 7 Our Pasts II, Chapter 4, extracted page 3"
+    },
+    {
+      "title": "43 THE MUGHALS",
+      "first_seen_page_index": 5,
+      "source_trace": "NCERT Class 7 Our Pasts II, Chapter 4, extracted page 5"
+    },
+    {
+      "title": "45 THE MUGHALS",
+      "first_seen_page_index": 7,
+      "source_trace": "NCERT Class 7 Our Pasts II, Chapter 4, extracted page 7"
+    },
+    {
+      "title": "47 THE MUGHALS",
+      "first_seen_page_index": 9,
+      "source_trace": "NCERT Class 7 Our Pasts II, Chapter 4, extracted page 9"
+    },
+    {
+      "title": "4 What was the relationship between the and",
+      "first_seen_page_index": 9,
+      "source_trace": "NCERT Class 7 Our Pasts II, Chapter 4, extracted page 9"
+    },
+    {
+      "title": "KEYWORDS",
+      "first_seen_page_index": 9,
+      "source_trace": "NCERT Class 7 Our Pasts II, Chapter 4, extracted page 9"
+    }
+  ],
+  "production_status": "concept_candidates_ready_for_human_decode"
+}

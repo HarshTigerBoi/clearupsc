@@ -1,0 +1,88 @@
+{
+  "key": "gs1_geo_class10_contemporary_india_ii_ch03_water_resources",
+  "title": "Water Resources",
+  "source": {
+    "book": "NCERT Class 10 Contemporary India II",
+    "chapter": 3,
+    "chapter_title": "Water Resources",
+    "pdf_url": "https://ncert.nic.in/textbook.php?jess3=0-7",
+    "page_range": "pending source extraction"
+  },
+  "resolved_pdf_url": "https://ncert.nic.in/textbook/pdf/jess103.pdf",
+  "sha256": "ae54e2c551c4f5f2a84ca7b8f48d84daf4e9fdd4aac212a7dbf74372efd73523",
+  "extraction": {
+    "raw_text_path": "data/study/textbook-first/raw-text/gs1_geo_class10_contemporary_india_ii_ch03_water_resources.txt",
+    "extracted_characters": 23245,
+    "page_count": 11,
+    "paragraph_count_estimate": 2,
+    "title_match_score": 1
+  },
+  "concept_candidates": [
+    {
+      "title": "WATER SCARCITY AND THE NEED FOR WATER",
+      "first_seen_page_index": 1,
+      "source_trace": "NCERT Class 10 Contemporary India II, Chapter 3, extracted page 1"
+    },
+    {
+      "title": "CONSERVATION AND MANAGEMENT",
+      "first_seen_page_index": 1,
+      "source_trace": "NCERT Class 10 Contemporary India II, Chapter 3, extracted page 1"
+    },
+    {
+      "title": "20 CONTEMPORARY INDIA – II",
+      "first_seen_page_index": 2,
+      "source_trace": "NCERT Class 10 Contemporary India II, Chapter 3, extracted page 2"
+    },
+    {
+      "title": "21 WATER RESOURCES",
+      "first_seen_page_index": 3,
+      "source_trace": "NCERT Class 10 Contemporary India II, Chapter 3, extracted page 3"
+    },
+    {
+      "title": "22 CONTEMPORARY INDIA – II",
+      "first_seen_page_index": 4,
+      "source_trace": "NCERT Class 10 Contemporary India II, Chapter 3, extracted page 4"
+    },
+    {
+      "title": "23 WATER RESOURCES",
+      "first_seen_page_index": 5,
+      "source_trace": "NCERT Class 10 Contemporary India II, Chapter 3, extracted page 5"
+    },
+    {
+      "title": "24 CONTEMPORARY INDIA – II",
+      "first_seen_page_index": 6,
+      "source_trace": "NCERT Class 10 Contemporary India II, Chapter 3, extracted page 6"
+    },
+    {
+      "title": "25 WATER RESOURCES",
+      "first_seen_page_index": 7,
+      "source_trace": "NCERT Class 10 Contemporary India II, Chapter 3, extracted page 7"
+    },
+    {
+      "title": "26 CONTEMPORARY INDIA – II",
+      "first_seen_page_index": 8,
+      "source_trace": "NCERT Class 10 Contemporary India II, Chapter 3, extracted page 8"
+    },
+    {
+      "title": "27 WATER RESOURCES",
+      "first_seen_page_index": 9,
+      "source_trace": "NCERT Class 10 Contemporary India II, Chapter 3, extracted page 9"
+    },
+    {
+      "title": "28 CONTEMPORARY INDIA – II",
+      "first_seen_page_index": 10,
+      "source_trace": "NCERT Class 10 Contemporary India II, Chapter 3, extracted page 10"
+    },
+    {
+      "title": "BAMBOO DRIP IRRIGATION SYSTEM",
+      "first_seen_page_index": 10,
+      "source_trace": "NCERT Class 10 Contemporary India II, Chapter 3, extracted page 10"
+    },
+    {
+      "title": "29 WATER RESOURCES",
+      "first_seen_page_index": 11,
+      "source_trace": "NCERT Class 10 Contemporary India II, Chapter 3, extracted page 11"
+    }
+  ],
+  "production_status": "concept_candidates_ready_for_human_decode"
+}

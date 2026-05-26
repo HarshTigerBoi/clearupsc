@@ -143,7 +143,7 @@ function shortenAnalogy(text: string, title: string) {
 }
 
 function makeDefaultAnalogy(title: string) {
-  return `Think of ${title} like a difficult game rule explained by a patient teacher. First understand what problem it solves, then remember the official terms. Once the idea is clear, the textbook language becomes much easier.`;
+  return `Start with the source for ${title}. First identify the problem the chapter explains, then note the official terms and how the question can test them.`;
 }
 
 function normalizeDefinitions(value: unknown, full: string, title: string) {

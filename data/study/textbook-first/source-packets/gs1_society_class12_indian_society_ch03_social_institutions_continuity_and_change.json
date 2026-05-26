@@ -1,0 +1,38 @@
+{
+  "key": "gs1_society_class12_indian_society_ch03_social_institutions_continuity_and_change",
+  "title": "Social Institutions Continuity and Change",
+  "source": {
+    "book": "NCERT Class 12 Indian Society",
+    "chapter": 3,
+    "chapter_title": "Social Institutions Continuity and Change",
+    "pdf_url": "https://ncert.nic.in/textbook.php?lesy1=0-7",
+    "page_range": "pending source extraction"
+  },
+  "resolved_pdf_url": "https://ncert.nic.in/textbook/pdf/lesy103.pdf",
+  "sha256": "b80673be82716585ae01ee526fd608591bcdb427b59f203fb324ea06685c1fe9",
+  "extraction": {
+    "raw_text_path": "data/study/textbook-first/raw-text/gs1_society_class12_indian_society_ch03_social_institutions_continuity_and_change.txt",
+    "extracted_characters": 43659,
+    "page_count": 18,
+    "paragraph_count_estimate": 0,
+    "title_match_score": 1
+  },
+  "concept_candidates": [
+    {
+      "title": "3.1 C aste and the Caste system",
+      "first_seen_page_index": 2,
+      "source_trace": "NCERT Class 12 Indian Society, Chapter 3, extracted page 2"
+    },
+    {
+      "title": "3.3 Family and Kinship",
+      "first_seen_page_index": 14,
+      "source_trace": "NCERT Class 12 Indian Society, Chapter 3, extracted page 14"
+    },
+    {
+      "title": "NUCLEAR AND EXTENDED FAMILY",
+      "first_seen_page_index": 15,
+      "source_trace": "NCERT Class 12 Indian Society, Chapter 3, extracted page 15"
+    }
+  ],
+  "production_status": "concept_candidates_ready_for_human_decode"
+}

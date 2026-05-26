@@ -1,0 +1,98 @@
+{
+  "key": "gs1_hist_class8_our_pasts_iii_ch02_from_trade_to_territory",
+  "title": "From Trade to Territory",
+  "source": {
+    "book": "NCERT Class 8 Our Pasts III",
+    "chapter": 2,
+    "chapter_title": "From Trade to Territory",
+    "pdf_url": "https://ncert.nic.in/textbook.php?hess1=0-10",
+    "page_range": "pending source extraction"
+  },
+  "resolved_pdf_url": "https://ncert.nic.in/textbook/pdf/hess202.pdf",
+  "sha256": "439adc99a27442579d4c7545c590af736688392f69eea91e4bb5172b0b397210",
+  "extraction": {
+    "raw_text_path": "data/study/textbook-first/raw-text/gs1_hist_class8_our_pasts_iii_ch02_from_trade_to_territory.txt",
+    "extracted_characters": 33708,
+    "page_count": 17,
+    "paragraph_count_estimate": 0,
+    "title_match_score": 1
+  },
+  "concept_candidates": [
+    {
+      "title": "10 OUR PASTS – III",
+      "first_seen_page_index": 2,
+      "source_trace": "NCERT Class 8 Our Pasts III, Chapter 2, extracted page 2"
+    },
+    {
+      "title": "FROM TRADE TO TERRITORY 11",
+      "first_seen_page_index": 3,
+      "source_trace": "NCERT Class 8 Our Pasts III, Chapter 2, extracted page 3"
+    },
+    {
+      "title": "12 OUR PASTS – III",
+      "first_seen_page_index": 4,
+      "source_trace": "NCERT Class 8 Our Pasts III, Chapter 2, extracted page 4"
+    },
+    {
+      "title": "FROM TRADE TO TERRITORY 13",
+      "first_seen_page_index": 5,
+      "source_trace": "NCERT Class 8 Our Pasts III, Chapter 2, extracted page 5"
+    },
+    {
+      "title": "14 OUR PASTS – III",
+      "first_seen_page_index": 6,
+      "source_trace": "NCERT Class 8 Our Pasts III, Chapter 2, extracted page 6"
+    },
+    {
+      "title": "FROM TRADE TO TERRITORY 15",
+      "first_seen_page_index": 7,
+      "source_trace": "NCERT Class 8 Our Pasts III, Chapter 2, extracted page 7"
+    },
+    {
+      "title": "16 OUR PASTS – III",
+      "first_seen_page_index": 8,
+      "source_trace": "NCERT Class 8 Our Pasts III, Chapter 2, extracted page 8"
+    },
+    {
+      "title": "18 OUR PASTS – III",
+      "first_seen_page_index": 10,
+      "source_trace": "NCERT Class 8 Our Pasts III, Chapter 2, extracted page 10"
+    },
+    {
+      "title": "FROM TRADE TO TERRITORY 19",
+      "first_seen_page_index": 11,
+      "source_trace": "NCERT Class 8 Our Pasts III, Chapter 2, extracted page 11"
+    },
+    {
+      "title": "20 OUR PASTS – III",
+      "first_seen_page_index": 12,
+      "source_trace": "NCERT Class 8 Our Pasts III, Chapter 2, extracted page 12"
+    },
+    {
+      "title": "FROM TRADE TO TERRITORY 21",
+      "first_seen_page_index": 13,
+      "source_trace": "NCERT Class 8 Our Pasts III, Chapter 2, extracted page 13"
+    },
+    {
+      "title": "22 OUR PASTS – III",
+      "first_seen_page_index": 14,
+      "source_trace": "NCERT Class 8 Our Pasts III, Chapter 2, extracted page 14"
+    },
+    {
+      "title": "FROM TRADE TO TERRITORY 23",
+      "first_seen_page_index": 15,
+      "source_trace": "NCERT Class 8 Our Pasts III, Chapter 2, extracted page 15"
+    },
+    {
+      "title": "24 OUR PASTS – III",
+      "first_seen_page_index": 16,
+      "source_trace": "NCERT Class 8 Our Pasts III, Chapter 2, extracted page 16"
+    },
+    {
+      "title": "FROM TRADE TO TERRITORY 25",
+      "first_seen_page_index": 17,
+      "source_trace": "NCERT Class 8 Our Pasts III, Chapter 2, extracted page 17"
+    }
+  ],
+  "production_status": "concept_candidates_ready_for_human_decode"
+}

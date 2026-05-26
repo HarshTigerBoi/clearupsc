@@ -1,0 +1,38 @@
+{
+  "key": "gs1_society_class12_social_change_ch04_change_and_development_in_rural_society",
+  "title": "Change and Development in Rural Society",
+  "source": {
+    "book": "NCERT Class 12 Social Change and Development in India",
+    "chapter": 4,
+    "chapter_title": "Change and Development in Rural Society",
+    "pdf_url": "https://ncert.nic.in/textbook.php?lesy2=0-8",
+    "page_range": "pending source extraction"
+  },
+  "resolved_pdf_url": "https://ncert.nic.in/textbook/pdf/lesy204.pdf",
+  "sha256": "2956b9f207d5ed176bb9eb18645ee13f6acdc9eba4b84804e895f59de5737efa",
+  "extraction": {
+    "raw_text_path": "data/study/textbook-first/raw-text/gs1_society_class12_social_change_ch04_change_and_development_in_rural_society.txt",
+    "extracted_characters": 41539,
+    "page_count": 18,
+    "paragraph_count_estimate": 0,
+    "title_match_score": 1
+  },
+  "concept_candidates": [
+    {
+      "title": "2011 Census). They make their living from agriculture or related occupations.",
+      "first_seen_page_index": 2,
+      "source_trace": "NCERT Class 12 Social Change and Development in India, Chapter 4, extracted page 2"
+    },
+    {
+      "title": "4.1 AgrAriAn Structure: cASte And",
+      "first_seen_page_index": 4,
+      "source_trace": "NCERT Class 12 Social Change and Development in India, Chapter 4, extracted page 4"
+    },
+    {
+      "title": "4.6 Globalisation, liberalisation,",
+      "first_seen_page_index": 13,
+      "source_trace": "NCERT Class 12 Social Change and Development in India, Chapter 4, extracted page 13"
+    }
+  ],
+  "production_status": "concept_candidates_ready_for_human_decode"
+}

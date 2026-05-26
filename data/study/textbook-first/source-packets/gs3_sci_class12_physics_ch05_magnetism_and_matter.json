@@ -1,0 +1,193 @@
+{
+  "key": "gs3_sci_class12_physics_ch05_magnetism_and_matter",
+  "title": "Magnetism and Matter",
+  "source": {
+    "book": "NCERT Class 12 Physics",
+    "chapter": 5,
+    "chapter_title": "Magnetism and Matter",
+    "pdf_url": "https://ncert.nic.in/textbook.php?leph1=0-14",
+    "page_range": "pending source extraction"
+  },
+  "resolved_pdf_url": "https://ncert.nic.in/textbook/pdf/leph105.pdf",
+  "sha256": "7ec2926362f9193efdb93c6e2e7b3cdc0909eeed29626c00f5afdcda84b6af80",
+  "extraction": {
+    "raw_text_path": "data/study/textbook-first/raw-text/gs3_sci_class12_physics_ch05_magnetism_and_matter.txt",
+    "extracted_characters": 37592,
+    "page_count": 18,
+    "paragraph_count_estimate": 1,
+    "title_match_score": 1
+  },
+  "concept_candidates": [
+    {
+      "title": "5.1 INTRODUCTION",
+      "first_seen_page_index": 1,
+      "source_trace": "NCERT Class 12 Physics, Chapter 5, extracted page 1"
+    },
+    {
+      "title": "MAGNETISM AND",
+      "first_seen_page_index": 1,
+      "source_trace": "NCERT Class 12 Physics, Chapter 5, extracted page 1"
+    },
+    {
+      "title": "MATTER",
+      "first_seen_page_index": 1,
+      "source_trace": "NCERT Class 12 Physics, Chapter 5, extracted page 1"
+    },
+    {
+      "title": "FIGURE FIGURE FIGURE FIGURE FIGURE 5.1 5.1 5.1 5.1 5.1 The arrangement",
+      "first_seen_page_index": 2,
+      "source_trace": "NCERT Class 12 Physics, Chapter 5, extracted page 2"
+    },
+    {
+      "title": "5.2.2 Bar magnet as an",
+      "first_seen_page_index": 3,
+      "source_trace": "NCERT Class 12 Physics, Chapter 5, extracted page 3"
+    },
+    {
+      "title": "5.2.3 The dipole in a uniform magnetic field",
+      "first_seen_page_index": 4,
+      "source_trace": "NCERT Class 12 Physics, Chapter 5, extracted page 4"
+    },
+    {
+      "title": "EXAMPLE",
+      "first_seen_page_index": 4,
+      "source_trace": "NCERT Class 12 Physics, Chapter 5, extracted page 4"
+    },
+    {
+      "title": "5.2.4 The electrostatic analog",
+      "first_seen_page_index": 5,
+      "source_trace": "NCERT Class 12 Physics, Chapter 5, extracted page 5"
+    },
+    {
+      "title": "TABLE 5.1 THE DIPOLE ANALOGY",
+      "first_seen_page_index": 6,
+      "source_trace": "NCERT Class 12 Physics, Chapter 5, extracted page 6"
+    },
+    {
+      "title": "FIGURE 5.4",
+      "first_seen_page_index": 6,
+      "source_trace": "NCERT Class 12 Physics, Chapter 5, extracted page 6"
+    },
+    {
+      "title": "KARL FRIEDRICH GAUSS (1777 – 1855)",
+      "first_seen_page_index": 7,
+      "source_trace": "NCERT Class 12 Physics, Chapter 5, extracted page 7"
+    },
+    {
+      "title": "5.3 MAGNETISM AND GAUSS’S LAW",
+      "first_seen_page_index": 7,
+      "source_trace": "NCERT Class 12 Physics, Chapter 5, extracted page 7"
+    },
+    {
+      "title": "FIGURE 5.5",
+      "first_seen_page_index": 7,
+      "source_trace": "NCERT Class 12 Physics, Chapter 5, extracted page 7"
+    },
+    {
+      "title": "FIGURE 5.6",
+      "first_seen_page_index": 8,
+      "source_trace": "NCERT Class 12 Physics, Chapter 5, extracted page 8"
+    },
+    {
+      "title": "5.4 MAGNETISATION AND MAGNETIC INTENSITY",
+      "first_seen_page_index": 10,
+      "source_trace": "NCERT Class 12 Physics, Chapter 5, extracted page 10"
+    },
+    {
+      "title": "B = B0 + Bm (5.9)",
+      "first_seen_page_index": 10,
+      "source_trace": "NCERT Class 12 Physics, Chapter 5, extracted page 10"
+    },
+    {
+      "title": "= 400 × 4π ×10–7 (N/A2) × 2 × 103 (A/m)",
+      "first_seen_page_index": 12,
+      "source_trace": "NCERT Class 12 Physics, Chapter 5, extracted page 12"
+    },
+    {
+      "title": "5.5 MAGNETIC PROPERTIES OF MATERIALS",
+      "first_seen_page_index": 12,
+      "source_trace": "NCERT Class 12 Physics, Chapter 5, extracted page 12"
+    },
+    {
+      "title": "TABLE 5.2",
+      "first_seen_page_index": 12,
+      "source_trace": "NCERT Class 12 Physics, Chapter 5, extracted page 12"
+    },
+    {
+      "title": "5.5.1 Diamagnetism",
+      "first_seen_page_index": 12,
+      "source_trace": "NCERT Class 12 Physics, Chapter 5, extracted page 12"
+    },
+    {
+      "title": "FIGURE 5.7",
+      "first_seen_page_index": 12,
+      "source_trace": "NCERT Class 12 Physics, Chapter 5, extracted page 12"
+    },
+    {
+      "title": "5.5.2 Paramagnetism",
+      "first_seen_page_index": 13,
+      "source_trace": "NCERT Class 12 Physics, Chapter 5, extracted page 13"
+    },
+    {
+      "title": "5.5.3 Ferromagnetism",
+      "first_seen_page_index": 14,
+      "source_trace": "NCERT Class 12 Physics, Chapter 5, extracted page 14"
+    },
+    {
+      "title": "FIGURE 5.8",
+      "first_seen_page_index": 14,
+      "source_trace": "NCERT Class 12 Physics, Chapter 5, extracted page 14"
+    },
+    {
+      "title": "SUMMARY",
+      "first_seen_page_index": 14,
+      "source_trace": "NCERT Class 12 Physics, Chapter 5, extracted page 14"
+    },
+    {
+      "title": "B S i B",
+      "first_seen_page_index": 15,
+      "source_trace": "NCERT Class 12 Physics, Chapter 5, extracted page 15"
+    },
+    {
+      "title": "POINTS TO PONDER",
+      "first_seen_page_index": 16,
+      "source_trace": "NCERT Class 12 Physics, Chapter 5, extracted page 16"
+    },
+    {
+      "title": "5.1 A short bar magnet placed with its axis at 30° with a uniform external",
+      "first_seen_page_index": 17,
+      "source_trace": "NCERT Class 12 Physics, Chapter 5, extracted page 17"
+    },
+    {
+      "title": "5.2 A short bar magnet of magnetic moment m = 0.32 J T –1 is placed in a",
+      "first_seen_page_index": 17,
+      "source_trace": "NCERT Class 12 Physics, Chapter 5, extracted page 17"
+    },
+    {
+      "title": "5.3 A closely wound solenoid of 800 turns and area of cross section",
+      "first_seen_page_index": 17,
+      "source_trace": "NCERT Class 12 Physics, Chapter 5, extracted page 17"
+    },
+    {
+      "title": "5.4 If the solenoid in Exercise 5.5 is free to turn about the vertical",
+      "first_seen_page_index": 17,
+      "source_trace": "NCERT Class 12 Physics, Chapter 5, extracted page 17"
+    },
+    {
+      "title": "5.5 A bar magnet of magnetic moment 1.5 J T –1 lies aligned with the",
+      "first_seen_page_index": 17,
+      "source_trace": "NCERT Class 12 Physics, Chapter 5, extracted page 17"
+    },
+    {
+      "title": "5.6 A closely wound solenoid of 2000 turns and area of cross-section",
+      "first_seen_page_index": 17,
+      "source_trace": "NCERT Class 12 Physics, Chapter 5, extracted page 17"
+    },
+    {
+      "title": "5.7 A short bar magnet has a magnetic moment of 0.48 J T –1. Give the",
+      "first_seen_page_index": 18,
+      "source_trace": "NCERT Class 12 Physics, Chapter 5, extracted page 18"
+    }
+  ],
+  "production_status": "concept_candidates_ready_for_human_decode"
+}

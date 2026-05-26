@@ -2,6 +2,8 @@ import { NextRequest } from "next/server";
 import { fail, ok } from "@/lib/api/response";
 import { createClient } from "@/lib/supabase/server";
 import { NCERT_LIBRARY, ncertForTopic } from "@/lib/study/ncert";
+import { getChapterNavigation, getChapterTopic, getLegacyChapterRedirect, type ChapterTopicRecord } from "@/lib/study/ncert-master-index";
+import { loadTextbookChapterOverlay, mergeTextbookChapterOverlay } from "@/lib/study/textbook-content-overlays";
 import { parseStructuredNotes } from "@/lib/study/notes";
 
 interface WikiSummary {
@@ -13,10 +15,21 @@ interface WikiSummary {
 
 export async function GET(_request: NextRequest, { params }: { params: { topicId: string } }) {
   try {
+    const redirectKey = getLegacyChapterRedirect(params.topicId);
+    if (redirectKey) {
+      return fail(`Legacy topic has moved to /study/${redirectKey}.`, 308, { redirectTo: `/study/${redirectKey}` });
+    }
+    const chapterTopic = getChapterTopic(params.topicId);
     const supabase = await createClient();
     const {
       data: { user },
     } = await supabase.auth.getUser();
+    if (chapterTopic) {
+      const progress = user ? await getProgress(supabase, user.id, chapterTopic.key) : null;
+      const overlay = loadTextbookChapterOverlay(chapterTopic.key);
+      const chapterWithOverlay = mergeTextbookChapterOverlay(chapterTopic, overlay);
+      return ok(buildChapterTopicPayload(chapterWithOverlay, progress));
+    }
     const { data: topic, error } = await supabase
       .from("topics")
       .select("*")
@@ -61,6 +74,79 @@ export async function GET(_request: NextRequest, { params }: { params: { topicId
   } catch {
     return fail("Could not load study topic.", 500);
   }
+}
+
+function buildChapterTopicPayload(chapter: ChapterTopicRecord, progress: Awaited<ReturnType<typeof getProgress>>) {
+  const navigation = getChapterNavigation(chapter.key);
+  const ncertRef = {
+    classLevel: chapter.source.book.match(/Class\s+\d+/)?.[0] ?? "NCERT",
+    subject: chapter.subject,
+    gsPaper: chapter.subject.split(" ")[0],
+    book: chapter.source.book,
+    chapter: `Chapter ${chapter.source.chapter}: ${chapter.source.chapter_title}`,
+    url: chapter.source.pdf_url,
+  };
+  const pendingLine = `Source decode pending for ${chapter.source.book}, Chapter ${chapter.source.chapter}: ${chapter.source.chapter_title}. Open the official NCERT source before studying this chapter.`;
+  return {
+    topic: {
+      key: chapter.key,
+      title: chapter.title,
+      subject: chapter.subject,
+      parent_key: null,
+      exam_stage: chapter.paper,
+      upsc_weightage: chapter.upsc_weightage,
+      content_quality: chapter.decode_status,
+      textbook_first: true,
+      decode_status: chapter.decode_status,
+      source: chapter.source,
+      concepts: chapter.concepts,
+      mcqs: chapter.mcqs,
+      mains_framework: chapter.mains_framework,
+      related_chapters: chapter.related_chapters,
+      maps_to_topics: chapter.maps_to_topics,
+    },
+    wiki: null,
+    ncert: [ncertRef],
+    notes: pendingLine,
+    notesStructured: {
+      analogy: {
+        heading: "Source Decode Pending",
+        body: pendingLine,
+      },
+      full_notes: pendingLine,
+      concise_notes: chapter.concise_notes,
+      revision_bullets: chapter.revision_bullets,
+      mindmap: {
+        center: chapter.title,
+        branches: chapter.related_chapters.length ? chapter.related_chapters : ["Source", "Concept map", "Decode", "PYQ trace", "MCQs", "Mains"],
+      },
+      cases: [],
+      schemes: [],
+      ncert_coverage: [`${chapter.source.book}, Chapter ${chapter.source.chapter}: ${chapter.source.chapter_title}`, `Page range: ${chapter.source.page_range}`],
+      prelims_traps: [],
+      mains_angles: chapter.mains_framework.structure,
+      connected_topics: chapter.related_chapters,
+    },
+    sources: [
+      {
+        name: chapter.source.book,
+        url: chapter.source.pdf_url,
+        type: `Official NCERT source, chapter ${chapter.source.chapter}, pages ${chapter.source.page_range}`,
+      },
+    ],
+    progress,
+    mcqs: chapter.mcqs,
+    pyqs: [],
+    prevTopic: navigation.prev ? { key: navigation.prev.key, title: navigation.prev.title } : null,
+    nextTopic: navigation.next ? { key: navigation.next.key, title: navigation.next.title } : null,
+    readTime: {
+      full: "Pending source decode",
+      revision: "Pending source decode",
+    },
+    ncertRefs: [ncertRef],
+    quizQuestions: [],
+    practiceQuestionCount: chapter.mcqs.length,
+  };
 }
 
 async function getProgress(supabase: Awaited<ReturnType<typeof createClient>>, userId: string, topicKey: string) {

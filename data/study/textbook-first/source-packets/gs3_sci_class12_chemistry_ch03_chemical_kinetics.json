@@ -1,0 +1,223 @@
+{
+  "key": "gs3_sci_class12_chemistry_ch03_chemical_kinetics",
+  "title": "Chemical Kinetics",
+  "source": {
+    "book": "NCERT Class 12 Chemistry",
+    "chapter": 3,
+    "chapter_title": "Chemical Kinetics",
+    "pdf_url": "https://ncert.nic.in/textbook.php?lech1=0-10",
+    "page_range": "pending source extraction"
+  },
+  "resolved_pdf_url": "https://ncert.nic.in/textbook/pdf/lech103.pdf",
+  "sha256": "7c822864c114aa805cc63b1e44a028d16d0d4704afc3ad304d4dc4054945f320",
+  "extraction": {
+    "raw_text_path": "data/study/textbook-first/raw-text/gs3_sci_class12_chemistry_ch03_chemical_kinetics.txt",
+    "extracted_characters": 53593,
+    "page_count": 28,
+    "paragraph_count_estimate": 0,
+    "title_match_score": 1
+  },
+  "concept_candidates": [
+    {
+      "title": "62 Chemistry",
+      "first_seen_page_index": 2,
+      "source_trace": "NCERT Class 12 Chemistry, Chapter 3, extracted page 2"
+    },
+    {
+      "title": "D[R] = [R]2 – [R]1",
+      "first_seen_page_index": 2,
+      "source_trace": "NCERT Class 12 Chemistry, Chapter 3, extracted page 2"
+    },
+    {
+      "title": "D [P] = [P]2 – [P]1",
+      "first_seen_page_index": 2,
+      "source_trace": "NCERT Class 12 Chemistry, Chapter 3, extracted page 2"
+    },
+    {
+      "title": "63 Chemical Kinetics",
+      "first_seen_page_index": 3,
+      "source_trace": "NCERT Class 12 Chemistry, Chapter 3, extracted page 3"
+    },
+    {
+      "title": "C4H9Cl + H2O ® C4H9OH + HCl",
+      "first_seen_page_index": 3,
+      "source_trace": "NCERT Class 12 Chemistry, Chapter 3, extracted page 3"
+    },
+    {
+      "title": "64 Chemistry",
+      "first_seen_page_index": 4,
+      "source_trace": "NCERT Class 12 Chemistry, Chapter 3, extracted page 4"
+    },
+    {
+      "title": "[C4H9CI]t1",
+      "first_seen_page_index": 4,
+      "source_trace": "NCERT Class 12 Chemistry, Chapter 3, extracted page 4"
+    },
+    {
+      "title": "/ [C4H9CI]t2",
+      "first_seen_page_index": 4,
+      "source_trace": "NCERT Class 12 Chemistry, Chapter 3, extracted page 4"
+    },
+    {
+      "title": "65 Chemical Kinetics",
+      "first_seen_page_index": 5,
+      "source_trace": "NCERT Class 12 Chemistry, Chapter 3, extracted page 5"
+    },
+    {
+      "title": "5 Br- (aq) + BrO3",
+      "first_seen_page_index": 5,
+      "source_trace": "NCERT Class 12 Chemistry, Chapter 3, extracted page 5"
+    },
+    {
+      "title": "66 Chemistry",
+      "first_seen_page_index": 6,
+      "source_trace": "NCERT Class 12 Chemistry, Chapter 3, extracted page 6"
+    },
+    {
+      "title": "3.1 For the reaction R ® P, the concentration of a reactant changes from 0.03M",
+      "first_seen_page_index": 6,
+      "source_trace": "NCERT Class 12 Chemistry, Chapter 3, extracted page 6"
+    },
+    {
+      "title": "3.2 In a reaction, 2A ® Products, the concentration of A decreases from 0.5",
+      "first_seen_page_index": 6,
+      "source_trace": "NCERT Class 12 Chemistry, Chapter 3, extracted page 6"
+    },
+    {
+      "title": "3.2.2 Rate",
+      "first_seen_page_index": 6,
+      "source_trace": "NCERT Class 12 Chemistry, Chapter 3, extracted page 6"
+    },
+    {
+      "title": "2 N2O5 (g) ® 4 NO2 (g) + O2 (g)",
+      "first_seen_page_index": 6,
+      "source_trace": "NCERT Class 12 Chemistry, Chapter 3, extracted page 6"
+    },
+    {
+      "title": "3.2.1 Dependence",
+      "first_seen_page_index": 6,
+      "source_trace": "NCERT Class 12 Chemistry, Chapter 3, extracted page 6"
+    },
+    {
+      "title": "67 Chemical Kinetics",
+      "first_seen_page_index": 7,
+      "source_trace": "NCERT Class 12 Chemistry, Chapter 3, extracted page 7"
+    },
+    {
+      "title": "68 Chemistry",
+      "first_seen_page_index": 8,
+      "source_trace": "NCERT Class 12 Chemistry, Chapter 3, extracted page 8"
+    },
+    {
+      "title": "d R O NO",
+      "first_seen_page_index": 8,
+      "source_trace": "NCERT Class 12 Chemistry, Chapter 3, extracted page 8"
+    },
+    {
+      "title": "2. CH3COOC2H5 + H2O ® CH3COOH + C2H5OH Rate = k [CH3COOC2H5]1 [H2O]0",
+      "first_seen_page_index": 8,
+      "source_trace": "NCERT Class 12 Chemistry, Chapter 3, extracted page 8"
+    },
+    {
+      "title": "3.2.3 Order of a",
+      "first_seen_page_index": 8,
+      "source_trace": "NCERT Class 12 Chemistry, Chapter 3, extracted page 8"
+    },
+    {
+      "title": "69 Chemical Kinetics",
+      "first_seen_page_index": 9,
+      "source_trace": "NCERT Class 12 Chemistry, Chapter 3, extracted page 9"
+    },
+    {
+      "title": "3.2.4 Molecularity",
+      "first_seen_page_index": 9,
+      "source_trace": "NCERT Class 12 Chemistry, Chapter 3, extracted page 9"
+    },
+    {
+      "title": "70 Chemistry",
+      "first_seen_page_index": 10,
+      "source_trace": "NCERT Class 12 Chemistry, Chapter 3, extracted page 10"
+    },
+    {
+      "title": "NH4NO2 ® N2 + 2H2O",
+      "first_seen_page_index": 10,
+      "source_trace": "NCERT Class 12 Chemistry, Chapter 3, extracted page 10"
+    },
+    {
+      "title": "2HI ® H2 + I2",
+      "first_seen_page_index": 10,
+      "source_trace": "NCERT Class 12 Chemistry, Chapter 3, extracted page 10"
+    },
+    {
+      "title": "2NO + O2 ® 2NO2",
+      "first_seen_page_index": 10,
+      "source_trace": "NCERT Class 12 Chemistry, Chapter 3, extracted page 10"
+    },
+    {
+      "title": "KClO3 + 6FeSO4 + 3H2SO4 ® KCl + 3Fe2(SO4)3 + 3H2O",
+      "first_seen_page_index": 10,
+      "source_trace": "NCERT Class 12 Chemistry, Chapter 3, extracted page 10"
+    },
+    {
+      "title": "(1) H2O2 + I– ® H2O + IO–",
+      "first_seen_page_index": 10,
+      "source_trace": "NCERT Class 12 Chemistry, Chapter 3, extracted page 10"
+    },
+    {
+      "title": "(2) H2O2 + IO– ® H2O + I– + O2",
+      "first_seen_page_index": 10,
+      "source_trace": "NCERT Class 12 Chemistry, Chapter 3, extracted page 10"
+    },
+    {
+      "title": "71 Chemical Kinetics",
+      "first_seen_page_index": 11,
+      "source_trace": "NCERT Class 12 Chemistry, Chapter 3, extracted page 11"
+    },
+    {
+      "title": "3.3 For a reaction, A + B ® Product; the rate law is given by, r = k [ A]1/2 [B]2.",
+      "first_seen_page_index": 11,
+      "source_trace": "NCERT Class 12 Chemistry, Chapter 3, extracted page 11"
+    },
+    {
+      "title": "3.4 The conversion of molecules X to Y follows second order kinetics. If",
+      "first_seen_page_index": 11,
+      "source_trace": "NCERT Class 12 Chemistry, Chapter 3, extracted page 11"
+    },
+    {
+      "title": "3.3.1 Zero Order",
+      "first_seen_page_index": 11,
+      "source_trace": "NCERT Class 12 Chemistry, Chapter 3, extracted page 11"
+    },
+    {
+      "title": "72 Chemistry",
+      "first_seen_page_index": 12,
+      "source_trace": "NCERT Class 12 Chemistry, Chapter 3, extracted page 12"
+    },
+    {
+      "title": "3.3.2 First Order",
+      "first_seen_page_index": 12,
+      "source_trace": "NCERT Class 12 Chemistry, Chapter 3, extracted page 12"
+    },
+    {
+      "title": "73 Chemical Kinetics",
+      "first_seen_page_index": 13,
+      "source_trace": "NCERT Class 12 Chemistry, Chapter 3, extracted page 13"
+    },
+    {
+      "title": "74 Chemistry",
+      "first_seen_page_index": 14,
+      "source_trace": "NCERT Class 12 Chemistry, Chapter 3, extracted page 14"
+    },
+    {
+      "title": "75 Chemical Kinetics",
+      "first_seen_page_index": 15,
+      "source_trace": "NCERT Class 12 Chemistry, Chapter 3, extracted page 15"
+    },
+    {
+      "title": "76 Chemistry",
+      "first_seen_page_index": 16,
+      "source_trace": "NCERT Class 12 Chemistry, Chapter 3, extracted page 16"
+    }
+  ],
+  "production_status": "concept_candidates_ready_for_human_decode"
+}

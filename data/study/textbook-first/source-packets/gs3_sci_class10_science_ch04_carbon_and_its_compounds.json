@@ -1,0 +1,203 @@
+{
+  "key": "gs3_sci_class10_science_ch04_carbon_and_its_compounds",
+  "title": "Carbon and Its Compounds",
+  "source": {
+    "book": "NCERT Class 10 Science",
+    "chapter": 4,
+    "chapter_title": "Carbon and Its Compounds",
+    "pdf_url": "https://ncert.nic.in/textbook.php?jesc1=0-16",
+    "page_range": "pending source extraction"
+  },
+  "resolved_pdf_url": "https://ncert.nic.in/textbook/pdf/jesc104.pdf",
+  "sha256": "efbb053ea8cedf29bc6891834613fdbcc17772e369f6b35405f3bb4701c41abe",
+  "extraction": {
+    "raw_text_path": "data/study/textbook-first/raw-text/gs3_sci_class10_science_ch04_carbon_and_its_compounds.txt",
+    "extracted_characters": 46392,
+    "page_count": 21,
+    "paragraph_count_estimate": 4,
+    "title_match_score": 1
+  },
+  "concept_candidates": [
+    {
+      "title": "4 CHAPTER",
+      "first_seen_page_index": 1,
+      "source_trace": "NCERT Class 10 Science, Chapter 4, extracted page 1"
+    },
+    {
+      "title": "4.1 BONDING IN CARBON – THE COVALENT BOND",
+      "first_seen_page_index": 1,
+      "source_trace": "NCERT Class 10 Science, Chapter 4, extracted page 1"
+    },
+    {
+      "title": "Q U E S T I O N S",
+      "first_seen_page_index": 4,
+      "source_trace": "NCERT Class 10 Science, Chapter 4, extracted page 4"
+    },
+    {
+      "title": "4.2 VERSATILE NATURE OF CARBON",
+      "first_seen_page_index": 5,
+      "source_trace": "NCERT Class 10 Science, Chapter 4, extracted page 5"
+    },
+    {
+      "title": "4.2.2 Chains, Branches and Rings",
+      "first_seen_page_index": 7,
+      "source_trace": "NCERT Class 10 Science, Chapter 4, extracted page 7"
+    },
+    {
+      "title": "1 Methane CH4",
+      "first_seen_page_index": 7,
+      "source_trace": "NCERT Class 10 Science, Chapter 4, extracted page 7"
+    },
+    {
+      "title": "2 Ethane C2H6",
+      "first_seen_page_index": 7,
+      "source_trace": "NCERT Class 10 Science, Chapter 4, extracted page 7"
+    },
+    {
+      "title": "3 Propane C3H8",
+      "first_seen_page_index": 7,
+      "source_trace": "NCERT Class 10 Science, Chapter 4, extracted page 7"
+    },
+    {
+      "title": "4 Butane C4H10",
+      "first_seen_page_index": 7,
+      "source_trace": "NCERT Class 10 Science, Chapter 4, extracted page 7"
+    },
+    {
+      "title": "5 Pentane C5H12",
+      "first_seen_page_index": 7,
+      "source_trace": "NCERT Class 10 Science, Chapter 4, extracted page 7"
+    },
+    {
+      "title": "6 Hexane C6H14",
+      "first_seen_page_index": 7,
+      "source_trace": "NCERT Class 10 Science, Chapter 4, extracted page 7"
+    },
+    {
+      "title": "C—C—C—C",
+      "first_seen_page_index": 8,
+      "source_trace": "NCERT Class 10 Science, Chapter 4, extracted page 8"
+    },
+    {
+      "title": "4.2.3 Will you be my Friend?",
+      "first_seen_page_index": 8,
+      "source_trace": "NCERT Class 10 Science, Chapter 4, extracted page 8"
+    },
+    {
+      "title": "4.2.4 Homologous Series",
+      "first_seen_page_index": 9,
+      "source_trace": "NCERT Class 10 Science, Chapter 4, extracted page 9"
+    },
+    {
+      "title": "4.2.5 Nomenclature of Carbon Compounds",
+      "first_seen_page_index": 10,
+      "source_trace": "NCERT Class 10 Science, Chapter 4, extracted page 10"
+    },
+    {
+      "title": "4.3 CHEMICAL PROPERTIES OF CARBON COMPOUNDS",
+      "first_seen_page_index": 12,
+      "source_trace": "NCERT Class 10 Science, Chapter 4, extracted page 12"
+    },
+    {
+      "title": "4.3.1 Combustion 4.3.1 Combustion 4.3.1 Combustion 4.3.1 Combustion 4.3.1 Combustion",
+      "first_seen_page_index": 12,
+      "source_trace": "NCERT Class 10 Science, Chapter 4, extracted page 12"
+    },
+    {
+      "title": "4.3.2 Oxidation",
+      "first_seen_page_index": 13,
+      "source_trace": "NCERT Class 10 Science, Chapter 4, extracted page 13"
+    },
+    {
+      "title": "4.3.3 Addition Reaction",
+      "first_seen_page_index": 14,
+      "source_trace": "NCERT Class 10 Science, Chapter 4, extracted page 14"
+    },
+    {
+      "title": "4.3.4 Substitution Reaction",
+      "first_seen_page_index": 14,
+      "source_trace": "NCERT Class 10 Science, Chapter 4, extracted page 14"
+    },
+    {
+      "title": "4.4 SOME IMPORTANT CARBON COMPOUNDS – ETHANOL",
+      "first_seen_page_index": 14,
+      "source_trace": "NCERT Class 10 Science, Chapter 4, extracted page 14"
+    },
+    {
+      "title": "AND ETHANOIC ACID",
+      "first_seen_page_index": 14,
+      "source_trace": "NCERT Class 10 Science, Chapter 4, extracted page 14"
+    },
+    {
+      "title": "4.4.1 Properties of Ethanol",
+      "first_seen_page_index": 15,
+      "source_trace": "NCERT Class 10 Science, Chapter 4, extracted page 15"
+    },
+    {
+      "title": "2Na + 2CH3CH2OH → 2CH3CH2O–Na+ + H2",
+      "first_seen_page_index": 15,
+      "source_trace": "NCERT Class 10 Science, Chapter 4, extracted page 15"
+    },
+    {
+      "title": "443 K with excess concentrated sulphuric acid results in the",
+      "first_seen_page_index": 15,
+      "source_trace": "NCERT Class 10 Science, Chapter 4, extracted page 15"
+    },
+    {
+      "title": "CH CH OH CH = CH + H O 3 2 2 2 2",
+      "first_seen_page_index": 15,
+      "source_trace": "NCERT Class 10 Science, Chapter 4, extracted page 15"
+    },
+    {
+      "title": "4.4.2 Properties of Ethanoic Acid",
+      "first_seen_page_index": 16,
+      "source_trace": "NCERT Class 10 Science, Chapter 4, extracted page 16"
+    },
+    {
+      "title": "CH COOH CH CH OH CH C C CH CH H O 3 3 2 3 2 3 2",
+      "first_seen_page_index": 16,
+      "source_trace": "NCERT Class 10 Science, Chapter 4, extracted page 16"
+    },
+    {
+      "title": "CH COOC H C H OH+CH COONa 3 2 5 2 5 3",
+      "first_seen_page_index": 17,
+      "source_trace": "NCERT Class 10 Science, Chapter 4, extracted page 17"
+    },
+    {
+      "title": "NaOH",
+      "first_seen_page_index": 17,
+      "source_trace": "NCERT Class 10 Science, Chapter 4, extracted page 17"
+    },
+    {
+      "title": "NaOH + CH3COOH → CH3COONa + H2O",
+      "first_seen_page_index": 17,
+      "source_trace": "NCERT Class 10 Science, Chapter 4, extracted page 17"
+    },
+    {
+      "title": "2CH3COOH + Na2CO3 → 2CH3COONa + H2O + CO2",
+      "first_seen_page_index": 17,
+      "source_trace": "NCERT Class 10 Science, Chapter 4, extracted page 17"
+    },
+    {
+      "title": "CH3COOH + NaHCO3 → CH3COONa + H2O + CO2",
+      "first_seen_page_index": 17,
+      "source_trace": "NCERT Class 10 Science, Chapter 4, extracted page 17"
+    },
+    {
+      "title": "4.5 SOAPS AND DETERGENTS",
+      "first_seen_page_index": 17,
+      "source_trace": "NCERT Class 10 Science, Chapter 4, extracted page 17"
+    },
+    {
+      "title": "E X E R C I S E S",
+      "first_seen_page_index": 20,
+      "source_trace": "NCERT Class 10 Science, Chapter 4, extracted page 20"
+    },
+    {
+      "title": "C2H6, C3H8, C3H6, C2H2 and CH4.",
+      "first_seen_page_index": 21,
+      "source_trace": "NCERT Class 10 Science, Chapter 4, extracted page 21"
+    }
+  ],
+  "production_status": "concept_candidates_ready_for_human_decode"
+}

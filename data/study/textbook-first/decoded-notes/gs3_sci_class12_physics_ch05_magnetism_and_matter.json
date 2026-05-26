@@ -1,0 +1,215 @@
+{
+  "analogy": "Think of \"Magnetism and Matter\" through the chapter's own opening images: Physics 136 5.1 INTRODUCTION Magnetic phenomena are universal in nature. Vast, distant galaxies, the tiny invisible atoms, humans and beasts all are permeated through and through with a host of magnetic fields from a variety of sources. The earth’s magnetism predates human evolution. The word... The easy idea is that the visible surface is only the outside cover. The chapter keeps asking how we can know what is inside when no one can directly reach the deep interior. So the learner must read clues: rocks, mines, drilling, volcanic material, heat, gravity, magnetism and earthquake waves. Like solving a hidden-layer puzzle, each clue tells something about the crust, mantle, core and volcanic activity without inventing anything beyond the textbook.",
+  "full_notes": "Magnetism and Matter is decoded here only from the NCERT chapter text. The chapter begins by asking how the nature of the earth should be imagined and why the interior cannot be known in the same direct way as the surface. It connects the hidden interior with visible results on the surface, especially landscape development, earthquakes, tsunamis and volcanic activity.\n\nThe text explains that physics 136 5.1 INTRODUCTION Magnetic phenomena are universal in nature.\n\nThe text explains that vast, distant galaxies, the tiny invisible atoms, humans and beasts all are permeated through and through with a host of magnetic fields from a variety of sources.\n\nThe text explains that the earth’s magnetism predates human evolution.\n\nThe text explains that the word magnet is derived from the name of an island in Greece called magnesia where magnetic ore deposits were found, as early as 600 BC.\n\nThe text explains that in the previous chapter we have learned that moving charges or electric currents produce magnetic fields.\n\nThe text explains that this discovery, which was made in the early part of the nineteenth century is credited to Oersted, Ampere, Biot and Savart, among others.\n\nThe text explains that in the present chapter, we take a look at magnetism as a subject in its own right.\n\nThe text explains that some of the commonly known ideas regarding magnetism are: (i) The earth behaves as a magnet with the magnetic field pointing approximately from the geographic south to the north.\n\nThe text explains that (ii) When a bar magnet is freely suspended, it points in the north-south direction.\n\nThe text explains that the tip which points to the geographic north is called the north pole and the tip which points to the geographic south is called the south pole of the magnet.\n\nThe text explains that 137 Magnetism and Matter (iii) There is a repulsive force when north poles ( or south poles ) of two magnets are brought close together.\n\nThe text explains that conversely, there is an attractive force between the north pole of one magnet and the south pole of the other.\n\nThe text explains that (iv) We cannot isolate the north, or south pole of a magnet.\n\nThe text explains that if a bar magnet is broken into two halves, we get two similar bar magnets with somewhat weaker properties.\n\nThe text explains that unlike electric charges, isolated magnetic north and south poles known as magnetic monopoles do not exist.\n\nThe text explains that (v) It is possible to make magnets out of iron and its alloys.\n\nThe text explains that unlike electrostatics the field lines in magnetism do not indicate the direction of the force on a (moving) charge.\n\nThe text explains that physics 138 (ii) The tangent to the field line at a given point represents the direction of the net magnetic field B at that point.\n\nThe text explains that (iv) The magnetic field lines do not intersect, for if they did, the direction of the magnetic field would not be unique at the point of intersection.\n\nThe text explains that this gives us an idea of the magnetic field direction at various points in space.\n\nThe text explains that true only if the source of the field has a net non-zero magnetic moment.\n\nThe text explains that the arrow shows the direction of its magnetic moment.\n\nThe text explains that there are no sources or sinks of B; the simplest magnetic element is a dipole or a current loop.\n\nThe text explains that magnetic field lines (like electric field lines) can never cross each other, because otherwise the direction of field at the point of intersection is ambiguous.\n\nThe text explains that note carefully the direction of field lines inside.\n\nThe text explains that example 5.4 (a) Magnetic field lines show the direction (at every point) along which a small magnetised needle aligns (at the point).\n\nThe text explains that the magnetic field in the interior of the solenoid was shown to be given by B0 = μ0 nI (5.8) If the interior of the solenoid is filled with a material with non-zero magnetisation, the field inside the solenoid will be greater than B0.\n\nThe text explains that the net B field in the interior of the solenoid may be expressed as B = B0 + Bm (5.9)\n\nThe text explains that physics 146 EXAMPLE 5.5 where Bm is the field contributed by the material core.\n\nThe text explains that in the latter case M and H are opposite in direction.\n\nThe text explains that example 5.5 A solenoid has a core of a material with relative permeability 400.\n\nThe text explains that the windings of the solenoid are insulated from the core and carry a current of 2A.\n\nThe text explains that 147 Magnetism and Matter EXAMPLE 5.5 Solution (a) The field H is dependent of the material of the core, and is H = nI = 1000 × 2.0 = 2 ×103 A/m.\n\nThe text explains that (b) The magnetic field B is given by B = μr μ0 H = 400 × 4π ×10–7 (N/A2) × 2 × 103 (A/m) = 1.0 T (c) Magnetisation is given by M = (B– μ0 H )/ μ0 = ( μr μ0 H– μ0 H )/μ0 = ( μr – 1)H = 399 × H ≅ 8 × 105 A/m (d) The magnetising current IM is the additional current that needs to be passed through the windings of the solenoid in the absence of the core which would give a B value as in the presence of the core.\n\nThe text explains that when magnetic field is applied, those electrons having orbital magnetic moment in the same direction slow down and those in the opposite direction speed up.\n\nThe text explains that thus, the substance develops a net magnetic moment in direction opposite to that of the applied field and hence repulsion.\n\nThe text explains that these are metals, cooled to very low temperatures which exhibits both perfect conductivity and perfect diamagnetism.\n\nThe text explains that in the presence of an external field B0, which is strong enough, and at low temperatures, the individual atomic dipole moment can be made to align and point in the same direction as B0.\n\nThe text explains that for a paramagnetic material both χ and μr depend not only on the material, but also (in a simple fashion) on the sample temperature.\n\nThe text explains that as the field is increased or the temperature is lowered, the magnetisation increases until it reaches the saturation value at which point all the dipoles are perfectly aligned with the field.\n\nThe text explains that however, they interact with one another in such a way that they spontaneously align themselves in a common direction over a macroscopic volume called domain.\n\nThe text explains that when we apply an external magnetic field B0, the domains orient themselves in the direction of B0 and simultaneously the domain oriented in the direction of B0 grow in size.\n\nThe text explains that the ferromagnetic property depends on temperature.\n\nThe text explains that at high enough temperature, a ferromagnet becomes a paramagnet.\n\nThe text explains that the domain structure disintegrates with temperature.\n\nThe text explains that this disappearance of magnetisation with temperature is gradual.\n\nThe text explains that it has been known since ancient times that magnetic materials tend to point in the north-south direction; like\n\nThe text explains that substances, which at room temperature, retain their ferromagnetic property for a long period of time are called permanent magnets.\n\nThe text explains that but technological exploitation of the directional properties of magnets predates this scientific understanding by two thousand years.\n\nThe text explains that physical quantity Symbol Nature Dimensions Units Remarks Permeability of μ0 Scalar [MLT–2 A–2] T m A–1 μ0/4π = 10–7 free space Magnetic field, B Vector [MT–2 A–1] T (tesla) 104 G (gauss) = 1 T Magnetic induction, Magnetic flux density Magnetic moment m Vector [L–2 A] A m2 Magnetic flux φB Scalar [ML2T–2 A–1] W (weber) W = T m2 Magnetisation M Vector [L–1 A] A m–1 Magnetic moment Volume Magnetic intensity H Vector [L–1 A] A m–1 B = μ0 (H + M) Magnetic field strength Magnetic χ Scalar - - M = χ H susceptibility Relative magnetic μr Scalar - - B = μ0 μr H permeability Magnetic permeability μ Scalar [MLT–2 A–2] T m A–1 μ = μ0 μr N A–2 B = μ H\n\nThe text explains that explain the sense in which the solenoid acts like a bar magnet.\n\nThe text explains that 5.4 If the solenoid in Exercise 5.5 is free to turn about the vertical direction and a uniform horizontal magnetic field of 0.25 T is applied, what is the magnitude of torque on the solenoid when its axis makes an angle of 30° with the direction of applied field?\n\nSource: NCERT Class 12 Physics, Chapter 5: Magnetism and Matter",
+  "concise_notes": [
+    {
+      "term": "5.1 INTRODUCTION",
+      "definition": "Physics 136 5.1 INTRODUCTION Magnetic phenomena are universal in nature.",
+      "source_trace": "NCERT Class 12 Physics Ch5 pg 1"
+    },
+    {
+      "term": "MAGNETISM AND",
+      "definition": "The earth’s magnetism predates human evolution.",
+      "source_trace": "NCERT Class 12 Physics Ch5 pg 1"
+    },
+    {
+      "term": "MATTER",
+      "definition": "137 Magnetism and Matter (iii) There is a repulsive force when north poles ( or south poles ) of two magnets are brought close together.",
+      "source_trace": "NCERT Class 12 Physics Ch5 pg 1"
+    },
+    {
+      "term": "FIGURE FIGURE FIGURE FIGURE FIGURE 5.1 5.1 5.1 5.1 5.1 The arrangement",
+      "definition": "For comparison refer to the Chapter 1, Figure 1.14(d).",
+      "source_trace": "NCERT Class 12 Physics Ch5 pg 1"
+    },
+    {
+      "term": "5.2.2 Bar magnet as an",
+      "definition": "5.2.2 Bar magnet as an equivalent solenoid In the previous chapter, we have explained how a current loop acts as a magnetic dipole (Section 4.9).",
+      "source_trace": "NCERT Class 12 Physics Ch5 pg 2"
+    },
+    {
+      "term": "5.2.3 The dipole in a uniform magnetic field",
+      "definition": "5.2.3 The dipole in a uniform magnetic field Let’s place a small compass needle of known magnetic moment m allowing it to oscillate in the magnetic field.",
+      "source_trace": "NCERT Class 12 Physics Ch5 pg 3"
+    },
+    {
+      "term": "EXAMPLE",
+      "definition": "Example 5.1 (a) What happens if a bar magnet is cut into two pieces: (i) transverse to its length, (ii) along its length?",
+      "source_trace": "NCERT Class 12 Physics Ch5 pg 3"
+    },
+    {
+      "term": "5.2.4 The electrostatic analog",
+      "definition": "5.2.4 The electrostatic analog Comparison of Eqs.",
+      "source_trace": "NCERT Class 12 Physics Ch5 pg 4"
+    },
+    {
+      "term": "TABLE 5.1 THE DIPOLE ANALOGY",
+      "definition": "Equation (5.3) shows that potential energy is minimum (= –mB) at θ = 0° (most stable position) and maximum (= +mB) at θ = 180° (most unstable position).",
+      "source_trace": "NCERT Class 12 Physics Ch5 pg 3"
+    },
+    {
+      "term": "FIGURE 5.4",
+      "definition": "For comparison refer to the Chapter 1, Figure 1.14(d).",
+      "source_trace": "NCERT Class 12 Physics Ch5 pg 1"
+    }
+  ],
+  "revision_bullets": [
+    "Physics 136 5.1 INTRODUCTION Magnetic phenomena are universal in nature. (NCERT Class 12 Physics Ch5 pg 1)",
+    "Vast, distant galaxies, the tiny invisible atoms, humans and beasts all are permeated through and through with a host of magnetic fields from a variety of... (NCERT Class 12 Physics Ch5 pg 1)",
+    "The word magnet is derived from the name of an island in Greece called magnesia where magnetic ore deposits were found, as early as 600 BC. (NCERT Class 12 Physics Ch5 pg 1)",
+    "In the previous chapter we have learned that moving charges or electric currents produce magnetic fields. (NCERT Class 12 Physics Ch5 pg 1)",
+    "This discovery, which was made in the early part of the nineteenth century is credited to Oersted, Ampere, Biot and Savart, among others. (NCERT Class 12 Physics Ch5 pg 1)",
+    "In the present chapter, we take a look at magnetism as a subject in its own right. (NCERT Class 12 Physics Ch5 pg 1)",
+    "Some of the commonly known ideas regarding magnetism are: (i) The earth behaves as a magnet with the magnetic field pointing approximately from the geographic south... (NCERT Class 12 Physics Ch5 pg 1)",
+    "(ii) When a bar magnet is freely suspended, it points in the north-south direction. (NCERT Class 12 Physics Ch5 pg 1)",
+    "The tip which points to the geographic north is called the north pole and the tip which points to the geographic south is called the south... (NCERT Class 12 Physics Ch5 pg 1)",
+    "137 Magnetism and Matter (iii) There is a repulsive force when north poles ( or south poles ) of two magnets are brought close together. (NCERT Class 12 Physics Ch5 pg 1)"
+  ],
+  "cases": [
+    {
+      "name": "Magnetism",
+      "point": "139 Magnetism and Matter The resemblance of magnetic field lines for a bar magnet and a solenoid suggest that a bar magnet may be thought of... (NCERT Class 12 Physics Ch5 pg 3)"
+    },
+    {
+      "name": "Magnetism",
+      "point": "141 Magnetism and Matter Equation (5.5) is just Eq. (NCERT Class 12 Physics Ch5 pg 5)"
+    },
+    {
+      "name": "Electrostatics Magnetism",
+      "point": "Electrostatics Magnetism 1/ ε0 μ0 Dipole moment p m Equatorial Field for a short dipole –p/4π ε0r 3 – μ0 m / 4π r 3 Axial... (NCERT Class 12 Physics Ch5 pg 5)"
+    },
+    {
+      "name": "FIGURE",
+      "point": "FIGURE 5.4 Solution Potential energy of the configuration arises due to the potential energy of one dipole (say, Q) in the magnetic field due to other... (NCERT Class 12 Physics Ch5 pg 5)"
+    },
+    {
+      "name": "Physics",
+      "point": "Physics 142 KARL FRIEDRICH GAUSS (1777 – 1855) Karl Friedrich Gauss (1777 – 1855) He was a child prodigy and was gifted in mathematics, physics, engineering,... (NCERT Class 12 Physics Ch5 pg 6)"
+    }
+  ],
+  "schemes": [],
+  "ncert_coverage": [
+    "NCERT Class 12 Physics Chapter 5: Magnetism and Matter"
+  ],
+  "prelims_traps": [
+    "Do not treat 5.1 INTRODUCTION and MAGNETISM AND as identical unless the source text links them directly.",
+    "Do not add outside examples to Magnetism and Matter; use only the examples and processes named in the chapter.",
+    "Do not confuse a visible surface result with the internal process or source evidence described by the text."
+  ],
+  "mains_angles": [
+    "Explain Magnetism and Matter through the source chain: evidence, process and visible result.",
+    "Use 5.1 INTRODUCTION and MAGNETISM AND to show how the chapter connects facts with mechanisms.",
+    "Frame an answer around causes, internal working, surface expression and source limitations from the NCERT chapter."
+  ],
+  "mcqs": [
+    {
+      "question_text": "In the NCERT discussion of Magnetism and Matter, which statement is supported by the source text about 5.1 INTRODUCTION?",
+      "options": [
+        "Physics 136 5.1 INTRODUCTION Magnetic phenomena are universal in nature.",
+        "Vast, distant galaxies, the tiny invisible atoms, humans and beasts all are permeated through and through with a host of magnetic fields from a...",
+        "The word magnet is derived from the name of an island in Greece called magnesia where magnetic ore deposits were found, as early as...",
+        "In the previous chapter we have learned that moving charges or electric currents produce magnetic fields."
+      ],
+      "correct_answer": 0,
+      "pattern": "statement",
+      "source_trace": "NCERT Class 12 Physics Ch5 pg 1",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 3,
+      "concepts_tested": [
+        "5.1 INTRODUCTION"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Magnetism and Matter, which statement is supported by the source text about MAGNETISM AND?",
+      "options": [
+        "This discovery, which was made in the early part of the nineteenth century is credited to Oersted, Ampere, Biot and Savart, among others.",
+        "In the present chapter, we take a look at magnetism as a subject in its own right.",
+        "Some of the commonly known ideas regarding magnetism are: (i) The earth behaves as a magnet with the magnetic field pointing approximately from the...",
+        "(ii) When a bar magnet is freely suspended, it points in the north-south direction."
+      ],
+      "correct_answer": 0,
+      "pattern": "statement",
+      "source_trace": "NCERT Class 12 Physics Ch5 pg 1",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 3,
+      "concepts_tested": [
+        "MAGNETISM AND"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Magnetism and Matter, which statement is supported by the source text about MATTER?",
+      "options": [
+        "The tip which points to the geographic north is called the north pole and the tip which points to the geographic south is called...",
+        "137 Magnetism and Matter (iii) There is a repulsive force when north poles ( or south poles ) of two magnets are brought close...",
+        "Conversely, there is an attractive force between the north pole of one magnet and the south pole of the other.",
+        "(iv) We cannot isolate the north, or south pole of a magnet."
+      ],
+      "correct_answer": 0,
+      "pattern": "not_type",
+      "source_trace": "NCERT Class 12 Physics Ch5 pg 1",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 3,
+      "concepts_tested": [
+        "MATTER"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Magnetism and Matter, which statement is supported by the source text about FIGURE FIGURE FIGURE FIGURE FIGURE 5.1 5.1 5.1 5.1 5.1 The arrangement?",
+      "options": [
+        "If a bar magnet is broken into two halves, we get two similar bar magnets with somewhat weaker properties.",
+        "Unlike electric charges, isolated magnetic north and south poles known as magnetic monopoles do not exist.",
+        "(v) It is possible to make magnets out of iron and its alloys.",
+        "We begin with a description of a bar magnet and its behaviour in an external magnetic field."
+      ],
+      "correct_answer": 0,
+      "pattern": "statement",
+      "source_trace": "NCERT Class 12 Physics Ch5 pg 1",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 3,
+      "concepts_tested": [
+        "FIGURE FIGURE FIGURE FIGURE FIGURE 5.1 5.1 5.1 5.1 5.1 The arrangement"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Magnetism and Matter, which statement is supported by the source text about 5.2.2 Bar magnet as an?",
+      "options": [
+        "We next describe how materials can be classified on the basis of their magnetic properties.",
+        "5.2 T 5.2 T 5.2 T 5.2 T 5.2 THE HE HE HE HE B B B B BAR AR AR AR AR M...",
+        "The pattern of iron filings suggests that the magnet has two poles similar to the positive and negative charge of an electric dipole.",
+        "As mentioned in the introductory section, one pole is designated the North pole and the other, the South pole."
+      ],
+      "correct_answer": 0,
+      "pattern": "statement",
+      "source_trace": "NCERT Class 12 Physics Ch5 pg 1",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 3,
+      "concepts_tested": [
+        "5.2.2 Bar magnet as an"
+      ]
+    }
+  ],
+  "source_audit": {
+    "source_only": true,
+    "uncertain_or_omitted": [],
+    "generation_method": "local_source_only_extractive_decode"
+  },
+  "content_model": "clearupsc_textbook_decoded_from_source_v1",
+  "decode_status": "textbook_decoded",
+  "source": {
+    "book": "NCERT Class 12 Physics",
+    "chapter": 5,
+    "chapter_title": "Magnetism and Matter",
+    "pdf_url": "https://ncert.nic.in/textbook.php?leph1=0-14",
+    "page_range": "pending source extraction"
+  },
+  "resolved_pdf_url": "https://ncert.nic.in/textbook/pdf/leph105.pdf",
+  "source_trace": "NCERT Class 12 Physics | Chapter 5: Magnetism and Matter | https://ncert.nic.in/textbook/pdf/leph105.pdf | sha256:7ec2926362f9193efdb93c6e2e7b3cdc0909eeed29626c00f5afdcda84b6af80",
+  "raw_text_path": "data/study/textbook-first/raw-text/gs3_sci_class12_physics_ch05_magnetism_and_matter.txt",
+  "generated_by": "local_source_only_extractive_decode",
+  "generated_at": "2026-05-26T19:40:04.567Z"
+}

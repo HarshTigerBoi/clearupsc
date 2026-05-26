@@ -1,0 +1,33 @@
+{
+  "key": "gs1_society_class12_social_change_ch08_social_movements",
+  "title": "Social Movements",
+  "source": {
+    "book": "NCERT Class 12 Social Change and Development in India",
+    "chapter": 8,
+    "chapter_title": "Social Movements",
+    "pdf_url": "https://ncert.nic.in/textbook.php?lesy2=0-8",
+    "page_range": "pending source extraction"
+  },
+  "resolved_pdf_url": "https://ncert.nic.in/textbook/pdf/lesy208.pdf",
+  "sha256": "4308832ded9cfefde27934d05b1920f7fd7d4e3944833b598cb89bd3add43154",
+  "extraction": {
+    "raw_text_path": "data/study/textbook-first/raw-text/gs1_society_class12_social_change_ch08_social_movements.txt",
+    "extracted_characters": 46601,
+    "page_count": 20,
+    "paragraph_count_estimate": 0,
+    "title_match_score": 1
+  },
+  "concept_candidates": [
+    {
+      "title": "8.1 Features oF a Social Movement",
+      "first_seen_page_index": 3,
+      "source_trace": "NCERT Class 12 Social Change and Development in India, Chapter 8, extracted page 3"
+    },
+    {
+      "title": "8.6 Caste B ased MoveMents",
+      "first_seen_page_index": 13,
+      "source_trace": "NCERT Class 12 Social Change and Development in India, Chapter 8, extracted page 13"
+    }
+  ],
+  "production_status": "concept_candidates_ready_for_human_decode"
+}

@@ -1,0 +1,33 @@
+{
+  "key": "gs1_society_class12_social_change_ch07_mass_media_and_communications",
+  "title": "Mass Media and Communications",
+  "source": {
+    "book": "NCERT Class 12 Social Change and Development in India",
+    "chapter": 7,
+    "chapter_title": "Mass Media and Communications",
+    "pdf_url": "https://ncert.nic.in/textbook.php?lesy2=0-8",
+    "page_range": "pending source extraction"
+  },
+  "resolved_pdf_url": "https://ncert.nic.in/textbook/pdf/lesy207.pdf",
+  "sha256": "72681767057da5546f9502e42401608a4944e34b94ed5a1795eef76ebbcab49a",
+  "extraction": {
+    "raw_text_path": "data/study/textbook-first/raw-text/gs1_society_class12_social_change_ch07_mass_media_and_communications.txt",
+    "extracted_characters": 46770,
+    "page_count": 20,
+    "paragraph_count_estimate": 1,
+    "title_match_score": 1
+  },
+  "concept_candidates": [
+    {
+      "title": "7.1 The B eginnings of Modern Mass Media",
+      "first_seen_page_index": 4,
+      "source_trace": "NCERT Class 12 Social Change and Development in India, Chapter 7, extracted page 4"
+    },
+    {
+      "title": "7.2 M ass Media in independenT india",
+      "first_seen_page_index": 6,
+      "source_trace": "NCERT Class 12 Social Change and Development in India, Chapter 7, extracted page 6"
+    }
+  ],
+  "production_status": "concept_candidates_ready_for_human_decode"
+}

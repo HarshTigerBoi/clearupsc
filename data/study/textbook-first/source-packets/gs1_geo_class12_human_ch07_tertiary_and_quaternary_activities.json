@@ -1,0 +1,53 @@
+{
+  "key": "gs1_geo_class12_human_ch07_tertiary_and_quaternary_activities",
+  "title": "Tertiary and Quaternary Activities",
+  "source": {
+    "book": "NCERT Class 12 Fundamentals of Human Geography",
+    "chapter": 7,
+    "chapter_title": "Tertiary and Quaternary Activities",
+    "pdf_url": "https://ncert.nic.in/textbook.php?legy1=0-9",
+    "page_range": "pending source extraction"
+  },
+  "resolved_pdf_url": "https://ncert.nic.in/textbook/pdf/legy107.pdf",
+  "sha256": "6101b8c1f2c809c4e54cb19b7978e0fe851e294f535355790cdb6b2456108a25",
+  "extraction": {
+    "raw_text_path": "data/study/textbook-first/raw-text/gs1_geo_class12_human_ch07_tertiary_and_quaternary_activities.txt",
+    "extracted_characters": 39439,
+    "page_count": 16,
+    "paragraph_count_estimate": 5,
+    "title_match_score": 0.33
+  },
+  "concept_candidates": [
+    {
+      "title": "TRANSPOR TRANSPOR TRANSPOR TRANSPOR TRANSPORT T T T T",
+      "first_seen_page_index": 1,
+      "source_trace": "NCERT Class 12 Fundamentals of Human Geography, Chapter 7, extracted page 1"
+    },
+    {
+      "title": "URBAN TRANSPORT SOLUTIONS",
+      "first_seen_page_index": 3,
+      "source_trace": "NCERT Class 12 Fundamentals of Human Geography, Chapter 7, extracted page 3"
+    },
+    {
+      "title": "WATER TRANSPORT",
+      "first_seen_page_index": 7,
+      "source_trace": "NCERT Class 12 Fundamentals of Human Geography, Chapter 7, extracted page 7"
+    },
+    {
+      "title": "PIPELINES",
+      "first_seen_page_index": 13,
+      "source_trace": "NCERT Class 12 Fundamentals of Human Geography, Chapter 7, extracted page 13"
+    },
+    {
+      "title": "AIR TRANSPORT",
+      "first_seen_page_index": 13,
+      "source_trace": "NCERT Class 12 Fundamentals of Human Geography, Chapter 7, extracted page 13"
+    },
+    {
+      "title": "COMMUNICATIONS",
+      "first_seen_page_index": 14,
+      "source_trace": "NCERT Class 12 Fundamentals of Human Geography, Chapter 7, extracted page 14"
+    }
+  ],
+  "production_status": "concept_candidates_ready_for_human_decode"
+}

@@ -1,0 +1,123 @@
+{
+  "key": "gs2_ir_class12_world_politics_ch01_cold_war_era",
+  "title": "Cold War Era",
+  "source": {
+    "book": "NCERT Class 12 Contemporary World Politics",
+    "chapter": 1,
+    "chapter_title": "Cold War Era",
+    "pdf_url": "https://ncert.nic.in/textbook.php?leps1=0-9",
+    "page_range": "pending source extraction"
+  },
+  "resolved_pdf_url": "https://ncert.nic.in/textbook/pdf/leps101.pdf",
+  "sha256": "f2e02e851eca851a79d0a4794a84576c3f3c45050dd84a930443e2c7828ea0c1",
+  "extraction": {
+    "raw_text_path": "data/study/textbook-first/raw-text/gs2_ir_class12_world_politics_ch01_cold_war_era.txt",
+    "extracted_characters": 36806,
+    "page_count": 14,
+    "paragraph_count_estimate": 0,
+    "title_match_score": 1
+  },
+  "concept_candidates": [
+    {
+      "title": "LEADERS OF THE",
+      "first_seen_page_index": 2,
+      "source_trace": "NCERT Class 12 Contemporary World Politics, Chapter 1, extracted page 2"
+    },
+    {
+      "title": "SOVIET UNION",
+      "first_seen_page_index": 2,
+      "source_trace": "NCERT Class 12 Contemporary World Politics, Chapter 1, extracted page 2"
+    },
+    {
+      "title": "TIMELINE OF DISINTEGRATION",
+      "first_seen_page_index": 6,
+      "source_trace": "NCERT Class 12 Contemporary World Politics, Chapter 1, extracted page 6"
+    },
+    {
+      "title": "OF THE SOVIET UNION",
+      "first_seen_page_index": 6,
+      "source_trace": "NCERT Class 12 Contemporary World Politics, Chapter 1, extracted page 6"
+    },
+    {
+      "title": "1985 March: Mikhail Gorbachev elected as the General Secretary of the",
+      "first_seen_page_index": 6,
+      "source_trace": "NCERT Class 12 Contemporary World Politics, Chapter 1, extracted page 6"
+    },
+    {
+      "title": "1988 June: Independence movement begins in Lithuania; later spreads to",
+      "first_seen_page_index": 6,
+      "source_trace": "NCERT Class 12 Contemporary World Politics, Chapter 1, extracted page 6"
+    },
+    {
+      "title": "1989 October: Soviet Union declares that the Warsaw Pact members are free",
+      "first_seen_page_index": 6,
+      "source_trace": "NCERT Class 12 Contemporary World Politics, Chapter 1, extracted page 6"
+    },
+    {
+      "title": "1990 February: Gorbachev strips the Soviet Communist Party of its 72-year-long",
+      "first_seen_page_index": 6,
+      "source_trace": "NCERT Class 12 Contemporary World Politics, Chapter 1, extracted page 6"
+    },
+    {
+      "title": "1990 March: Lithuania becomes the first of the 15 Soviet republics to declare",
+      "first_seen_page_index": 6,
+      "source_trace": "NCERT Class 12 Contemporary World Politics, Chapter 1, extracted page 6"
+    },
+    {
+      "title": "1990 June: Russian parliament declares its independence from the Soviet Union",
+      "first_seen_page_index": 6,
+      "source_trace": "NCERT Class 12 Contemporary World Politics, Chapter 1, extracted page 6"
+    },
+    {
+      "title": "1991 June: Yeltsin, no longer in the Communist Party, becomes the President",
+      "first_seen_page_index": 6,
+      "source_trace": "NCERT Class 12 Contemporary World Politics, Chapter 1, extracted page 6"
+    },
+    {
+      "title": "1991 August: The Communist Party hardliners stage an abortive coup against",
+      "first_seen_page_index": 6,
+      "source_trace": "NCERT Class 12 Contemporary World Politics, Chapter 1, extracted page 6"
+    },
+    {
+      "title": "1991 September: Three Baltic republics of Estonia, Latvia and Lithuania become",
+      "first_seen_page_index": 6,
+      "source_trace": "NCERT Class 12 Contemporary World Politics, Chapter 1, extracted page 6"
+    },
+    {
+      "title": "1991 December: Russia, Belarus and Ukraine decide to annul the 1922 Treaty",
+      "first_seen_page_index": 6,
+      "source_trace": "NCERT Class 12 Contemporary World Politics, Chapter 1, extracted page 6"
+    },
+    {
+      "title": "1991 December 25: Gorbachev resigns as the President of the Soviet Union; the",
+      "first_seen_page_index": 6,
+      "source_trace": "NCERT Class 12 Contemporary World Politics, Chapter 1, extracted page 6"
+    },
+    {
+      "title": "BOLLYWOOD STIRS UZBEK",
+      "first_seen_page_index": 11,
+      "source_trace": "NCERT Class 12 Contemporary World Politics, Chapter 1, extracted page 11"
+    },
+    {
+      "title": "PASSIONS",
+      "first_seen_page_index": 11,
+      "source_trace": "NCERT Class 12 Contemporary World Politics, Chapter 1, extracted page 11"
+    },
+    {
+      "title": "FLASHBACK: INDIA",
+      "first_seen_page_index": 12,
+      "source_trace": "NCERT Class 12 Contemporary World Politics, Chapter 1, extracted page 12"
+    },
+    {
+      "title": "AND THE USSR",
+      "first_seen_page_index": 12,
+      "source_trace": "NCERT Class 12 Contemporary World Politics, Chapter 1, extracted page 12"
+    },
+    {
+      "title": "STEPS",
+      "first_seen_page_index": 12,
+      "source_trace": "NCERT Class 12 Contemporary World Politics, Chapter 1, extracted page 12"
+    }
+  ],
+  "production_status": "concept_candidates_ready_for_human_decode"
+}

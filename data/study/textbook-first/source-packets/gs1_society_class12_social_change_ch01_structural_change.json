@@ -1,0 +1,33 @@
+{
+  "key": "gs1_society_class12_social_change_ch01_structural_change",
+  "title": "Structural Change",
+  "source": {
+    "book": "NCERT Class 12 Social Change and Development in India",
+    "chapter": 1,
+    "chapter_title": "Structural Change",
+    "pdf_url": "https://ncert.nic.in/textbook.php?lesy2=0-8",
+    "page_range": "pending source extraction"
+  },
+  "resolved_pdf_url": "https://ncert.nic.in/textbook/pdf/lesy201.pdf",
+  "sha256": "d7bbacc8a547f2279a0ab717573cff991c453460ca76a159ce4254acc265bdb7",
+  "extraction": {
+    "raw_text_path": "data/study/textbook-first/raw-text/gs1_society_class12_social_change_ch01_structural_change.txt",
+    "extracted_characters": 29790,
+    "page_count": 14,
+    "paragraph_count_estimate": 0,
+    "title_match_score": 1
+  },
+  "concept_candidates": [
+    {
+      "title": "1.1 Understanding Colonialism",
+      "first_seen_page_index": 4,
+      "source_trace": "NCERT Class 12 Social Change and Development in India, Chapter 1, extracted page 4"
+    },
+    {
+      "title": "1.2 Urbanisation and indUstrialisation",
+      "first_seen_page_index": 6,
+      "source_trace": "NCERT Class 12 Social Change and Development in India, Chapter 1, extracted page 6"
+    }
+  ],
+  "production_status": "concept_candidates_ready_for_human_decode"
+}

@@ -1,0 +1,188 @@
+{
+  "key": "gs3_sci_class9_science_ch11_work_and_energy",
+  "title": "Work and Energy",
+  "source": {
+    "book": "NCERT Class 9 Science",
+    "chapter": 11,
+    "chapter_title": "Work and Energy",
+    "pdf_url": "https://ncert.nic.in/textbook.php?iesc1=0-15",
+    "page_range": "pending source extraction"
+  },
+  "resolved_pdf_url": "https://ncert.nic.in/textbook/pdf/iesc111.pdf",
+  "sha256": "e00c130dbb0b415c435ffc1be89da297057c4a5a5b01d04c4773440d7ca1748d",
+  "extraction": {
+    "raw_text_path": "data/study/textbook-first/raw-text/gs3_sci_class9_science_ch11_work_and_energy.txt",
+    "extracted_characters": 53042,
+    "page_count": 20,
+    "paragraph_count_estimate": 0,
+    "title_match_score": 0.5
+  },
+  "concept_candidates": [
+    {
+      "title": "209 Reproduction: How Life Continues",
+      "first_seen_page_index": 2,
+      "source_trace": "NCERT Class 9 Science, Chapter 11, extracted page 2"
+    },
+    {
+      "title": "11.1 Asexual Reproduction",
+      "first_seen_page_index": 2,
+      "source_trace": "NCERT Class 9 Science, Chapter 11, extracted page 2"
+    },
+    {
+      "title": "11.1.1 How is vegetative propagation in plants helpful in",
+      "first_seen_page_index": 2,
+      "source_trace": "NCERT Class 9 Science, Chapter 11, extracted page 2"
+    },
+    {
+      "title": "211 Reproduction: How Life Continues",
+      "first_seen_page_index": 4,
+      "source_trace": "NCERT Class 9 Science, Chapter 11, extracted page 4"
+    },
+    {
+      "title": "11.2 Sexual Reproduction",
+      "first_seen_page_index": 5,
+      "source_trace": "NCERT Class 9 Science, Chapter 11, extracted page 5"
+    },
+    {
+      "title": "213 Reproduction: How Life Continues",
+      "first_seen_page_index": 6,
+      "source_trace": "NCERT Class 9 Science, Chapter 11, extracted page 6"
+    },
+    {
+      "title": "11.2.1 How does meiosis help create variations in sexual",
+      "first_seen_page_index": 6,
+      "source_trace": "NCERT Class 9 Science, Chapter 11, extracted page 6"
+    },
+    {
+      "title": "11.2.2 Sexual reproduction in flowering plants",
+      "first_seen_page_index": 7,
+      "source_trace": "NCERT Class 9 Science, Chapter 11, extracted page 7"
+    },
+    {
+      "title": "A B C D",
+      "first_seen_page_index": 7,
+      "source_trace": "NCERT Class 9 Science, Chapter 11, extracted page 7"
+    },
+    {
+      "title": "215 Reproduction: How Life Continues",
+      "first_seen_page_index": 8,
+      "source_trace": "NCERT Class 9 Science, Chapter 11, extracted page 8"
+    },
+    {
+      "title": "11.2.3 How does the process of pollination occur in",
+      "first_seen_page_index": 9,
+      "source_trace": "NCERT Class 9 Science, Chapter 11, extracted page 9"
+    },
+    {
+      "title": "11.2.4 Pollination strategies and reproductive success",
+      "first_seen_page_index": 9,
+      "source_trace": "NCERT Class 9 Science, Chapter 11, extracted page 9"
+    },
+    {
+      "title": "11.2.5 Fertilisation and seed formation",
+      "first_seen_page_index": 9,
+      "source_trace": "NCERT Class 9 Science, Chapter 11, extracted page 9"
+    },
+    {
+      "title": "217 Reproduction: How Life Continues",
+      "first_seen_page_index": 10,
+      "source_trace": "NCERT Class 9 Science, Chapter 11, extracted page 10"
+    },
+    {
+      "title": "11.3 Sexual Reproduction in Animals",
+      "first_seen_page_index": 11,
+      "source_trace": "NCERT Class 9 Science, Chapter 11, extracted page 11"
+    },
+    {
+      "title": "11.4 Variations in Reproduction in Animals",
+      "first_seen_page_index": 11,
+      "source_trace": "NCERT Class 9 Science, Chapter 11, extracted page 11"
+    },
+    {
+      "title": "219 Reproduction: How Life Continues",
+      "first_seen_page_index": 12,
+      "source_trace": "NCERT Class 9 Science, Chapter 11, extracted page 12"
+    },
+    {
+      "title": "11.5 Reproduction in Human Beings",
+      "first_seen_page_index": 12,
+      "source_trace": "NCERT Class 9 Science, Chapter 11, extracted page 12"
+    },
+    {
+      "title": "11.5.1 Reproductive maturity",
+      "first_seen_page_index": 12,
+      "source_trace": "NCERT Class 9 Science, Chapter 11, extracted page 12"
+    },
+    {
+      "title": "11.5.2 What are the parts of the male reproductive",
+      "first_seen_page_index": 12,
+      "source_trace": "NCERT Class 9 Science, Chapter 11, extracted page 12"
+    },
+    {
+      "title": "11.5.3 What are the parts of the female",
+      "first_seen_page_index": 12,
+      "source_trace": "NCERT Class 9 Science, Chapter 11, extracted page 12"
+    },
+    {
+      "title": "11.5.4 How are reproductive cells made?",
+      "first_seen_page_index": 13,
+      "source_trace": "NCERT Class 9 Science, Chapter 11, extracted page 13"
+    },
+    {
+      "title": "11.5.5 What happens when a sperm meets an egg?",
+      "first_seen_page_index": 13,
+      "source_trace": "NCERT Class 9 Science, Chapter 11, extracted page 13"
+    },
+    {
+      "title": "221 Reproduction: How Life Continues",
+      "first_seen_page_index": 14,
+      "source_trace": "NCERT Class 9 Science, Chapter 11, extracted page 14"
+    },
+    {
+      "title": "11.5.6 What happens when an egg is not fertilised?",
+      "first_seen_page_index": 14,
+      "source_trace": "NCERT Class 9 Science, Chapter 11, extracted page 14"
+    },
+    {
+      "title": "11.5.7 Pregnancy and childbirth",
+      "first_seen_page_index": 15,
+      "source_trace": "NCERT Class 9 Science, Chapter 11, extracted page 15"
+    },
+    {
+      "title": "11.5.8 Mother’s health during pregnancy",
+      "first_seen_page_index": 15,
+      "source_trace": "NCERT Class 9 Science, Chapter 11, extracted page 15"
+    },
+    {
+      "title": "223 Reproduction: How Life Continues",
+      "first_seen_page_index": 16,
+      "source_trace": "NCERT Class 9 Science, Chapter 11, extracted page 16"
+    },
+    {
+      "title": "11.5.9 What does it mean to be sexually mature?",
+      "first_seen_page_index": 16,
+      "source_trace": "NCERT Class 9 Science, Chapter 11, extracted page 16"
+    },
+    {
+      "title": "11.5.10 How can unwanted pregnancies and infections be",
+      "first_seen_page_index": 16,
+      "source_trace": "NCERT Class 9 Science, Chapter 11, extracted page 16"
+    },
+    {
+      "title": "STIs?",
+      "first_seen_page_index": 16,
+      "source_trace": "NCERT Class 9 Science, Chapter 11, extracted page 16"
+    },
+    {
+      "title": "225 Reproduction: How Life Continues",
+      "first_seen_page_index": 18,
+      "source_trace": "NCERT Class 9 Science, Chapter 11, extracted page 18"
+    },
+    {
+      "title": "227 Reproduction: H ow L i f e C ontinues",
+      "first_seen_page_index": 20,
+      "source_trace": "NCERT Class 9 Science, Chapter 11, extracted page 20"
+    }
+  ],
+  "production_status": "concept_candidates_ready_for_human_decode"
+}

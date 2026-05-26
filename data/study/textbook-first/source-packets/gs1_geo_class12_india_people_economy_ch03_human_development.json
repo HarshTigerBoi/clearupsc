@@ -1,0 +1,198 @@
+{
+  "key": "gs1_geo_class12_india_people_economy_ch03_human_development",
+  "title": "Human Development",
+  "source": {
+    "book": "NCERT Class 12 India People and Economy",
+    "chapter": 3,
+    "chapter_title": "Human Development",
+    "pdf_url": "https://ncert.nic.in/textbook.php?legy2=0-12",
+    "page_range": "pending source extraction"
+  },
+  "resolved_pdf_url": "https://ncert.nic.in/textbook/pdf/legy203.pdf",
+  "sha256": "c02dd7404aa2ee484400299de1327c455b7499c93ea8b434cc4044eb9046cca4",
+  "extraction": {
+    "raw_text_path": "data/study/textbook-first/raw-text/gs1_geo_class12_india_people_economy_ch03_human_development.txt",
+    "extracted_characters": 45749,
+    "page_count": 20,
+    "paragraph_count_estimate": 6,
+    "title_match_score": 0.5
+  },
+  "concept_candidates": [
+    {
+      "title": "LAND RESOURCES",
+      "first_seen_page_index": 1,
+      "source_trace": "NCERT Class 12 India People and Economy, Chapter 3, extracted page 1"
+    },
+    {
+      "title": "AND AGRICULTURE",
+      "first_seen_page_index": 1,
+      "source_trace": "NCERT Class 12 India People and Economy, Chapter 3, extracted page 1"
+    },
+    {
+      "title": "22 India : People and Economy",
+      "first_seen_page_index": 2,
+      "source_trace": "NCERT Class 12 India People and Economy, Chapter 3, extracted page 2"
+    },
+    {
+      "title": "&KDQJHV\u0003LQ\u00036KDUHV\u0003RI\u0003/DQG\u0010XVH\u0003&DWHJRULHV\u0003LQ\u0003,QGLD\u001d\u0003",
+      "first_seen_page_index": 3,
+      "source_trace": "NCERT Class 12 India People and Economy, Chapter 3, extracted page 3"
+    },
+    {
+      "title": "3HU\u0003FHQW\u0003RI\u0003UHSRUWLQJ\u0003DUHD",
+      "first_seen_page_index": 3,
+      "source_trace": "NCERT Class 12 India People and Economy, Chapter 3, extracted page 3"
+    },
+    {
+      "title": ")RUHVWV $UHD\u0003XQGHU",
+      "first_seen_page_index": 3,
+      "source_trace": "NCERT Class 12 India People and Economy, Chapter 3, extracted page 3"
+    },
+    {
+      "title": "DJULFXOWXUDO",
+      "first_seen_page_index": 3,
+      "source_trace": "NCERT Class 12 India People and Economy, Chapter 3, extracted page 3"
+    },
+    {
+      "title": "%DUUHQ\u0003DQG",
+      "first_seen_page_index": 3,
+      "source_trace": "NCERT Class 12 India People and Economy, Chapter 3, extracted page 3"
+    },
+    {
+      "title": "XQFXOWXUDEOH",
+      "first_seen_page_index": 3,
+      "source_trace": "NCERT Class 12 India People and Economy, Chapter 3, extracted page 3"
+    },
+    {
+      "title": "ZDVWH\u0003",
+      "first_seen_page_index": 3,
+      "source_trace": "NCERT Class 12 India People and Economy, Chapter 3, extracted page 3"
+    },
+    {
+      "title": "ODQG",
+      "first_seen_page_index": 3,
+      "source_trace": "NCERT Class 12 India People and Economy, Chapter 3, extracted page 3"
+    },
+    {
+      "title": "3HUPDQHQW",
+      "first_seen_page_index": 3,
+      "source_trace": "NCERT Class 12 India People and Economy, Chapter 3, extracted page 3"
+    },
+    {
+      "title": "SDVWXUH\u0003",
+      "first_seen_page_index": 3,
+      "source_trace": "NCERT Class 12 India People and Economy, Chapter 3, extracted page 3"
+    },
+    {
+      "title": "JUD]LQJ\u0003ODQG",
+      "first_seen_page_index": 3,
+      "source_trace": "NCERT Class 12 India People and Economy, Chapter 3, extracted page 3"
+    },
+    {
+      "title": "$UHD\u00038QGHU\u0003",
+      "first_seen_page_index": 3,
+      "source_trace": "NCERT Class 12 India People and Economy, Chapter 3, extracted page 3"
+    },
+    {
+      "title": "7UHH\u0003FURSV",
+      "first_seen_page_index": 3,
+      "source_trace": "NCERT Class 12 India People and Economy, Chapter 3, extracted page 3"
+    },
+    {
+      "title": "\u0003DQG\u0003JURYHV",
+      "first_seen_page_index": 3,
+      "source_trace": "NCERT Class 12 India People and Economy, Chapter 3, extracted page 3"
+    },
+    {
+      "title": "&XOWXUDEOH",
+      "first_seen_page_index": 3,
+      "source_trace": "NCERT Class 12 India People and Economy, Chapter 3, extracted page 3"
+    },
+    {
+      "title": "\u0003:DVWH\u0003",
+      "first_seen_page_index": 3,
+      "source_trace": "NCERT Class 12 India People and Economy, Chapter 3, extracted page 3"
+    },
+    {
+      "title": "&XUUHQW",
+      "first_seen_page_index": 3,
+      "source_trace": "NCERT Class 12 India People and Economy, Chapter 3, extracted page 3"
+    },
+    {
+      "title": "\u0003IDOORZ",
+      "first_seen_page_index": 3,
+      "source_trace": "NCERT Class 12 India People and Economy, Chapter 3, extracted page 3"
+    },
+    {
+      "title": "1HW\u0003$UHD",
+      "first_seen_page_index": 3,
+      "source_trace": "NCERT Class 12 India People and Economy, Chapter 3, extracted page 3"
+    },
+    {
+      "title": "VRZQ",
+      "first_seen_page_index": 3,
+      "source_trace": "NCERT Class 12 India People and Economy, Chapter 3, extracted page 3"
+    },
+    {
+      "title": ")DOORZ\u0003RWKHU\u0003",
+      "first_seen_page_index": 3,
+      "source_trace": "NCERT Class 12 India People and Economy, Chapter 3, extracted page 3"
+    },
+    {
+      "title": "WKDQ\u0003",
+      "first_seen_page_index": 3,
+      "source_trace": "NCERT Class 12 India People and Economy, Chapter 3, extracted page 3"
+    },
+    {
+      "title": "&XUUHQW\u0003",
+      "first_seen_page_index": 3,
+      "source_trace": "NCERT Class 12 India People and Economy, Chapter 3, extracted page 3"
+    },
+    {
+      "title": "IDOORZ",
+      "first_seen_page_index": 3,
+      "source_trace": "NCERT Class 12 India People and Economy, Chapter 3, extracted page 3"
+    },
+    {
+      "title": "26 India : People and Economy",
+      "first_seen_page_index": 6,
+      "source_trace": "NCERT Class 12 India People and Economy, Chapter 3, extracted page 6"
+    },
+    {
+      "title": "28 India : People and Economy",
+      "first_seen_page_index": 8,
+      "source_trace": "NCERT Class 12 India People and Economy, Chapter 3, extracted page 8"
+    },
+    {
+      "title": "30 India : People and Economy",
+      "first_seen_page_index": 10,
+      "source_trace": "NCERT Class 12 India People and Economy, Chapter 3, extracted page 10"
+    },
+    {
+      "title": "32 India : People and Economy",
+      "first_seen_page_index": 12,
+      "source_trace": "NCERT Class 12 India People and Economy, Chapter 3, extracted page 12"
+    },
+    {
+      "title": "34 India : People and Economy",
+      "first_seen_page_index": 14,
+      "source_trace": "NCERT Class 12 India People and Economy, Chapter 3, extracted page 14"
+    },
+    {
+      "title": "36 India : People and Economy",
+      "first_seen_page_index": 16,
+      "source_trace": "NCERT Class 12 India People and Economy, Chapter 3, extracted page 16"
+    },
+    {
+      "title": "(NMSA)",
+      "first_seen_page_index": 16,
+      "source_trace": "NCERT Class 12 India People and Economy, Chapter 3, extracted page 16"
+    },
+    {
+      "title": "40 India : People and Economy",
+      "first_seen_page_index": 20,
+      "source_trace": "NCERT Class 12 India People and Economy, Chapter 3, extracted page 20"
+    }
+  ],
+  "production_status": "concept_candidates_ready_for_human_decode"
+}

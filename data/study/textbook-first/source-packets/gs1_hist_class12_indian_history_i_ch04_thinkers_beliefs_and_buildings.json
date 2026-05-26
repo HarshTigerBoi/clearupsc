@@ -1,0 +1,223 @@
+{
+  "key": "gs1_hist_class12_indian_history_i_ch04_thinkers_beliefs_and_buildings",
+  "title": "Thinkers Beliefs and Buildings",
+  "source": {
+    "book": "NCERT Class 12 Themes in Indian History I",
+    "chapter": 4,
+    "chapter_title": "Thinkers Beliefs and Buildings",
+    "pdf_url": "https://ncert.nic.in/textbook.php?lehs1=0-4",
+    "page_range": "pending source extraction"
+  },
+  "resolved_pdf_url": "https://ncert.nic.in/textbook/pdf/lehs104.pdf",
+  "sha256": "97ed69285c95d0d6c89c57c3d0ef5f44881ccdaa28a874094c0d185dd59cc0bb",
+  "extraction": {
+    "raw_text_path": "data/study/textbook-first/raw-text/gs1_hist_class12_indian_history_i_ch04_thinkers_beliefs_and_buildings.txt",
+    "extracted_characters": 55881,
+    "page_count": 33,
+    "paragraph_count_estimate": 1,
+    "title_match_score": 1
+  },
+  "concept_candidates": [
+    {
+      "title": "THEMES IN INDIAN HISTORY 82",
+      "first_seen_page_index": 1,
+      "source_trace": "NCERT Class 12 Themes in Indian History I, Chapter 4, extracted page 1"
+    },
+    {
+      "title": "FROM SHAHJEHAN BEGUM, NAWAB OF BHOPAL (ruled 1868-1901),",
+      "first_seen_page_index": 1,
+      "source_trace": "NCERT Class 12 Themes in Indian History I, Chapter 4, extracted page 1"
+    },
+    {
+      "title": "THEME TWO",
+      "first_seen_page_index": 1,
+      "source_trace": "NCERT Class 12 Themes in Indian History I, Chapter 4, extracted page 1"
+    },
+    {
+      "title": "THEME",
+      "first_seen_page_index": 1,
+      "source_trace": "NCERT Class 12 Themes in Indian History I, Chapter 4, extracted page 1"
+    },
+    {
+      "title": "FOUR",
+      "first_seen_page_index": 1,
+      "source_trace": "NCERT Class 12 Themes in Indian History I, Chapter 4, extracted page 1"
+    },
+    {
+      "title": "THINKERS, BELIEFS AND BUILDINGS",
+      "first_seen_page_index": 2,
+      "source_trace": "NCERT Class 12 Themes in Indian History I, Chapter 4, extracted page 2"
+    },
+    {
+      "title": "THEMES IN INDIAN HISTORY 84",
+      "first_seen_page_index": 3,
+      "source_trace": "NCERT Class 12 Themes in Indian History I, Chapter 4, extracted page 3"
+    },
+    {
+      "title": "2.1 The sacrificial tradition",
+      "first_seen_page_index": 3,
+      "source_trace": "NCERT Class 12 Themes in Indian History I, Chapter 4, extracted page 3"
+    },
+    {
+      "title": "2.2 New questions",
+      "first_seen_page_index": 3,
+      "source_trace": "NCERT Class 12 Themes in Indian History I, Chapter 4, extracted page 3"
+    },
+    {
+      "title": "2.3 Debates and discussions",
+      "first_seen_page_index": 4,
+      "source_trace": "NCERT Class 12 Themes in Indian History I, Chapter 4, extracted page 4"
+    },
+    {
+      "title": "THEMES IN INDIAN HISTORY 86",
+      "first_seen_page_index": 5,
+      "source_trace": "NCERT Class 12 Themes in Indian History I, Chapter 4, extracted page 5"
+    },
+    {
+      "title": "THEMES IN INDIAN HISTORY 88",
+      "first_seen_page_index": 7,
+      "source_trace": "NCERT Class 12 Themes in Indian History I, Chapter 4, extracted page 7"
+    },
+    {
+      "title": "3.1 The spread of Jainism",
+      "first_seen_page_index": 8,
+      "source_trace": "NCERT Class 12 Themes in Indian History I, Chapter 4, extracted page 8"
+    },
+    {
+      "title": "THEMES IN INDIAN HISTORY 90",
+      "first_seen_page_index": 9,
+      "source_trace": "NCERT Class 12 Themes in Indian History I, Chapter 4, extracted page 9"
+    },
+    {
+      "title": "THEMES IN INDIAN HISTORY 92",
+      "first_seen_page_index": 11,
+      "source_trace": "NCERT Class 12 Themes in Indian History I, Chapter 4, extracted page 11"
+    },
+    {
+      "title": "THEMES IN INDIAN HISTORY 94",
+      "first_seen_page_index": 13,
+      "source_trace": "NCERT Class 12 Themes in Indian History I, Chapter 4, extracted page 13"
+    },
+    {
+      "title": "BAY OF",
+      "first_seen_page_index": 14,
+      "source_trace": "NCERT Class 12 Themes in Indian History I, Chapter 4, extracted page 14"
+    },
+    {
+      "title": "BENGAL",
+      "first_seen_page_index": 14,
+      "source_trace": "NCERT Class 12 Themes in Indian History I, Chapter 4, extracted page 14"
+    },
+    {
+      "title": "ARABIAN",
+      "first_seen_page_index": 14,
+      "source_trace": "NCERT Class 12 Themes in Indian History I, Chapter 4, extracted page 14"
+    },
+    {
+      "title": "THEMES IN INDIAN HISTORY 96",
+      "first_seen_page_index": 15,
+      "source_trace": "NCERT Class 12 Themes in Indian History I, Chapter 4, extracted page 15"
+    },
+    {
+      "title": "7.1 Why were stupas built?",
+      "first_seen_page_index": 15,
+      "source_trace": "NCERT Class 12 Themes in Indian History I, Chapter 4, extracted page 15"
+    },
+    {
+      "title": "7.2 How were stupas built?",
+      "first_seen_page_index": 15,
+      "source_trace": "NCERT Class 12 Themes in Indian History I, Chapter 4, extracted page 15"
+    },
+    {
+      "title": "7.3 The structure of the stupa",
+      "first_seen_page_index": 15,
+      "source_trace": "NCERT Class 12 Themes in Indian History I, Chapter 4, extracted page 15"
+    },
+    {
+      "title": "THEMES IN INDIAN HISTORY 98",
+      "first_seen_page_index": 17,
+      "source_trace": "NCERT Class 12 Themes in Indian History I, Chapter 4, extracted page 17"
+    },
+    {
+      "title": "9.1 Stories in stone",
+      "first_seen_page_index": 18,
+      "source_trace": "NCERT Class 12 Themes in Indian History I, Chapter 4, extracted page 18"
+    },
+    {
+      "title": "THEMES IN INDIAN HISTORY 100",
+      "first_seen_page_index": 19,
+      "source_trace": "NCERT Class 12 Themes in Indian History I, Chapter 4, extracted page 19"
+    },
+    {
+      "title": "9.2 Symbols of worship",
+      "first_seen_page_index": 19,
+      "source_trace": "NCERT Class 12 Themes in Indian History I, Chapter 4, extracted page 19"
+    },
+    {
+      "title": "9.3 Popular traditions",
+      "first_seen_page_index": 20,
+      "source_trace": "NCERT Class 12 Themes in Indian History I, Chapter 4, extracted page 20"
+    },
+    {
+      "title": "THEMES IN INDIAN HISTORY 102",
+      "first_seen_page_index": 21,
+      "source_trace": "NCERT Class 12 Themes in Indian History I, Chapter 4, extracted page 21"
+    },
+    {
+      "title": "10.1 The development of Mahayana",
+      "first_seen_page_index": 22,
+      "source_trace": "NCERT Class 12 Themes in Indian History I, Chapter 4, extracted page 22"
+    },
+    {
+      "title": "THEMES IN INDIAN HISTORY 104",
+      "first_seen_page_index": 23,
+      "source_trace": "NCERT Class 12 Themes in Indian History I, Chapter 4, extracted page 23"
+    },
+    {
+      "title": "10.2 The growth of Puranic Hinduism",
+      "first_seen_page_index": 23,
+      "source_trace": "NCERT Class 12 Themes in Indian History I, Chapter 4, extracted page 23"
+    },
+    {
+      "title": "10.3 Building temples",
+      "first_seen_page_index": 24,
+      "source_trace": "NCERT Class 12 Themes in Indian History I, Chapter 4, extracted page 24"
+    },
+    {
+      "title": "THEMES IN INDIAN HISTORY 106",
+      "first_seen_page_index": 25,
+      "source_trace": "NCERT Class 12 Themes in Indian History I, Chapter 4, extracted page 25"
+    },
+    {
+      "title": "11.1 Grappling with the unfamiliar",
+      "first_seen_page_index": 26,
+      "source_trace": "NCERT Class 12 Themes in Indian History I, Chapter 4, extracted page 26"
+    },
+    {
+      "title": "THEMES IN INDIAN HISTORY 108",
+      "first_seen_page_index": 27,
+      "source_trace": "NCERT Class 12 Themes in Indian History I, Chapter 4, extracted page 27"
+    },
+    {
+      "title": "11.2 If text and image do not match …",
+      "first_seen_page_index": 27,
+      "source_trace": "NCERT Class 12 Themes in Indian History I, Chapter 4, extracted page 27"
+    },
+    {
+      "title": "THEMES IN INDIAN HISTORY 110",
+      "first_seen_page_index": 29,
+      "source_trace": "NCERT Class 12 Themes in Indian History I, Chapter 4, extracted page 29"
+    },
+    {
+      "title": "1814 Founding of the Indian Museum, Calcutta",
+      "first_seen_page_index": 29,
+      "source_trace": "NCERT Class 12 Themes in Indian History I, Chapter 4, extracted page 29"
+    },
+    {
+      "title": "1834 Publication of Essay on the Architecture of the Hindus,",
+      "first_seen_page_index": 29,
+      "source_trace": "NCERT Class 12 Themes in Indian History I, Chapter 4, extracted page 29"
+    }
+  ],
+  "production_status": "concept_candidates_ready_for_human_decode"
+}

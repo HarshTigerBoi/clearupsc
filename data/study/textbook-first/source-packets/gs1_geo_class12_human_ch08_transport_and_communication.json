@@ -1,0 +1,28 @@
+{
+  "key": "gs1_geo_class12_human_ch08_transport_and_communication",
+  "title": "Transport and Communication",
+  "source": {
+    "book": "NCERT Class 12 Fundamentals of Human Geography",
+    "chapter": 8,
+    "chapter_title": "Transport and Communication",
+    "pdf_url": "https://ncert.nic.in/textbook.php?legy1=0-9",
+    "page_range": "pending source extraction"
+  },
+  "resolved_pdf_url": "https://ncert.nic.in/textbook/pdf/legy108.pdf",
+  "sha256": "a940c0afe1f6eef0f8dd52fe25f98570382fa863e45737d487ec488bccf0eccf",
+  "extraction": {
+    "raw_text_path": "data/study/textbook-first/raw-text/gs1_geo_class12_human_ch08_transport_and_communication.txt",
+    "extracted_characters": 19449,
+    "page_count": 7,
+    "paragraph_count_estimate": 5,
+    "title_match_score": 0.5
+  },
+  "concept_candidates": [
+    {
+      "title": "GATEWAYS OF INTERNATIONAL TRADE",
+      "first_seen_page_index": 6,
+      "source_trace": "NCERT Class 12 Fundamentals of Human Geography, Chapter 8, extracted page 6"
+    }
+  ],
+  "production_status": "concept_candidates_ready_for_human_decode"
+}

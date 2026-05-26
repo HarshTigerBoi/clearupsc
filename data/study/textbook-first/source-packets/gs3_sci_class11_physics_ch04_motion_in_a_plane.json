@@ -1,0 +1,223 @@
+{
+  "key": "gs3_sci_class11_physics_ch04_motion_in_a_plane",
+  "title": "Motion in a Plane",
+  "source": {
+    "book": "NCERT Class 11 Physics",
+    "chapter": 4,
+    "chapter_title": "Motion in a Plane",
+    "pdf_url": "https://ncert.nic.in/textbook.php?keph1=0-15",
+    "page_range": "pending source extraction"
+  },
+  "resolved_pdf_url": "https://ncert.nic.in/textbook/pdf/keph104.pdf",
+  "sha256": "2e774effb03edda7e2cf8ccefc4649d65392697cb665d7e07e01f7fcd84d97e9",
+  "extraction": {
+    "raw_text_path": "data/study/textbook-first/raw-text/gs3_sci_class11_physics_ch04_motion_in_a_plane.txt",
+    "extracted_characters": 71738,
+    "page_count": 22,
+    "paragraph_count_estimate": 0,
+    "title_match_score": 1
+  },
+  "concept_candidates": [
+    {
+      "title": "CHAPTER FOUR",
+      "first_seen_page_index": 1,
+      "source_trace": "NCERT Class 11 Physics, Chapter 4, extracted page 1"
+    },
+    {
+      "title": "LAWS OF MOTION",
+      "first_seen_page_index": 1,
+      "source_trace": "NCERT Class 11 Physics, Chapter 4, extracted page 1"
+    },
+    {
+      "title": "4.1 INTRODUCTION",
+      "first_seen_page_index": 1,
+      "source_trace": "NCERT Class 11 Physics, Chapter 4, extracted page 1"
+    },
+    {
+      "title": "4.2 Aristotle’s fallacy",
+      "first_seen_page_index": 1,
+      "source_trace": "NCERT Class 11 Physics, Chapter 4, extracted page 1"
+    },
+    {
+      "title": "4.3 The law of inertia",
+      "first_seen_page_index": 1,
+      "source_trace": "NCERT Class 11 Physics, Chapter 4, extracted page 1"
+    },
+    {
+      "title": "4.4 Newton’s first law of motion",
+      "first_seen_page_index": 1,
+      "source_trace": "NCERT Class 11 Physics, Chapter 4, extracted page 1"
+    },
+    {
+      "title": "4.5 Newton’s second law of",
+      "first_seen_page_index": 1,
+      "source_trace": "NCERT Class 11 Physics, Chapter 4, extracted page 1"
+    },
+    {
+      "title": "4.6 Newton’s third law of motion",
+      "first_seen_page_index": 1,
+      "source_trace": "NCERT Class 11 Physics, Chapter 4, extracted page 1"
+    },
+    {
+      "title": "4.7 Conservation of momentum",
+      "first_seen_page_index": 1,
+      "source_trace": "NCERT Class 11 Physics, Chapter 4, extracted page 1"
+    },
+    {
+      "title": "4.8 Equilibrium of a particle",
+      "first_seen_page_index": 1,
+      "source_trace": "NCERT Class 11 Physics, Chapter 4, extracted page 1"
+    },
+    {
+      "title": "4.9 Common forces in mechanics",
+      "first_seen_page_index": 1,
+      "source_trace": "NCERT Class 11 Physics, Chapter 4, extracted page 1"
+    },
+    {
+      "title": "4.10 Circular motion",
+      "first_seen_page_index": 1,
+      "source_trace": "NCERT Class 11 Physics, Chapter 4, extracted page 1"
+    },
+    {
+      "title": "4.11 Solving problems in",
+      "first_seen_page_index": 1,
+      "source_trace": "NCERT Class 11 Physics, Chapter 4, extracted page 1"
+    },
+    {
+      "title": "PHYSICS 50",
+      "first_seen_page_index": 2,
+      "source_trace": "NCERT Class 11 Physics, Chapter 4, extracted page 2"
+    },
+    {
+      "title": "LAWS OF MOTION 51",
+      "first_seen_page_index": 3,
+      "source_trace": "NCERT Class 11 Physics, Chapter 4, extracted page 3"
+    },
+    {
+      "title": "PHYSICS 52",
+      "first_seen_page_index": 4,
+      "source_trace": "NCERT Class 11 Physics, Chapter 4, extracted page 4"
+    },
+    {
+      "title": "LAWS OF MOTION 53",
+      "first_seen_page_index": 5,
+      "source_trace": "NCERT Class 11 Physics, Chapter 4, extracted page 5"
+    },
+    {
+      "title": "4.5 NEWTON’S SECOND LAW OF MOTION",
+      "first_seen_page_index": 5,
+      "source_trace": "NCERT Class 11 Physics, Chapter 4, extracted page 5"
+    },
+    {
+      "title": "PHYSICS 54",
+      "first_seen_page_index": 6,
+      "source_trace": "NCERT Class 11 Physics, Chapter 4, extracted page 6"
+    },
+    {
+      "title": "LAWS OF MOTION 55",
+      "first_seen_page_index": 7,
+      "source_trace": "NCERT Class 11 Physics, Chapter 4, extracted page 7"
+    },
+    {
+      "title": "PHYSICS 56",
+      "first_seen_page_index": 8,
+      "source_trace": "NCERT Class 11 Physics, Chapter 4, extracted page 8"
+    },
+    {
+      "title": "FAB = – FBA (4.8)",
+      "first_seen_page_index": 8,
+      "source_trace": "NCERT Class 11 Physics, Chapter 4, extracted page 8"
+    },
+    {
+      "title": "LAWS OF MOTION 57",
+      "first_seen_page_index": 9,
+      "source_trace": "NCERT Class 11 Physics, Chapter 4, extracted page 9"
+    },
+    {
+      "title": "PHYSICS 58",
+      "first_seen_page_index": 10,
+      "source_trace": "NCERT Class 11 Physics, Chapter 4, extracted page 10"
+    },
+    {
+      "title": "LAWS OF MOTION 59",
+      "first_seen_page_index": 11,
+      "source_trace": "NCERT Class 11 Physics, Chapter 4, extracted page 11"
+    },
+    {
+      "title": "PHYSICS 60",
+      "first_seen_page_index": 12,
+      "source_trace": "NCERT Class 11 Physics, Chapter 4, extracted page 12"
+    },
+    {
+      "title": "4.9.1 Friction",
+      "first_seen_page_index": 12,
+      "source_trace": "NCERT Class 11 Physics, Chapter 4, extracted page 12"
+    },
+    {
+      "title": "LAWS OF MOTION 61",
+      "first_seen_page_index": 13,
+      "source_trace": "NCERT Class 11 Physics, Chapter 4, extracted page 13"
+    },
+    {
+      "title": "PHYSICS 62",
+      "first_seen_page_index": 14,
+      "source_trace": "NCERT Class 11 Physics, Chapter 4, extracted page 14"
+    },
+    {
+      "title": "LAWS OF MOTION 63",
+      "first_seen_page_index": 15,
+      "source_trace": "NCERT Class 11 Physics, Chapter 4, extracted page 15"
+    },
+    {
+      "title": "PHYSICS 64",
+      "first_seen_page_index": 16,
+      "source_trace": "NCERT Class 11 Physics, Chapter 4, extracted page 16"
+    },
+    {
+      "title": "4.11 SOLVING PROBLEMS IN MECHANICS",
+      "first_seen_page_index": 16,
+      "source_trace": "NCERT Class 11 Physics, Chapter 4, extracted page 16"
+    },
+    {
+      "title": "LAWS OF MOTION 65",
+      "first_seen_page_index": 17,
+      "source_trace": "NCERT Class 11 Physics, Chapter 4, extracted page 17"
+    },
+    {
+      "title": "PHYSICS 66",
+      "first_seen_page_index": 18,
+      "source_trace": "NCERT Class 11 Physics, Chapter 4, extracted page 18"
+    },
+    {
+      "title": "SUMMARY",
+      "first_seen_page_index": 18,
+      "source_trace": "NCERT Class 11 Physics, Chapter 4, extracted page 18"
+    },
+    {
+      "title": "LAWS OF MOTION 67",
+      "first_seen_page_index": 19,
+      "source_trace": "NCERT Class 11 Physics, Chapter 4, extracted page 19"
+    },
+    {
+      "title": "POINTS TO PONDER",
+      "first_seen_page_index": 19,
+      "source_trace": "NCERT Class 11 Physics, Chapter 4, extracted page 19"
+    },
+    {
+      "title": "PHYSICS 68",
+      "first_seen_page_index": 20,
+      "source_trace": "NCERT Class 11 Physics, Chapter 4, extracted page 20"
+    },
+    {
+      "title": "4.1 Give the magnitude and direction of the net force acting on",
+      "first_seen_page_index": 20,
+      "source_trace": "NCERT Class 11 Physics, Chapter 4, extracted page 20"
+    },
+    {
+      "title": "4.2 A pebble of mass 0.05 kg is thrown vertically upwards. Give the direction",
+      "first_seen_page_index": 20,
+      "source_trace": "NCERT Class 11 Physics, Chapter 4, extracted page 20"
+    }
+  ],
+  "production_status": "concept_candidates_ready_for_human_decode"
+}

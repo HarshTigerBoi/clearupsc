@@ -1,0 +1,223 @@
+{
+  "key": "gs1_hist_class10_contemporary_world_ii_ch03_the_making_of_a_global_world",
+  "title": "The Making of a Global World",
+  "source": {
+    "book": "NCERT Class 10 India and the Contemporary World II",
+    "chapter": 3,
+    "chapter_title": "The Making of a Global World",
+    "pdf_url": "https://ncert.nic.in/textbook.php?jess1=0-5",
+    "page_range": "pending source extraction"
+  },
+  "resolved_pdf_url": "https://ncert.nic.in/textbook/pdf/jess303.pdf",
+  "sha256": "d05d0e3fae418f3e9609410897df1bcfd03db9c1b8278ab4e5545ac32efb1de3",
+  "extraction": {
+    "raw_text_path": "data/study/textbook-first/raw-text/gs1_hist_class10_contemporary_world_ii_ch03_the_making_of_a_global_world.txt",
+    "extracted_characters": 59086,
+    "page_count": 28,
+    "paragraph_count_estimate": 0,
+    "title_match_score": 1
+  },
+  "concept_candidates": [
+    {
+      "title": "SECTION II",
+      "first_seen_page_index": 1,
+      "source_trace": "NCERT Class 10 India and the Contemporary World II, Chapter 3, extracted page 1"
+    },
+    {
+      "title": "LIVELIHOODS, ECONOMIES AND SOCIETIES",
+      "first_seen_page_index": 1,
+      "source_trace": "NCERT Class 10 India and the Contemporary World II, Chapter 3, extracted page 1"
+    },
+    {
+      "title": "1 The Pre-modern World",
+      "first_seen_page_index": 3,
+      "source_trace": "NCERT Class 10 India and the Contemporary World II, Chapter 3, extracted page 3"
+    },
+    {
+      "title": "1.1 Silk Routes Link the World",
+      "first_seen_page_index": 4,
+      "source_trace": "NCERT Class 10 India and the Contemporary World II, Chapter 3, extracted page 4"
+    },
+    {
+      "title": "1.2 Food Travels: Spaghetti and Potato",
+      "first_seen_page_index": 4,
+      "source_trace": "NCERT Class 10 India and the Contemporary World II, Chapter 3, extracted page 4"
+    },
+    {
+      "title": "1.3 Conquest, Disease and Trade",
+      "first_seen_page_index": 5,
+      "source_trace": "NCERT Class 10 India and the Contemporary World II, Chapter 3, extracted page 5"
+    },
+    {
+      "title": "2.1 A World Economy Takes Shape",
+      "first_seen_page_index": 7,
+      "source_trace": "NCERT Class 10 India and the Contemporary World II, Chapter 3, extracted page 7"
+    },
+    {
+      "title": "2 The Nineteenth Century (1815-1914)",
+      "first_seen_page_index": 7,
+      "source_trace": "NCERT Class 10 India and the Contemporary World II, Chapter 3, extracted page 7"
+    },
+    {
+      "title": "2.2 Role of Technology",
+      "first_seen_page_index": 9,
+      "source_trace": "NCERT Class 10 India and the Contemporary World II, Chapter 3, extracted page 9"
+    },
+    {
+      "title": "2.3 Late nineteenth-century Colonialism",
+      "first_seen_page_index": 10,
+      "source_trace": "NCERT Class 10 India and the Contemporary World II, Chapter 3, extracted page 10"
+    },
+    {
+      "title": "MOROCCO",
+      "first_seen_page_index": 11,
+      "source_trace": "NCERT Class 10 India and the Contemporary World II, Chapter 3, extracted page 11"
+    },
+    {
+      "title": "ALGERIA",
+      "first_seen_page_index": 11,
+      "source_trace": "NCERT Class 10 India and the Contemporary World II, Chapter 3, extracted page 11"
+    },
+    {
+      "title": "SPANISH",
+      "first_seen_page_index": 11,
+      "source_trace": "NCERT Class 10 India and the Contemporary World II, Chapter 3, extracted page 11"
+    },
+    {
+      "title": "SAHARA",
+      "first_seen_page_index": 11,
+      "source_trace": "NCERT Class 10 India and the Contemporary World II, Chapter 3, extracted page 11"
+    },
+    {
+      "title": "DE ORO",
+      "first_seen_page_index": 11,
+      "source_trace": "NCERT Class 10 India and the Contemporary World II, Chapter 3, extracted page 11"
+    },
+    {
+      "title": "PORT",
+      "first_seen_page_index": 11,
+      "source_trace": "NCERT Class 10 India and the Contemporary World II, Chapter 3, extracted page 11"
+    },
+    {
+      "title": "GUINEA",
+      "first_seen_page_index": 11,
+      "source_trace": "NCERT Class 10 India and the Contemporary World II, Chapter 3, extracted page 11"
+    },
+    {
+      "title": "FRENCH SUDAN",
+      "first_seen_page_index": 11,
+      "source_trace": "NCERT Class 10 India and the Contemporary World II, Chapter 3, extracted page 11"
+    },
+    {
+      "title": "FRENCH WEST AFRICA",
+      "first_seen_page_index": 11,
+      "source_trace": "NCERT Class 10 India and the Contemporary World II, Chapter 3, extracted page 11"
+    },
+    {
+      "title": "NIGERIA",
+      "first_seen_page_index": 11,
+      "source_trace": "NCERT Class 10 India and the Contemporary World II, Chapter 3, extracted page 11"
+    },
+    {
+      "title": "TOGO",
+      "first_seen_page_index": 11,
+      "source_trace": "NCERT Class 10 India and the Contemporary World II, Chapter 3, extracted page 11"
+    },
+    {
+      "title": "CAMEROONS",
+      "first_seen_page_index": 11,
+      "source_trace": "NCERT Class 10 India and the Contemporary World II, Chapter 3, extracted page 11"
+    },
+    {
+      "title": "MIDDLE",
+      "first_seen_page_index": 11,
+      "source_trace": "NCERT Class 10 India and the Contemporary World II, Chapter 3, extracted page 11"
+    },
+    {
+      "title": "CONGO",
+      "first_seen_page_index": 11,
+      "source_trace": "NCERT Class 10 India and the Contemporary World II, Chapter 3, extracted page 11"
+    },
+    {
+      "title": "FREE STATE",
+      "first_seen_page_index": 11,
+      "source_trace": "NCERT Class 10 India and the Contemporary World II, Chapter 3, extracted page 11"
+    },
+    {
+      "title": "(BELGIAN",
+      "first_seen_page_index": 11,
+      "source_trace": "NCERT Class 10 India and the Contemporary World II, Chapter 3, extracted page 11"
+    },
+    {
+      "title": "CONGO)",
+      "first_seen_page_index": 11,
+      "source_trace": "NCERT Class 10 India and the Contemporary World II, Chapter 3, extracted page 11"
+    },
+    {
+      "title": "ANGOLA",
+      "first_seen_page_index": 11,
+      "source_trace": "NCERT Class 10 India and the Contemporary World II, Chapter 3, extracted page 11"
+    },
+    {
+      "title": "GERMAN",
+      "first_seen_page_index": 11,
+      "source_trace": "NCERT Class 10 India and the Contemporary World II, Chapter 3, extracted page 11"
+    },
+    {
+      "title": "SOUTH WEST",
+      "first_seen_page_index": 11,
+      "source_trace": "NCERT Class 10 India and the Contemporary World II, Chapter 3, extracted page 11"
+    },
+    {
+      "title": "AFRICA",
+      "first_seen_page_index": 11,
+      "source_trace": "NCERT Class 10 India and the Contemporary World II, Chapter 3, extracted page 11"
+    },
+    {
+      "title": "UNION OF",
+      "first_seen_page_index": 11,
+      "source_trace": "NCERT Class 10 India and the Contemporary World II, Chapter 3, extracted page 11"
+    },
+    {
+      "title": "SOUTH AFRICA",
+      "first_seen_page_index": 11,
+      "source_trace": "NCERT Class 10 India and the Contemporary World II, Chapter 3, extracted page 11"
+    },
+    {
+      "title": "NORTHERN",
+      "first_seen_page_index": 11,
+      "source_trace": "NCERT Class 10 India and the Contemporary World II, Chapter 3, extracted page 11"
+    },
+    {
+      "title": "RHODESIA",
+      "first_seen_page_index": 11,
+      "source_trace": "NCERT Class 10 India and the Contemporary World II, Chapter 3, extracted page 11"
+    },
+    {
+      "title": "SOUTHERN",
+      "first_seen_page_index": 11,
+      "source_trace": "NCERT Class 10 India and the Contemporary World II, Chapter 3, extracted page 11"
+    },
+    {
+      "title": "PORTUGUESE",
+      "first_seen_page_index": 11,
+      "source_trace": "NCERT Class 10 India and the Contemporary World II, Chapter 3, extracted page 11"
+    },
+    {
+      "title": "EAST AFRICA",
+      "first_seen_page_index": 11,
+      "source_trace": "NCERT Class 10 India and the Contemporary World II, Chapter 3, extracted page 11"
+    },
+    {
+      "title": "MADAGASCAR",
+      "first_seen_page_index": 11,
+      "source_trace": "NCERT Class 10 India and the Contemporary World II, Chapter 3, extracted page 11"
+    },
+    {
+      "title": "BRITISH",
+      "first_seen_page_index": 11,
+      "source_trace": "NCERT Class 10 India and the Contemporary World II, Chapter 3, extracted page 11"
+    }
+  ],
+  "production_status": "concept_candidates_ready_for_human_decode"
+}

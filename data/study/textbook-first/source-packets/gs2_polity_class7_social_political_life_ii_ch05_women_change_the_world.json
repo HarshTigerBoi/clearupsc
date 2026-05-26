@@ -1,0 +1,73 @@
+{
+  "key": "gs2_polity_class7_social_political_life_ii_ch05_women_change_the_world",
+  "title": "Women Change the World",
+  "source": {
+    "book": "NCERT Class 7 Social and Political Life II",
+    "chapter": 5,
+    "chapter_title": "Women Change the World",
+    "pdf_url": "https://ncert.nic.in/textbook.php?gess3=0-9",
+    "page_range": "pending source extraction"
+  },
+  "resolved_pdf_url": "https://ncert.nic.in/textbook/pdf/gess305.pdf",
+  "sha256": "39e129e36622b2199d6f4ba3b7a2c30e319a20297dde3a3208eb6063e4bc744f",
+  "extraction": {
+    "raw_text_path": "data/study/textbook-first/raw-text/gs2_polity_class7_social_political_life_ii_ch05_women_change_the_world.txt",
+    "extracted_characters": 22426,
+    "page_count": 16,
+    "paragraph_count_estimate": 0,
+    "title_match_score": 1
+  },
+  "concept_candidates": [
+    {
+      "title": "48 Social and Political Life",
+      "first_seen_page_index": 1,
+      "source_trace": "NCERT Class 7 Social and Political Life II, Chapter 5, extracted page 1"
+    },
+    {
+      "title": "5CHAPTER",
+      "first_seen_page_index": 1,
+      "source_trace": "NCERT Class 7 Social and Political Life II, Chapter 5, extracted page 1"
+    },
+    {
+      "title": "49 Chapter 5: Women Change the World",
+      "first_seen_page_index": 2,
+      "source_trace": "NCERT Class 7 Social and Political Life II, Chapter 5, extracted page 2"
+    },
+    {
+      "title": "50 Social and Political Life",
+      "first_seen_page_index": 3,
+      "source_trace": "NCERT Class 7 Social and Political Life II, Chapter 5, extracted page 3"
+    },
+    {
+      "title": "52 Social and Political Life",
+      "first_seen_page_index": 5,
+      "source_trace": "NCERT Class 7 Social and Political Life II, Chapter 5, extracted page 5"
+    },
+    {
+      "title": "54 Social and Political Life",
+      "first_seen_page_index": 7,
+      "source_trace": "NCERT Class 7 Social and Political Life II, Chapter 5, extracted page 7"
+    },
+    {
+      "title": "56 Social and Political Life",
+      "first_seen_page_index": 9,
+      "source_trace": "NCERT Class 7 Social and Political Life II, Chapter 5, extracted page 9"
+    },
+    {
+      "title": "60 Social and Political Life",
+      "first_seen_page_index": 13,
+      "source_trace": "NCERT Class 7 Social and Political Life II, Chapter 5, extracted page 13"
+    },
+    {
+      "title": "14 August, several thousand people",
+      "first_seen_page_index": 13,
+      "source_trace": "NCERT Class 7 Social and Political Life II, Chapter 5, extracted page 13"
+    },
+    {
+      "title": "FOUR",
+      "first_seen_page_index": 15,
+      "source_trace": "NCERT Class 7 Social and Political Life II, Chapter 5, extracted page 15"
+    }
+  ],
+  "production_status": "concept_candidates_ready_for_human_decode"
+}

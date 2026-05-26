@@ -1,0 +1,128 @@
+{
+  "key": "gs3_sci_class7_science_ch09_soil",
+  "title": "Soil",
+  "source": {
+    "book": "NCERT Class 7 Science",
+    "chapter": 9,
+    "chapter_title": "Soil",
+    "pdf_url": "https://ncert.nic.in/textbook.php?gesc1=0-18",
+    "page_range": "pending source extraction"
+  },
+  "resolved_pdf_url": "https://ncert.nic.in/textbook/pdf/gesc109.pdf",
+  "sha256": "de7cf65a61a60371a6425f56aa51396de3cf54acc895cfa6be27333702013d7c",
+  "extraction": {
+    "raw_text_path": "data/study/textbook-first/raw-text/gs3_sci_class7_science_ch09_soil.txt",
+    "extracted_characters": 28623,
+    "page_count": 17,
+    "paragraph_count_estimate": 0,
+    "title_match_score": 0
+  },
+  "concept_candidates": [
+    {
+      "title": "9.1 SLOW OR FAST",
+      "first_seen_page_index": 1,
+      "source_trace": "NCERT Class 7 Science, Chapter 9, extracted page 1"
+    },
+    {
+      "title": "M OTION AND T IME 93",
+      "first_seen_page_index": 2,
+      "source_trace": "NCERT Class 7 Science, Chapter 9, extracted page 2"
+    },
+    {
+      "title": "9.2 S PEED",
+      "first_seen_page_index": 2,
+      "source_trace": "NCERT Class 7 Science, Chapter 9, extracted page 2"
+    },
+    {
+      "title": "SCIENCE 94",
+      "first_seen_page_index": 3,
+      "source_trace": "NCERT Class 7 Science, Chapter 9, extracted page 3"
+    },
+    {
+      "title": "9.3 M EASUREMENT OF TIME",
+      "first_seen_page_index": 3,
+      "source_trace": "NCERT Class 7 Science, Chapter 9, extracted page 3"
+    },
+    {
+      "title": "M OTION AND T IME 95",
+      "first_seen_page_index": 4,
+      "source_trace": "NCERT Class 7 Science, Chapter 9, extracted page 4"
+    },
+    {
+      "title": "SCIENCE 96",
+      "first_seen_page_index": 5,
+      "source_trace": "NCERT Class 7 Science, Chapter 9, extracted page 5"
+    },
+    {
+      "title": "M OTION AND T IME 97",
+      "first_seen_page_index": 6,
+      "source_trace": "NCERT Class 7 Science, Chapter 9, extracted page 6"
+    },
+    {
+      "title": "9.4 M EASURING S PEED",
+      "first_seen_page_index": 6,
+      "source_trace": "NCERT Class 7 Science, Chapter 9, extracted page 6"
+    },
+    {
+      "title": "SCIENCE 98",
+      "first_seen_page_index": 7,
+      "source_trace": "NCERT Class 7 Science, Chapter 9, extracted page 7"
+    },
+    {
+      "title": "M OTION AND T IME 99",
+      "first_seen_page_index": 8,
+      "source_trace": "NCERT Class 7 Science, Chapter 9, extracted page 8"
+    },
+    {
+      "title": "SCIENCE 100",
+      "first_seen_page_index": 9,
+      "source_trace": "NCERT Class 7 Science, Chapter 9, extracted page 9"
+    },
+    {
+      "title": "9.5 DISTANCE-T IME GRAPH",
+      "first_seen_page_index": 9,
+      "source_trace": "NCERT Class 7 Science, Chapter 9, extracted page 9"
+    },
+    {
+      "title": "M OTION AND T IME 101",
+      "first_seen_page_index": 10,
+      "source_trace": "NCERT Class 7 Science, Chapter 9, extracted page 10"
+    },
+    {
+      "title": "SCIENCE 102",
+      "first_seen_page_index": 11,
+      "source_trace": "NCERT Class 7 Science, Chapter 9, extracted page 11"
+    },
+    {
+      "title": "M OTION AND T IME 103",
+      "first_seen_page_index": 12,
+      "source_trace": "NCERT Class 7 Science, Chapter 9, extracted page 12"
+    },
+    {
+      "title": "SCIENCE 104",
+      "first_seen_page_index": 13,
+      "source_trace": "NCERT Class 7 Science, Chapter 9, extracted page 13"
+    },
+    {
+      "title": "M OTION AND T IME 105",
+      "first_seen_page_index": 14,
+      "source_trace": "NCERT Class 7 Science, Chapter 9, extracted page 14"
+    },
+    {
+      "title": "SCIENCE 106",
+      "first_seen_page_index": 15,
+      "source_trace": "NCERT Class 7 Science, Chapter 9, extracted page 15"
+    },
+    {
+      "title": "M OTION AND T IME 107",
+      "first_seen_page_index": 16,
+      "source_trace": "NCERT Class 7 Science, Chapter 9, extracted page 16"
+    },
+    {
+      "title": "SCIENCE 108",
+      "first_seen_page_index": 17,
+      "source_trace": "NCERT Class 7 Science, Chapter 9, extracted page 17"
+    }
+  ],
+  "production_status": "concept_candidates_ready_for_human_decode"
+}

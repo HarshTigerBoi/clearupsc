@@ -1,0 +1,53 @@
+{
+  "key": "gs2_polity_class11_theory_ch04_social_justice",
+  "title": "Social Justice",
+  "source": {
+    "book": "NCERT Class 11 Political Theory",
+    "chapter": 4,
+    "chapter_title": "Social Justice",
+    "pdf_url": "https://ncert.nic.in/textbook.php?keps1=0-10",
+    "page_range": "pending source extraction"
+  },
+  "resolved_pdf_url": "https://ncert.nic.in/textbook/pdf/keps104.pdf",
+  "sha256": "2aafdce7f0dce645035dd1de97d33f02e8e56387cf9b0a4184acad4e93afaefd",
+  "extraction": {
+    "raw_text_path": "data/study/textbook-first/raw-text/gs2_polity_class11_theory_ch04_social_justice.txt",
+    "extracted_characters": 28374,
+    "page_count": 14,
+    "paragraph_count_estimate": 0,
+    "title_match_score": 1
+  },
+  "concept_candidates": [
+    {
+      "title": "4.1 WHAT IS JUSTICE?",
+      "first_seen_page_index": 2,
+      "source_trace": "NCERT Class 11 Political Theory, Chapter 4, extracted page 2"
+    },
+    {
+      "title": "LET’S THINK",
+      "first_seen_page_index": 5,
+      "source_trace": "NCERT Class 11 Political Theory, Chapter 4, extracted page 5"
+    },
+    {
+      "title": "4.2 JUST DISTRIBUTION",
+      "first_seen_page_index": 6,
+      "source_trace": "NCERT Class 11 Political Theory, Chapter 4, extracted page 6"
+    },
+    {
+      "title": "4.3 JOHN RAWLS’ THEORY OF JUSTICE",
+      "first_seen_page_index": 7,
+      "source_trace": "NCERT Class 11 Political Theory, Chapter 4, extracted page 7"
+    },
+    {
+      "title": "4.4 PURSUING SOCIAL JUSTICE",
+      "first_seen_page_index": 10,
+      "source_trace": "NCERT Class 11 Political Theory, Chapter 4, extracted page 10"
+    },
+    {
+      "title": "LET’S DO IT D o",
+      "first_seen_page_index": 10,
+      "source_trace": "NCERT Class 11 Political Theory, Chapter 4, extracted page 10"
+    }
+  ],
+  "production_status": "concept_candidates_ready_for_human_decode"
+}

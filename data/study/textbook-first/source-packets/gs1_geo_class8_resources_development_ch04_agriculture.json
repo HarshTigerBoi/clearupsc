@@ -1,0 +1,38 @@
+{
+  "key": "gs1_geo_class8_resources_development_ch04_agriculture",
+  "title": "Agriculture",
+  "source": {
+    "book": "NCERT Class 8 Resources and Development",
+    "chapter": 4,
+    "chapter_title": "Agriculture",
+    "pdf_url": "https://ncert.nic.in/textbook.php?hess3=0-6",
+    "page_range": "pending source extraction"
+  },
+  "resolved_pdf_url": "https://ncert.nic.in/textbook/pdf/hess304.pdf",
+  "sha256": "1680fd2bc82dec9bb7fab6df5ab3fd53daf5f4df51b7a1fcfe2512afae1a8c2b",
+  "extraction": {
+    "raw_text_path": "data/study/textbook-first/raw-text/gs1_geo_class8_resources_development_ch04_agriculture.txt",
+    "extracted_characters": 23066,
+    "page_count": 14,
+    "paragraph_count_estimate": 5,
+    "title_match_score": 0
+  },
+  "concept_candidates": [
+    {
+      "title": "26 January 1950, the day India became a",
+      "first_seen_page_index": 4,
+      "source_trace": "NCERT Class 8 Resources and Development, Chapter 4, extracted page 4"
+    },
+    {
+      "title": "22 May 1987. These families fought for justice for",
+      "first_seen_page_index": 12,
+      "source_trace": "NCERT Class 8 Resources and Development, Chapter 4, extracted page 12"
+    },
+    {
+      "title": "GLOSSARY",
+      "first_seen_page_index": 14,
+      "source_trace": "NCERT Class 8 Resources and Development, Chapter 4, extracted page 14"
+    }
+  ],
+  "production_status": "concept_candidates_ready_for_human_decode"
+}

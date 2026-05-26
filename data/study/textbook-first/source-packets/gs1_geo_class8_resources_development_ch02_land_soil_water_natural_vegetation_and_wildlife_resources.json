@@ -1,0 +1,28 @@
+{
+  "key": "gs1_geo_class8_resources_development_ch02_land_soil_water_natural_vegetation_and_wildlife_resources",
+  "title": "Land Soil Water Natural Vegetation and Wildlife Resources",
+  "source": {
+    "book": "NCERT Class 8 Resources and Development",
+    "chapter": 2,
+    "chapter_title": "Land Soil Water Natural Vegetation and Wildlife Resources",
+    "pdf_url": "https://ncert.nic.in/textbook.php?hess3=0-6",
+    "page_range": "pending source extraction"
+  },
+  "resolved_pdf_url": "https://ncert.nic.in/textbook/pdf/hess302.pdf",
+  "sha256": "03e32a86e4e8805ce194970f35c61eb9d973b0acdea26f51c73b93cb223a75ff",
+  "extraction": {
+    "raw_text_path": "data/study/textbook-first/raw-text/gs1_geo_class8_resources_development_ch02_land_soil_water_natural_vegetation_and_wildlife_resources.txt",
+    "extracted_characters": 15833,
+    "page_count": 10,
+    "paragraph_count_estimate": 0,
+    "title_match_score": 0.14
+  },
+  "concept_candidates": [
+    {
+      "title": "GLOSSARY",
+      "first_seen_page_index": 10,
+      "source_trace": "NCERT Class 8 Resources and Development, Chapter 2, extracted page 10"
+    }
+  ],
+  "production_status": "concept_candidates_ready_for_human_decode"
+}

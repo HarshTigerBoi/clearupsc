@@ -1,0 +1,73 @@
+{
+  "key": "gs1_society_class12_indian_society_ch02_the_demographic_structure",
+  "title": "The Demographic Structure",
+  "source": {
+    "book": "NCERT Class 12 Indian Society",
+    "chapter": 2,
+    "chapter_title": "The Demographic Structure",
+    "pdf_url": "https://ncert.nic.in/textbook.php?lesy1=0-7",
+    "page_range": "pending source extraction"
+  },
+  "resolved_pdf_url": "https://ncert.nic.in/textbook/pdf/lesy102.pdf",
+  "sha256": "7d9ad6210c5de3cf7a20142f699db60fbdf8c8f102fac81bfdb48367d6271c26",
+  "extraction": {
+    "raw_text_path": "data/study/textbook-first/raw-text/gs1_society_class12_indian_society_ch02_the_demographic_structure.txt",
+    "extracted_characters": 60924,
+    "page_count": 30,
+    "paragraph_count_estimate": 0,
+    "title_match_score": 1
+  },
+  "concept_candidates": [
+    {
+      "title": "2.1 Some TheorieS and ConCepTS in demography",
+      "first_seen_page_index": 4,
+      "source_trace": "NCERT Class 12 Indian Society, Chapter 2, extracted page 4"
+    },
+    {
+      "title": "COMMON CONCEPTS AND INDICATORS",
+      "first_seen_page_index": 6,
+      "source_trace": "NCERT Class 12 Indian Society, Chapter 2, extracted page 6"
+    },
+    {
+      "title": "ACTIVITY 2.1",
+      "first_seen_page_index": 6,
+      "source_trace": "NCERT Class 12 Indian Society, Chapter 2, extracted page 6"
+    },
+    {
+      "title": "2.2 Size and growTh of india’S populaTion",
+      "first_seen_page_index": 8,
+      "source_trace": "NCERT Class 12 Indian Society, Chapter 2, extracted page 8"
+    },
+    {
+      "title": "RATE PER 1000 POPULATION",
+      "first_seen_page_index": 9,
+      "source_trace": "NCERT Class 12 Indian Society, Chapter 2, extracted page 9"
+    },
+    {
+      "title": "DEATH RATE",
+      "first_seen_page_index": 9,
+      "source_trace": "NCERT Class 12 Indian Society, Chapter 2, extracted page 9"
+    },
+    {
+      "title": "2.3 Age Structure of the IndIAn PoPulAtIon",
+      "first_seen_page_index": 14,
+      "source_trace": "NCERT Class 12 Indian Society, Chapter 2, extracted page 14"
+    },
+    {
+      "title": "20 Source: Based on data from relevant volumes of the Census of India (1961, 1981 & 2001)",
+      "first_seen_page_index": 16,
+      "source_trace": "NCERT Class 12 Indian Society, Chapter 2, extracted page 16"
+    },
+    {
+      "title": "2.4 The deClining Sex- raTio in india",
+      "first_seen_page_index": 20,
+      "source_trace": "NCERT Class 12 Indian Society, Chapter 2, extracted page 20"
+    },
+    {
+      "title": "2.6 R uRal-uRban DiffeRences",
+      "first_seen_page_index": 25,
+      "source_trace": "NCERT Class 12 Indian Society, Chapter 2, extracted page 25"
+    }
+  ],
+  "production_status": "concept_candidates_ready_for_human_decode"
+}

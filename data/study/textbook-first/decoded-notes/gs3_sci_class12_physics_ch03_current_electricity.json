@@ -1,0 +1,224 @@
+{
+  "analogy": "Think of \"Current Electricity\" through the chapter's own opening images: 3.1 INTRODUCTION In Chapter 1, all charges whether free or bound, were considered to be at rest. Charges in motion constitute an electric current. Such currents occur naturally in many situations. Lightning is one such phenomenon in which charges flow from the clouds to the... The easy idea is that the visible surface is only the outside cover. The chapter keeps asking how we can know what is inside when no one can directly reach the deep interior. So the learner must read clues: rocks, mines, drilling, volcanic material, heat, gravity, magnetism and earthquake waves. Like solving a hidden-layer puzzle, each clue tells something about the crust, mantle, core and volcanic activity without inventing anything beyond the textbook.",
+  "full_notes": "Current Electricity is decoded here only from the NCERT chapter text. The chapter begins by asking how the nature of the earth should be imagined and why the interior cannot be known in the same direct way as the surface. It connects the hidden interior with visible results on the surface, especially landscape development, earthquakes, tsunamis and volcanic activity.\n\nThe text explains that 3.1 INTRODUCTION In Chapter 1, all charges whether free or bound, were considered to be at rest.\n\nThe text explains that charges in motion constitute an electric current.\n\nThe text explains that such currents occur naturally in many situations.\n\nThe text explains that lightning is one such phenomenon in which charges flow from the clouds to the earth through the atmosphere, sometimes with disastrous results.\n\nThe text explains that the flow of charges in lightning is not steady, but in our everyday life we see many devices where charges flow in a steady manner, like water flowing smoothly in a river.\n\nThe text explains that a torch and a cell-driven clock are examples of such devices.\n\nThe text explains that in the present chapter, we shall study some of the basic laws concerning steady electric currents.\n\nThe text explains that 3.2 ELECTRIC CURRENT Imagine a small area held normal to the direction of flow of charges.\n\nThe text explains that both the positive and the negative charges may flow forward and backward across the area.\n\nThe text explains that in a given time interval t, let q+ be the net amount (i.e., forward minus backward) of positive charge that flows in the forward direction across the area.\n\nThe text explains that similarly, let q– be the net amount of negative charge flowing across the area in the forward direction.\n\nThe text explains that the net amount of charge flowing across the area in the forward direction in the time interval t, then, is q = q+– q–.\n\nThe text explains that this is proportional to t for steady current Chapter Three CURRENT ELECTRICITY\n\nThe text explains that physics 82 and the quotient q I t = (3.1) is defined to be the current across the area in the forward direction.\n\nThe text explains that (If it turn out to be a negative number, it implies a current in the backward direction.) Currents are not always steady and hence more generally, we define the current as follows.\n\nThe text explains that let DQ be the net charge flowing across a cross- section of a conductor during the time interval Dt [i.e., between times t and (t + Dt)].\n\nThe text explains that however, the direction of its velocity after the collision is completely random.\n\nThe text explains that at a given time, there is no preferential direction for the velocities of the electrons.\n\nThe text explains that current Electricity 83 number of electrons travelling in any direction will be equal to the number of electrons travelling in the opposite direction.\n\nThe text explains that an electric field will be created and is directed from the positive towards the negative charge.\n\nThe text explains that using the last equation, Ohm’s law reads I l V I R A ρ = × = (3.10) Current per unit area (taken normal to the current), I/A, is called current density and is denoted by j.\n\nThe text explains that the SI units of the current density are A/m2.\n\nThe text explains that ohm was led to his law by an analogy between the conduction of heat: the electric field is analogous to the temperature gradient, and the electric current is analogous to the heat flow.\n\nThe text explains that the current density, (which we have defined as the current through unit area normal to the current) is also directed along E, and is also a vector j (ººººº j E/E).\n\nThe text explains that 3.5 DRIFT OF ELECTRONS AND THE ORIGIN OF RESISTIVITY As remarked before, an electron will suffer collisions with the heavy fixed ions, but after collision, it will emerge with the same speed but in random directions.\n\nThe text explains that if we consider all the electrons, their average velocity will be zero since their directions are random.\n\nThe text explains that (3.14)] since immediately after any collision, the direction of the velocity of an electron is completely random.\n\nThe text explains that a slight drift in a direction opposite the electric field is visible.\n\nThe text explains that e is directed towards the left and hence the total charge transported along E across the area is negative of this.\n\nThe text explains that (3.17) 2 E τ ∆ = ∆ e A I t n t m (3.19) By definition I is related to the magnitude |j| of the current density by I = |j|A (3.20) Hence, from Eqs.(3.19) and (3.20), 2 j E τ = ne m (3.21) The vector j is parallel to E and hence we can write Eq.\n\nThe text explains that the magnitude of current density in a metal is the magnitude of charge contained in a cylinder of unit area and length vd.\n\nThe text explains that the density of copper is 9.0 × 103 kg/m3, and its atomic mass is 63.5 u.\n\nThe text explains that (b) Compare the drift speed obtained above with, (i) thermal speeds of copper atoms at ordinary temperatures, (ii) speed of propagation of electric field along the conductor which causes the drift motion.\n\nThe text explains that solution (a) The direction of drift velocity of conduction electrons is opposite to the electric field direction, i.e., electrons drift in the direction of increasing potential.\n\nThe text explains that the density of conduction electrons, n is equal to the number of atoms per cubic metre (assuming one conduction electron per Cu atom as is reasonable from its valence electron count of one).\n\nThe text explains that since 6.0 × 1023 copper atoms have a mass of 63.5 g, 23 6 6.0 10 9.0 10 63.5 n × = × × = 8.5 × 1028 m–3 which gives, 28 –19 –7 1.5 8.5 10 1.6 10 1.0 10 = × × × × × d v = 1.1 × 10–3 m s–1 = 1.1 mm s–1 (b) (i) At a temperature T, the thermal speed* of a copper atom of mass M is obtained from [<(1/2) Mv2 > = (3/2) kBT ] and is thus typically of the order of / B k T M , where kB is the Boltzmann constant.\n\nThe text explains that note that the drift speed of electrons is much smaller, about 10–5 times the typical thermal speed at ordinary temperatures.\n\nThe text explains that (ii) An electric field travelling along the conductor has a speed of an electromagnetic wave, namely equal to 3.0 × 108 m s–1 (You will learn about this in Chapter 8).\n\nThe text explains that (d) When electrons drift in a metal from lower to higher potential, does it mean that all the ‘free’ electrons of the metal are moving in the same direction?\n\nThe text explains that (c) Simple, because the electron number density is enormous, ~1029 m–3.\n\nThe text explains that in other words, if I is the current for a certain V, then reversing the direction of V keeping its magnitude fixed, does not produce a current of the same magnitude as I in the opposite direction (Fig.\n\nThe text explains that these, however, have resistivities characteristically decreasing with a rise in temperature.\n\nThe text explains that 3.8 TEMPERATURE DEPENDENCE OF RESISTIVITY The resistivity of a material is found to be dependent on the temperature.\n\nThe text explains that different materials do not exhibit the same dependence on temperatures.\n\nThe text explains that over a limited range of temperatures, that is not too large, the resistivity of a metallic conductor is approximately given by, rT = r0 [1 + a (T–T0)] (3.26) where rT is the resistivity at a temperature T and r0 is the same at a reference temperature T0. a is called the temperature co-efficient of resistivity, and from Eq.\n\nThe text explains that (3.26), the dimension of a is (Temperature)–1.\n\nThe text explains that 3.6 A heating element using nichrome connected to a 230 V supply draws an initial current of 3.2 A which settles after a few seconds to a steady value of 2.8 A.\n\nThe text explains that what is the steady temperature of the heating element if the room temperature is 27.0 °C?\n\nThe text explains that temperature coefficient of resistance of nichrome averaged over the temperature range involved is 1.70 × 10–4 °C–1.\n\nThe text explains that 3.7 Determine the current in each branch of the network shown in Fig.\n\nThe text explains that 3.20: FIGURE 3.20 3.8 A storage battery of emf 8.0 V and internal resistance 0.5 W is being charged by a 120 V dc supply using a series resistor of 15.5 W.\n\nThe text explains that what is the terminal voltage of the battery during charging?\n\nSource: NCERT Class 12 Physics, Chapter 3: Current Electricity",
+  "concise_notes": [
+    {
+      "term": "3.1 INTRODUCTION",
+      "definition": "3.1 INTRODUCTION In Chapter 1, all charges whether free or bound, were considered to be at rest.",
+      "source_trace": "NCERT Class 12 Physics Ch3 pg 1"
+    },
+    {
+      "term": "3.2 ELECTRIC CURRENT",
+      "definition": "Charges in motion constitute an electric current.",
+      "source_trace": "NCERT Class 12 Physics Ch3 pg 1"
+    },
+    {
+      "term": "CURRENT",
+      "definition": "Charges in motion constitute an electric current.",
+      "source_trace": "NCERT Class 12 Physics Ch3 pg 1"
+    },
+    {
+      "term": "ELECTRICITY",
+      "definition": "This is proportional to t for steady current Chapter Three CURRENT ELECTRICITY",
+      "source_trace": "NCERT Class 12 Physics Ch3 pg 1"
+    },
+    {
+      "term": "3.3 ELECTRIC CURRENTS IN CONDUCTORS",
+      "definition": "Charges in motion constitute an electric current.",
+      "source_trace": "NCERT Class 12 Physics Ch3 pg 1"
+    },
+    {
+      "term": "3.4 OHM’S LAW",
+      "definition": "3.4 OHM’S LAW A basic law regarding flow of currents was discovered by G.S.",
+      "source_trace": "NCERT Class 12 Physics Ch3 pg 2"
+    },
+    {
+      "term": "FIGURE 3.2",
+      "definition": "If V is the potential difference across the ends of the first slab, then V is also the potential difference across the ends of the second slab since...",
+      "source_trace": "NCERT Class 12 Physics Ch3 pg 2"
+    },
+    {
+      "term": "V I R A",
+      "definition": "Using the last equation, Ohm’s law reads I l V I R A ρ = × = (3.10) Current per unit area (taken normal to the current), I/A,...",
+      "source_trace": "NCERT Class 12 Physics Ch3 pg 3"
+    },
+    {
+      "term": "GEORG SIMON OHM (1787–1854)",
+      "definition": "Using these, the last equation reads GEORG SIMON OHM (1787–1854) Georg Simon Ohm (1787– 1854) German physicist, professor at Munich.",
+      "source_trace": "NCERT Class 12 Physics Ch3 pg 3"
+    },
+    {
+      "term": "3.5 DRIFT OF ELECTRONS AND THE ORIGIN",
+      "definition": "The electrons will drift because of the electric field created to neutralise the charges.",
+      "source_trace": "NCERT Class 12 Physics Ch3 pg 2"
+    }
+  ],
+  "revision_bullets": [
+    "3.1 INTRODUCTION In Chapter 1, all charges whether free or bound, were considered to be at rest. (NCERT Class 12 Physics Ch3 pg 1)",
+    "Lightning is one such phenomenon in which charges flow from the clouds to the earth through the atmosphere, sometimes with disastrous results. (NCERT Class 12 Physics Ch3 pg 1)",
+    "The flow of charges in lightning is not steady, but in our everyday life we see many devices where charges flow in a steady manner, like... (NCERT Class 12 Physics Ch3 pg 1)",
+    "A torch and a cell-driven clock are examples of such devices. (NCERT Class 12 Physics Ch3 pg 1)",
+    "In the present chapter, we shall study some of the basic laws concerning steady electric currents. (NCERT Class 12 Physics Ch3 pg 1)",
+    "3.2 ELECTRIC CURRENT Imagine a small area held normal to the direction of flow of charges. (NCERT Class 12 Physics Ch3 pg 1)",
+    "Both the positive and the negative charges may flow forward and backward across the area. (NCERT Class 12 Physics Ch3 pg 1)",
+    "In a given time interval t, let q+ be the net amount (i.e., forward minus backward) of positive charge that flows in the forward direction across... (NCERT Class 12 Physics Ch3 pg 1)",
+    "Similarly, let q– be the net amount of negative charge flowing across the area in the forward direction. (NCERT Class 12 Physics Ch3 pg 1)",
+    "The net amount of charge flowing across the area in the forward direction in the time interval t, then, is q = q+– q–. (NCERT Class 12 Physics Ch3 pg 1)"
+  ],
+  "cases": [
+    {
+      "name": "INTRODUCTION In Chapter",
+      "point": "3.1 INTRODUCTION In Chapter 1, all charges whether free or bound, were considered to be at rest. (NCERT Class 12 Physics Ch3 pg 1)"
+    },
+    {
+      "name": "This",
+      "point": "This is proportional to t for steady current Chapter Three CURRENT ELECTRICITY (NCERT Class 12 Physics Ch3 pg 1)"
+    },
+    {
+      "name": "Current Electricity",
+      "point": "Current Electricity 83 number of electrons travelling in any direction will be equal to the number of electrons travelling in the opposite direction. (NCERT Class 12 Physics Ch3 pg 2)"
+    },
+    {
+      "name": "Then Ohm",
+      "point": "Then Ohm’s law states that V μ I or, V = R I (3.3) where the constant of proportionality R is called the resistance of the... (NCERT Class 12 Physics Ch3 pg 2)"
+    },
+    {
+      "name": "In",
+      "point": "In general, then the resistance R is inversely proportional to the cross-sectional area, 1 R A ∝ (3.7) Combining Eqs. (NCERT Class 12 Physics Ch3 pg 3)"
+    }
+  ],
+  "schemes": [
+    {
+      "name": "As",
+      "point": "As we increase temperature, average speed of the electrons, which act as the carriers of current, increases resulting in more frequent collisions. (NCERT Class 12 Physics Ch3 pg 10)"
+    },
+    {
+      "name": "To",
+      "point": "To maintain a steady current, we must have a closed circuit in which an external agency moves electric charge from lower to higher potential energy. (NCERT Class 12 Physics Ch3 pg 21)"
+    }
+  ],
+  "ncert_coverage": [
+    "NCERT Class 12 Physics Chapter 3: Current Electricity"
+  ],
+  "prelims_traps": [
+    "Do not treat 3.1 INTRODUCTION and 3.2 ELECTRIC CURRENT as identical unless the source text links them directly.",
+    "Do not add outside examples to Current Electricity; use only the examples and processes named in the chapter.",
+    "Do not confuse a visible surface result with the internal process or source evidence described by the text."
+  ],
+  "mains_angles": [
+    "Explain Current Electricity through the source chain: evidence, process and visible result.",
+    "Use 3.1 INTRODUCTION and 3.2 ELECTRIC CURRENT to show how the chapter connects facts with mechanisms.",
+    "Frame an answer around causes, internal working, surface expression and source limitations from the NCERT chapter."
+  ],
+  "mcqs": [
+    {
+      "question_text": "In the NCERT discussion of Current Electricity, which statement is supported by the source text about 3.1 INTRODUCTION?",
+      "options": [
+        "3.1 INTRODUCTION In Chapter 1, all charges whether free or bound, were considered to be at rest.",
+        "Lightning is one such phenomenon in which charges flow from the clouds to the earth through the atmosphere, sometimes with disastrous results.",
+        "The flow of charges in lightning is not steady, but in our everyday life we see many devices where charges flow in a steady...",
+        "A torch and a cell-driven clock are examples of such devices."
+      ],
+      "correct_answer": 0,
+      "pattern": "statement",
+      "source_trace": "NCERT Class 12 Physics Ch3 pg 1",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 3,
+      "concepts_tested": [
+        "3.1 INTRODUCTION"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Current Electricity, which statement is supported by the source text about 3.2 ELECTRIC CURRENT?",
+      "options": [
+        "In the present chapter, we shall study some of the basic laws concerning steady electric currents.",
+        "3.2 ELECTRIC CURRENT Imagine a small area held normal to the direction of flow of charges.",
+        "Both the positive and the negative charges may flow forward and backward across the area.",
+        "In a given time interval t, let q+ be the net amount (i.e., forward minus backward) of positive charge that flows in the forward..."
+      ],
+      "correct_answer": 0,
+      "pattern": "statement",
+      "source_trace": "NCERT Class 12 Physics Ch3 pg 1",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 3,
+      "concepts_tested": [
+        "3.2 ELECTRIC CURRENT"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Current Electricity, which statement is supported by the source text about CURRENT?",
+      "options": [
+        "Similarly, let q– be the net amount of negative charge flowing across the area in the forward direction.",
+        "The net amount of charge flowing across the area in the forward direction in the time interval t, then, is q = q+– q–.",
+        "This is proportional to t for steady current Chapter Three CURRENT ELECTRICITY",
+        "Physics 82 and the quotient q I t = (3.1) is defined to be the current across the area in the forward direction."
+      ],
+      "correct_answer": 0,
+      "pattern": "not_type",
+      "source_trace": "NCERT Class 12 Physics Ch3 pg 1",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 3,
+      "concepts_tested": [
+        "CURRENT"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Current Electricity, which statement is supported by the source text about ELECTRICITY?",
+      "options": [
+        "(If it turn out to be a negative number, it implies a current in the backward direction.) Currents are not always steady and hence...",
+        "Let DQ be the net charge flowing across a cross- section of a conductor during the time interval Dt [i.e., between times t and...",
+        "Then, the current at time t across the cross-section of the conductor is defined as the value of the ratio of DQ to Dt...",
+        "An ampere is defined through magnetic effects of currents that we will study in the following chapter."
+      ],
+      "correct_answer": 0,
+      "pattern": "statement",
+      "source_trace": "NCERT Class 12 Physics Ch3 pg 1",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 3,
+      "concepts_tested": [
+        "ELECTRICITY"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Current Electricity, which statement is supported by the source text about 3.3 ELECTRIC CURRENTS IN CONDUCTORS?",
+      "options": [
+        "An ampere is typically the order of magnitude of currents in domestic appliances.",
+        "An average lightning carries currents of the order of tens of thousands of amperes and at the other extreme, currents in our nerves are...",
+        "3.3 ELECTRIC CURRENTS IN CONDUCTORS An electric charge will experience a force if an electric field is applied.",
+        "If it is free to move, it will thus move contributing to a current."
+      ],
+      "correct_answer": 0,
+      "pattern": "statement",
+      "source_trace": "NCERT Class 12 Physics Ch3 pg 1",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 3,
+      "concepts_tested": [
+        "3.3 ELECTRIC CURRENTS IN CONDUCTORS"
+      ]
+    }
+  ],
+  "source_audit": {
+    "source_only": true,
+    "uncertain_or_omitted": [],
+    "generation_method": "local_source_only_extractive_decode"
+  },
+  "content_model": "clearupsc_textbook_decoded_from_source_v1",
+  "decode_status": "textbook_decoded",
+  "source": {
+    "book": "NCERT Class 12 Physics",
+    "chapter": 3,
+    "chapter_title": "Current Electricity",
+    "pdf_url": "https://ncert.nic.in/textbook.php?leph1=0-14",
+    "page_range": "pending source extraction"
+  },
+  "resolved_pdf_url": "https://ncert.nic.in/textbook/pdf/leph103.pdf",
+  "source_trace": "NCERT Class 12 Physics | Chapter 3: Current Electricity | https://ncert.nic.in/textbook/pdf/leph103.pdf | sha256:a00ff04c376523c1e368ee80ef8338b615afceade4f5b293d5bb5849bb3cd894",
+  "raw_text_path": "data/study/textbook-first/raw-text/gs3_sci_class12_physics_ch03_current_electricity.txt",
+  "generated_by": "local_source_only_extractive_decode",
+  "generated_at": "2026-05-26T19:40:04.100Z"
+}

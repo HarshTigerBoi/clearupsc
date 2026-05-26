@@ -1,0 +1,198 @@
+{
+  "key": "gs3_economy_class10_development_ch03_money_and_credit",
+  "title": "Money and Credit",
+  "source": {
+    "book": "NCERT Class 10 Understanding Economic Development",
+    "chapter": 3,
+    "chapter_title": "Money and Credit",
+    "pdf_url": "https://ncert.nic.in/textbook.php?jess2=0-5",
+    "page_range": "pending source extraction"
+  },
+  "resolved_pdf_url": "https://ncert.nic.in/textbook/pdf/jess203.pdf",
+  "sha256": "ec5383e7501501c231523ff9fc7cb8c7be37b8e8adbf8742ec666a190ae9bb36",
+  "extraction": {
+    "raw_text_path": "data/study/textbook-first/raw-text/gs3_economy_class10_development_ch03_money_and_credit.txt",
+    "extracted_characters": 38765,
+    "page_count": 16,
+    "paragraph_count_estimate": 7,
+    "title_match_score": 1
+  },
+  "concept_candidates": [
+    {
+      "title": "NOTES FOR THE TEACHER",
+      "first_seen_page_index": 1,
+      "source_trace": "NCERT Class 10 Understanding Economic Development, Chapter 3, extracted page 1"
+    },
+    {
+      "title": "CHAPTER 3 : MONEY AND CREDIT",
+      "first_seen_page_index": 1,
+      "source_trace": "NCERT Class 10 Understanding Economic Development, Chapter 3, extracted page 1"
+    },
+    {
+      "title": "MONEY MONEY MONEY MONEY MONEYAND AND AND AND AND",
+      "first_seen_page_index": 2,
+      "source_trace": "NCERT Class 10 Understanding Economic Development, Chapter 3, extracted page 2"
+    },
+    {
+      "title": "CREDIT CREDIT CREDIT CREDIT CREDIT",
+      "first_seen_page_index": 2,
+      "source_trace": "NCERT Class 10 Understanding Economic Development, Chapter 3, extracted page 2"
+    },
+    {
+      "title": "CHAPTER 3",
+      "first_seen_page_index": 2,
+      "source_trace": "NCERT Class 10 Understanding Economic Development, Chapter 3, extracted page 2"
+    },
+    {
+      "title": "MONEY AS A MEDIUM OF EXCHANGE",
+      "first_seen_page_index": 2,
+      "source_trace": "NCERT Class 10 Understanding Economic Development, Chapter 3, extracted page 2"
+    },
+    {
+      "title": "I’LL GIVE",
+      "first_seen_page_index": 2,
+      "source_trace": "NCERT Class 10 Understanding Economic Development, Chapter 3, extracted page 2"
+    },
+    {
+      "title": "YOU SHOES",
+      "first_seen_page_index": 2,
+      "source_trace": "NCERT Class 10 Understanding Economic Development, Chapter 3, extracted page 2"
+    },
+    {
+      "title": "FOR YOUR",
+      "first_seen_page_index": 2,
+      "source_trace": "NCERT Class 10 Understanding Economic Development, Chapter 3, extracted page 2"
+    },
+    {
+      "title": "WHEAT.",
+      "first_seen_page_index": 2,
+      "source_trace": "NCERT Class 10 Understanding Economic Development, Chapter 3, extracted page 2"
+    },
+    {
+      "title": "I DON’T NEED",
+      "first_seen_page_index": 2,
+      "source_trace": "NCERT Class 10 Understanding Economic Development, Chapter 3, extracted page 2"
+    },
+    {
+      "title": "SHOES. I NEED",
+      "first_seen_page_index": 2,
+      "source_trace": "NCERT Class 10 Understanding Economic Development, Chapter 3, extracted page 2"
+    },
+    {
+      "title": "CLOTHES.",
+      "first_seen_page_index": 2,
+      "source_trace": "NCERT Class 10 Understanding Economic Development, Chapter 3, extracted page 2"
+    },
+    {
+      "title": "I WANT SHOES.",
+      "first_seen_page_index": 2,
+      "source_trace": "NCERT Class 10 Understanding Economic Development, Chapter 3, extracted page 2"
+    },
+    {
+      "title": "BUT I DON’T HAVE",
+      "first_seen_page_index": 2,
+      "source_trace": "NCERT Class 10 Understanding Economic Development, Chapter 3, extracted page 2"
+    },
+    {
+      "title": "LET’S WORK THESE OUT",
+      "first_seen_page_index": 3,
+      "source_trace": "NCERT Class 10 Understanding Economic Development, Chapter 3, extracted page 3"
+    },
+    {
+      "title": "MODERN FORMS OF MONEY",
+      "first_seen_page_index": 3,
+      "source_trace": "NCERT Class 10 Understanding Economic Development, Chapter 3, extracted page 3"
+    },
+    {
+      "title": "LET US TRY AND UNDERSTAND",
+      "first_seen_page_index": 4,
+      "source_trace": "NCERT Class 10 Understanding Economic Development, Chapter 3, extracted page 4"
+    },
+    {
+      "title": "HOW CHEQUE PAYMENTS ARE",
+      "first_seen_page_index": 4,
+      "source_trace": "NCERT Class 10 Understanding Economic Development, Chapter 3, extracted page 4"
+    },
+    {
+      "title": "MADE AND REALISED WITH",
+      "first_seen_page_index": 4,
+      "source_trace": "NCERT Class 10 Understanding Economic Development, Chapter 3, extracted page 4"
+    },
+    {
+      "title": "AN EXAMPLE.",
+      "first_seen_page_index": 4,
+      "source_trace": "NCERT Class 10 Understanding Economic Development, Chapter 3, extracted page 4"
+    },
+    {
+      "title": "LOAN ACTIVITIES OF BANKS",
+      "first_seen_page_index": 5,
+      "source_trace": "NCERT Class 10 Understanding Economic Development, Chapter 3, extracted page 5"
+    },
+    {
+      "title": "DEPOSITORS BORROWERS",
+      "first_seen_page_index": 5,
+      "source_trace": "NCERT Class 10 Understanding Economic Development, Chapter 3, extracted page 5"
+    },
+    {
+      "title": "TWO DIFFERENT CREDIT SITUATIONS",
+      "first_seen_page_index": 6,
+      "source_trace": "NCERT Class 10 Understanding Economic Development, Chapter 3, extracted page 6"
+    },
+    {
+      "title": "TERMS OF CREDIT",
+      "first_seen_page_index": 7,
+      "source_trace": "NCERT Class 10 Understanding Economic Development, Chapter 3, extracted page 7"
+    },
+    {
+      "title": "FORMAL SECTOR CREDIT IN INDIA",
+      "first_seen_page_index": 11,
+      "source_trace": "NCERT Class 10 Understanding Economic Development, Chapter 3, extracted page 11"
+    },
+    {
+      "title": "BUT WHY SHOULD",
+      "first_seen_page_index": 11,
+      "source_trace": "NCERT Class 10 Understanding Economic Development, Chapter 3, extracted page 11"
+    },
+    {
+      "title": "A BANK WANT US US US US US TO",
+      "first_seen_page_index": 11,
+      "source_trace": "NCERT Class 10 Understanding Economic Development, Chapter 3, extracted page 11"
+    },
+    {
+      "title": "HAVE A HIGHER INCOME?",
+      "first_seen_page_index": 11,
+      "source_trace": "NCERT Class 10 Understanding Economic Development, Chapter 3, extracted page 11"
+    },
+    {
+      "title": "SELF-HELP GROUPS FOR THE POOR",
+      "first_seen_page_index": 13,
+      "source_trace": "NCERT Class 10 Understanding Economic Development, Chapter 3, extracted page 13"
+    },
+    {
+      "title": "DO YOU THINK A BANK",
+      "first_seen_page_index": 13,
+      "source_trace": "NCERT Class 10 Understanding Economic Development, Chapter 3, extracted page 13"
+    },
+    {
+      "title": "WILL GIVE ME A",
+      "first_seen_page_index": 13,
+      "source_trace": "NCERT Class 10 Understanding Economic Development, Chapter 3, extracted page 13"
+    },
+    {
+      "title": "LOAN?",
+      "first_seen_page_index": 13,
+      "source_trace": "NCERT Class 10 Understanding Economic Development, Chapter 3, extracted page 13"
+    },
+    {
+      "title": "SUMMING UP",
+      "first_seen_page_index": 15,
+      "source_trace": "NCERT Class 10 Understanding Economic Development, Chapter 3, extracted page 15"
+    },
+    {
+      "title": "ADDITIONAL PROJECT / ACTIVITY",
+      "first_seen_page_index": 16,
+      "source_trace": "NCERT Class 10 Understanding Economic Development, Chapter 3, extracted page 16"
+    }
+  ],
+  "production_status": "concept_candidates_ready_for_human_decode"
+}

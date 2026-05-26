@@ -1,0 +1,78 @@
+{
+  "key": "gs1_geo_class11_phys_ch14_movements_of_ocean_water",
+  "title": "Movements of Ocean Water",
+  "source": {
+    "book": "NCERT Class 11 Fundamentals of Physical Geography",
+    "chapter": 14,
+    "chapter_title": "Movements of Ocean Water",
+    "pdf_url": "https://ncert.nic.in/textbook.php?kegy2=0-14",
+    "page_range": "pending source extraction"
+  },
+  "resolved_pdf_url": "https://ncert.nic.in/textbook/pdf/kegy214.pdf",
+  "sha256": "d393ffd6192625ad51baaff08b8041622c3e1a286c66e555128a964d33d4e7a2",
+  "extraction": {
+    "raw_text_path": "data/study/textbook-first/raw-text/gs1_geo_class11_phys_ch14_movements_of_ocean_water.txt",
+    "extracted_characters": 14460,
+    "page_count": 7,
+    "paragraph_count_estimate": 0,
+    "title_match_score": 0.33
+  },
+  "concept_candidates": [
+    {
+      "title": "FUNDAMENTALS OF PHYSICAL GEOGRAPHY 114",
+      "first_seen_page_index": 1,
+      "source_trace": "NCERT Class 11 Fundamentals of Physical Geography, Chapter 14, extracted page 1"
+    },
+    {
+      "title": "LIFE ON THE EARTH",
+      "first_seen_page_index": 1,
+      "source_trace": "NCERT Class 11 Fundamentals of Physical Geography, Chapter 14, extracted page 1"
+    },
+    {
+      "title": "BIODIVERSITY AND CONSERVATION",
+      "first_seen_page_index": 2,
+      "source_trace": "NCERT Class 11 Fundamentals of Physical Geography, Chapter 14, extracted page 2"
+    },
+    {
+      "title": "C H A P T E R",
+      "first_seen_page_index": 2,
+      "source_trace": "NCERT Class 11 Fundamentals of Physical Geography, Chapter 14, extracted page 2"
+    },
+    {
+      "title": "FUNDAMENTALS OF PHYSICAL GEOGRAPHY 116",
+      "first_seen_page_index": 3,
+      "source_trace": "NCERT Class 11 Fundamentals of Physical Geography, Chapter 14, extracted page 3"
+    },
+    {
+      "title": "BIODIVERSITY AND CONSERVATION 117",
+      "first_seen_page_index": 4,
+      "source_trace": "NCERT Class 11 Fundamentals of Physical Geography, Chapter 14, extracted page 4"
+    },
+    {
+      "title": "LOSS OF BIODIVERSITY",
+      "first_seen_page_index": 4,
+      "source_trace": "NCERT Class 11 Fundamentals of Physical Geography, Chapter 14, extracted page 4"
+    },
+    {
+      "title": "CONSERVATION OF BIODIVERSITY",
+      "first_seen_page_index": 4,
+      "source_trace": "NCERT Class 11 Fundamentals of Physical Geography, Chapter 14, extracted page 4"
+    },
+    {
+      "title": "FUNDAMENTALS OF PHYSICAL GEOGRAPHY 118",
+      "first_seen_page_index": 5,
+      "source_trace": "NCERT Class 11 Fundamentals of Physical Geography, Chapter 14, extracted page 5"
+    },
+    {
+      "title": "BIODIVERSITY AND CONSERVATION 119",
+      "first_seen_page_index": 6,
+      "source_trace": "NCERT Class 11 Fundamentals of Physical Geography, Chapter 14, extracted page 6"
+    },
+    {
+      "title": "FUNDAMENTALS OF PHYSICAL GEOGRAPHY 120",
+      "first_seen_page_index": 7,
+      "source_trace": "NCERT Class 11 Fundamentals of Physical Geography, Chapter 14, extracted page 7"
+    }
+  ],
+  "production_status": "concept_candidates_ready_for_human_decode"
+}

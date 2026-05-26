@@ -1,0 +1,48 @@
+{
+  "key": "gs1_society_class12_indian_society_ch04_the_market_as_a_social_institution",
+  "title": "The Market as a Social Institution",
+  "source": {
+    "book": "NCERT Class 12 Indian Society",
+    "chapter": 4,
+    "chapter_title": "The Market as a Social Institution",
+    "pdf_url": "https://ncert.nic.in/textbook.php?lesy1=0-7",
+    "page_range": "pending source extraction"
+  },
+  "resolved_pdf_url": "https://ncert.nic.in/textbook/pdf/lesy104.pdf",
+  "sha256": "0d000d6e677601a70ca715049716dce09fa7a8b7593c42a438cd3735e2601e2f",
+  "extraction": {
+    "raw_text_path": "data/study/textbook-first/raw-text/gs1_society_class12_indian_society_ch04_the_market_as_a_social_institution.txt",
+    "extracted_characters": 38316,
+    "page_count": 16,
+    "paragraph_count_estimate": 0,
+    "title_match_score": 1
+  },
+  "concept_candidates": [
+    {
+      "title": "4.1 Sociological PerSPectiveS on MarketS",
+      "first_seen_page_index": 2,
+      "source_trace": "NCERT Class 12 Indian Society, Chapter 4, extracted page 2"
+    },
+    {
+      "title": "4.2 UnderStanding caPitaliSM aS a Social SySteM",
+      "first_seen_page_index": 9,
+      "source_trace": "NCERT Class 12 Indian Society, Chapter 4, extracted page 9"
+    },
+    {
+      "title": "4.3 GLOBALISATION – INTERLINKING OF LOCAL, REGIONAL,",
+      "first_seen_page_index": 11,
+      "source_trace": "NCERT Class 12 Indian Society, Chapter 4, extracted page 11"
+    },
+    {
+      "title": "NATIONAL AND INTERNATIONAL MARKETS",
+      "first_seen_page_index": 11,
+      "source_trace": "NCERT Class 12 Indian Society, Chapter 4, extracted page 11"
+    },
+    {
+      "title": "ACTIVITY 4.3",
+      "first_seen_page_index": 11,
+      "source_trace": "NCERT Class 12 Indian Society, Chapter 4, extracted page 11"
+    }
+  ],
+  "production_status": "concept_candidates_ready_for_human_decode"
+}

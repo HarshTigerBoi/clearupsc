@@ -1,10 +1,16 @@
 import type { Metadata } from "next";
+import { redirect } from "next/navigation";
 import { createClient } from "@/lib/supabase/server";
+import { getChapterTopic, getLegacyChapterRedirect } from "@/lib/study/ncert-master-index";
 import StudyTopicClient from "./StudyTopicClient";
 
 type StudyTopicPageProps = { params: { topicId: string } };
 
 async function getTopicMeta(topicId: string) {
+  const chapter = getChapterTopic(topicId);
+  if (chapter) return chapter.title;
+  const redirectKey = getLegacyChapterRedirect(topicId);
+  if (redirectKey) return getChapterTopic(redirectKey)?.title ?? topicId.replaceAll("_", " ");
   try {
     const supabase = await createClient();
     const { data } = await supabase.from("topics").select("title").eq("key", topicId).maybeSingle();
@@ -29,5 +35,7 @@ export async function generateMetadata({ params }: StudyTopicPageProps): Promise
 }
 
 export default function StudyTopicPage({ params }: StudyTopicPageProps) {
+  const redirectKey = getLegacyChapterRedirect(params.topicId);
+  if (redirectKey) redirect(`/study/${redirectKey}`);
   return <StudyTopicClient params={params} />;
 }

@@ -1,0 +1,73 @@
+{
+  "key": "gs3_sci_class10_science_ch10_light_reflection_and_refraction",
+  "title": "Light Reflection and Refraction",
+  "source": {
+    "book": "NCERT Class 10 Science",
+    "chapter": 10,
+    "chapter_title": "Light Reflection and Refraction",
+    "pdf_url": "https://ncert.nic.in/textbook.php?jesc1=0-16",
+    "page_range": "pending source extraction"
+  },
+  "resolved_pdf_url": "https://ncert.nic.in/textbook/pdf/jesc110.pdf",
+  "sha256": "c8ed49fa55eedeb9ee5d5fbfa6d02061adb94075e94a32ca9bd16f4caf67c423",
+  "extraction": {
+    "raw_text_path": "data/study/textbook-first/raw-text/gs3_sci_class10_science_ch10_light_reflection_and_refraction.txt",
+    "extracted_characters": 25658,
+    "page_count": 10,
+    "paragraph_count_estimate": 3,
+    "title_match_score": 0.67
+  },
+  "concept_candidates": [
+    {
+      "title": "10 CHAPTER",
+      "first_seen_page_index": 1,
+      "source_trace": "NCERT Class 10 Science, Chapter 10, extracted page 1"
+    },
+    {
+      "title": "10.1 THE HUMAN EYE",
+      "first_seen_page_index": 1,
+      "source_trace": "NCERT Class 10 Science, Chapter 10, extracted page 1"
+    },
+    {
+      "title": "10.1.1 Power of Accommodation",
+      "first_seen_page_index": 2,
+      "source_trace": "NCERT Class 10 Science, Chapter 10, extracted page 2"
+    },
+    {
+      "title": "– C. CIBBER",
+      "first_seen_page_index": 4,
+      "source_trace": "NCERT Class 10 Science, Chapter 10, extracted page 4"
+    },
+    {
+      "title": "Q U E S T I O N S",
+      "first_seen_page_index": 4,
+      "source_trace": "NCERT Class 10 Science, Chapter 10, extracted page 4"
+    },
+    {
+      "title": "10.5 ATMOSPHERIC REFRACTION",
+      "first_seen_page_index": 8,
+      "source_trace": "NCERT Class 10 Science, Chapter 10, extracted page 8"
+    },
+    {
+      "title": "10.6 SCATTERING OF LIGHT",
+      "first_seen_page_index": 9,
+      "source_trace": "NCERT Class 10 Science, Chapter 10, extracted page 9"
+    },
+    {
+      "title": "10.6.1 Tyndall Effect",
+      "first_seen_page_index": 9,
+      "source_trace": "NCERT Class 10 Science, Chapter 10, extracted page 9"
+    },
+    {
+      "title": "10.6.2 Why is the colour of the clear Sky Blue?",
+      "first_seen_page_index": 9,
+      "source_trace": "NCERT Class 10 Science, Chapter 10, extracted page 9"
+    },
+    {
+      "title": "E X E R C I S E S",
+      "first_seen_page_index": 10,
+      "source_trace": "NCERT Class 10 Science, Chapter 10, extracted page 10"
+    }
+  ],
+  "production_status": "concept_candidates_ready_for_human_decode"
+}

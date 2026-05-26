@@ -1,0 +1,28 @@
+{
+  "key": "gs2_ir_class12_world_politics_ch07_security_in_the_contemporary_world",
+  "title": "Security in the Contemporary World",
+  "source": {
+    "book": "NCERT Class 12 Contemporary World Politics",
+    "chapter": 7,
+    "chapter_title": "Security in the Contemporary World",
+    "pdf_url": "https://ncert.nic.in/textbook.php?leps1=0-9",
+    "page_range": "pending source extraction"
+  },
+  "resolved_pdf_url": "https://ncert.nic.in/textbook/pdf/leps107.pdf",
+  "sha256": "88af814d3c77af6f2d4bc6aed55f349453be894feafd1f02fee1833114641cce",
+  "extraction": {
+    "raw_text_path": "data/study/textbook-first/raw-text/gs2_ir_class12_world_politics_ch07_security_in_the_contemporary_world.txt",
+    "extracted_characters": 27371,
+    "page_count": 14,
+    "paragraph_count_estimate": 0,
+    "title_match_score": 0.67
+  },
+  "concept_candidates": [
+    {
+      "title": "STEPS",
+      "first_seen_page_index": 12,
+      "source_trace": "NCERT Class 12 Contemporary World Politics, Chapter 7, extracted page 12"
+    }
+  ],
+  "production_status": "concept_candidates_ready_for_human_decode"
+}

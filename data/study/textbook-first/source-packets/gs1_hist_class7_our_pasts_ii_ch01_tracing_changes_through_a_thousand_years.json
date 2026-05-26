@@ -1,0 +1,83 @@
+{
+  "key": "gs1_hist_class7_our_pasts_ii_ch01_tracing_changes_through_a_thousand_years",
+  "title": "Tracing Changes Through a Thousand Years",
+  "source": {
+    "book": "NCERT Class 7 Our Pasts II",
+    "chapter": 1,
+    "chapter_title": "Tracing Changes Through a Thousand Years",
+    "pdf_url": "https://ncert.nic.in/textbook.php?gess1=0-10",
+    "page_range": "pending source extraction"
+  },
+  "resolved_pdf_url": "https://ncert.nic.in/textbook/pdf/gess101.pdf",
+  "sha256": "88dec9a2756429d259333c06e5a91b0cb1b31c21c8da9d5074797c8022a0e770",
+  "extraction": {
+    "raw_text_path": "data/study/textbook-first/raw-text/gs1_hist_class7_our_pasts_ii_ch01_tracing_changes_through_a_thousand_years.txt",
+    "extracted_characters": 18901,
+    "page_count": 15,
+    "paragraph_count_estimate": 0,
+    "title_match_score": 1
+  },
+  "concept_candidates": [
+    {
+      "title": "1 INTRODUCTION: TRA...",
+      "first_seen_page_index": 1,
+      "source_trace": "NCERT Class 7 Our Pasts II, Chapter 1, extracted page 1"
+    },
+    {
+      "title": "1154 CE by the Arab geographer Al-Idrisi. The",
+      "first_seen_page_index": 1,
+      "source_trace": "NCERT Class 7 Our Pasts II, Chapter 1, extracted page 1"
+    },
+    {
+      "title": "INTRODUCTION: TRACING CHANGES",
+      "first_seen_page_index": 1,
+      "source_trace": "NCERT Class 7 Our Pasts II, Chapter 1, extracted page 1"
+    },
+    {
+      "title": "THROUGH A THOUSAND YEARS",
+      "first_seen_page_index": 1,
+      "source_trace": "NCERT Class 7 Our Pasts II, Chapter 1, extracted page 1"
+    },
+    {
+      "title": "3 INTRODUCTION: TRA...",
+      "first_seen_page_index": 3,
+      "source_trace": "NCERT Class 7 Our Pasts II, Chapter 1, extracted page 3"
+    },
+    {
+      "title": "5 INTRODUCTION: TRA...",
+      "first_seen_page_index": 5,
+      "source_trace": "NCERT Class 7 Our Pasts II, Chapter 1, extracted page 5"
+    },
+    {
+      "title": "7 INTRODUCTION: TRA...",
+      "first_seen_page_index": 7,
+      "source_trace": "NCERT Class 7 Our Pasts II, Chapter 1, extracted page 7"
+    },
+    {
+      "title": "9 INTRODUCTION: TRA...",
+      "first_seen_page_index": 9,
+      "source_trace": "NCERT Class 7 Our Pasts II, Chapter 1, extracted page 9"
+    },
+    {
+      "title": "11 INTRODUCTION: TRA...",
+      "first_seen_page_index": 11,
+      "source_trace": "NCERT Class 7 Our Pasts II, Chapter 1, extracted page 11"
+    },
+    {
+      "title": "13 INTRODUCTION: TRA...",
+      "first_seen_page_index": 13,
+      "source_trace": "NCERT Class 7 Our Pasts II, Chapter 1, extracted page 13"
+    },
+    {
+      "title": "KEYWORDS",
+      "first_seen_page_index": 14,
+      "source_trace": "NCERT Class 7 Our Pasts II, Chapter 1, extracted page 14"
+    },
+    {
+      "title": "15 INTRODUCTION: TRA...",
+      "first_seen_page_index": 15,
+      "source_trace": "NCERT Class 7 Our Pasts II, Chapter 1, extracted page 15"
+    }
+  ],
+  "production_status": "concept_candidates_ready_for_human_decode"
+}

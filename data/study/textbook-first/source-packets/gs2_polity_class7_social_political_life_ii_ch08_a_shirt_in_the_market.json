@@ -1,0 +1,58 @@
+{
+  "key": "gs2_polity_class7_social_political_life_ii_ch08_a_shirt_in_the_market",
+  "title": "A Shirt in the Market",
+  "source": {
+    "book": "NCERT Class 7 Social and Political Life II",
+    "chapter": 8,
+    "chapter_title": "A Shirt in the Market",
+    "pdf_url": "https://ncert.nic.in/textbook.php?gess3=0-9",
+    "page_range": "pending source extraction"
+  },
+  "resolved_pdf_url": "https://ncert.nic.in/textbook/pdf/gess308.pdf",
+  "sha256": "37b0a83f6725679b9beae5d2c1455f367723bb53c144b30cf285e0d5f3ab2c7f",
+  "extraction": {
+    "raw_text_path": "data/study/textbook-first/raw-text/gs2_polity_class7_social_political_life_ii_ch08_a_shirt_in_the_market.txt",
+    "extracted_characters": 18502,
+    "page_count": 12,
+    "paragraph_count_estimate": 3,
+    "title_match_score": 1
+  },
+  "concept_candidates": [
+    {
+      "title": "86 Social and Political Life",
+      "first_seen_page_index": 1,
+      "source_trace": "NCERT Class 7 Social and Political Life II, Chapter 8, extracted page 1"
+    },
+    {
+      "title": "8 CHAPTER",
+      "first_seen_page_index": 1,
+      "source_trace": "NCERT Class 7 Social and Political Life II, Chapter 8, extracted page 1"
+    },
+    {
+      "title": "88 Social and Political Life",
+      "first_seen_page_index": 3,
+      "source_trace": "NCERT Class 7 Social and Political Life II, Chapter 8, extracted page 3"
+    },
+    {
+      "title": "90 Social and Political Life",
+      "first_seen_page_index": 5,
+      "source_trace": "NCERT Class 7 Social and Political Life II, Chapter 8, extracted page 5"
+    },
+    {
+      "title": "92 Social and Political Life",
+      "first_seen_page_index": 7,
+      "source_trace": "NCERT Class 7 Social and Political Life II, Chapter 8, extracted page 7"
+    },
+    {
+      "title": "94 Social and Political Life",
+      "first_seen_page_index": 9,
+      "source_trace": "NCERT Class 7 Social and Political Life II, Chapter 8, extracted page 9"
+    },
+    {
+      "title": "96 Social and Political Life",
+      "first_seen_page_index": 11,
+      "source_trace": "NCERT Class 7 Social and Political Life II, Chapter 8, extracted page 11"
+    }
+  ],
+  "production_status": "concept_candidates_ready_for_human_decode"
+}

@@ -1,0 +1,58 @@
+{
+  "key": "gs1_geo_class12_human_ch03_population_composition",
+  "title": "Population Composition",
+  "source": {
+    "book": "NCERT Class 12 Fundamentals of Human Geography",
+    "chapter": 3,
+    "chapter_title": "Population Composition",
+    "pdf_url": "https://ncert.nic.in/textbook.php?legy1=0-9",
+    "page_range": "pending source extraction"
+  },
+  "resolved_pdf_url": "https://ncert.nic.in/textbook/pdf/legy103.pdf",
+  "sha256": "5632702074b161a701f8dff987af50bc9c74348038205c31a9bc7a8e310822dc",
+  "extraction": {
+    "raw_text_path": "data/study/textbook-first/raw-text/gs1_geo_class12_human_ch03_population_composition.txt",
+    "extracted_characters": 21703,
+    "page_count": 9,
+    "paragraph_count_estimate": 8,
+    "title_match_score": 0.5
+  },
+  "concept_candidates": [
+    {
+      "title": "GROWTH AND DEVELOPMENT",
+      "first_seen_page_index": 1,
+      "source_trace": "NCERT Class 12 Fundamentals of Human Geography, Chapter 3, extracted page 1"
+    },
+    {
+      "title": "THE FOUR PILLARS OF HUMAN",
+      "first_seen_page_index": 4,
+      "source_trace": "NCERT Class 12 Fundamentals of Human Geography, Chapter 3, extracted page 4"
+    },
+    {
+      "title": "DEVELOPMENT",
+      "first_seen_page_index": 4,
+      "source_trace": "NCERT Class 12 Fundamentals of Human Geography, Chapter 3, extracted page 4"
+    },
+    {
+      "title": "APPROACHES TO HUMAN",
+      "first_seen_page_index": 5,
+      "source_trace": "NCERT Class 12 Fundamentals of Human Geography, Chapter 3, extracted page 5"
+    },
+    {
+      "title": "MEASURING HUMAN DEVELOPMENT",
+      "first_seen_page_index": 5,
+      "source_trace": "NCERT Class 12 Fundamentals of Human Geography, Chapter 3, extracted page 5"
+    },
+    {
+      "title": "INTERNATIONAL COMPARISONS",
+      "first_seen_page_index": 6,
+      "source_trace": "NCERT Class 12 Fundamentals of Human Geography, Chapter 3, extracted page 6"
+    },
+    {
+      "title": "E X E R C I S E S",
+      "first_seen_page_index": 8,
+      "source_trace": "NCERT Class 12 Fundamentals of Human Geography, Chapter 3, extracted page 8"
+    }
+  ],
+  "production_status": "concept_candidates_ready_for_human_decode"
+}

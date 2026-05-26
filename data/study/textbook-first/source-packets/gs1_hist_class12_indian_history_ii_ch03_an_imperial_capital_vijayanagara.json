@@ -1,0 +1,178 @@
+{
+  "key": "gs1_hist_class12_indian_history_ii_ch03_an_imperial_capital_vijayanagara",
+  "title": "An Imperial Capital Vijayanagara",
+  "source": {
+    "book": "NCERT Class 12 Themes in Indian History II",
+    "chapter": 3,
+    "chapter_title": "An Imperial Capital Vijayanagara",
+    "pdf_url": "https://ncert.nic.in/textbook.php?lehs2=0-5",
+    "page_range": "pending source extraction"
+  },
+  "resolved_pdf_url": "https://ncert.nic.in/textbook/pdf/lehs203.pdf",
+  "sha256": "0f00755922acc8ddfa26b3366cb67aa3be67c6f1e7f8cc53acf1c1cce67bc817",
+  "extraction": {
+    "raw_text_path": "data/study/textbook-first/raw-text/gs1_hist_class12_indian_history_ii_ch03_an_imperial_capital_vijayanagara.txt",
+    "extracted_characters": 45478,
+    "page_count": 26,
+    "paragraph_count_estimate": 1,
+    "title_match_score": 1
+  },
+  "concept_candidates": [
+    {
+      "title": "THEMES IN INDIAN HISTORY – PART II 170",
+      "first_seen_page_index": 1,
+      "source_trace": "NCERT Class 12 Themes in Indian History II, Chapter 3, extracted page 1"
+    },
+    {
+      "title": "THEME",
+      "first_seen_page_index": 1,
+      "source_trace": "NCERT Class 12 Themes in Indian History II, Chapter 3, extracted page 1"
+    },
+    {
+      "title": "SEVEN",
+      "first_seen_page_index": 1,
+      "source_trace": "NCERT Class 12 Themes in Indian History II, Chapter 3, extracted page 1"
+    },
+    {
+      "title": "AN IMPERIAL CAPITAL: VIJAYANAGARA",
+      "first_seen_page_index": 2,
+      "source_trace": "NCERT Class 12 Themes in Indian History II, Chapter 3, extracted page 2"
+    },
+    {
+      "title": "THEMES IN INDIAN HISTORY – PART II 172",
+      "first_seen_page_index": 3,
+      "source_trace": "NCERT Class 12 Themes in Indian History II, Chapter 3, extracted page 3"
+    },
+    {
+      "title": "2.1 Kings and traders",
+      "first_seen_page_index": 3,
+      "source_trace": "NCERT Class 12 Themes in Indian History II, Chapter 3, extracted page 3"
+    },
+    {
+      "title": "2.2 The apogee and decline of the empire",
+      "first_seen_page_index": 4,
+      "source_trace": "NCERT Class 12 Themes in Indian History II, Chapter 3, extracted page 4"
+    },
+    {
+      "title": "THEMES IN INDIAN HISTORY – PART II 174",
+      "first_seen_page_index": 5,
+      "source_trace": "NCERT Class 12 Themes in Indian History II, Chapter 3, extracted page 5"
+    },
+    {
+      "title": "2.3 The rayas and the nayakas",
+      "first_seen_page_index": 6,
+      "source_trace": "NCERT Class 12 Themes in Indian History II, Chapter 3, extracted page 6"
+    },
+    {
+      "title": "THEMES IN INDIAN HISTORY – PART II 176",
+      "first_seen_page_index": 7,
+      "source_trace": "NCERT Class 12 Themes in Indian History II, Chapter 3, extracted page 7"
+    },
+    {
+      "title": "3.1 Water resources",
+      "first_seen_page_index": 8,
+      "source_trace": "NCERT Class 12 Themes in Indian History II, Chapter 3, extracted page 8"
+    },
+    {
+      "title": "3.2 Fortifications and roads",
+      "first_seen_page_index": 8,
+      "source_trace": "NCERT Class 12 Themes in Indian History II, Chapter 3, extracted page 8"
+    },
+    {
+      "title": "THEMES IN INDIAN HISTORY – PART II 178",
+      "first_seen_page_index": 9,
+      "source_trace": "NCERT Class 12 Themes in Indian History II, Chapter 3, extracted page 9"
+    },
+    {
+      "title": "3.3 The urban core",
+      "first_seen_page_index": 9,
+      "source_trace": "NCERT Class 12 Themes in Indian History II, Chapter 3, extracted page 9"
+    },
+    {
+      "title": "THEMES IN INDIAN HISTORY – PART II 180",
+      "first_seen_page_index": 11,
+      "source_trace": "NCERT Class 12 Themes in Indian History II, Chapter 3, extracted page 11"
+    },
+    {
+      "title": "4.1 The mahanavami dibba",
+      "first_seen_page_index": 11,
+      "source_trace": "NCERT Class 12 Themes in Indian History II, Chapter 3, extracted page 11"
+    },
+    {
+      "title": "4.2 Other buildings in the royal centre",
+      "first_seen_page_index": 12,
+      "source_trace": "NCERT Class 12 Themes in Indian History II, Chapter 3, extracted page 12"
+    },
+    {
+      "title": "THEMES IN INDIAN HISTORY – PART II 182",
+      "first_seen_page_index": 13,
+      "source_trace": "NCERT Class 12 Themes in Indian History II, Chapter 3, extracted page 13"
+    },
+    {
+      "title": "THEMES IN INDIAN HISTORY – PART II 184",
+      "first_seen_page_index": 15,
+      "source_trace": "NCERT Class 12 Themes in Indian History II, Chapter 3, extracted page 15"
+    },
+    {
+      "title": "5.1 Choosing a capital",
+      "first_seen_page_index": 15,
+      "source_trace": "NCERT Class 12 Themes in Indian History II, Chapter 3, extracted page 15"
+    },
+    {
+      "title": "THEMES IN INDIAN HISTORY – PART II 186",
+      "first_seen_page_index": 17,
+      "source_trace": "NCERT Class 12 Themes in Indian History II, Chapter 3, extracted page 17"
+    },
+    {
+      "title": "THEMES IN INDIAN HISTORY – PART II 188",
+      "first_seen_page_index": 19,
+      "source_trace": "NCERT Class 12 Themes in Indian History II, Chapter 3, extracted page 19"
+    },
+    {
+      "title": "THEMES IN INDIAN HISTORY – PART II 190",
+      "first_seen_page_index": 21,
+      "source_trace": "NCERT Class 12 Themes in Indian History II, Chapter 3, extracted page 21"
+    },
+    {
+      "title": "THEMES IN INDIAN HISTORY – PART II 192",
+      "first_seen_page_index": 23,
+      "source_trace": "NCERT Class 12 Themes in Indian History II, Chapter 3, extracted page 23"
+    },
+    {
+      "title": "193 AN IMPERIAL CAPITAL: VIJAYANAGARA",
+      "first_seen_page_index": 24,
+      "source_trace": "NCERT Class 12 Themes in Indian History II, Chapter 3, extracted page 24"
+    },
+    {
+      "title": "1800 Colin Mackenzie visits Vijayanagara",
+      "first_seen_page_index": 24,
+      "source_trace": "NCERT Class 12 Themes in Indian History II, Chapter 3, extracted page 24"
+    },
+    {
+      "title": "1856 Alexander Greenlaw takes the first detailed photographs",
+      "first_seen_page_index": 24,
+      "source_trace": "NCERT Class 12 Themes in Indian History II, Chapter 3, extracted page 24"
+    },
+    {
+      "title": "1876 J.F. Fleet begins documenting the inscriptions on the",
+      "first_seen_page_index": 24,
+      "source_trace": "NCERT Class 12 Themes in Indian History II, Chapter 3, extracted page 24"
+    },
+    {
+      "title": "1902 Conservation begins under John Marshall",
+      "first_seen_page_index": 24,
+      "source_trace": "NCERT Class 12 Themes in Indian History II, Chapter 3, extracted page 24"
+    },
+    {
+      "title": "1986 Hampi declared a World Heritage site by UNESCO",
+      "first_seen_page_index": 24,
+      "source_trace": "NCERT Class 12 Themes in Indian History II, Chapter 3, extracted page 24"
+    },
+    {
+      "title": "THEMES IN INDIAN HISTORY – PART II 194",
+      "first_seen_page_index": 25,
+      "source_trace": "NCERT Class 12 Themes in Indian History II, Chapter 3, extracted page 25"
+    }
+  ],
+  "production_status": "concept_candidates_ready_for_human_decode"
+}

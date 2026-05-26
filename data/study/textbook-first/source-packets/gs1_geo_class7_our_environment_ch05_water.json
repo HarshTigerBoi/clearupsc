@@ -1,0 +1,108 @@
+{
+  "key": "gs1_geo_class7_our_environment_ch05_water",
+  "title": "Water",
+  "source": {
+    "book": "NCERT Class 7 Our Environment",
+    "chapter": 5,
+    "chapter_title": "Water",
+    "pdf_url": "https://ncert.nic.in/textbook.php?gess2=0-9",
+    "page_range": "pending source extraction"
+  },
+  "resolved_pdf_url": "https://ncert.nic.in/textbook/pdf/gess205.pdf",
+  "sha256": "c4afc7c8dc47753b9228283f30188440f9c138acfe2911fc8f0b77c5c6994a39",
+  "extraction": {
+    "raw_text_path": "data/study/textbook-first/raw-text/gs1_geo_class7_our_environment_ch05_water.txt",
+    "extracted_characters": 13491,
+    "page_count": 9,
+    "paragraph_count_estimate": 0,
+    "title_match_score": 1
+  },
+  "concept_candidates": [
+    {
+      "title": "5 Water",
+      "first_seen_page_index": 1,
+      "source_trace": "NCERT Class 7 Our Environment, Chapter 5, extracted page 1"
+    },
+    {
+      "title": "WATER 31",
+      "first_seen_page_index": 2,
+      "source_trace": "NCERT Class 7 Our Environment, Chapter 5, extracted page 2"
+    },
+    {
+      "title": "32 OUR ENVIRONMENT",
+      "first_seen_page_index": 3,
+      "source_trace": "NCERT Class 7 Our Environment, Chapter 5, extracted page 3"
+    },
+    {
+      "title": "1 Drop = rivers",
+      "first_seen_page_index": 3,
+      "source_trace": "NCERT Class 7 Our Environment, Chapter 5, extracted page 3"
+    },
+    {
+      "title": "9 Spoons =",
+      "first_seen_page_index": 3,
+      "source_trace": "NCERT Class 7 Our Environment, Chapter 5, extracted page 3"
+    },
+    {
+      "title": "2 Spoons =",
+      "first_seen_page_index": 3,
+      "source_trace": "NCERT Class 7 Our Environment, Chapter 5, extracted page 3"
+    },
+    {
+      "title": "DISTRIBUTION OF WATER BODIES",
+      "first_seen_page_index": 3,
+      "source_trace": "NCERT Class 7 Our Environment, Chapter 5, extracted page 3"
+    },
+    {
+      "title": "WATER 33",
+      "first_seen_page_index": 4,
+      "source_trace": "NCERT Class 7 Our Environment, Chapter 5, extracted page 4"
+    },
+    {
+      "title": "OCEAN CIRCULATION",
+      "first_seen_page_index": 4,
+      "source_trace": "NCERT Class 7 Our Environment, Chapter 5, extracted page 4"
+    },
+    {
+      "title": "34 OUR ENVIRONMENT",
+      "first_seen_page_index": 5,
+      "source_trace": "NCERT Class 7 Our Environment, Chapter 5, extracted page 5"
+    },
+    {
+      "title": "TSUNAMI – THE EARTH’S PANDEMONIUM",
+      "first_seen_page_index": 5,
+      "source_trace": "NCERT Class 7 Our Environment, Chapter 5, extracted page 5"
+    },
+    {
+      "title": "26 December 2004. The wave was the result of the earthquake that had",
+      "first_seen_page_index": 5,
+      "source_trace": "NCERT Class 7 Our Environment, Chapter 5, extracted page 5"
+    },
+    {
+      "title": "WATER 35",
+      "first_seen_page_index": 6,
+      "source_trace": "NCERT Class 7 Our Environment, Chapter 5, extracted page 6"
+    },
+    {
+      "title": "36 OUR ENVIRONMENT",
+      "first_seen_page_index": 7,
+      "source_trace": "NCERT Class 7 Our Environment, Chapter 5, extracted page 7"
+    },
+    {
+      "title": "OCEAN CURRENTS",
+      "first_seen_page_index": 7,
+      "source_trace": "NCERT Class 7 Our Environment, Chapter 5, extracted page 7"
+    },
+    {
+      "title": "WATER 37",
+      "first_seen_page_index": 8,
+      "source_trace": "NCERT Class 7 Our Environment, Chapter 5, extracted page 8"
+    },
+    {
+      "title": "38 OUR ENVIRONMENT",
+      "first_seen_page_index": 9,
+      "source_trace": "NCERT Class 7 Our Environment, Chapter 5, extracted page 9"
+    }
+  ],
+  "production_status": "concept_candidates_ready_for_human_decode"
+}

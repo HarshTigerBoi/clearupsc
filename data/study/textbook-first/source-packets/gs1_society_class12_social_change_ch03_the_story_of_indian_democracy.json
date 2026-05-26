@@ -1,0 +1,33 @@
+{
+  "key": "gs1_society_class12_social_change_ch03_the_story_of_indian_democracy",
+  "title": "The Story of Indian Democracy",
+  "source": {
+    "book": "NCERT Class 12 Social Change and Development in India",
+    "chapter": 3,
+    "chapter_title": "The Story of Indian Democracy",
+    "pdf_url": "https://ncert.nic.in/textbook.php?lesy2=0-8",
+    "page_range": "pending source extraction"
+  },
+  "resolved_pdf_url": "https://ncert.nic.in/textbook/pdf/lesy203.pdf",
+  "sha256": "0f8b0caddfdabdabca1d30a0abdef1264333af10ed7b2a1c934ba81404365f6e",
+  "extraction": {
+    "raw_text_path": "data/study/textbook-first/raw-text/gs1_society_class12_social_change_ch03_the_story_of_indian_democracy.txt",
+    "extracted_characters": 20422,
+    "page_count": 10,
+    "paragraph_count_estimate": 0,
+    "title_match_score": 0.67
+  },
+  "concept_candidates": [
+    {
+      "title": "3.1 The PanchayaTi Raj and The challenges",
+      "first_seen_page_index": 3,
+      "source_trace": "NCERT Class 12 Social Change and Development in India, Chapter 3, extracted page 3"
+    },
+    {
+      "title": "3.2 Political Parties, Pressure and interest",
+      "first_seen_page_index": 8,
+      "source_trace": "NCERT Class 12 Social Change and Development in India, Chapter 3, extracted page 8"
+    }
+  ],
+  "production_status": "concept_candidates_ready_for_human_decode"
+}

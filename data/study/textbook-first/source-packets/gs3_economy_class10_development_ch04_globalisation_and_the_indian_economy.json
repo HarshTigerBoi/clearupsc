@@ -1,0 +1,223 @@
+{
+  "key": "gs3_economy_class10_development_ch04_globalisation_and_the_indian_economy",
+  "title": "Globalisation and the Indian Economy",
+  "source": {
+    "book": "NCERT Class 10 Understanding Economic Development",
+    "chapter": 4,
+    "chapter_title": "Globalisation and the Indian Economy",
+    "pdf_url": "https://ncert.nic.in/textbook.php?jess2=0-5",
+    "page_range": "pending source extraction"
+  },
+  "resolved_pdf_url": "https://ncert.nic.in/textbook/pdf/jess204.pdf",
+  "sha256": "4e3441cb0d7789ae828e0295b43d82f5afed607dc724c96cfdeba8279fdfdbb6",
+  "extraction": {
+    "raw_text_path": "data/study/textbook-first/raw-text/gs3_economy_class10_development_ch04_globalisation_and_the_indian_economy.txt",
+    "extracted_characters": 47377,
+    "page_count": 20,
+    "paragraph_count_estimate": 22,
+    "title_match_score": 1
+  },
+  "concept_candidates": [
+    {
+      "title": "CHAPTER 4 : GLOBALISATION AND THE INDIAN ECONOMY",
+      "first_seen_page_index": 1,
+      "source_trace": "NCERT Class 10 Understanding Economic Development, Chapter 4, extracted page 1"
+    },
+    {
+      "title": "GLOBALISA GLOBALISA GLOBALISA GLOBALISA GLOBALISATION TION TION TION TION",
+      "first_seen_page_index": 2,
+      "source_trace": "NCERT Class 10 Understanding Economic Development, Chapter 4, extracted page 2"
+    },
+    {
+      "title": "CHAPTER 4",
+      "first_seen_page_index": 2,
+      "source_trace": "NCERT Class 10 Understanding Economic Development, Chapter 4, extracted page 2"
+    },
+    {
+      "title": "PRODUCTION ACROSS COUNTRIES",
+      "first_seen_page_index": 3,
+      "source_trace": "NCERT Class 10 Understanding Economic Development, Chapter 4, extracted page 3"
+    },
+    {
+      "title": "LET’S WORK THIS OUT",
+      "first_seen_page_index": 4,
+      "source_trace": "NCERT Class 10 Understanding Economic Development, Chapter 4, extracted page 4"
+    },
+    {
+      "title": "INTERLINKING PRODUCTION ACROSS",
+      "first_seen_page_index": 4,
+      "source_trace": "NCERT Class 10 Understanding Economic Development, Chapter 4, extracted page 4"
+    },
+    {
+      "title": "COUNTRIES",
+      "first_seen_page_index": 4,
+      "source_trace": "NCERT Class 10 Understanding Economic Development, Chapter 4, extracted page 4"
+    },
+    {
+      "title": "WE WILL SHIFT",
+      "first_seen_page_index": 4,
+      "source_trace": "NCERT Class 10 Understanding Economic Development, Chapter 4, extracted page 4"
+    },
+    {
+      "title": "THIS FACTORY TO",
+      "first_seen_page_index": 4,
+      "source_trace": "NCERT Class 10 Understanding Economic Development, Chapter 4, extracted page 4"
+    },
+    {
+      "title": "ANOTHER COUNTRY.",
+      "first_seen_page_index": 4,
+      "source_trace": "NCERT Class 10 Understanding Economic Development, Chapter 4, extracted page 4"
+    },
+    {
+      "title": "IT HAS BECOME",
+      "first_seen_page_index": 4,
+      "source_trace": "NCERT Class 10 Understanding Economic Development, Chapter 4, extracted page 4"
+    },
+    {
+      "title": "EXPENSIVE HERE!",
+      "first_seen_page_index": 4,
+      "source_trace": "NCERT Class 10 Understanding Economic Development, Chapter 4, extracted page 4"
+    },
+    {
+      "title": "LET’S WORK THESE OUT",
+      "first_seen_page_index": 6,
+      "source_trace": "NCERT Class 10 Understanding Economic Development, Chapter 4, extracted page 6"
+    },
+    {
+      "title": "FOREIGN TRADE AND INTEGRATION",
+      "first_seen_page_index": 6,
+      "source_trace": "NCERT Class 10 Understanding Economic Development, Chapter 4, extracted page 6"
+    },
+    {
+      "title": "OF MARKETS",
+      "first_seen_page_index": 6,
+      "source_trace": "NCERT Class 10 Understanding Economic Development, Chapter 4, extracted page 6"
+    },
+    {
+      "title": "WHAT IS GLOBALISATION?",
+      "first_seen_page_index": 8,
+      "source_trace": "NCERT Class 10 Understanding Economic Development, Chapter 4, extracted page 8"
+    },
+    {
+      "title": "BE CAREFUL! THAT’S",
+      "first_seen_page_index": 8,
+      "source_trace": "NCERT Class 10 Understanding Economic Development, Chapter 4, extracted page 8"
+    },
+    {
+      "title": "OUR OUR OUR OUR OUR WORLD YOU’RE",
+      "first_seen_page_index": 8,
+      "source_trace": "NCERT Class 10 Understanding Economic Development, Chapter 4, extracted page 8"
+    },
+    {
+      "title": "PLAYING WITH!",
+      "first_seen_page_index": 8,
+      "source_trace": "NCERT Class 10 Understanding Economic Development, Chapter 4, extracted page 8"
+    },
+    {
+      "title": "SOMEDAY YOU’LL",
+      "first_seen_page_index": 8,
+      "source_trace": "NCERT Class 10 Understanding Economic Development, Chapter 4, extracted page 8"
+    },
+    {
+      "title": "HAVE TO PAY THE",
+      "first_seen_page_index": 8,
+      "source_trace": "NCERT Class 10 Understanding Economic Development, Chapter 4, extracted page 8"
+    },
+    {
+      "title": "PRICE!",
+      "first_seen_page_index": 8,
+      "source_trace": "NCERT Class 10 Understanding Economic Development, Chapter 4, extracted page 8"
+    },
+    {
+      "title": "GLOBALISATION",
+      "first_seen_page_index": 8,
+      "source_trace": "NCERT Class 10 Understanding Economic Development, Chapter 4, extracted page 8"
+    },
+    {
+      "title": "IS FUN!",
+      "first_seen_page_index": 8,
+      "source_trace": "NCERT Class 10 Understanding Economic Development, Chapter 4, extracted page 8"
+    },
+    {
+      "title": "FACTORS THAT HAVE ENABLED GLOBALISATION",
+      "first_seen_page_index": 9,
+      "source_trace": "NCERT Class 10 Understanding Economic Development, Chapter 4, extracted page 9"
+    },
+    {
+      "title": "...WE’VE SEEN GREAT IMPROVEMENTS",
+      "first_seen_page_index": 9,
+      "source_trace": "NCERT Class 10 Understanding Economic Development, Chapter 4, extracted page 9"
+    },
+    {
+      "title": "IN TRANSPORTATION...",
+      "first_seen_page_index": 9,
+      "source_trace": "NCERT Class 10 Understanding Economic Development, Chapter 4, extracted page 9"
+    },
+    {
+      "title": "NO, MY CHILD! THIS",
+      "first_seen_page_index": 10,
+      "source_trace": "NCERT Class 10 Understanding Economic Development, Chapter 4, extracted page 10"
+    },
+    {
+      "title": "PRINTING PRESS IS NOT",
+      "first_seen_page_index": 10,
+      "source_trace": "NCERT Class 10 Understanding Economic Development, Chapter 4, extracted page 10"
+    },
+    {
+      "title": "FOR ORDINARY INDIANS!",
+      "first_seen_page_index": 10,
+      "source_trace": "NCERT Class 10 Understanding Economic Development, Chapter 4, extracted page 10"
+    },
+    {
+      "title": "IT LOOKS LIKE A VERY NICE",
+      "first_seen_page_index": 10,
+      "source_trace": "NCERT Class 10 Understanding Economic Development, Chapter 4, extracted page 10"
+    },
+    {
+      "title": "MAGAZINE. BUT WHY ISN’T MY",
+      "first_seen_page_index": 10,
+      "source_trace": "NCERT Class 10 Understanding Economic Development, Chapter 4, extracted page 10"
+    },
+    {
+      "title": "TEXTBOOK PRINTED LIKE",
+      "first_seen_page_index": 10,
+      "source_trace": "NCERT Class 10 Understanding Economic Development, Chapter 4, extracted page 10"
+    },
+    {
+      "title": "THIS? I CAN HARDLY READ",
+      "first_seen_page_index": 10,
+      "source_trace": "NCERT Class 10 Understanding Economic Development, Chapter 4, extracted page 10"
+    },
+    {
+      "title": "THE WORDS IN MY BOOK!",
+      "first_seen_page_index": 10,
+      "source_trace": "NCERT Class 10 Understanding Economic Development, Chapter 4, extracted page 10"
+    },
+    {
+      "title": "...BUT WHERE",
+      "first_seen_page_index": 10,
+      "source_trace": "NCERT Class 10 Understanding Economic Development, Chapter 4, extracted page 10"
+    },
+    {
+      "title": "IS THE",
+      "first_seen_page_index": 10,
+      "source_trace": "NCERT Class 10 Understanding Economic Development, Chapter 4, extracted page 10"
+    },
+    {
+      "title": "ELECTRICITY?...",
+      "first_seen_page_index": 10,
+      "source_trace": "NCERT Class 10 Understanding Economic Development, Chapter 4, extracted page 10"
+    },
+    {
+      "title": "WORLD TRADE ORGANISATION",
+      "first_seen_page_index": 12,
+      "source_trace": "NCERT Class 10 Understanding Economic Development, Chapter 4, extracted page 12"
+    },
+    {
+      "title": "IMPACT OF GLOBALISATION IN INDIA",
+      "first_seen_page_index": 13,
+      "source_trace": "NCERT Class 10 Understanding Economic Development, Chapter 4, extracted page 13"
+    }
+  ],
+  "production_status": "concept_candidates_ready_for_human_decode"
+}

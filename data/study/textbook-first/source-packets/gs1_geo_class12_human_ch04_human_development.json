@@ -1,0 +1,58 @@
+{
+  "key": "gs1_geo_class12_human_ch04_human_development",
+  "title": "Human Development",
+  "source": {
+    "book": "NCERT Class 12 Fundamentals of Human Geography",
+    "chapter": 4,
+    "chapter_title": "Human Development",
+    "pdf_url": "https://ncert.nic.in/textbook.php?legy1=0-9",
+    "page_range": "pending source extraction"
+  },
+  "resolved_pdf_url": "https://ncert.nic.in/textbook/pdf/legy104.pdf",
+  "sha256": "f82c4ed1df4288df2a59a230006e571f377030644fd479dae09bada8edcb4ad0",
+  "extraction": {
+    "raw_text_path": "data/study/textbook-first/raw-text/gs1_geo_class12_human_ch04_human_development.txt",
+    "extracted_characters": 24634,
+    "page_count": 14,
+    "paragraph_count_estimate": 1,
+    "title_match_score": 1
+  },
+  "concept_candidates": [
+    {
+      "title": "HUNTING AND GATHERING",
+      "first_seen_page_index": 1,
+      "source_trace": "NCERT Class 12 Fundamentals of Human Geography, Chapter 4, extracted page 1"
+    },
+    {
+      "title": "PASTORALISM",
+      "first_seen_page_index": 3,
+      "source_trace": "NCERT Class 12 Fundamentals of Human Geography, Chapter 4, extracted page 3"
+    },
+    {
+      "title": "AGRICUL AGRICUL AGRICUL AGRICUL AGRICULTURE TURE TURE TURE TURE",
+      "first_seen_page_index": 4,
+      "source_trace": "NCERT Class 12 Fundamentals of Human Geography, Chapter 4, extracted page 4"
+    },
+    {
+      "title": "MINING",
+      "first_seen_page_index": 11,
+      "source_trace": "NCERT Class 12 Fundamentals of Human Geography, Chapter 4, extracted page 11"
+    },
+    {
+      "title": "SHAFT MINING",
+      "first_seen_page_index": 12,
+      "source_trace": "NCERT Class 12 Fundamentals of Human Geography, Chapter 4, extracted page 12"
+    },
+    {
+      "title": "OPEN-CAST OR",
+      "first_seen_page_index": 12,
+      "source_trace": "NCERT Class 12 Fundamentals of Human Geography, Chapter 4, extracted page 12"
+    },
+    {
+      "title": "(STRIP MINING)",
+      "first_seen_page_index": 12,
+      "source_trace": "NCERT Class 12 Fundamentals of Human Geography, Chapter 4, extracted page 12"
+    }
+  ],
+  "production_status": "concept_candidates_ready_for_human_decode"
+}

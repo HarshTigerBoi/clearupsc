@@ -1,0 +1,43 @@
+{
+  "key": "gs2_polity_class10_democratic_politics_ii_ch03_democracy_and_diversity",
+  "title": "Democracy and Diversity",
+  "source": {
+    "book": "NCERT Class 10 Democratic Politics II",
+    "chapter": 3,
+    "chapter_title": "Democracy and Diversity",
+    "pdf_url": "https://ncert.nic.in/textbook.php?jess4=0-8",
+    "page_range": "pending source extraction"
+  },
+  "resolved_pdf_url": "https://ncert.nic.in/textbook/pdf/jess403.pdf",
+  "sha256": "29742b10357d4a0787a4a97ce5a4521d732c47ff2a0df6d6909d75b53a692106",
+  "extraction": {
+    "raw_text_path": "data/study/textbook-first/raw-text/gs2_polity_class10_democratic_politics_ii_ch03_democracy_and_diversity.txt",
+    "extracted_characters": 34715,
+    "page_count": 17,
+    "paragraph_count_estimate": 0,
+    "title_match_score": 1
+  },
+  "concept_candidates": [
+    {
+      "title": "(a) B C A D",
+      "first_seen_page_index": 17,
+      "source_trace": "NCERT Class 10 Democratic Politics II, Chapter 3, extracted page 17"
+    },
+    {
+      "title": "(b) B A D C",
+      "first_seen_page_index": 17,
+      "source_trace": "NCERT Class 10 Democratic Politics II, Chapter 3, extracted page 17"
+    },
+    {
+      "title": "(c) D C A B",
+      "first_seen_page_index": 17,
+      "source_trace": "NCERT Class 10 Democratic Politics II, Chapter 3, extracted page 17"
+    },
+    {
+      "title": "(d) C A B D",
+      "first_seen_page_index": 17,
+      "source_trace": "NCERT Class 10 Democratic Politics II, Chapter 3, extracted page 17"
+    }
+  ],
+  "production_status": "concept_candidates_ready_for_human_decode"
+}

@@ -1,0 +1,118 @@
+{
+  "key": "gs3_env_class12_biology_ch06_molecular_basis_of_inheritance",
+  "title": "Molecular Basis of Inheritance",
+  "source": {
+    "book": "NCERT Class 12 Biology",
+    "chapter": 6,
+    "chapter_title": "Molecular Basis of Inheritance",
+    "pdf_url": "https://ncert.nic.in/textbook.php?lebo1=0-16",
+    "page_range": "pending source extraction"
+  },
+  "resolved_pdf_url": "https://ncert.nic.in/textbook/pdf/lebo106.pdf",
+  "sha256": "d2a181994b3d2a060226f4bf1b45ad581c6da69a8dd2a01e448704d6ce868071",
+  "extraction": {
+    "raw_text_path": "data/study/textbook-first/raw-text/gs3_env_class12_biology_ch06_molecular_basis_of_inheritance.txt",
+    "extracted_characters": 31762,
+    "page_count": 17,
+    "paragraph_count_estimate": 0,
+    "title_match_score": 0
+  },
+  "concept_candidates": [
+    {
+      "title": "BIOLOGY",
+      "first_seen_page_index": 1,
+      "source_trace": "NCERT Class 12 Biology, Chapter 6, extracted page 1"
+    },
+    {
+      "title": "6.1 ORIGIN OF LIFE",
+      "first_seen_page_index": 1,
+      "source_trace": "NCERT Class 12 Biology, Chapter 6, extracted page 1"
+    },
+    {
+      "title": "CHAPTER 6",
+      "first_seen_page_index": 1,
+      "source_trace": "NCERT Class 12 Biology, Chapter 6, extracted page 1"
+    },
+    {
+      "title": "EVOLUTION",
+      "first_seen_page_index": 1,
+      "source_trace": "NCERT Class 12 Biology, Chapter 6, extracted page 1"
+    },
+    {
+      "title": "6.2 Evolution of Life Forms - A",
+      "first_seen_page_index": 1,
+      "source_trace": "NCERT Class 12 Biology, Chapter 6, extracted page 1"
+    },
+    {
+      "title": "6.3 What are the Evidences",
+      "first_seen_page_index": 1,
+      "source_trace": "NCERT Class 12 Biology, Chapter 6, extracted page 1"
+    },
+    {
+      "title": "6.4 What is Adaptive",
+      "first_seen_page_index": 1,
+      "source_trace": "NCERT Class 12 Biology, Chapter 6, extracted page 1"
+    },
+    {
+      "title": "6.5 Biological Evolution",
+      "first_seen_page_index": 1,
+      "source_trace": "NCERT Class 12 Biology, Chapter 6, extracted page 1"
+    },
+    {
+      "title": "6.6 Mechanism of Evolution",
+      "first_seen_page_index": 1,
+      "source_trace": "NCERT Class 12 Biology, Chapter 6, extracted page 1"
+    },
+    {
+      "title": "6.7 Hardy - Weinberg",
+      "first_seen_page_index": 1,
+      "source_trace": "NCERT Class 12 Biology, Chapter 6, extracted page 1"
+    },
+    {
+      "title": "6.8 A Brief Account of",
+      "first_seen_page_index": 1,
+      "source_trace": "NCERT Class 12 Biology, Chapter 6, extracted page 1"
+    },
+    {
+      "title": "6.9 Origin and Evolution of",
+      "first_seen_page_index": 1,
+      "source_trace": "NCERT Class 12 Biology, Chapter 6, extracted page 1"
+    },
+    {
+      "title": "6.2 EVOLUTION OF LIFE FORMS – A THEORY",
+      "first_seen_page_index": 3,
+      "source_trace": "NCERT Class 12 Biology, Chapter 6, extracted page 3"
+    },
+    {
+      "title": "6.3 WHAT ARE THE EVIDENCES FOR EVOLUTION?",
+      "first_seen_page_index": 4,
+      "source_trace": "NCERT Class 12 Biology, Chapter 6, extracted page 4"
+    },
+    {
+      "title": "6.4 WHAT IS ADAPTIVE RADIATION?",
+      "first_seen_page_index": 7,
+      "source_trace": "NCERT Class 12 Biology, Chapter 6, extracted page 7"
+    },
+    {
+      "title": "6.7 HARDY-WEINBERG PRINCIPLE",
+      "first_seen_page_index": 11,
+      "source_trace": "NCERT Class 12 Biology, Chapter 6, extracted page 11"
+    },
+    {
+      "title": "6.8 A BRIEF ACCOUNT OF EVOLUTION",
+      "first_seen_page_index": 12,
+      "source_trace": "NCERT Class 12 Biology, Chapter 6, extracted page 12"
+    },
+    {
+      "title": "6.9 ORIGIN AND EVOLUTION OF MAN",
+      "first_seen_page_index": 15,
+      "source_trace": "NCERT Class 12 Biology, Chapter 6, extracted page 15"
+    },
+    {
+      "title": "SUMMARY",
+      "first_seen_page_index": 17,
+      "source_trace": "NCERT Class 12 Biology, Chapter 6, extracted page 17"
+    }
+  ],
+  "production_status": "concept_candidates_ready_for_human_decode"
+}

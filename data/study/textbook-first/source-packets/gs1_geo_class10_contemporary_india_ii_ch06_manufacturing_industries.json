@@ -1,0 +1,163 @@
+{
+  "key": "gs1_geo_class10_contemporary_india_ii_ch06_manufacturing_industries",
+  "title": "Manufacturing Industries",
+  "source": {
+    "book": "NCERT Class 10 Contemporary India II",
+    "chapter": 6,
+    "chapter_title": "Manufacturing Industries",
+    "pdf_url": "https://ncert.nic.in/textbook.php?jess3=0-7",
+    "page_range": "pending source extraction"
+  },
+  "resolved_pdf_url": "https://ncert.nic.in/textbook/pdf/jess106.pdf",
+  "sha256": "e8d156fc8a5be2391a8dfd3685748ed512cd5aa67d6cc3328bd4324df4aed7c6",
+  "extraction": {
+    "raw_text_path": "data/study/textbook-first/raw-text/gs1_geo_class10_contemporary_india_ii_ch06_manufacturing_industries.txt",
+    "extracted_characters": 25122,
+    "page_count": 13,
+    "paragraph_count_estimate": 0,
+    "title_match_score": 1
+  },
+  "concept_candidates": [
+    {
+      "title": "58 CONTEMPORARY INDIA – II",
+      "first_seen_page_index": 1,
+      "source_trace": "NCERT Class 10 Contemporary India II, Chapter 6, extracted page 1"
+    },
+    {
+      "title": "IMPORTANCE OF MANUFACTURING",
+      "first_seen_page_index": 1,
+      "source_trace": "NCERT Class 10 Contemporary India II, Chapter 6, extracted page 1"
+    },
+    {
+      "title": "59 MANUFACTURING INDUSTRIES",
+      "first_seen_page_index": 2,
+      "source_trace": "NCERT Class 10 Contemporary India II, Chapter 6, extracted page 2"
+    },
+    {
+      "title": "60 CONTEMPORARY INDIA – II",
+      "first_seen_page_index": 3,
+      "source_trace": "NCERT Class 10 Contemporary India II, Chapter 6, extracted page 3"
+    },
+    {
+      "title": "61 MANUFACTURING INDUSTRIES",
+      "first_seen_page_index": 4,
+      "source_trace": "NCERT Class 10 Contemporary India II, Chapter 6, extracted page 4"
+    },
+    {
+      "title": "62 CONTEMPORARY INDIA – II",
+      "first_seen_page_index": 5,
+      "source_trace": "NCERT Class 10 Contemporary India II, Chapter 6, extracted page 5"
+    },
+    {
+      "title": "63 MANUFACTURING INDUSTRIES",
+      "first_seen_page_index": 6,
+      "source_trace": "NCERT Class 10 Contemporary India II, Chapter 6, extracted page 6"
+    },
+    {
+      "title": "64 CONTEMPORARY INDIA – II",
+      "first_seen_page_index": 7,
+      "source_trace": "NCERT Class 10 Contemporary India II, Chapter 6, extracted page 7"
+    },
+    {
+      "title": "65 MANUFACTURING INDUSTRIES",
+      "first_seen_page_index": 8,
+      "source_trace": "NCERT Class 10 Contemporary India II, Chapter 6, extracted page 8"
+    },
+    {
+      "title": "66 CONTEMPORARY INDIA – II",
+      "first_seen_page_index": 9,
+      "source_trace": "NCERT Class 10 Contemporary India II, Chapter 6, extracted page 9"
+    },
+    {
+      "title": "67 MANUFACTURING INDUSTRIES",
+      "first_seen_page_index": 10,
+      "source_trace": "NCERT Class 10 Contemporary India II, Chapter 6, extracted page 10"
+    },
+    {
+      "title": "68 CONTEMPORARY INDIA – II",
+      "first_seen_page_index": 11,
+      "source_trace": "NCERT Class 10 Contemporary India II, Chapter 6, extracted page 11"
+    },
+    {
+      "title": "69 MANUFACTURING INDUSTRIES",
+      "first_seen_page_index": 12,
+      "source_trace": "NCERT Class 10 Contemporary India II, Chapter 6, extracted page 12"
+    },
+    {
+      "title": "ACTIVITY",
+      "first_seen_page_index": 12,
+      "source_trace": "NCERT Class 10 Contemporary India II, Chapter 6, extracted page 12"
+    },
+    {
+      "title": "PROJECT WORK",
+      "first_seen_page_index": 12,
+      "source_trace": "NCERT Class 10 Contemporary India II, Chapter 6, extracted page 12"
+    },
+    {
+      "title": "70 CONTEMPORARY INDIA – II",
+      "first_seen_page_index": 13,
+      "source_trace": "NCERT Class 10 Contemporary India II, Chapter 6, extracted page 13"
+    },
+    {
+      "title": "G G G P V A R A N A S I",
+      "first_seen_page_index": 13,
+      "source_trace": "NCERT Class 10 Contemporary India II, Chapter 6, extracted page 13"
+    },
+    {
+      "title": "U O J I P G X K M Q W V",
+      "first_seen_page_index": 13,
+      "source_trace": "NCERT Class 10 Contemporary India II, Chapter 6, extracted page 13"
+    },
+    {
+      "title": "K S U G A R C A N E E N",
+      "first_seen_page_index": 13,
+      "source_trace": "NCERT Class 10 Contemporary India II, Chapter 6, extracted page 13"
+    },
+    {
+      "title": "O T T O N O Z V O P T R",
+      "first_seen_page_index": 13,
+      "source_trace": "NCERT Class 10 Contemporary India II, Chapter 6, extracted page 13"
+    },
+    {
+      "title": "A U E L U B H I L A I U",
+      "first_seen_page_index": 13,
+      "source_trace": "NCERT Class 10 Contemporary India II, Chapter 6, extracted page 13"
+    },
+    {
+      "title": "T K O C R A Q N T R L N",
+      "first_seen_page_index": 13,
+      "source_trace": "NCERT Class 10 Contemporary India II, Chapter 6, extracted page 13"
+    },
+    {
+      "title": "E I R O N S T E E L S J",
+      "first_seen_page_index": 13,
+      "source_trace": "NCERT Class 10 Contemporary India II, Chapter 6, extracted page 13"
+    },
+    {
+      "title": "E N A N O E P I T L R Y",
+      "first_seen_page_index": 13,
+      "source_trace": "NCERT Class 10 Contemporary India II, Chapter 6, extracted page 13"
+    },
+    {
+      "title": "G A N U J D R A G D T A",
+      "first_seen_page_index": 13,
+      "source_trace": "NCERT Class 10 Contemporary India II, Chapter 6, extracted page 13"
+    },
+    {
+      "title": "N T A R P O A P U E P Y",
+      "first_seen_page_index": 13,
+      "source_trace": "NCERT Class 10 Contemporary India II, Chapter 6, extracted page 13"
+    },
+    {
+      "title": "A S N A E N J D I Y S K",
+      "first_seen_page_index": 13,
+      "source_trace": "NCERT Class 10 Contemporary India II, Chapter 6, extracted page 13"
+    },
+    {
+      "title": "S M H V L I A J H S K G",
+      "first_seen_page_index": 13,
+      "source_trace": "NCERT Class 10 Contemporary India II, Chapter 6, extracted page 13"
+    }
+  ],
+  "production_status": "concept_candidates_ready_for_human_decode"
+}

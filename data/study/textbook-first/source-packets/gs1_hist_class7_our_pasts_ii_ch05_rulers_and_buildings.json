@@ -1,0 +1,68 @@
+{
+  "key": "gs1_hist_class7_our_pasts_ii_ch05_rulers_and_buildings",
+  "title": "Rulers and Buildings",
+  "source": {
+    "book": "NCERT Class 7 Our Pasts II",
+    "chapter": 5,
+    "chapter_title": "Rulers and Buildings",
+    "pdf_url": "https://ncert.nic.in/textbook.php?gess1=0-10",
+    "page_range": "pending source extraction"
+  },
+  "resolved_pdf_url": "https://ncert.nic.in/textbook/pdf/gess105.pdf",
+  "sha256": "0842e632b9171320ee8bba13e8521afce360ce1d1017978ec996629f9ddc9edb",
+  "extraction": {
+    "raw_text_path": "data/study/textbook-first/raw-text/gs1_hist_class7_our_pasts_ii_ch05_rulers_and_buildings.txt",
+    "extracted_characters": 16501,
+    "page_count": 12,
+    "paragraph_count_estimate": 0,
+    "title_match_score": 0.5
+  },
+  "concept_candidates": [
+    {
+      "title": "49 TRIBES, NOMADS AND",
+      "first_seen_page_index": 1,
+      "source_trace": "NCERT Class 7 Our Pasts II, Chapter 5, extracted page 1"
+    },
+    {
+      "title": "SETTLED COMMUNITIES",
+      "first_seen_page_index": 1,
+      "source_trace": "NCERT Class 7 Our Pasts II, Chapter 5, extracted page 1"
+    },
+    {
+      "title": "TRIBES, NOMADS AND",
+      "first_seen_page_index": 1,
+      "source_trace": "NCERT Class 7 Our Pasts II, Chapter 5, extracted page 1"
+    },
+    {
+      "title": "51 TRIBES, NOMADS AND",
+      "first_seen_page_index": 3,
+      "source_trace": "NCERT Class 7 Our Pasts II, Chapter 5, extracted page 3"
+    },
+    {
+      "title": "53 TRIBES, NOMADS AND",
+      "first_seen_page_index": 5,
+      "source_trace": "NCERT Class 7 Our Pasts II, Chapter 5, extracted page 5"
+    },
+    {
+      "title": "55 TRIBES, NOMADS AND",
+      "first_seen_page_index": 7,
+      "source_trace": "NCERT Class 7 Our Pasts II, Chapter 5, extracted page 7"
+    },
+    {
+      "title": "57 TRIBES, NOMADS AND",
+      "first_seen_page_index": 9,
+      "source_trace": "NCERT Class 7 Our Pasts II, Chapter 5, extracted page 9"
+    },
+    {
+      "title": "59 TRIBES, NOMADS AND",
+      "first_seen_page_index": 11,
+      "source_trace": "NCERT Class 7 Our Pasts II, Chapter 5, extracted page 11"
+    },
+    {
+      "title": "KEYWORDS",
+      "first_seen_page_index": 11,
+      "source_trace": "NCERT Class 7 Our Pasts II, Chapter 5, extracted page 11"
+    }
+  ],
+  "production_status": "concept_candidates_ready_for_human_decode"
+}

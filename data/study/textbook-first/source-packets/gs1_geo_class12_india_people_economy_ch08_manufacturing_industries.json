@@ -1,0 +1,38 @@
+{
+  "key": "gs1_geo_class12_india_people_economy_ch08_manufacturing_industries",
+  "title": "Manufacturing Industries",
+  "source": {
+    "book": "NCERT Class 12 India People and Economy",
+    "chapter": 8,
+    "chapter_title": "Manufacturing Industries",
+    "pdf_url": "https://ncert.nic.in/textbook.php?legy2=0-12",
+    "page_range": "pending source extraction"
+  },
+  "resolved_pdf_url": "https://ncert.nic.in/textbook/pdf/legy208.pdf",
+  "sha256": "c80fd56dffbc53cdad4c9a2f3f5b28d4d3f7bb7191c0c66d2cd7f369b6cd92bd",
+  "extraction": {
+    "raw_text_path": "data/study/textbook-first/raw-text/gs1_geo_class12_india_people_economy_ch08_manufacturing_industries.txt",
+    "extracted_characters": 18679,
+    "page_count": 9,
+    "paragraph_count_estimate": 4,
+    "title_match_score": 0.5
+  },
+  "concept_candidates": [
+    {
+      "title": "INTERNATIONAL",
+      "first_seen_page_index": 1,
+      "source_trace": "NCERT Class 12 India People and Economy, Chapter 8, extracted page 1"
+    },
+    {
+      "title": "TRADE",
+      "first_seen_page_index": 1,
+      "source_trace": "NCERT Class 12 India People and Economy, Chapter 8, extracted page 1"
+    },
+    {
+      "title": "9 Heliports and 2 water aerodromes have been",
+      "first_seen_page_index": 7,
+      "source_trace": "NCERT Class 12 India People and Economy, Chapter 8, extracted page 7"
+    }
+  ],
+  "production_status": "concept_candidates_ready_for_human_decode"
+}

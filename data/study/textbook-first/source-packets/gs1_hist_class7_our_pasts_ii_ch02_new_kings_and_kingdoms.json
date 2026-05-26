@@ -1,0 +1,73 @@
+{
+  "key": "gs1_hist_class7_our_pasts_ii_ch02_new_kings_and_kingdoms",
+  "title": "New Kings and Kingdoms",
+  "source": {
+    "book": "NCERT Class 7 Our Pasts II",
+    "chapter": 2,
+    "chapter_title": "New Kings and Kingdoms",
+    "pdf_url": "https://ncert.nic.in/textbook.php?gess1=0-10",
+    "page_range": "pending source extraction"
+  },
+  "resolved_pdf_url": "https://ncert.nic.in/textbook/pdf/gess102.pdf",
+  "sha256": "68d1f68c586036816facbd301841aa42cc7351ac1bc824c7a96e18c3a3647acb",
+  "extraction": {
+    "raw_text_path": "data/study/textbook-first/raw-text/gs1_hist_class7_our_pasts_ii_ch02_new_kings_and_kingdoms.txt",
+    "extracted_characters": 16204,
+    "page_count": 14,
+    "paragraph_count_estimate": 0,
+    "title_match_score": 1
+  },
+  "concept_candidates": [
+    {
+      "title": "2 KINGS AND",
+      "first_seen_page_index": 1,
+      "source_trace": "NCERT Class 7 Our Pasts II, Chapter 2, extracted page 1"
+    },
+    {
+      "title": "KINGDOMS",
+      "first_seen_page_index": 1,
+      "source_trace": "NCERT Class 7 Our Pasts II, Chapter 2, extracted page 1"
+    },
+    {
+      "title": "17 KINGS AND KINGDOMS",
+      "first_seen_page_index": 2,
+      "source_trace": "NCERT Class 7 Our Pasts II, Chapter 2, extracted page 2"
+    },
+    {
+      "title": "19 KINGS AND KINGDOMS",
+      "first_seen_page_index": 4,
+      "source_trace": "NCERT Class 7 Our Pasts II, Chapter 2, extracted page 4"
+    },
+    {
+      "title": "21 KINGS AND KINGDOMS",
+      "first_seen_page_index": 6,
+      "source_trace": "NCERT Class 7 Our Pasts II, Chapter 2, extracted page 6"
+    },
+    {
+      "title": "23 KINGS AND KINGDOMS",
+      "first_seen_page_index": 8,
+      "source_trace": "NCERT Class 7 Our Pasts II, Chapter 2, extracted page 8"
+    },
+    {
+      "title": "25 KINGS AND KINGDOMS",
+      "first_seen_page_index": 10,
+      "source_trace": "NCERT Class 7 Our Pasts II, Chapter 2, extracted page 10"
+    },
+    {
+      "title": "27 KINGS AND KINGDOMS",
+      "first_seen_page_index": 12,
+      "source_trace": "NCERT Class 7 Our Pasts II, Chapter 2, extracted page 12"
+    },
+    {
+      "title": "29 KINGS AND KINGDOMS",
+      "first_seen_page_index": 14,
+      "source_trace": "NCERT Class 7 Our Pasts II, Chapter 2, extracted page 14"
+    },
+    {
+      "title": "KEYWORDS",
+      "first_seen_page_index": 14,
+      "source_trace": "NCERT Class 7 Our Pasts II, Chapter 2, extracted page 14"
+    }
+  ],
+  "production_status": "concept_candidates_ready_for_human_decode"
+}

@@ -1,0 +1,83 @@
+{
+  "key": "gs1_hist_class7_our_pasts_ii_ch07_tribes_nomads_and_settled_communities",
+  "title": "Tribes Nomads and Settled Communities",
+  "source": {
+    "book": "NCERT Class 7 Our Pasts II",
+    "chapter": 7,
+    "chapter_title": "Tribes Nomads and Settled Communities",
+    "pdf_url": "https://ncert.nic.in/textbook.php?gess1=0-10",
+    "page_range": "pending source extraction"
+  },
+  "resolved_pdf_url": "https://ncert.nic.in/textbook/pdf/gess107.pdf",
+  "sha256": "8854c13897b7de009980dead3952a5c627d9b01c62d57d2d68e0051f7fe69cac",
+  "extraction": {
+    "raw_text_path": "data/study/textbook-first/raw-text/gs1_hist_class7_our_pasts_ii_ch07_tribes_nomads_and_settled_communities.txt",
+    "extracted_characters": 18822,
+    "page_count": 15,
+    "paragraph_count_estimate": 0,
+    "title_match_score": 0
+  },
+  "concept_candidates": [
+    {
+      "title": "79 THE MAKING OF",
+      "first_seen_page_index": 1,
+      "source_trace": "NCERT Class 7 Our Pasts II, Chapter 7, extracted page 1"
+    },
+    {
+      "title": "REGIONAL CULTURES",
+      "first_seen_page_index": 1,
+      "source_trace": "NCERT Class 7 Our Pasts II, Chapter 7, extracted page 1"
+    },
+    {
+      "title": "THE MAKING OF",
+      "first_seen_page_index": 1,
+      "source_trace": "NCERT Class 7 Our Pasts II, Chapter 7, extracted page 1"
+    },
+    {
+      "title": "81 THE MAKING OF",
+      "first_seen_page_index": 3,
+      "source_trace": "NCERT Class 7 Our Pasts II, Chapter 7, extracted page 3"
+    },
+    {
+      "title": "83 THE MAKING OF",
+      "first_seen_page_index": 5,
+      "source_trace": "NCERT Class 7 Our Pasts II, Chapter 7, extracted page 5"
+    },
+    {
+      "title": "CLASSICAL",
+      "first_seen_page_index": 6,
+      "source_trace": "NCERT Class 7 Our Pasts II, Chapter 7, extracted page 6"
+    },
+    {
+      "title": "85 THE MAKING OF",
+      "first_seen_page_index": 7,
+      "source_trace": "NCERT Class 7 Our Pasts II, Chapter 7, extracted page 7"
+    },
+    {
+      "title": "87 THE MAKING OF",
+      "first_seen_page_index": 9,
+      "source_trace": "NCERT Class 7 Our Pasts II, Chapter 7, extracted page 9"
+    },
+    {
+      "title": "89 THE MAKING OF",
+      "first_seen_page_index": 11,
+      "source_trace": "NCERT Class 7 Our Pasts II, Chapter 7, extracted page 11"
+    },
+    {
+      "title": "91 THE MAKING OF",
+      "first_seen_page_index": 13,
+      "source_trace": "NCERT Class 7 Our Pasts II, Chapter 7, extracted page 13"
+    },
+    {
+      "title": "KEYWORDS",
+      "first_seen_page_index": 14,
+      "source_trace": "NCERT Class 7 Our Pasts II, Chapter 7, extracted page 14"
+    },
+    {
+      "title": "93 THE MAKING OF",
+      "first_seen_page_index": 15,
+      "source_trace": "NCERT Class 7 Our Pasts II, Chapter 7, extracted page 15"
+    }
+  ],
+  "production_status": "concept_candidates_ready_for_human_decode"
+}

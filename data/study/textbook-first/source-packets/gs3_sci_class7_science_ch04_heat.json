@@ -1,0 +1,98 @@
+{
+  "key": "gs3_sci_class7_science_ch04_heat",
+  "title": "Heat",
+  "source": {
+    "book": "NCERT Class 7 Science",
+    "chapter": 4,
+    "chapter_title": "Heat",
+    "pdf_url": "https://ncert.nic.in/textbook.php?gesc1=0-18",
+    "page_range": "pending source extraction"
+  },
+  "resolved_pdf_url": "https://ncert.nic.in/textbook/pdf/gesc104.pdf",
+  "sha256": "b52c2fbf8d64fd973ac0a1867e4d5f53c811994e9ff4cbdc761063772c577cbf",
+  "extraction": {
+    "raw_text_path": "data/study/textbook-first/raw-text/gs3_sci_class7_science_ch04_heat.txt",
+    "extracted_characters": 15479,
+    "page_count": 9,
+    "paragraph_count_estimate": 0,
+    "title_match_score": 0
+  },
+  "concept_candidates": [
+    {
+      "title": "4.1 ACIDS AND BASES",
+      "first_seen_page_index": 1,
+      "source_trace": "NCERT Class 7 Science, Chapter 4, extracted page 1"
+    },
+    {
+      "title": "CAUTION",
+      "first_seen_page_index": 1,
+      "source_trace": "NCERT Class 7 Science, Chapter 4, extracted page 1"
+    },
+    {
+      "title": "ACIDS , BASES AND SALTS 39",
+      "first_seen_page_index": 2,
+      "source_trace": "NCERT Class 7 Science, Chapter 4, extracted page 2"
+    },
+    {
+      "title": "4.2 NATURAL I NDICATORS",
+      "first_seen_page_index": 2,
+      "source_trace": "NCERT Class 7 Science, Chapter 4, extracted page 2"
+    },
+    {
+      "title": "AROUND US",
+      "first_seen_page_index": 2,
+      "source_trace": "NCERT Class 7 Science, Chapter 4, extracted page 2"
+    },
+    {
+      "title": "SCIENCE 40",
+      "first_seen_page_index": 3,
+      "source_trace": "NCERT Class 7 Science, Chapter 4, extracted page 3"
+    },
+    {
+      "title": "ACIDS , BASES AND SALTS 41",
+      "first_seen_page_index": 4,
+      "source_trace": "NCERT Class 7 Science, Chapter 4, extracted page 4"
+    },
+    {
+      "title": "SCIENCE 42",
+      "first_seen_page_index": 5,
+      "source_trace": "NCERT Class 7 Science, Chapter 4, extracted page 5"
+    },
+    {
+      "title": "ACIDS , BASES AND SALTS 43",
+      "first_seen_page_index": 6,
+      "source_trace": "NCERT Class 7 Science, Chapter 4, extracted page 6"
+    },
+    {
+      "title": "4.3 NEUTRALISATION",
+      "first_seen_page_index": 6,
+      "source_trace": "NCERT Class 7 Science, Chapter 4, extracted page 6"
+    },
+    {
+      "title": "SCIENCE 44",
+      "first_seen_page_index": 7,
+      "source_trace": "NCERT Class 7 Science, Chapter 4, extracted page 7"
+    },
+    {
+      "title": "4.4 NEUTRALISATION IN E VERYDAY",
+      "first_seen_page_index": 7,
+      "source_trace": "NCERT Class 7 Science, Chapter 4, extracted page 7"
+    },
+    {
+      "title": "LIFE",
+      "first_seen_page_index": 7,
+      "source_trace": "NCERT Class 7 Science, Chapter 4, extracted page 7"
+    },
+    {
+      "title": "ACIDS , BASES AND SALTS 45",
+      "first_seen_page_index": 8,
+      "source_trace": "NCERT Class 7 Science, Chapter 4, extracted page 8"
+    },
+    {
+      "title": "SCIENCE 46",
+      "first_seen_page_index": 9,
+      "source_trace": "NCERT Class 7 Science, Chapter 4, extracted page 9"
+    }
+  ],
+  "production_status": "concept_candidates_ready_for_human_decode"
+}

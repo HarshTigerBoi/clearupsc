@@ -1,0 +1,98 @@
+{
+  "key": "gs2_polity_class8_social_political_life_iii_ch07_public_facilities",
+  "title": "Public Facilities",
+  "source": {
+    "book": "NCERT Class 8 Social and Political Life III",
+    "chapter": 7,
+    "chapter_title": "Public Facilities",
+    "pdf_url": "https://ncert.nic.in/textbook.php?hess2=0-8",
+    "page_range": "pending source extraction"
+  },
+  "resolved_pdf_url": "https://ncert.nic.in/textbook/pdf/hess207.pdf",
+  "sha256": "3cade768aa6ad102f39b7c705c86596b9e1eaf556939a22432d45e661847837b",
+  "extraction": {
+    "raw_text_path": "data/study/textbook-first/raw-text/gs2_polity_class8_social_political_life_iii_ch07_public_facilities.txt",
+    "extracted_characters": 32369,
+    "page_count": 15,
+    "paragraph_count_estimate": 0,
+    "title_match_score": 0.5
+  },
+  "concept_candidates": [
+    {
+      "title": "WOMEN, CASTE AND REFORM 79",
+      "first_seen_page_index": 2,
+      "source_trace": "NCERT Class 8 Social and Political Life III, Chapter 7, extracted page 2"
+    },
+    {
+      "title": "80 OUR PASTS – III",
+      "first_seen_page_index": 3,
+      "source_trace": "NCERT Class 8 Social and Political Life III, Chapter 7, extracted page 3"
+    },
+    {
+      "title": "WOMEN, CASTE AND REFORM 81",
+      "first_seen_page_index": 4,
+      "source_trace": "NCERT Class 8 Social and Political Life III, Chapter 7, extracted page 4"
+    },
+    {
+      "title": "ADVOCATE OF SATI:",
+      "first_seen_page_index": 4,
+      "source_trace": "NCERT Class 8 Social and Political Life III, Chapter 7, extracted page 4"
+    },
+    {
+      "title": "OPPONENT OF SATI:",
+      "first_seen_page_index": 4,
+      "source_trace": "NCERT Class 8 Social and Political Life III, Chapter 7, extracted page 4"
+    },
+    {
+      "title": "82 OUR PASTS – III",
+      "first_seen_page_index": 5,
+      "source_trace": "NCERT Class 8 Social and Political Life III, Chapter 7, extracted page 5"
+    },
+    {
+      "title": "84 OUR PASTS – III",
+      "first_seen_page_index": 7,
+      "source_trace": "NCERT Class 8 Social and Political Life III, Chapter 7, extracted page 7"
+    },
+    {
+      "title": "WOMEN, CASTE AND REFORM 85",
+      "first_seen_page_index": 8,
+      "source_trace": "NCERT Class 8 Social and Political Life III, Chapter 7, extracted page 8"
+    },
+    {
+      "title": "86 OUR PASTS – III",
+      "first_seen_page_index": 9,
+      "source_trace": "NCERT Class 8 Social and Political Life III, Chapter 7, extracted page 9"
+    },
+    {
+      "title": "WOMEN, CASTE AND REFORM 87",
+      "first_seen_page_index": 10,
+      "source_trace": "NCERT Class 8 Social and Political Life III, Chapter 7, extracted page 10"
+    },
+    {
+      "title": "88 OUR PASTS – III",
+      "first_seen_page_index": 11,
+      "source_trace": "NCERT Class 8 Social and Political Life III, Chapter 7, extracted page 11"
+    },
+    {
+      "title": "WOMEN, CASTE AND REFORM 89",
+      "first_seen_page_index": 12,
+      "source_trace": "NCERT Class 8 Social and Political Life III, Chapter 7, extracted page 12"
+    },
+    {
+      "title": "90 OUR PASTS – III",
+      "first_seen_page_index": 13,
+      "source_trace": "NCERT Class 8 Social and Political Life III, Chapter 7, extracted page 13"
+    },
+    {
+      "title": "WOMEN, CASTE AND REFORM 91",
+      "first_seen_page_index": 14,
+      "source_trace": "NCERT Class 8 Social and Political Life III, Chapter 7, extracted page 14"
+    },
+    {
+      "title": "92 OUR PASTS – III",
+      "first_seen_page_index": 15,
+      "source_trace": "NCERT Class 8 Social and Political Life III, Chapter 7, extracted page 15"
+    }
+  ],
+  "production_status": "concept_candidates_ready_for_human_decode"
+}

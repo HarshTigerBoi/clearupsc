@@ -1,0 +1,138 @@
+{
+  "key": "gs1_hist_class10_contemporary_world_ii_ch05_print_culture_and_the_modern_world",
+  "title": "Print Culture and the Modern World",
+  "source": {
+    "book": "NCERT Class 10 India and the Contemporary World II",
+    "chapter": 5,
+    "chapter_title": "Print Culture and the Modern World",
+    "pdf_url": "https://ncert.nic.in/textbook.php?jess1=0-5",
+    "page_range": "pending source extraction"
+  },
+  "resolved_pdf_url": "https://ncert.nic.in/textbook/pdf/jess305.pdf",
+  "sha256": "b51d5a431f0624a7a7a68242dd02f150c3d6ebf2c6b3645f4270103bdc497f89",
+  "extraction": {
+    "raw_text_path": "data/study/textbook-first/raw-text/gs1_hist_class10_contemporary_world_ii_ch05_print_culture_and_the_modern_world.txt",
+    "extracted_characters": 58277,
+    "page_count": 26,
+    "paragraph_count_estimate": 3,
+    "title_match_score": 1
+  },
+  "concept_candidates": [
+    {
+      "title": "SECTION III",
+      "first_seen_page_index": 1,
+      "source_trace": "NCERT Class 10 India and the Contemporary World II, Chapter 5, extracted page 1"
+    },
+    {
+      "title": "EVERYDAY LIFE, CULTURE AND POLITICS",
+      "first_seen_page_index": 1,
+      "source_trace": "NCERT Class 10 India and the Contemporary World II, Chapter 5, extracted page 1"
+    },
+    {
+      "title": "1 The First Printed Books",
+      "first_seen_page_index": 4,
+      "source_trace": "NCERT Class 10 India and the Contemporary World II, Chapter 5, extracted page 4"
+    },
+    {
+      "title": "1.1 Print in Japan",
+      "first_seen_page_index": 4,
+      "source_trace": "NCERT Class 10 India and the Contemporary World II, Chapter 5, extracted page 4"
+    },
+    {
+      "title": "2 Print Comes to Europe",
+      "first_seen_page_index": 6,
+      "source_trace": "NCERT Class 10 India and the Contemporary World II, Chapter 5, extracted page 6"
+    },
+    {
+      "title": "2.1 Gutenberg and the Printing Press",
+      "first_seen_page_index": 7,
+      "source_trace": "NCERT Class 10 India and the Contemporary World II, Chapter 5, extracted page 7"
+    },
+    {
+      "title": "3 The Print Revolution and Its Impact",
+      "first_seen_page_index": 9,
+      "source_trace": "NCERT Class 10 India and the Contemporary World II, Chapter 5, extracted page 9"
+    },
+    {
+      "title": "3.1 A New Reading Public",
+      "first_seen_page_index": 9,
+      "source_trace": "NCERT Class 10 India and the Contemporary World II, Chapter 5, extracted page 9"
+    },
+    {
+      "title": "3.2 Religious Debates and the Fear of Print",
+      "first_seen_page_index": 10,
+      "source_trace": "NCERT Class 10 India and the Contemporary World II, Chapter 5, extracted page 10"
+    },
+    {
+      "title": "3.3 Print and Dissent",
+      "first_seen_page_index": 11,
+      "source_trace": "NCERT Class 10 India and the Contemporary World II, Chapter 5, extracted page 11"
+    },
+    {
+      "title": "4 The Reading Mania",
+      "first_seen_page_index": 12,
+      "source_trace": "NCERT Class 10 India and the Contemporary World II, Chapter 5, extracted page 12"
+    },
+    {
+      "title": "4.2 Print Culture and the French Revolution",
+      "first_seen_page_index": 13,
+      "source_trace": "NCERT Class 10 India and the Contemporary World II, Chapter 5, extracted page 13"
+    },
+    {
+      "title": "5 The Nineteenth Century",
+      "first_seen_page_index": 15,
+      "source_trace": "NCERT Class 10 India and the Contemporary World II, Chapter 5, extracted page 15"
+    },
+    {
+      "title": "5.1 Children, Women and Workers",
+      "first_seen_page_index": 15,
+      "source_trace": "NCERT Class 10 India and the Contemporary World II, Chapter 5, extracted page 15"
+    },
+    {
+      "title": "5.2 Further Innovations",
+      "first_seen_page_index": 16,
+      "source_trace": "NCERT Class 10 India and the Contemporary World II, Chapter 5, extracted page 16"
+    },
+    {
+      "title": "6 India and the World of Print",
+      "first_seen_page_index": 17,
+      "source_trace": "NCERT Class 10 India and the Contemporary World II, Chapter 5, extracted page 17"
+    },
+    {
+      "title": "6.1 Manuscripts Before the Age of Print",
+      "first_seen_page_index": 17,
+      "source_trace": "NCERT Class 10 India and the Contemporary World II, Chapter 5, extracted page 17"
+    },
+    {
+      "title": "6.2 Print Comes to India",
+      "first_seen_page_index": 18,
+      "source_trace": "NCERT Class 10 India and the Contemporary World II, Chapter 5, extracted page 18"
+    },
+    {
+      "title": "7 Religious Reform and Public Debates",
+      "first_seen_page_index": 19,
+      "source_trace": "NCERT Class 10 India and the Contemporary World II, Chapter 5, extracted page 19"
+    },
+    {
+      "title": "8 New Forms of Publication",
+      "first_seen_page_index": 21,
+      "source_trace": "NCERT Class 10 India and the Contemporary World II, Chapter 5, extracted page 21"
+    },
+    {
+      "title": "8.1 Women and Print",
+      "first_seen_page_index": 22,
+      "source_trace": "NCERT Class 10 India and the Contemporary World II, Chapter 5, extracted page 22"
+    },
+    {
+      "title": "8.2 Print and the Poor People",
+      "first_seen_page_index": 24,
+      "source_trace": "NCERT Class 10 India and the Contemporary World II, Chapter 5, extracted page 24"
+    },
+    {
+      "title": "9 Print and Censorship",
+      "first_seen_page_index": 25,
+      "source_trace": "NCERT Class 10 India and the Contemporary World II, Chapter 5, extracted page 25"
+    }
+  ],
+  "production_status": "concept_candidates_ready_for_human_decode"
+}

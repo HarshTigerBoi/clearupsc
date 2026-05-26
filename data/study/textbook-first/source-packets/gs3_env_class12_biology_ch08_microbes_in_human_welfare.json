@@ -1,0 +1,113 @@
+{
+  "key": "gs3_env_class12_biology_ch08_microbes_in_human_welfare",
+  "title": "Microbes in Human Welfare",
+  "source": {
+    "book": "NCERT Class 12 Biology",
+    "chapter": 8,
+    "chapter_title": "Microbes in Human Welfare",
+    "pdf_url": "https://ncert.nic.in/textbook.php?lebo1=0-16",
+    "page_range": "pending source extraction"
+  },
+  "resolved_pdf_url": "https://ncert.nic.in/textbook/pdf/lebo108.pdf",
+  "sha256": "e96d234eab38ed70616c77101aedeaf4efa7d92ea8aececeb046d383061f63b7",
+  "extraction": {
+    "raw_text_path": "data/study/textbook-first/raw-text/gs3_env_class12_biology_ch08_microbes_in_human_welfare.txt",
+    "extracted_characters": 25526,
+    "page_count": 12,
+    "paragraph_count_estimate": 0,
+    "title_match_score": 1
+  },
+  "concept_candidates": [
+    {
+      "title": "CHAPTER 8",
+      "first_seen_page_index": 1,
+      "source_trace": "NCERT Class 12 Biology, Chapter 8, extracted page 1"
+    },
+    {
+      "title": "MICROBES IN HUMAN WELFARE",
+      "first_seen_page_index": 1,
+      "source_trace": "NCERT Class 12 Biology, Chapter 8, extracted page 1"
+    },
+    {
+      "title": "8.1 Microbes in Household",
+      "first_seen_page_index": 1,
+      "source_trace": "NCERT Class 12 Biology, Chapter 8, extracted page 1"
+    },
+    {
+      "title": "8.2 Microbes in Industrial",
+      "first_seen_page_index": 1,
+      "source_trace": "NCERT Class 12 Biology, Chapter 8, extracted page 1"
+    },
+    {
+      "title": "8.3 Microbes in Sewage",
+      "first_seen_page_index": 1,
+      "source_trace": "NCERT Class 12 Biology, Chapter 8, extracted page 1"
+    },
+    {
+      "title": "8.4 Microbes in Production of",
+      "first_seen_page_index": 1,
+      "source_trace": "NCERT Class 12 Biology, Chapter 8, extracted page 1"
+    },
+    {
+      "title": "8.5 Microbes as Biocontrol",
+      "first_seen_page_index": 1,
+      "source_trace": "NCERT Class 12 Biology, Chapter 8, extracted page 1"
+    },
+    {
+      "title": "8.6 Microbes as Biofertilisers",
+      "first_seen_page_index": 1,
+      "source_trace": "NCERT Class 12 Biology, Chapter 8, extracted page 1"
+    },
+    {
+      "title": "BIOLOGY",
+      "first_seen_page_index": 2,
+      "source_trace": "NCERT Class 12 Biology, Chapter 8, extracted page 2"
+    },
+    {
+      "title": "8.1 MICROBES IN HOUSEHOLD PRODUCTS",
+      "first_seen_page_index": 3,
+      "source_trace": "NCERT Class 12 Biology, Chapter 8, extracted page 3"
+    },
+    {
+      "title": "8.2 MICROBES IN INDUSTRIAL PRODUCTS",
+      "first_seen_page_index": 3,
+      "source_trace": "NCERT Class 12 Biology, Chapter 8, extracted page 3"
+    },
+    {
+      "title": "8.2.1 Fermented Beverages",
+      "first_seen_page_index": 4,
+      "source_trace": "NCERT Class 12 Biology, Chapter 8, extracted page 4"
+    },
+    {
+      "title": "8.2.2 Antibiotics",
+      "first_seen_page_index": 4,
+      "source_trace": "NCERT Class 12 Biology, Chapter 8, extracted page 4"
+    },
+    {
+      "title": "8.2.3 Chemicals, Enzymes and other Bioactive Molecules",
+      "first_seen_page_index": 5,
+      "source_trace": "NCERT Class 12 Biology, Chapter 8, extracted page 5"
+    },
+    {
+      "title": "8.3 MICROBES IN SEWAGE TREATMENT",
+      "first_seen_page_index": 5,
+      "source_trace": "NCERT Class 12 Biology, Chapter 8, extracted page 5"
+    },
+    {
+      "title": "8.4 MICROBES IN PRODUCTION OF BIOGAS",
+      "first_seen_page_index": 7,
+      "source_trace": "NCERT Class 12 Biology, Chapter 8, extracted page 7"
+    },
+    {
+      "title": "8.5 MICROBES AS BIOCONTROL AGENTS",
+      "first_seen_page_index": 8,
+      "source_trace": "NCERT Class 12 Biology, Chapter 8, extracted page 8"
+    },
+    {
+      "title": "SUMMARY",
+      "first_seen_page_index": 10,
+      "source_trace": "NCERT Class 12 Biology, Chapter 8, extracted page 10"
+    }
+  ],
+  "production_status": "concept_candidates_ready_for_human_decode"
+}

@@ -1,0 +1,158 @@
+{
+  "key": "gs3_sci_class8_science_ch09_reproduction_in_animals",
+  "title": "Reproduction in Animals",
+  "source": {
+    "book": "NCERT Class 8 Science",
+    "chapter": 9,
+    "chapter_title": "Reproduction in Animals",
+    "pdf_url": "https://ncert.nic.in/textbook.php?hesc1=0-18",
+    "page_range": "pending source extraction"
+  },
+  "resolved_pdf_url": "https://ncert.nic.in/textbook/pdf/hesc109.pdf",
+  "sha256": "7fcf2afca1e4c181fbfdb5dee3ac9d3c7020c1cfb8e5ee42a5fef878cf82a20f",
+  "extraction": {
+    "raw_text_path": "data/study/textbook-first/raw-text/gs3_sci_class8_science_ch09_reproduction_in_animals.txt",
+    "extracted_characters": 17844,
+    "page_count": 11,
+    "paragraph_count_estimate": 0,
+    "title_match_score": 0
+  },
+  "concept_candidates": [
+    {
+      "title": "FRICTION FRICTION",
+      "first_seen_page_index": 1,
+      "source_trace": "NCERT Class 8 Science, Chapter 9, extracted page 1"
+    },
+    {
+      "title": "9.1 Force of Friction",
+      "first_seen_page_index": 1,
+      "source_trace": "NCERT Class 8 Science, Chapter 9, extracted page 1"
+    },
+    {
+      "title": "9.2 Factors affecting Friction",
+      "first_seen_page_index": 2,
+      "source_trace": "NCERT Class 8 Science, Chapter 9, extracted page 2"
+    },
+    {
+      "title": "FRICTION 113",
+      "first_seen_page_index": 2,
+      "source_trace": "NCERT Class 8 Science, Chapter 9, extracted page 2"
+    },
+    {
+      "title": "SCIENCE 114",
+      "first_seen_page_index": 3,
+      "source_trace": "NCERT Class 8 Science, Chapter 9, extracted page 3"
+    },
+    {
+      "title": "FRICTION 115",
+      "first_seen_page_index": 4,
+      "source_trace": "NCERT Class 8 Science, Chapter 9, extracted page 4"
+    },
+    {
+      "title": "9.3 Friction : A Necessary",
+      "first_seen_page_index": 4,
+      "source_trace": "NCERT Class 8 Science, Chapter 9, extracted page 4"
+    },
+    {
+      "title": "SCIENCE 116",
+      "first_seen_page_index": 5,
+      "source_trace": "NCERT Class 8 Science, Chapter 9, extracted page 5"
+    },
+    {
+      "title": "FRICTION 117",
+      "first_seen_page_index": 6,
+      "source_trace": "NCERT Class 8 Science, Chapter 9, extracted page 6"
+    },
+    {
+      "title": "9.4 Increasing and Reducing",
+      "first_seen_page_index": 6,
+      "source_trace": "NCERT Class 8 Science, Chapter 9, extracted page 6"
+    },
+    {
+      "title": "SCIENCE 118",
+      "first_seen_page_index": 7,
+      "source_trace": "NCERT Class 8 Science, Chapter 9, extracted page 7"
+    },
+    {
+      "title": "9.5 Wheels Reduce Friction",
+      "first_seen_page_index": 7,
+      "source_trace": "NCERT Class 8 Science, Chapter 9, extracted page 7"
+    },
+    {
+      "title": "FRICTION 119",
+      "first_seen_page_index": 8,
+      "source_trace": "NCERT Class 8 Science, Chapter 9, extracted page 8"
+    },
+    {
+      "title": "9.6 Fluid Friction",
+      "first_seen_page_index": 8,
+      "source_trace": "NCERT Class 8 Science, Chapter 9, extracted page 8"
+    },
+    {
+      "title": "SCIENCE 120",
+      "first_seen_page_index": 9,
+      "source_trace": "NCERT Class 8 Science, Chapter 9, extracted page 9"
+    },
+    {
+      "title": "KEYWORDS KEYWORDS KEYWORDS KEYWORDS KEYWORDS",
+      "first_seen_page_index": 9,
+      "source_trace": "NCERT Class 8 Science, Chapter 9, extracted page 9"
+    },
+    {
+      "title": "BALL BEARING",
+      "first_seen_page_index": 9,
+      "source_trace": "NCERT Class 8 Science, Chapter 9, extracted page 9"
+    },
+    {
+      "title": "DRAG",
+      "first_seen_page_index": 9,
+      "source_trace": "NCERT Class 8 Science, Chapter 9, extracted page 9"
+    },
+    {
+      "title": "FLUID FRICTION",
+      "first_seen_page_index": 9,
+      "source_trace": "NCERT Class 8 Science, Chapter 9, extracted page 9"
+    },
+    {
+      "title": "FRICTION",
+      "first_seen_page_index": 9,
+      "source_trace": "NCERT Class 8 Science, Chapter 9, extracted page 9"
+    },
+    {
+      "title": "INTERLOCKING",
+      "first_seen_page_index": 9,
+      "source_trace": "NCERT Class 8 Science, Chapter 9, extracted page 9"
+    },
+    {
+      "title": "LUBRICANTS",
+      "first_seen_page_index": 9,
+      "source_trace": "NCERT Class 8 Science, Chapter 9, extracted page 9"
+    },
+    {
+      "title": "ROLLING FRICTION",
+      "first_seen_page_index": 9,
+      "source_trace": "NCERT Class 8 Science, Chapter 9, extracted page 9"
+    },
+    {
+      "title": "SLIDING FRICTION",
+      "first_seen_page_index": 9,
+      "source_trace": "NCERT Class 8 Science, Chapter 9, extracted page 9"
+    },
+    {
+      "title": "STATIC FRICTION",
+      "first_seen_page_index": 9,
+      "source_trace": "NCERT Class 8 Science, Chapter 9, extracted page 9"
+    },
+    {
+      "title": "FRICTION 121",
+      "first_seen_page_index": 10,
+      "source_trace": "NCERT Class 8 Science, Chapter 9, extracted page 10"
+    },
+    {
+      "title": "SCIENCE 122",
+      "first_seen_page_index": 11,
+      "source_trace": "NCERT Class 8 Science, Chapter 9, extracted page 11"
+    }
+  ],
+  "production_status": "concept_candidates_ready_for_human_decode"
+}

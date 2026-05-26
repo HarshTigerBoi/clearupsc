@@ -1,0 +1,223 @@
+{
+  "key": "gs3_sci_class12_chemistry_ch01_solutions",
+  "title": "Solutions",
+  "source": {
+    "book": "NCERT Class 12 Chemistry",
+    "chapter": 1,
+    "chapter_title": "Solutions",
+    "pdf_url": "https://ncert.nic.in/textbook.php?lech1=0-10",
+    "page_range": "pending source extraction"
+  },
+  "resolved_pdf_url": "https://ncert.nic.in/textbook/pdf/lech101.pdf",
+  "sha256": "99d19dbb008280c361496c6e184be91b214d70fb40837749c692c8c52add341f",
+  "extraction": {
+    "raw_text_path": "data/study/textbook-first/raw-text/gs3_sci_class12_chemistry_ch01_solutions.txt",
+    "extracted_characters": 71578,
+    "page_count": 30,
+    "paragraph_count_estimate": 2,
+    "title_match_score": 1
+  },
+  "concept_candidates": [
+    {
+      "title": "2 Chemistry",
+      "first_seen_page_index": 2,
+      "source_trace": "NCERT Class 12 Chemistry, Chapter 1, extracted page 2"
+    },
+    {
+      "title": "3 Solutions",
+      "first_seen_page_index": 3,
+      "source_trace": "NCERT Class 12 Chemistry, Chapter 1, extracted page 3"
+    },
+    {
+      "title": "6 Number of parts of the component ×10",
+      "first_seen_page_index": 3,
+      "source_trace": "NCERT Class 12 Chemistry, Chapter 1, extracted page 3"
+    },
+    {
+      "title": "4 Chemistry",
+      "first_seen_page_index": 4,
+      "source_trace": "NCERT Class 12 Chemistry, Chapter 1, extracted page 4"
+    },
+    {
+      "title": "5 Solutions",
+      "first_seen_page_index": 5,
+      "source_trace": "NCERT Class 12 Chemistry, Chapter 1, extracted page 5"
+    },
+    {
+      "title": "1.3 Solubility 1.3 Solubility 1.3 Solubility 1.3 Solubility 1.3 Solubility",
+      "first_seen_page_index": 5,
+      "source_trace": "NCERT Class 12 Chemistry, Chapter 1, extracted page 5"
+    },
+    {
+      "title": "1.1 Calculate the mass percentage of benzene (C6H6) and carbon",
+      "first_seen_page_index": 5,
+      "source_trace": "NCERT Class 12 Chemistry, Chapter 1, extracted page 5"
+    },
+    {
+      "title": "1.2 Calculate the mole fraction of benzene in solution containing 30%",
+      "first_seen_page_index": 5,
+      "source_trace": "NCERT Class 12 Chemistry, Chapter 1, extracted page 5"
+    },
+    {
+      "title": "1.3 Calculate the molarity of each of the following solutions: (a) 30 g of",
+      "first_seen_page_index": 5,
+      "source_trace": "NCERT Class 12 Chemistry, Chapter 1, extracted page 5"
+    },
+    {
+      "title": "1.4 Calculate the mass of urea (NH2CONH2) required in making 2.5 kg of",
+      "first_seen_page_index": 5,
+      "source_trace": "NCERT Class 12 Chemistry, Chapter 1, extracted page 5"
+    },
+    {
+      "title": "1.5 Calculate (a) molality (b) molarity and (c) mole fraction of KI if the density",
+      "first_seen_page_index": 5,
+      "source_trace": "NCERT Class 12 Chemistry, Chapter 1, extracted page 5"
+    },
+    {
+      "title": "6 Chemistry",
+      "first_seen_page_index": 6,
+      "source_trace": "NCERT Class 12 Chemistry, Chapter 1, extracted page 6"
+    },
+    {
+      "title": "1.3.1 Solubility of",
+      "first_seen_page_index": 6,
+      "source_trace": "NCERT Class 12 Chemistry, Chapter 1, extracted page 6"
+    },
+    {
+      "title": "1.3.2 Solubility of",
+      "first_seen_page_index": 6,
+      "source_trace": "NCERT Class 12 Chemistry, Chapter 1, extracted page 6"
+    },
+    {
+      "title": "7 Solutions",
+      "first_seen_page_index": 7,
+      "source_trace": "NCERT Class 12 Chemistry, Chapter 1, extracted page 7"
+    },
+    {
+      "title": "8 Chemistry",
+      "first_seen_page_index": 8,
+      "source_trace": "NCERT Class 12 Chemistry, Chapter 1, extracted page 8"
+    },
+    {
+      "title": "9 Solutions",
+      "first_seen_page_index": 9,
+      "source_trace": "NCERT Class 12 Chemistry, Chapter 1, extracted page 9"
+    },
+    {
+      "title": "1.6 H2S, a toxic gas with rotten egg like smell, is used for the qualitative analysis. If",
+      "first_seen_page_index": 9,
+      "source_trace": "NCERT Class 12 Chemistry, Chapter 1, extracted page 9"
+    },
+    {
+      "title": "1.7 Henry’s law constant for CO2 in water is 1.67×108 Pa at 298 K. Calculate",
+      "first_seen_page_index": 9,
+      "source_trace": "NCERT Class 12 Chemistry, Chapter 1, extracted page 9"
+    },
+    {
+      "title": "1.4.1 Vapour",
+      "first_seen_page_index": 9,
+      "source_trace": "NCERT Class 12 Chemistry, Chapter 1, extracted page 9"
+    },
+    {
+      "title": "10 Chemistry",
+      "first_seen_page_index": 10,
+      "source_trace": "NCERT Class 12 Chemistry, Chapter 1, extracted page 10"
+    },
+    {
+      "title": "11 Solutions",
+      "first_seen_page_index": 11,
+      "source_trace": "NCERT Class 12 Chemistry, Chapter 1, extracted page 11"
+    },
+    {
+      "title": "3 CHCl x = 1.00 – 0.688 = 0.312",
+      "first_seen_page_index": 11,
+      "source_trace": "NCERT Class 12 Chemistry, Chapter 1, extracted page 11"
+    },
+    {
+      "title": "3 CHCl p = 0.312 × 200 mm Hg = 62.4 mm Hg",
+      "first_seen_page_index": 11,
+      "source_trace": "NCERT Class 12 Chemistry, Chapter 1, extracted page 11"
+    },
+    {
+      "title": "3 CHCl y = 62.4 mm Hg/347.9 mm Hg = 0.18",
+      "first_seen_page_index": 11,
+      "source_trace": "NCERT Class 12 Chemistry, Chapter 1, extracted page 11"
+    },
+    {
+      "title": "12 Chemistry",
+      "first_seen_page_index": 12,
+      "source_trace": "NCERT Class 12 Chemistry, Chapter 1, extracted page 12"
+    },
+    {
+      "title": "1.4.2 Raoult’s",
+      "first_seen_page_index": 12,
+      "source_trace": "NCERT Class 12 Chemistry, Chapter 1, extracted page 12"
+    },
+    {
+      "title": "1.4.3 Vapour",
+      "first_seen_page_index": 12,
+      "source_trace": "NCERT Class 12 Chemistry, Chapter 1, extracted page 12"
+    },
+    {
+      "title": "13 Solutions",
+      "first_seen_page_index": 13,
+      "source_trace": "NCERT Class 12 Chemistry, Chapter 1, extracted page 13"
+    },
+    {
+      "title": "1.5.1 Ideal",
+      "first_seen_page_index": 13,
+      "source_trace": "NCERT Class 12 Chemistry, Chapter 1, extracted page 13"
+    },
+    {
+      "title": "1.5.2 Non-ideal",
+      "first_seen_page_index": 13,
+      "source_trace": "NCERT Class 12 Chemistry, Chapter 1, extracted page 13"
+    },
+    {
+      "title": "14 Chemistry",
+      "first_seen_page_index": 14,
+      "source_trace": "NCERT Class 12 Chemistry, Chapter 1, extracted page 14"
+    },
+    {
+      "title": "15 Solutions",
+      "first_seen_page_index": 15,
+      "source_trace": "NCERT Class 12 Chemistry, Chapter 1, extracted page 15"
+    },
+    {
+      "title": "1.8 The vapour pressure of pure liquids A and B are 450 and 700 mm Hg",
+      "first_seen_page_index": 15,
+      "source_trace": "NCERT Class 12 Chemistry, Chapter 1, extracted page 15"
+    },
+    {
+      "title": "1.6.1 Relative",
+      "first_seen_page_index": 15,
+      "source_trace": "NCERT Class 12 Chemistry, Chapter 1, extracted page 15"
+    },
+    {
+      "title": "16 Chemistry",
+      "first_seen_page_index": 16,
+      "source_trace": "NCERT Class 12 Chemistry, Chapter 1, extracted page 16"
+    },
+    {
+      "title": "373.15 K (100° C) because at this temperature the vapour pressure",
+      "first_seen_page_index": 16,
+      "source_trace": "NCERT Class 12 Chemistry, Chapter 1, extracted page 16"
+    },
+    {
+      "title": "1.6.2 Elevation of",
+      "first_seen_page_index": 16,
+      "source_trace": "NCERT Class 12 Chemistry, Chapter 1, extracted page 16"
+    },
+    {
+      "title": "17 Solutions",
+      "first_seen_page_index": 17,
+      "source_trace": "NCERT Class 12 Chemistry, Chapter 1, extracted page 17"
+    },
+    {
+      "title": "18 Chemistry",
+      "first_seen_page_index": 18,
+      "source_trace": "NCERT Class 12 Chemistry, Chapter 1, extracted page 18"
+    }
+  ],
+  "production_status": "concept_candidates_ready_for_human_decode"
+}

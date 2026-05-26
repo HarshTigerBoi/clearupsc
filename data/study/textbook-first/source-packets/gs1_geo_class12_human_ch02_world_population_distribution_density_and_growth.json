@@ -1,0 +1,68 @@
+{
+  "key": "gs1_geo_class12_human_ch02_world_population_distribution_density_and_growth",
+  "title": "World Population Distribution Density and Growth",
+  "source": {
+    "book": "NCERT Class 12 Fundamentals of Human Geography",
+    "chapter": 2,
+    "chapter_title": "World Population Distribution Density and Growth",
+    "pdf_url": "https://ncert.nic.in/textbook.php?legy1=0-9",
+    "page_range": "pending source extraction"
+  },
+  "resolved_pdf_url": "https://ncert.nic.in/textbook/pdf/legy102.pdf",
+  "sha256": "6a47f5f79c162acba7b4e59cee9259619ffa6ea2db9ab0c49237feeb684cff3b",
+  "extraction": {
+    "raw_text_path": "data/study/textbook-first/raw-text/gs1_geo_class12_human_ch02_world_population_distribution_density_and_growth.txt",
+    "extracted_characters": 15466,
+    "page_count": 6,
+    "paragraph_count_estimate": 4,
+    "title_match_score": 1
+  },
+  "concept_candidates": [
+    {
+      "title": "PATTERNS OF POPULATION",
+      "first_seen_page_index": 1,
+      "source_trace": "NCERT Class 12 Fundamentals of Human Geography, Chapter 2, extracted page 1"
+    },
+    {
+      "title": "DISTRIBUTION IN THE WORLD",
+      "first_seen_page_index": 1,
+      "source_trace": "NCERT Class 12 Fundamentals of Human Geography, Chapter 2, extracted page 1"
+    },
+    {
+      "title": "DENSITY OF POPULATION",
+      "first_seen_page_index": 2,
+      "source_trace": "NCERT Class 12 Fundamentals of Human Geography, Chapter 2, extracted page 2"
+    },
+    {
+      "title": "FACTORS INFLUENCING THE",
+      "first_seen_page_index": 2,
+      "source_trace": "NCERT Class 12 Fundamentals of Human Geography, Chapter 2, extracted page 2"
+    },
+    {
+      "title": "DISTRIBUTION OF POPULATION",
+      "first_seen_page_index": 2,
+      "source_trace": "NCERT Class 12 Fundamentals of Human Geography, Chapter 2, extracted page 2"
+    },
+    {
+      "title": "POPULATION GROWTH",
+      "first_seen_page_index": 3,
+      "source_trace": "NCERT Class 12 Fundamentals of Human Geography, Chapter 2, extracted page 3"
+    },
+    {
+      "title": "CBR/CDR",
+      "first_seen_page_index": 4,
+      "source_trace": "NCERT Class 12 Fundamentals of Human Geography, Chapter 2, extracted page 4"
+    },
+    {
+      "title": "DEMOGRAPHIC TRANSITION",
+      "first_seen_page_index": 4,
+      "source_trace": "NCERT Class 12 Fundamentals of Human Geography, Chapter 2, extracted page 4"
+    },
+    {
+      "title": "POPULATION CONTROL MEASURES",
+      "first_seen_page_index": 5,
+      "source_trace": "NCERT Class 12 Fundamentals of Human Geography, Chapter 2, extracted page 5"
+    }
+  ],
+  "production_status": "concept_candidates_ready_for_human_decode"
+}

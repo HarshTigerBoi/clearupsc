@@ -2,6 +2,7 @@ import { createClient } from "@/lib/supabase/server";
 import { hasSupabaseConfig } from "@/lib/supabase/config";
 import { enrichCurrentAffairFallback } from "@/lib/current-affairs/enrichment";
 import { buildPersonalizedWeekPlan, generatePersonalizedTopicSequence } from "@/lib/study/personalized-plan";
+import { LEGACY_TOPIC_REDIRECTS, NCERT_CHAPTER_TOPICS } from "@/lib/study/ncert-master-index";
 import { SYLLABUS } from "@/data/syllabus";
 import { PYQS } from "@/data/pyqs";
 import type {
@@ -52,6 +53,14 @@ export async function getCurrentPlan(userId: string) {
 
 export async function getTopicsFromDb() {
   const supabase = await createClient();
+  const chapterTopics = NCERT_CHAPTER_TOPICS.map((topic) => ({
+    key: topic.key,
+    title: topic.title,
+    subject: topic.subject.split(" ")[0] as (typeof SYLLABUS)[number]["subject"],
+    parent: undefined,
+    examStage: topic.paper as (typeof SYLLABUS)[number]["examStage"],
+    upscWeightage: topic.upsc_weightage,
+  }));
   const rows: Array<{ key: unknown; subject: unknown; parent_key: unknown; title: unknown; exam_stage: unknown; upsc_weightage: unknown }> = [];
   for (let from = 0; ; from += 1000) {
     const { data, error } = await supabase
@@ -60,21 +69,24 @@ export async function getTopicsFromDb() {
       .order("subject", { ascending: true })
       .order("key", { ascending: true })
       .range(from, from + 999);
-    if (error) return SYLLABUS;
+    if (error) return [...chapterTopics, ...SYLLABUS.filter((topic) => !LEGACY_TOPIC_REDIRECTS[topic.key])];
     rows.push(...(data ?? []));
     if (!data || data.length < 1000) break;
   }
 
-  if (!rows.length) return SYLLABUS;
+  if (!rows.length) return [...chapterTopics, ...SYLLABUS.filter((topic) => !LEGACY_TOPIC_REDIRECTS[topic.key])];
 
-  return rows.map((topic) => ({
-    key: String(topic.key),
-    title: String(topic.title),
-    subject: String(topic.subject) as (typeof SYLLABUS)[number]["subject"],
-    parent: topic.parent_key ? String(topic.parent_key) : undefined,
-    examStage: topic.exam_stage as (typeof SYLLABUS)[number]["examStage"],
-    upscWeightage: Number(topic.upsc_weightage ?? 1),
-  }));
+  const dbTopics = rows
+    .filter((topic) => !LEGACY_TOPIC_REDIRECTS[String(topic.key)])
+    .map((topic) => ({
+      key: String(topic.key),
+      title: String(topic.title),
+      subject: String(topic.subject) as (typeof SYLLABUS)[number]["subject"],
+      parent: topic.parent_key ? String(topic.parent_key) : undefined,
+      examStage: topic.exam_stage as (typeof SYLLABUS)[number]["examStage"],
+      upscWeightage: Number(topic.upsc_weightage ?? 1),
+    }));
+  return [...chapterTopics, ...dbTopics.filter((topic) => !chapterTopics.some((chapter) => chapter.key === topic.key))];
 }
 
 export async function ensureTodayPlan(userId: string) {

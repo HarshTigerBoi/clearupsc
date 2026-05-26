@@ -1,0 +1,178 @@
+{
+  "key": "gs1_geo_class10_contemporary_india_ii_ch01_resources_and_development",
+  "title": "Resources and Development",
+  "source": {
+    "book": "NCERT Class 10 Contemporary India II",
+    "chapter": 1,
+    "chapter_title": "Resources and Development",
+    "pdf_url": "https://ncert.nic.in/textbook.php?jess3=0-7",
+    "page_range": "pending source extraction"
+  },
+  "resolved_pdf_url": "https://ncert.nic.in/textbook/pdf/jess101.pdf",
+  "sha256": "47eca42c4fed295b95eccec63a6a5715a43750650a2bbc32758de02c14ae9010",
+  "extraction": {
+    "raw_text_path": "data/study/textbook-first/raw-text/gs1_geo_class10_contemporary_india_ii_ch01_resources_and_development.txt",
+    "extracted_characters": 26801,
+    "page_count": 12,
+    "paragraph_count_estimate": 0,
+    "title_match_score": 1
+  },
+  "concept_candidates": [
+    {
+      "title": "2 CONTEMPORARY INDIA – II",
+      "first_seen_page_index": 2,
+      "source_trace": "NCERT Class 10 Contemporary India II, Chapter 1, extracted page 2"
+    },
+    {
+      "title": "DEVELOPMENT OF RESOURCES",
+      "first_seen_page_index": 2,
+      "source_trace": "NCERT Class 10 Contemporary India II, Chapter 1, extracted page 2"
+    },
+    {
+      "title": "RESOURCE PLANNING",
+      "first_seen_page_index": 2,
+      "source_trace": "NCERT Class 10 Contemporary India II, Chapter 1, extracted page 2"
+    },
+    {
+      "title": "3 RESOURCES AND DEVELOPMENT",
+      "first_seen_page_index": 3,
+      "source_trace": "NCERT Class 10 Contemporary India II, Chapter 1, extracted page 3"
+    },
+    {
+      "title": "4 CONTEMPORARY INDIA – II",
+      "first_seen_page_index": 4,
+      "source_trace": "NCERT Class 10 Contemporary India II, Chapter 1, extracted page 4"
+    },
+    {
+      "title": "LAND UTILISATION",
+      "first_seen_page_index": 4,
+      "source_trace": "NCERT Class 10 Contemporary India II, Chapter 1, extracted page 4"
+    },
+    {
+      "title": "LAND USE PATTERN IN INDIA",
+      "first_seen_page_index": 4,
+      "source_trace": "NCERT Class 10 Contemporary India II, Chapter 1, extracted page 4"
+    },
+    {
+      "title": "LAND RESOURCES",
+      "first_seen_page_index": 4,
+      "source_trace": "NCERT Class 10 Contemporary India II, Chapter 1, extracted page 4"
+    },
+    {
+      "title": "5 RESOURCES AND DEVELOPMENT",
+      "first_seen_page_index": 5,
+      "source_trace": "NCERT Class 10 Contemporary India II, Chapter 1, extracted page 5"
+    },
+    {
+      "title": "6 CONTEMPORARY INDIA – II",
+      "first_seen_page_index": 6,
+      "source_trace": "NCERT Class 10 Contemporary India II, Chapter 1, extracted page 6"
+    },
+    {
+      "title": "LAND DEGRADATION AND CONSERVATION",
+      "first_seen_page_index": 6,
+      "source_trace": "NCERT Class 10 Contemporary India II, Chapter 1, extracted page 6"
+    },
+    {
+      "title": "MEASURES",
+      "first_seen_page_index": 6,
+      "source_trace": "NCERT Class 10 Contemporary India II, Chapter 1, extracted page 6"
+    },
+    {
+      "title": "SOIL AS A RESOURCE",
+      "first_seen_page_index": 6,
+      "source_trace": "NCERT Class 10 Contemporary India II, Chapter 1, extracted page 6"
+    },
+    {
+      "title": "7 RESOURCES AND DEVELOPMENT",
+      "first_seen_page_index": 7,
+      "source_trace": "NCERT Class 10 Contemporary India II, Chapter 1, extracted page 7"
+    },
+    {
+      "title": "8 CONTEMPORARY INDIA – II",
+      "first_seen_page_index": 8,
+      "source_trace": "NCERT Class 10 Contemporary India II, Chapter 1, extracted page 8"
+    },
+    {
+      "title": "9 RESOURCES AND DEVELOPMENT",
+      "first_seen_page_index": 9,
+      "source_trace": "NCERT Class 10 Contemporary India II, Chapter 1, extracted page 9"
+    },
+    {
+      "title": "10 CONTEMPORARY INDIA – II",
+      "first_seen_page_index": 10,
+      "source_trace": "NCERT Class 10 Contemporary India II, Chapter 1, extracted page 10"
+    },
+    {
+      "title": "11 RESOURCES AND DEVELOPMENT",
+      "first_seen_page_index": 11,
+      "source_trace": "NCERT Class 10 Contemporary India II, Chapter 1, extracted page 11"
+    },
+    {
+      "title": "PROJECT/ACTIVITY",
+      "first_seen_page_index": 11,
+      "source_trace": "NCERT Class 10 Contemporary India II, Chapter 1, extracted page 11"
+    },
+    {
+      "title": "12 CONTEMPORARY INDIA – II",
+      "first_seen_page_index": 12,
+      "source_trace": "NCERT Class 10 Contemporary India II, Chapter 1, extracted page 12"
+    },
+    {
+      "title": "S F G S F O B R O M S U A P J",
+      "first_seen_page_index": 12,
+      "source_trace": "NCERT Class 10 Contemporary India II, Chapter 1, extracted page 12"
+    },
+    {
+      "title": "Q G A F F O R E S T A T I O N",
+      "first_seen_page_index": 12,
+      "source_trace": "NCERT Class 10 Contemporary India II, Chapter 1, extracted page 12"
+    },
+    {
+      "title": "P N R E C P R S L D M I L N F",
+      "first_seen_page_index": 12,
+      "source_trace": "NCERT Class 10 Contemporary India II, Chapter 1, extracted page 12"
+    },
+    {
+      "title": "S N A T Q X U O V A I O L A L",
+      "first_seen_page_index": 12,
+      "source_trace": "NCERT Class 10 Contemporary India II, Chapter 1, extracted page 12"
+    },
+    {
+      "title": "O D E I D R J U J L D B N B D",
+      "first_seen_page_index": 12,
+      "source_trace": "NCERT Class 10 Contemporary India II, Chapter 1, extracted page 12"
+    },
+    {
+      "title": "T G H M I N E R A L S A X M W",
+      "first_seen_page_index": 12,
+      "source_trace": "NCERT Class 10 Contemporary India II, Chapter 1, extracted page 12"
+    },
+    {
+      "title": "B V J K M E D C R U P F M H R",
+      "first_seen_page_index": 12,
+      "source_trace": "NCERT Class 10 Contemporary India II, Chapter 1, extracted page 12"
+    },
+    {
+      "title": "L A T E R I T E M V A Z T V L",
+      "first_seen_page_index": 12,
+      "source_trace": "NCERT Class 10 Contemporary India II, Chapter 1, extracted page 12"
+    },
+    {
+      "title": "A B Z O E N M F T I S D L R C",
+      "first_seen_page_index": 12,
+      "source_trace": "NCERT Class 10 Contemporary India II, Chapter 1, extracted page 12"
+    },
+    {
+      "title": "C G N N S Z I O P A X T Y J H",
+      "first_seen_page_index": 12,
+      "source_trace": "NCERT Class 10 Contemporary India II, Chapter 1, extracted page 12"
+    },
+    {
+      "title": "K J G K D T D C S L S E G E W",
+      "first_seen_page_index": 12,
+      "source_trace": "NCERT Class 10 Contemporary India II, Chapter 1, extracted page 12"
+    }
+  ],
+  "production_status": "concept_candidates_ready_for_human_decode"
+}

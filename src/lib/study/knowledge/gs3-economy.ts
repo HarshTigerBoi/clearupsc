@@ -9,7 +9,7 @@ export const GS3_ECONOMY_KNOWLEDGE: TopicKnowledge[] = [
     title: 'Indian Economy – Overview',
     subject: 'GS3 – Economic Development',
     analogy:
-      'Think of the Indian economy like a massive joint family running a farm, a shop, and a tech startup all at once. The farm (agriculture) feeds everyone but earns the least; the shop (industry) makes goods; and the startup (services) earns the most money. The head of the family (government) decides how to split earnings, whom to help, and how much to borrow – that is economic policy.',
+      'The Indian economy can be pictured as a large joint family running a farm, a shop, and a tech startup all at once. The farm (agriculture) feeds everyone but earns the least; the shop (industry) makes goods; and the startup (services) earns the most money. The head of the family (government) decides how to split earnings, whom to help, and how much to borrow.',
     easyExplanation: `India is the fifth-largest economy in the world by nominal GDP (about $3.7 trillion, 2023-24) and the third-largest by Purchasing Power Parity. The economy has three sectors: Primary (agriculture & allied – ~15% of GDP but employs ~42% of the workforce), Secondary (industry & manufacturing – ~26% of GDP), and Tertiary (services like IT, banking, telecom – ~59% of GDP). This mismatch between employment share and GDP share is the root of many structural problems like disguised unemployment and low farm incomes.
 
 After independence, India followed a mixed-economy model. The 1991 LPG (Liberalisation, Privatisation, Globalisation) reforms under PM Narasimha Rao and Finance Minister Manmohan Singh opened the economy. The licence-raj was dismantled, tariffs were cut, FDI was liberalised, and PSUs were opened to disinvestment.

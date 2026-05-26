@@ -1,0 +1,158 @@
+{
+  "key": "gs3_economy_class10_development_ch02_sectors_of_the_indian_economy",
+  "title": "Sectors of the Indian Economy",
+  "source": {
+    "book": "NCERT Class 10 Understanding Economic Development",
+    "chapter": 2,
+    "chapter_title": "Sectors of the Indian Economy",
+    "pdf_url": "https://ncert.nic.in/textbook.php?jess2=0-5",
+    "page_range": "pending source extraction"
+  },
+  "resolved_pdf_url": "https://ncert.nic.in/textbook/pdf/jess202.pdf",
+  "sha256": "255acd3c637a2392f9bf6a042123d7447160a75306c5533a7be387069cca8e9f",
+  "extraction": {
+    "raw_text_path": "data/study/textbook-first/raw-text/gs3_economy_class10_development_ch02_sectors_of_the_indian_economy.txt",
+    "extracted_characters": 53062,
+    "page_count": 20,
+    "paragraph_count_estimate": 26,
+    "title_match_score": 1
+  },
+  "concept_candidates": [
+    {
+      "title": "NOTES FOR THE TEACHER",
+      "first_seen_page_index": 1,
+      "source_trace": "NCERT Class 10 Understanding Economic Development, Chapter 2, extracted page 1"
+    },
+    {
+      "title": "CHAPTER 2: SECTORS OF THE INDIAN ECONOMY",
+      "first_seen_page_index": 1,
+      "source_trace": "NCERT Class 10 Understanding Economic Development, Chapter 2, extracted page 1"
+    },
+    {
+      "title": "SECTORS",
+      "first_seen_page_index": 2,
+      "source_trace": "NCERT Class 10 Understanding Economic Development, Chapter 2, extracted page 2"
+    },
+    {
+      "title": "OF THE INDIAN ECONOMY",
+      "first_seen_page_index": 2,
+      "source_trace": "NCERT Class 10 Understanding Economic Development, Chapter 2, extracted page 2"
+    },
+    {
+      "title": "CHAPTER 2",
+      "first_seen_page_index": 2,
+      "source_trace": "NCERT Class 10 Understanding Economic Development, Chapter 2, extracted page 2"
+    },
+    {
+      "title": "SECTORS OF ECONOMIC ACTIVITIES",
+      "first_seen_page_index": 2,
+      "source_trace": "NCERT Class 10 Understanding Economic Development, Chapter 2, extracted page 2"
+    },
+    {
+      "title": "EXAMPLE",
+      "first_seen_page_index": 4,
+      "source_trace": "NCERT Class 10 Understanding Economic Development, Chapter 2, extracted page 4"
+    },
+    {
+      "title": "LET’S WORK THESE OUT",
+      "first_seen_page_index": 4,
+      "source_trace": "NCERT Class 10 Understanding Economic Development, Chapter 2, extracted page 4"
+    },
+    {
+      "title": "WHAT DOES THIS SHOW?",
+      "first_seen_page_index": 4,
+      "source_trace": "NCERT Class 10 Understanding Economic Development, Chapter 2, extracted page 4"
+    },
+    {
+      "title": "TABLE 2.1 EXAMPLES OF ECONOMIC ACTIVITIES",
+      "first_seen_page_index": 4,
+      "source_trace": "NCERT Class 10 Understanding Economic Development, Chapter 2, extracted page 4"
+    },
+    {
+      "title": "COMPARING THE THREE SECTORS",
+      "first_seen_page_index": 5,
+      "source_trace": "NCERT Class 10 Understanding Economic Development, Chapter 2, extracted page 5"
+    },
+    {
+      "title": "...BUT I SHOULD BE PAID THE",
+      "first_seen_page_index": 5,
+      "source_trace": "NCERT Class 10 Understanding Economic Development, Chapter 2, extracted page 5"
+    },
+    {
+      "title": "FULL VALUE OF THE WHEAT",
+      "first_seen_page_index": 5,
+      "source_trace": "NCERT Class 10 Understanding Economic Development, Chapter 2, extracted page 5"
+    },
+    {
+      "title": "THAT I PRODUCE !",
+      "first_seen_page_index": 5,
+      "source_trace": "NCERT Class 10 Understanding Economic Development, Chapter 2, extracted page 5"
+    },
+    {
+      "title": "PRIMARY, SECONDARY AND TERTIARY",
+      "first_seen_page_index": 7,
+      "source_trace": "NCERT Class 10 Understanding Economic Development, Chapter 2, extracted page 7"
+    },
+    {
+      "title": "SECTORS IN INDIA",
+      "first_seen_page_index": 7,
+      "source_trace": "NCERT Class 10 Understanding Economic Development, Chapter 2, extracted page 7"
+    },
+    {
+      "title": "LET’S WORK THESE",
+      "first_seen_page_index": 7,
+      "source_trace": "NCERT Class 10 Understanding Economic Development, Chapter 2, extracted page 7"
+    },
+    {
+      "title": "TABLE 2.2 SHARE OF PRIMARY SECTOR IN",
+      "first_seen_page_index": 10,
+      "source_trace": "NCERT Class 10 Understanding Economic Development, Chapter 2, extracted page 10"
+    },
+    {
+      "title": "GDP AND EMPLOYMENT",
+      "first_seen_page_index": 10,
+      "source_trace": "NCERT Class 10 Understanding Economic Development, Chapter 2, extracted page 10"
+    },
+    {
+      "title": "DIVISION OF SECTORS AS ORGANISED AND",
+      "first_seen_page_index": 13,
+      "source_trace": "NCERT Class 10 Understanding Economic Development, Chapter 2, extracted page 13"
+    },
+    {
+      "title": "UNORGANISED",
+      "first_seen_page_index": 13,
+      "source_trace": "NCERT Class 10 Understanding Economic Development, Chapter 2, extracted page 13"
+    },
+    {
+      "title": "TABLE 2.3 WORKERS IN DIFFERENT SECTORS (IN MILLIONS)",
+      "first_seen_page_index": 14,
+      "source_trace": "NCERT Class 10 Understanding Economic Development, Chapter 2, extracted page 14"
+    },
+    {
+      "title": "LET’S RECALL",
+      "first_seen_page_index": 16,
+      "source_trace": "NCERT Class 10 Understanding Economic Development, Chapter 2, extracted page 16"
+    },
+    {
+      "title": "TABLE 2.4 CLASSIFYING ECONOMIC ACTIVITIES",
+      "first_seen_page_index": 16,
+      "source_trace": "NCERT Class 10 Understanding Economic Development, Chapter 2, extracted page 16"
+    },
+    {
+      "title": "SECTORS IN TERMS OF OWNERSHIP: PUBLIC",
+      "first_seen_page_index": 16,
+      "source_trace": "NCERT Class 10 Understanding Economic Development, Chapter 2, extracted page 16"
+    },
+    {
+      "title": "AND PRIVATE SECTORS",
+      "first_seen_page_index": 16,
+      "source_trace": "NCERT Class 10 Understanding Economic Development, Chapter 2, extracted page 16"
+    },
+    {
+      "title": "SUMMING UP",
+      "first_seen_page_index": 17,
+      "source_trace": "NCERT Class 10 Understanding Economic Development, Chapter 2, extracted page 17"
+    }
+  ],
+  "production_status": "concept_candidates_ready_for_human_decode"
+}

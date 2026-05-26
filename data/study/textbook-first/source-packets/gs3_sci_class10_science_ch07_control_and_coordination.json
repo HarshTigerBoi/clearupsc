@@ -1,0 +1,98 @@
+{
+  "key": "gs3_sci_class10_science_ch07_control_and_coordination",
+  "title": "Control and Coordination",
+  "source": {
+    "book": "NCERT Class 10 Science",
+    "chapter": 7,
+    "chapter_title": "Control and Coordination",
+    "pdf_url": "https://ncert.nic.in/textbook.php?jesc1=0-16",
+    "page_range": "pending source extraction"
+  },
+  "resolved_pdf_url": "https://ncert.nic.in/textbook/pdf/jesc107.pdf",
+  "sha256": "575cb5a50b488a46715e500d4cbeaf3b687bf01f9da7989c928d35f1a3a88ec0",
+  "extraction": {
+    "raw_text_path": "data/study/textbook-first/raw-text/gs3_sci_class10_science_ch07_control_and_coordination.txt",
+    "extracted_characters": 38162,
+    "page_count": 15,
+    "paragraph_count_estimate": 2,
+    "title_match_score": 0
+  },
+  "concept_candidates": [
+    {
+      "title": "7 CHAPTER",
+      "first_seen_page_index": 1,
+      "source_trace": "NCERT Class 10 Science, Chapter 7, extracted page 1"
+    },
+    {
+      "title": "THEMSEL THEMSEL THEMSEL THEMSEL THEMSELVES? VES? VES? VES? VES?",
+      "first_seen_page_index": 1,
+      "source_trace": "NCERT Class 10 Science, Chapter 7, extracted page 1"
+    },
+    {
+      "title": "7.1.1 The Importance of Variation",
+      "first_seen_page_index": 2,
+      "source_trace": "NCERT Class 10 Science, Chapter 7, extracted page 2"
+    },
+    {
+      "title": "Q U E S T I O N S",
+      "first_seen_page_index": 2,
+      "source_trace": "NCERT Class 10 Science, Chapter 7, extracted page 2"
+    },
+    {
+      "title": "ORGANISMS ORGANISMS ORGANISMS ORGANISMS ORGANISMS",
+      "first_seen_page_index": 3,
+      "source_trace": "NCERT Class 10 Science, Chapter 7, extracted page 3"
+    },
+    {
+      "title": "7.2.1 Fission",
+      "first_seen_page_index": 3,
+      "source_trace": "NCERT Class 10 Science, Chapter 7, extracted page 3"
+    },
+    {
+      "title": "7.2.2 Fragmentation",
+      "first_seen_page_index": 4,
+      "source_trace": "NCERT Class 10 Science, Chapter 7, extracted page 4"
+    },
+    {
+      "title": "7.2.3 Regeneration",
+      "first_seen_page_index": 4,
+      "source_trace": "NCERT Class 10 Science, Chapter 7, extracted page 4"
+    },
+    {
+      "title": "7.2.4 Budding",
+      "first_seen_page_index": 5,
+      "source_trace": "NCERT Class 10 Science, Chapter 7, extracted page 5"
+    },
+    {
+      "title": "7.2.5 Vegetative Propagation",
+      "first_seen_page_index": 5,
+      "source_trace": "NCERT Class 10 Science, Chapter 7, extracted page 5"
+    },
+    {
+      "title": "7.2.6 Spore Formation",
+      "first_seen_page_index": 6,
+      "source_trace": "NCERT Class 10 Science, Chapter 7, extracted page 6"
+    },
+    {
+      "title": "7.3.1 Why the Sexual Mode of Reproduction?",
+      "first_seen_page_index": 7,
+      "source_trace": "NCERT Class 10 Science, Chapter 7, extracted page 7"
+    },
+    {
+      "title": "7.3.2 Sexual Reproduction in Flowering Plants",
+      "first_seen_page_index": 8,
+      "source_trace": "NCERT Class 10 Science, Chapter 7, extracted page 8"
+    },
+    {
+      "title": "7.3.3 Reproduction in Human Beings",
+      "first_seen_page_index": 9,
+      "source_trace": "NCERT Class 10 Science, Chapter 7, extracted page 9"
+    },
+    {
+      "title": "E X E R C I S E S",
+      "first_seen_page_index": 15,
+      "source_trace": "NCERT Class 10 Science, Chapter 7, extracted page 15"
+    }
+  ],
+  "production_status": "concept_candidates_ready_for_human_decode"
+}

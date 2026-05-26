@@ -1,0 +1,98 @@
+{
+  "key": "gs3_sci_class7_science_ch07_weather_climate_and_adaptations_of_animals_to_climate",
+  "title": "Weather Climate and Adaptations of Animals to Climate",
+  "source": {
+    "book": "NCERT Class 7 Science",
+    "chapter": 7,
+    "chapter_title": "Weather Climate and Adaptations of Animals to Climate",
+    "pdf_url": "https://ncert.nic.in/textbook.php?gesc1=0-18",
+    "page_range": "pending source extraction"
+  },
+  "resolved_pdf_url": "https://ncert.nic.in/textbook/pdf/gesc107.pdf",
+  "sha256": "ed5bcc5fab33e629dfd8246e053dec4617e6b26748dfa8f7d78a5c2f5b2dacd7",
+  "extraction": {
+    "raw_text_path": "data/study/textbook-first/raw-text/gs3_sci_class7_science_ch07_weather_climate_and_adaptations_of_animals_to_climate.txt",
+    "extracted_characters": 20515,
+    "page_count": 12,
+    "paragraph_count_estimate": 0,
+    "title_match_score": 0.2
+  },
+  "concept_candidates": [
+    {
+      "title": "7.1 CIRCULATORY S YSTEM",
+      "first_seen_page_index": 1,
+      "source_trace": "NCERT Class 7 Science, Chapter 7, extracted page 1"
+    },
+    {
+      "title": "TRANSPORTATION IN ANIMALS AND PLANTS 71",
+      "first_seen_page_index": 2,
+      "source_trace": "NCERT Class 7 Science, Chapter 7, extracted page 2"
+    },
+    {
+      "title": "SCIENCE 72",
+      "first_seen_page_index": 3,
+      "source_trace": "NCERT Class 7 Science, Chapter 7, extracted page 3"
+    },
+    {
+      "title": "TRANSPORTATION IN ANIMALS AND PLANTS 73",
+      "first_seen_page_index": 4,
+      "source_trace": "NCERT Class 7 Science, Chapter 7, extracted page 4"
+    },
+    {
+      "title": "SCIENCE 74",
+      "first_seen_page_index": 5,
+      "source_trace": "NCERT Class 7 Science, Chapter 7, extracted page 5"
+    },
+    {
+      "title": "TRANSPORTATION IN ANIMALS AND PLANTS 75",
+      "first_seen_page_index": 6,
+      "source_trace": "NCERT Class 7 Science, Chapter 7, extracted page 6"
+    },
+    {
+      "title": "7.2 E XCRETION IN ANIMALS",
+      "first_seen_page_index": 6,
+      "source_trace": "NCERT Class 7 Science, Chapter 7, extracted page 6"
+    },
+    {
+      "title": "SCIENCE 76",
+      "first_seen_page_index": 7,
+      "source_trace": "NCERT Class 7 Science, Chapter 7, extracted page 7"
+    },
+    {
+      "title": "TRANSPORTATION IN ANIMALS AND PLANTS 77",
+      "first_seen_page_index": 8,
+      "source_trace": "NCERT Class 7 Science, Chapter 7, extracted page 8"
+    },
+    {
+      "title": "7.3 T RANSPORT OF SUBSTANCES IN",
+      "first_seen_page_index": 8,
+      "source_trace": "NCERT Class 7 Science, Chapter 7, extracted page 8"
+    },
+    {
+      "title": "P LANTS",
+      "first_seen_page_index": 8,
+      "source_trace": "NCERT Class 7 Science, Chapter 7, extracted page 8"
+    },
+    {
+      "title": "SCIENCE 78",
+      "first_seen_page_index": 9,
+      "source_trace": "NCERT Class 7 Science, Chapter 7, extracted page 9"
+    },
+    {
+      "title": "TRANSPORTATION IN ANIMALS AND PLANTS 79",
+      "first_seen_page_index": 10,
+      "source_trace": "NCERT Class 7 Science, Chapter 7, extracted page 10"
+    },
+    {
+      "title": "SCIENCE 80",
+      "first_seen_page_index": 11,
+      "source_trace": "NCERT Class 7 Science, Chapter 7, extracted page 11"
+    },
+    {
+      "title": "TRANSPORTATION IN ANIMALS AND PLANTS 81",
+      "first_seen_page_index": 12,
+      "source_trace": "NCERT Class 7 Science, Chapter 7, extracted page 12"
+    }
+  ],
+  "production_status": "concept_candidates_ready_for_human_decode"
+}

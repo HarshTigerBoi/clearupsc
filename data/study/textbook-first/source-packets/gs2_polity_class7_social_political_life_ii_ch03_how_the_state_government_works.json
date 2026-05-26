@@ -1,0 +1,68 @@
+{
+  "key": "gs2_polity_class7_social_political_life_ii_ch03_how_the_state_government_works",
+  "title": "How the State Government Works",
+  "source": {
+    "book": "NCERT Class 7 Social and Political Life II",
+    "chapter": 3,
+    "chapter_title": "How the State Government Works",
+    "pdf_url": "https://ncert.nic.in/textbook.php?gess3=0-9",
+    "page_range": "pending source extraction"
+  },
+  "resolved_pdf_url": "https://ncert.nic.in/textbook/pdf/gess303.pdf",
+  "sha256": "365d04b5f3c0f25e8ed6dcf4bbc8b1be18e4a0dfa787225dc7d046b9d50bd5cf",
+  "extraction": {
+    "raw_text_path": "data/study/textbook-first/raw-text/gs2_polity_class7_social_political_life_ii_ch03_how_the_state_government_works.txt",
+    "extracted_characters": 21720,
+    "page_count": 14,
+    "paragraph_count_estimate": 0,
+    "title_match_score": 1
+  },
+  "concept_candidates": [
+    {
+      "title": "24 Social and Political Life",
+      "first_seen_page_index": 1,
+      "source_trace": "NCERT Class 7 Social and Political Life II, Chapter 3, extracted page 1"
+    },
+    {
+      "title": "3CHAPTER WHOSE RESPONSIBILITY?",
+      "first_seen_page_index": 1,
+      "source_trace": "NCERT Class 7 Social and Political Life II, Chapter 3, extracted page 1"
+    },
+    {
+      "title": "STOP!",
+      "first_seen_page_index": 2,
+      "source_trace": "NCERT Class 7 Social and Political Life II, Chapter 3, extracted page 2"
+    },
+    {
+      "title": "25 Chapter 3: How the State Government Works",
+      "first_seen_page_index": 2,
+      "source_trace": "NCERT Class 7 Social and Political Life II, Chapter 3, extracted page 2"
+    },
+    {
+      "title": "26 Social and Political Life",
+      "first_seen_page_index": 3,
+      "source_trace": "NCERT Class 7 Social and Political Life II, Chapter 3, extracted page 3"
+    },
+    {
+      "title": "28 Social and Political Life",
+      "first_seen_page_index": 5,
+      "source_trace": "NCERT Class 7 Social and Political Life II, Chapter 3, extracted page 5"
+    },
+    {
+      "title": "30 Social and Political Life",
+      "first_seen_page_index": 7,
+      "source_trace": "NCERT Class 7 Social and Political Life II, Chapter 3, extracted page 7"
+    },
+    {
+      "title": "34 Social and Political Life",
+      "first_seen_page_index": 11,
+      "source_trace": "NCERT Class 7 Social and Political Life II, Chapter 3, extracted page 11"
+    },
+    {
+      "title": "THREE",
+      "first_seen_page_index": 13,
+      "source_trace": "NCERT Class 7 Social and Political Life II, Chapter 3, extracted page 13"
+    }
+  ],
+  "production_status": "concept_candidates_ready_for_human_decode"
+}

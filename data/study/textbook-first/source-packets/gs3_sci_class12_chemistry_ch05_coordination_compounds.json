@@ -1,0 +1,223 @@
+{
+  "key": "gs3_sci_class12_chemistry_ch05_coordination_compounds",
+  "title": "Coordination Compounds",
+  "source": {
+    "book": "NCERT Class 12 Chemistry",
+    "chapter": 5,
+    "chapter_title": "Coordination Compounds",
+    "pdf_url": "https://ncert.nic.in/textbook.php?lech1=0-10",
+    "page_range": "pending source extraction"
+  },
+  "resolved_pdf_url": "https://ncert.nic.in/textbook/pdf/lech105.pdf",
+  "sha256": "9cca0d995461bb4ba9e02dd4c40b9c3ba40fccfdc132f4a8a0959a82cea209b3",
+  "extraction": {
+    "raw_text_path": "data/study/textbook-first/raw-text/gs3_sci_class12_chemistry_ch05_coordination_compounds.txt",
+    "extracted_characters": 58723,
+    "page_count": 23,
+    "paragraph_count_estimate": 0,
+    "title_match_score": 1
+  },
+  "concept_candidates": [
+    {
+      "title": "118 Chemistry",
+      "first_seen_page_index": 1,
+      "source_trace": "NCERT Class 12 Chemistry, Chapter 5, extracted page 1"
+    },
+    {
+      "title": "119 Coordination Compounds",
+      "first_seen_page_index": 2,
+      "source_trace": "NCERT Class 12 Chemistry, Chapter 5, extracted page 2"
+    },
+    {
+      "title": "120 Chemistry",
+      "first_seen_page_index": 3,
+      "source_trace": "NCERT Class 12 Chemistry, Chapter 5, extracted page 3"
+    },
+    {
+      "title": "121 Coordination Compounds",
+      "first_seen_page_index": 4,
+      "source_trace": "NCERT Class 12 Chemistry, Chapter 5, extracted page 4"
+    },
+    {
+      "title": "122 Chemistry",
+      "first_seen_page_index": 5,
+      "source_trace": "NCERT Class 12 Chemistry, Chapter 5, extracted page 5"
+    },
+    {
+      "title": "123 Coordination Compounds",
+      "first_seen_page_index": 6,
+      "source_trace": "NCERT Class 12 Chemistry, Chapter 5, extracted page 6"
+    },
+    {
+      "title": "4 Co SCN ",
+      "first_seen_page_index": 6,
+      "source_trace": "NCERT Class 12 Chemistry, Chapter 5, extracted page 6"
+    },
+    {
+      "title": "5.3.2 Naming of",
+      "first_seen_page_index": 6,
+      "source_trace": "NCERT Class 12 Chemistry, Chapter 5, extracted page 6"
+    },
+    {
+      "title": "5.3.1 Formulas of",
+      "first_seen_page_index": 6,
+      "source_trace": "NCERT Class 12 Chemistry, Chapter 5, extracted page 6"
+    },
+    {
+      "title": "124 Chemistry",
+      "first_seen_page_index": 7,
+      "source_trace": "NCERT Class 12 Chemistry, Chapter 5, extracted page 7"
+    },
+    {
+      "title": "(a) [Co(NH3)4(H2O)Cl]Cl2 (b) K2[Zn(OH)4] (c) K3[Al(C2O4)3]",
+      "first_seen_page_index": 7,
+      "source_trace": "NCERT Class 12 Chemistry, Chapter 5, extracted page 7"
+    },
+    {
+      "title": "125 Coordination Compounds",
+      "first_seen_page_index": 8,
+      "source_trace": "NCERT Class 12 Chemistry, Chapter 5, extracted page 8"
+    },
+    {
+      "title": "5.1 Write the formulas for the following coordination compounds:",
+      "first_seen_page_index": 8,
+      "source_trace": "NCERT Class 12 Chemistry, Chapter 5, extracted page 8"
+    },
+    {
+      "title": "5.2 Write the IUPAC names of the following coordination compounds:",
+      "first_seen_page_index": 8,
+      "source_trace": "NCERT Class 12 Chemistry, Chapter 5, extracted page 8"
+    },
+    {
+      "title": "5.4.1 Geometric Isomerism",
+      "first_seen_page_index": 8,
+      "source_trace": "NCERT Class 12 Chemistry, Chapter 5, extracted page 8"
+    },
+    {
+      "title": "Cl N H3",
+      "first_seen_page_index": 8,
+      "source_trace": "NCERT Class 12 Chemistry, Chapter 5, extracted page 8"
+    },
+    {
+      "title": "N H3 N H3",
+      "first_seen_page_index": 8,
+      "source_trace": "NCERT Class 12 Chemistry, Chapter 5, extracted page 8"
+    },
+    {
+      "title": "126 Chemistry",
+      "first_seen_page_index": 9,
+      "source_trace": "NCERT Class 12 Chemistry, Chapter 5, extracted page 9"
+    },
+    {
+      "title": "L – L [e.g., NH2 CH2 CH2 NH2 (en)]",
+      "first_seen_page_index": 9,
+      "source_trace": "NCERT Class 12 Chemistry, Chapter 5, extracted page 9"
+    },
+    {
+      "title": "[MX2(L – L)2] (Fig. 5.4).",
+      "first_seen_page_index": 9,
+      "source_trace": "NCERT Class 12 Chemistry, Chapter 5, extracted page 9"
+    },
+    {
+      "title": "5.4.2 Optical Isomerism",
+      "first_seen_page_index": 9,
+      "source_trace": "NCERT Class 12 Chemistry, Chapter 5, extracted page 9"
+    },
+    {
+      "title": "[Co(NH3 )3(NO2 )3]",
+      "first_seen_page_index": 9,
+      "source_trace": "NCERT Class 12 Chemistry, Chapter 5, extracted page 9"
+    },
+    {
+      "title": "127 Coordination Compounds",
+      "first_seen_page_index": 10,
+      "source_trace": "NCERT Class 12 Chemistry, Chapter 5, extracted page 10"
+    },
+    {
+      "title": "5.4.3 Linkage",
+      "first_seen_page_index": 10,
+      "source_trace": "NCERT Class 12 Chemistry, Chapter 5, extracted page 10"
+    },
+    {
+      "title": "5.4.4 Coordination",
+      "first_seen_page_index": 10,
+      "source_trace": "NCERT Class 12 Chemistry, Chapter 5, extracted page 10"
+    },
+    {
+      "title": "5.4.5 Ionisation",
+      "first_seen_page_index": 10,
+      "source_trace": "NCERT Class 12 Chemistry, Chapter 5, extracted page 10"
+    },
+    {
+      "title": "128 Chemistry",
+      "first_seen_page_index": 11,
+      "source_trace": "NCERT Class 12 Chemistry, Chapter 5, extracted page 11"
+    },
+    {
+      "title": "5.4.6 Solvate",
+      "first_seen_page_index": 11,
+      "source_trace": "NCERT Class 12 Chemistry, Chapter 5, extracted page 11"
+    },
+    {
+      "title": "5.5.1 Valence",
+      "first_seen_page_index": 11,
+      "source_trace": "NCERT Class 12 Chemistry, Chapter 5, extracted page 11"
+    },
+    {
+      "title": "5.3 Indicate the types of isomerism exhibited by the following complexes and",
+      "first_seen_page_index": 11,
+      "source_trace": "NCERT Class 12 Chemistry, Chapter 5, extracted page 11"
+    },
+    {
+      "title": "5.4 Give evidence that [Co(NH3)5Cl]SO4 and [Co(NH3)5(SO4)]Cl are ionisation",
+      "first_seen_page_index": 11,
+      "source_trace": "NCERT Class 12 Chemistry, Chapter 5, extracted page 11"
+    },
+    {
+      "title": "129 Coordination Compounds",
+      "first_seen_page_index": 12,
+      "source_trace": "NCERT Class 12 Chemistry, Chapter 5, extracted page 12"
+    },
+    {
+      "title": "130 Chemistry",
+      "first_seen_page_index": 13,
+      "source_trace": "NCERT Class 12 Chemistry, Chapter 5, extracted page 13"
+    },
+    {
+      "title": "[Ni(CN) ]",
+      "first_seen_page_index": 13,
+      "source_trace": "NCERT Class 12 Chemistry, Chapter 5, extracted page 13"
+    },
+    {
+      "title": "5.5.2 Magnetic",
+      "first_seen_page_index": 13,
+      "source_trace": "NCERT Class 12 Chemistry, Chapter 5, extracted page 13"
+    },
+    {
+      "title": "131 Coordination Compounds",
+      "first_seen_page_index": 14,
+      "source_trace": "NCERT Class 12 Chemistry, Chapter 5, extracted page 14"
+    },
+    {
+      "title": "5.5.3 Limitations",
+      "first_seen_page_index": 14,
+      "source_trace": "NCERT Class 12 Chemistry, Chapter 5, extracted page 14"
+    },
+    {
+      "title": "5.5.4 Crystal",
+      "first_seen_page_index": 14,
+      "source_trace": "NCERT Class 12 Chemistry, Chapter 5, extracted page 14"
+    },
+    {
+      "title": "132 Chemistry",
+      "first_seen_page_index": 15,
+      "source_trace": "NCERT Class 12 Chemistry, Chapter 5, extracted page 15"
+    },
+    {
+      "title": "I– < Br– < SCN – < Cl– < S2– < F – < OH– < C2O4",
+      "first_seen_page_index": 15,
+      "source_trace": "NCERT Class 12 Chemistry, Chapter 5, extracted page 15"
+    }
+  ],
+  "production_status": "concept_candidates_ready_for_human_decode"
+}

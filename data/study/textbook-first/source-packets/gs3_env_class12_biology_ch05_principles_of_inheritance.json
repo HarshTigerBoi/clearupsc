@@ -1,0 +1,223 @@
+{
+  "key": "gs3_env_class12_biology_ch05_principles_of_inheritance",
+  "title": "Principles of Inheritance",
+  "source": {
+    "book": "NCERT Class 12 Biology",
+    "chapter": 5,
+    "chapter_title": "Principles of Inheritance",
+    "pdf_url": "https://ncert.nic.in/textbook.php?lebo1=0-16",
+    "page_range": "pending source extraction"
+  },
+  "resolved_pdf_url": "https://ncert.nic.in/textbook/pdf/lebo105.pdf",
+  "sha256": "21d77cdaf37c11b26956bbdae0b9eff9700d723135ac55c1a2141b1caee8f017",
+  "extraction": {
+    "raw_text_path": "data/study/textbook-first/raw-text/gs3_env_class12_biology_ch05_principles_of_inheritance.txt",
+    "extracted_characters": 66359,
+    "page_count": 31,
+    "paragraph_count_estimate": 0,
+    "title_match_score": 0.5
+  },
+  "concept_candidates": [
+    {
+      "title": "CHAPTER 5",
+      "first_seen_page_index": 1,
+      "source_trace": "NCERT Class 12 Biology, Chapter 5, extracted page 1"
+    },
+    {
+      "title": "MOLECULAR BASIS OF",
+      "first_seen_page_index": 1,
+      "source_trace": "NCERT Class 12 Biology, Chapter 5, extracted page 1"
+    },
+    {
+      "title": "INHERITANCE",
+      "first_seen_page_index": 1,
+      "source_trace": "NCERT Class 12 Biology, Chapter 5, extracted page 1"
+    },
+    {
+      "title": "5.1 The DNA",
+      "first_seen_page_index": 1,
+      "source_trace": "NCERT Class 12 Biology, Chapter 5, extracted page 1"
+    },
+    {
+      "title": "5.2 The Search for Genetic",
+      "first_seen_page_index": 1,
+      "source_trace": "NCERT Class 12 Biology, Chapter 5, extracted page 1"
+    },
+    {
+      "title": "5.3 RNA World",
+      "first_seen_page_index": 1,
+      "source_trace": "NCERT Class 12 Biology, Chapter 5, extracted page 1"
+    },
+    {
+      "title": "5.4 Replication",
+      "first_seen_page_index": 1,
+      "source_trace": "NCERT Class 12 Biology, Chapter 5, extracted page 1"
+    },
+    {
+      "title": "5.5 Transcription",
+      "first_seen_page_index": 1,
+      "source_trace": "NCERT Class 12 Biology, Chapter 5, extracted page 1"
+    },
+    {
+      "title": "5.6 Genetic Code",
+      "first_seen_page_index": 1,
+      "source_trace": "NCERT Class 12 Biology, Chapter 5, extracted page 1"
+    },
+    {
+      "title": "5.7 Translation",
+      "first_seen_page_index": 1,
+      "source_trace": "NCERT Class 12 Biology, Chapter 5, extracted page 1"
+    },
+    {
+      "title": "5.8 Regulation of Gene",
+      "first_seen_page_index": 1,
+      "source_trace": "NCERT Class 12 Biology, Chapter 5, extracted page 1"
+    },
+    {
+      "title": "5.9 Human Genome Project",
+      "first_seen_page_index": 1,
+      "source_trace": "NCERT Class 12 Biology, Chapter 5, extracted page 1"
+    },
+    {
+      "title": "5.10 DNA Fingerprinting",
+      "first_seen_page_index": 1,
+      "source_trace": "NCERT Class 12 Biology, Chapter 5, extracted page 1"
+    },
+    {
+      "title": "BIOLOGY",
+      "first_seen_page_index": 2,
+      "source_trace": "NCERT Class 12 Biology, Chapter 5, extracted page 2"
+    },
+    {
+      "title": "5.1.1 Structure of Polynucleotide Chain",
+      "first_seen_page_index": 2,
+      "source_trace": "NCERT Class 12 Biology, Chapter 5, extracted page 2"
+    },
+    {
+      "title": "MOLECULAR BASIS OF INHERITANCE",
+      "first_seen_page_index": 3,
+      "source_trace": "NCERT Class 12 Biology, Chapter 5, extracted page 3"
+    },
+    {
+      "title": "5.1.2 Packaging of DNA Helix",
+      "first_seen_page_index": 5,
+      "source_trace": "NCERT Class 12 Biology, Chapter 5, extracted page 5"
+    },
+    {
+      "title": "5.2 THE SEARCH FOR GENETIC MATERIAL",
+      "first_seen_page_index": 6,
+      "source_trace": "NCERT Class 12 Biology, Chapter 5, extracted page 6"
+    },
+    {
+      "title": "5.2.1 The Genetic Material is DNA",
+      "first_seen_page_index": 7,
+      "source_trace": "NCERT Class 12 Biology, Chapter 5, extracted page 7"
+    },
+    {
+      "title": "5.2.2 Properties of Genetic Material (DNA versus RNA)",
+      "first_seen_page_index": 8,
+      "source_trace": "NCERT Class 12 Biology, Chapter 5, extracted page 8"
+    },
+    {
+      "title": "5.4.1 The Experimental Proof",
+      "first_seen_page_index": 10,
+      "source_trace": "NCERT Class 12 Biology, Chapter 5, extracted page 10"
+    },
+    {
+      "title": "5.4.2 The Machinery and the Enzymes",
+      "first_seen_page_index": 12,
+      "source_trace": "NCERT Class 12 Biology, Chapter 5, extracted page 12"
+    },
+    {
+      "title": "5.5.1 Transcription Unit",
+      "first_seen_page_index": 13,
+      "source_trace": "NCERT Class 12 Biology, Chapter 5, extracted page 13"
+    },
+    {
+      "title": "3' -ATGCATGCATGCATGCATGCATGC-5' Template Strand",
+      "first_seen_page_index": 14,
+      "source_trace": "NCERT Class 12 Biology, Chapter 5, extracted page 14"
+    },
+    {
+      "title": "5' -TACGTACGTACGTACGTACGTACG-3' Coding Strand",
+      "first_seen_page_index": 14,
+      "source_trace": "NCERT Class 12 Biology, Chapter 5, extracted page 14"
+    },
+    {
+      "title": "5.5.2 Transcription Unit and the Gene",
+      "first_seen_page_index": 14,
+      "source_trace": "NCERT Class 12 Biology, Chapter 5, extracted page 14"
+    },
+    {
+      "title": "5.5.3 Types of RNA and the process of Transcription",
+      "first_seen_page_index": 15,
+      "source_trace": "NCERT Class 12 Biology, Chapter 5, extracted page 15"
+    },
+    {
+      "title": "-AUG UUU UUC UUC UUU UUU UUC-",
+      "first_seen_page_index": 18,
+      "source_trace": "NCERT Class 12 Biology, Chapter 5, extracted page 18"
+    },
+    {
+      "title": "5.6.1 Mutations and Genetic Code",
+      "first_seen_page_index": 19,
+      "source_trace": "NCERT Class 12 Biology, Chapter 5, extracted page 19"
+    },
+    {
+      "title": "RAM HAS RED CAP",
+      "first_seen_page_index": 19,
+      "source_trace": "NCERT Class 12 Biology, Chapter 5, extracted page 19"
+    },
+    {
+      "title": "RAM HAS BRE DCA P",
+      "first_seen_page_index": 19,
+      "source_trace": "NCERT Class 12 Biology, Chapter 5, extracted page 19"
+    },
+    {
+      "title": "RAM HAS BIR EDC AP",
+      "first_seen_page_index": 19,
+      "source_trace": "NCERT Class 12 Biology, Chapter 5, extracted page 19"
+    },
+    {
+      "title": "RAM HAS BIG RED CAP",
+      "first_seen_page_index": 19,
+      "source_trace": "NCERT Class 12 Biology, Chapter 5, extracted page 19"
+    },
+    {
+      "title": "RAM HAS EDC AP",
+      "first_seen_page_index": 19,
+      "source_trace": "NCERT Class 12 Biology, Chapter 5, extracted page 19"
+    },
+    {
+      "title": "RAM HAS DCA P",
+      "first_seen_page_index": 19,
+      "source_trace": "NCERT Class 12 Biology, Chapter 5, extracted page 19"
+    },
+    {
+      "title": "RAM HAS CAP",
+      "first_seen_page_index": 19,
+      "source_trace": "NCERT Class 12 Biology, Chapter 5, extracted page 19"
+    },
+    {
+      "title": "5.8 REGULATION OF GENE EXPRESSION",
+      "first_seen_page_index": 21,
+      "source_trace": "NCERT Class 12 Biology, Chapter 5, extracted page 21"
+    },
+    {
+      "title": "5.8.1 The Lac operon",
+      "first_seen_page_index": 22,
+      "source_trace": "NCERT Class 12 Biology, Chapter 5, extracted page 22"
+    },
+    {
+      "title": "5.9.1 Salient Features of Human Genome",
+      "first_seen_page_index": 26,
+      "source_trace": "NCERT Class 12 Biology, Chapter 5, extracted page 26"
+    },
+    {
+      "title": "5.9.2 Applications and Future Challenges",
+      "first_seen_page_index": 26,
+      "source_trace": "NCERT Class 12 Biology, Chapter 5, extracted page 26"
+    }
+  ],
+  "production_status": "concept_candidates_ready_for_human_decode"
+}

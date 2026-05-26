@@ -1,0 +1,93 @@
+{
+  "key": "gs1_geo_class7_our_environment_ch03_our_changing_earth",
+  "title": "Our Changing Earth",
+  "source": {
+    "book": "NCERT Class 7 Our Environment",
+    "chapter": 3,
+    "chapter_title": "Our Changing Earth",
+    "pdf_url": "https://ncert.nic.in/textbook.php?gess2=0-9",
+    "page_range": "pending source extraction"
+  },
+  "resolved_pdf_url": "https://ncert.nic.in/textbook/pdf/gess203.pdf",
+  "sha256": "111954b0e6e55afb23118663cfeca257b0da1ec9e46cc1a4dfb4c631de4f094a",
+  "extraction": {
+    "raw_text_path": "data/study/textbook-first/raw-text/gs1_geo_class7_our_environment_ch03_our_changing_earth.txt",
+    "extracted_characters": 12282,
+    "page_count": 8,
+    "paragraph_count_estimate": 0,
+    "title_match_score": 1
+  },
+  "concept_candidates": [
+    {
+      "title": "3 Our Changing Earth",
+      "first_seen_page_index": 1,
+      "source_trace": "NCERT Class 7 Our Environment, Chapter 3, extracted page 1"
+    },
+    {
+      "title": "13 OUR CHANGING EARTH",
+      "first_seen_page_index": 2,
+      "source_trace": "NCERT Class 7 Our Environment, Chapter 3, extracted page 2"
+    },
+    {
+      "title": "14 OUR ENVIRONMENT",
+      "first_seen_page_index": 3,
+      "source_trace": "NCERT Class 7 Our Environment, Chapter 3, extracted page 3"
+    },
+    {
+      "title": "EARTHQUAKE PREPAREDNESS",
+      "first_seen_page_index": 3,
+      "source_trace": "NCERT Class 7 Our Environment, Chapter 3, extracted page 3"
+    },
+    {
+      "title": "EARTHQUAKE HITS BHUJ",
+      "first_seen_page_index": 3,
+      "source_trace": "NCERT Class 7 Our Environment, Chapter 3, extracted page 3"
+    },
+    {
+      "title": "CM’S APPEAL TO THE CENTRE",
+      "first_seen_page_index": 3,
+      "source_trace": "NCERT Class 7 Our Environment, Chapter 3, extracted page 3"
+    },
+    {
+      "title": "BHUJ RELIEF EFFORT",
+      "first_seen_page_index": 3,
+      "source_trace": "NCERT Class 7 Our Environment, Chapter 3, extracted page 3"
+    },
+    {
+      "title": "BLIGHTED..",
+      "first_seen_page_index": 3,
+      "source_trace": "NCERT Class 7 Our Environment, Chapter 3, extracted page 3"
+    },
+    {
+      "title": "15 OUR CHANGING EARTH",
+      "first_seen_page_index": 4,
+      "source_trace": "NCERT Class 7 Our Environment, Chapter 3, extracted page 4"
+    },
+    {
+      "title": "Do you know? MAJOR LAND FORMS",
+      "first_seen_page_index": 4,
+      "source_trace": "NCERT Class 7 Our Environment, Chapter 3, extracted page 4"
+    },
+    {
+      "title": "16 OUR ENVIRONMENT",
+      "first_seen_page_index": 5,
+      "source_trace": "NCERT Class 7 Our Environment, Chapter 3, extracted page 5"
+    },
+    {
+      "title": "17 OUR CHANGING EARTH",
+      "first_seen_page_index": 6,
+      "source_trace": "NCERT Class 7 Our Environment, Chapter 3, extracted page 6"
+    },
+    {
+      "title": "18 OUR ENVIRONMENT",
+      "first_seen_page_index": 7,
+      "source_trace": "NCERT Class 7 Our Environment, Chapter 3, extracted page 7"
+    },
+    {
+      "title": "19 OUR CHANGING EARTH",
+      "first_seen_page_index": 8,
+      "source_trace": "NCERT Class 7 Our Environment, Chapter 3, extracted page 8"
+    }
+  ],
+  "production_status": "concept_candidates_ready_for_human_decode"
+}

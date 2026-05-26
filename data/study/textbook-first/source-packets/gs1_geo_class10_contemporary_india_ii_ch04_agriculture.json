@@ -1,0 +1,183 @@
+{
+  "key": "gs1_geo_class10_contemporary_india_ii_ch04_agriculture",
+  "title": "Agriculture",
+  "source": {
+    "book": "NCERT Class 10 Contemporary India II",
+    "chapter": 4,
+    "chapter_title": "Agriculture",
+    "pdf_url": "https://ncert.nic.in/textbook.php?jess3=0-7",
+    "page_range": "pending source extraction"
+  },
+  "resolved_pdf_url": "https://ncert.nic.in/textbook/pdf/jess104.pdf",
+  "sha256": "328d620f83b76fd62948aff6a48a7f0dc271e3538ff45efd5e1aa7a9ce3c29cd",
+  "extraction": {
+    "raw_text_path": "data/study/textbook-first/raw-text/gs1_geo_class10_contemporary_india_ii_ch04_agriculture.txt",
+    "extracted_characters": 24483,
+    "page_count": 12,
+    "paragraph_count_estimate": 2,
+    "title_match_score": 1
+  },
+  "concept_candidates": [
+    {
+      "title": "TYPES OF FARMING",
+      "first_seen_page_index": 1,
+      "source_trace": "NCERT Class 10 Contemporary India II, Chapter 4, extracted page 1"
+    },
+    {
+      "title": "31 AGRICULTURE",
+      "first_seen_page_index": 2,
+      "source_trace": "NCERT Class 10 Contemporary India II, Chapter 4, extracted page 2"
+    },
+    {
+      "title": "32 CONTEMPORARY INDIA – II",
+      "first_seen_page_index": 3,
+      "source_trace": "NCERT Class 10 Contemporary India II, Chapter 4, extracted page 3"
+    },
+    {
+      "title": "CROPPING PATTERN",
+      "first_seen_page_index": 3,
+      "source_trace": "NCERT Class 10 Contemporary India II, Chapter 4, extracted page 3"
+    },
+    {
+      "title": "33 AGRICULTURE",
+      "first_seen_page_index": 4,
+      "source_trace": "NCERT Class 10 Contemporary India II, Chapter 4, extracted page 4"
+    },
+    {
+      "title": "34 CONTEMPORARY INDIA – II",
+      "first_seen_page_index": 5,
+      "source_trace": "NCERT Class 10 Contemporary India II, Chapter 4, extracted page 5"
+    },
+    {
+      "title": "35 AGRICULTURE",
+      "first_seen_page_index": 6,
+      "source_trace": "NCERT Class 10 Contemporary India II, Chapter 4, extracted page 6"
+    },
+    {
+      "title": "36 CONTEMPORARY INDIA – II",
+      "first_seen_page_index": 7,
+      "source_trace": "NCERT Class 10 Contemporary India II, Chapter 4, extracted page 7"
+    },
+    {
+      "title": "37 AGRICULTURE",
+      "first_seen_page_index": 8,
+      "source_trace": "NCERT Class 10 Contemporary India II, Chapter 4, extracted page 8"
+    },
+    {
+      "title": "FFFFFig. 4.13:",
+      "first_seen_page_index": 8,
+      "source_trace": "NCERT Class 10 Contemporary India II, Chapter 4, extracted page 8"
+    },
+    {
+      "title": "38 CONTEMPORARY INDIA – II",
+      "first_seen_page_index": 9,
+      "source_trace": "NCERT Class 10 Contemporary India II, Chapter 4, extracted page 9"
+    },
+    {
+      "title": "39 AGRICULTURE",
+      "first_seen_page_index": 10,
+      "source_trace": "NCERT Class 10 Contemporary India II, Chapter 4, extracted page 10"
+    },
+    {
+      "title": "40 CONTEMPORARY INDIA – II",
+      "first_seen_page_index": 11,
+      "source_trace": "NCERT Class 10 Contemporary India II, Chapter 4, extracted page 11"
+    },
+    {
+      "title": "PROJECT WORK",
+      "first_seen_page_index": 11,
+      "source_trace": "NCERT Class 10 Contemporary India II, Chapter 4, extracted page 11"
+    },
+    {
+      "title": "41 AGRICULTURE",
+      "first_seen_page_index": 12,
+      "source_trace": "NCERT Class 10 Contemporary India II, Chapter 4, extracted page 12"
+    },
+    {
+      "title": "ACTIVITY",
+      "first_seen_page_index": 12,
+      "source_trace": "NCERT Class 10 Contemporary India II, Chapter 4, extracted page 12"
+    },
+    {
+      "title": "A Z M X N C B V N X A H D Q",
+      "first_seen_page_index": 12,
+      "source_trace": "NCERT Class 10 Contemporary India II, Chapter 4, extracted page 12"
+    },
+    {
+      "title": "S D E W S R J D Q J Z V R E",
+      "first_seen_page_index": 12,
+      "source_trace": "NCERT Class 10 Contemporary India II, Chapter 4, extracted page 12"
+    },
+    {
+      "title": "D K H A R I F G W F M R F W",
+      "first_seen_page_index": 12,
+      "source_trace": "NCERT Class 10 Contemporary India II, Chapter 4, extracted page 12"
+    },
+    {
+      "title": "F N L R G C H H R S B S V T",
+      "first_seen_page_index": 12,
+      "source_trace": "NCERT Class 10 Contemporary India II, Chapter 4, extracted page 12"
+    },
+    {
+      "title": "G B C W H E A T Y A C H B R",
+      "first_seen_page_index": 12,
+      "source_trace": "NCERT Class 10 Contemporary India II, Chapter 4, extracted page 12"
+    },
+    {
+      "title": "H R T K A S S E P H X A N W",
+      "first_seen_page_index": 12,
+      "source_trace": "NCERT Class 10 Contemporary India II, Chapter 4, extracted page 12"
+    },
+    {
+      "title": "J I E S J O W A R J Z H D T",
+      "first_seen_page_index": 12,
+      "source_trace": "NCERT Class 10 Contemporary India II, Chapter 4, extracted page 12"
+    },
+    {
+      "title": "K C L A E G A C O F F E E Y",
+      "first_seen_page_index": 12,
+      "source_trace": "NCERT Class 10 Contemporary India II, Chapter 4, extracted page 12"
+    },
+    {
+      "title": "L T E F Y M T A T S S R G I",
+      "first_seen_page_index": 12,
+      "source_trace": "NCERT Class 10 Contemporary India II, Chapter 4, extracted page 12"
+    },
+    {
+      "title": "P D E J O U Y V E J G F A U",
+      "first_seen_page_index": 12,
+      "source_trace": "NCERT Class 10 Contemporary India II, Chapter 4, extracted page 12"
+    },
+    {
+      "title": "O U M H Q S U D I T S W S P",
+      "first_seen_page_index": 12,
+      "source_trace": "NCERT Class 10 Contemporary India II, Chapter 4, extracted page 12"
+    },
+    {
+      "title": "U O A C O T T O N E A H F O",
+      "first_seen_page_index": 12,
+      "source_trace": "NCERT Class 10 Contemporary India II, Chapter 4, extracted page 12"
+    },
+    {
+      "title": "Y O L F L U S R Q Q D T W I",
+      "first_seen_page_index": 12,
+      "source_trace": "NCERT Class 10 Contemporary India II, Chapter 4, extracted page 12"
+    },
+    {
+      "title": "T M U A H R G Y K T R A B F",
+      "first_seen_page_index": 12,
+      "source_trace": "NCERT Class 10 Contemporary India II, Chapter 4, extracted page 12"
+    },
+    {
+      "title": "E A K D G D Q H S U O I W H",
+      "first_seen_page_index": 12,
+      "source_trace": "NCERT Class 10 Contemporary India II, Chapter 4, extracted page 12"
+    },
+    {
+      "title": "W Q Z C X V B N M K J A S L",
+      "first_seen_page_index": 12,
+      "source_trace": "NCERT Class 10 Contemporary India II, Chapter 4, extracted page 12"
+    }
+  ],
+  "production_status": "concept_candidates_ready_for_human_decode"
+}

@@ -1,0 +1,68 @@
+{
+  "key": "gs3_sci_class10_science_ch06_life_processes",
+  "title": "Life Processes",
+  "source": {
+    "book": "NCERT Class 10 Science",
+    "chapter": 6,
+    "chapter_title": "Life Processes",
+    "pdf_url": "https://ncert.nic.in/textbook.php?jesc1=0-16",
+    "page_range": "pending source extraction"
+  },
+  "resolved_pdf_url": "https://ncert.nic.in/textbook/pdf/jesc106.pdf",
+  "sha256": "bf4ddfa158e117a71a32b2f19c8fcd87140ef325e8672faad5d4a599d36ea913",
+  "extraction": {
+    "raw_text_path": "data/study/textbook-first/raw-text/gs3_sci_class10_science_ch06_life_processes.txt",
+    "extracted_characters": 30831,
+    "page_count": 13,
+    "paragraph_count_estimate": 2,
+    "title_match_score": 1
+  },
+  "concept_candidates": [
+    {
+      "title": "6 CHAPTER",
+      "first_seen_page_index": 1,
+      "source_trace": "NCERT Class 10 Science, Chapter 6, extracted page 1"
+    },
+    {
+      "title": "6.1.1 What happens in Reflex Actions?",
+      "first_seen_page_index": 3,
+      "source_trace": "NCERT Class 10 Science, Chapter 6, extracted page 3"
+    },
+    {
+      "title": "6.1.2 Human Brain",
+      "first_seen_page_index": 4,
+      "source_trace": "NCERT Class 10 Science, Chapter 6, extracted page 4"
+    },
+    {
+      "title": "6.1.3 How are these Tissues protected?",
+      "first_seen_page_index": 6,
+      "source_trace": "NCERT Class 10 Science, Chapter 6, extracted page 6"
+    },
+    {
+      "title": "6.1.4 How does the Nervous Tissue cause Action?",
+      "first_seen_page_index": 6,
+      "source_trace": "NCERT Class 10 Science, Chapter 6, extracted page 6"
+    },
+    {
+      "title": "Q U E S T I O N S",
+      "first_seen_page_index": 6,
+      "source_trace": "NCERT Class 10 Science, Chapter 6, extracted page 6"
+    },
+    {
+      "title": "6.2.1 Immediate Response to Stimulus",
+      "first_seen_page_index": 7,
+      "source_trace": "NCERT Class 10 Science, Chapter 6, extracted page 7"
+    },
+    {
+      "title": "6.2.2 Movement Due to Growth",
+      "first_seen_page_index": 7,
+      "source_trace": "NCERT Class 10 Science, Chapter 6, extracted page 7"
+    },
+    {
+      "title": "E X E R C I S E S",
+      "first_seen_page_index": 13,
+      "source_trace": "NCERT Class 10 Science, Chapter 6, extracted page 13"
+    }
+  ],
+  "production_status": "concept_candidates_ready_for_human_decode"
+}

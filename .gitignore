@@ -25,6 +25,11 @@
 *.pem
 *.zip
 
+# textbook-first source caches
+/data/study/textbook-first/raw-pdfs/
+/data/study/textbook-first/raw-text/
+/data/study/textbook-first/raw-meta/
+
 # debug
 npm-debug.log*
 yarn-debug.log*

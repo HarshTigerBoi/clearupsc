@@ -1,0 +1,33 @@
+{
+  "key": "gs2_ir_class12_world_politics_ch05_south_asia",
+  "title": "South Asia",
+  "source": {
+    "book": "NCERT Class 12 Contemporary World Politics",
+    "chapter": 5,
+    "chapter_title": "South Asia",
+    "pdf_url": "https://ncert.nic.in/textbook.php?leps1=0-9",
+    "page_range": "pending source extraction"
+  },
+  "resolved_pdf_url": "https://ncert.nic.in/textbook/pdf/leps105.pdf",
+  "sha256": "845442e1694cb5c9c0d3829ca1de2749282fdecb58782686429143b567dea40e",
+  "extraction": {
+    "raw_text_path": "data/study/textbook-first/raw-text/gs2_ir_class12_world_politics_ch05_south_asia.txt",
+    "extracted_characters": 39201,
+    "page_count": 18,
+    "paragraph_count_estimate": 0,
+    "title_match_score": 0
+  },
+  "concept_candidates": [
+    {
+      "title": "1994 UNDP’s Human Development Report, which contends,",
+      "first_seen_page_index": 1,
+      "source_trace": "NCERT Class 12 Contemporary World Politics, Chapter 5, extracted page 1"
+    },
+    {
+      "title": "STEPS",
+      "first_seen_page_index": 16,
+      "source_trace": "NCERT Class 12 Contemporary World Politics, Chapter 5, extracted page 16"
+    }
+  ],
+  "production_status": "concept_candidates_ready_for_human_decode"
+}

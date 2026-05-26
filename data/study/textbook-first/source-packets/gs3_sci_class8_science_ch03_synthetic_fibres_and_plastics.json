@@ -1,0 +1,133 @@
+{
+  "key": "gs3_sci_class8_science_ch03_synthetic_fibres_and_plastics",
+  "title": "Synthetic Fibres and Plastics",
+  "source": {
+    "book": "NCERT Class 8 Science",
+    "chapter": 3,
+    "chapter_title": "Synthetic Fibres and Plastics",
+    "pdf_url": "https://ncert.nic.in/textbook.php?hesc1=0-18",
+    "page_range": "pending source extraction"
+  },
+  "resolved_pdf_url": "https://ncert.nic.in/textbook/pdf/hesc103.pdf",
+  "sha256": "0b2ed5cca40343287a51dfc177aeb0bb0a0c5732f852970a8752ee6a8ca8f134",
+  "extraction": {
+    "raw_text_path": "data/study/textbook-first/raw-text/gs3_sci_class8_science_ch03_synthetic_fibres_and_plastics.txt",
+    "extracted_characters": 12576,
+    "page_count": 8,
+    "paragraph_count_estimate": 0,
+    "title_match_score": 0
+  },
+  "concept_candidates": [
+    {
+      "title": "COAL AND PETROLEUM COAL AND PETROLEUM",
+      "first_seen_page_index": 1,
+      "source_trace": "NCERT Class 8 Science, Chapter 3, extracted page 1"
+    },
+    {
+      "title": "3.1 Coal",
+      "first_seen_page_index": 2,
+      "source_trace": "NCERT Class 8 Science, Chapter 3, extracted page 2"
+    },
+    {
+      "title": "COAL AND PETROLEUM 33",
+      "first_seen_page_index": 2,
+      "source_trace": "NCERT Class 8 Science, Chapter 3, extracted page 2"
+    },
+    {
+      "title": "SCIENCE 34",
+      "first_seen_page_index": 3,
+      "source_trace": "NCERT Class 8 Science, Chapter 3, extracted page 3"
+    },
+    {
+      "title": "COAL AND PETROLEUM 35",
+      "first_seen_page_index": 4,
+      "source_trace": "NCERT Class 8 Science, Chapter 3, extracted page 4"
+    },
+    {
+      "title": "3.2 Petroleum",
+      "first_seen_page_index": 4,
+      "source_trace": "NCERT Class 8 Science, Chapter 3, extracted page 4"
+    },
+    {
+      "title": "SCIENCE 36",
+      "first_seen_page_index": 5,
+      "source_trace": "NCERT Class 8 Science, Chapter 3, extracted page 5"
+    },
+    {
+      "title": "3.3 Natural Gas",
+      "first_seen_page_index": 5,
+      "source_trace": "NCERT Class 8 Science, Chapter 3, extracted page 5"
+    },
+    {
+      "title": "COAL AND PETROLEUM 37",
+      "first_seen_page_index": 6,
+      "source_trace": "NCERT Class 8 Science, Chapter 3, extracted page 6"
+    },
+    {
+      "title": "3.4 Some Natural Resources",
+      "first_seen_page_index": 6,
+      "source_trace": "NCERT Class 8 Science, Chapter 3, extracted page 6"
+    },
+    {
+      "title": "SCIENCE 38",
+      "first_seen_page_index": 7,
+      "source_trace": "NCERT Class 8 Science, Chapter 3, extracted page 7"
+    },
+    {
+      "title": "KEYWORDS KEYWORDS KEYWORDS KEYWORDS KEYWORDS",
+      "first_seen_page_index": 7,
+      "source_trace": "NCERT Class 8 Science, Chapter 3, extracted page 7"
+    },
+    {
+      "title": "COAL",
+      "first_seen_page_index": 7,
+      "source_trace": "NCERT Class 8 Science, Chapter 3, extracted page 7"
+    },
+    {
+      "title": "COAL GAS",
+      "first_seen_page_index": 7,
+      "source_trace": "NCERT Class 8 Science, Chapter 3, extracted page 7"
+    },
+    {
+      "title": "COAL TAR",
+      "first_seen_page_index": 7,
+      "source_trace": "NCERT Class 8 Science, Chapter 3, extracted page 7"
+    },
+    {
+      "title": "COKE",
+      "first_seen_page_index": 7,
+      "source_trace": "NCERT Class 8 Science, Chapter 3, extracted page 7"
+    },
+    {
+      "title": "FOSSIL FUEL",
+      "first_seen_page_index": 7,
+      "source_trace": "NCERT Class 8 Science, Chapter 3, extracted page 7"
+    },
+    {
+      "title": "NATURAL GAS",
+      "first_seen_page_index": 7,
+      "source_trace": "NCERT Class 8 Science, Chapter 3, extracted page 7"
+    },
+    {
+      "title": "PETROLEUM",
+      "first_seen_page_index": 7,
+      "source_trace": "NCERT Class 8 Science, Chapter 3, extracted page 7"
+    },
+    {
+      "title": "REFINERY",
+      "first_seen_page_index": 7,
+      "source_trace": "NCERT Class 8 Science, Chapter 3, extracted page 7"
+    },
+    {
+      "title": "COAL AND PETROLEUM 39",
+      "first_seen_page_index": 8,
+      "source_trace": "NCERT Class 8 Science, Chapter 3, extracted page 8"
+    },
+    {
+      "title": "E X E R C I S E S",
+      "first_seen_page_index": 8,
+      "source_trace": "NCERT Class 8 Science, Chapter 3, extracted page 8"
+    }
+  ],
+  "production_status": "concept_candidates_ready_for_human_decode"
+}

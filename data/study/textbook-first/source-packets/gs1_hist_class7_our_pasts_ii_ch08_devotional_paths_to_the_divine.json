@@ -1,0 +1,63 @@
+{
+  "key": "gs1_hist_class7_our_pasts_ii_ch08_devotional_paths_to_the_divine",
+  "title": "Devotional Paths to the Divine",
+  "source": {
+    "book": "NCERT Class 7 Our Pasts II",
+    "chapter": 8,
+    "chapter_title": "Devotional Paths to the Divine",
+    "pdf_url": "https://ncert.nic.in/textbook.php?gess1=0-10",
+    "page_range": "pending source extraction"
+  },
+  "resolved_pdf_url": "https://ncert.nic.in/textbook/pdf/gess108.pdf",
+  "sha256": "3017faaf3e2ae55cea67e98d1a95200e7196c9f8e85accd7a2e9d10871605a3c",
+  "extraction": {
+    "raw_text_path": "data/study/textbook-first/raw-text/gs1_hist_class7_our_pasts_ii_ch08_devotional_paths_to_the_divine.txt",
+    "extracted_characters": 18268,
+    "page_count": 13,
+    "paragraph_count_estimate": 0,
+    "title_match_score": 0
+  },
+  "concept_candidates": [
+    {
+      "title": "8 EIGHTEENTH-CENTURY",
+      "first_seen_page_index": 1,
+      "source_trace": "NCERT Class 7 Our Pasts II, Chapter 8, extracted page 1"
+    },
+    {
+      "title": "POLITICAL FORMATIONS",
+      "first_seen_page_index": 1,
+      "source_trace": "NCERT Class 7 Our Pasts II, Chapter 8, extracted page 1"
+    },
+    {
+      "title": "95EIGHTEENTH-CENTURY",
+      "first_seen_page_index": 2,
+      "source_trace": "NCERT Class 7 Our Pasts II, Chapter 8, extracted page 2"
+    },
+    {
+      "title": "97EIGHTEENTH-CENTURY",
+      "first_seen_page_index": 4,
+      "source_trace": "NCERT Class 7 Our Pasts II, Chapter 8, extracted page 4"
+    },
+    {
+      "title": "99EIGHTEENTH-CENTURY",
+      "first_seen_page_index": 6,
+      "source_trace": "NCERT Class 7 Our Pasts II, Chapter 8, extracted page 6"
+    },
+    {
+      "title": "101EIGHTEENTH -CENTURY",
+      "first_seen_page_index": 8,
+      "source_trace": "NCERT Class 7 Our Pasts II, Chapter 8, extracted page 8"
+    },
+    {
+      "title": "POLITICAL F ORMATIONS",
+      "first_seen_page_index": 8,
+      "source_trace": "NCERT Class 7 Our Pasts II, Chapter 8, extracted page 8"
+    },
+    {
+      "title": "103EIGHTEENTH -CENTURY",
+      "first_seen_page_index": 10,
+      "source_trace": "NCERT Class 7 Our Pasts II, Chapter 8, extracted page 10"
+    }
+  ],
+  "production_status": "concept_candidates_ready_for_human_decode"
+}

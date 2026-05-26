@@ -1,0 +1,223 @@
+{
+  "key": "gs3_sci_class12_physics_ch03_current_electricity",
+  "title": "Current Electricity",
+  "source": {
+    "book": "NCERT Class 12 Physics",
+    "chapter": 3,
+    "chapter_title": "Current Electricity",
+    "pdf_url": "https://ncert.nic.in/textbook.php?leph1=0-14",
+    "page_range": "pending source extraction"
+  },
+  "resolved_pdf_url": "https://ncert.nic.in/textbook/pdf/leph103.pdf",
+  "sha256": "a00ff04c376523c1e368ee80ef8338b615afceade4f5b293d5bb5849bb3cd894",
+  "extraction": {
+    "raw_text_path": "data/study/textbook-first/raw-text/gs3_sci_class12_physics_ch03_current_electricity.txt",
+    "extracted_characters": 57104,
+    "page_count": 26,
+    "paragraph_count_estimate": 1,
+    "title_match_score": 1
+  },
+  "concept_candidates": [
+    {
+      "title": "3.1 INTRODUCTION",
+      "first_seen_page_index": 1,
+      "source_trace": "NCERT Class 12 Physics, Chapter 3, extracted page 1"
+    },
+    {
+      "title": "3.2 ELECTRIC CURRENT",
+      "first_seen_page_index": 1,
+      "source_trace": "NCERT Class 12 Physics, Chapter 3, extracted page 1"
+    },
+    {
+      "title": "CURRENT",
+      "first_seen_page_index": 1,
+      "source_trace": "NCERT Class 12 Physics, Chapter 3, extracted page 1"
+    },
+    {
+      "title": "ELECTRICITY",
+      "first_seen_page_index": 1,
+      "source_trace": "NCERT Class 12 Physics, Chapter 3, extracted page 1"
+    },
+    {
+      "title": "3.3 ELECTRIC CURRENTS IN CONDUCTORS",
+      "first_seen_page_index": 2,
+      "source_trace": "NCERT Class 12 Physics, Chapter 3, extracted page 2"
+    },
+    {
+      "title": "3.4 OHM’S LAW",
+      "first_seen_page_index": 3,
+      "source_trace": "NCERT Class 12 Physics, Chapter 3, extracted page 3"
+    },
+    {
+      "title": "FIGURE 3.2",
+      "first_seen_page_index": 3,
+      "source_trace": "NCERT Class 12 Physics, Chapter 3, extracted page 3"
+    },
+    {
+      "title": "V I R A",
+      "first_seen_page_index": 4,
+      "source_trace": "NCERT Class 12 Physics, Chapter 3, extracted page 4"
+    },
+    {
+      "title": "GEORG SIMON OHM (1787–1854)",
+      "first_seen_page_index": 4,
+      "source_trace": "NCERT Class 12 Physics, Chapter 3, extracted page 4"
+    },
+    {
+      "title": "3.5 DRIFT OF ELECTRONS AND THE ORIGIN",
+      "first_seen_page_index": 5,
+      "source_trace": "NCERT Class 12 Physics, Chapter 3, extracted page 5"
+    },
+    {
+      "title": "OF RESISTIVITY",
+      "first_seen_page_index": 5,
+      "source_trace": "NCERT Class 12 Physics, Chapter 3, extracted page 5"
+    },
+    {
+      "title": "EXAMPLE",
+      "first_seen_page_index": 7,
+      "source_trace": "NCERT Class 12 Physics, Chapter 3, extracted page 7"
+    },
+    {
+      "title": "3.5.1 Mobility",
+      "first_seen_page_index": 8,
+      "source_trace": "NCERT Class 12 Physics, Chapter 3, extracted page 8"
+    },
+    {
+      "title": "3.6 LIMITATIONS OF OHM’S LAW",
+      "first_seen_page_index": 9,
+      "source_trace": "NCERT Class 12 Physics, Chapter 3, extracted page 9"
+    },
+    {
+      "title": "3.7 RESISTIVITY OF VARIOUS MATERIALS",
+      "first_seen_page_index": 9,
+      "source_trace": "NCERT Class 12 Physics, Chapter 3, extracted page 9"
+    },
+    {
+      "title": "3.8 TEMPERATURE DEPENDENCE OF RESISTIVITY",
+      "first_seen_page_index": 10,
+      "source_trace": "NCERT Class 12 Physics, Chapter 3, extracted page 10"
+    },
+    {
+      "title": "FIGURE 3.8",
+      "first_seen_page_index": 10,
+      "source_trace": "NCERT Class 12 Physics, Chapter 3, extracted page 10"
+    },
+    {
+      "title": "FIGURE 3.10",
+      "first_seen_page_index": 10,
+      "source_trace": "NCERT Class 12 Physics, Chapter 3, extracted page 10"
+    },
+    {
+      "title": "5.23 W. When the thermometer is inserted in a hot bath, the resistance",
+      "first_seen_page_index": 12,
+      "source_trace": "NCERT Class 12 Physics, Chapter 3, extracted page 12"
+    },
+    {
+      "title": "3.9 ELECTRICAL ENERGY, POWER",
+      "first_seen_page_index": 12,
+      "source_trace": "NCERT Class 12 Physics, Chapter 3, extracted page 12"
+    },
+    {
+      "title": "= DQ[(V (B) – V (A)] = –DQ V",
+      "first_seen_page_index": 12,
+      "source_trace": "NCERT Class 12 Physics, Chapter 3, extracted page 12"
+    },
+    {
+      "title": "= –I VDt < 0 (3.28)",
+      "first_seen_page_index": 12,
+      "source_trace": "NCERT Class 12 Physics, Chapter 3, extracted page 12"
+    },
+    {
+      "title": "DK = I VDt > 0 (3.30)",
+      "first_seen_page_index": 12,
+      "source_trace": "NCERT Class 12 Physics, Chapter 3, extracted page 12"
+    },
+    {
+      "title": "DW = I VDt (3.31)",
+      "first_seen_page_index": 12,
+      "source_trace": "NCERT Class 12 Physics, Chapter 3, extracted page 12"
+    },
+    {
+      "title": "P = I 2 R = V 2/R (3.33)",
+      "first_seen_page_index": 13,
+      "source_trace": "NCERT Class 12 Physics, Chapter 3, extracted page 13"
+    },
+    {
+      "title": "3.10 CELLS, EMF, INTERNAL RESISTANCE",
+      "first_seen_page_index": 13,
+      "source_trace": "NCERT Class 12 Physics, Chapter 3, extracted page 13"
+    },
+    {
+      "title": "V = V++ V– – I r",
+      "first_seen_page_index": 14,
+      "source_trace": "NCERT Class 12 Physics, Chapter 3, extracted page 14"
+    },
+    {
+      "title": "FIGURE FIGURE FIGURE FIGURE FIGURE 3.13 3.13 3.13 3.13 3.13 Two cells of emf’s",
+      "first_seen_page_index": 15,
+      "source_trace": "NCERT Class 12 Physics, Chapter 3, extracted page 15"
+    },
+    {
+      "title": "V V V I r AB A B ≡ = ( ) ( )",
+      "first_seen_page_index": 15,
+      "source_trace": "NCERT Class 12 Physics, Chapter 3, extracted page 15"
+    },
+    {
+      "title": "V V V I r BC B C ≡ = ( ) ( )",
+      "first_seen_page_index": 15,
+      "source_trace": "NCERT Class 12 Physics, Chapter 3, extracted page 15"
+    },
+    {
+      "title": "( ) ( ) ( ) ( ) AC (A ) – (C) A – B B – C V V V V V V V ≡ = +",
+      "first_seen_page_index": 15,
+      "source_trace": "NCERT Class 12 Physics, Chapter 3, extracted page 15"
+    },
+    {
+      "title": "( ) ( ) 1 2 1 1 1 – – V V B V B I r",
+      "first_seen_page_index": 16,
+      "source_trace": "NCERT Class 12 Physics, Chapter 3, extracted page 16"
+    },
+    {
+      "title": "( ) ( ) 1 2 2 2 2 – – V V B V B I r",
+      "first_seen_page_index": 16,
+      "source_trace": "NCERT Class 12 Physics, Chapter 3, extracted page 16"
+    },
+    {
+      "title": "3.12 KIRCHHOFF’S RULES",
+      "first_seen_page_index": 17,
+      "source_trace": "NCERT Class 12 Physics, Chapter 3, extracted page 17"
+    },
+    {
+      "title": "GUSTAV ROBERT KIRCHHOFF (1824 –",
+      "first_seen_page_index": 17,
+      "source_trace": "NCERT Class 12 Physics, Chapter 3, extracted page 17"
+    },
+    {
+      "title": "41 I3 + 45 = 0 and –30I1 + 21 I2 – 80 = 0.",
+      "first_seen_page_index": 18,
+      "source_trace": "NCERT Class 12 Physics, Chapter 3, extracted page 18"
+    },
+    {
+      "title": "FIGURE 3.16",
+      "first_seen_page_index": 18,
+      "source_trace": "NCERT Class 12 Physics, Chapter 3, extracted page 18"
+    },
+    {
+      "title": "–IR – (1/2)IR – IR +",
+      "first_seen_page_index": 19,
+      "source_trace": "NCERT Class 12 Physics, Chapter 3, extracted page 19"
+    },
+    {
+      "title": "3I = 10 V/(5/6) W = 12 A, i.e., I = 4 A",
+      "first_seen_page_index": 19,
+      "source_trace": "NCERT Class 12 Physics, Chapter 3, extracted page 19"
+    },
+    {
+      "title": "FIGURE 3.17",
+      "first_seen_page_index": 19,
+      "source_trace": "NCERT Class 12 Physics, Chapter 3, extracted page 19"
+    }
+  ],
+  "production_status": "concept_candidates_ready_for_human_decode"
+}

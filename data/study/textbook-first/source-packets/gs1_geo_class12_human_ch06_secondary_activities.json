@@ -1,0 +1,28 @@
+{
+  "key": "gs1_geo_class12_human_ch06_secondary_activities",
+  "title": "Secondary Activities",
+  "source": {
+    "book": "NCERT Class 12 Fundamentals of Human Geography",
+    "chapter": 6,
+    "chapter_title": "Secondary Activities",
+    "pdf_url": "https://ncert.nic.in/textbook.php?legy1=0-9",
+    "page_range": "pending source extraction"
+  },
+  "resolved_pdf_url": "https://ncert.nic.in/textbook/pdf/legy106.pdf",
+  "sha256": "92c7e1e1537366cb22ea009e5c7810a24b92bdb8b27560a018dac52c35702a19",
+  "extraction": {
+    "raw_text_path": "data/study/textbook-first/raw-text/gs1_geo_class12_human_ch06_secondary_activities.txt",
+    "extracted_characters": 23129,
+    "page_count": 9,
+    "paragraph_count_estimate": 1,
+    "title_match_score": 1
+  },
+  "concept_candidates": [
+    {
+      "title": "TYPES OF TERTIARY ACTIVITIES",
+      "first_seen_page_index": 1,
+      "source_trace": "NCERT Class 12 Fundamentals of Human Geography, Chapter 6, extracted page 1"
+    }
+  ],
+  "production_status": "concept_candidates_ready_for_human_decode"
+}

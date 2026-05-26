@@ -1,0 +1,213 @@
+{
+  "key": "gs3_sci_class12_physics_ch08_electromagnetic_waves",
+  "title": "Electromagnetic Waves",
+  "source": {
+    "book": "NCERT Class 12 Physics",
+    "chapter": 8,
+    "chapter_title": "Electromagnetic Waves",
+    "pdf_url": "https://ncert.nic.in/textbook.php?leph1=0-14",
+    "page_range": "pending source extraction"
+  },
+  "resolved_pdf_url": "https://ncert.nic.in/textbook/pdf/leph108.pdf",
+  "sha256": "3aa3a0d342659b5ce090a76d3406d5a74eed7653f2e2ba3479f83b6008b7aea8",
+  "extraction": {
+    "raw_text_path": "data/study/textbook-first/raw-text/gs3_sci_class12_physics_ch08_electromagnetic_waves.txt",
+    "extracted_characters": 34851,
+    "page_count": 14,
+    "paragraph_count_estimate": 0,
+    "title_match_score": 1
+  },
+  "concept_candidates": [
+    {
+      "title": "ELECTROMAGNETIC",
+      "first_seen_page_index": 1,
+      "source_trace": "NCERT Class 12 Physics, Chapter 8, extracted page 1"
+    },
+    {
+      "title": "WAVES",
+      "first_seen_page_index": 1,
+      "source_trace": "NCERT Class 12 Physics, Chapter 8, extracted page 1"
+    },
+    {
+      "title": "8.1 INTRODUCTION",
+      "first_seen_page_index": 1,
+      "source_trace": "NCERT Class 12 Physics, Chapter 8, extracted page 1"
+    },
+    {
+      "title": "8.2 DISPLACEMENT CURRENT",
+      "first_seen_page_index": 2,
+      "source_trace": "NCERT Class 12 Physics, Chapter 8, extracted page 2"
+    },
+    {
+      "title": "JAMES CLERK MAXWELL (1831–1879)",
+      "first_seen_page_index": 2,
+      "source_trace": "NCERT Class 12 Physics, Chapter 8, extracted page 2"
+    },
+    {
+      "title": "FIGURE 8.1 A",
+      "first_seen_page_index": 3,
+      "source_trace": "NCERT Class 12 Physics, Chapter 8, extracted page 3"
+    },
+    {
+      "title": "FIGURE 8.2 (a) The",
+      "first_seen_page_index": 4,
+      "source_trace": "NCERT Class 12 Physics, Chapter 8, extracted page 4"
+    },
+    {
+      "title": "MAXWELL’S EQUATIONS IN VACUUM",
+      "first_seen_page_index": 5,
+      "source_trace": "NCERT Class 12 Physics, Chapter 8, extracted page 5"
+    },
+    {
+      "title": "8.3 ELECTROMAGNETIC WAVES",
+      "first_seen_page_index": 5,
+      "source_trace": "NCERT Class 12 Physics, Chapter 8, extracted page 5"
+    },
+    {
+      "title": "8.3.1 Sources of electromagnetic waves",
+      "first_seen_page_index": 5,
+      "source_trace": "NCERT Class 12 Physics, Chapter 8, extracted page 5"
+    },
+    {
+      "title": "1011 Hz. This is why the experimental demonstration of electromagnetic",
+      "first_seen_page_index": 5,
+      "source_trace": "NCERT Class 12 Physics, Chapter 8, extracted page 5"
+    },
+    {
+      "title": "8.3.2 Nature of electromagnetic waves",
+      "first_seen_page_index": 6,
+      "source_trace": "NCERT Class 12 Physics, Chapter 8, extracted page 6"
+    },
+    {
+      "title": "EXAMPLE",
+      "first_seen_page_index": 6,
+      "source_trace": "NCERT Class 12 Physics, Chapter 8, extracted page 6"
+    },
+    {
+      "title": "HEINRICH RUDOLF HERTZ (1857–1894)",
+      "first_seen_page_index": 6,
+      "source_trace": "NCERT Class 12 Physics, Chapter 8, extracted page 6"
+    },
+    {
+      "title": "25 MHz travels in free space along the x-direction. At a particular",
+      "first_seen_page_index": 8,
+      "source_trace": "NCERT Class 12 Physics, Chapter 8, extracted page 8"
+    },
+    {
+      "title": "8.4 ELECTROMAGNETIC SPECTRUM",
+      "first_seen_page_index": 8,
+      "source_trace": "NCERT Class 12 Physics, Chapter 8, extracted page 8"
+    },
+    {
+      "title": "8.4.1 Radio waves",
+      "first_seen_page_index": 9,
+      "source_trace": "NCERT Class 12 Physics, Chapter 8, extracted page 9"
+    },
+    {
+      "title": "8.4.2 Microwaves",
+      "first_seen_page_index": 9,
+      "source_trace": "NCERT Class 12 Physics, Chapter 8, extracted page 9"
+    },
+    {
+      "title": "8.4.3 Infrared waves",
+      "first_seen_page_index": 10,
+      "source_trace": "NCERT Class 12 Physics, Chapter 8, extracted page 10"
+    },
+    {
+      "title": "8.4.4 Visible rays",
+      "first_seen_page_index": 10,
+      "source_trace": "NCERT Class 12 Physics, Chapter 8, extracted page 10"
+    },
+    {
+      "title": "8.4.5 Ultraviolet rays",
+      "first_seen_page_index": 10,
+      "source_trace": "NCERT Class 12 Physics, Chapter 8, extracted page 10"
+    },
+    {
+      "title": "8.4.6 X-rays",
+      "first_seen_page_index": 11,
+      "source_trace": "NCERT Class 12 Physics, Chapter 8, extracted page 11"
+    },
+    {
+      "title": "8.4.7 Gamma rays",
+      "first_seen_page_index": 11,
+      "source_trace": "NCERT Class 12 Physics, Chapter 8, extracted page 11"
+    },
+    {
+      "title": "TABLE 8.1 DIFFERENT TYPES OF ELECTROMAGNETIC WAVES",
+      "first_seen_page_index": 11,
+      "source_trace": "NCERT Class 12 Physics, Chapter 8, extracted page 11"
+    },
+    {
+      "title": "SUMMARY",
+      "first_seen_page_index": 12,
+      "source_trace": "NCERT Class 12 Physics, Chapter 8, extracted page 12"
+    },
+    {
+      "title": "POINTS TO PONDER",
+      "first_seen_page_index": 13,
+      "source_trace": "NCERT Class 12 Physics, Chapter 8, extracted page 13"
+    },
+    {
+      "title": "8.1 Figure 8.5 shows a capacitor made of two circular plates each of",
+      "first_seen_page_index": 13,
+      "source_trace": "NCERT Class 12 Physics, Chapter 8, extracted page 13"
+    },
+    {
+      "title": "FIGURE 8.5",
+      "first_seen_page_index": 13,
+      "source_trace": "NCERT Class 12 Physics, Chapter 8, extracted page 13"
+    },
+    {
+      "title": "8.2 A parallel plate capacitor (Fig. 8.6) made of circular plates each of radius",
+      "first_seen_page_index": 13,
+      "source_trace": "NCERT Class 12 Physics, Chapter 8, extracted page 13"
+    },
+    {
+      "title": "FIGURE 8.6",
+      "first_seen_page_index": 14,
+      "source_trace": "NCERT Class 12 Physics, Chapter 8, extracted page 14"
+    },
+    {
+      "title": "8.3 What physical quantity is the same for X-rays of wavelength",
+      "first_seen_page_index": 14,
+      "source_trace": "NCERT Class 12 Physics, Chapter 8, extracted page 14"
+    },
+    {
+      "title": "8.4 A plane electromagnetic wave travels in vacuum along z-direction.",
+      "first_seen_page_index": 14,
+      "source_trace": "NCERT Class 12 Physics, Chapter 8, extracted page 14"
+    },
+    {
+      "title": "8.5 A radio can tune in to any station in the 7.5 MHz to 12 MHz band.",
+      "first_seen_page_index": 14,
+      "source_trace": "NCERT Class 12 Physics, Chapter 8, extracted page 14"
+    },
+    {
+      "title": "8.6 A charged particle oscillates about its mean equilibrium position",
+      "first_seen_page_index": 14,
+      "source_trace": "NCERT Class 12 Physics, Chapter 8, extracted page 14"
+    },
+    {
+      "title": "8.7 The amplitude of the magnetic field part of a harmonic",
+      "first_seen_page_index": 14,
+      "source_trace": "NCERT Class 12 Physics, Chapter 8, extracted page 14"
+    },
+    {
+      "title": "8.8 Suppose that the electric field amplitude of an electromagnetic wave",
+      "first_seen_page_index": 14,
+      "source_trace": "NCERT Class 12 Physics, Chapter 8, extracted page 14"
+    },
+    {
+      "title": "8.9 The terminology of different parts of the electromagnetic spectrum",
+      "first_seen_page_index": 14,
+      "source_trace": "NCERT Class 12 Physics, Chapter 8, extracted page 14"
+    },
+    {
+      "title": "8.10 In a plane electromagnetic wave, the electric field oscillates",
+      "first_seen_page_index": 14,
+      "source_trace": "NCERT Class 12 Physics, Chapter 8, extracted page 14"
+    }
+  ],
+  "production_status": "concept_candidates_ready_for_human_decode"
+}

@@ -1,0 +1,223 @@
+{
+  "key": "gs3_sci_class11_physics_ch01_physical_world",
+  "title": "Physical World",
+  "source": {
+    "book": "NCERT Class 11 Physics",
+    "chapter": 1,
+    "chapter_title": "Physical World",
+    "pdf_url": "https://ncert.nic.in/textbook.php?keph1=0-15",
+    "page_range": "pending source extraction"
+  },
+  "resolved_pdf_url": "https://ncert.nic.in/textbook/pdf/keph101.pdf",
+  "sha256": "04d15c49505f58b1a56e5f984ae66efb80132e852260883dcf6ab7a31ff1150d",
+  "extraction": {
+    "raw_text_path": "data/study/textbook-first/raw-text/gs3_sci_class11_physics_ch01_physical_world.txt",
+    "extracted_characters": 39603,
+    "page_count": 12,
+    "paragraph_count_estimate": 0,
+    "title_match_score": 0.5
+  },
+  "concept_candidates": [
+    {
+      "title": "CHAPTER ONE",
+      "first_seen_page_index": 1,
+      "source_trace": "NCERT Class 11 Physics, Chapter 1, extracted page 1"
+    },
+    {
+      "title": "UNITS AND MEASUREMENT",
+      "first_seen_page_index": 1,
+      "source_trace": "NCERT Class 11 Physics, Chapter 1, extracted page 1"
+    },
+    {
+      "title": "1.1 INTRODUCTION",
+      "first_seen_page_index": 1,
+      "source_trace": "NCERT Class 11 Physics, Chapter 1, extracted page 1"
+    },
+    {
+      "title": "1.2 THE INTERNATIONAL SYSTEM OF UNITS",
+      "first_seen_page_index": 1,
+      "source_trace": "NCERT Class 11 Physics, Chapter 1, extracted page 1"
+    },
+    {
+      "title": "1.2 The international system of",
+      "first_seen_page_index": 1,
+      "source_trace": "NCERT Class 11 Physics, Chapter 1, extracted page 1"
+    },
+    {
+      "title": "1.3 Significant figures",
+      "first_seen_page_index": 1,
+      "source_trace": "NCERT Class 11 Physics, Chapter 1, extracted page 1"
+    },
+    {
+      "title": "1.4 Dimensions of physical",
+      "first_seen_page_index": 1,
+      "source_trace": "NCERT Class 11 Physics, Chapter 1, extracted page 1"
+    },
+    {
+      "title": "1.5 Dimensional formulae and",
+      "first_seen_page_index": 1,
+      "source_trace": "NCERT Class 11 Physics, Chapter 1, extracted page 1"
+    },
+    {
+      "title": "1.6 Dimensional analysis and its",
+      "first_seen_page_index": 1,
+      "source_trace": "NCERT Class 11 Physics, Chapter 1, extracted page 1"
+    },
+    {
+      "title": "PHYSICS 2",
+      "first_seen_page_index": 2,
+      "source_trace": "NCERT Class 11 Physics, Chapter 1, extracted page 2"
+    },
+    {
+      "title": "UNITS AND MEASUREMENT 3",
+      "first_seen_page_index": 3,
+      "source_trace": "NCERT Class 11 Physics, Chapter 1, extracted page 3"
+    },
+    {
+      "title": "PHYSICS 4",
+      "first_seen_page_index": 4,
+      "source_trace": "NCERT Class 11 Physics, Chapter 1, extracted page 4"
+    },
+    {
+      "title": "UNITS AND MEASUREMENT 5",
+      "first_seen_page_index": 5,
+      "source_trace": "NCERT Class 11 Physics, Chapter 1, extracted page 5"
+    },
+    {
+      "title": "1.3.1 Rules for Arithmetic Operations with",
+      "first_seen_page_index": 5,
+      "source_trace": "NCERT Class 11 Physics, Chapter 1, extracted page 5"
+    },
+    {
+      "title": "1.3.2 Rounding off the Uncertain Digits",
+      "first_seen_page_index": 5,
+      "source_trace": "NCERT Class 11 Physics, Chapter 1, extracted page 5"
+    },
+    {
+      "title": "PHYSICS 6",
+      "first_seen_page_index": 6,
+      "source_trace": "NCERT Class 11 Physics, Chapter 1, extracted page 6"
+    },
+    {
+      "title": "1.3.3 Rules for Determining the Uncertainty",
+      "first_seen_page_index": 6,
+      "source_trace": "NCERT Class 11 Physics, Chapter 1, extracted page 6"
+    },
+    {
+      "title": "UNITS AND MEASUREMENT 7",
+      "first_seen_page_index": 7,
+      "source_trace": "NCERT Class 11 Physics, Chapter 1, extracted page 7"
+    },
+    {
+      "title": "1.4 DIMENSIONS OF PHYSICAL QUANTITIES",
+      "first_seen_page_index": 7,
+      "source_trace": "NCERT Class 11 Physics, Chapter 1, extracted page 7"
+    },
+    {
+      "title": "DIMENSIONAL EQUATIONS",
+      "first_seen_page_index": 7,
+      "source_trace": "NCERT Class 11 Physics, Chapter 1, extracted page 7"
+    },
+    {
+      "title": "[V] = [M0 L3 T0]",
+      "first_seen_page_index": 7,
+      "source_trace": "NCERT Class 11 Physics, Chapter 1, extracted page 7"
+    },
+    {
+      "title": "[v] = [M0 L T–1]",
+      "first_seen_page_index": 7,
+      "source_trace": "NCERT Class 11 Physics, Chapter 1, extracted page 7"
+    },
+    {
+      "title": "[F] = [M L T–2]",
+      "first_seen_page_index": 7,
+      "source_trace": "NCERT Class 11 Physics, Chapter 1, extracted page 7"
+    },
+    {
+      "title": "APPLICATIONS",
+      "first_seen_page_index": 7,
+      "source_trace": "NCERT Class 11 Physics, Chapter 1, extracted page 7"
+    },
+    {
+      "title": "PHYSICS 8",
+      "first_seen_page_index": 8,
+      "source_trace": "NCERT Class 11 Physics, Chapter 1, extracted page 8"
+    },
+    {
+      "title": "1.6.1 Checking the Dimensional",
+      "first_seen_page_index": 8,
+      "source_trace": "NCERT Class 11 Physics, Chapter 1, extracted page 8"
+    },
+    {
+      "title": "[M] [L T–1 ]2 = [M] [ L2 T–2]",
+      "first_seen_page_index": 8,
+      "source_trace": "NCERT Class 11 Physics, Chapter 1, extracted page 8"
+    },
+    {
+      "title": "UNITS AND MEASUREMENT 9",
+      "first_seen_page_index": 9,
+      "source_trace": "NCERT Class 11 Physics, Chapter 1, extracted page 9"
+    },
+    {
+      "title": "[M][L T–2] [L] = [M][L2 T–2]",
+      "first_seen_page_index": 9,
+      "source_trace": "NCERT Class 11 Physics, Chapter 1, extracted page 9"
+    },
+    {
+      "title": "1.6.2 Deducing Relation among the",
+      "first_seen_page_index": 9,
+      "source_trace": "NCERT Class 11 Physics, Chapter 1, extracted page 9"
+    },
+    {
+      "title": "[L M T ]=[L ] [L T ] [M ] x y z",
+      "first_seen_page_index": 9,
+      "source_trace": "NCERT Class 11 Physics, Chapter 1, extracted page 9"
+    },
+    {
+      "title": "PHYSICS 10",
+      "first_seen_page_index": 10,
+      "source_trace": "NCERT Class 11 Physics, Chapter 1, extracted page 10"
+    },
+    {
+      "title": "SUMMARY",
+      "first_seen_page_index": 10,
+      "source_trace": "NCERT Class 11 Physics, Chapter 1, extracted page 10"
+    },
+    {
+      "title": "1.1 Fill in the blanks",
+      "first_seen_page_index": 10,
+      "source_trace": "NCERT Class 11 Physics, Chapter 1, extracted page 10"
+    },
+    {
+      "title": "1.2 Fill in the blanks by suitable conversion of units",
+      "first_seen_page_index": 10,
+      "source_trace": "NCERT Class 11 Physics, Chapter 1, extracted page 10"
+    },
+    {
+      "title": "UNITS AND MEASUREMENT 11",
+      "first_seen_page_index": 11,
+      "source_trace": "NCERT Class 11 Physics, Chapter 1, extracted page 11"
+    },
+    {
+      "title": "1.3 A calorie is a unit of heat (energy in transit) and it equals about 4.2 J where 1J =",
+      "first_seen_page_index": 11,
+      "source_trace": "NCERT Class 11 Physics, Chapter 1, extracted page 11"
+    },
+    {
+      "title": "1.4 Explain this statement clearly :",
+      "first_seen_page_index": 11,
+      "source_trace": "NCERT Class 11 Physics, Chapter 1, extracted page 11"
+    },
+    {
+      "title": "1.5 A new unit of length is chosen such that the speed of light in vacuum is unity. What",
+      "first_seen_page_index": 11,
+      "source_trace": "NCERT Class 11 Physics, Chapter 1, extracted page 11"
+    },
+    {
+      "title": "1.6 Which of the following is the most precise device for measuring length :",
+      "first_seen_page_index": 11,
+      "source_trace": "NCERT Class 11 Physics, Chapter 1, extracted page 11"
+    }
+  ],
+  "production_status": "concept_candidates_ready_for_human_decode"
+}

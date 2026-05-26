@@ -1,0 +1,168 @@
+{
+  "key": "gs3_sci_class7_science_ch06_physical_and_chemical_changes",
+  "title": "Physical and Chemical Changes",
+  "source": {
+    "book": "NCERT Class 7 Science",
+    "chapter": 6,
+    "chapter_title": "Physical and Chemical Changes",
+    "pdf_url": "https://ncert.nic.in/textbook.php?gesc1=0-18",
+    "page_range": "pending source extraction"
+  },
+  "resolved_pdf_url": "https://ncert.nic.in/textbook/pdf/gesc106.pdf",
+  "sha256": "6887712f361da5d99f24f4d12ba46d0cb3aea1f193e3162ad8e5ae9e4899b745",
+  "extraction": {
+    "raw_text_path": "data/study/textbook-first/raw-text/gs3_sci_class7_science_ch06_physical_and_chemical_changes.txt",
+    "extracted_characters": 21368,
+    "page_count": 13,
+    "paragraph_count_estimate": 0,
+    "title_match_score": 0
+  },
+  "concept_candidates": [
+    {
+      "title": "6.1 WHY DO WE RESPIRE?",
+      "first_seen_page_index": 1,
+      "source_trace": "NCERT Class 7 Science, Chapter 6, extracted page 1"
+    },
+    {
+      "title": "SCIENCE 58",
+      "first_seen_page_index": 2,
+      "source_trace": "NCERT Class 7 Science, Chapter 6, extracted page 2"
+    },
+    {
+      "title": "6.2 BREATHING",
+      "first_seen_page_index": 2,
+      "source_trace": "NCERT Class 7 Science, Chapter 6, extracted page 2"
+    },
+    {
+      "title": "CAUTION",
+      "first_seen_page_index": 2,
+      "source_trace": "NCERT Class 7 Science, Chapter 6, extracted page 2"
+    },
+    {
+      "title": "RESPIRATION IN ORGANISMS 59",
+      "first_seen_page_index": 3,
+      "source_trace": "NCERT Class 7 Science, Chapter 6, extracted page 3"
+    },
+    {
+      "title": "SCIENCE 60",
+      "first_seen_page_index": 4,
+      "source_trace": "NCERT Class 7 Science, Chapter 6, extracted page 4"
+    },
+    {
+      "title": "6.3 H OW DO WE B REATHE ?",
+      "first_seen_page_index": 4,
+      "source_trace": "NCERT Class 7 Science, Chapter 6, extracted page 4"
+    },
+    {
+      "title": "RESPIRATION IN ORGANISMS 61",
+      "first_seen_page_index": 5,
+      "source_trace": "NCERT Class 7 Science, Chapter 6, extracted page 5"
+    },
+    {
+      "title": "SCIENCE 62",
+      "first_seen_page_index": 6,
+      "source_trace": "NCERT Class 7 Science, Chapter 6, extracted page 6"
+    },
+    {
+      "title": "RESPIRATION IN ORGANISMS 63",
+      "first_seen_page_index": 7,
+      "source_trace": "NCERT Class 7 Science, Chapter 6, extracted page 7"
+    },
+    {
+      "title": "6.4 W HAT DO W E B REATHE OUT ?",
+      "first_seen_page_index": 7,
+      "source_trace": "NCERT Class 7 Science, Chapter 6, extracted page 7"
+    },
+    {
+      "title": "SCIENCE 64",
+      "first_seen_page_index": 8,
+      "source_trace": "NCERT Class 7 Science, Chapter 6, extracted page 8"
+    },
+    {
+      "title": "6.5 B REATHING IN O THER A NIMALS",
+      "first_seen_page_index": 8,
+      "source_trace": "NCERT Class 7 Science, Chapter 6, extracted page 8"
+    },
+    {
+      "title": "RESPIRATION IN ORGANISMS 65",
+      "first_seen_page_index": 9,
+      "source_trace": "NCERT Class 7 Science, Chapter 6, extracted page 9"
+    },
+    {
+      "title": "6.6 B REATHING UNDER W ATER",
+      "first_seen_page_index": 9,
+      "source_trace": "NCERT Class 7 Science, Chapter 6, extracted page 9"
+    },
+    {
+      "title": "6.7 D O PLANTS ALSO R ESPIRE?",
+      "first_seen_page_index": 9,
+      "source_trace": "NCERT Class 7 Science, Chapter 6, extracted page 9"
+    },
+    {
+      "title": "SCIENCE 66",
+      "first_seen_page_index": 10,
+      "source_trace": "NCERT Class 7 Science, Chapter 6, extracted page 10"
+    },
+    {
+      "title": "RESPIRATION IN ORGANISMS 67",
+      "first_seen_page_index": 11,
+      "source_trace": "NCERT Class 7 Science, Chapter 6, extracted page 11"
+    },
+    {
+      "title": "SCIENCE 68",
+      "first_seen_page_index": 12,
+      "source_trace": "NCERT Class 7 Science, Chapter 6, extracted page 12"
+    },
+    {
+      "title": "S V M P L U N G S",
+      "first_seen_page_index": 12,
+      "source_trace": "NCERT Class 7 Science, Chapter 6, extracted page 12"
+    },
+    {
+      "title": "C Z G Q W X N T L",
+      "first_seen_page_index": 12,
+      "source_trace": "NCERT Class 7 Science, Chapter 6, extracted page 12"
+    },
+    {
+      "title": "R M A T I D O T C",
+      "first_seen_page_index": 12,
+      "source_trace": "NCERT Class 7 Science, Chapter 6, extracted page 12"
+    },
+    {
+      "title": "I Y R X Y M S R A",
+      "first_seen_page_index": 12,
+      "source_trace": "NCERT Class 7 Science, Chapter 6, extracted page 12"
+    },
+    {
+      "title": "B R H I A N T A Y",
+      "first_seen_page_index": 12,
+      "source_trace": "NCERT Class 7 Science, Chapter 6, extracted page 12"
+    },
+    {
+      "title": "S T P T B Z R C E",
+      "first_seen_page_index": 12,
+      "source_trace": "NCERT Class 7 Science, Chapter 6, extracted page 12"
+    },
+    {
+      "title": "M I A M T S I H A",
+      "first_seen_page_index": 12,
+      "source_trace": "NCERT Class 7 Science, Chapter 6, extracted page 12"
+    },
+    {
+      "title": "S P I R A C L E S",
+      "first_seen_page_index": 12,
+      "source_trace": "NCERT Class 7 Science, Chapter 6, extracted page 12"
+    },
+    {
+      "title": "N E D K J N S A T",
+      "first_seen_page_index": 12,
+      "source_trace": "NCERT Class 7 Science, Chapter 6, extracted page 12"
+    },
+    {
+      "title": "RESPIRATION IN ORGANISMS 69",
+      "first_seen_page_index": 13,
+      "source_trace": "NCERT Class 7 Science, Chapter 6, extracted page 13"
+    }
+  ],
+  "production_status": "concept_candidates_ready_for_human_decode"
+}

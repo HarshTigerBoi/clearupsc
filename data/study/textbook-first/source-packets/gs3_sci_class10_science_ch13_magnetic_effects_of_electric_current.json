@@ -1,0 +1,58 @@
+{
+  "key": "gs3_sci_class10_science_ch13_magnetic_effects_of_electric_current",
+  "title": "Magnetic Effects of Electric Current",
+  "source": {
+    "book": "NCERT Class 10 Science",
+    "chapter": 13,
+    "chapter_title": "Magnetic Effects of Electric Current",
+    "pdf_url": "https://ncert.nic.in/textbook.php?jesc1=0-16",
+    "page_range": "pending source extraction"
+  },
+  "resolved_pdf_url": "https://ncert.nic.in/textbook/pdf/jesc113.pdf",
+  "sha256": "3f61f0574e60bb8fc41feb3cc13f818621d9c17a5d5f51634154a5de35918b2d",
+  "extraction": {
+    "raw_text_path": "data/study/textbook-first/raw-text/gs3_sci_class10_science_ch13_magnetic_effects_of_electric_current.txt",
+    "extracted_characters": 20576,
+    "page_count": 10,
+    "paragraph_count_estimate": 2,
+    "title_match_score": 0
+  },
+  "concept_candidates": [
+    {
+      "title": "13 CHAPTER",
+      "first_seen_page_index": 1,
+      "source_trace": "NCERT Class 10 Science, Chapter 13, extracted page 1"
+    },
+    {
+      "title": "13.1.1 Food Chains and Webs",
+      "first_seen_page_index": 3,
+      "source_trace": "NCERT Class 10 Science, Chapter 13, extracted page 3"
+    },
+    {
+      "title": "Q U E S T I O N S",
+      "first_seen_page_index": 5,
+      "source_trace": "NCERT Class 10 Science, Chapter 13, extracted page 5"
+    },
+    {
+      "title": "ENVIRONMENT? ENVIRONMENT? ENVIRONMENT? ENVIRONMENT? ENVIRONMENT?",
+      "first_seen_page_index": 5,
+      "source_trace": "NCERT Class 10 Science, Chapter 13, extracted page 5"
+    },
+    {
+      "title": "13.2.1 Ozone Layer and How it is Getting Depleted",
+      "first_seen_page_index": 5,
+      "source_trace": "NCERT Class 10 Science, Chapter 13, extracted page 5"
+    },
+    {
+      "title": "13.2.2 Managing the Garbage we Produce",
+      "first_seen_page_index": 6,
+      "source_trace": "NCERT Class 10 Science, Chapter 13, extracted page 6"
+    },
+    {
+      "title": "E X E R C I S E S",
+      "first_seen_page_index": 9,
+      "source_trace": "NCERT Class 10 Science, Chapter 13, extracted page 9"
+    }
+  ],
+  "production_status": "concept_candidates_ready_for_human_decode"
+}

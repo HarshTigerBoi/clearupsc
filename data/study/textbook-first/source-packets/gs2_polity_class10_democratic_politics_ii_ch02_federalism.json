@@ -1,0 +1,78 @@
+{
+  "key": "gs2_polity_class10_democratic_politics_ii_ch02_federalism",
+  "title": "Federalism",
+  "source": {
+    "book": "NCERT Class 10 Democratic Politics II",
+    "chapter": 2,
+    "chapter_title": "Federalism",
+    "pdf_url": "https://ncert.nic.in/textbook.php?jess4=0-8",
+    "page_range": "pending source extraction"
+  },
+  "resolved_pdf_url": "https://ncert.nic.in/textbook/pdf/jess402.pdf",
+  "sha256": "b8e30317fdd6085e679df31b00337119f638c78b9f8748d35f733b48a77623cb",
+  "extraction": {
+    "raw_text_path": "data/study/textbook-first/raw-text/gs2_polity_class10_democratic_politics_ii_ch02_federalism.txt",
+    "extracted_characters": 33461,
+    "page_count": 16,
+    "paragraph_count_estimate": 1,
+    "title_match_score": 1
+  },
+  "concept_candidates": [
+    {
+      "title": "7 The federal system thus has dual",
+      "first_seen_page_index": 3,
+      "source_trace": "NCERT Class 10 Democratic Politics II, Chapter 2, extracted page 3"
+    },
+    {
+      "title": "1 There are two or more levels (or",
+      "first_seen_page_index": 3,
+      "source_trace": "NCERT Class 10 Democratic Politics II, Chapter 2, extracted page 3"
+    },
+    {
+      "title": "2 Different tiers of government",
+      "first_seen_page_index": 3,
+      "source_trace": "NCERT Class 10 Democratic Politics II, Chapter 2, extracted page 3"
+    },
+    {
+      "title": "3 The jurisdictions of the respective",
+      "first_seen_page_index": 3,
+      "source_trace": "NCERT Class 10 Democratic Politics II, Chapter 2, extracted page 3"
+    },
+    {
+      "title": "4 The fundamental provisions",
+      "first_seen_page_index": 3,
+      "source_trace": "NCERT Class 10 Democratic Politics II, Chapter 2, extracted page 3"
+    },
+    {
+      "title": "5 Courts have the power to",
+      "first_seen_page_index": 3,
+      "source_trace": "NCERT Class 10 Democratic Politics II, Chapter 2, extracted page 3"
+    },
+    {
+      "title": "6 Sources of revenue for each level",
+      "first_seen_page_index": 3,
+      "source_trace": "NCERT Class 10 Democratic Politics II, Chapter 2, extracted page 3"
+    },
+    {
+      "title": "(a) D A B C",
+      "first_seen_page_index": 16,
+      "source_trace": "NCERT Class 10 Democratic Politics II, Chapter 2, extracted page 16"
+    },
+    {
+      "title": "(b) B C D A",
+      "first_seen_page_index": 16,
+      "source_trace": "NCERT Class 10 Democratic Politics II, Chapter 2, extracted page 16"
+    },
+    {
+      "title": "(c) A C D B",
+      "first_seen_page_index": 16,
+      "source_trace": "NCERT Class 10 Democratic Politics II, Chapter 2, extracted page 16"
+    },
+    {
+      "title": "(d) C D A B",
+      "first_seen_page_index": 16,
+      "source_trace": "NCERT Class 10 Democratic Politics II, Chapter 2, extracted page 16"
+    }
+  ],
+  "production_status": "concept_candidates_ready_for_human_decode"
+}

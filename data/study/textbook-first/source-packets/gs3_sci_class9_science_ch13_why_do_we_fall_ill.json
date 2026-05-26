@@ -1,0 +1,188 @@
+{
+  "key": "gs3_sci_class9_science_ch13_why_do_we_fall_ill",
+  "title": "Why Do We Fall Ill",
+  "source": {
+    "book": "NCERT Class 9 Science",
+    "chapter": 13,
+    "chapter_title": "Why Do We Fall Ill",
+    "pdf_url": "https://ncert.nic.in/textbook.php?iesc1=0-15",
+    "page_range": "pending source extraction"
+  },
+  "resolved_pdf_url": "https://ncert.nic.in/textbook/pdf/iesc113.pdf",
+  "sha256": "c690fbd95e16f6e82f386f8e543114ee61954a829d2e58476850d6f5fb067723",
+  "extraction": {
+    "raw_text_path": "data/study/textbook-first/raw-text/gs3_sci_class9_science_ch13_why_do_we_fall_ill.txt",
+    "extracted_characters": 53217,
+    "page_count": 20,
+    "paragraph_count_estimate": 0,
+    "title_match_score": 1
+  },
+  "concept_candidates": [
+    {
+      "title": "253 Earth as a S ystem: Energy, Matter, and Life",
+      "first_seen_page_index": 2,
+      "source_trace": "NCERT Class 9 Science, Chapter 13, extracted page 2"
+    },
+    {
+      "title": "13.1 Uneven Heating of the Earth",
+      "first_seen_page_index": 2,
+      "source_trace": "NCERT Class 9 Science, Chapter 13, extracted page 2"
+    },
+    {
+      "title": "255 Earth as a System: Energy, Matter, and L ife",
+      "first_seen_page_index": 4,
+      "source_trace": "NCERT Class 9 Science, Chapter 13, extracted page 4"
+    },
+    {
+      "title": "13.1.1 Interaction of solar radiation on",
+      "first_seen_page_index": 5,
+      "source_trace": "NCERT Class 9 Science, Chapter 13, extracted page 5"
+    },
+    {
+      "title": "257 Earth as a System: Energy, Matter, and Life",
+      "first_seen_page_index": 6,
+      "source_trace": "NCERT Class 9 Science, Chapter 13, extracted page 6"
+    },
+    {
+      "title": "13.1.2 Latitude and Earth’s shape",
+      "first_seen_page_index": 6,
+      "source_trace": "NCERT Class 9 Science, Chapter 13, extracted page 6"
+    },
+    {
+      "title": "13.1.3 Role of the atmosphere",
+      "first_seen_page_index": 6,
+      "source_trace": "NCERT Class 9 Science, Chapter 13, extracted page 6"
+    },
+    {
+      "title": "259 Earth as a System: Energy, Matter, and Life",
+      "first_seen_page_index": 8,
+      "source_trace": "NCERT Class 9 Science, Chapter 13, extracted page 8"
+    },
+    {
+      "title": "13.2 Uneven Heating Causes Wind and Ocean",
+      "first_seen_page_index": 8,
+      "source_trace": "NCERT Class 9 Science, Chapter 13, extracted page 8"
+    },
+    {
+      "title": "13.2.1 Local winds",
+      "first_seen_page_index": 8,
+      "source_trace": "NCERT Class 9 Science, Chapter 13, extracted page 8"
+    },
+    {
+      "title": "13.2.2 Planetary winds",
+      "first_seen_page_index": 9,
+      "source_trace": "NCERT Class 9 Science, Chapter 13, extracted page 9"
+    },
+    {
+      "title": "13.2.3 Ocean currents",
+      "first_seen_page_index": 9,
+      "source_trace": "NCERT Class 9 Science, Chapter 13, extracted page 9"
+    },
+    {
+      "title": "261 Earth as a System: Energy, Matter, and Life",
+      "first_seen_page_index": 10,
+      "source_trace": "NCERT Class 9 Science, Chapter 13, extracted page 10"
+    },
+    {
+      "title": "EUROPE",
+      "first_seen_page_index": 10,
+      "source_trace": "NCERT Class 9 Science, Chapter 13, extracted page 10"
+    },
+    {
+      "title": "GREENLAND",
+      "first_seen_page_index": 10,
+      "source_trace": "NCERT Class 9 Science, Chapter 13, extracted page 10"
+    },
+    {
+      "title": "NORTH",
+      "first_seen_page_index": 10,
+      "source_trace": "NCERT Class 9 Science, Chapter 13, extracted page 10"
+    },
+    {
+      "title": "AMERICA",
+      "first_seen_page_index": 10,
+      "source_trace": "NCERT Class 9 Science, Chapter 13, extracted page 10"
+    },
+    {
+      "title": "SOUTH",
+      "first_seen_page_index": 10,
+      "source_trace": "NCERT Class 9 Science, Chapter 13, extracted page 10"
+    },
+    {
+      "title": "AFRICA",
+      "first_seen_page_index": 10,
+      "source_trace": "NCERT Class 9 Science, Chapter 13, extracted page 10"
+    },
+    {
+      "title": "13.3 Biogeochemical Cycles",
+      "first_seen_page_index": 11,
+      "source_trace": "NCERT Class 9 Science, Chapter 13, extracted page 11"
+    },
+    {
+      "title": "13.3.1 Water cycle",
+      "first_seen_page_index": 11,
+      "source_trace": "NCERT Class 9 Science, Chapter 13, extracted page 11"
+    },
+    {
+      "title": "13.3.2 Carbon cycle",
+      "first_seen_page_index": 11,
+      "source_trace": "NCERT Class 9 Science, Chapter 13, extracted page 11"
+    },
+    {
+      "title": "263 Earth as a System: Energy, Matter, and Life",
+      "first_seen_page_index": 12,
+      "source_trace": "NCERT Class 9 Science, Chapter 13, extracted page 12"
+    },
+    {
+      "title": "13.3.3 Nitrogen cycle",
+      "first_seen_page_index": 13,
+      "source_trace": "NCERT Class 9 Science, Chapter 13, extracted page 13"
+    },
+    {
+      "title": "13.3.4 Oxygen cycle",
+      "first_seen_page_index": 13,
+      "source_trace": "NCERT Class 9 Science, Chapter 13, extracted page 13"
+    },
+    {
+      "title": "265 Earth as a System: Energy, Matter, and Life",
+      "first_seen_page_index": 14,
+      "source_trace": "NCERT Class 9 Science, Chapter 13, extracted page 14"
+    },
+    {
+      "title": "13.4 Human Impact on Earth’s Processes",
+      "first_seen_page_index": 14,
+      "source_trace": "NCERT Class 9 Science, Chapter 13, extracted page 14"
+    },
+    {
+      "title": "267 Earth as a System: Energy, Matter, and Life",
+      "first_seen_page_index": 16,
+      "source_trace": "NCERT Class 9 Science, Chapter 13, extracted page 16"
+    },
+    {
+      "title": "269 Earth as a System: Energy, Matter, and Life",
+      "first_seen_page_index": 18,
+      "source_trace": "NCERT Class 9 Science, Chapter 13, extracted page 18"
+    },
+    {
+      "title": "+ NH 4 NO 3 (NH 4 ) 2 SO 4 (NH 4 ) 3 PO 4",
+      "first_seen_page_index": 20,
+      "source_trace": "NCERT Class 9 Science, Chapter 13, extracted page 20"
+    },
+    {
+      "title": "Li+ LiNO 3 Li2 SO 4 Li3 PO 4",
+      "first_seen_page_index": 20,
+      "source_trace": "NCERT Class 9 Science, Chapter 13, extracted page 20"
+    },
+    {
+      "title": "Al 3+ Al(NO 3 ) 3 Al 2 (SO 4 ) 3 AlPO 4",
+      "first_seen_page_index": 20,
+      "source_trace": "NCERT Class 9 Science, Chapter 13, extracted page 20"
+    },
+    {
+      "title": "Cu2+ Cu(NO 3 ) 2 CuSO4 Cu3 (PO 4 ) 2",
+      "first_seen_page_index": 20,
+      "source_trace": "NCERT Class 9 Science, Chapter 13, extracted page 20"
+    }
+  ],
+  "production_status": "concept_candidates_ready_for_human_decode"
+}

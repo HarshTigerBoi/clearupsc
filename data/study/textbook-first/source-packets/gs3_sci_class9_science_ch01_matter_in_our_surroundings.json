@@ -1,0 +1,22 @@
+{
+  "key": "gs3_sci_class9_science_ch01_matter_in_our_surroundings",
+  "title": "Matter in Our Surroundings",
+  "source": {
+    "book": "NCERT Class 9 Science",
+    "chapter": 1,
+    "chapter_title": "Matter in Our Surroundings",
+    "pdf_url": "https://ncert.nic.in/textbook.php?iesc1=0-15",
+    "page_range": "pending source extraction"
+  },
+  "resolved_pdf_url": "https://ncert.nic.in/textbook/pdf/iesc101.pdf",
+  "sha256": "dc82ff62186838191296abe19bfef785749ca11f9a7f58d06357043a82702e44",
+  "extraction": {
+    "raw_text_path": "data/study/textbook-first/raw-text/gs3_sci_class9_science_ch01_matter_in_our_surroundings.txt",
+    "extracted_characters": 18375,
+    "page_count": 7,
+    "paragraph_count_estimate": 0,
+    "title_match_score": 0
+  },
+  "concept_candidates": [],
+  "production_status": "needs_manual_source_review"
+}

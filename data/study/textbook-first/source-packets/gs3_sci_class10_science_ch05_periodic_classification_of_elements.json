@@ -1,0 +1,93 @@
+{
+  "key": "gs3_sci_class10_science_ch05_periodic_classification_of_elements",
+  "title": "Periodic Classification of Elements",
+  "source": {
+    "book": "NCERT Class 10 Science",
+    "chapter": 5,
+    "chapter_title": "Periodic Classification of Elements",
+    "pdf_url": "https://ncert.nic.in/textbook.php?jesc1=0-16",
+    "page_range": "pending source extraction"
+  },
+  "resolved_pdf_url": "https://ncert.nic.in/textbook/pdf/jesc105.pdf",
+  "sha256": "685ec7228afeb79d7bc9b989648e381e5eb4b5a6d290d6a13374489c9284054f",
+  "extraction": {
+    "raw_text_path": "data/study/textbook-first/raw-text/gs3_sci_class10_science_ch05_periodic_classification_of_elements.txt",
+    "extracted_characters": 53060,
+    "page_count": 21,
+    "paragraph_count_estimate": 1,
+    "title_match_score": 0
+  },
+  "concept_candidates": [
+    {
+      "title": "5 CHAPTER",
+      "first_seen_page_index": 1,
+      "source_trace": "NCERT Class 10 Science, Chapter 5, extracted page 1"
+    },
+    {
+      "title": "Q U E S T I O N S",
+      "first_seen_page_index": 3,
+      "source_trace": "NCERT Class 10 Science, Chapter 5, extracted page 3"
+    },
+    {
+      "title": "5.2 NUTRITION 5.2 NUTRITION 5.2 NUTRITION 5.2 NUTRITION 5.2 NUTRITION",
+      "first_seen_page_index": 3,
+      "source_trace": "NCERT Class 10 Science, Chapter 5, extracted page 3"
+    },
+    {
+      "title": "5.2.1 Autotrophic Nutrition",
+      "first_seen_page_index": 3,
+      "source_trace": "NCERT Class 10 Science, Chapter 5, extracted page 3"
+    },
+    {
+      "title": "5.2.2 Heterotrophic Nutrition",
+      "first_seen_page_index": 6,
+      "source_trace": "NCERT Class 10 Science, Chapter 5, extracted page 6"
+    },
+    {
+      "title": "5.2.3 How do Organisms obtain their Nutrition?",
+      "first_seen_page_index": 6,
+      "source_trace": "NCERT Class 10 Science, Chapter 5, extracted page 6"
+    },
+    {
+      "title": "5.2.4 Nutrition in Human Beings",
+      "first_seen_page_index": 6,
+      "source_trace": "NCERT Class 10 Science, Chapter 5, extracted page 6"
+    },
+    {
+      "title": "5.3 RESPIR 5.3 RESPIR 5.3 RESPIR 5.3 RESPIR 5.3 RESPIRA A A A ATION TION TION TION TION",
+      "first_seen_page_index": 9,
+      "source_trace": "NCERT Class 10 Science, Chapter 5, extracted page 9"
+    },
+    {
+      "title": "5.4.1 Transportation in Human Beings",
+      "first_seen_page_index": 13,
+      "source_trace": "NCERT Class 10 Science, Chapter 5, extracted page 13"
+    },
+    {
+      "title": "5.4.2 Transportation in Plants",
+      "first_seen_page_index": 16,
+      "source_trace": "NCERT Class 10 Science, Chapter 5, extracted page 16"
+    },
+    {
+      "title": "5.5 EX 5.5 EX 5.5 EX 5.5 EX 5.5 EXCRETION CRETION CRETION CRETION CRETION",
+      "first_seen_page_index": 18,
+      "source_trace": "NCERT Class 10 Science, Chapter 5, extracted page 18"
+    },
+    {
+      "title": "5.5.1 Excretion in Human Beings",
+      "first_seen_page_index": 18,
+      "source_trace": "NCERT Class 10 Science, Chapter 5, extracted page 18"
+    },
+    {
+      "title": "5.5.2 Excretion in Plants",
+      "first_seen_page_index": 20,
+      "source_trace": "NCERT Class 10 Science, Chapter 5, extracted page 20"
+    },
+    {
+      "title": "E X E R C I S E S",
+      "first_seen_page_index": 21,
+      "source_trace": "NCERT Class 10 Science, Chapter 5, extracted page 21"
+    }
+  ],
+  "production_status": "concept_candidates_ready_for_human_decode"
+}

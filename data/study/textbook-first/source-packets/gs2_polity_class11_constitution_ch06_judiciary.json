@@ -1,0 +1,68 @@
+{
+  "key": "gs2_polity_class11_constitution_ch06_judiciary",
+  "title": "Judiciary",
+  "source": {
+    "book": "NCERT Class 11 Indian Constitution at Work",
+    "chapter": 6,
+    "chapter_title": "Judiciary",
+    "pdf_url": "https://ncert.nic.in/textbook.php?keps2=0-10",
+    "page_range": "pending source extraction"
+  },
+  "resolved_pdf_url": "https://ncert.nic.in/textbook/pdf/keps206.pdf",
+  "sha256": "1277a465ea0ed3c6c2b66f6a8207f481675caf180a003216cf33d6ac4c402b7c",
+  "extraction": {
+    "raw_text_path": "data/study/textbook-first/raw-text/gs2_polity_class11_constitution_ch06_judiciary.txt",
+    "extracted_characters": 42948,
+    "page_count": 26,
+    "paragraph_count_estimate": 0,
+    "title_match_score": 1
+  },
+  "concept_candidates": [
+    {
+      "title": "JUDICIARY",
+      "first_seen_page_index": 1,
+      "source_trace": "NCERT Class 11 Indian Constitution at Work, Chapter 6, extracted page 1"
+    },
+    {
+      "title": "INTRODUCTION",
+      "first_seen_page_index": 1,
+      "source_trace": "NCERT Class 11 Indian Constitution at Work, Chapter 6, extracted page 1"
+    },
+    {
+      "title": "WHY DO WE NEED AN INDEPENDENT JUDICIARY?",
+      "first_seen_page_index": 2,
+      "source_trace": "NCERT Class 11 Indian Constitution at Work, Chapter 6, extracted page 2"
+    },
+    {
+      "title": "READ A CARTOON",
+      "first_seen_page_index": 2,
+      "source_trace": "NCERT Class 11 Indian Constitution at Work, Chapter 6, extracted page 2"
+    },
+    {
+      "title": "STRUCTURE OF THE JUDICIARY",
+      "first_seen_page_index": 7,
+      "source_trace": "NCERT Class 11 Indian Constitution at Work, Chapter 6, extracted page 7"
+    },
+    {
+      "title": "JUDICIAL ACTIVISM",
+      "first_seen_page_index": 11,
+      "source_trace": "NCERT Class 11 Indian Constitution at Work, Chapter 6, extracted page 11"
+    },
+    {
+      "title": "JUDICIARY AND RIGHTS",
+      "first_seen_page_index": 15,
+      "source_trace": "NCERT Class 11 Indian Constitution at Work, Chapter 6, extracted page 15"
+    },
+    {
+      "title": "YOU ARE THE JUDGE",
+      "first_seen_page_index": 15,
+      "source_trace": "NCERT Class 11 Indian Constitution at Work, Chapter 6, extracted page 15"
+    },
+    {
+      "title": "JUDICIARY AND PARLIAMENT",
+      "first_seen_page_index": 17,
+      "source_trace": "NCERT Class 11 Indian Constitution at Work, Chapter 6, extracted page 17"
+    }
+  ],
+  "production_status": "concept_candidates_ready_for_human_decode"
+}

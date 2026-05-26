@@ -1,0 +1,193 @@
+{
+  "key": "gs3_sci_class8_science_ch06_combustion_and_flame",
+  "title": "Combustion and Flame",
+  "source": {
+    "book": "NCERT Class 8 Science",
+    "chapter": 6,
+    "chapter_title": "Combustion and Flame",
+    "pdf_url": "https://ncert.nic.in/textbook.php?hesc1=0-18",
+    "page_range": "pending source extraction"
+  },
+  "resolved_pdf_url": "https://ncert.nic.in/textbook/pdf/hesc106.pdf",
+  "sha256": "3b72321468f309ebe8e84ed449bc9bf8833ff2693f4892fcc23190117e0182b7",
+  "extraction": {
+    "raw_text_path": "data/study/textbook-first/raw-text/gs3_sci_class8_science_ch06_combustion_and_flame.txt",
+    "extracted_characters": 21766,
+    "page_count": 13,
+    "paragraph_count_estimate": 0,
+    "title_match_score": 0
+  },
+  "concept_candidates": [
+    {
+      "title": "REPRODUCTION IN ANIMALS REPRODUCTION IN ANIMALS",
+      "first_seen_page_index": 1,
+      "source_trace": "NCERT Class 8 Science, Chapter 6, extracted page 1"
+    },
+    {
+      "title": "6.1 Modes of Reproduction",
+      "first_seen_page_index": 1,
+      "source_trace": "NCERT Class 8 Science, Chapter 6, extracted page 1"
+    },
+    {
+      "title": "6.2 Sexual Reproduction",
+      "first_seen_page_index": 1,
+      "source_trace": "NCERT Class 8 Science, Chapter 6, extracted page 1"
+    },
+    {
+      "title": "REPRODUCTION IN ANIMALS 67",
+      "first_seen_page_index": 2,
+      "source_trace": "NCERT Class 8 Science, Chapter 6, extracted page 2"
+    },
+    {
+      "title": "SCIENCE 68",
+      "first_seen_page_index": 3,
+      "source_trace": "NCERT Class 8 Science, Chapter 6, extracted page 3"
+    },
+    {
+      "title": "REPRODUCTION IN ANIMALS 69",
+      "first_seen_page_index": 4,
+      "source_trace": "NCERT Class 8 Science, Chapter 6, extracted page 4"
+    },
+    {
+      "title": "SCIENCE 70",
+      "first_seen_page_index": 5,
+      "source_trace": "NCERT Class 8 Science, Chapter 6, extracted page 5"
+    },
+    {
+      "title": "REPRODUCTION IN ANIMALS 71",
+      "first_seen_page_index": 6,
+      "source_trace": "NCERT Class 8 Science, Chapter 6, extracted page 6"
+    },
+    {
+      "title": "SCIENCE 72",
+      "first_seen_page_index": 7,
+      "source_trace": "NCERT Class 8 Science, Chapter 6, extracted page 7"
+    },
+    {
+      "title": "6.3 Asexual Reproduction",
+      "first_seen_page_index": 7,
+      "source_trace": "NCERT Class 8 Science, Chapter 6, extracted page 7"
+    },
+    {
+      "title": "REPRODUCTION IN ANIMALS 73",
+      "first_seen_page_index": 8,
+      "source_trace": "NCERT Class 8 Science, Chapter 6, extracted page 8"
+    },
+    {
+      "title": "SCIENCE 74",
+      "first_seen_page_index": 9,
+      "source_trace": "NCERT Class 8 Science, Chapter 6, extracted page 9"
+    },
+    {
+      "title": "REPRODUCTION IN ANIMALS 75",
+      "first_seen_page_index": 10,
+      "source_trace": "NCERT Class 8 Science, Chapter 6, extracted page 10"
+    },
+    {
+      "title": "KEYWORDS KEYWORDS KEYWORDS KEYWORDS KEYWORDS",
+      "first_seen_page_index": 10,
+      "source_trace": "NCERT Class 8 Science, Chapter 6, extracted page 10"
+    },
+    {
+      "title": "ASEXUAL",
+      "first_seen_page_index": 10,
+      "source_trace": "NCERT Class 8 Science, Chapter 6, extracted page 10"
+    },
+    {
+      "title": "REPRODUCTION",
+      "first_seen_page_index": 10,
+      "source_trace": "NCERT Class 8 Science, Chapter 6, extracted page 10"
+    },
+    {
+      "title": "BINARY FISSION",
+      "first_seen_page_index": 10,
+      "source_trace": "NCERT Class 8 Science, Chapter 6, extracted page 10"
+    },
+    {
+      "title": "BUDDING",
+      "first_seen_page_index": 10,
+      "source_trace": "NCERT Class 8 Science, Chapter 6, extracted page 10"
+    },
+    {
+      "title": "EGGS",
+      "first_seen_page_index": 10,
+      "source_trace": "NCERT Class 8 Science, Chapter 6, extracted page 10"
+    },
+    {
+      "title": "EMBRYO",
+      "first_seen_page_index": 10,
+      "source_trace": "NCERT Class 8 Science, Chapter 6, extracted page 10"
+    },
+    {
+      "title": "EXTERNAL",
+      "first_seen_page_index": 10,
+      "source_trace": "NCERT Class 8 Science, Chapter 6, extracted page 10"
+    },
+    {
+      "title": "FERTILISATION",
+      "first_seen_page_index": 10,
+      "source_trace": "NCERT Class 8 Science, Chapter 6, extracted page 10"
+    },
+    {
+      "title": "FOETUS",
+      "first_seen_page_index": 10,
+      "source_trace": "NCERT Class 8 Science, Chapter 6, extracted page 10"
+    },
+    {
+      "title": "INTERNAL",
+      "first_seen_page_index": 10,
+      "source_trace": "NCERT Class 8 Science, Chapter 6, extracted page 10"
+    },
+    {
+      "title": "METAMORPHOSIS",
+      "first_seen_page_index": 10,
+      "source_trace": "NCERT Class 8 Science, Chapter 6, extracted page 10"
+    },
+    {
+      "title": "OVIPAROUS ANIMALS",
+      "first_seen_page_index": 10,
+      "source_trace": "NCERT Class 8 Science, Chapter 6, extracted page 10"
+    },
+    {
+      "title": "SEXUAL",
+      "first_seen_page_index": 10,
+      "source_trace": "NCERT Class 8 Science, Chapter 6, extracted page 10"
+    },
+    {
+      "title": "SPERMS",
+      "first_seen_page_index": 10,
+      "source_trace": "NCERT Class 8 Science, Chapter 6, extracted page 10"
+    },
+    {
+      "title": "VIVIPAROUS ANIMALS",
+      "first_seen_page_index": 10,
+      "source_trace": "NCERT Class 8 Science, Chapter 6, extracted page 10"
+    },
+    {
+      "title": "ZYGOTE",
+      "first_seen_page_index": 10,
+      "source_trace": "NCERT Class 8 Science, Chapter 6, extracted page 10"
+    },
+    {
+      "title": "SCIENCE 76",
+      "first_seen_page_index": 11,
+      "source_trace": "NCERT Class 8 Science, Chapter 6, extracted page 11"
+    },
+    {
+      "title": "REPRODUCTION IN ANIMALS 77",
+      "first_seen_page_index": 12,
+      "source_trace": "NCERT Class 8 Science, Chapter 6, extracted page 12"
+    },
+    {
+      "title": "E X E R C I S E S",
+      "first_seen_page_index": 12,
+      "source_trace": "NCERT Class 8 Science, Chapter 6, extracted page 12"
+    },
+    {
+      "title": "SCIENCE 78",
+      "first_seen_page_index": 13,
+      "source_trace": "NCERT Class 8 Science, Chapter 6, extracted page 13"
+    }
+  ],
+  "production_status": "concept_candidates_ready_for_human_decode"
+}

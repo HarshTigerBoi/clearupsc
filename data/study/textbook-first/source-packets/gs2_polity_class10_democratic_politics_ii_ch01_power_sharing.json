@@ -1,0 +1,83 @@
+{
+  "key": "gs2_polity_class10_democratic_politics_ii_ch01_power_sharing",
+  "title": "Power Sharing",
+  "source": {
+    "book": "NCERT Class 10 Democratic Politics II",
+    "chapter": 1,
+    "chapter_title": "Power Sharing",
+    "pdf_url": "https://ncert.nic.in/textbook.php?jess4=0-8",
+    "page_range": "pending source extraction"
+  },
+  "resolved_pdf_url": "https://ncert.nic.in/textbook/pdf/jess401.pdf",
+  "sha256": "f196321f2b8b61df09cb2cf49684e950d8ad1a52aef26388af07b4467e7823e5",
+  "extraction": {
+    "raw_text_path": "data/study/textbook-first/raw-text/gs2_polity_class10_democratic_politics_ii_ch01_power_sharing.txt",
+    "extracted_characters": 26387,
+    "page_count": 12,
+    "paragraph_count_estimate": 0,
+    "title_match_score": 1
+  },
+  "concept_candidates": [
+    {
+      "title": "1 Power is shared among different",
+      "first_seen_page_index": 8,
+      "source_trace": "NCERT Class 10 Democratic Politics II, Chapter 1, extracted page 8"
+    },
+    {
+      "title": "2 Power can be shared among",
+      "first_seen_page_index": 8,
+      "source_trace": "NCERT Class 10 Democratic Politics II, Chapter 1, extracted page 8"
+    },
+    {
+      "title": "3 Power may also be shared",
+      "first_seen_page_index": 9,
+      "source_trace": "NCERT Class 10 Democratic Politics II, Chapter 1, extracted page 9"
+    },
+    {
+      "title": "4 Power sharing arrangements",
+      "first_seen_page_index": 9,
+      "source_trace": "NCERT Class 10 Democratic Politics II, Chapter 1, extracted page 9"
+    },
+    {
+      "title": "(a) A B D F",
+      "first_seen_page_index": 11,
+      "source_trace": "NCERT Class 10 Democratic Politics II, Chapter 1, extracted page 11"
+    },
+    {
+      "title": "(b) A C E F",
+      "first_seen_page_index": 11,
+      "source_trace": "NCERT Class 10 Democratic Politics II, Chapter 1, extracted page 11"
+    },
+    {
+      "title": "(c) A B D G",
+      "first_seen_page_index": 11,
+      "source_trace": "NCERT Class 10 Democratic Politics II, Chapter 1, extracted page 11"
+    },
+    {
+      "title": "(d) B C D G",
+      "first_seen_page_index": 11,
+      "source_trace": "NCERT Class 10 Democratic Politics II, Chapter 1, extracted page 11"
+    },
+    {
+      "title": "(a) D A B C",
+      "first_seen_page_index": 12,
+      "source_trace": "NCERT Class 10 Democratic Politics II, Chapter 1, extracted page 12"
+    },
+    {
+      "title": "(b) B C D A",
+      "first_seen_page_index": 12,
+      "source_trace": "NCERT Class 10 Democratic Politics II, Chapter 1, extracted page 12"
+    },
+    {
+      "title": "(c) B D A C",
+      "first_seen_page_index": 12,
+      "source_trace": "NCERT Class 10 Democratic Politics II, Chapter 1, extracted page 12"
+    },
+    {
+      "title": "(d) C D A B",
+      "first_seen_page_index": 12,
+      "source_trace": "NCERT Class 10 Democratic Politics II, Chapter 1, extracted page 12"
+    }
+  ],
+  "production_status": "concept_candidates_ready_for_human_decode"
+}

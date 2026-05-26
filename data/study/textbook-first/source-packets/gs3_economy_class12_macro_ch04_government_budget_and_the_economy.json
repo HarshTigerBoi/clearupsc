@@ -1,0 +1,133 @@
+{
+  "key": "gs3_economy_class12_macro_ch04_government_budget_and_the_economy",
+  "title": "Government Budget and the Economy",
+  "source": {
+    "book": "NCERT Class 12 Introductory Macroeconomics",
+    "chapter": 4,
+    "chapter_title": "Government Budget and the Economy",
+    "pdf_url": "https://ncert.nic.in/textbook.php?leec1=0-6",
+    "page_range": "pending source extraction"
+  },
+  "resolved_pdf_url": "https://ncert.nic.in/textbook/pdf/leec104.pdf",
+  "sha256": "b1ffed1daa89c998a2fa204e1fe4fbae58fc71131c8ee3dfefc07b1b3f12291c",
+  "extraction": {
+    "raw_text_path": "data/study/textbook-first/raw-text/gs3_economy_class12_macro_ch04_government_budget_and_the_economy.txt",
+    "extracted_characters": 33830,
+    "page_count": 13,
+    "paragraph_count_estimate": 13,
+    "title_match_score": 0.33
+  },
+  "concept_candidates": [
+    {
+      "title": "4.1 AGGREGATE DEMAND AND ITS COMPONENTS",
+      "first_seen_page_index": 1,
+      "source_trace": "NCERT Class 12 Introductory Macroeconomics, Chapter 4, extracted page 1"
+    },
+    {
+      "title": "C C cY = + (4.1)",
+      "first_seen_page_index": 2,
+      "source_trace": "NCERT Class 12 Introductory Macroeconomics, Chapter 4, extracted page 2"
+    },
+    {
+      "title": "MPC c",
+      "first_seen_page_index": 2,
+      "source_trace": "NCERT Class 12 Introductory Macroeconomics, Chapter 4, extracted page 2"
+    },
+    {
+      "title": "MPS s",
+      "first_seen_page_index": 3,
+      "source_trace": "NCERT Class 12 Introductory Macroeconomics, Chapter 4, extracted page 3"
+    },
+    {
+      "title": "4.2 DETERMINATION OF INCOME IN TWO-SECTOR MODEL",
+      "first_seen_page_index": 4,
+      "source_trace": "NCERT Class 12 Introductory Macroeconomics, Chapter 4, extracted page 4"
+    },
+    {
+      "title": "AD = C + I + c.Y",
+      "first_seen_page_index": 4,
+      "source_trace": "NCERT Class 12 Introductory Macroeconomics, Chapter 4, extracted page 4"
+    },
+    {
+      "title": "Y = C + I + c.Y",
+      "first_seen_page_index": 4,
+      "source_trace": "NCERT Class 12 Introductory Macroeconomics, Chapter 4, extracted page 4"
+    },
+    {
+      "title": "Y = A + c.Y (4.3)",
+      "first_seen_page_index": 4,
+      "source_trace": "NCERT Class 12 Introductory Macroeconomics, Chapter 4, extracted page 4"
+    },
+    {
+      "title": "Y = C + I + G + c (Y – T )",
+      "first_seen_page_index": 5,
+      "source_trace": "NCERT Class 12 Introductory Macroeconomics, Chapter 4, extracted page 5"
+    },
+    {
+      "title": "C C cY  ",
+      "first_seen_page_index": 5,
+      "source_trace": "NCERT Class 12 Introductory Macroeconomics, Chapter 4, extracted page 5"
+    },
+    {
+      "title": "C=C+cY",
+      "first_seen_page_index": 6,
+      "source_trace": "NCERT Class 12 Introductory Macroeconomics, Chapter 4, extracted page 6"
+    },
+    {
+      "title": "OL = C I +",
+      "first_seen_page_index": 7,
+      "source_trace": "NCERT Class 12 Introductory Macroeconomics, Chapter 4, extracted page 7"
+    },
+    {
+      "title": "GDP, Y",
+      "first_seen_page_index": 7,
+      "source_trace": "NCERT Class 12 Introductory Macroeconomics, Chapter 4, extracted page 7"
+    },
+    {
+      "title": "4.3.2 Effect of an Autonomous Change in Aggregate Demand on Income",
+      "first_seen_page_index": 8,
+      "source_trace": "NCERT Class 12 Introductory Macroeconomics, Chapter 4, extracted page 8"
+    },
+    {
+      "title": "I C cY + +",
+      "first_seen_page_index": 8,
+      "source_trace": "NCERT Class 12 Introductory Macroeconomics, Chapter 4, extracted page 8"
+    },
+    {
+      "title": "C I cY Y",
+      "first_seen_page_index": 8,
+      "source_trace": "NCERT Class 12 Introductory Macroeconomics, Chapter 4, extracted page 8"
+    },
+    {
+      "title": "Y c C I",
+      "first_seen_page_index": 8,
+      "source_trace": "NCERT Class 12 Introductory Macroeconomics, Chapter 4, extracted page 8"
+    },
+    {
+      "title": "1 F, which is greater than the value of output 0Y *",
+      "first_seen_page_index": 9,
+      "source_trace": "NCERT Class 12 Introductory Macroeconomics, Chapter 4, extracted page 9"
+    },
+    {
+      "title": "1 E1 by an",
+      "first_seen_page_index": 9,
+      "source_trace": "NCERT Class 12 Introductory Macroeconomics, Chapter 4, extracted page 9"
+    },
+    {
+      "title": "AD = 1 + c Y 1",
+      "first_seen_page_index": 12,
+      "source_trace": "NCERT Class 12 Introductory Macroeconomics, Chapter 4, extracted page 12"
+    },
+    {
+      "title": "AD = 2 + c Y 2",
+      "first_seen_page_index": 12,
+      "source_trace": "NCERT Class 12 Introductory Macroeconomics, Chapter 4, extracted page 12"
+    },
+    {
+      "title": "4.4 SOME MORE CONCEPTS",
+      "first_seen_page_index": 12,
+      "source_trace": "NCERT Class 12 Introductory Macroeconomics, Chapter 4, extracted page 12"
+    }
+  ],
+  "production_status": "concept_candidates_ready_for_human_decode"
+}

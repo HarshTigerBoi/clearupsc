@@ -1,0 +1,98 @@
+{
+  "key": "gs3_env_class12_biology_ch03_human_reproduction",
+  "title": "Human Reproduction",
+  "source": {
+    "book": "NCERT Class 12 Biology",
+    "chapter": 3,
+    "chapter_title": "Human Reproduction",
+    "pdf_url": "https://ncert.nic.in/textbook.php?lebo1=0-16",
+    "page_range": "pending source extraction"
+  },
+  "resolved_pdf_url": "https://ncert.nic.in/textbook/pdf/lebo103.pdf",
+  "sha256": "ef03cc524d286eb3ffc225a00422ce28f3fe18ab8e622424f0b1c748b45bf9f3",
+  "extraction": {
+    "raw_text_path": "data/study/textbook-first/raw-text/gs3_env_class12_biology_ch03_human_reproduction.txt",
+    "extracted_characters": 26611,
+    "page_count": 10,
+    "paragraph_count_estimate": 0,
+    "title_match_score": 1
+  },
+  "concept_candidates": [
+    {
+      "title": "3.1 REPRODUCTIVE HEALTH – PROBLEMS AND",
+      "first_seen_page_index": 1,
+      "source_trace": "NCERT Class 12 Biology, Chapter 3, extracted page 1"
+    },
+    {
+      "title": "STRATEGIES",
+      "first_seen_page_index": 1,
+      "source_trace": "NCERT Class 12 Biology, Chapter 3, extracted page 1"
+    },
+    {
+      "title": "CHAPTER 3",
+      "first_seen_page_index": 1,
+      "source_trace": "NCERT Class 12 Biology, Chapter 3, extracted page 1"
+    },
+    {
+      "title": "REPRODUCTIVE HEALTH",
+      "first_seen_page_index": 1,
+      "source_trace": "NCERT Class 12 Biology, Chapter 3, extracted page 1"
+    },
+    {
+      "title": "3.1 Reproductive Health –",
+      "first_seen_page_index": 1,
+      "source_trace": "NCERT Class 12 Biology, Chapter 3, extracted page 1"
+    },
+    {
+      "title": "3.2 Population Explosion and",
+      "first_seen_page_index": 1,
+      "source_trace": "NCERT Class 12 Biology, Chapter 3, extracted page 1"
+    },
+    {
+      "title": "3.3 Medical Termination of",
+      "first_seen_page_index": 1,
+      "source_trace": "NCERT Class 12 Biology, Chapter 3, extracted page 1"
+    },
+    {
+      "title": "3.4 Sexually Transmitted",
+      "first_seen_page_index": 1,
+      "source_trace": "NCERT Class 12 Biology, Chapter 3, extracted page 1"
+    },
+    {
+      "title": "3.5 Infertility",
+      "first_seen_page_index": 1,
+      "source_trace": "NCERT Class 12 Biology, Chapter 3, extracted page 1"
+    },
+    {
+      "title": "BIOLOGY",
+      "first_seen_page_index": 2,
+      "source_trace": "NCERT Class 12 Biology, Chapter 3, extracted page 2"
+    },
+    {
+      "title": "3.2 POPULATION STABILISATION AND BIRTH CONTROL",
+      "first_seen_page_index": 3,
+      "source_trace": "NCERT Class 12 Biology, Chapter 3, extracted page 3"
+    },
+    {
+      "title": "3.3 MEDICAL TERMINATION OF PREGNANCY (MTP)",
+      "first_seen_page_index": 6,
+      "source_trace": "NCERT Class 12 Biology, Chapter 3, extracted page 6"
+    },
+    {
+      "title": "3.4 SEXUALLY TRANSMITTED INFECTIONS (STIS)",
+      "first_seen_page_index": 7,
+      "source_trace": "NCERT Class 12 Biology, Chapter 3, extracted page 7"
+    },
+    {
+      "title": "SUMMARY",
+      "first_seen_page_index": 9,
+      "source_trace": "NCERT Class 12 Biology, Chapter 3, extracted page 9"
+    },
+    {
+      "title": "STIs.",
+      "first_seen_page_index": 9,
+      "source_trace": "NCERT Class 12 Biology, Chapter 3, extracted page 9"
+    }
+  ],
+  "production_status": "concept_candidates_ready_for_human_decode"
+}

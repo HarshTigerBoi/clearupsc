@@ -1,0 +1,223 @@
+{
+  "key": "gs3_economy_class12_micro_ch02_consumer_behaviour",
+  "title": "Consumer Behaviour",
+  "source": {
+    "book": "NCERT Class 12 Introductory Microeconomics",
+    "chapter": 2,
+    "chapter_title": "Consumer Behaviour",
+    "pdf_url": "https://ncert.nic.in/textbook.php?leec2=0-5",
+    "page_range": "pending source extraction"
+  },
+  "resolved_pdf_url": "https://ncert.nic.in/textbook/pdf/leec202.pdf",
+  "sha256": "e1a7970d94fa2dc88df3a9fae8f7408e3e2367fc017341d5f2fc30d3462ba0b4",
+  "extraction": {
+    "raw_text_path": "data/study/textbook-first/raw-text/gs3_economy_class12_micro_ch02_consumer_behaviour.txt",
+    "extracted_characters": 69602,
+    "page_count": 28,
+    "paragraph_count_estimate": 0,
+    "title_match_score": 1
+  },
+  "concept_candidates": [
+    {
+      "title": "2.1 UTILITY",
+      "first_seen_page_index": 1,
+      "source_trace": "NCERT Class 12 Introductory Microeconomics, Chapter 2, extracted page 1"
+    },
+    {
+      "title": "2.1.1 Cardinal Utility Analysis",
+      "first_seen_page_index": 2,
+      "source_trace": "NCERT Class 12 Introductory Microeconomics, Chapter 2, extracted page 2"
+    },
+    {
+      "title": "MU5 = TU5 – TU4 = 30 – 28 = 2",
+      "first_seen_page_index": 2,
+      "source_trace": "NCERT Class 12 Introductory Microeconomics, Chapter 2, extracted page 2"
+    },
+    {
+      "title": "TUn = MU1 + MU2 + … + MUn-1 + MUn",
+      "first_seen_page_index": 2,
+      "source_trace": "NCERT Class 12 Introductory Microeconomics, Chapter 2, extracted page 2"
+    },
+    {
+      "title": "9 Theory of Consumer",
+      "first_seen_page_index": 2,
+      "source_trace": "NCERT Class 12 Introductory Microeconomics, Chapter 2, extracted page 2"
+    },
+    {
+      "title": "11 Theory of Consumer",
+      "first_seen_page_index": 4,
+      "source_trace": "NCERT Class 12 Introductory Microeconomics, Chapter 2, extracted page 4"
+    },
+    {
+      "title": "2.1.2 Ordinal Utility Analysis",
+      "first_seen_page_index": 4,
+      "source_trace": "NCERT Class 12 Introductory Microeconomics, Chapter 2, extracted page 4"
+    },
+    {
+      "title": "3 / / ( / ) 0 Y X Y X if Y X | ∆ ∆ |= ∆ ∆ ∆ ∆ ≥",
+      "first_seen_page_index": 4,
+      "source_trace": "NCERT Class 12 Introductory Microeconomics, Chapter 2, extracted page 4"
+    },
+    {
+      "title": "/ ( / ) 0 Y X if Y X = −∆ ∆ ∆ ∆ <",
+      "first_seen_page_index": 4,
+      "source_trace": "NCERT Class 12 Introductory Microeconomics, Chapter 2, extracted page 4"
+    },
+    {
+      "title": "13 Theory of Consumer",
+      "first_seen_page_index": 6,
+      "source_trace": "NCERT Class 12 Introductory Microeconomics, Chapter 2, extracted page 6"
+    },
+    {
+      "title": "15 Theory of Consumer",
+      "first_seen_page_index": 8,
+      "source_trace": "NCERT Class 12 Introductory Microeconomics, Chapter 2, extracted page 8"
+    },
+    {
+      "title": "2.2 THE CONSUMER’S BUDGET",
+      "first_seen_page_index": 8,
+      "source_trace": "NCERT Class 12 Introductory Microeconomics, Chapter 2, extracted page 8"
+    },
+    {
+      "title": "2.2.1 Budget Set and Budget Line",
+      "first_seen_page_index": 8,
+      "source_trace": "NCERT Class 12 Introductory Microeconomics, Chapter 2, extracted page 8"
+    },
+    {
+      "title": "EXAMPLE 2.1",
+      "first_seen_page_index": 8,
+      "source_trace": "NCERT Class 12 Introductory Microeconomics, Chapter 2, extracted page 8"
+    },
+    {
+      "title": "17 Theory of Consumer",
+      "first_seen_page_index": 10,
+      "source_trace": "NCERT Class 12 Introductory Microeconomics, Chapter 2, extracted page 10"
+    },
+    {
+      "title": "2.2.2 Changes in the Budget Set",
+      "first_seen_page_index": 10,
+      "source_trace": "NCERT Class 12 Introductory Microeconomics, Chapter 2, extracted page 10"
+    },
+    {
+      "title": "M'<M M'>M",
+      "first_seen_page_index": 11,
+      "source_trace": "NCERT Class 12 Introductory Microeconomics, Chapter 2, extracted page 11"
+    },
+    {
+      "title": "19 Theory of Consumer",
+      "first_seen_page_index": 12,
+      "source_trace": "NCERT Class 12 Introductory Microeconomics, Chapter 2, extracted page 12"
+    },
+    {
+      "title": "2.3 OPTIMAL CHOICE OF THE CONSUMER",
+      "first_seen_page_index": 12,
+      "source_trace": "NCERT Class 12 Introductory Microeconomics, Chapter 2, extracted page 12"
+    },
+    {
+      "title": "21 Theory of Consumer",
+      "first_seen_page_index": 14,
+      "source_trace": "NCERT Class 12 Introductory Microeconomics, Chapter 2, extracted page 14"
+    },
+    {
+      "title": "2.4 DEMAND",
+      "first_seen_page_index": 14,
+      "source_trace": "NCERT Class 12 Introductory Microeconomics, Chapter 2, extracted page 14"
+    },
+    {
+      "title": "2.4.1 Demand Curve and the Law of",
+      "first_seen_page_index": 14,
+      "source_trace": "NCERT Class 12 Introductory Microeconomics, Chapter 2, extracted page 14"
+    },
+    {
+      "title": "EXAMPLE 1",
+      "first_seen_page_index": 14,
+      "source_trace": "NCERT Class 12 Introductory Microeconomics, Chapter 2, extracted page 14"
+    },
+    {
+      "title": "EXAMPLE 2",
+      "first_seen_page_index": 14,
+      "source_trace": "NCERT Class 12 Introductory Microeconomics, Chapter 2, extracted page 14"
+    },
+    {
+      "title": "23 Theory of Consumer",
+      "first_seen_page_index": 16,
+      "source_trace": "NCERT Class 12 Introductory Microeconomics, Chapter 2, extracted page 16"
+    },
+    {
+      "title": "2.4.2 Deriving a Demand Curve from Indifference Curves and Budget",
+      "first_seen_page_index": 16,
+      "source_trace": "NCERT Class 12 Introductory Microeconomics, Chapter 2, extracted page 16"
+    },
+    {
+      "title": "1 P , resulting in further",
+      "first_seen_page_index": 16,
+      "source_trace": "NCERT Class 12 Introductory Microeconomics, Chapter 2, extracted page 16"
+    },
+    {
+      "title": "1 P plotted against ∧",
+      "first_seen_page_index": 16,
+      "source_trace": "NCERT Class 12 Introductory Microeconomics, Chapter 2, extracted page 16"
+    },
+    {
+      "title": "1 X gives us the",
+      "first_seen_page_index": 16,
+      "source_trace": "NCERT Class 12 Introductory Microeconomics, Chapter 2, extracted page 16"
+    },
+    {
+      "title": "2.4.3 Normal and Inferior Goods",
+      "first_seen_page_index": 17,
+      "source_trace": "NCERT Class 12 Introductory Microeconomics, Chapter 2, extracted page 17"
+    },
+    {
+      "title": "25 Theory of Consumer",
+      "first_seen_page_index": 18,
+      "source_trace": "NCERT Class 12 Introductory Microeconomics, Chapter 2, extracted page 18"
+    },
+    {
+      "title": "2.4.4 Substitutes and Complements",
+      "first_seen_page_index": 18,
+      "source_trace": "NCERT Class 12 Introductory Microeconomics, Chapter 2, extracted page 18"
+    },
+    {
+      "title": "2.4.5 Shifts in the Demand Curve",
+      "first_seen_page_index": 18,
+      "source_trace": "NCERT Class 12 Introductory Microeconomics, Chapter 2, extracted page 18"
+    },
+    {
+      "title": "2.5 MARKET DEMAND",
+      "first_seen_page_index": 19,
+      "source_trace": "NCERT Class 12 Introductory Microeconomics, Chapter 2, extracted page 19"
+    },
+    {
+      "title": "2.4.6 Movements along the Demand Curve and Shifts in the",
+      "first_seen_page_index": 19,
+      "source_trace": "NCERT Class 12 Introductory Microeconomics, Chapter 2, extracted page 19"
+    },
+    {
+      "title": "27 Theory of Consumer",
+      "first_seen_page_index": 20,
+      "source_trace": "NCERT Class 12 Introductory Microeconomics, Chapter 2, extracted page 20"
+    },
+    {
+      "title": "2.6 ELASTICITY OF DEMAND",
+      "first_seen_page_index": 20,
+      "source_trace": "NCERT Class 12 Introductory Microeconomics, Chapter 2, extracted page 20"
+    },
+    {
+      "title": "EXAMPLE 2.2",
+      "first_seen_page_index": 21,
+      "source_trace": "NCERT Class 12 Introductory Microeconomics, Chapter 2, extracted page 21"
+    },
+    {
+      "title": "29 Theory of Consumer",
+      "first_seen_page_index": 22,
+      "source_trace": "NCERT Class 12 Introductory Microeconomics, Chapter 2, extracted page 22"
+    },
+    {
+      "title": "2.6.1 Elasticity along a Linear Demand Curve",
+      "first_seen_page_index": 22,
+      "source_trace": "NCERT Class 12 Introductory Microeconomics, Chapter 2, extracted page 22"
+    }
+  ],
+  "production_status": "concept_candidates_ready_for_human_decode"
+}

@@ -1,0 +1,223 @@
+{
+  "key": "gs3_sci_class11_physics_ch02_units_and_measurements",
+  "title": "Units and Measurements",
+  "source": {
+    "book": "NCERT Class 11 Physics",
+    "chapter": 2,
+    "chapter_title": "Units and Measurements",
+    "pdf_url": "https://ncert.nic.in/textbook.php?keph1=0-15",
+    "page_range": "pending source extraction"
+  },
+  "resolved_pdf_url": "https://ncert.nic.in/textbook/pdf/keph102.pdf",
+  "sha256": "4ac438a94deeb879483f783dde62663e8894396aab21bc9b5416276c6ff71f37",
+  "extraction": {
+    "raw_text_path": "data/study/textbook-first/raw-text/gs3_sci_class11_physics_ch02_units_and_measurements.txt",
+    "extracted_characters": 31783,
+    "page_count": 14,
+    "paragraph_count_estimate": 0,
+    "title_match_score": 0
+  },
+  "concept_candidates": [
+    {
+      "title": "CHAPTER TWO",
+      "first_seen_page_index": 1,
+      "source_trace": "NCERT Class 11 Physics, Chapter 2, extracted page 1"
+    },
+    {
+      "title": "MOTION IN A STRAIGHT LINE",
+      "first_seen_page_index": 1,
+      "source_trace": "NCERT Class 11 Physics, Chapter 2, extracted page 1"
+    },
+    {
+      "title": "2.1 Introduction",
+      "first_seen_page_index": 1,
+      "source_trace": "NCERT Class 11 Physics, Chapter 2, extracted page 1"
+    },
+    {
+      "title": "2.2 Instantaneous velocity and",
+      "first_seen_page_index": 1,
+      "source_trace": "NCERT Class 11 Physics, Chapter 2, extracted page 1"
+    },
+    {
+      "title": "2.3 Acceleration",
+      "first_seen_page_index": 1,
+      "source_trace": "NCERT Class 11 Physics, Chapter 2, extracted page 1"
+    },
+    {
+      "title": "2.4 Kinematic equations for",
+      "first_seen_page_index": 1,
+      "source_trace": "NCERT Class 11 Physics, Chapter 2, extracted page 1"
+    },
+    {
+      "title": "2.5 Relative velocity",
+      "first_seen_page_index": 1,
+      "source_trace": "NCERT Class 11 Physics, Chapter 2, extracted page 1"
+    },
+    {
+      "title": "PHYSICS 14",
+      "first_seen_page_index": 2,
+      "source_trace": "NCERT Class 11 Physics, Chapter 2, extracted page 2"
+    },
+    {
+      "title": "SPEED",
+      "first_seen_page_index": 2,
+      "source_trace": "NCERT Class 11 Physics, Chapter 2, extracted page 2"
+    },
+    {
+      "title": "MOTION IN A STRAIGHT LINE 15",
+      "first_seen_page_index": 3,
+      "source_trace": "NCERT Class 11 Physics, Chapter 2, extracted page 3"
+    },
+    {
+      "title": "PHYSICS 16",
+      "first_seen_page_index": 4,
+      "source_trace": "NCERT Class 11 Physics, Chapter 2, extracted page 4"
+    },
+    {
+      "title": "MOTION IN A STRAIGHT LINE 17",
+      "first_seen_page_index": 5,
+      "source_trace": "NCERT Class 11 Physics, Chapter 2, extracted page 5"
+    },
+    {
+      "title": "UNIFORMLY ACCELERATED MOTION",
+      "first_seen_page_index": 5,
+      "source_trace": "NCERT Class 11 Physics, Chapter 2, extracted page 5"
+    },
+    {
+      "title": "PHYSICS 18",
+      "first_seen_page_index": 6,
+      "source_trace": "NCERT Class 11 Physics, Chapter 2, extracted page 6"
+    },
+    {
+      "title": "MOTION IN A STRAIGHT LINE 19",
+      "first_seen_page_index": 7,
+      "source_trace": "NCERT Class 11 Physics, Chapter 2, extracted page 7"
+    },
+    {
+      "title": "PHYSICS 20",
+      "first_seen_page_index": 8,
+      "source_trace": "NCERT Class 11 Physics, Chapter 2, extracted page 8"
+    },
+    {
+      "title": "MOTION IN A STRAIGHT LINE 21",
+      "first_seen_page_index": 9,
+      "source_trace": "NCERT Class 11 Physics, Chapter 2, extracted page 9"
+    },
+    {
+      "title": "SUMMARY",
+      "first_seen_page_index": 9,
+      "source_trace": "NCERT Class 11 Physics, Chapter 2, extracted page 9"
+    },
+    {
+      "title": "PHYSICS 22",
+      "first_seen_page_index": 10,
+      "source_trace": "NCERT Class 11 Physics, Chapter 2, extracted page 10"
+    },
+    {
+      "title": "MOTION IN A STRAIGHT LINE 23",
+      "first_seen_page_index": 11,
+      "source_trace": "NCERT Class 11 Physics, Chapter 2, extracted page 11"
+    },
+    {
+      "title": "POINTS TO PONDER",
+      "first_seen_page_index": 11,
+      "source_trace": "NCERT Class 11 Physics, Chapter 2, extracted page 11"
+    },
+    {
+      "title": "PHYSICS 24",
+      "first_seen_page_index": 12,
+      "source_trace": "NCERT Class 11 Physics, Chapter 2, extracted page 12"
+    },
+    {
+      "title": "2.1 In which of the following examples of motion, can the body be considered",
+      "first_seen_page_index": 12,
+      "source_trace": "NCERT Class 11 Physics, Chapter 2, extracted page 12"
+    },
+    {
+      "title": "2.2 The position-time (x-t) graphs for two children A and B returning from their school",
+      "first_seen_page_index": 12,
+      "source_trace": "NCERT Class 11 Physics, Chapter 2, extracted page 12"
+    },
+    {
+      "title": "2.3 A woman starts from her home at 9.00 am, walks with a speed of 5 km h–1 on a",
+      "first_seen_page_index": 12,
+      "source_trace": "NCERT Class 11 Physics, Chapter 2, extracted page 12"
+    },
+    {
+      "title": "2.4 A drunkard walking in a narrow lane takes 5 steps forward and 3 steps backward,",
+      "first_seen_page_index": 12,
+      "source_trace": "NCERT Class 11 Physics, Chapter 2, extracted page 12"
+    },
+    {
+      "title": "2.5 A car moving along a straight highway with speed of 126 km h–1 is brought to a",
+      "first_seen_page_index": 12,
+      "source_trace": "NCERT Class 11 Physics, Chapter 2, extracted page 12"
+    },
+    {
+      "title": "2.6 A player throws a ball upwards with an initial speed of 29.4 m s–1.",
+      "first_seen_page_index": 12,
+      "source_trace": "NCERT Class 11 Physics, Chapter 2, extracted page 12"
+    },
+    {
+      "title": "2.7 Read each statement below carefully and state with reasons and examples, if it is",
+      "first_seen_page_index": 12,
+      "source_trace": "NCERT Class 11 Physics, Chapter 2, extracted page 12"
+    },
+    {
+      "title": "MOTION IN A STRAIGHT LINE 25",
+      "first_seen_page_index": 13,
+      "source_trace": "NCERT Class 11 Physics, Chapter 2, extracted page 13"
+    },
+    {
+      "title": "2.8 A ball is dropped from a height of 90 m on a floor. At each collision with the floor,",
+      "first_seen_page_index": 13,
+      "source_trace": "NCERT Class 11 Physics, Chapter 2, extracted page 13"
+    },
+    {
+      "title": "2.9 Explain clearly, with examples, the distinction between :",
+      "first_seen_page_index": 13,
+      "source_trace": "NCERT Class 11 Physics, Chapter 2, extracted page 13"
+    },
+    {
+      "title": "2.10 A man walks on a straight road from",
+      "first_seen_page_index": 13,
+      "source_trace": "NCERT Class 11 Physics, Chapter 2, extracted page 13"
+    },
+    {
+      "title": "2.11 In Exercises 2.9 and 2.10, we have",
+      "first_seen_page_index": 13,
+      "source_trace": "NCERT Class 11 Physics, Chapter 2, extracted page 13"
+    },
+    {
+      "title": "2.12 Look at the graphs (a) to (d) (Fig. 2.10) carefully",
+      "first_seen_page_index": 13,
+      "source_trace": "NCERT Class 11 Physics, Chapter 2, extracted page 13"
+    },
+    {
+      "title": "2.13 Figure 2.11shows the x-t plot of one-",
+      "first_seen_page_index": 13,
+      "source_trace": "NCERT Class 11 Physics, Chapter 2, extracted page 13"
+    },
+    {
+      "title": "2.14 A police van moving on a highway with a speed of",
+      "first_seen_page_index": 13,
+      "source_trace": "NCERT Class 11 Physics, Chapter 2, extracted page 13"
+    },
+    {
+      "title": "PHYSICS 26",
+      "first_seen_page_index": 14,
+      "source_trace": "NCERT Class 11 Physics, Chapter 2, extracted page 14"
+    },
+    {
+      "title": "2.15 Suggest a suitable physical situation for each of the following graphs (Fig 2.12):",
+      "first_seen_page_index": 14,
+      "source_trace": "NCERT Class 11 Physics, Chapter 2, extracted page 14"
+    },
+    {
+      "title": "2.16 Figure 2.13 gives the x-t plot of a particle executing one-dimensional simple",
+      "first_seen_page_index": 14,
+      "source_trace": "NCERT Class 11 Physics, Chapter 2, extracted page 14"
+    }
+  ],
+  "production_status": "concept_candidates_ready_for_human_decode"
+}

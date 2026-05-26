@@ -1,0 +1,113 @@
+{
+  "key": "gs3_economy_class12_micro_ch05_market_equilibrium",
+  "title": "Market Equilibrium",
+  "source": {
+    "book": "NCERT Class 12 Introductory Microeconomics",
+    "chapter": 5,
+    "chapter_title": "Market Equilibrium",
+    "pdf_url": "https://ncert.nic.in/textbook.php?leec2=0-5",
+    "page_range": "pending source extraction"
+  },
+  "resolved_pdf_url": "https://ncert.nic.in/textbook/pdf/leec205.pdf",
+  "sha256": "07fc8f4b6ade7c0dc92cfd11c7b387053db6b2d8ce4450e56aef721d924cd8a0",
+  "extraction": {
+    "raw_text_path": "data/study/textbook-first/raw-text/gs3_economy_class12_micro_ch05_market_equilibrium.txt",
+    "extracted_characters": 53744,
+    "page_count": 20,
+    "paragraph_count_estimate": 0,
+    "title_match_score": 1
+  },
+  "concept_candidates": [
+    {
+      "title": "5.1 EQUILIBRIUM, EXCESS DEMAND, EXCESS SUPPLY",
+      "first_seen_page_index": 1,
+      "source_trace": "NCERT Class 12 Introductory Microeconomics, Chapter 5, extracted page 1"
+    },
+    {
+      "title": "5.1.1 Market Equilibrium: Fixed Number of Firms",
+      "first_seen_page_index": 2,
+      "source_trace": "NCERT Class 12 Introductory Microeconomics, Chapter 5, extracted page 2"
+    },
+    {
+      "title": "73 Market Equilibrium",
+      "first_seen_page_index": 3,
+      "source_trace": "NCERT Class 12 Introductory Microeconomics, Chapter 5, extracted page 3"
+    },
+    {
+      "title": "EXAMPLE 5.1",
+      "first_seen_page_index": 3,
+      "source_trace": "NCERT Class 12 Introductory Microeconomics, Chapter 5, extracted page 3"
+    },
+    {
+      "title": "75 Market",
+      "first_seen_page_index": 5,
+      "source_trace": "NCERT Class 12 Introductory Microeconomics, Chapter 5, extracted page 5"
+    },
+    {
+      "title": "w = MRPL",
+      "first_seen_page_index": 5,
+      "source_trace": "NCERT Class 12 Introductory Microeconomics, Chapter 5, extracted page 5"
+    },
+    {
+      "title": "and MRPL = MR × MPL",
+      "first_seen_page_index": 5,
+      "source_trace": "NCERT Class 12 Introductory Microeconomics, Chapter 5, extracted page 5"
+    },
+    {
+      "title": "77 Market Equilibrium",
+      "first_seen_page_index": 7,
+      "source_trace": "NCERT Class 12 Introductory Microeconomics, Chapter 5, extracted page 7"
+    },
+    {
+      "title": "79 Market Equilibrium",
+      "first_seen_page_index": 9,
+      "source_trace": "NCERT Class 12 Introductory Microeconomics, Chapter 5, extracted page 9"
+    },
+    {
+      "title": "5.1.2 Market Equilibrium: Free Entry and Exit",
+      "first_seen_page_index": 10,
+      "source_trace": "NCERT Class 12 Introductory Microeconomics, Chapter 5, extracted page 10"
+    },
+    {
+      "title": "81 Market Equilibrium",
+      "first_seen_page_index": 11,
+      "source_trace": "NCERT Class 12 Introductory Microeconomics, Chapter 5, extracted page 11"
+    },
+    {
+      "title": "EXAMPLE 5.2",
+      "first_seen_page_index": 12,
+      "source_trace": "NCERT Class 12 Introductory Microeconomics, Chapter 5, extracted page 12"
+    },
+    {
+      "title": "83 Market Equilibrium",
+      "first_seen_page_index": 13,
+      "source_trace": "NCERT Class 12 Introductory Microeconomics, Chapter 5, extracted page 13"
+    },
+    {
+      "title": "5.2 APPLICATIONS",
+      "first_seen_page_index": 14,
+      "source_trace": "NCERT Class 12 Introductory Microeconomics, Chapter 5, extracted page 14"
+    },
+    {
+      "title": "5.2.1 Price Ceiling",
+      "first_seen_page_index": 14,
+      "source_trace": "NCERT Class 12 Introductory Microeconomics, Chapter 5, extracted page 14"
+    },
+    {
+      "title": "85 Market Equilibrium",
+      "first_seen_page_index": 15,
+      "source_trace": "NCERT Class 12 Introductory Microeconomics, Chapter 5, extracted page 15"
+    },
+    {
+      "title": "5.2.2 Price Floor",
+      "first_seen_page_index": 15,
+      "source_trace": "NCERT Class 12 Introductory Microeconomics, Chapter 5, extracted page 15"
+    },
+    {
+      "title": "87 Market Equilibrium",
+      "first_seen_page_index": 17,
+      "source_trace": "NCERT Class 12 Introductory Microeconomics, Chapter 5, extracted page 17"
+    }
+  ],
+  "production_status": "concept_candidates_ready_for_human_decode"
+}

@@ -1,0 +1,108 @@
+{
+  "key": "gs3_sci_class10_science_ch09_heredity_and_evolution",
+  "title": "Heredity and Evolution",
+  "source": {
+    "book": "NCERT Class 10 Science",
+    "chapter": 9,
+    "chapter_title": "Heredity and Evolution",
+    "pdf_url": "https://ncert.nic.in/textbook.php?jesc1=0-16",
+    "page_range": "pending source extraction"
+  },
+  "resolved_pdf_url": "https://ncert.nic.in/textbook/pdf/jesc109.pdf",
+  "sha256": "a647d66cd9dd9e767c1fea57baac3a7aeaf9cb7461f87dc3f619e6fee8947497",
+  "extraction": {
+    "raw_text_path": "data/study/textbook-first/raw-text/gs3_sci_class10_science_ch09_heredity_and_evolution.txt",
+    "extracted_characters": 58293,
+    "page_count": 27,
+    "paragraph_count_estimate": 1,
+    "title_match_score": 0
+  },
+  "concept_candidates": [
+    {
+      "title": "9 CHAPTER",
+      "first_seen_page_index": 1,
+      "source_trace": "NCERT Class 10 Science, Chapter 9, extracted page 1"
+    },
+    {
+      "title": "9.2.1 Image Formation by Spherical Mirrors",
+      "first_seen_page_index": 4,
+      "source_trace": "NCERT Class 10 Science, Chapter 9, extracted page 4"
+    },
+    {
+      "title": "9.2.2 Representation of Images Formed by Spherical",
+      "first_seen_page_index": 5,
+      "source_trace": "NCERT Class 10 Science, Chapter 9, extracted page 5"
+    },
+    {
+      "title": "Q U E S T I O N S",
+      "first_seen_page_index": 9,
+      "source_trace": "NCERT Class 10 Science, Chapter 9, extracted page 9"
+    },
+    {
+      "title": "9.2.3 Sign Convention for Reflection by Spherical Mirrors",
+      "first_seen_page_index": 9,
+      "source_trace": "NCERT Class 10 Science, Chapter 9, extracted page 9"
+    },
+    {
+      "title": "9.2.4 Mirror Formula and Magnification",
+      "first_seen_page_index": 10,
+      "source_trace": "NCERT Class 10 Science, Chapter 9, extracted page 10"
+    },
+    {
+      "title": "9.3.1 Refraction through a Rectangular Glass Slab",
+      "first_seen_page_index": 13,
+      "source_trace": "NCERT Class 10 Science, Chapter 9, extracted page 13"
+    },
+    {
+      "title": "as ABCD.",
+      "first_seen_page_index": 14,
+      "source_trace": "NCERT Class 10 Science, Chapter 9, extracted page 14"
+    },
+    {
+      "title": "9.3.2 The Refractive Index",
+      "first_seen_page_index": 15,
+      "source_trace": "NCERT Class 10 Science, Chapter 9, extracted page 15"
+    },
+    {
+      "title": "9.3.3 Refraction by Spherical Lenses",
+      "first_seen_page_index": 17,
+      "source_trace": "NCERT Class 10 Science, Chapter 9, extracted page 17"
+    },
+    {
+      "title": "9.3.4 Image Formation by Lenses",
+      "first_seen_page_index": 19,
+      "source_trace": "NCERT Class 10 Science, Chapter 9, extracted page 19"
+    },
+    {
+      "title": "9.3.5 Image Formation in Lenses Using Ray Diagrams",
+      "first_seen_page_index": 20,
+      "source_trace": "NCERT Class 10 Science, Chapter 9, extracted page 20"
+    },
+    {
+      "title": "9.3.6 Sign Convention for Spherical Lenses",
+      "first_seen_page_index": 22,
+      "source_trace": "NCERT Class 10 Science, Chapter 9, extracted page 22"
+    },
+    {
+      "title": "9.3.7 Lens Formula and Magnification",
+      "first_seen_page_index": 22,
+      "source_trace": "NCERT Class 10 Science, Chapter 9, extracted page 22"
+    },
+    {
+      "title": "9.3.8 Power of a Lens",
+      "first_seen_page_index": 24,
+      "source_trace": "NCERT Class 10 Science, Chapter 9, extracted page 24"
+    },
+    {
+      "title": "P = P1 + P2 + P3 + …",
+      "first_seen_page_index": 25,
+      "source_trace": "NCERT Class 10 Science, Chapter 9, extracted page 25"
+    },
+    {
+      "title": "E X E R C I S E S",
+      "first_seen_page_index": 26,
+      "source_trace": "NCERT Class 10 Science, Chapter 9, extracted page 26"
+    }
+  ],
+  "production_status": "concept_candidates_ready_for_human_decode"
+}

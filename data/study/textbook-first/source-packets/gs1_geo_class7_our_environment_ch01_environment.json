@@ -1,0 +1,63 @@
+{
+  "key": "gs1_geo_class7_our_environment_ch01_environment",
+  "title": "Environment",
+  "source": {
+    "book": "NCERT Class 7 Our Environment",
+    "chapter": 1,
+    "chapter_title": "Environment",
+    "pdf_url": "https://ncert.nic.in/textbook.php?gess2=0-9",
+    "page_range": "pending source extraction"
+  },
+  "resolved_pdf_url": "https://ncert.nic.in/textbook/pdf/gess201.pdf",
+  "sha256": "c1607aaf60d927f23b067e802635cf560221691eb887cb07385aa21f74eafef5",
+  "extraction": {
+    "raw_text_path": "data/study/textbook-first/raw-text/gs1_geo_class7_our_environment_ch01_environment.txt",
+    "extracted_characters": 9452,
+    "page_count": 6,
+    "paragraph_count_estimate": 0,
+    "title_match_score": 1
+  },
+  "concept_candidates": [
+    {
+      "title": "1 Environment",
+      "first_seen_page_index": 1,
+      "source_trace": "NCERT Class 7 Our Environment, Chapter 1, extracted page 1"
+    },
+    {
+      "title": "2 OUR ENVIRONMENT",
+      "first_seen_page_index": 2,
+      "source_trace": "NCERT Class 7 Our Environment, Chapter 1, extracted page 2"
+    },
+    {
+      "title": "ENVIRONMENT 3",
+      "first_seen_page_index": 3,
+      "source_trace": "NCERT Class 7 Our Environment, Chapter 1, extracted page 3"
+    },
+    {
+      "title": "NATURAL ENVIRONMENT",
+      "first_seen_page_index": 3,
+      "source_trace": "NCERT Class 7 Our Environment, Chapter 1, extracted page 3"
+    },
+    {
+      "title": "4 OUR ENVIRONMENT",
+      "first_seen_page_index": 4,
+      "source_trace": "NCERT Class 7 Our Environment, Chapter 1, extracted page 4"
+    },
+    {
+      "title": "ENVIRONMENT 5",
+      "first_seen_page_index": 5,
+      "source_trace": "NCERT Class 7 Our Environment, Chapter 1, extracted page 5"
+    },
+    {
+      "title": "HUMAN ENVIRONMENT",
+      "first_seen_page_index": 5,
+      "source_trace": "NCERT Class 7 Our Environment, Chapter 1, extracted page 5"
+    },
+    {
+      "title": "6 OUR ENVIRONMENT",
+      "first_seen_page_index": 6,
+      "source_trace": "NCERT Class 7 Our Environment, Chapter 1, extracted page 6"
+    }
+  ],
+  "production_status": "concept_candidates_ready_for_human_decode"
+}

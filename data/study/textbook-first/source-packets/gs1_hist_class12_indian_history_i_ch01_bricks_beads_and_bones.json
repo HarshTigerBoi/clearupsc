@@ -1,0 +1,223 @@
+{
+  "key": "gs1_hist_class12_indian_history_i_ch01_bricks_beads_and_bones",
+  "title": "Bricks Beads and Bones",
+  "source": {
+    "book": "NCERT Class 12 Themes in Indian History I",
+    "chapter": 1,
+    "chapter_title": "Bricks Beads and Bones",
+    "pdf_url": "https://ncert.nic.in/textbook.php?lehs1=0-4",
+    "page_range": "pending source extraction"
+  },
+  "resolved_pdf_url": "https://ncert.nic.in/textbook/pdf/lehs101.pdf",
+  "sha256": "85c18ebe4b061229aeddda879b5976846e18da7bfeb1cf813f494416e646f269",
+  "extraction": {
+    "raw_text_path": "data/study/textbook-first/raw-text/gs1_hist_class12_indian_history_i_ch01_bricks_beads_and_bones.txt",
+    "extracted_characters": 55319,
+    "page_count": 27,
+    "paragraph_count_estimate": 0,
+    "title_match_score": 1
+  },
+  "concept_candidates": [
+    {
+      "title": "THEME",
+      "first_seen_page_index": 1,
+      "source_trace": "NCERT Class 12 Themes in Indian History I, Chapter 1, extracted page 1"
+    },
+    {
+      "title": "1900 BCE. This decadent phase (1900 BCE-1300 BCE) is termed",
+      "first_seen_page_index": 1,
+      "source_trace": "NCERT Class 12 Themes in Indian History I, Chapter 1, extracted page 1"
+    },
+    {
+      "title": "THEMES IN INDIAN HISTORY 2",
+      "first_seen_page_index": 2,
+      "source_trace": "NCERT Class 12 Themes in Indian History I, Chapter 1, extracted page 2"
+    },
+    {
+      "title": "2.1 Agricultural technologies",
+      "first_seen_page_index": 3,
+      "source_trace": "NCERT Class 12 Themes in Indian History I, Chapter 1, extracted page 3"
+    },
+    {
+      "title": "BRICKS, BEADS AND BONES",
+      "first_seen_page_index": 3,
+      "source_trace": "NCERT Class 12 Themes in Indian History I, Chapter 1, extracted page 3"
+    },
+    {
+      "title": "AMRI-NAL",
+      "first_seen_page_index": 3,
+      "source_trace": "NCERT Class 12 Themes in Indian History I, Chapter 1, extracted page 3"
+    },
+    {
+      "title": "DAMB",
+      "first_seen_page_index": 3,
+      "source_trace": "NCERT Class 12 Themes in Indian History I, Chapter 1, extracted page 3"
+    },
+    {
+      "title": "SADAAT",
+      "first_seen_page_index": 3,
+      "source_trace": "NCERT Class 12 Themes in Indian History I, Chapter 1, extracted page 3"
+    },
+    {
+      "title": "DIJI",
+      "first_seen_page_index": 3,
+      "source_trace": "NCERT Class 12 Themes in Indian History I, Chapter 1, extracted page 3"
+    },
+    {
+      "title": "SISWAL",
+      "first_seen_page_index": 3,
+      "source_trace": "NCERT Class 12 Themes in Indian History I, Chapter 1, extracted page 3"
+    },
+    {
+      "title": "THEMES IN INDIAN HISTORY 4",
+      "first_seen_page_index": 4,
+      "source_trace": "NCERT Class 12 Themes in Indian History I, Chapter 1, extracted page 4"
+    },
+    {
+      "title": "FR O M ER N E S T MA C K AY ,",
+      "first_seen_page_index": 4,
+      "source_trace": "NCERT Class 12 Themes in Indian History I, Chapter 1, extracted page 4"
+    },
+    {
+      "title": "THEMES IN INDIAN HISTORY 6",
+      "first_seen_page_index": 6,
+      "source_trace": "NCERT Class 12 Themes in Indian History I, Chapter 1, extracted page 6"
+    },
+    {
+      "title": "3.1 Laying out drains",
+      "first_seen_page_index": 6,
+      "source_trace": "NCERT Class 12 Themes in Indian History I, Chapter 1, extracted page 6"
+    },
+    {
+      "title": "3.2 Domestic architecture",
+      "first_seen_page_index": 7,
+      "source_trace": "NCERT Class 12 Themes in Indian History I, Chapter 1, extracted page 7"
+    },
+    {
+      "title": "FROM ERNEST MACKAY,",
+      "first_seen_page_index": 7,
+      "source_trace": "NCERT Class 12 Themes in Indian History I, Chapter 1, extracted page 7"
+    },
+    {
+      "title": "THEMES IN INDIAN HISTORY 8",
+      "first_seen_page_index": 8,
+      "source_trace": "NCERT Class 12 Themes in Indian History I, Chapter 1, extracted page 8"
+    },
+    {
+      "title": "3.3 The Citadel",
+      "first_seen_page_index": 8,
+      "source_trace": "NCERT Class 12 Themes in Indian History I, Chapter 1, extracted page 8"
+    },
+    {
+      "title": "4.1 Burials",
+      "first_seen_page_index": 9,
+      "source_trace": "NCERT Class 12 Themes in Indian History I, Chapter 1, extracted page 9"
+    },
+    {
+      "title": "4.2 Looking for “luxuries”",
+      "first_seen_page_index": 9,
+      "source_trace": "NCERT Class 12 Themes in Indian History I, Chapter 1, extracted page 9"
+    },
+    {
+      "title": "THEMES IN INDIAN HISTORY 10",
+      "first_seen_page_index": 10,
+      "source_trace": "NCERT Class 12 Themes in Indian History I, Chapter 1, extracted page 10"
+    },
+    {
+      "title": "5.1 Identifying centres",
+      "first_seen_page_index": 11,
+      "source_trace": "NCERT Class 12 Themes in Indian History I, Chapter 1, extracted page 11"
+    },
+    {
+      "title": "THEMES IN INDIAN HISTORY 12",
+      "first_seen_page_index": 12,
+      "source_trace": "NCERT Class 12 Themes in Indian History I, Chapter 1, extracted page 12"
+    },
+    {
+      "title": "6.1 Materials from the subcontinent and beyond",
+      "first_seen_page_index": 12,
+      "source_trace": "NCERT Class 12 Themes in Indian History I, Chapter 1, extracted page 12"
+    },
+    {
+      "title": "6.2 Contact with distant lands",
+      "first_seen_page_index": 13,
+      "source_trace": "NCERT Class 12 Themes in Indian History I, Chapter 1, extracted page 13"
+    },
+    {
+      "title": "MESOPOTAMIA",
+      "first_seen_page_index": 13,
+      "source_trace": "NCERT Class 12 Themes in Indian History I, Chapter 1, extracted page 13"
+    },
+    {
+      "title": "DILMUN",
+      "first_seen_page_index": 13,
+      "source_trace": "NCERT Class 12 Themes in Indian History I, Chapter 1, extracted page 13"
+    },
+    {
+      "title": "TURAN",
+      "first_seen_page_index": 13,
+      "source_trace": "NCERT Class 12 Themes in Indian History I, Chapter 1, extracted page 13"
+    },
+    {
+      "title": "MELUHHA",
+      "first_seen_page_index": 13,
+      "source_trace": "NCERT Class 12 Themes in Indian History I, Chapter 1, extracted page 13"
+    },
+    {
+      "title": "THEMES IN INDIAN HISTORY 14",
+      "first_seen_page_index": 14,
+      "source_trace": "NCERT Class 12 Themes in Indian History I, Chapter 1, extracted page 14"
+    },
+    {
+      "title": "7.1 Seals and sealings",
+      "first_seen_page_index": 15,
+      "source_trace": "NCERT Class 12 Themes in Indian History I, Chapter 1, extracted page 15"
+    },
+    {
+      "title": "7.2 An enigmatic script",
+      "first_seen_page_index": 15,
+      "source_trace": "NCERT Class 12 Themes in Indian History I, Chapter 1, extracted page 15"
+    },
+    {
+      "title": "7.3 Weights",
+      "first_seen_page_index": 15,
+      "source_trace": "NCERT Class 12 Themes in Indian History I, Chapter 1, extracted page 15"
+    },
+    {
+      "title": "THEMES IN INDIAN HISTORY 16",
+      "first_seen_page_index": 16,
+      "source_trace": "NCERT Class 12 Themes in Indian History I, Chapter 1, extracted page 16"
+    },
+    {
+      "title": "8.1 Palaces and kings",
+      "first_seen_page_index": 16,
+      "source_trace": "NCERT Class 12 Themes in Indian History I, Chapter 1, extracted page 16"
+    },
+    {
+      "title": "SWAT",
+      "first_seen_page_index": 17,
+      "source_trace": "NCERT Class 12 Themes in Indian History I, Chapter 1, extracted page 17"
+    },
+    {
+      "title": "LATE",
+      "first_seen_page_index": 17,
+      "source_trace": "NCERT Class 12 Themes in Indian History I, Chapter 1, extracted page 17"
+    },
+    {
+      "title": "CEMETERY H",
+      "first_seen_page_index": 17,
+      "source_trace": "NCERT Class 12 Themes in Indian History I, Chapter 1, extracted page 17"
+    },
+    {
+      "title": "RANGPUR II B-C",
+      "first_seen_page_index": 17,
+      "source_trace": "NCERT Class 12 Themes in Indian History I, Chapter 1, extracted page 17"
+    },
+    {
+      "title": "JHUKAR",
+      "first_seen_page_index": 17,
+      "source_trace": "NCERT Class 12 Themes in Indian History I, Chapter 1, extracted page 17"
+    }
+  ],
+  "production_status": "concept_candidates_ready_for_human_decode"
+}

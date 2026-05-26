@@ -1,0 +1,193 @@
+{
+  "key": "gs3_env_class11_biology_ch15_plant_growth_and_development",
+  "title": "Plant Growth and Development",
+  "source": {
+    "book": "NCERT Class 11 Biology",
+    "chapter": 15,
+    "chapter_title": "Plant Growth and Development",
+    "pdf_url": "https://ncert.nic.in/textbook.php?kebo1=0-22",
+    "page_range": "pending source extraction"
+  },
+  "resolved_pdf_url": "https://ncert.nic.in/textbook/pdf/kebo115.pdf",
+  "sha256": "02f8cd8f5755ea09466487d6829b7c6ef1bece4550c582d391d03a937d8a0907",
+  "extraction": {
+    "raw_text_path": "data/study/textbook-first/raw-text/gs3_env_class11_biology_ch15_plant_growth_and_development.txt",
+    "extracted_characters": 28568,
+    "page_count": 12,
+    "paragraph_count_estimate": 0,
+    "title_match_score": 0
+  },
+  "concept_candidates": [
+    {
+      "title": "BODY FLUIDS AND CIRCULATION 193",
+      "first_seen_page_index": 1,
+      "source_trace": "NCERT Class 11 Biology, Chapter 15, extracted page 1"
+    },
+    {
+      "title": "15.1 BLOOD",
+      "first_seen_page_index": 1,
+      "source_trace": "NCERT Class 11 Biology, Chapter 15, extracted page 1"
+    },
+    {
+      "title": "15.1.1 Plasma",
+      "first_seen_page_index": 1,
+      "source_trace": "NCERT Class 11 Biology, Chapter 15, extracted page 1"
+    },
+    {
+      "title": "BODY FLUIDS AND CIRCULATION",
+      "first_seen_page_index": 1,
+      "source_trace": "NCERT Class 11 Biology, Chapter 15, extracted page 1"
+    },
+    {
+      "title": "CHAPTER 15",
+      "first_seen_page_index": 1,
+      "source_trace": "NCERT Class 11 Biology, Chapter 15, extracted page 1"
+    },
+    {
+      "title": "15.2 Lymph (Tissue",
+      "first_seen_page_index": 1,
+      "source_trace": "NCERT Class 11 Biology, Chapter 15, extracted page 1"
+    },
+    {
+      "title": "15.3 Circulatory",
+      "first_seen_page_index": 1,
+      "source_trace": "NCERT Class 11 Biology, Chapter 15, extracted page 1"
+    },
+    {
+      "title": "15.4 Double",
+      "first_seen_page_index": 1,
+      "source_trace": "NCERT Class 11 Biology, Chapter 15, extracted page 1"
+    },
+    {
+      "title": "15.5 Regulation of",
+      "first_seen_page_index": 1,
+      "source_trace": "NCERT Class 11 Biology, Chapter 15, extracted page 1"
+    },
+    {
+      "title": "15.6 Disorders of",
+      "first_seen_page_index": 1,
+      "source_trace": "NCERT Class 11 Biology, Chapter 15, extracted page 1"
+    },
+    {
+      "title": "194 BIOLOGY",
+      "first_seen_page_index": 2,
+      "source_trace": "NCERT Class 11 Biology, Chapter 15, extracted page 2"
+    },
+    {
+      "title": "15.1.2 Formed Elements",
+      "first_seen_page_index": 2,
+      "source_trace": "NCERT Class 11 Biology, Chapter 15, extracted page 2"
+    },
+    {
+      "title": "BODY FLUIDS AND CIRCULATION 195",
+      "first_seen_page_index": 3,
+      "source_trace": "NCERT Class 11 Biology, Chapter 15, extracted page 3"
+    },
+    {
+      "title": "15.1.3 Blood Groups",
+      "first_seen_page_index": 3,
+      "source_trace": "NCERT Class 11 Biology, Chapter 15, extracted page 3"
+    },
+    {
+      "title": "AB A, B nil AB, A, B, O",
+      "first_seen_page_index": 3,
+      "source_trace": "NCERT Class 11 Biology, Chapter 15, extracted page 3"
+    },
+    {
+      "title": "196 BIOLOGY",
+      "first_seen_page_index": 4,
+      "source_trace": "NCERT Class 11 Biology, Chapter 15, extracted page 4"
+    },
+    {
+      "title": "15.1.4 Coagulation of Blood",
+      "first_seen_page_index": 4,
+      "source_trace": "NCERT Class 11 Biology, Chapter 15, extracted page 4"
+    },
+    {
+      "title": "BODY FLUIDS AND CIRCULATION 197",
+      "first_seen_page_index": 5,
+      "source_trace": "NCERT Class 11 Biology, Chapter 15, extracted page 5"
+    },
+    {
+      "title": "15.2 LYMPH (TISSUE FLUID)",
+      "first_seen_page_index": 5,
+      "source_trace": "NCERT Class 11 Biology, Chapter 15, extracted page 5"
+    },
+    {
+      "title": "15.3 CIRCULATORY PATHWAYS",
+      "first_seen_page_index": 5,
+      "source_trace": "NCERT Class 11 Biology, Chapter 15, extracted page 5"
+    },
+    {
+      "title": "198 BIOLOGY",
+      "first_seen_page_index": 6,
+      "source_trace": "NCERT Class 11 Biology, Chapter 15, extracted page 6"
+    },
+    {
+      "title": "15.3.1 Human Circulatory System",
+      "first_seen_page_index": 6,
+      "source_trace": "NCERT Class 11 Biology, Chapter 15, extracted page 6"
+    },
+    {
+      "title": "BODY FLUIDS AND CIRCULATION 199",
+      "first_seen_page_index": 7,
+      "source_trace": "NCERT Class 11 Biology, Chapter 15, extracted page 7"
+    },
+    {
+      "title": "15.3.2 Cardiac Cycle",
+      "first_seen_page_index": 7,
+      "source_trace": "NCERT Class 11 Biology, Chapter 15, extracted page 7"
+    },
+    {
+      "title": "200 BIOLOGY",
+      "first_seen_page_index": 8,
+      "source_trace": "NCERT Class 11 Biology, Chapter 15, extracted page 8"
+    },
+    {
+      "title": "15.3.3 Electrocardiogram (ECG)",
+      "first_seen_page_index": 8,
+      "source_trace": "NCERT Class 11 Biology, Chapter 15, extracted page 8"
+    },
+    {
+      "title": "BODY FLUIDS AND CIRCULATION 201",
+      "first_seen_page_index": 9,
+      "source_trace": "NCERT Class 11 Biology, Chapter 15, extracted page 9"
+    },
+    {
+      "title": "15.4 DOUBLE CIRCULATION",
+      "first_seen_page_index": 9,
+      "source_trace": "NCERT Class 11 Biology, Chapter 15, extracted page 9"
+    },
+    {
+      "title": "202 BIOLOGY",
+      "first_seen_page_index": 10,
+      "source_trace": "NCERT Class 11 Biology, Chapter 15, extracted page 10"
+    },
+    {
+      "title": "15.5 REGULATION OF CARDIAC ACTIVITY",
+      "first_seen_page_index": 10,
+      "source_trace": "NCERT Class 11 Biology, Chapter 15, extracted page 10"
+    },
+    {
+      "title": "15.6 DISORDERS OF CIRCULATORY SYSTEM",
+      "first_seen_page_index": 10,
+      "source_trace": "NCERT Class 11 Biology, Chapter 15, extracted page 10"
+    },
+    {
+      "title": "BODY FLUIDS AND CIRCULATION 203",
+      "first_seen_page_index": 11,
+      "source_trace": "NCERT Class 11 Biology, Chapter 15, extracted page 11"
+    },
+    {
+      "title": "SUMMARY",
+      "first_seen_page_index": 11,
+      "source_trace": "NCERT Class 11 Biology, Chapter 15, extracted page 11"
+    },
+    {
+      "title": "204 BIOLOGY",
+      "first_seen_page_index": 12,
+      "source_trace": "NCERT Class 11 Biology, Chapter 15, extracted page 12"
+    }
+  ],
+  "production_status": "concept_candidates_ready_for_human_decode"
+}

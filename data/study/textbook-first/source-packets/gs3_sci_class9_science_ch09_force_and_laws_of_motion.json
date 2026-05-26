@@ -1,0 +1,93 @@
+{
+  "key": "gs3_sci_class9_science_ch09_force_and_laws_of_motion",
+  "title": "Force and Laws of Motion",
+  "source": {
+    "book": "NCERT Class 9 Science",
+    "chapter": 9,
+    "chapter_title": "Force and Laws of Motion",
+    "pdf_url": "https://ncert.nic.in/textbook.php?iesc1=0-15",
+    "page_range": "pending source extraction"
+  },
+  "resolved_pdf_url": "https://ncert.nic.in/textbook/pdf/iesc109.pdf",
+  "sha256": "d588c71178ea87439e9bce3234dadde876c9b54b71587cf4b1b367860c289d57",
+  "extraction": {
+    "raw_text_path": "data/study/textbook-first/raw-text/gs3_sci_class9_science_ch09_force_and_laws_of_motion.txt",
+    "extracted_characters": 47142,
+    "page_count": 22,
+    "paragraph_count_estimate": 0,
+    "title_match_score": 0
+  },
+  "concept_candidates": [
+    {
+      "title": "9.1 Law of Conservation of Mass",
+      "first_seen_page_index": 4,
+      "source_trace": "NCERT Class 9 Science, Chapter 9, extracted page 4"
+    },
+    {
+      "title": "9.2 Law of Constant Proportions",
+      "first_seen_page_index": 6,
+      "source_trace": "NCERT Class 9 Science, Chapter 9, extracted page 6"
+    },
+    {
+      "title": "9.3 Dalton’s Atomic Theory",
+      "first_seen_page_index": 7,
+      "source_trace": "NCERT Class 9 Science, Chapter 9, extracted page 7"
+    },
+    {
+      "title": "9.4 How Atoms Combine?",
+      "first_seen_page_index": 8,
+      "source_trace": "NCERT Class 9 Science, Chapter 9, extracted page 8"
+    },
+    {
+      "title": "9.4.1 Bonding by sharing of electrons — Covalent Bond",
+      "first_seen_page_index": 8,
+      "source_trace": "NCERT Class 9 Science, Chapter 9, extracted page 8"
+    },
+    {
+      "title": "9.4.2 Bonding by electron transfer — Ionic bond",
+      "first_seen_page_index": 11,
+      "source_trace": "NCERT Class 9 Science, Chapter 9, extracted page 11"
+    },
+    {
+      "title": "9.5 Writing Chemical Formulae",
+      "first_seen_page_index": 14,
+      "source_trace": "NCERT Class 9 Science, Chapter 9, extracted page 14"
+    },
+    {
+      "title": "9.5.1 Writing chemical formulae of covalent compounds",
+      "first_seen_page_index": 14,
+      "source_trace": "NCERT Class 9 Science, Chapter 9, extracted page 14"
+    },
+    {
+      "title": "9.5.2 Writing chemical formulae of ionic compounds",
+      "first_seen_page_index": 14,
+      "source_trace": "NCERT Class 9 Science, Chapter 9, extracted page 14"
+    },
+    {
+      "title": "9.6 Properties of the Ionic and the Covalent",
+      "first_seen_page_index": 16,
+      "source_trace": "NCERT Class 9 Science, Chapter 9, extracted page 16"
+    },
+    {
+      "title": "9 V Battery",
+      "first_seen_page_index": 17,
+      "source_trace": "NCERT Class 9 Science, Chapter 9, extracted page 17"
+    },
+    {
+      "title": "9.7 Molecular Mass of Covalent Compounds",
+      "first_seen_page_index": 18,
+      "source_trace": "NCERT Class 9 Science, Chapter 9, extracted page 18"
+    },
+    {
+      "title": "9.8 Formula Unit Mass of Ionic Compounds",
+      "first_seen_page_index": 18,
+      "source_trace": "NCERT Class 9 Science, Chapter 9, extracted page 18"
+    },
+    {
+      "title": "Li + LiNO3",
+      "first_seen_page_index": 21,
+      "source_trace": "NCERT Class 9 Science, Chapter 9, extracted page 21"
+    }
+  ],
+  "production_status": "concept_candidates_ready_for_human_decode"
+}

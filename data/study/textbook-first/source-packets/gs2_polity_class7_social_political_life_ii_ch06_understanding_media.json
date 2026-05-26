@@ -1,0 +1,88 @@
+{
+  "key": "gs2_polity_class7_social_political_life_ii_ch06_understanding_media",
+  "title": "Understanding Media",
+  "source": {
+    "book": "NCERT Class 7 Social and Political Life II",
+    "chapter": 6,
+    "chapter_title": "Understanding Media",
+    "pdf_url": "https://ncert.nic.in/textbook.php?gess3=0-9",
+    "page_range": "pending source extraction"
+  },
+  "resolved_pdf_url": "https://ncert.nic.in/textbook/pdf/gess306.pdf",
+  "sha256": "6cd614075466b759f97130422a70dc4681b108d79eb54cffa9ae1a04fca514b9",
+  "extraction": {
+    "raw_text_path": "data/study/textbook-first/raw-text/gs2_polity_class7_social_political_life_ii_ch06_understanding_media.txt",
+    "extracted_characters": 20943,
+    "page_count": 12,
+    "paragraph_count_estimate": 0,
+    "title_match_score": 1
+  },
+  "concept_candidates": [
+    {
+      "title": "64 Social and Political Life",
+      "first_seen_page_index": 1,
+      "source_trace": "NCERT Class 7 Social and Political Life II, Chapter 6, extracted page 1"
+    },
+    {
+      "title": "6CHAPTER",
+      "first_seen_page_index": 1,
+      "source_trace": "NCERT Class 7 Social and Political Life II, Chapter 6, extracted page 1"
+    },
+    {
+      "title": "65 Chapter 6: Understanding Media",
+      "first_seen_page_index": 2,
+      "source_trace": "NCERT Class 7 Social and Political Life II, Chapter 6, extracted page 2"
+    },
+    {
+      "title": "66 Social and Political Life",
+      "first_seen_page_index": 3,
+      "source_trace": "NCERT Class 7 Social and Political Life II, Chapter 6, extracted page 3"
+    },
+    {
+      "title": "68 Social and Political Life",
+      "first_seen_page_index": 5,
+      "source_trace": "NCERT Class 7 Social and Political Life II, Chapter 6, extracted page 5"
+    },
+    {
+      "title": "70 Social and Political Life",
+      "first_seen_page_index": 7,
+      "source_trace": "NCERT Class 7 Social and Political Life II, Chapter 6, extracted page 7"
+    },
+    {
+      "title": "72 Social and Political Life",
+      "first_seen_page_index": 9,
+      "source_trace": "NCERT Class 7 Social and Political Life II, Chapter 6, extracted page 9"
+    },
+    {
+      "title": "BIG BUSINESS HOUSES",
+      "first_seen_page_index": 10,
+      "source_trace": "NCERT Class 7 Social and Political Life II, Chapter 6, extracted page 10"
+    },
+    {
+      "title": "READERS,",
+      "first_seen_page_index": 10,
+      "source_trace": "NCERT Class 7 Social and Political Life II, Chapter 6, extracted page 10"
+    },
+    {
+      "title": "VIEWERS,",
+      "first_seen_page_index": 10,
+      "source_trace": "NCERT Class 7 Social and Political Life II, Chapter 6, extracted page 10"
+    },
+    {
+      "title": "LISTENERS",
+      "first_seen_page_index": 10,
+      "source_trace": "NCERT Class 7 Social and Political Life II, Chapter 6, extracted page 10"
+    },
+    {
+      "title": "MEDIA",
+      "first_seen_page_index": 10,
+      "source_trace": "NCERT Class 7 Social and Political Life II, Chapter 6, extracted page 10"
+    },
+    {
+      "title": "FIVE",
+      "first_seen_page_index": 11,
+      "source_trace": "NCERT Class 7 Social and Political Life II, Chapter 6, extracted page 11"
+    }
+  ],
+  "production_status": "concept_candidates_ready_for_human_decode"
+}

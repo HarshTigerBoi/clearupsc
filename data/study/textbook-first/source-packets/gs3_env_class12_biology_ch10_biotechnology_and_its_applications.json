@@ -1,0 +1,103 @@
+{
+  "key": "gs3_env_class12_biology_ch10_biotechnology_and_its_applications",
+  "title": "Biotechnology and its Applications",
+  "source": {
+    "book": "NCERT Class 12 Biology",
+    "chapter": 10,
+    "chapter_title": "Biotechnology and its Applications",
+    "pdf_url": "https://ncert.nic.in/textbook.php?lebo1=0-16",
+    "page_range": "pending source extraction"
+  },
+  "resolved_pdf_url": "https://ncert.nic.in/textbook/pdf/lebo110.pdf",
+  "sha256": "4da2923c699b97a1930ae6b1072bf75fb5b0429d724ead7ba06510f98730b826",
+  "extraction": {
+    "raw_text_path": "data/study/textbook-first/raw-text/gs3_env_class12_biology_ch10_biotechnology_and_its_applications.txt",
+    "extracted_characters": 25168,
+    "page_count": 11,
+    "paragraph_count_estimate": 0,
+    "title_match_score": 1
+  },
+  "concept_candidates": [
+    {
+      "title": "10.1 BIOTECHNOLOGICAL APPLICATIONS IN",
+      "first_seen_page_index": 1,
+      "source_trace": "NCERT Class 12 Biology, Chapter 10, extracted page 1"
+    },
+    {
+      "title": "AGRICULTURE",
+      "first_seen_page_index": 1,
+      "source_trace": "NCERT Class 12 Biology, Chapter 10, extracted page 1"
+    },
+    {
+      "title": "CHAPTER 10",
+      "first_seen_page_index": 1,
+      "source_trace": "NCERT Class 12 Biology, Chapter 10, extracted page 1"
+    },
+    {
+      "title": "BIOTECHNOLOGY AND ITS",
+      "first_seen_page_index": 1,
+      "source_trace": "NCERT Class 12 Biology, Chapter 10, extracted page 1"
+    },
+    {
+      "title": "APPLICATIONS",
+      "first_seen_page_index": 1,
+      "source_trace": "NCERT Class 12 Biology, Chapter 10, extracted page 1"
+    },
+    {
+      "title": "10.1 Biotechnological",
+      "first_seen_page_index": 1,
+      "source_trace": "NCERT Class 12 Biology, Chapter 10, extracted page 1"
+    },
+    {
+      "title": "10.2 Biotechnological",
+      "first_seen_page_index": 1,
+      "source_trace": "NCERT Class 12 Biology, Chapter 10, extracted page 1"
+    },
+    {
+      "title": "10.3 Transgenic Animals",
+      "first_seen_page_index": 1,
+      "source_trace": "NCERT Class 12 Biology, Chapter 10, extracted page 1"
+    },
+    {
+      "title": "10.4 Ethical Issues",
+      "first_seen_page_index": 1,
+      "source_trace": "NCERT Class 12 Biology, Chapter 10, extracted page 1"
+    },
+    {
+      "title": "BIOLOGY",
+      "first_seen_page_index": 2,
+      "source_trace": "NCERT Class 12 Biology, Chapter 10, extracted page 2"
+    },
+    {
+      "title": "BIOTECHNOLOGY AND ITS APPLICATIONS",
+      "first_seen_page_index": 3,
+      "source_trace": "NCERT Class 12 Biology, Chapter 10, extracted page 3"
+    },
+    {
+      "title": "10.2 BIOTECHNOLOGICAL APPLICATIONS IN MEDICINE",
+      "first_seen_page_index": 5,
+      "source_trace": "NCERT Class 12 Biology, Chapter 10, extracted page 5"
+    },
+    {
+      "title": "10.2.1 Genetically Engineered Insulin",
+      "first_seen_page_index": 5,
+      "source_trace": "NCERT Class 12 Biology, Chapter 10, extracted page 5"
+    },
+    {
+      "title": "10.2.2 Gene Therapy",
+      "first_seen_page_index": 6,
+      "source_trace": "NCERT Class 12 Biology, Chapter 10, extracted page 6"
+    },
+    {
+      "title": "10.2.3 Molecular Diagnosis",
+      "first_seen_page_index": 6,
+      "source_trace": "NCERT Class 12 Biology, Chapter 10, extracted page 6"
+    },
+    {
+      "title": "SUMMARY",
+      "first_seen_page_index": 10,
+      "source_trace": "NCERT Class 12 Biology, Chapter 10, extracted page 10"
+    }
+  ],
+  "production_status": "concept_candidates_ready_for_human_decode"
+}

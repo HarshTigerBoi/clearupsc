@@ -1,0 +1,223 @@
+{
+  "key": "gs3_economy_class12_micro_ch03_production_and_costs",
+  "title": "Production and Costs",
+  "source": {
+    "book": "NCERT Class 12 Introductory Microeconomics",
+    "chapter": 3,
+    "chapter_title": "Production and Costs",
+    "pdf_url": "https://ncert.nic.in/textbook.php?leec2=0-5",
+    "page_range": "pending source extraction"
+  },
+  "resolved_pdf_url": "https://ncert.nic.in/textbook/pdf/leec203.pdf",
+  "sha256": "03634018c6b7e686456d4e62284fa409cc8167a7c1762ce523127a2b76e2e996",
+  "extraction": {
+    "raw_text_path": "data/study/textbook-first/raw-text/gs3_economy_class12_micro_ch03_production_and_costs.txt",
+    "extracted_characters": 39043,
+    "page_count": 17,
+    "paragraph_count_estimate": 0,
+    "title_match_score": 1
+  },
+  "concept_candidates": [
+    {
+      "title": "3.1 PRODUCTION FUNCTION",
+      "first_seen_page_index": 1,
+      "source_trace": "NCERT Class 12 Introductory Microeconomics, Chapter 3, extracted page 1"
+    },
+    {
+      "title": "37 Production and Costs",
+      "first_seen_page_index": 2,
+      "source_trace": "NCERT Class 12 Introductory Microeconomics, Chapter 3, extracted page 2"
+    },
+    {
+      "title": "3.2 THE SHORT RUN AND THE LONG RUN",
+      "first_seen_page_index": 3,
+      "source_trace": "NCERT Class 12 Introductory Microeconomics, Chapter 3, extracted page 3"
+    },
+    {
+      "title": "39 Production and Costs",
+      "first_seen_page_index": 4,
+      "source_trace": "NCERT Class 12 Introductory Microeconomics, Chapter 3, extracted page 4"
+    },
+    {
+      "title": "3.3 TOTAL PRODUCT, AVERAGE PRODUCT AND MARGINAL PRODUCT",
+      "first_seen_page_index": 4,
+      "source_trace": "NCERT Class 12 Introductory Microeconomics, Chapter 3, extracted page 4"
+    },
+    {
+      "title": "3.3.1 Total Product",
+      "first_seen_page_index": 4,
+      "source_trace": "NCERT Class 12 Introductory Microeconomics, Chapter 3, extracted page 4"
+    },
+    {
+      "title": "3.3.2 Average Product",
+      "first_seen_page_index": 4,
+      "source_trace": "NCERT Class 12 Introductory Microeconomics, Chapter 3, extracted page 4"
+    },
+    {
+      "title": "3.3.3 Marginal Product",
+      "first_seen_page_index": 4,
+      "source_trace": "NCERT Class 12 Introductory Microeconomics, Chapter 3, extracted page 4"
+    },
+    {
+      "title": "3.4 THE LAW OF DIMINISHING MARGINAL PRODUCT AND",
+      "first_seen_page_index": 5,
+      "source_trace": "NCERT Class 12 Introductory Microeconomics, Chapter 3, extracted page 5"
+    },
+    {
+      "title": "THE LAW OF VARIABLE PROPORTIONS",
+      "first_seen_page_index": 5,
+      "source_trace": "NCERT Class 12 Introductory Microeconomics, Chapter 3, extracted page 5"
+    },
+    {
+      "title": "41 Production and Costs",
+      "first_seen_page_index": 6,
+      "source_trace": "NCERT Class 12 Introductory Microeconomics, Chapter 3, extracted page 6"
+    },
+    {
+      "title": "3.5 SHAPES OF TOTAL PRODUCT, MARGINAL PRODUCT",
+      "first_seen_page_index": 6,
+      "source_trace": "NCERT Class 12 Introductory Microeconomics, Chapter 3, extracted page 6"
+    },
+    {
+      "title": "AND AVERAGE PRODUCT CURVES",
+      "first_seen_page_index": 6,
+      "source_trace": "NCERT Class 12 Introductory Microeconomics, Chapter 3, extracted page 6"
+    },
+    {
+      "title": "3.6 RETURNS TO SCALE",
+      "first_seen_page_index": 7,
+      "source_trace": "NCERT Class 12 Introductory Microeconomics, Chapter 3, extracted page 7"
+    },
+    {
+      "title": "43 Production and Costs",
+      "first_seen_page_index": 8,
+      "source_trace": "NCERT Class 12 Introductory Microeconomics, Chapter 3, extracted page 8"
+    },
+    {
+      "title": "3.7.1 Short Run Costs",
+      "first_seen_page_index": 8,
+      "source_trace": "NCERT Class 12 Introductory Microeconomics, Chapter 3, extracted page 8"
+    },
+    {
+      "title": "3.7 COSTS",
+      "first_seen_page_index": 8,
+      "source_trace": "NCERT Class 12 Introductory Microeconomics, Chapter 3, extracted page 8"
+    },
+    {
+      "title": "TC = TVC + TFC (3.6)",
+      "first_seen_page_index": 9,
+      "source_trace": "NCERT Class 12 Introductory Microeconomics, Chapter 3, extracted page 9"
+    },
+    {
+      "title": "SAC = TC",
+      "first_seen_page_index": 9,
+      "source_trace": "NCERT Class 12 Introductory Microeconomics, Chapter 3, extracted page 9"
+    },
+    {
+      "title": "AVC = TVC",
+      "first_seen_page_index": 9,
+      "source_trace": "NCERT Class 12 Introductory Microeconomics, Chapter 3, extracted page 9"
+    },
+    {
+      "title": "AFC = TFC",
+      "first_seen_page_index": 9,
+      "source_trace": "NCERT Class 12 Introductory Microeconomics, Chapter 3, extracted page 9"
+    },
+    {
+      "title": "SAC = AVC + AFC (3.10)",
+      "first_seen_page_index": 9,
+      "source_trace": "NCERT Class 12 Introductory Microeconomics, Chapter 3, extracted page 9"
+    },
+    {
+      "title": "45 Production and Costs",
+      "first_seen_page_index": 10,
+      "source_trace": "NCERT Class 12 Introductory Microeconomics, Chapter 3, extracted page 10"
+    },
+    {
+      "title": "TFC c1",
+      "first_seen_page_index": 10,
+      "source_trace": "NCERT Class 12 Introductory Microeconomics, Chapter 3, extracted page 10"
+    },
+    {
+      "title": "Output TFC TVC TC AFC AVC SAC SMC",
+      "first_seen_page_index": 10,
+      "source_trace": "NCERT Class 12 Introductory Microeconomics, Chapter 3, extracted page 10"
+    },
+    {
+      "title": "= OF × Oq1",
+      "first_seen_page_index": 11,
+      "source_trace": "NCERT Class 12 Introductory Microeconomics, Chapter 3, extracted page 11"
+    },
+    {
+      "title": "47 Production and Costs",
+      "first_seen_page_index": 12,
+      "source_trace": "NCERT Class 12 Introductory Microeconomics, Chapter 3, extracted page 12"
+    },
+    {
+      "title": "AV C = TVC",
+      "first_seen_page_index": 12,
+      "source_trace": "NCERT Class 12 Introductory Microeconomics, Chapter 3, extracted page 12"
+    },
+    {
+      "title": "= OV × Oq0",
+      "first_seen_page_index": 13,
+      "source_trace": "NCERT Class 12 Introductory Microeconomics, Chapter 3, extracted page 13"
+    },
+    {
+      "title": "3.7.2 Long Run Costs",
+      "first_seen_page_index": 13,
+      "source_trace": "NCERT Class 12 Introductory Microeconomics, Chapter 3, extracted page 13"
+    },
+    {
+      "title": "LRAC = TC",
+      "first_seen_page_index": 13,
+      "source_trace": "NCERT Class 12 Introductory Microeconomics, Chapter 3, extracted page 13"
+    },
+    {
+      "title": "S AVC",
+      "first_seen_page_index": 13,
+      "source_trace": "NCERT Class 12 Introductory Microeconomics, Chapter 3, extracted page 13"
+    },
+    {
+      "title": "49 Production and Costs",
+      "first_seen_page_index": 14,
+      "source_trace": "NCERT Class 12 Introductory Microeconomics, Chapter 3, extracted page 14"
+    },
+    {
+      "title": "LRAC",
+      "first_seen_page_index": 14,
+      "source_trace": "NCERT Class 12 Introductory Microeconomics, Chapter 3, extracted page 14"
+    },
+    {
+      "title": "LRMC",
+      "first_seen_page_index": 14,
+      "source_trace": "NCERT Class 12 Introductory Microeconomics, Chapter 3, extracted page 14"
+    },
+    {
+      "title": "K K K K Key",
+      "first_seen_page_index": 15,
+      "source_trace": "NCERT Class 12 Introductory Microeconomics, Chapter 3, extracted page 15"
+    },
+    {
+      "title": "51 Production and Costs",
+      "first_seen_page_index": 16,
+      "source_trace": "NCERT Class 12 Introductory Microeconomics, Chapter 3, extracted page 16"
+    },
+    {
+      "title": "L APL",
+      "first_seen_page_index": 16,
+      "source_trace": "NCERT Class 12 Introductory Microeconomics, Chapter 3, extracted page 16"
+    },
+    {
+      "title": "L MPL",
+      "first_seen_page_index": 16,
+      "source_trace": "NCERT Class 12 Introductory Microeconomics, Chapter 3, extracted page 16"
+    },
+    {
+      "title": "L TPL",
+      "first_seen_page_index": 16,
+      "source_trace": "NCERT Class 12 Introductory Microeconomics, Chapter 3, extracted page 16"
+    }
+  ],
+  "production_status": "concept_candidates_ready_for_human_decode"
+}

@@ -1,0 +1,133 @@
+{
+  "key": "gs3_sci_class8_science_ch11_force_and_pressure",
+  "title": "Force and Pressure",
+  "source": {
+    "book": "NCERT Class 8 Science",
+    "chapter": 11,
+    "chapter_title": "Force and Pressure",
+    "pdf_url": "https://ncert.nic.in/textbook.php?hesc1=0-18",
+    "page_range": "pending source extraction"
+  },
+  "resolved_pdf_url": "https://ncert.nic.in/textbook/pdf/hesc111.pdf",
+  "sha256": "6565e0f88fa371b9b4ccbdaf7c99280935357f5a854f0ba73e9ddbaa3e845251",
+  "extraction": {
+    "raw_text_path": "data/study/textbook-first/raw-text/gs3_sci_class8_science_ch11_force_and_pressure.txt",
+    "extracted_characters": 22068,
+    "page_count": 12,
+    "paragraph_count_estimate": 0,
+    "title_match_score": 0
+  },
+  "concept_candidates": [
+    {
+      "title": "CHEMICAL EFFECTS OF",
+      "first_seen_page_index": 1,
+      "source_trace": "NCERT Class 8 Science, Chapter 11, extracted page 1"
+    },
+    {
+      "title": "ELECTRIC CURRENT",
+      "first_seen_page_index": 1,
+      "source_trace": "NCERT Class 8 Science, Chapter 11, extracted page 1"
+    },
+    {
+      "title": "11.1 Do Liquids Conduct",
+      "first_seen_page_index": 1,
+      "source_trace": "NCERT Class 8 Science, Chapter 11, extracted page 1"
+    },
+    {
+      "title": "CHEMICAL EFFECTS OF ELECTRIC CURRENT 139",
+      "first_seen_page_index": 2,
+      "source_trace": "NCERT Class 8 Science, Chapter 11, extracted page 2"
+    },
+    {
+      "title": "SCIENCE 140",
+      "first_seen_page_index": 3,
+      "source_trace": "NCERT Class 8 Science, Chapter 11, extracted page 3"
+    },
+    {
+      "title": "CHEMICAL EFFECTS OF ELECTRIC CURRENT 141",
+      "first_seen_page_index": 4,
+      "source_trace": "NCERT Class 8 Science, Chapter 11, extracted page 4"
+    },
+    {
+      "title": "SCIENCE 142",
+      "first_seen_page_index": 5,
+      "source_trace": "NCERT Class 8 Science, Chapter 11, extracted page 5"
+    },
+    {
+      "title": "11.2 Chemical Effects of",
+      "first_seen_page_index": 5,
+      "source_trace": "NCERT Class 8 Science, Chapter 11, extracted page 5"
+    },
+    {
+      "title": "CHEMICAL EFFECTS OF ELECTRIC CURRENT 143",
+      "first_seen_page_index": 6,
+      "source_trace": "NCERT Class 8 Science, Chapter 11, extracted page 6"
+    },
+    {
+      "title": "SCIENCE 144",
+      "first_seen_page_index": 7,
+      "source_trace": "NCERT Class 8 Science, Chapter 11, extracted page 7"
+    },
+    {
+      "title": "11.3 Electroplating",
+      "first_seen_page_index": 7,
+      "source_trace": "NCERT Class 8 Science, Chapter 11, extracted page 7"
+    },
+    {
+      "title": "CHEMICAL EFFECTS OF ELECTRIC CURRENT 145",
+      "first_seen_page_index": 8,
+      "source_trace": "NCERT Class 8 Science, Chapter 11, extracted page 8"
+    },
+    {
+      "title": "SCIENCE 146",
+      "first_seen_page_index": 9,
+      "source_trace": "NCERT Class 8 Science, Chapter 11, extracted page 9"
+    },
+    {
+      "title": "KEYWORDS KEYWORDS KEYWORDS KEYWORDS KEYWORDS",
+      "first_seen_page_index": 9,
+      "source_trace": "NCERT Class 8 Science, Chapter 11, extracted page 9"
+    },
+    {
+      "title": "ELECTRODE",
+      "first_seen_page_index": 9,
+      "source_trace": "NCERT Class 8 Science, Chapter 11, extracted page 9"
+    },
+    {
+      "title": "ELECTROPLATING",
+      "first_seen_page_index": 9,
+      "source_trace": "NCERT Class 8 Science, Chapter 11, extracted page 9"
+    },
+    {
+      "title": "GOOD CONDUCTOR",
+      "first_seen_page_index": 9,
+      "source_trace": "NCERT Class 8 Science, Chapter 11, extracted page 9"
+    },
+    {
+      "title": "POOR CONDUCTOR",
+      "first_seen_page_index": 9,
+      "source_trace": "NCERT Class 8 Science, Chapter 11, extracted page 9"
+    },
+    {
+      "title": "CHEMICAL EFFECTS OF ELECTRIC CURRENT 147",
+      "first_seen_page_index": 10,
+      "source_trace": "NCERT Class 8 Science, Chapter 11, extracted page 10"
+    },
+    {
+      "title": "E X E R C I S E S",
+      "first_seen_page_index": 10,
+      "source_trace": "NCERT Class 8 Science, Chapter 11, extracted page 10"
+    },
+    {
+      "title": "SCIENCE 148",
+      "first_seen_page_index": 11,
+      "source_trace": "NCERT Class 8 Science, Chapter 11, extracted page 11"
+    },
+    {
+      "title": "CHEMICAL EFFECTS OF ELECTRIC CURRENT 149",
+      "first_seen_page_index": 12,
+      "source_trace": "NCERT Class 8 Science, Chapter 11, extracted page 12"
+    }
+  ],
+  "production_status": "concept_candidates_ready_for_human_decode"
+}

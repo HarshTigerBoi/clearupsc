@@ -1,0 +1,236 @@
+{
+  "analogy": "Think of \"Government Budget and the Economy\" through the chapter's own opening images: Chapter 4Chapter 4 Determination of Income and Determination of Income and Determination of Income and Determination of Income and Determination of Income and Employment Employment Employment Employment Employment We have so far talked about the national income, price level, rate of interest etc. in an... The easy idea is that the visible surface is only the outside cover. The chapter keeps asking how we can know what is inside when no one can directly reach the deep interior. So the learner must read clues: rocks, mines, drilling, volcanic material, heat, gravity, magnetism and earthquake waves. Like solving a hidden-layer puzzle, each clue tells something about the crust, mantle, core and volcanic activity without inventing anything beyond the textbook.",
+  "full_notes": "Government Budget and the Economy is decoded here only from the NCERT chapter text. The chapter begins by asking how the nature of the earth should be imagined and why the interior cannot be known in the same direct way as the surface. It connects the hidden interior with visible results on the surface, especially landscape development, earthquakes, tsunamis and volcanic activity.\n\nThe text explains that chapter 4Chapter 4 Determination of Income and Determination of Income and Determination of Income and Determination of Income and Determination of Income and Employment Employment Employment Employment Employment We have so far talked about the national income, price level, rate of interest etc. in an ad hoc manner – without investigating the forces that govern their values.\n\nThe text explains that the basic objective of macroeconomics is to develop theoretical tools, called models, capable of describing the processes which determine the values of these variables.\n\nThe text explains that specifically, the models attempt to provide theoretical explanation to questions such as what causes periods of slow growth or recessions in the economy, or increment in the price level, or a rise in unemployment.\n\nThe text explains that it is difficult to account for all the variables at the same time.\n\nThe text explains that thus, when we concentrate on the determination of a particular variable, we must hold the values of all other variables constant.\n\nThe text explains that this is a stylisation typical of almost any theoretical exercise and is called the assumption of ceteris paribus, which literally means ‘other things remaining equal’.\n\nThe text explains that you can think of the procedure as follows – in order to solve for the values of two variables x and y from two equations, we solve for one variable, say x, in terms of y from one equation first, and then substitute this value into the other equation to obtain the complete solution.\n\nThe text explains that we apply the same method in the analysis of the macroeconomic system.\n\nThe text explains that in this chapter we deal with the determination of National Income under the assumption of fixed price of final goods and constant rate of interest in the economy.\n\nThe text explains that the theoretical model used in this chapter is based on the theory given by John Maynard Keynes.\n\nThe text explains that 4.1 AGGREGATE DEMAND AND ITS COMPONENTS In the chapter on National Income Accounting, we have come across terms like consumption, investment, or the total output of final goods and services in an economy (GDP).\n\nThe text explains that in Chapter 2 they were used in the accounting sense – denoting actual values of these items as measured by the activities within the economy in a certain year.\n\nThe text explains that we call these actual or accounting values ex post measures of these items.\n\nThe text explains that these terms, however, can be used with a different connotation.\n\nThe text explains that consumption may denote not what people have actually consumed in a given year, but what they\n\nThe text explains that 54 54 54 54 54 Introductory Macroeconomics had planned to consume during the same period.\n\nThe text explains that observe also, that without the government imposing indirect taxes and subsidies, the total value of final goods and services produced in the economy, GDP, becomes identically equal to the National Income.\n\nThe text explains that two reasons can be put forward: (i) at the first stage, we are assuming an economy with unused resources: machineries, buildings and labours.\n\nThe text explains that consumption Function – Graphical Representation Using the same logic, the consumption function can be shown as follows: Consumption function, where, C = intercept of the consumption function c = slope of consumption function = tan α Investment Function – Graphical Representation In a two sector model, there are two sources of final demand, the first is consumption and the second is investment.\n\nThe text explains that here, aggregate supply or the GDP is assumed to smoothly move up or down since they are unused resources of all types available.\n\nThe text explains that in the absence of indirect taxes or subsidies, the total value of the final goods output is distributed among different factors of production – wages to labour, interest to capital, rent to land etc.\n\nThe text explains that recall that equilibrium attained at the point of equality of Y and AD by itself does not signify full employment of resources.\n\nThe text explains that summary Summary Summary Summary Summary K K K K Key Conceptsey Concepts ey Concepts ey Concepts ey Concepts Aggregate demand Aggregate supply Equilibrium Ex ante Ex post Ex ante consumption Marginal propensity to consume Ex ante investment Unintended changes in inventories Autonomous change Parametric shift Effective demand principle Paradox of thrift Autonomous expenditure multiplier 1.\n\nThe text explains that how is it related to marginal propensity to save?\n\nThe text explains that what is the difference between ex ante investment and ex post investment?\n\nThe text explains that what do you understand by ‘parametric shift of a line’?\n\nThe text explains that how does a line shift when its (i) slope decreases, and (ii) its intercept increases?\n\nThe text explains that how will you derive the autonomous expenditure multiplier when price of final goods and the rate of interest are given?\n\nThe text explains that measure the level of ex-ante aggregate demand when autonomous investment and consumption expenditure (A) is Rs 50 crores, and MPS is 0.2 and level of income (Y) is Rs 4000 crores.\n\nThe text explains that state whether the economy is in equilibrium or not (cite reasons).\n\nThe text explains that suggested Readings Suggested Readings Suggested Readings Suggested Readings Suggested Readings 1 .\n\nThe text explains that macroeconomics, (fifth edition) pages 63 – 105.\n\nSource: NCERT Class 12 Introductory Macroeconomics, Chapter 4: Government Budget and the Economy",
+  "concise_notes": [
+    {
+      "term": "4.1 AGGREGATE DEMAND AND ITS COMPONENTS",
+      "definition": "4.1 AGGREGATE DEMAND AND ITS COMPONENTS In the chapter on National Income Accounting, we have come across terms like consumption, investment, or the total output of final goods...",
+      "source_trace": "NCERT Class 12 Macro Ch4 pg 1"
+    },
+    {
+      "term": "C C cY = + (4.1)",
+      "definition": "We can describe this function as: C C cY = + (4.1) The above equation is called the consumption function.",
+      "source_trace": "NCERT Class 12 Macro Ch4 pg 1"
+    },
+    {
+      "term": "MPC c",
+      "definition": "C MPC c Y ∆ = = ∆ Now, let us look at the value that MPC can take.",
+      "source_trace": "NCERT Class 12 Macro Ch4 pg 1"
+    },
+    {
+      "term": "MPS s",
+      "definition": "S MPS s Y     Since, S Y C   , ( ) 1 Y C s Y Y C Y Y c ...",
+      "source_trace": "NCERT Class 12 Macro Ch4 pg 2"
+    },
+    {
+      "term": "4.2 DETERMINATION OF INCOME IN TWO-SECTOR MODEL",
+      "definition": "Chapter 4Chapter 4 Determination of Income and Determination of Income and Determination of Income and Determination of Income and Determination of Income and Employment Employment Employment Employment Employment...",
+      "source_trace": "NCERT Class 12 Macro Ch4 pg 1"
+    },
+    {
+      "term": "AD = C + I + c.Y",
+      "definition": "Substituting the values of C and I from equations (4.1) and (4.2), aggregate demand for final goods can be written as AD = C + I + c.Y...",
+      "source_trace": "NCERT Class 12 Macro Ch4 pg 3"
+    },
+    {
+      "term": "Y = C + I + c.Y",
+      "definition": "Substituting the values of C and I from equations (4.1) and (4.2), aggregate demand for final goods can be written as AD = C + I + c.Y...",
+      "source_trace": "NCERT Class 12 Macro Ch4 pg 3"
+    },
+    {
+      "term": "Y = A + c.Y (4.3)",
+      "definition": "This equation can be further simplified by adding up the two autonomous terms, C and I , making it Y = A + c.Y (4.3) where A =...",
+      "source_trace": "NCERT Class 12 Macro Ch4 pg 3"
+    },
+    {
+      "term": "Y = C + I + G + c (Y – T )",
+      "definition": "Hence, equation (4.3) has to be modified in the following way to incorporate the government Y = C + I + G + c (Y – T )...",
+      "source_trace": "NCERT Class 12 Macro Ch4 pg 4"
+    },
+    {
+      "term": "C C cY  ",
+      "definition": "4.3.1 Macroeconomic Equilibrium with Price Level Fixed 4.3.1 Macroeconomic Equilibrium with Price Level Fixed 4.3.1 Macroeconomic Equilibrium with Price Level Fixed 4.3.1 Macroeconomic Equilibrium with Price Level Fixed...",
+      "source_trace": "NCERT Class 12 Macro Ch4 pg 4"
+    }
+  ],
+  "revision_bullets": [
+    "Chapter 4Chapter 4 Determination of Income and Determination of Income and Determination of Income and Determination of Income and Determination of Income and Employment Employment Employment... (NCERT Class 12 Macro Ch4 pg 1)",
+    "The basic objective of macroeconomics is to develop theoretical tools, called models, capable of describing the processes which determine the values of these variables. (NCERT Class 12 Macro Ch4 pg 1)",
+    "Specifically, the models attempt to provide theoretical explanation to questions such as what causes periods of slow growth or recessions in the economy, or increment in... (NCERT Class 12 Macro Ch4 pg 1)",
+    "It is difficult to account for all the variables at the same time. (NCERT Class 12 Macro Ch4 pg 1)",
+    "Thus, when we concentrate on the determination of a particular variable, we must hold the values of all other variables constant. (NCERT Class 12 Macro Ch4 pg 1)",
+    "This is a stylisation typical of almost any theoretical exercise and is called the assumption of ceteris paribus, which literally means ‘other things remaining equal’. (NCERT Class 12 Macro Ch4 pg 1)",
+    "You can think of the procedure as follows – in order to solve for the values of two variables x and y from two equations, we... (NCERT Class 12 Macro Ch4 pg 1)",
+    "We apply the same method in the analysis of the macroeconomic system. (NCERT Class 12 Macro Ch4 pg 1)",
+    "In this chapter we deal with the determination of National Income under the assumption of fixed price of final goods and constant rate of interest in... (NCERT Class 12 Macro Ch4 pg 1)",
+    "The theoretical model used in this chapter is based on the theory given by John Maynard Keynes. (NCERT Class 12 Macro Ch4 pg 1)"
+  ],
+  "cases": [
+    {
+      "name": "Chapter",
+      "point": "Chapter 4Chapter 4 Determination of Income and Determination of Income and Determination of Income and Determination of Income and Determination of Income and Employment Employment Employment... (NCERT Class 12 Macro Ch4 pg 1)"
+    },
+    {
+      "name": "In",
+      "point": "In this chapter we deal with the determination of National Income under the assumption of fixed price of final goods and constant rate of interest in... (NCERT Class 12 Macro Ch4 pg 1)"
+    },
+    {
+      "name": "The",
+      "point": "The theoretical model used in this chapter is based on the theory given by John Maynard Keynes. (NCERT Class 12 Macro Ch4 pg 1)"
+    },
+    {
+      "name": "AGGREGATE DEMAND AND ITS COMPONENTS",
+      "point": "4.1 AGGREGATE DEMAND AND ITS COMPONENTS In the chapter on National Income Accounting, we have come across terms like consumption, investment, or the total output of... (NCERT Class 12 Macro Ch4 pg 1)"
+    },
+    {
+      "name": "In Chapter",
+      "point": "In Chapter 2 they were used in the accounting sense – denoting actual values of these items as measured by the activities within the economy in... (NCERT Class 12 Macro Ch4 pg 1)"
+    }
+  ],
+  "schemes": [
+    {
+      "name": "DETERMINATION OF INCOME IN TWO",
+      "point": "4.2 DETERMINATION OF INCOME IN TWO-SECTOR MODEL In an economy without a government, the ex ante aggregate demand for final goods is the sum total of... (NCERT Class 12 Macro Ch4 pg 3)"
+    },
+    {
+      "name": "At",
+      "point": "At this point, we can introduce a government in this economy. (NCERT Class 12 Macro Ch4 pg 4)"
+    },
+    {
+      "name": "The",
+      "point": "The major economic activities of the government that affect the aggregate demand for final goods and services can be summarized by the fiscal variables Tax (T)... (NCERT Class 12 Macro Ch4 pg 4)"
+    },
+    {
+      "name": "Government",
+      "point": "Government, through its expenditure G on final goods and services, adds to the aggregate demand like other firms and households. (NCERT Class 12 Macro Ch4 pg 4)"
+    },
+    {
+      "name": "On",
+      "point": "On the other hand, taxes imposed by the government take a part of the income away from the household, whose disposable income, therefore, becomes Yd =... (NCERT Class 12 Macro Ch4 pg 4)"
+    }
+  ],
+  "ncert_coverage": [
+    "NCERT Class 12 Introductory Macroeconomics Chapter 4: Government Budget and the Economy"
+  ],
+  "prelims_traps": [
+    "Do not treat 4.1 AGGREGATE DEMAND AND ITS COMPONENTS and C C cY = + (4.1) as identical unless the source text links them directly.",
+    "Do not add outside examples to Government Budget and the Economy; use only the examples and processes named in the chapter.",
+    "Do not confuse a visible surface result with the internal process or source evidence described by the text."
+  ],
+  "mains_angles": [
+    "Explain Government Budget and the Economy through the source chain: evidence, process and visible result.",
+    "Use 4.1 AGGREGATE DEMAND AND ITS COMPONENTS and C C cY = + (4.1) to show how the chapter connects facts with mechanisms.",
+    "Frame an answer around causes, internal working, surface expression and source limitations from the NCERT chapter."
+  ],
+  "mcqs": [
+    {
+      "question_text": "In the NCERT discussion of Government Budget and the Economy, which statement is supported by the source text about 4.1 AGGREGATE DEMAND AND ITS COMPONENTS?",
+      "options": [
+        "Chapter 4Chapter 4 Determination of Income and Determination of Income and Determination of Income and Determination of Income and Determination of Income and Employment...",
+        "The basic objective of macroeconomics is to develop theoretical tools, called models, capable of describing the processes which determine the values of these variables.",
+        "Specifically, the models attempt to provide theoretical explanation to questions such as what causes periods of slow growth or recessions in the economy, or...",
+        "It is difficult to account for all the variables at the same time."
+      ],
+      "correct_answer": 0,
+      "pattern": "statement",
+      "source_trace": "NCERT Class 12 Macro Ch4 pg 1",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 3,
+      "concepts_tested": [
+        "4.1 AGGREGATE DEMAND AND ITS COMPONENTS"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Government Budget and the Economy, which statement is supported by the source text about C C cY = + (4.1)?",
+      "options": [
+        "Thus, when we concentrate on the determination of a particular variable, we must hold the values of all other variables constant.",
+        "This is a stylisation typical of almost any theoretical exercise and is called the assumption of ceteris paribus, which literally means ‘other things remaining...",
+        "You can think of the procedure as follows – in order to solve for the values of two variables x and y from two...",
+        "We apply the same method in the analysis of the macroeconomic system."
+      ],
+      "correct_answer": 0,
+      "pattern": "statement",
+      "source_trace": "NCERT Class 12 Macro Ch4 pg 1",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 3,
+      "concepts_tested": [
+        "C C cY = + (4.1)"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Government Budget and the Economy, which statement is supported by the source text about MPC c?",
+      "options": [
+        "In this chapter we deal with the determination of National Income under the assumption of fixed price of final goods and constant rate of...",
+        "The theoretical model used in this chapter is based on the theory given by John Maynard Keynes.",
+        "4.1 AGGREGATE DEMAND AND ITS COMPONENTS In the chapter on National Income Accounting, we have come across terms like consumption, investment, or the total...",
+        "In Chapter 2 they were used in the accounting sense – denoting actual values of these items as measured by the activities within the..."
+      ],
+      "correct_answer": 0,
+      "pattern": "not_type",
+      "source_trace": "NCERT Class 12 Macro Ch4 pg 1",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 3,
+      "concepts_tested": [
+        "MPC c"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Government Budget and the Economy, which statement is supported by the source text about MPS s?",
+      "options": [
+        "We call these actual or accounting values ex post measures of these items.",
+        "These terms, however, can be used with a different connotation.",
+        "Consumption may denote not what people have actually consumed in a given year, but what they",
+        "54 54 54 54 54 Introductory Macroeconomics had planned to consume during the same period."
+      ],
+      "correct_answer": 0,
+      "pattern": "statement",
+      "source_trace": "NCERT Class 12 Macro Ch4 pg 1",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 3,
+      "concepts_tested": [
+        "MPS s"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Government Budget and the Economy, which statement is supported by the source text about 4.2 DETERMINATION OF INCOME IN TWO-SECTOR MODEL?",
+      "options": [
+        "Similarly, investment can mean the amount a producer plans to add to her inventory.",
+        "Suppose the producer plans to add Rs 100 worth goods to her stock by the end of the year.",
+        "Her planned investment is, therefore, Rs 100 in that year.",
+        "However, due to an unforeseen upsurge of demand for her goods in the market the volume of her sales exceeds what she had planned..."
+      ],
+      "correct_answer": 0,
+      "pattern": "statement",
+      "source_trace": "NCERT Class 12 Macro Ch4 pg 1",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 3,
+      "concepts_tested": [
+        "4.2 DETERMINATION OF INCOME IN TWO-SECTOR MODEL"
+      ]
+    }
+  ],
+  "source_audit": {
+    "source_only": true,
+    "uncertain_or_omitted": [],
+    "generation_method": "local_source_only_extractive_decode"
+  },
+  "content_model": "clearupsc_textbook_decoded_from_source_v1",
+  "decode_status": "textbook_decoded",
+  "source": {
+    "book": "NCERT Class 12 Introductory Macroeconomics",
+    "chapter": 4,
+    "chapter_title": "Government Budget and the Economy",
+    "pdf_url": "https://ncert.nic.in/textbook.php?leec1=0-6",
+    "page_range": "pending source extraction"
+  },
+  "resolved_pdf_url": "https://ncert.nic.in/textbook/pdf/leec104.pdf",
+  "source_trace": "NCERT Class 12 Introductory Macroeconomics | Chapter 4: Government Budget and the Economy | https://ncert.nic.in/textbook/pdf/leec104.pdf | sha256:b1ffed1daa89c998a2fa204e1fe4fbae58fc71131c8ee3dfefc07b1b3f12291c",
+  "raw_text_path": "data/study/textbook-first/raw-text/gs3_economy_class12_macro_ch04_government_budget_and_the_economy.txt",
+  "generated_by": "local_source_only_extractive_decode",
+  "generated_at": "2026-05-26T19:39:08.463Z"
+}

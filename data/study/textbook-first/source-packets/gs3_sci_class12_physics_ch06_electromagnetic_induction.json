@@ -1,0 +1,223 @@
+{
+  "key": "gs3_sci_class12_physics_ch06_electromagnetic_induction",
+  "title": "Electromagnetic Induction",
+  "source": {
+    "book": "NCERT Class 12 Physics",
+    "chapter": 6,
+    "chapter_title": "Electromagnetic Induction",
+    "pdf_url": "https://ncert.nic.in/textbook.php?leph1=0-14",
+    "page_range": "pending source extraction"
+  },
+  "resolved_pdf_url": "https://ncert.nic.in/textbook/pdf/leph106.pdf",
+  "sha256": "014dc9fb7804acee25838361b1a720e40e0c7ca0b0fb162adfc37706b9d1b932",
+  "extraction": {
+    "raw_text_path": "data/study/textbook-first/raw-text/gs3_sci_class12_physics_ch06_electromagnetic_induction.txt",
+    "extracted_characters": 45701,
+    "page_count": 23,
+    "paragraph_count_estimate": 0,
+    "title_match_score": 1
+  },
+  "concept_candidates": [
+    {
+      "title": "6.1 INTRODUCTION",
+      "first_seen_page_index": 1,
+      "source_trace": "NCERT Class 12 Physics, Chapter 6, extracted page 1"
+    },
+    {
+      "title": "ELECTROMAGNETIC",
+      "first_seen_page_index": 1,
+      "source_trace": "NCERT Class 12 Physics, Chapter 6, extracted page 1"
+    },
+    {
+      "title": "INDUCTION",
+      "first_seen_page_index": 1,
+      "source_trace": "NCERT Class 12 Physics, Chapter 6, extracted page 1"
+    },
+    {
+      "title": "6.2 THE EXPERIMENTS OF FARADAY AND",
+      "first_seen_page_index": 2,
+      "source_trace": "NCERT Class 12 Physics, Chapter 6, extracted page 2"
+    },
+    {
+      "title": "HENRY",
+      "first_seen_page_index": 2,
+      "source_trace": "NCERT Class 12 Physics, Chapter 6, extracted page 2"
+    },
+    {
+      "title": "JOSEPH HENRY (1797 – 1878)",
+      "first_seen_page_index": 2,
+      "source_trace": "NCERT Class 12 Physics, Chapter 6, extracted page 2"
+    },
+    {
+      "title": "6.3 MAGNETIC FLUX",
+      "first_seen_page_index": 3,
+      "source_trace": "NCERT Class 12 Physics, Chapter 6, extracted page 3"
+    },
+    {
+      "title": "F B = B . A = BA cos",
+      "first_seen_page_index": 4,
+      "source_trace": "NCERT Class 12 Physics, Chapter 6, extracted page 4"
+    },
+    {
+      "title": "Φ = + + B A B A . . B",
+      "first_seen_page_index": 4,
+      "source_trace": "NCERT Class 12 Physics, Chapter 6, extracted page 4"
+    },
+    {
+      "title": "6.4 FARADAY’S LAW OF INDUCTION",
+      "first_seen_page_index": 4,
+      "source_trace": "NCERT Class 12 Physics, Chapter 6, extracted page 4"
+    },
+    {
+      "title": "EXAMPLE",
+      "first_seen_page_index": 5,
+      "source_trace": "NCERT Class 12 Physics, Chapter 6, extracted page 5"
+    },
+    {
+      "title": "0.10 T is set up across the plane in the north-east direction. The",
+      "first_seen_page_index": 5,
+      "source_trace": "NCERT Class 12 Physics, Chapter 6, extracted page 5"
+    },
+    {
+      "title": "MICHAEL FARADAY (1791–1867)",
+      "first_seen_page_index": 5,
+      "source_trace": "NCERT Class 12 Physics, Chapter 6, extracted page 5"
+    },
+    {
+      "title": "I = e/R = 1.9 × 10–3 A",
+      "first_seen_page_index": 6,
+      "source_trace": "NCERT Class 12 Physics, Chapter 6, extracted page 6"
+    },
+    {
+      "title": "6.5 LENZ’S LAW AND CONSERVATION OF ENERGY",
+      "first_seen_page_index": 7,
+      "source_trace": "NCERT Class 12 Physics, Chapter 6, extracted page 7"
+    },
+    {
+      "title": "FIGURE 6.6",
+      "first_seen_page_index": 7,
+      "source_trace": "NCERT Class 12 Physics, Chapter 6, extracted page 7"
+    },
+    {
+      "title": "FIGURE 6.7",
+      "first_seen_page_index": 8,
+      "source_trace": "NCERT Class 12 Physics, Chapter 6, extracted page 8"
+    },
+    {
+      "title": "FIGURE 6.8",
+      "first_seen_page_index": 9,
+      "source_trace": "NCERT Class 12 Physics, Chapter 6, extracted page 9"
+    },
+    {
+      "title": "FIGURE 6.9",
+      "first_seen_page_index": 9,
+      "source_trace": "NCERT Class 12 Physics, Chapter 6, extracted page 9"
+    },
+    {
+      "title": "6.6 MOTIONAL ELECTROMOTIVE FORCE",
+      "first_seen_page_index": 9,
+      "source_trace": "NCERT Class 12 Physics, Chapter 6, extracted page 9"
+    },
+    {
+      "title": "FIGURE 6.11",
+      "first_seen_page_index": 11,
+      "source_trace": "NCERT Class 12 Physics, Chapter 6, extracted page 11"
+    },
+    {
+      "title": "6.7 INDUCTANCE",
+      "first_seen_page_index": 12,
+      "source_trace": "NCERT Class 12 Physics, Chapter 6, extracted page 12"
+    },
+    {
+      "title": "6.7.1 Mutual inductance",
+      "first_seen_page_index": 12,
+      "source_trace": "NCERT Class 12 Physics, Chapter 6, extracted page 12"
+    },
+    {
+      "title": "6.7.2 Self-inductance",
+      "first_seen_page_index": 15,
+      "source_trace": "NCERT Class 12 Physics, Chapter 6, extracted page 15"
+    },
+    {
+      "title": "B L N I",
+      "first_seen_page_index": 15,
+      "source_trace": "NCERT Class 12 Physics, Chapter 6, extracted page 15"
+    },
+    {
+      "title": "W W L I I",
+      "first_seen_page_index": 16,
+      "source_trace": "NCERT Class 12 Physics, Chapter 6, extracted page 16"
+    },
+    {
+      "title": "N1 1 11 1 12 2 M I M I",
+      "first_seen_page_index": 16,
+      "source_trace": "NCERT Class 12 Physics, Chapter 6, extracted page 16"
+    },
+    {
+      "title": "B U LI =",
+      "first_seen_page_index": 16,
+      "source_trace": "NCERT Class 12 Physics, Chapter 6, extracted page 16"
+    },
+    {
+      "title": "0 B since for a solenoid ,",
+      "first_seen_page_index": 16,
+      "source_trace": "NCERT Class 12 Physics, Chapter 6, extracted page 16"
+    },
+    {
+      "title": "6.8 AC GENERATOR",
+      "first_seen_page_index": 17,
+      "source_trace": "NCERT Class 12 Physics, Chapter 6, extracted page 17"
+    },
+    {
+      "title": "N NBA t",
+      "first_seen_page_index": 18,
+      "source_trace": "NCERT Class 12 Physics, Chapter 6, extracted page 18"
+    },
+    {
+      "title": "SUMMARY",
+      "first_seen_page_index": 20,
+      "source_trace": "NCERT Class 12 Physics, Chapter 6, extracted page 20"
+    },
+    {
+      "title": "FB = B.A = BA cos",
+      "first_seen_page_index": 20,
+      "source_trace": "NCERT Class 12 Physics, Chapter 6, extracted page 20"
+    },
+    {
+      "title": "POINTS TO PONDER",
+      "first_seen_page_index": 21,
+      "source_trace": "NCERT Class 12 Physics, Chapter 6, extracted page 21"
+    },
+    {
+      "title": "6.1 Predict the direction of induced current in the situations described",
+      "first_seen_page_index": 21,
+      "source_trace": "NCERT Class 12 Physics, Chapter 6, extracted page 21"
+    },
+    {
+      "title": "FB = B A i",
+      "first_seen_page_index": 21,
+      "source_trace": "NCERT Class 12 Physics, Chapter 6, extracted page 21"
+    },
+    {
+      "title": "FIGURE 6.15",
+      "first_seen_page_index": 22,
+      "source_trace": "NCERT Class 12 Physics, Chapter 6, extracted page 22"
+    },
+    {
+      "title": "6.2 Use Lenz’s law to determine the direction of induced current in the",
+      "first_seen_page_index": 22,
+      "source_trace": "NCERT Class 12 Physics, Chapter 6, extracted page 22"
+    },
+    {
+      "title": "FIGURE 6.16",
+      "first_seen_page_index": 23,
+      "source_trace": "NCERT Class 12 Physics, Chapter 6, extracted page 23"
+    },
+    {
+      "title": "6.3 A long solenoid with 15 turns per cm has a small loop of area 2.0 cm2",
+      "first_seen_page_index": 23,
+      "source_trace": "NCERT Class 12 Physics, Chapter 6, extracted page 23"
+    }
+  ],
+  "production_status": "concept_candidates_ready_for_human_decode"
+}

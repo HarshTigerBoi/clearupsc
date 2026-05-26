@@ -1,0 +1,2237 @@
+{
+  "generated_at": "2026-05-26T19:38:58.015Z",
+  "raw_text_inventory_count": 321,
+  "acquisition_fetched_count": 317,
+  "requested": {
+    "key": null,
+    "limit": "all",
+    "dryRun": false,
+    "force": true,
+    "decoder": "local_source_only"
+  },
+  "decoded": 317,
+  "skipped_existing": 0,
+  "failed": [],
+  "rows": [
+    {
+      "key": "gs1_geo_class11_india_ch01_location",
+      "status": "decoded_saved",
+      "model": "local_source_only_extractive_decode",
+      "output_path": "data/study/textbook-first/decoded-notes/gs1_geo_class11_india_ch01_location.json",
+      "full_notes_words": 754
+    },
+    {
+      "key": "gs1_geo_class11_india_ch02_structure_physiography",
+      "status": "decoded_saved",
+      "model": "local_source_only_extractive_decode",
+      "output_path": "data/study/textbook-first/decoded-notes/gs1_geo_class11_india_ch02_structure_physiography.json",
+      "full_notes_words": 1108
+    },
+    {
+      "key": "gs1_geo_class11_india_ch03_drainage_system",
+      "status": "decoded_saved",
+      "model": "local_source_only_extractive_decode",
+      "output_path": "data/study/textbook-first/decoded-notes/gs1_geo_class11_india_ch03_drainage_system.json",
+      "full_notes_words": 965
+    },
+    {
+      "key": "gs1_geo_class11_india_ch04_climate",
+      "status": "decoded_saved",
+      "model": "local_source_only_extractive_decode",
+      "output_path": "data/study/textbook-first/decoded-notes/gs1_geo_class11_india_ch04_climate.json",
+      "full_notes_words": 1386
+    },
+    {
+      "key": "gs1_geo_class11_india_ch05_natural_vegetation",
+      "status": "decoded_saved",
+      "model": "local_source_only_extractive_decode",
+      "output_path": "data/study/textbook-first/decoded-notes/gs1_geo_class11_india_ch05_natural_vegetation.json",
+      "full_notes_words": 959
+    },
+    {
+      "key": "gs1_geo_class11_india_ch06_soils",
+      "status": "decoded_saved",
+      "model": "local_source_only_extractive_decode",
+      "output_path": "data/study/textbook-first/decoded-notes/gs1_geo_class11_india_ch06_soils.json",
+      "full_notes_words": 1746
+    },
+    {
+      "key": "gs1_geo_class11_phys_ch02_origin_evolution_earth",
+      "status": "decoded_saved",
+      "model": "local_source_only_extractive_decode",
+      "output_path": "data/study/textbook-first/decoded-notes/gs1_geo_class11_phys_ch02_origin_evolution_earth.json",
+      "full_notes_words": 1077
+    },
+    {
+      "key": "gs1_geo_class11_phys_ch03_interior_of_earth",
+      "status": "decoded_saved",
+      "model": "local_source_only_extractive_decode",
+      "output_path": "data/study/textbook-first/decoded-notes/gs1_geo_class11_phys_ch03_interior_of_earth.json",
+      "full_notes_words": 1211
+    },
+    {
+      "key": "gs1_geo_class11_phys_ch04_distribution_oceans_continents",
+      "status": "decoded_saved",
+      "model": "local_source_only_extractive_decode",
+      "output_path": "data/study/textbook-first/decoded-notes/gs1_geo_class11_phys_ch04_distribution_oceans_continents.json",
+      "full_notes_words": 1336
+    },
+    {
+      "key": "gs1_geo_class11_phys_ch05_minerals_and_rocks",
+      "status": "decoded_saved",
+      "model": "local_source_only_extractive_decode",
+      "output_path": "data/study/textbook-first/decoded-notes/gs1_geo_class11_phys_ch05_minerals_and_rocks.json",
+      "full_notes_words": 1477
+    },
+    {
+      "key": "gs1_geo_class11_phys_ch06_geomorphic_processes",
+      "status": "decoded_saved",
+      "model": "local_source_only_extractive_decode",
+      "output_path": "data/study/textbook-first/decoded-notes/gs1_geo_class11_phys_ch06_geomorphic_processes.json",
+      "full_notes_words": 1340
+    },
+    {
+      "key": "gs1_geo_class11_phys_ch07_landforms_evolution",
+      "status": "decoded_saved",
+      "model": "local_source_only_extractive_decode",
+      "output_path": "data/study/textbook-first/decoded-notes/gs1_geo_class11_phys_ch07_landforms_evolution.json",
+      "full_notes_words": 1006
+    },
+    {
+      "key": "gs1_geo_class11_phys_ch08_composition_and_structure_of_atmosphere",
+      "status": "decoded_saved",
+      "model": "local_source_only_extractive_decode",
+      "output_path": "data/study/textbook-first/decoded-notes/gs1_geo_class11_phys_ch08_composition_and_structure_of_atmosphere.json",
+      "full_notes_words": 1250
+    },
+    {
+      "key": "gs1_geo_class11_phys_ch09_solar_radiation_heat_balance_and_temperature",
+      "status": "decoded_saved",
+      "model": "local_source_only_extractive_decode",
+      "output_path": "data/study/textbook-first/decoded-notes/gs1_geo_class11_phys_ch09_solar_radiation_heat_balance_and_temperature.json",
+      "full_notes_words": 1110
+    },
+    {
+      "key": "gs1_geo_class11_phys_ch10_atmospheric_circulation_and_weather_systems",
+      "status": "decoded_saved",
+      "model": "local_source_only_extractive_decode",
+      "output_path": "data/study/textbook-first/decoded-notes/gs1_geo_class11_phys_ch10_atmospheric_circulation_and_weather_systems.json",
+      "full_notes_words": 1217
+    },
+    {
+      "key": "gs1_geo_class11_phys_ch11_water_in_the_atmosphere",
+      "status": "decoded_saved",
+      "model": "local_source_only_extractive_decode",
+      "output_path": "data/study/textbook-first/decoded-notes/gs1_geo_class11_phys_ch11_water_in_the_atmosphere.json",
+      "full_notes_words": 1519
+    },
+    {
+      "key": "gs1_geo_class11_phys_ch12_world_climate_and_climate_change",
+      "status": "decoded_saved",
+      "model": "local_source_only_extractive_decode",
+      "output_path": "data/study/textbook-first/decoded-notes/gs1_geo_class11_phys_ch12_world_climate_and_climate_change.json",
+      "full_notes_words": 1301
+    },
+    {
+      "key": "gs1_geo_class11_phys_ch13_water_oceans",
+      "status": "decoded_saved",
+      "model": "local_source_only_extractive_decode",
+      "output_path": "data/study/textbook-first/decoded-notes/gs1_geo_class11_phys_ch13_water_oceans.json",
+      "full_notes_words": 1203
+    },
+    {
+      "key": "gs1_geo_class11_phys_ch14_movements_of_ocean_water",
+      "status": "decoded_saved",
+      "model": "local_source_only_extractive_decode",
+      "output_path": "data/study/textbook-first/decoded-notes/gs1_geo_class11_phys_ch14_movements_of_ocean_water.json",
+      "full_notes_words": 989
+    },
+    {
+      "key": "gs2_polity_class11_constitution_ch01_why_and_how",
+      "status": "decoded_saved",
+      "model": "local_source_only_extractive_decode",
+      "output_path": "data/study/textbook-first/decoded-notes/gs2_polity_class11_constitution_ch01_why_and_how.json",
+      "full_notes_words": 1071
+    },
+    {
+      "key": "gs2_polity_class11_constitution_ch02_rights",
+      "status": "decoded_saved",
+      "model": "local_source_only_extractive_decode",
+      "output_path": "data/study/textbook-first/decoded-notes/gs2_polity_class11_constitution_ch02_rights.json",
+      "full_notes_words": 1693
+    },
+    {
+      "key": "gs2_polity_class11_constitution_ch03_election_and_representation",
+      "status": "decoded_saved",
+      "model": "local_source_only_extractive_decode",
+      "output_path": "data/study/textbook-first/decoded-notes/gs2_polity_class11_constitution_ch03_election_and_representation.json",
+      "full_notes_words": 964
+    },
+    {
+      "key": "gs2_polity_class11_constitution_ch04_executive",
+      "status": "decoded_saved",
+      "model": "local_source_only_extractive_decode",
+      "output_path": "data/study/textbook-first/decoded-notes/gs2_polity_class11_constitution_ch04_executive.json",
+      "full_notes_words": 743
+    },
+    {
+      "key": "gs2_polity_class11_constitution_ch05_legislature",
+      "status": "decoded_saved",
+      "model": "local_source_only_extractive_decode",
+      "output_path": "data/study/textbook-first/decoded-notes/gs2_polity_class11_constitution_ch05_legislature.json",
+      "full_notes_words": 1200
+    },
+    {
+      "key": "gs2_polity_class11_constitution_ch06_judiciary",
+      "status": "decoded_saved",
+      "model": "local_source_only_extractive_decode",
+      "output_path": "data/study/textbook-first/decoded-notes/gs2_polity_class11_constitution_ch06_judiciary.json",
+      "full_notes_words": 1108
+    },
+    {
+      "key": "gs2_polity_class11_constitution_ch07_federalism",
+      "status": "decoded_saved",
+      "model": "local_source_only_extractive_decode",
+      "output_path": "data/study/textbook-first/decoded-notes/gs2_polity_class11_constitution_ch07_federalism.json",
+      "full_notes_words": 1351
+    },
+    {
+      "key": "gs2_polity_class11_constitution_ch08_local_governments",
+      "status": "decoded_saved",
+      "model": "local_source_only_extractive_decode",
+      "output_path": "data/study/textbook-first/decoded-notes/gs2_polity_class11_constitution_ch08_local_governments.json",
+      "full_notes_words": 1106
+    },
+    {
+      "key": "gs2_polity_class11_constitution_ch09_constitution_as_a_living_document",
+      "status": "decoded_saved",
+      "model": "local_source_only_extractive_decode",
+      "output_path": "data/study/textbook-first/decoded-notes/gs2_polity_class11_constitution_ch09_constitution_as_a_living_document.json",
+      "full_notes_words": 721
+    },
+    {
+      "key": "gs2_polity_class11_constitution_ch10_the_philosophy_of_the_constitution",
+      "status": "decoded_saved",
+      "model": "local_source_only_extractive_decode",
+      "output_path": "data/study/textbook-first/decoded-notes/gs2_polity_class11_constitution_ch10_the_philosophy_of_the_constitution.json",
+      "full_notes_words": 1028
+    },
+    {
+      "key": "gs3_economy_class11_indian_development_ch01_indian_economy_on_the_eve_of_independence",
+      "status": "decoded_saved",
+      "model": "local_source_only_extractive_decode",
+      "output_path": "data/study/textbook-first/decoded-notes/gs3_economy_class11_indian_development_ch01_indian_economy_on_the_eve_of_independence.json",
+      "full_notes_words": 1014
+    },
+    {
+      "key": "gs3_economy_class11_indian_development_ch02_indian_economy_1950_1990",
+      "status": "decoded_saved",
+      "model": "local_source_only_extractive_decode",
+      "output_path": "data/study/textbook-first/decoded-notes/gs3_economy_class11_indian_development_ch02_indian_economy_1950_1990.json",
+      "full_notes_words": 1329
+    },
+    {
+      "key": "gs3_economy_class11_indian_development_ch03_liberalisation_privatisation_and_globalisation",
+      "status": "decoded_saved",
+      "model": "local_source_only_extractive_decode",
+      "output_path": "data/study/textbook-first/decoded-notes/gs3_economy_class11_indian_development_ch03_liberalisation_privatisation_and_globalisation.json",
+      "full_notes_words": 1445
+    },
+    {
+      "key": "gs3_economy_class11_indian_development_ch04_poverty",
+      "status": "decoded_saved",
+      "model": "local_source_only_extractive_decode",
+      "output_path": "data/study/textbook-first/decoded-notes/gs3_economy_class11_indian_development_ch04_poverty.json",
+      "full_notes_words": 1412
+    },
+    {
+      "key": "gs3_economy_class11_indian_development_ch05_human_capital_formation",
+      "status": "decoded_saved",
+      "model": "local_source_only_extractive_decode",
+      "output_path": "data/study/textbook-first/decoded-notes/gs3_economy_class11_indian_development_ch05_human_capital_formation.json",
+      "full_notes_words": 1181
+    },
+    {
+      "key": "gs3_economy_class11_indian_development_ch06_rural_development",
+      "status": "decoded_saved",
+      "model": "local_source_only_extractive_decode",
+      "output_path": "data/study/textbook-first/decoded-notes/gs3_economy_class11_indian_development_ch06_rural_development.json",
+      "full_notes_words": 1254
+    },
+    {
+      "key": "gs3_economy_class11_indian_development_ch07_employment",
+      "status": "decoded_saved",
+      "model": "local_source_only_extractive_decode",
+      "output_path": "data/study/textbook-first/decoded-notes/gs3_economy_class11_indian_development_ch07_employment.json",
+      "full_notes_words": 1676
+    },
+    {
+      "key": "gs3_economy_class11_indian_development_ch08_infrastructure",
+      "status": "decoded_saved",
+      "model": "local_source_only_extractive_decode",
+      "output_path": "data/study/textbook-first/decoded-notes/gs3_economy_class11_indian_development_ch08_infrastructure.json",
+      "full_notes_words": 1202
+    },
+    {
+      "key": "gs3_economy_class12_macro_ch01_national_income_accounting",
+      "status": "decoded_saved",
+      "model": "local_source_only_extractive_decode",
+      "output_path": "data/study/textbook-first/decoded-notes/gs3_economy_class12_macro_ch01_national_income_accounting.json",
+      "full_notes_words": 813
+    },
+    {
+      "key": "gs3_economy_class12_macro_ch02_money_and_banking",
+      "status": "decoded_saved",
+      "model": "local_source_only_extractive_decode",
+      "output_path": "data/study/textbook-first/decoded-notes/gs3_economy_class12_macro_ch02_money_and_banking.json",
+      "full_notes_words": 963
+    },
+    {
+      "key": "gs3_economy_class12_macro_ch03_determination_of_income_and_employment",
+      "status": "decoded_saved",
+      "model": "local_source_only_extractive_decode",
+      "output_path": "data/study/textbook-first/decoded-notes/gs3_economy_class12_macro_ch03_determination_of_income_and_employment.json",
+      "full_notes_words": 1281
+    },
+    {
+      "key": "gs3_economy_class12_macro_ch04_government_budget_and_the_economy",
+      "status": "decoded_saved",
+      "model": "local_source_only_extractive_decode",
+      "output_path": "data/study/textbook-first/decoded-notes/gs3_economy_class12_macro_ch04_government_budget_and_the_economy.json",
+      "full_notes_words": 982
+    },
+    {
+      "key": "gs3_economy_class12_macro_ch05_balance_of_payments",
+      "status": "decoded_saved",
+      "model": "local_source_only_extractive_decode",
+      "output_path": "data/study/textbook-first/decoded-notes/gs3_economy_class12_macro_ch05_balance_of_payments.json",
+      "full_notes_words": 1406
+    },
+    {
+      "key": "gs3_env_class12_biology_ch01_reproduction_in_organisms",
+      "status": "decoded_saved",
+      "model": "local_source_only_extractive_decode",
+      "output_path": "data/study/textbook-first/decoded-notes/gs3_env_class12_biology_ch01_reproduction_in_organisms.json",
+      "full_notes_words": 692
+    },
+    {
+      "key": "gs3_env_class12_biology_ch02_sexual_reproduction_in_plants",
+      "status": "decoded_saved",
+      "model": "local_source_only_extractive_decode",
+      "output_path": "data/study/textbook-first/decoded-notes/gs3_env_class12_biology_ch02_sexual_reproduction_in_plants.json",
+      "full_notes_words": 641
+    },
+    {
+      "key": "gs3_env_class12_biology_ch03_human_reproduction",
+      "status": "decoded_saved",
+      "model": "local_source_only_extractive_decode",
+      "output_path": "data/study/textbook-first/decoded-notes/gs3_env_class12_biology_ch03_human_reproduction.json",
+      "full_notes_words": 722
+    },
+    {
+      "key": "gs3_env_class12_biology_ch04_reproductive_health",
+      "status": "decoded_saved",
+      "model": "local_source_only_extractive_decode",
+      "output_path": "data/study/textbook-first/decoded-notes/gs3_env_class12_biology_ch04_reproductive_health.json",
+      "full_notes_words": 658
+    },
+    {
+      "key": "gs3_env_class12_biology_ch05_principles_of_inheritance",
+      "status": "decoded_saved",
+      "model": "local_source_only_extractive_decode",
+      "output_path": "data/study/textbook-first/decoded-notes/gs3_env_class12_biology_ch05_principles_of_inheritance.json",
+      "full_notes_words": 1283
+    },
+    {
+      "key": "gs3_env_class12_biology_ch06_molecular_basis_of_inheritance",
+      "status": "decoded_saved",
+      "model": "local_source_only_extractive_decode",
+      "output_path": "data/study/textbook-first/decoded-notes/gs3_env_class12_biology_ch06_molecular_basis_of_inheritance.json",
+      "full_notes_words": 1104
+    },
+    {
+      "key": "gs3_env_class12_biology_ch07_human_health_and_disease",
+      "status": "decoded_saved",
+      "model": "local_source_only_extractive_decode",
+      "output_path": "data/study/textbook-first/decoded-notes/gs3_env_class12_biology_ch07_human_health_and_disease.json",
+      "full_notes_words": 1075
+    },
+    {
+      "key": "gs3_env_class12_biology_ch08_microbes_in_human_welfare",
+      "status": "decoded_saved",
+      "model": "local_source_only_extractive_decode",
+      "output_path": "data/study/textbook-first/decoded-notes/gs3_env_class12_biology_ch08_microbes_in_human_welfare.json",
+      "full_notes_words": 908
+    },
+    {
+      "key": "gs3_env_class12_biology_ch09_biotechnology_principles_and_processes",
+      "status": "decoded_saved",
+      "model": "local_source_only_extractive_decode",
+      "output_path": "data/study/textbook-first/decoded-notes/gs3_env_class12_biology_ch09_biotechnology_principles_and_processes.json",
+      "full_notes_words": 1068
+    },
+    {
+      "key": "gs3_env_class12_biology_ch10_biotechnology_and_its_applications",
+      "status": "decoded_saved",
+      "model": "local_source_only_extractive_decode",
+      "output_path": "data/study/textbook-first/decoded-notes/gs3_env_class12_biology_ch10_biotechnology_and_its_applications.json",
+      "full_notes_words": 1113
+    },
+    {
+      "key": "gs3_env_class12_biology_ch11_organisms_and_populations",
+      "status": "decoded_saved",
+      "model": "local_source_only_extractive_decode",
+      "output_path": "data/study/textbook-first/decoded-notes/gs3_env_class12_biology_ch11_organisms_and_populations.json",
+      "full_notes_words": 1542
+    },
+    {
+      "key": "gs3_env_class12_biology_ch12_ecosystem",
+      "status": "decoded_saved",
+      "model": "local_source_only_extractive_decode",
+      "output_path": "data/study/textbook-first/decoded-notes/gs3_env_class12_biology_ch12_ecosystem.json",
+      "full_notes_words": 1028
+    },
+    {
+      "key": "gs3_env_class12_biology_ch13_biodiversity_and_conservation",
+      "status": "decoded_saved",
+      "model": "local_source_only_extractive_decode",
+      "output_path": "data/study/textbook-first/decoded-notes/gs3_env_class12_biology_ch13_biodiversity_and_conservation.json",
+      "full_notes_words": 918
+    },
+    {
+      "key": "gs1_geo_class12_india_people_economy_ch01_population_distribution_density_growth_and_composition",
+      "status": "decoded_saved",
+      "model": "local_source_only_extractive_decode",
+      "output_path": "data/study/textbook-first/decoded-notes/gs1_geo_class12_india_people_economy_ch01_population_distribution_density_growth_and_composition.json",
+      "full_notes_words": 1412
+    },
+    {
+      "key": "gs1_geo_class12_india_people_economy_ch02_migration",
+      "status": "decoded_saved",
+      "model": "local_source_only_extractive_decode",
+      "output_path": "data/study/textbook-first/decoded-notes/gs1_geo_class12_india_people_economy_ch02_migration.json",
+      "full_notes_words": 1018
+    },
+    {
+      "key": "gs1_geo_class12_india_people_economy_ch03_human_development",
+      "status": "decoded_saved",
+      "model": "local_source_only_extractive_decode",
+      "output_path": "data/study/textbook-first/decoded-notes/gs1_geo_class12_india_people_economy_ch03_human_development.json",
+      "full_notes_words": 1702
+    },
+    {
+      "key": "gs1_geo_class12_india_people_economy_ch04_human_settlements",
+      "status": "decoded_saved",
+      "model": "local_source_only_extractive_decode",
+      "output_path": "data/study/textbook-first/decoded-notes/gs1_geo_class12_india_people_economy_ch04_human_settlements.json",
+      "full_notes_words": 1617
+    },
+    {
+      "key": "gs1_geo_class12_india_people_economy_ch05_land_resources_and_agriculture",
+      "status": "decoded_saved",
+      "model": "local_source_only_extractive_decode",
+      "output_path": "data/study/textbook-first/decoded-notes/gs1_geo_class12_india_people_economy_ch05_land_resources_and_agriculture.json",
+      "full_notes_words": 1181
+    },
+    {
+      "key": "gs1_geo_class12_india_people_economy_ch06_water_resources",
+      "status": "decoded_saved",
+      "model": "local_source_only_extractive_decode",
+      "output_path": "data/study/textbook-first/decoded-notes/gs1_geo_class12_india_people_economy_ch06_water_resources.json",
+      "full_notes_words": 853
+    },
+    {
+      "key": "gs1_geo_class12_india_people_economy_ch07_mineral_and_energy_resources",
+      "status": "decoded_saved",
+      "model": "local_source_only_extractive_decode",
+      "output_path": "data/study/textbook-first/decoded-notes/gs1_geo_class12_india_people_economy_ch07_mineral_and_energy_resources.json",
+      "full_notes_words": 1021
+    },
+    {
+      "key": "gs1_geo_class12_india_people_economy_ch08_manufacturing_industries",
+      "status": "decoded_saved",
+      "model": "local_source_only_extractive_decode",
+      "output_path": "data/study/textbook-first/decoded-notes/gs1_geo_class12_india_people_economy_ch08_manufacturing_industries.json",
+      "full_notes_words": 1494
+    },
+    {
+      "key": "gs1_geo_class12_india_people_economy_ch09_planning_and_sustainable_development",
+      "status": "decoded_saved",
+      "model": "local_source_only_extractive_decode",
+      "output_path": "data/study/textbook-first/decoded-notes/gs1_geo_class12_india_people_economy_ch09_planning_and_sustainable_development.json",
+      "full_notes_words": 1367
+    },
+    {
+      "key": "gs1_hist_class12_indian_history_iii_ch01_colonialism_and_the_countryside",
+      "status": "decoded_saved",
+      "model": "local_source_only_extractive_decode",
+      "output_path": "data/study/textbook-first/decoded-notes/gs1_hist_class12_indian_history_iii_ch01_colonialism_and_the_countryside.json",
+      "full_notes_words": 1602
+    },
+    {
+      "key": "gs1_hist_class12_indian_history_iii_ch02_rebels_and_the_raj_1857",
+      "status": "decoded_saved",
+      "model": "local_source_only_extractive_decode",
+      "output_path": "data/study/textbook-first/decoded-notes/gs1_hist_class12_indian_history_iii_ch02_rebels_and_the_raj_1857.json",
+      "full_notes_words": 1150
+    },
+    {
+      "key": "gs1_hist_class12_indian_history_iii_ch03_mahatma_gandhi_and_the_nationalist_movement",
+      "status": "decoded_saved",
+      "model": "local_source_only_extractive_decode",
+      "output_path": "data/study/textbook-first/decoded-notes/gs1_hist_class12_indian_history_iii_ch03_mahatma_gandhi_and_the_nationalist_movement.json",
+      "full_notes_words": 1370
+    },
+    {
+      "key": "gs1_hist_class12_indian_history_iii_ch04_framing_the_constitution",
+      "status": "decoded_saved",
+      "model": "local_source_only_extractive_decode",
+      "output_path": "data/study/textbook-first/decoded-notes/gs1_hist_class12_indian_history_iii_ch04_framing_the_constitution.json",
+      "full_notes_words": 1500
+    },
+    {
+      "key": "gs1_hist_class8_our_pasts_iii_ch01_how_when_and_where",
+      "status": "decoded_saved",
+      "model": "local_source_only_extractive_decode",
+      "output_path": "data/study/textbook-first/decoded-notes/gs1_hist_class8_our_pasts_iii_ch01_how_when_and_where.json",
+      "full_notes_words": 809
+    },
+    {
+      "key": "gs1_hist_class8_our_pasts_iii_ch02_from_trade_to_territory",
+      "status": "decoded_saved",
+      "model": "local_source_only_extractive_decode",
+      "output_path": "data/study/textbook-first/decoded-notes/gs1_hist_class8_our_pasts_iii_ch02_from_trade_to_territory.json",
+      "full_notes_words": 1025
+    },
+    {
+      "key": "gs1_hist_class8_our_pasts_iii_ch03_ruling_the_countryside",
+      "status": "decoded_saved",
+      "model": "local_source_only_extractive_decode",
+      "output_path": "data/study/textbook-first/decoded-notes/gs1_hist_class8_our_pasts_iii_ch03_ruling_the_countryside.json",
+      "full_notes_words": 834
+    },
+    {
+      "key": "gs1_hist_class8_our_pasts_iii_ch04_tribals_dikus_and_the_vision_of_a_golden_age",
+      "status": "decoded_saved",
+      "model": "local_source_only_extractive_decode",
+      "output_path": "data/study/textbook-first/decoded-notes/gs1_hist_class8_our_pasts_iii_ch04_tribals_dikus_and_the_vision_of_a_golden_age.json",
+      "full_notes_words": 699
+    },
+    {
+      "key": "gs1_hist_class8_our_pasts_iii_ch05_when_people_rebel_1857",
+      "status": "decoded_saved",
+      "model": "local_source_only_extractive_decode",
+      "output_path": "data/study/textbook-first/decoded-notes/gs1_hist_class8_our_pasts_iii_ch05_when_people_rebel_1857.json",
+      "full_notes_words": 742
+    },
+    {
+      "key": "gs1_hist_class8_our_pasts_iii_ch06_weavers_iron_smelters_and_factory_owners",
+      "status": "decoded_saved",
+      "model": "local_source_only_extractive_decode",
+      "output_path": "data/study/textbook-first/decoded-notes/gs1_hist_class8_our_pasts_iii_ch06_weavers_iron_smelters_and_factory_owners.json",
+      "full_notes_words": 720
+    },
+    {
+      "key": "gs1_hist_class8_our_pasts_iii_ch07_civilising_the_native_educating_the_nation",
+      "status": "decoded_saved",
+      "model": "local_source_only_extractive_decode",
+      "output_path": "data/study/textbook-first/decoded-notes/gs1_hist_class8_our_pasts_iii_ch07_civilising_the_native_educating_the_nation.json",
+      "full_notes_words": 873
+    },
+    {
+      "key": "gs1_hist_class8_our_pasts_iii_ch08_women_caste_and_reform",
+      "status": "decoded_saved",
+      "model": "local_source_only_extractive_decode",
+      "output_path": "data/study/textbook-first/decoded-notes/gs1_hist_class8_our_pasts_iii_ch08_women_caste_and_reform.json",
+      "full_notes_words": 882
+    },
+    {
+      "key": "gs1_post_independence_class12_politics_india_ch01_challenges_of_nation_building",
+      "status": "decoded_saved",
+      "model": "local_source_only_extractive_decode",
+      "output_path": "data/study/textbook-first/decoded-notes/gs1_post_independence_class12_politics_india_ch01_challenges_of_nation_building.json",
+      "full_notes_words": 1074
+    },
+    {
+      "key": "gs1_post_independence_class12_politics_india_ch02_era_of_one_party_dominance",
+      "status": "decoded_saved",
+      "model": "local_source_only_extractive_decode",
+      "output_path": "data/study/textbook-first/decoded-notes/gs1_post_independence_class12_politics_india_ch02_era_of_one_party_dominance.json",
+      "full_notes_words": 858
+    },
+    {
+      "key": "gs1_post_independence_class12_politics_india_ch03_politics_of_planned_development",
+      "status": "decoded_saved",
+      "model": "local_source_only_extractive_decode",
+      "output_path": "data/study/textbook-first/decoded-notes/gs1_post_independence_class12_politics_india_ch03_politics_of_planned_development.json",
+      "full_notes_words": 891
+    },
+    {
+      "key": "gs1_post_independence_class12_politics_india_ch04_india_s_external_relations",
+      "status": "decoded_saved",
+      "model": "local_source_only_extractive_decode",
+      "output_path": "data/study/textbook-first/decoded-notes/gs1_post_independence_class12_politics_india_ch04_india_s_external_relations.json",
+      "full_notes_words": 1097
+    },
+    {
+      "key": "gs1_post_independence_class12_politics_india_ch05_challenges_to_and_restoration_of_congress_system",
+      "status": "decoded_saved",
+      "model": "local_source_only_extractive_decode",
+      "output_path": "data/study/textbook-first/decoded-notes/gs1_post_independence_class12_politics_india_ch05_challenges_to_and_restoration_of_congress_system.json",
+      "full_notes_words": 1114
+    },
+    {
+      "key": "gs1_post_independence_class12_politics_india_ch06_rise_of_popular_movements",
+      "status": "decoded_saved",
+      "model": "local_source_only_extractive_decode",
+      "output_path": "data/study/textbook-first/decoded-notes/gs1_post_independence_class12_politics_india_ch06_rise_of_popular_movements.json",
+      "full_notes_words": 864
+    },
+    {
+      "key": "gs1_post_independence_class12_politics_india_ch07_regional_aspirations",
+      "status": "decoded_saved",
+      "model": "local_source_only_extractive_decode",
+      "output_path": "data/study/textbook-first/decoded-notes/gs1_post_independence_class12_politics_india_ch07_regional_aspirations.json",
+      "full_notes_words": 882
+    },
+    {
+      "key": "gs1_post_independence_class12_politics_india_ch08_recent_developments_in_indian_politics",
+      "status": "decoded_saved",
+      "model": "local_source_only_extractive_decode",
+      "output_path": "data/study/textbook-first/decoded-notes/gs1_post_independence_class12_politics_india_ch08_recent_developments_in_indian_politics.json",
+      "full_notes_words": 1297
+    },
+    {
+      "key": "gs1_society_class12_indian_society_ch01_introducing_indian_society",
+      "status": "decoded_saved",
+      "model": "local_source_only_extractive_decode",
+      "output_path": "data/study/textbook-first/decoded-notes/gs1_society_class12_indian_society_ch01_introducing_indian_society.json",
+      "full_notes_words": 738
+    },
+    {
+      "key": "gs1_society_class12_indian_society_ch02_the_demographic_structure",
+      "status": "decoded_saved",
+      "model": "local_source_only_extractive_decode",
+      "output_path": "data/study/textbook-first/decoded-notes/gs1_society_class12_indian_society_ch02_the_demographic_structure.json",
+      "full_notes_words": 1648
+    },
+    {
+      "key": "gs1_society_class12_indian_society_ch03_social_institutions_continuity_and_change",
+      "status": "decoded_saved",
+      "model": "local_source_only_extractive_decode",
+      "output_path": "data/study/textbook-first/decoded-notes/gs1_society_class12_indian_society_ch03_social_institutions_continuity_and_change.json",
+      "full_notes_words": 1174
+    },
+    {
+      "key": "gs1_society_class12_indian_society_ch04_the_market_as_a_social_institution",
+      "status": "decoded_saved",
+      "model": "local_source_only_extractive_decode",
+      "output_path": "data/study/textbook-first/decoded-notes/gs1_society_class12_indian_society_ch04_the_market_as_a_social_institution.json",
+      "full_notes_words": 867
+    },
+    {
+      "key": "gs1_society_class12_indian_society_ch05_patterns_of_social_inequality_and_exclusion",
+      "status": "decoded_saved",
+      "model": "local_source_only_extractive_decode",
+      "output_path": "data/study/textbook-first/decoded-notes/gs1_society_class12_indian_society_ch05_patterns_of_social_inequality_and_exclusion.json",
+      "full_notes_words": 1284
+    },
+    {
+      "key": "gs1_society_class12_indian_society_ch06_the_challenges_of_cultural_diversity",
+      "status": "decoded_saved",
+      "model": "local_source_only_extractive_decode",
+      "output_path": "data/study/textbook-first/decoded-notes/gs1_society_class12_indian_society_ch06_the_challenges_of_cultural_diversity.json",
+      "full_notes_words": 1147
+    },
+    {
+      "key": "gs1_society_class12_indian_society_ch07_suggestions_for_project_work",
+      "status": "decoded_saved",
+      "model": "local_source_only_extractive_decode",
+      "output_path": "data/study/textbook-first/decoded-notes/gs1_society_class12_indian_society_ch07_suggestions_for_project_work.json",
+      "full_notes_words": 1059
+    },
+    {
+      "key": "gs1_geo_class10_contemporary_india_ii_ch01_resources_and_development",
+      "status": "decoded_saved",
+      "model": "local_source_only_extractive_decode",
+      "output_path": "data/study/textbook-first/decoded-notes/gs1_geo_class10_contemporary_india_ii_ch01_resources_and_development.json",
+      "full_notes_words": 1368
+    },
+    {
+      "key": "gs1_geo_class10_contemporary_india_ii_ch02_forest_and_wildlife_resources",
+      "status": "decoded_saved",
+      "model": "local_source_only_extractive_decode",
+      "output_path": "data/study/textbook-first/decoded-notes/gs1_geo_class10_contemporary_india_ii_ch02_forest_and_wildlife_resources.json",
+      "full_notes_words": 842
+    },
+    {
+      "key": "gs1_geo_class10_contemporary_india_ii_ch03_water_resources",
+      "status": "decoded_saved",
+      "model": "local_source_only_extractive_decode",
+      "output_path": "data/study/textbook-first/decoded-notes/gs1_geo_class10_contemporary_india_ii_ch03_water_resources.json",
+      "full_notes_words": 1586
+    },
+    {
+      "key": "gs1_geo_class10_contemporary_india_ii_ch04_agriculture",
+      "status": "decoded_saved",
+      "model": "local_source_only_extractive_decode",
+      "output_path": "data/study/textbook-first/decoded-notes/gs1_geo_class10_contemporary_india_ii_ch04_agriculture.json",
+      "full_notes_words": 1083
+    },
+    {
+      "key": "gs1_geo_class10_contemporary_india_ii_ch05_minerals_and_energy_resources",
+      "status": "decoded_saved",
+      "model": "local_source_only_extractive_decode",
+      "output_path": "data/study/textbook-first/decoded-notes/gs1_geo_class10_contemporary_india_ii_ch05_minerals_and_energy_resources.json",
+      "full_notes_words": 1145
+    },
+    {
+      "key": "gs1_geo_class10_contemporary_india_ii_ch06_manufacturing_industries",
+      "status": "decoded_saved",
+      "model": "local_source_only_extractive_decode",
+      "output_path": "data/study/textbook-first/decoded-notes/gs1_geo_class10_contemporary_india_ii_ch06_manufacturing_industries.json",
+      "full_notes_words": 1050
+    },
+    {
+      "key": "gs1_geo_class10_contemporary_india_ii_ch07_lifelines_of_national_economy",
+      "status": "decoded_saved",
+      "model": "local_source_only_extractive_decode",
+      "output_path": "data/study/textbook-first/decoded-notes/gs1_geo_class10_contemporary_india_ii_ch07_lifelines_of_national_economy.json",
+      "full_notes_words": 1043
+    },
+    {
+      "key": "gs1_geo_class11_phys_ch01_geography_as_discipline",
+      "status": "decoded_saved",
+      "model": "local_source_only_extractive_decode",
+      "output_path": "data/study/textbook-first/decoded-notes/gs1_geo_class11_phys_ch01_geography_as_discipline.json",
+      "full_notes_words": 929
+    },
+    {
+      "key": "gs1_geo_class12_human_ch01_human_geography_nature_and_scope",
+      "status": "decoded_saved",
+      "model": "local_source_only_extractive_decode",
+      "output_path": "data/study/textbook-first/decoded-notes/gs1_geo_class12_human_ch01_human_geography_nature_and_scope.json",
+      "full_notes_words": 830
+    },
+    {
+      "key": "gs1_geo_class12_human_ch02_world_population_distribution_density_and_growth",
+      "status": "decoded_saved",
+      "model": "local_source_only_extractive_decode",
+      "output_path": "data/study/textbook-first/decoded-notes/gs1_geo_class12_human_ch02_world_population_distribution_density_and_growth.json",
+      "full_notes_words": 862
+    },
+    {
+      "key": "gs1_geo_class12_human_ch03_population_composition",
+      "status": "decoded_saved",
+      "model": "local_source_only_extractive_decode",
+      "output_path": "data/study/textbook-first/decoded-notes/gs1_geo_class12_human_ch03_population_composition.json",
+      "full_notes_words": 996
+    },
+    {
+      "key": "gs1_geo_class12_human_ch04_human_development",
+      "status": "decoded_saved",
+      "model": "local_source_only_extractive_decode",
+      "output_path": "data/study/textbook-first/decoded-notes/gs1_geo_class12_human_ch04_human_development.json",
+      "full_notes_words": 905
+    },
+    {
+      "key": "gs1_geo_class12_human_ch05_primary_activities",
+      "status": "decoded_saved",
+      "model": "local_source_only_extractive_decode",
+      "output_path": "data/study/textbook-first/decoded-notes/gs1_geo_class12_human_ch05_primary_activities.json",
+      "full_notes_words": 985
+    },
+    {
+      "key": "gs1_geo_class12_human_ch06_secondary_activities",
+      "status": "decoded_saved",
+      "model": "local_source_only_extractive_decode",
+      "output_path": "data/study/textbook-first/decoded-notes/gs1_geo_class12_human_ch06_secondary_activities.json",
+      "full_notes_words": 790
+    },
+    {
+      "key": "gs1_geo_class12_human_ch07_tertiary_and_quaternary_activities",
+      "status": "decoded_saved",
+      "model": "local_source_only_extractive_decode",
+      "output_path": "data/study/textbook-first/decoded-notes/gs1_geo_class12_human_ch07_tertiary_and_quaternary_activities.json",
+      "full_notes_words": 1164
+    },
+    {
+      "key": "gs1_geo_class12_human_ch08_transport_and_communication",
+      "status": "decoded_saved",
+      "model": "local_source_only_extractive_decode",
+      "output_path": "data/study/textbook-first/decoded-notes/gs1_geo_class12_human_ch08_transport_and_communication.json",
+      "full_notes_words": 790
+    },
+    {
+      "key": "gs1_hist_class11_themes_world_history_ch01_writing_and_city_life",
+      "status": "decoded_saved",
+      "model": "local_source_only_extractive_decode",
+      "output_path": "data/study/textbook-first/decoded-notes/gs1_hist_class11_themes_world_history_ch01_writing_and_city_life.json",
+      "full_notes_words": 1254
+    },
+    {
+      "key": "gs1_hist_class11_themes_world_history_ch02_an_empire_across_three_continents",
+      "status": "decoded_saved",
+      "model": "local_source_only_extractive_decode",
+      "output_path": "data/study/textbook-first/decoded-notes/gs1_hist_class11_themes_world_history_ch02_an_empire_across_three_continents.json",
+      "full_notes_words": 1604
+    },
+    {
+      "key": "gs1_hist_class11_themes_world_history_ch03_nomadic_empires",
+      "status": "decoded_saved",
+      "model": "local_source_only_extractive_decode",
+      "output_path": "data/study/textbook-first/decoded-notes/gs1_hist_class11_themes_world_history_ch03_nomadic_empires.json",
+      "full_notes_words": 1312
+    },
+    {
+      "key": "gs1_hist_class11_themes_world_history_ch04_the_three_orders",
+      "status": "decoded_saved",
+      "model": "local_source_only_extractive_decode",
+      "output_path": "data/study/textbook-first/decoded-notes/gs1_hist_class11_themes_world_history_ch04_the_three_orders.json",
+      "full_notes_words": 882
+    },
+    {
+      "key": "gs1_hist_class11_themes_world_history_ch05_changing_cultural_traditions",
+      "status": "decoded_saved",
+      "model": "local_source_only_extractive_decode",
+      "output_path": "data/study/textbook-first/decoded-notes/gs1_hist_class11_themes_world_history_ch05_changing_cultural_traditions.json",
+      "full_notes_words": 788
+    },
+    {
+      "key": "gs1_hist_class11_themes_world_history_ch06_displacing_indigenous_peoples",
+      "status": "decoded_saved",
+      "model": "local_source_only_extractive_decode",
+      "output_path": "data/study/textbook-first/decoded-notes/gs1_hist_class11_themes_world_history_ch06_displacing_indigenous_peoples.json",
+      "full_notes_words": 1193
+    },
+    {
+      "key": "gs1_hist_class11_themes_world_history_ch07_paths_to_modernisation",
+      "status": "decoded_saved",
+      "model": "local_source_only_extractive_decode",
+      "output_path": "data/study/textbook-first/decoded-notes/gs1_hist_class11_themes_world_history_ch07_paths_to_modernisation.json",
+      "full_notes_words": 1199
+    },
+    {
+      "key": "gs1_hist_class12_indian_history_i_ch01_bricks_beads_and_bones",
+      "status": "decoded_saved",
+      "model": "local_source_only_extractive_decode",
+      "output_path": "data/study/textbook-first/decoded-notes/gs1_hist_class12_indian_history_i_ch01_bricks_beads_and_bones.json",
+      "full_notes_words": 1299
+    },
+    {
+      "key": "gs1_hist_class12_indian_history_i_ch02_kings_farmers_and_towns",
+      "status": "decoded_saved",
+      "model": "local_source_only_extractive_decode",
+      "output_path": "data/study/textbook-first/decoded-notes/gs1_hist_class12_indian_history_i_ch02_kings_farmers_and_towns.json",
+      "full_notes_words": 1522
+    },
+    {
+      "key": "gs1_hist_class12_indian_history_i_ch03_kinship_caste_and_class",
+      "status": "decoded_saved",
+      "model": "local_source_only_extractive_decode",
+      "output_path": "data/study/textbook-first/decoded-notes/gs1_hist_class12_indian_history_i_ch03_kinship_caste_and_class.json",
+      "full_notes_words": 1501
+    },
+    {
+      "key": "gs1_hist_class12_indian_history_i_ch04_thinkers_beliefs_and_buildings",
+      "status": "decoded_saved",
+      "model": "local_source_only_extractive_decode",
+      "output_path": "data/study/textbook-first/decoded-notes/gs1_hist_class12_indian_history_i_ch04_thinkers_beliefs_and_buildings.json",
+      "full_notes_words": 1019
+    },
+    {
+      "key": "gs1_hist_class12_indian_history_ii_ch01_through_the_eyes_of_travellers",
+      "status": "decoded_saved",
+      "model": "local_source_only_extractive_decode",
+      "output_path": "data/study/textbook-first/decoded-notes/gs1_hist_class12_indian_history_ii_ch01_through_the_eyes_of_travellers.json",
+      "full_notes_words": 1388
+    },
+    {
+      "key": "gs1_hist_class12_indian_history_ii_ch02_bhakti_sufi_traditions",
+      "status": "decoded_saved",
+      "model": "local_source_only_extractive_decode",
+      "output_path": "data/study/textbook-first/decoded-notes/gs1_hist_class12_indian_history_ii_ch02_bhakti_sufi_traditions.json",
+      "full_notes_words": 1475
+    },
+    {
+      "key": "gs1_hist_class12_indian_history_ii_ch03_an_imperial_capital_vijayanagara",
+      "status": "decoded_saved",
+      "model": "local_source_only_extractive_decode",
+      "output_path": "data/study/textbook-first/decoded-notes/gs1_hist_class12_indian_history_ii_ch03_an_imperial_capital_vijayanagara.json",
+      "full_notes_words": 1205
+    },
+    {
+      "key": "gs1_hist_class12_indian_history_ii_ch04_peasants_zamindars_and_the_state",
+      "status": "decoded_saved",
+      "model": "local_source_only_extractive_decode",
+      "output_path": "data/study/textbook-first/decoded-notes/gs1_hist_class12_indian_history_ii_ch04_peasants_zamindars_and_the_state.json",
+      "full_notes_words": 1592
+    },
+    {
+      "key": "gs1_hist_class7_our_pasts_ii_ch01_tracing_changes_through_a_thousand_years",
+      "status": "decoded_saved",
+      "model": "local_source_only_extractive_decode",
+      "output_path": "data/study/textbook-first/decoded-notes/gs1_hist_class7_our_pasts_ii_ch01_tracing_changes_through_a_thousand_years.json",
+      "full_notes_words": 657
+    },
+    {
+      "key": "gs1_hist_class7_our_pasts_ii_ch02_new_kings_and_kingdoms",
+      "status": "decoded_saved",
+      "model": "local_source_only_extractive_decode",
+      "output_path": "data/study/textbook-first/decoded-notes/gs1_hist_class7_our_pasts_ii_ch02_new_kings_and_kingdoms.json",
+      "full_notes_words": 922
+    },
+    {
+      "key": "gs1_hist_class7_our_pasts_ii_ch03_the_delhi_sultans",
+      "status": "decoded_saved",
+      "model": "local_source_only_extractive_decode",
+      "output_path": "data/study/textbook-first/decoded-notes/gs1_hist_class7_our_pasts_ii_ch03_the_delhi_sultans.json",
+      "full_notes_words": 748
+    },
+    {
+      "key": "gs1_hist_class7_our_pasts_ii_ch04_the_mughal_empire",
+      "status": "decoded_saved",
+      "model": "local_source_only_extractive_decode",
+      "output_path": "data/study/textbook-first/decoded-notes/gs1_hist_class7_our_pasts_ii_ch04_the_mughal_empire.json",
+      "full_notes_words": 693
+    },
+    {
+      "key": "gs1_hist_class7_our_pasts_ii_ch05_rulers_and_buildings",
+      "status": "decoded_saved",
+      "model": "local_source_only_extractive_decode",
+      "output_path": "data/study/textbook-first/decoded-notes/gs1_hist_class7_our_pasts_ii_ch05_rulers_and_buildings.json",
+      "full_notes_words": 643
+    },
+    {
+      "key": "gs1_hist_class7_our_pasts_ii_ch06_towns_traders_and_craftspersons",
+      "status": "decoded_saved",
+      "model": "local_source_only_extractive_decode",
+      "output_path": "data/study/textbook-first/decoded-notes/gs1_hist_class7_our_pasts_ii_ch06_towns_traders_and_craftspersons.json",
+      "full_notes_words": 706
+    },
+    {
+      "key": "gs1_hist_class7_our_pasts_ii_ch07_tribes_nomads_and_settled_communities",
+      "status": "decoded_saved",
+      "model": "local_source_only_extractive_decode",
+      "output_path": "data/study/textbook-first/decoded-notes/gs1_hist_class7_our_pasts_ii_ch07_tribes_nomads_and_settled_communities.json",
+      "full_notes_words": 715
+    },
+    {
+      "key": "gs1_hist_class7_our_pasts_ii_ch08_devotional_paths_to_the_divine",
+      "status": "decoded_saved",
+      "model": "local_source_only_extractive_decode",
+      "output_path": "data/study/textbook-first/decoded-notes/gs1_hist_class7_our_pasts_ii_ch08_devotional_paths_to_the_divine.json",
+      "full_notes_words": 795
+    },
+    {
+      "key": "gs1_society_class12_social_change_ch01_structural_change",
+      "status": "decoded_saved",
+      "model": "local_source_only_extractive_decode",
+      "output_path": "data/study/textbook-first/decoded-notes/gs1_society_class12_social_change_ch01_structural_change.json",
+      "full_notes_words": 1043
+    },
+    {
+      "key": "gs1_society_class12_social_change_ch02_cultural_change",
+      "status": "decoded_saved",
+      "model": "local_source_only_extractive_decode",
+      "output_path": "data/study/textbook-first/decoded-notes/gs1_society_class12_social_change_ch02_cultural_change.json",
+      "full_notes_words": 958
+    },
+    {
+      "key": "gs1_society_class12_social_change_ch03_the_story_of_indian_democracy",
+      "status": "decoded_saved",
+      "model": "local_source_only_extractive_decode",
+      "output_path": "data/study/textbook-first/decoded-notes/gs1_society_class12_social_change_ch03_the_story_of_indian_democracy.json",
+      "full_notes_words": 853
+    },
+    {
+      "key": "gs1_society_class12_social_change_ch04_change_and_development_in_rural_society",
+      "status": "decoded_saved",
+      "model": "local_source_only_extractive_decode",
+      "output_path": "data/study/textbook-first/decoded-notes/gs1_society_class12_social_change_ch04_change_and_development_in_rural_society.json",
+      "full_notes_words": 1077
+    },
+    {
+      "key": "gs1_society_class12_social_change_ch05_change_and_development_in_industrial_society",
+      "status": "decoded_saved",
+      "model": "local_source_only_extractive_decode",
+      "output_path": "data/study/textbook-first/decoded-notes/gs1_society_class12_social_change_ch05_change_and_development_in_industrial_society.json",
+      "full_notes_words": 839
+    },
+    {
+      "key": "gs1_society_class12_social_change_ch06_globalisation_and_social_change",
+      "status": "decoded_saved",
+      "model": "local_source_only_extractive_decode",
+      "output_path": "data/study/textbook-first/decoded-notes/gs1_society_class12_social_change_ch06_globalisation_and_social_change.json",
+      "full_notes_words": 743
+    },
+    {
+      "key": "gs1_society_class12_social_change_ch07_mass_media_and_communications",
+      "status": "decoded_saved",
+      "model": "local_source_only_extractive_decode",
+      "output_path": "data/study/textbook-first/decoded-notes/gs1_society_class12_social_change_ch07_mass_media_and_communications.json",
+      "full_notes_words": 949
+    },
+    {
+      "key": "gs1_society_class12_social_change_ch08_social_movements",
+      "status": "decoded_saved",
+      "model": "local_source_only_extractive_decode",
+      "output_path": "data/study/textbook-first/decoded-notes/gs1_society_class12_social_change_ch08_social_movements.json",
+      "full_notes_words": 1029
+    },
+    {
+      "key": "gs2_ir_class12_world_politics_ch01_cold_war_era",
+      "status": "decoded_saved",
+      "model": "local_source_only_extractive_decode",
+      "output_path": "data/study/textbook-first/decoded-notes/gs2_ir_class12_world_politics_ch01_cold_war_era.json",
+      "full_notes_words": 1053
+    },
+    {
+      "key": "gs2_ir_class12_world_politics_ch02_disintegration_of_ussr",
+      "status": "decoded_saved",
+      "model": "local_source_only_extractive_decode",
+      "output_path": "data/study/textbook-first/decoded-notes/gs2_ir_class12_world_politics_ch02_disintegration_of_ussr.json",
+      "full_notes_words": 936
+    },
+    {
+      "key": "gs2_ir_class12_world_politics_ch03_us_hegemony",
+      "status": "decoded_saved",
+      "model": "local_source_only_extractive_decode",
+      "output_path": "data/study/textbook-first/decoded-notes/gs2_ir_class12_world_politics_ch03_us_hegemony.json",
+      "full_notes_words": 990
+    },
+    {
+      "key": "gs2_ir_class12_world_politics_ch04_alternative_centres_of_power",
+      "status": "decoded_saved",
+      "model": "local_source_only_extractive_decode",
+      "output_path": "data/study/textbook-first/decoded-notes/gs2_ir_class12_world_politics_ch04_alternative_centres_of_power.json",
+      "full_notes_words": 741
+    },
+    {
+      "key": "gs2_ir_class12_world_politics_ch05_south_asia",
+      "status": "decoded_saved",
+      "model": "local_source_only_extractive_decode",
+      "output_path": "data/study/textbook-first/decoded-notes/gs2_ir_class12_world_politics_ch05_south_asia.json",
+      "full_notes_words": 1073
+    },
+    {
+      "key": "gs2_ir_class12_world_politics_ch06_international_organisations",
+      "status": "decoded_saved",
+      "model": "local_source_only_extractive_decode",
+      "output_path": "data/study/textbook-first/decoded-notes/gs2_ir_class12_world_politics_ch06_international_organisations.json",
+      "full_notes_words": 1652
+    },
+    {
+      "key": "gs2_ir_class12_world_politics_ch07_security_in_the_contemporary_world",
+      "status": "decoded_saved",
+      "model": "local_source_only_extractive_decode",
+      "output_path": "data/study/textbook-first/decoded-notes/gs2_ir_class12_world_politics_ch07_security_in_the_contemporary_world.json",
+      "full_notes_words": 795
+    },
+    {
+      "key": "gs2_polity_class11_theory_ch01_political_theory_an_introduction",
+      "status": "decoded_saved",
+      "model": "local_source_only_extractive_decode",
+      "output_path": "data/study/textbook-first/decoded-notes/gs2_polity_class11_theory_ch01_political_theory_an_introduction.json",
+      "full_notes_words": 689
+    },
+    {
+      "key": "gs2_polity_class11_theory_ch02_freedom",
+      "status": "decoded_saved",
+      "model": "local_source_only_extractive_decode",
+      "output_path": "data/study/textbook-first/decoded-notes/gs2_polity_class11_theory_ch02_freedom.json",
+      "full_notes_words": 958
+    },
+    {
+      "key": "gs2_polity_class11_theory_ch03_equality",
+      "status": "decoded_saved",
+      "model": "local_source_only_extractive_decode",
+      "output_path": "data/study/textbook-first/decoded-notes/gs2_polity_class11_theory_ch03_equality.json",
+      "full_notes_words": 905
+    },
+    {
+      "key": "gs2_polity_class11_theory_ch04_social_justice",
+      "status": "decoded_saved",
+      "model": "local_source_only_extractive_decode",
+      "output_path": "data/study/textbook-first/decoded-notes/gs2_polity_class11_theory_ch04_social_justice.json",
+      "full_notes_words": 955
+    },
+    {
+      "key": "gs2_polity_class11_theory_ch05_rights",
+      "status": "decoded_saved",
+      "model": "local_source_only_extractive_decode",
+      "output_path": "data/study/textbook-first/decoded-notes/gs2_polity_class11_theory_ch05_rights.json",
+      "full_notes_words": 1075
+    },
+    {
+      "key": "gs2_polity_class11_theory_ch06_citizenship",
+      "status": "decoded_saved",
+      "model": "local_source_only_extractive_decode",
+      "output_path": "data/study/textbook-first/decoded-notes/gs2_polity_class11_theory_ch06_citizenship.json",
+      "full_notes_words": 855
+    },
+    {
+      "key": "gs2_polity_class11_theory_ch07_nationalism",
+      "status": "decoded_saved",
+      "model": "local_source_only_extractive_decode",
+      "output_path": "data/study/textbook-first/decoded-notes/gs2_polity_class11_theory_ch07_nationalism.json",
+      "full_notes_words": 726
+    },
+    {
+      "key": "gs2_polity_class11_theory_ch08_secularism",
+      "status": "decoded_saved",
+      "model": "local_source_only_extractive_decode",
+      "output_path": "data/study/textbook-first/decoded-notes/gs2_polity_class11_theory_ch08_secularism.json",
+      "full_notes_words": 676
+    },
+    {
+      "key": "gs1_art_class11_indian_art_ch01_prehistoric_rock_paintings",
+      "status": "decoded_saved",
+      "model": "local_source_only_extractive_decode",
+      "output_path": "data/study/textbook-first/decoded-notes/gs1_art_class11_indian_art_ch01_prehistoric_rock_paintings.json",
+      "full_notes_words": 1183
+    },
+    {
+      "key": "gs1_art_class11_indian_art_ch02_arts_of_the_indus_valley",
+      "status": "decoded_saved",
+      "model": "local_source_only_extractive_decode",
+      "output_path": "data/study/textbook-first/decoded-notes/gs1_art_class11_indian_art_ch02_arts_of_the_indus_valley.json",
+      "full_notes_words": 653
+    },
+    {
+      "key": "gs1_art_class11_indian_art_ch03_arts_of_the_mauryan_period",
+      "status": "decoded_saved",
+      "model": "local_source_only_extractive_decode",
+      "output_path": "data/study/textbook-first/decoded-notes/gs1_art_class11_indian_art_ch03_arts_of_the_mauryan_period.json",
+      "full_notes_words": 882
+    },
+    {
+      "key": "gs1_art_class11_indian_art_ch04_post_mauryan_trends_in_indian_art_and_architecture",
+      "status": "decoded_saved",
+      "model": "local_source_only_extractive_decode",
+      "output_path": "data/study/textbook-first/decoded-notes/gs1_art_class11_indian_art_ch04_post_mauryan_trends_in_indian_art_and_architecture.json",
+      "full_notes_words": 1179
+    },
+    {
+      "key": "gs1_art_class11_indian_art_ch05_later_mural_traditions",
+      "status": "decoded_saved",
+      "model": "local_source_only_extractive_decode",
+      "output_path": "data/study/textbook-first/decoded-notes/gs1_art_class11_indian_art_ch05_later_mural_traditions.json",
+      "full_notes_words": 763
+    },
+    {
+      "key": "gs1_art_class11_indian_art_ch06_temple_architecture_and_sculpture",
+      "status": "decoded_saved",
+      "model": "local_source_only_extractive_decode",
+      "output_path": "data/study/textbook-first/decoded-notes/gs1_art_class11_indian_art_ch06_temple_architecture_and_sculpture.json",
+      "full_notes_words": 1629
+    },
+    {
+      "key": "gs1_art_class11_indian_art_ch07_indian_bronze_sculpture",
+      "status": "decoded_saved",
+      "model": "local_source_only_extractive_decode",
+      "output_path": "data/study/textbook-first/decoded-notes/gs1_art_class11_indian_art_ch07_indian_bronze_sculpture.json",
+      "full_notes_words": 750
+    },
+    {
+      "key": "gs1_art_class11_indian_art_ch08_some_aspects_of_indo_islamic_architecture",
+      "status": "decoded_saved",
+      "model": "local_source_only_extractive_decode",
+      "output_path": "data/study/textbook-first/decoded-notes/gs1_art_class11_indian_art_ch08_some_aspects_of_indo_islamic_architecture.json",
+      "full_notes_words": 1686
+    },
+    {
+      "key": "gs1_geo_class7_our_environment_ch01_environment",
+      "status": "decoded_saved",
+      "model": "local_source_only_extractive_decode",
+      "output_path": "data/study/textbook-first/decoded-notes/gs1_geo_class7_our_environment_ch01_environment.json",
+      "full_notes_words": 691
+    },
+    {
+      "key": "gs1_geo_class7_our_environment_ch02_inside_our_earth",
+      "status": "decoded_saved",
+      "model": "local_source_only_extractive_decode",
+      "output_path": "data/study/textbook-first/decoded-notes/gs1_geo_class7_our_environment_ch02_inside_our_earth.json",
+      "full_notes_words": 1149
+    },
+    {
+      "key": "gs1_geo_class7_our_environment_ch03_our_changing_earth",
+      "status": "decoded_saved",
+      "model": "local_source_only_extractive_decode",
+      "output_path": "data/study/textbook-first/decoded-notes/gs1_geo_class7_our_environment_ch03_our_changing_earth.json",
+      "full_notes_words": 1088
+    },
+    {
+      "key": "gs1_geo_class7_our_environment_ch04_air",
+      "status": "decoded_saved",
+      "model": "local_source_only_extractive_decode",
+      "output_path": "data/study/textbook-first/decoded-notes/gs1_geo_class7_our_environment_ch04_air.json",
+      "full_notes_words": 1219
+    },
+    {
+      "key": "gs1_geo_class7_our_environment_ch05_water",
+      "status": "decoded_saved",
+      "model": "local_source_only_extractive_decode",
+      "output_path": "data/study/textbook-first/decoded-notes/gs1_geo_class7_our_environment_ch05_water.json",
+      "full_notes_words": 1236
+    },
+    {
+      "key": "gs1_geo_class7_our_environment_ch06_natural_vegetation_and_wildlife",
+      "status": "decoded_saved",
+      "model": "local_source_only_extractive_decode",
+      "output_path": "data/study/textbook-first/decoded-notes/gs1_geo_class7_our_environment_ch06_natural_vegetation_and_wildlife.json",
+      "full_notes_words": 797
+    },
+    {
+      "key": "gs1_geo_class7_our_environment_ch07_human_environment_settlement_transport_and_communication",
+      "status": "decoded_saved",
+      "model": "local_source_only_extractive_decode",
+      "output_path": "data/study/textbook-first/decoded-notes/gs1_geo_class7_our_environment_ch07_human_environment_settlement_transport_and_communication.json",
+      "full_notes_words": 745
+    },
+    {
+      "key": "gs1_geo_class8_resources_development_ch01_resources",
+      "status": "decoded_saved",
+      "model": "local_source_only_extractive_decode",
+      "output_path": "data/study/textbook-first/decoded-notes/gs1_geo_class8_resources_development_ch01_resources.json",
+      "full_notes_words": 684
+    },
+    {
+      "key": "gs1_geo_class8_resources_development_ch02_land_soil_water_natural_vegetation_and_wildlife_resources",
+      "status": "decoded_saved",
+      "model": "local_source_only_extractive_decode",
+      "output_path": "data/study/textbook-first/decoded-notes/gs1_geo_class8_resources_development_ch02_land_soil_water_natural_vegetation_and_wildlife_resources.json",
+      "full_notes_words": 692
+    },
+    {
+      "key": "gs1_geo_class8_resources_development_ch03_mineral_and_power_resources",
+      "status": "decoded_saved",
+      "model": "local_source_only_extractive_decode",
+      "output_path": "data/study/textbook-first/decoded-notes/gs1_geo_class8_resources_development_ch03_mineral_and_power_resources.json",
+      "full_notes_words": 1120
+    },
+    {
+      "key": "gs1_geo_class8_resources_development_ch04_agriculture",
+      "status": "decoded_saved",
+      "model": "local_source_only_extractive_decode",
+      "output_path": "data/study/textbook-first/decoded-notes/gs1_geo_class8_resources_development_ch04_agriculture.json",
+      "full_notes_words": 695
+    },
+    {
+      "key": "gs1_geo_class8_resources_development_ch05_industries",
+      "status": "decoded_saved",
+      "model": "local_source_only_extractive_decode",
+      "output_path": "data/study/textbook-first/decoded-notes/gs1_geo_class8_resources_development_ch05_industries.json",
+      "full_notes_words": 979
+    },
+    {
+      "key": "gs1_geo_class8_resources_development_ch06_human_resources",
+      "status": "decoded_saved",
+      "model": "local_source_only_extractive_decode",
+      "output_path": "data/study/textbook-first/decoded-notes/gs1_geo_class8_resources_development_ch06_human_resources.json",
+      "full_notes_words": 984
+    },
+    {
+      "key": "gs1_hist_class10_contemporary_world_ii_ch01_rise_of_nationalism_in_europe",
+      "status": "decoded_saved",
+      "model": "local_source_only_extractive_decode",
+      "output_path": "data/study/textbook-first/decoded-notes/gs1_hist_class10_contemporary_world_ii_ch01_rise_of_nationalism_in_europe.json",
+      "full_notes_words": 1008
+    },
+    {
+      "key": "gs1_hist_class10_contemporary_world_ii_ch02_nationalism_in_india",
+      "status": "decoded_saved",
+      "model": "local_source_only_extractive_decode",
+      "output_path": "data/study/textbook-first/decoded-notes/gs1_hist_class10_contemporary_world_ii_ch02_nationalism_in_india.json",
+      "full_notes_words": 851
+    },
+    {
+      "key": "gs1_hist_class10_contemporary_world_ii_ch03_the_making_of_a_global_world",
+      "status": "decoded_saved",
+      "model": "local_source_only_extractive_decode",
+      "output_path": "data/study/textbook-first/decoded-notes/gs1_hist_class10_contemporary_world_ii_ch03_the_making_of_a_global_world.json",
+      "full_notes_words": 1099
+    },
+    {
+      "key": "gs1_hist_class10_contemporary_world_ii_ch04_the_age_of_industrialisation",
+      "status": "decoded_saved",
+      "model": "local_source_only_extractive_decode",
+      "output_path": "data/study/textbook-first/decoded-notes/gs1_hist_class10_contemporary_world_ii_ch04_the_age_of_industrialisation.json",
+      "full_notes_words": 1020
+    },
+    {
+      "key": "gs1_hist_class10_contemporary_world_ii_ch05_print_culture_and_the_modern_world",
+      "status": "decoded_saved",
+      "model": "local_source_only_extractive_decode",
+      "output_path": "data/study/textbook-first/decoded-notes/gs1_hist_class10_contemporary_world_ii_ch05_print_culture_and_the_modern_world.json",
+      "full_notes_words": 979
+    },
+    {
+      "key": "gs1_society_class11_introducing_sociology_ch01_sociology_and_society",
+      "status": "decoded_saved",
+      "model": "local_source_only_extractive_decode",
+      "output_path": "data/study/textbook-first/decoded-notes/gs1_society_class11_introducing_sociology_ch01_sociology_and_society.json",
+      "full_notes_words": 804
+    },
+    {
+      "key": "gs1_society_class11_introducing_sociology_ch02_terms_concepts_and_their_use_in_sociology",
+      "status": "decoded_saved",
+      "model": "local_source_only_extractive_decode",
+      "output_path": "data/study/textbook-first/decoded-notes/gs1_society_class11_introducing_sociology_ch02_terms_concepts_and_their_use_in_sociology.json",
+      "full_notes_words": 792
+    },
+    {
+      "key": "gs1_society_class11_introducing_sociology_ch03_understanding_social_institutions",
+      "status": "decoded_saved",
+      "model": "local_source_only_extractive_decode",
+      "output_path": "data/study/textbook-first/decoded-notes/gs1_society_class11_introducing_sociology_ch03_understanding_social_institutions.json",
+      "full_notes_words": 889
+    },
+    {
+      "key": "gs1_society_class11_introducing_sociology_ch04_culture_and_socialisation",
+      "status": "decoded_saved",
+      "model": "local_source_only_extractive_decode",
+      "output_path": "data/study/textbook-first/decoded-notes/gs1_society_class11_introducing_sociology_ch04_culture_and_socialisation.json",
+      "full_notes_words": 669
+    },
+    {
+      "key": "gs1_society_class11_introducing_sociology_ch05_doing_sociology_research_methods",
+      "status": "decoded_saved",
+      "model": "local_source_only_extractive_decode",
+      "output_path": "data/study/textbook-first/decoded-notes/gs1_society_class11_introducing_sociology_ch05_doing_sociology_research_methods.json",
+      "full_notes_words": 1012
+    },
+    {
+      "key": "gs1_society_class11_understanding_society_ch01_social_structure_stratification_and_social_processes",
+      "status": "decoded_saved",
+      "model": "local_source_only_extractive_decode",
+      "output_path": "data/study/textbook-first/decoded-notes/gs1_society_class11_understanding_society_ch01_social_structure_stratification_and_social_processes.json",
+      "full_notes_words": 1093
+    },
+    {
+      "key": "gs1_society_class11_understanding_society_ch02_social_change_and_social_order_in_rural_and_urban_society",
+      "status": "decoded_saved",
+      "model": "local_source_only_extractive_decode",
+      "output_path": "data/study/textbook-first/decoded-notes/gs1_society_class11_understanding_society_ch02_social_change_and_social_order_in_rural_and_urban_society.json",
+      "full_notes_words": 1448
+    },
+    {
+      "key": "gs1_society_class11_understanding_society_ch03_environment_and_society",
+      "status": "decoded_saved",
+      "model": "local_source_only_extractive_decode",
+      "output_path": "data/study/textbook-first/decoded-notes/gs1_society_class11_understanding_society_ch03_environment_and_society.json",
+      "full_notes_words": 1365
+    },
+    {
+      "key": "gs1_society_class11_understanding_society_ch04_introducing_western_sociologists",
+      "status": "decoded_saved",
+      "model": "local_source_only_extractive_decode",
+      "output_path": "data/study/textbook-first/decoded-notes/gs1_society_class11_understanding_society_ch04_introducing_western_sociologists.json",
+      "full_notes_words": 930
+    },
+    {
+      "key": "gs1_society_class11_understanding_society_ch05_indian_sociologists",
+      "status": "decoded_saved",
+      "model": "local_source_only_extractive_decode",
+      "output_path": "data/study/textbook-first/decoded-notes/gs1_society_class11_understanding_society_ch05_indian_sociologists.json",
+      "full_notes_words": 862
+    },
+    {
+      "key": "gs2_polity_class10_democratic_politics_ii_ch01_power_sharing",
+      "status": "decoded_saved",
+      "model": "local_source_only_extractive_decode",
+      "output_path": "data/study/textbook-first/decoded-notes/gs2_polity_class10_democratic_politics_ii_ch01_power_sharing.json",
+      "full_notes_words": 752
+    },
+    {
+      "key": "gs2_polity_class10_democratic_politics_ii_ch02_federalism",
+      "status": "decoded_saved",
+      "model": "local_source_only_extractive_decode",
+      "output_path": "data/study/textbook-first/decoded-notes/gs2_polity_class10_democratic_politics_ii_ch02_federalism.json",
+      "full_notes_words": 803
+    },
+    {
+      "key": "gs2_polity_class10_democratic_politics_ii_ch03_democracy_and_diversity",
+      "status": "decoded_saved",
+      "model": "local_source_only_extractive_decode",
+      "output_path": "data/study/textbook-first/decoded-notes/gs2_polity_class10_democratic_politics_ii_ch03_democracy_and_diversity.json",
+      "full_notes_words": 952
+    },
+    {
+      "key": "gs2_polity_class10_democratic_politics_ii_ch04_gender_religion_and_caste",
+      "status": "decoded_saved",
+      "model": "local_source_only_extractive_decode",
+      "output_path": "data/study/textbook-first/decoded-notes/gs2_polity_class10_democratic_politics_ii_ch04_gender_religion_and_caste.json",
+      "full_notes_words": 937
+    },
+    {
+      "key": "gs2_polity_class10_democratic_politics_ii_ch05_popular_struggles_and_movements",
+      "status": "decoded_saved",
+      "model": "local_source_only_extractive_decode",
+      "output_path": "data/study/textbook-first/decoded-notes/gs2_polity_class10_democratic_politics_ii_ch05_popular_struggles_and_movements.json",
+      "full_notes_words": 939
+    },
+    {
+      "key": "gs2_polity_class7_social_political_life_ii_ch01_on_equality",
+      "status": "decoded_saved",
+      "model": "local_source_only_extractive_decode",
+      "output_path": "data/study/textbook-first/decoded-notes/gs2_polity_class7_social_political_life_ii_ch01_on_equality.json",
+      "full_notes_words": 698
+    },
+    {
+      "key": "gs2_polity_class7_social_political_life_ii_ch02_role_of_the_government_in_health",
+      "status": "decoded_saved",
+      "model": "local_source_only_extractive_decode",
+      "output_path": "data/study/textbook-first/decoded-notes/gs2_polity_class7_social_political_life_ii_ch02_role_of_the_government_in_health.json",
+      "full_notes_words": 703
+    },
+    {
+      "key": "gs2_polity_class7_social_political_life_ii_ch03_how_the_state_government_works",
+      "status": "decoded_saved",
+      "model": "local_source_only_extractive_decode",
+      "output_path": "data/study/textbook-first/decoded-notes/gs2_polity_class7_social_political_life_ii_ch03_how_the_state_government_works.json",
+      "full_notes_words": 647
+    },
+    {
+      "key": "gs2_polity_class7_social_political_life_ii_ch04_growing_up_as_boys_and_girls",
+      "status": "decoded_saved",
+      "model": "local_source_only_extractive_decode",
+      "output_path": "data/study/textbook-first/decoded-notes/gs2_polity_class7_social_political_life_ii_ch04_growing_up_as_boys_and_girls.json",
+      "full_notes_words": 659
+    },
+    {
+      "key": "gs2_polity_class7_social_political_life_ii_ch05_women_change_the_world",
+      "status": "decoded_saved",
+      "model": "local_source_only_extractive_decode",
+      "output_path": "data/study/textbook-first/decoded-notes/gs2_polity_class7_social_political_life_ii_ch05_women_change_the_world.json",
+      "full_notes_words": 890
+    },
+    {
+      "key": "gs2_polity_class7_social_political_life_ii_ch06_understanding_media",
+      "status": "decoded_saved",
+      "model": "local_source_only_extractive_decode",
+      "output_path": "data/study/textbook-first/decoded-notes/gs2_polity_class7_social_political_life_ii_ch06_understanding_media.json",
+      "full_notes_words": 647
+    },
+    {
+      "key": "gs2_polity_class7_social_political_life_ii_ch07_markets_around_us",
+      "status": "decoded_saved",
+      "model": "local_source_only_extractive_decode",
+      "output_path": "data/study/textbook-first/decoded-notes/gs2_polity_class7_social_political_life_ii_ch07_markets_around_us.json",
+      "full_notes_words": 695
+    },
+    {
+      "key": "gs2_polity_class7_social_political_life_ii_ch08_a_shirt_in_the_market",
+      "status": "decoded_saved",
+      "model": "local_source_only_extractive_decode",
+      "output_path": "data/study/textbook-first/decoded-notes/gs2_polity_class7_social_political_life_ii_ch08_a_shirt_in_the_market.json",
+      "full_notes_words": 652
+    },
+    {
+      "key": "gs2_polity_class8_social_political_life_iii_ch01_the_indian_constitution",
+      "status": "decoded_saved",
+      "model": "local_source_only_extractive_decode",
+      "output_path": "data/study/textbook-first/decoded-notes/gs2_polity_class8_social_political_life_iii_ch01_the_indian_constitution.json",
+      "full_notes_words": 809
+    },
+    {
+      "key": "gs2_polity_class8_social_political_life_iii_ch02_understanding_secularism",
+      "status": "decoded_saved",
+      "model": "local_source_only_extractive_decode",
+      "output_path": "data/study/textbook-first/decoded-notes/gs2_polity_class8_social_political_life_iii_ch02_understanding_secularism.json",
+      "full_notes_words": 1023
+    },
+    {
+      "key": "gs2_polity_class8_social_political_life_iii_ch03_parliament_and_the_making_of_laws",
+      "status": "decoded_saved",
+      "model": "local_source_only_extractive_decode",
+      "output_path": "data/study/textbook-first/decoded-notes/gs2_polity_class8_social_political_life_iii_ch03_parliament_and_the_making_of_laws.json",
+      "full_notes_words": 842
+    },
+    {
+      "key": "gs2_polity_class8_social_political_life_iii_ch04_judiciary",
+      "status": "decoded_saved",
+      "model": "local_source_only_extractive_decode",
+      "output_path": "data/study/textbook-first/decoded-notes/gs2_polity_class8_social_political_life_iii_ch04_judiciary.json",
+      "full_notes_words": 685
+    },
+    {
+      "key": "gs2_polity_class8_social_political_life_iii_ch05_understanding_marginalisation",
+      "status": "decoded_saved",
+      "model": "local_source_only_extractive_decode",
+      "output_path": "data/study/textbook-first/decoded-notes/gs2_polity_class8_social_political_life_iii_ch05_understanding_marginalisation.json",
+      "full_notes_words": 740
+    },
+    {
+      "key": "gs2_polity_class8_social_political_life_iii_ch06_confronting_marginalisation",
+      "status": "decoded_saved",
+      "model": "local_source_only_extractive_decode",
+      "output_path": "data/study/textbook-first/decoded-notes/gs2_polity_class8_social_political_life_iii_ch06_confronting_marginalisation.json",
+      "full_notes_words": 714
+    },
+    {
+      "key": "gs2_polity_class8_social_political_life_iii_ch07_public_facilities",
+      "status": "decoded_saved",
+      "model": "local_source_only_extractive_decode",
+      "output_path": "data/study/textbook-first/decoded-notes/gs2_polity_class8_social_political_life_iii_ch07_public_facilities.json",
+      "full_notes_words": 867
+    },
+    {
+      "key": "gs2_polity_class8_social_political_life_iii_ch08_law_and_social_justice",
+      "status": "decoded_saved",
+      "model": "local_source_only_extractive_decode",
+      "output_path": "data/study/textbook-first/decoded-notes/gs2_polity_class8_social_political_life_iii_ch08_law_and_social_justice.json",
+      "full_notes_words": 884
+    },
+    {
+      "key": "gs3_economy_class10_development_ch01_development",
+      "status": "decoded_saved",
+      "model": "local_source_only_extractive_decode",
+      "output_path": "data/study/textbook-first/decoded-notes/gs3_economy_class10_development_ch01_development.json",
+      "full_notes_words": 1197
+    },
+    {
+      "key": "gs3_economy_class10_development_ch02_sectors_of_the_indian_economy",
+      "status": "decoded_saved",
+      "model": "local_source_only_extractive_decode",
+      "output_path": "data/study/textbook-first/decoded-notes/gs3_economy_class10_development_ch02_sectors_of_the_indian_economy.json",
+      "full_notes_words": 890
+    },
+    {
+      "key": "gs3_economy_class10_development_ch03_money_and_credit",
+      "status": "decoded_saved",
+      "model": "local_source_only_extractive_decode",
+      "output_path": "data/study/textbook-first/decoded-notes/gs3_economy_class10_development_ch03_money_and_credit.json",
+      "full_notes_words": 1244
+    },
+    {
+      "key": "gs3_economy_class10_development_ch04_globalisation_and_the_indian_economy",
+      "status": "decoded_saved",
+      "model": "local_source_only_extractive_decode",
+      "output_path": "data/study/textbook-first/decoded-notes/gs3_economy_class10_development_ch04_globalisation_and_the_indian_economy.json",
+      "full_notes_words": 916
+    },
+    {
+      "key": "gs3_economy_class10_development_ch05_consumer_rights",
+      "status": "decoded_saved",
+      "model": "local_source_only_extractive_decode",
+      "output_path": "data/study/textbook-first/decoded-notes/gs3_economy_class10_development_ch05_consumer_rights.json",
+      "full_notes_words": 1485
+    },
+    {
+      "key": "gs3_economy_class12_micro_ch01_introduction",
+      "status": "decoded_saved",
+      "model": "local_source_only_extractive_decode",
+      "output_path": "data/study/textbook-first/decoded-notes/gs3_economy_class12_micro_ch01_introduction.json",
+      "full_notes_words": 1571
+    },
+    {
+      "key": "gs3_economy_class12_micro_ch02_consumer_behaviour",
+      "status": "decoded_saved",
+      "model": "local_source_only_extractive_decode",
+      "output_path": "data/study/textbook-first/decoded-notes/gs3_economy_class12_micro_ch02_consumer_behaviour.json",
+      "full_notes_words": 875
+    },
+    {
+      "key": "gs3_economy_class12_micro_ch03_production_and_costs",
+      "status": "decoded_saved",
+      "model": "local_source_only_extractive_decode",
+      "output_path": "data/study/textbook-first/decoded-notes/gs3_economy_class12_micro_ch03_production_and_costs.json",
+      "full_notes_words": 647
+    },
+    {
+      "key": "gs3_economy_class12_micro_ch04_theory_of_the_firm",
+      "status": "decoded_saved",
+      "model": "local_source_only_extractive_decode",
+      "output_path": "data/study/textbook-first/decoded-notes/gs3_economy_class12_micro_ch04_theory_of_the_firm.json",
+      "full_notes_words": 632
+    },
+    {
+      "key": "gs3_economy_class12_micro_ch05_market_equilibrium",
+      "status": "decoded_saved",
+      "model": "local_source_only_extractive_decode",
+      "output_path": "data/study/textbook-first/decoded-notes/gs3_economy_class12_micro_ch05_market_equilibrium.json",
+      "full_notes_words": 1119
+    },
+    {
+      "key": "gs3_env_class11_biology_ch01_the_living_world",
+      "status": "decoded_saved",
+      "model": "local_source_only_extractive_decode",
+      "output_path": "data/study/textbook-first/decoded-notes/gs3_env_class11_biology_ch01_the_living_world.json",
+      "full_notes_words": 683
+    },
+    {
+      "key": "gs3_env_class11_biology_ch02_biological_classification",
+      "status": "decoded_saved",
+      "model": "local_source_only_extractive_decode",
+      "output_path": "data/study/textbook-first/decoded-notes/gs3_env_class11_biology_ch02_biological_classification.json",
+      "full_notes_words": 693
+    },
+    {
+      "key": "gs3_env_class11_biology_ch03_plant_kingdom",
+      "status": "decoded_saved",
+      "model": "local_source_only_extractive_decode",
+      "output_path": "data/study/textbook-first/decoded-notes/gs3_env_class11_biology_ch03_plant_kingdom.json",
+      "full_notes_words": 778
+    },
+    {
+      "key": "gs3_env_class11_biology_ch04_animal_kingdom",
+      "status": "decoded_saved",
+      "model": "local_source_only_extractive_decode",
+      "output_path": "data/study/textbook-first/decoded-notes/gs3_env_class11_biology_ch04_animal_kingdom.json",
+      "full_notes_words": 974
+    },
+    {
+      "key": "gs3_env_class11_biology_ch05_morphology_of_flowering_plants",
+      "status": "decoded_saved",
+      "model": "local_source_only_extractive_decode",
+      "output_path": "data/study/textbook-first/decoded-notes/gs3_env_class11_biology_ch05_morphology_of_flowering_plants.json",
+      "full_notes_words": 889
+    },
+    {
+      "key": "gs3_env_class11_biology_ch06_anatomy_of_flowering_plants",
+      "status": "decoded_saved",
+      "model": "local_source_only_extractive_decode",
+      "output_path": "data/study/textbook-first/decoded-notes/gs3_env_class11_biology_ch06_anatomy_of_flowering_plants.json",
+      "full_notes_words": 654
+    },
+    {
+      "key": "gs3_env_class11_biology_ch07_structural_organisation_in_animals",
+      "status": "decoded_saved",
+      "model": "local_source_only_extractive_decode",
+      "output_path": "data/study/textbook-first/decoded-notes/gs3_env_class11_biology_ch07_structural_organisation_in_animals.json",
+      "full_notes_words": 648
+    },
+    {
+      "key": "gs3_env_class11_biology_ch08_cell_the_unit_of_life",
+      "status": "decoded_saved",
+      "model": "local_source_only_extractive_decode",
+      "output_path": "data/study/textbook-first/decoded-notes/gs3_env_class11_biology_ch08_cell_the_unit_of_life.json",
+      "full_notes_words": 689
+    },
+    {
+      "key": "gs3_env_class11_biology_ch09_biomolecules",
+      "status": "decoded_saved",
+      "model": "local_source_only_extractive_decode",
+      "output_path": "data/study/textbook-first/decoded-notes/gs3_env_class11_biology_ch09_biomolecules.json",
+      "full_notes_words": 979
+    },
+    {
+      "key": "gs3_env_class11_biology_ch10_cell_cycle_and_cell_division",
+      "status": "decoded_saved",
+      "model": "local_source_only_extractive_decode",
+      "output_path": "data/study/textbook-first/decoded-notes/gs3_env_class11_biology_ch10_cell_cycle_and_cell_division.json",
+      "full_notes_words": 686
+    },
+    {
+      "key": "gs3_env_class11_biology_ch11_transport_in_plants",
+      "status": "decoded_saved",
+      "model": "local_source_only_extractive_decode",
+      "output_path": "data/study/textbook-first/decoded-notes/gs3_env_class11_biology_ch11_transport_in_plants.json",
+      "full_notes_words": 1384
+    },
+    {
+      "key": "gs3_env_class11_biology_ch12_mineral_nutrition",
+      "status": "decoded_saved",
+      "model": "local_source_only_extractive_decode",
+      "output_path": "data/study/textbook-first/decoded-notes/gs3_env_class11_biology_ch12_mineral_nutrition.json",
+      "full_notes_words": 743
+    },
+    {
+      "key": "gs3_env_class11_biology_ch13_photosynthesis_in_higher_plants",
+      "status": "decoded_saved",
+      "model": "local_source_only_extractive_decode",
+      "output_path": "data/study/textbook-first/decoded-notes/gs3_env_class11_biology_ch13_photosynthesis_in_higher_plants.json",
+      "full_notes_words": 923
+    },
+    {
+      "key": "gs3_env_class11_biology_ch14_respiration_in_plants",
+      "status": "decoded_saved",
+      "model": "local_source_only_extractive_decode",
+      "output_path": "data/study/textbook-first/decoded-notes/gs3_env_class11_biology_ch14_respiration_in_plants.json",
+      "full_notes_words": 1378
+    },
+    {
+      "key": "gs3_env_class11_biology_ch15_plant_growth_and_development",
+      "status": "decoded_saved",
+      "model": "local_source_only_extractive_decode",
+      "output_path": "data/study/textbook-first/decoded-notes/gs3_env_class11_biology_ch15_plant_growth_and_development.json",
+      "full_notes_words": 963
+    },
+    {
+      "key": "gs3_env_class11_biology_ch16_digestion_and_absorption",
+      "status": "decoded_saved",
+      "model": "local_source_only_extractive_decode",
+      "output_path": "data/study/textbook-first/decoded-notes/gs3_env_class11_biology_ch16_digestion_and_absorption.json",
+      "full_notes_words": 941
+    },
+    {
+      "key": "gs3_env_class11_biology_ch17_breathing_and_exchange_of_gases",
+      "status": "decoded_saved",
+      "model": "local_source_only_extractive_decode",
+      "output_path": "data/study/textbook-first/decoded-notes/gs3_env_class11_biology_ch17_breathing_and_exchange_of_gases.json",
+      "full_notes_words": 635
+    },
+    {
+      "key": "gs3_env_class11_biology_ch18_body_fluids_and_circulation",
+      "status": "decoded_saved",
+      "model": "local_source_only_extractive_decode",
+      "output_path": "data/study/textbook-first/decoded-notes/gs3_env_class11_biology_ch18_body_fluids_and_circulation.json",
+      "full_notes_words": 728
+    },
+    {
+      "key": "gs3_env_class11_biology_ch19_excretory_products_and_their_elimination",
+      "status": "decoded_saved",
+      "model": "local_source_only_extractive_decode",
+      "output_path": "data/study/textbook-first/decoded-notes/gs3_env_class11_biology_ch19_excretory_products_and_their_elimination.json",
+      "full_notes_words": 979
+    },
+    {
+      "key": "gs3_sci_class10_science_ch01_chemical_reactions_and_equations",
+      "status": "decoded_saved",
+      "model": "local_source_only_extractive_decode",
+      "output_path": "data/study/textbook-first/decoded-notes/gs3_sci_class10_science_ch01_chemical_reactions_and_equations.json",
+      "full_notes_words": 886
+    },
+    {
+      "key": "gs3_sci_class10_science_ch02_acids_bases_and_salts",
+      "status": "decoded_saved",
+      "model": "local_source_only_extractive_decode",
+      "output_path": "data/study/textbook-first/decoded-notes/gs3_sci_class10_science_ch02_acids_bases_and_salts.json",
+      "full_notes_words": 917
+    },
+    {
+      "key": "gs3_sci_class10_science_ch03_metals_and_non_metals",
+      "status": "decoded_saved",
+      "model": "local_source_only_extractive_decode",
+      "output_path": "data/study/textbook-first/decoded-notes/gs3_sci_class10_science_ch03_metals_and_non_metals.json",
+      "full_notes_words": 1055
+    },
+    {
+      "key": "gs3_sci_class10_science_ch04_carbon_and_its_compounds",
+      "status": "decoded_saved",
+      "model": "local_source_only_extractive_decode",
+      "output_path": "data/study/textbook-first/decoded-notes/gs3_sci_class10_science_ch04_carbon_and_its_compounds.json",
+      "full_notes_words": 1067
+    },
+    {
+      "key": "gs3_sci_class10_science_ch05_periodic_classification_of_elements",
+      "status": "decoded_saved",
+      "model": "local_source_only_extractive_decode",
+      "output_path": "data/study/textbook-first/decoded-notes/gs3_sci_class10_science_ch05_periodic_classification_of_elements.json",
+      "full_notes_words": 1320
+    },
+    {
+      "key": "gs3_sci_class10_science_ch06_life_processes",
+      "status": "decoded_saved",
+      "model": "local_source_only_extractive_decode",
+      "output_path": "data/study/textbook-first/decoded-notes/gs3_sci_class10_science_ch06_life_processes.json",
+      "full_notes_words": 893
+    },
+    {
+      "key": "gs3_sci_class10_science_ch07_control_and_coordination",
+      "status": "decoded_saved",
+      "model": "local_source_only_extractive_decode",
+      "output_path": "data/study/textbook-first/decoded-notes/gs3_sci_class10_science_ch07_control_and_coordination.json",
+      "full_notes_words": 853
+    },
+    {
+      "key": "gs3_sci_class10_science_ch08_how_do_organisms_reproduce",
+      "status": "decoded_saved",
+      "model": "local_source_only_extractive_decode",
+      "output_path": "data/study/textbook-first/decoded-notes/gs3_sci_class10_science_ch08_how_do_organisms_reproduce.json",
+      "full_notes_words": 810
+    },
+    {
+      "key": "gs3_sci_class10_science_ch09_heredity_and_evolution",
+      "status": "decoded_saved",
+      "model": "local_source_only_extractive_decode",
+      "output_path": "data/study/textbook-first/decoded-notes/gs3_sci_class10_science_ch09_heredity_and_evolution.json",
+      "full_notes_words": 1397
+    },
+    {
+      "key": "gs3_sci_class10_science_ch10_light_reflection_and_refraction",
+      "status": "decoded_saved",
+      "model": "local_source_only_extractive_decode",
+      "output_path": "data/study/textbook-first/decoded-notes/gs3_sci_class10_science_ch10_light_reflection_and_refraction.json",
+      "full_notes_words": 878
+    },
+    {
+      "key": "gs3_sci_class10_science_ch11_the_human_eye_and_the_colourful_world",
+      "status": "decoded_saved",
+      "model": "local_source_only_extractive_decode",
+      "output_path": "data/study/textbook-first/decoded-notes/gs3_sci_class10_science_ch11_the_human_eye_and_the_colourful_world.json",
+      "full_notes_words": 1573
+    },
+    {
+      "key": "gs3_sci_class10_science_ch12_electricity",
+      "status": "decoded_saved",
+      "model": "local_source_only_extractive_decode",
+      "output_path": "data/study/textbook-first/decoded-notes/gs3_sci_class10_science_ch12_electricity.json",
+      "full_notes_words": 1413
+    },
+    {
+      "key": "gs3_sci_class10_science_ch13_magnetic_effects_of_electric_current",
+      "status": "decoded_saved",
+      "model": "local_source_only_extractive_decode",
+      "output_path": "data/study/textbook-first/decoded-notes/gs3_sci_class10_science_ch13_magnetic_effects_of_electric_current.json",
+      "full_notes_words": 966
+    },
+    {
+      "key": "gs3_sci_class11_chemistry_ch01_some_basic_concepts_of_chemistry",
+      "status": "decoded_saved",
+      "model": "local_source_only_extractive_decode",
+      "output_path": "data/study/textbook-first/decoded-notes/gs3_sci_class11_chemistry_ch01_some_basic_concepts_of_chemistry.json",
+      "full_notes_words": 1941
+    },
+    {
+      "key": "gs3_sci_class11_chemistry_ch02_structure_of_atom",
+      "status": "decoded_saved",
+      "model": "local_source_only_extractive_decode",
+      "output_path": "data/study/textbook-first/decoded-notes/gs3_sci_class11_chemistry_ch02_structure_of_atom.json",
+      "full_notes_words": 1518
+    },
+    {
+      "key": "gs3_sci_class11_chemistry_ch03_classification_of_elements_and_periodicity_in_properties",
+      "status": "decoded_saved",
+      "model": "local_source_only_extractive_decode",
+      "output_path": "data/study/textbook-first/decoded-notes/gs3_sci_class11_chemistry_ch03_classification_of_elements_and_periodicity_in_properties.json",
+      "full_notes_words": 1652
+    },
+    {
+      "key": "gs3_sci_class11_chemistry_ch04_chemical_bonding_and_molecular_structure",
+      "status": "decoded_saved",
+      "model": "local_source_only_extractive_decode",
+      "output_path": "data/study/textbook-first/decoded-notes/gs3_sci_class11_chemistry_ch04_chemical_bonding_and_molecular_structure.json",
+      "full_notes_words": 1836
+    },
+    {
+      "key": "gs3_sci_class11_chemistry_ch05_states_of_matter",
+      "status": "decoded_saved",
+      "model": "local_source_only_extractive_decode",
+      "output_path": "data/study/textbook-first/decoded-notes/gs3_sci_class11_chemistry_ch05_states_of_matter.json",
+      "full_notes_words": 1936
+    },
+    {
+      "key": "gs3_sci_class11_chemistry_ch06_thermodynamics",
+      "status": "decoded_saved",
+      "model": "local_source_only_extractive_decode",
+      "output_path": "data/study/textbook-first/decoded-notes/gs3_sci_class11_chemistry_ch06_thermodynamics.json",
+      "full_notes_words": 1849
+    },
+    {
+      "key": "gs3_sci_class11_physics_ch01_physical_world",
+      "status": "decoded_saved",
+      "model": "local_source_only_extractive_decode",
+      "output_path": "data/study/textbook-first/decoded-notes/gs3_sci_class11_physics_ch01_physical_world.json",
+      "full_notes_words": 1459
+    },
+    {
+      "key": "gs3_sci_class11_physics_ch02_units_and_measurements",
+      "status": "decoded_saved",
+      "model": "local_source_only_extractive_decode",
+      "output_path": "data/study/textbook-first/decoded-notes/gs3_sci_class11_physics_ch02_units_and_measurements.json",
+      "full_notes_words": 1106
+    },
+    {
+      "key": "gs3_sci_class11_physics_ch03_motion_in_a_straight_line",
+      "status": "decoded_saved",
+      "model": "local_source_only_extractive_decode",
+      "output_path": "data/study/textbook-first/decoded-notes/gs3_sci_class11_physics_ch03_motion_in_a_straight_line.json",
+      "full_notes_words": 1759
+    },
+    {
+      "key": "gs3_sci_class11_physics_ch04_motion_in_a_plane",
+      "status": "decoded_saved",
+      "model": "local_source_only_extractive_decode",
+      "output_path": "data/study/textbook-first/decoded-notes/gs3_sci_class11_physics_ch04_motion_in_a_plane.json",
+      "full_notes_words": 1640
+    },
+    {
+      "key": "gs3_sci_class11_physics_ch05_laws_of_motion",
+      "status": "decoded_saved",
+      "model": "local_source_only_extractive_decode",
+      "output_path": "data/study/textbook-first/decoded-notes/gs3_sci_class11_physics_ch05_laws_of_motion.json",
+      "full_notes_words": 1105
+    },
+    {
+      "key": "gs3_sci_class11_physics_ch06_work_energy_and_power",
+      "status": "decoded_saved",
+      "model": "local_source_only_extractive_decode",
+      "output_path": "data/study/textbook-first/decoded-notes/gs3_sci_class11_physics_ch06_work_energy_and_power.json",
+      "full_notes_words": 1626
+    },
+    {
+      "key": "gs3_sci_class11_physics_ch07_system_of_particles_and_rotational_motion",
+      "status": "decoded_saved",
+      "model": "local_source_only_extractive_decode",
+      "output_path": "data/study/textbook-first/decoded-notes/gs3_sci_class11_physics_ch07_system_of_particles_and_rotational_motion.json",
+      "full_notes_words": 1550
+    },
+    {
+      "key": "gs3_sci_class12_chemistry_ch01_solutions",
+      "status": "decoded_saved",
+      "model": "local_source_only_extractive_decode",
+      "output_path": "data/study/textbook-first/decoded-notes/gs3_sci_class12_chemistry_ch01_solutions.json",
+      "full_notes_words": 1636
+    },
+    {
+      "key": "gs3_sci_class12_chemistry_ch02_electrochemistry",
+      "status": "decoded_saved",
+      "model": "local_source_only_extractive_decode",
+      "output_path": "data/study/textbook-first/decoded-notes/gs3_sci_class12_chemistry_ch02_electrochemistry.json",
+      "full_notes_words": 1743
+    },
+    {
+      "key": "gs3_sci_class12_chemistry_ch03_chemical_kinetics",
+      "status": "decoded_saved",
+      "model": "local_source_only_extractive_decode",
+      "output_path": "data/study/textbook-first/decoded-notes/gs3_sci_class12_chemistry_ch03_chemical_kinetics.json",
+      "full_notes_words": 2075
+    },
+    {
+      "key": "gs3_sci_class12_chemistry_ch04_the_d_and_f_block_elements",
+      "status": "decoded_saved",
+      "model": "local_source_only_extractive_decode",
+      "output_path": "data/study/textbook-first/decoded-notes/gs3_sci_class12_chemistry_ch04_the_d_and_f_block_elements.json",
+      "full_notes_words": 1760
+    },
+    {
+      "key": "gs3_sci_class12_chemistry_ch05_coordination_compounds",
+      "status": "decoded_saved",
+      "model": "local_source_only_extractive_decode",
+      "output_path": "data/study/textbook-first/decoded-notes/gs3_sci_class12_chemistry_ch05_coordination_compounds.json",
+      "full_notes_words": 1417
+    },
+    {
+      "key": "gs3_sci_class12_physics_ch01_electric_charges_and_fields",
+      "status": "decoded_saved",
+      "model": "local_source_only_extractive_decode",
+      "output_path": "data/study/textbook-first/decoded-notes/gs3_sci_class12_physics_ch01_electric_charges_and_fields.json",
+      "full_notes_words": 1741
+    },
+    {
+      "key": "gs3_sci_class12_physics_ch02_electrostatic_potential_and_capacitance",
+      "status": "decoded_saved",
+      "model": "local_source_only_extractive_decode",
+      "output_path": "data/study/textbook-first/decoded-notes/gs3_sci_class12_physics_ch02_electrostatic_potential_and_capacitance.json",
+      "full_notes_words": 1719
+    },
+    {
+      "key": "gs3_sci_class12_physics_ch03_current_electricity",
+      "status": "decoded_saved",
+      "model": "local_source_only_extractive_decode",
+      "output_path": "data/study/textbook-first/decoded-notes/gs3_sci_class12_physics_ch03_current_electricity.json",
+      "full_notes_words": 1510
+    },
+    {
+      "key": "gs3_sci_class12_physics_ch04_moving_charges_and_magnetism",
+      "status": "decoded_saved",
+      "model": "local_source_only_extractive_decode",
+      "output_path": "data/study/textbook-first/decoded-notes/gs3_sci_class12_physics_ch04_moving_charges_and_magnetism.json",
+      "full_notes_words": 1502
+    },
+    {
+      "key": "gs3_sci_class12_physics_ch05_magnetism_and_matter",
+      "status": "decoded_saved",
+      "model": "local_source_only_extractive_decode",
+      "output_path": "data/study/textbook-first/decoded-notes/gs3_sci_class12_physics_ch05_magnetism_and_matter.json",
+      "full_notes_words": 1492
+    },
+    {
+      "key": "gs3_sci_class12_physics_ch06_electromagnetic_induction",
+      "status": "decoded_saved",
+      "model": "local_source_only_extractive_decode",
+      "output_path": "data/study/textbook-first/decoded-notes/gs3_sci_class12_physics_ch06_electromagnetic_induction.json",
+      "full_notes_words": 1344
+    },
+    {
+      "key": "gs3_sci_class12_physics_ch07_alternating_current",
+      "status": "decoded_saved",
+      "model": "local_source_only_extractive_decode",
+      "output_path": "data/study/textbook-first/decoded-notes/gs3_sci_class12_physics_ch07_alternating_current.json",
+      "full_notes_words": 1513
+    },
+    {
+      "key": "gs3_sci_class12_physics_ch08_electromagnetic_waves",
+      "status": "decoded_saved",
+      "model": "local_source_only_extractive_decode",
+      "output_path": "data/study/textbook-first/decoded-notes/gs3_sci_class12_physics_ch08_electromagnetic_waves.json",
+      "full_notes_words": 1493
+    },
+    {
+      "key": "gs3_sci_class7_science_ch01_nutrition_in_plants",
+      "status": "decoded_saved",
+      "model": "local_source_only_extractive_decode",
+      "output_path": "data/study/textbook-first/decoded-notes/gs3_sci_class7_science_ch01_nutrition_in_plants.json",
+      "full_notes_words": 891
+    },
+    {
+      "key": "gs3_sci_class7_science_ch02_nutrition_in_animals",
+      "status": "decoded_saved",
+      "model": "local_source_only_extractive_decode",
+      "output_path": "data/study/textbook-first/decoded-notes/gs3_sci_class7_science_ch02_nutrition_in_animals.json",
+      "full_notes_words": 660
+    },
+    {
+      "key": "gs3_sci_class7_science_ch03_fibre_to_fabric",
+      "status": "decoded_saved",
+      "model": "local_source_only_extractive_decode",
+      "output_path": "data/study/textbook-first/decoded-notes/gs3_sci_class7_science_ch03_fibre_to_fabric.json",
+      "full_notes_words": 1011
+    },
+    {
+      "key": "gs3_sci_class7_science_ch04_heat",
+      "status": "decoded_saved",
+      "model": "local_source_only_extractive_decode",
+      "output_path": "data/study/textbook-first/decoded-notes/gs3_sci_class7_science_ch04_heat.json",
+      "full_notes_words": 642
+    },
+    {
+      "key": "gs3_sci_class7_science_ch05_acids_bases_and_salts",
+      "status": "decoded_saved",
+      "model": "local_source_only_extractive_decode",
+      "output_path": "data/study/textbook-first/decoded-notes/gs3_sci_class7_science_ch05_acids_bases_and_salts.json",
+      "full_notes_words": 639
+    },
+    {
+      "key": "gs3_sci_class7_science_ch06_physical_and_chemical_changes",
+      "status": "decoded_saved",
+      "model": "local_source_only_extractive_decode",
+      "output_path": "data/study/textbook-first/decoded-notes/gs3_sci_class7_science_ch06_physical_and_chemical_changes.json",
+      "full_notes_words": 633
+    },
+    {
+      "key": "gs3_sci_class7_science_ch07_weather_climate_and_adaptations_of_animals_to_climate",
+      "status": "decoded_saved",
+      "model": "local_source_only_extractive_decode",
+      "output_path": "data/study/textbook-first/decoded-notes/gs3_sci_class7_science_ch07_weather_climate_and_adaptations_of_animals_to_climate.json",
+      "full_notes_words": 923
+    },
+    {
+      "key": "gs3_sci_class7_science_ch08_winds_storms_and_cyclones",
+      "status": "decoded_saved",
+      "model": "local_source_only_extractive_decode",
+      "output_path": "data/study/textbook-first/decoded-notes/gs3_sci_class7_science_ch08_winds_storms_and_cyclones.json",
+      "full_notes_words": 661
+    },
+    {
+      "key": "gs3_sci_class7_science_ch09_soil",
+      "status": "decoded_saved",
+      "model": "local_source_only_extractive_decode",
+      "output_path": "data/study/textbook-first/decoded-notes/gs3_sci_class7_science_ch09_soil.json",
+      "full_notes_words": 765
+    },
+    {
+      "key": "gs3_sci_class7_science_ch10_respiration_in_organisms",
+      "status": "decoded_saved",
+      "model": "local_source_only_extractive_decode",
+      "output_path": "data/study/textbook-first/decoded-notes/gs3_sci_class7_science_ch10_respiration_in_organisms.json",
+      "full_notes_words": 748
+    },
+    {
+      "key": "gs3_sci_class7_science_ch11_transportation_in_animals_and_plants",
+      "status": "decoded_saved",
+      "model": "local_source_only_extractive_decode",
+      "output_path": "data/study/textbook-first/decoded-notes/gs3_sci_class7_science_ch11_transportation_in_animals_and_plants.json",
+      "full_notes_words": 669
+    },
+    {
+      "key": "gs3_sci_class7_science_ch12_reproduction_in_plants",
+      "status": "decoded_saved",
+      "model": "local_source_only_extractive_decode",
+      "output_path": "data/study/textbook-first/decoded-notes/gs3_sci_class7_science_ch12_reproduction_in_plants.json",
+      "full_notes_words": 769
+    },
+    {
+      "key": "gs3_sci_class7_science_ch13_motion_and_time",
+      "status": "decoded_saved",
+      "model": "local_source_only_extractive_decode",
+      "output_path": "data/study/textbook-first/decoded-notes/gs3_sci_class7_science_ch13_motion_and_time.json",
+      "full_notes_words": 823
+    },
+    {
+      "key": "gs3_sci_class8_science_ch01_crop_production_and_management",
+      "status": "decoded_saved",
+      "model": "local_source_only_extractive_decode",
+      "output_path": "data/study/textbook-first/decoded-notes/gs3_sci_class8_science_ch01_crop_production_and_management.json",
+      "full_notes_words": 695
+    },
+    {
+      "key": "gs3_sci_class8_science_ch02_microorganisms_friend_and_foe",
+      "status": "decoded_saved",
+      "model": "local_source_only_extractive_decode",
+      "output_path": "data/study/textbook-first/decoded-notes/gs3_sci_class8_science_ch02_microorganisms_friend_and_foe.json",
+      "full_notes_words": 645
+    },
+    {
+      "key": "gs3_sci_class8_science_ch03_synthetic_fibres_and_plastics",
+      "status": "decoded_saved",
+      "model": "local_source_only_extractive_decode",
+      "output_path": "data/study/textbook-first/decoded-notes/gs3_sci_class8_science_ch03_synthetic_fibres_and_plastics.json",
+      "full_notes_words": 985
+    },
+    {
+      "key": "gs3_sci_class8_science_ch04_materials_metals_and_non_metals",
+      "status": "decoded_saved",
+      "model": "local_source_only_extractive_decode",
+      "output_path": "data/study/textbook-first/decoded-notes/gs3_sci_class8_science_ch04_materials_metals_and_non_metals.json",
+      "full_notes_words": 1168
+    },
+    {
+      "key": "gs3_sci_class8_science_ch05_coal_and_petroleum",
+      "status": "decoded_saved",
+      "model": "local_source_only_extractive_decode",
+      "output_path": "data/study/textbook-first/decoded-notes/gs3_sci_class8_science_ch05_coal_and_petroleum.json",
+      "full_notes_words": 771
+    },
+    {
+      "key": "gs3_sci_class8_science_ch06_combustion_and_flame",
+      "status": "decoded_saved",
+      "model": "local_source_only_extractive_decode",
+      "output_path": "data/study/textbook-first/decoded-notes/gs3_sci_class8_science_ch06_combustion_and_flame.json",
+      "full_notes_words": 638
+    },
+    {
+      "key": "gs3_sci_class8_science_ch07_conservation_of_plants_and_animals",
+      "status": "decoded_saved",
+      "model": "local_source_only_extractive_decode",
+      "output_path": "data/study/textbook-first/decoded-notes/gs3_sci_class8_science_ch07_conservation_of_plants_and_animals.json",
+      "full_notes_words": 642
+    },
+    {
+      "key": "gs3_sci_class8_science_ch08_cell_structure_and_functions",
+      "status": "decoded_saved",
+      "model": "local_source_only_extractive_decode",
+      "output_path": "data/study/textbook-first/decoded-notes/gs3_sci_class8_science_ch08_cell_structure_and_functions.json",
+      "full_notes_words": 1310
+    },
+    {
+      "key": "gs3_sci_class8_science_ch09_reproduction_in_animals",
+      "status": "decoded_saved",
+      "model": "local_source_only_extractive_decode",
+      "output_path": "data/study/textbook-first/decoded-notes/gs3_sci_class8_science_ch09_reproduction_in_animals.json",
+      "full_notes_words": 666
+    },
+    {
+      "key": "gs3_sci_class8_science_ch10_reaching_the_age_of_adolescence",
+      "status": "decoded_saved",
+      "model": "local_source_only_extractive_decode",
+      "output_path": "data/study/textbook-first/decoded-notes/gs3_sci_class8_science_ch10_reaching_the_age_of_adolescence.json",
+      "full_notes_words": 708
+    },
+    {
+      "key": "gs3_sci_class8_science_ch11_force_and_pressure",
+      "status": "decoded_saved",
+      "model": "local_source_only_extractive_decode",
+      "output_path": "data/study/textbook-first/decoded-notes/gs3_sci_class8_science_ch11_force_and_pressure.json",
+      "full_notes_words": 658
+    },
+    {
+      "key": "gs3_sci_class8_science_ch12_friction",
+      "status": "decoded_saved",
+      "model": "local_source_only_extractive_decode",
+      "output_path": "data/study/textbook-first/decoded-notes/gs3_sci_class8_science_ch12_friction.json",
+      "full_notes_words": 1443
+    },
+    {
+      "key": "gs3_sci_class8_science_ch13_sound",
+      "status": "decoded_saved",
+      "model": "local_source_only_extractive_decode",
+      "output_path": "data/study/textbook-first/decoded-notes/gs3_sci_class8_science_ch13_sound.json",
+      "full_notes_words": 797
+    },
+    {
+      "key": "gs3_sci_class9_science_ch01_matter_in_our_surroundings",
+      "status": "decoded_saved",
+      "model": "local_source_only_extractive_decode",
+      "output_path": "data/study/textbook-first/decoded-notes/gs3_sci_class9_science_ch01_matter_in_our_surroundings.json",
+      "full_notes_words": 941
+    },
+    {
+      "key": "gs3_sci_class9_science_ch02_is_matter_around_us_pure",
+      "status": "decoded_saved",
+      "model": "local_source_only_extractive_decode",
+      "output_path": "data/study/textbook-first/decoded-notes/gs3_sci_class9_science_ch02_is_matter_around_us_pure.json",
+      "full_notes_words": 968
+    },
+    {
+      "key": "gs3_sci_class9_science_ch03_atoms_and_molecules",
+      "status": "decoded_saved",
+      "model": "local_source_only_extractive_decode",
+      "output_path": "data/study/textbook-first/decoded-notes/gs3_sci_class9_science_ch03_atoms_and_molecules.json",
+      "full_notes_words": 900
+    },
+    {
+      "key": "gs3_sci_class9_science_ch04_structure_of_the_atom",
+      "status": "decoded_saved",
+      "model": "local_source_only_extractive_decode",
+      "output_path": "data/study/textbook-first/decoded-notes/gs3_sci_class9_science_ch04_structure_of_the_atom.json",
+      "full_notes_words": 1778
+    },
+    {
+      "key": "gs3_sci_class9_science_ch05_the_fundamental_unit_of_life",
+      "status": "decoded_saved",
+      "model": "local_source_only_extractive_decode",
+      "output_path": "data/study/textbook-first/decoded-notes/gs3_sci_class9_science_ch05_the_fundamental_unit_of_life.json",
+      "full_notes_words": 1437
+    },
+    {
+      "key": "gs3_sci_class9_science_ch06_tissues",
+      "status": "decoded_saved",
+      "model": "local_source_only_extractive_decode",
+      "output_path": "data/study/textbook-first/decoded-notes/gs3_sci_class9_science_ch06_tissues.json",
+      "full_notes_words": 1617
+    },
+    {
+      "key": "gs3_sci_class9_science_ch07_diversity_in_living_organisms",
+      "status": "decoded_saved",
+      "model": "local_source_only_extractive_decode",
+      "output_path": "data/study/textbook-first/decoded-notes/gs3_sci_class9_science_ch07_diversity_in_living_organisms.json",
+      "full_notes_words": 1583
+    },
+    {
+      "key": "gs3_sci_class9_science_ch08_motion",
+      "status": "decoded_saved",
+      "model": "local_source_only_extractive_decode",
+      "output_path": "data/study/textbook-first/decoded-notes/gs3_sci_class9_science_ch08_motion.json",
+      "full_notes_words": 922
+    },
+    {
+      "key": "gs3_sci_class9_science_ch09_force_and_laws_of_motion",
+      "status": "decoded_saved",
+      "model": "local_source_only_extractive_decode",
+      "output_path": "data/study/textbook-first/decoded-notes/gs3_sci_class9_science_ch09_force_and_laws_of_motion.json",
+      "full_notes_words": 798
+    },
+    {
+      "key": "gs3_sci_class9_science_ch10_gravitation",
+      "status": "decoded_saved",
+      "model": "local_source_only_extractive_decode",
+      "output_path": "data/study/textbook-first/decoded-notes/gs3_sci_class9_science_ch10_gravitation.json",
+      "full_notes_words": 1329
+    },
+    {
+      "key": "gs3_sci_class9_science_ch11_work_and_energy",
+      "status": "decoded_saved",
+      "model": "local_source_only_extractive_decode",
+      "output_path": "data/study/textbook-first/decoded-notes/gs3_sci_class9_science_ch11_work_and_energy.json",
+      "full_notes_words": 883
+    },
+    {
+      "key": "gs3_sci_class9_science_ch12_sound",
+      "status": "decoded_saved",
+      "model": "local_source_only_extractive_decode",
+      "output_path": "data/study/textbook-first/decoded-notes/gs3_sci_class9_science_ch12_sound.json",
+      "full_notes_words": 1127
+    },
+    {
+      "key": "gs3_sci_class9_science_ch13_why_do_we_fall_ill",
+      "status": "decoded_saved",
+      "model": "local_source_only_extractive_decode",
+      "output_path": "data/study/textbook-first/decoded-notes/gs3_sci_class9_science_ch13_why_do_we_fall_ill.json",
+      "full_notes_words": 1550
+    }
+  ],
+  "updated_at": "2026-05-26T19:40:14.384Z"
+}

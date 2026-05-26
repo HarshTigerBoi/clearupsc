@@ -1,0 +1,88 @@
+{
+  "key": "gs3_sci_class7_science_ch08_winds_storms_and_cyclones",
+  "title": "Winds Storms and Cyclones",
+  "source": {
+    "book": "NCERT Class 7 Science",
+    "chapter": 8,
+    "chapter_title": "Winds Storms and Cyclones",
+    "pdf_url": "https://ncert.nic.in/textbook.php?gesc1=0-18",
+    "page_range": "pending source extraction"
+  },
+  "resolved_pdf_url": "https://ncert.nic.in/textbook/pdf/gesc108.pdf",
+  "sha256": "fc73508d338a3b5a25222aadac07407100021e5fc8b2f68344832dc59965b104",
+  "extraction": {
+    "raw_text_path": "data/study/textbook-first/raw-text/gs3_sci_class7_science_ch08_winds_storms_and_cyclones.txt",
+    "extracted_characters": 16866,
+    "page_count": 10,
+    "paragraph_count_estimate": 0,
+    "title_match_score": 0
+  },
+  "concept_candidates": [
+    {
+      "title": "8.1 MODES OF REPRODUCTION",
+      "first_seen_page_index": 1,
+      "source_trace": "NCERT Class 7 Science, Chapter 8, extracted page 1"
+    },
+    {
+      "title": "R EPRODUCTION IN PLANTS 83",
+      "first_seen_page_index": 2,
+      "source_trace": "NCERT Class 7 Science, Chapter 8, extracted page 2"
+    },
+    {
+      "title": "SCIENCE 84",
+      "first_seen_page_index": 3,
+      "source_trace": "NCERT Class 7 Science, Chapter 8, extracted page 3"
+    },
+    {
+      "title": "R EPRODUCTION IN PLANTS 85",
+      "first_seen_page_index": 4,
+      "source_trace": "NCERT Class 7 Science, Chapter 8, extracted page 4"
+    },
+    {
+      "title": "12.2 S EXUAL R EPRODUCTION",
+      "first_seen_page_index": 4,
+      "source_trace": "NCERT Class 7 Science, Chapter 8, extracted page 4"
+    },
+    {
+      "title": "SCIENCE 86",
+      "first_seen_page_index": 5,
+      "source_trace": "NCERT Class 7 Science, Chapter 8, extracted page 5"
+    },
+    {
+      "title": "R EPRODUCTION IN PLANTS 87",
+      "first_seen_page_index": 6,
+      "source_trace": "NCERT Class 7 Science, Chapter 8, extracted page 6"
+    },
+    {
+      "title": "8.3 FRUITS AND SEED FORMATION",
+      "first_seen_page_index": 6,
+      "source_trace": "NCERT Class 7 Science, Chapter 8, extracted page 6"
+    },
+    {
+      "title": "8.4 SEED D ISPERSAL",
+      "first_seen_page_index": 6,
+      "source_trace": "NCERT Class 7 Science, Chapter 8, extracted page 6"
+    },
+    {
+      "title": "SCIENCE 88",
+      "first_seen_page_index": 7,
+      "source_trace": "NCERT Class 7 Science, Chapter 8, extracted page 7"
+    },
+    {
+      "title": "R EPRODUCTION IN PLANTS 89",
+      "first_seen_page_index": 8,
+      "source_trace": "NCERT Class 7 Science, Chapter 8, extracted page 8"
+    },
+    {
+      "title": "SCIENCE 90",
+      "first_seen_page_index": 9,
+      "source_trace": "NCERT Class 7 Science, Chapter 8, extracted page 9"
+    },
+    {
+      "title": "R EPRODUCTION IN PLANTS 91",
+      "first_seen_page_index": 10,
+      "source_trace": "NCERT Class 7 Science, Chapter 8, extracted page 10"
+    }
+  ],
+  "production_status": "concept_candidates_ready_for_human_decode"
+}

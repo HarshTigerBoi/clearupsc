@@ -1,0 +1,98 @@
+{
+  "key": "gs1_post_independence_class12_politics_india_ch07_regional_aspirations",
+  "title": "Regional Aspirations",
+  "source": {
+    "book": "NCERT Class 12 Politics in India since Independence",
+    "chapter": 7,
+    "chapter_title": "Regional Aspirations",
+    "pdf_url": "https://ncert.nic.in/textbook.php?leps2=0-8",
+    "page_range": "pending source extraction"
+  },
+  "resolved_pdf_url": "https://ncert.nic.in/textbook/pdf/leps207.pdf",
+  "sha256": "6b84d1e3989e241b1ec0eaac0cc785b32eaba2abd93b9624bbb851ff2bd31d29",
+  "extraction": {
+    "raw_text_path": "data/study/textbook-first/raw-text/gs1_post_independence_class12_politics_india_ch07_regional_aspirations.txt",
+    "extracted_characters": 52973,
+    "page_count": 24,
+    "paragraph_count_estimate": 1,
+    "title_match_score": 1
+  },
+  "concept_candidates": [
+    {
+      "title": "114 Politics in India since Independence",
+      "first_seen_page_index": 3,
+      "source_trace": "NCERT Class 12 Politics in India since Independence, Chapter 7, extracted page 3"
+    },
+    {
+      "title": "116 Politics in India since Independence",
+      "first_seen_page_index": 5,
+      "source_trace": "NCERT Class 12 Politics in India since Independence, Chapter 7, extracted page 5"
+    },
+    {
+      "title": "MK MK MK K).).))",
+      "first_seen_page_index": 5,
+      "source_trace": "NCERT Class 12 Politics in India since Independence, Chapter 7, extracted page 5"
+    },
+    {
+      "title": "118 Politics in India since Independence",
+      "first_seen_page_index": 7,
+      "source_trace": "NCERT Class 12 Politics in India since Independence, Chapter 7, extracted page 7"
+    },
+    {
+      "title": "120 Politics in India since Independence",
+      "first_seen_page_index": 9,
+      "source_trace": "NCERT Class 12 Politics in India since Independence, Chapter 7, extracted page 9"
+    },
+    {
+      "title": "122 Politics in India since Independence",
+      "first_seen_page_index": 11,
+      "source_trace": "NCERT Class 12 Politics in India since Independence, Chapter 7, extracted page 11"
+    },
+    {
+      "title": "31 October 1984 outside her residence by her",
+      "first_seen_page_index": 12,
+      "source_trace": "NCERT Class 12 Politics in India since Independence, Chapter 7, extracted page 12"
+    },
+    {
+      "title": "124 Politics in India since Independence",
+      "first_seen_page_index": 13,
+      "source_trace": "NCERT Class 12 Politics in India since Independence, Chapter 7, extracted page 13"
+    },
+    {
+      "title": "11 August 2005",
+      "first_seen_page_index": 14,
+      "source_trace": "NCERT Class 12 Politics in India since Independence, Chapter 7, extracted page 14"
+    },
+    {
+      "title": "126 Politics in India since Independence",
+      "first_seen_page_index": 15,
+      "source_trace": "NCERT Class 12 Politics in India since Independence, Chapter 7, extracted page 15"
+    },
+    {
+      "title": "128 Politics in India since Independence",
+      "first_seen_page_index": 17,
+      "source_trace": "NCERT Class 12 Politics in India since Independence, Chapter 7, extracted page 17"
+    },
+    {
+      "title": "130 Politics in India since Independence",
+      "first_seen_page_index": 19,
+      "source_trace": "NCERT Class 12 Politics in India since Independence, Chapter 7, extracted page 19"
+    },
+    {
+      "title": "132 Politics in India since Independence",
+      "first_seen_page_index": 21,
+      "source_trace": "NCERT Class 12 Politics in India since Independence, Chapter 7, extracted page 21"
+    },
+    {
+      "title": "21 April 1954",
+      "first_seen_page_index": 22,
+      "source_trace": "NCERT Class 12 Politics in India since Independence, Chapter 7, extracted page 22"
+    },
+    {
+      "title": "134 Politics in India since Independence",
+      "first_seen_page_index": 23,
+      "source_trace": "NCERT Class 12 Politics in India since Independence, Chapter 7, extracted page 23"
+    }
+  ],
+  "production_status": "concept_candidates_ready_for_human_decode"
+}

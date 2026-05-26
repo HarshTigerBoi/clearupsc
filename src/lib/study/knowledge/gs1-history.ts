@@ -9,7 +9,7 @@ export const GS1_HISTORY_KNOWLEDGE: TopicKnowledge[] = [
     title: 'History',
     subject: 'GS1',
     analogy:
-      'Think of Indian History like a massive family tree. Ancient India is the roots buried deep underground — the Indus Valley, Vedas, and Mauryas that gave shape to everything. Medieval India is the trunk — strong sultanates and empires like the Mughals that blended cultures. Modern India is the branches reaching for sunlight — the freedom struggle that finally let the tree breathe freely. World History is the forest around the tree — revolutions in France, America, and world wars that changed the weather for everyone, including India. Art & Culture is the fruit and flowers — the dances, temples, paintings, and music that make this tree beautiful and unique.',
+      'Indian History can be organized as a family tree. Ancient India is the roots buried deep underground; Medieval India is the trunk; Modern India is the branches reaching for sunlight; World History is the forest around it; and Art & Culture is the fruit and flowers.',
 
     easyExplanation:
       `History in UPSC GS Paper 1 is divided into five interconnected domains: Ancient India, Medieval India, Modern India & the Freedom Struggle, World History (18th century onwards), and Indian Art & Culture.\n\n` +

@@ -1,0 +1,143 @@
+{
+  "key": "gs3_env_class12_biology_ch09_biotechnology_principles_and_processes",
+  "title": "Biotechnology Principles and Processes",
+  "source": {
+    "book": "NCERT Class 12 Biology",
+    "chapter": 9,
+    "chapter_title": "Biotechnology Principles and Processes",
+    "pdf_url": "https://ncert.nic.in/textbook.php?lebo1=0-16",
+    "page_range": "pending source extraction"
+  },
+  "resolved_pdf_url": "https://ncert.nic.in/textbook/pdf/lebo109.pdf",
+  "sha256": "c30b908dca8e7166e9830ca48c376a4f0b21d63a8e05bf601a150da031c13122",
+  "extraction": {
+    "raw_text_path": "data/study/textbook-first/raw-text/gs3_env_class12_biology_ch09_biotechnology_principles_and_processes.txt",
+    "extracted_characters": 31097,
+    "page_count": 16,
+    "paragraph_count_estimate": 0,
+    "title_match_score": 1
+  },
+  "concept_candidates": [
+    {
+      "title": "HERBERT BOYER",
+      "first_seen_page_index": 2,
+      "source_trace": "NCERT Class 12 Biology, Chapter 9, extracted page 2"
+    },
+    {
+      "title": "9.1 PRINCIPLES OF BIOTECHNOLOGY",
+      "first_seen_page_index": 3,
+      "source_trace": "NCERT Class 12 Biology, Chapter 9, extracted page 3"
+    },
+    {
+      "title": "CHAPTER 9",
+      "first_seen_page_index": 3,
+      "source_trace": "NCERT Class 12 Biology, Chapter 9, extracted page 3"
+    },
+    {
+      "title": "BIOTECHNOLOGY : PRINCIPLES",
+      "first_seen_page_index": 3,
+      "source_trace": "NCERT Class 12 Biology, Chapter 9, extracted page 3"
+    },
+    {
+      "title": "AND PROCESSES",
+      "first_seen_page_index": 3,
+      "source_trace": "NCERT Class 12 Biology, Chapter 9, extracted page 3"
+    },
+    {
+      "title": "9.2 Tools of Recombinant DNA",
+      "first_seen_page_index": 3,
+      "source_trace": "NCERT Class 12 Biology, Chapter 9, extracted page 3"
+    },
+    {
+      "title": "9.3 Processes of Recombinant",
+      "first_seen_page_index": 3,
+      "source_trace": "NCERT Class 12 Biology, Chapter 9, extracted page 3"
+    },
+    {
+      "title": "BIOLOGY",
+      "first_seen_page_index": 4,
+      "source_trace": "NCERT Class 12 Biology, Chapter 9, extracted page 4"
+    },
+    {
+      "title": "BIOTECHNOLOGY : PRINCIPLES AND PROCESSES",
+      "first_seen_page_index": 5,
+      "source_trace": "NCERT Class 12 Biology, Chapter 9, extracted page 5"
+    },
+    {
+      "title": "9.2 TOOLS OF RECOMBINANT DNA TECHNOLOGY",
+      "first_seen_page_index": 5,
+      "source_trace": "NCERT Class 12 Biology, Chapter 9, extracted page 5"
+    },
+    {
+      "title": "9.2.1 Restriction Enzymes",
+      "first_seen_page_index": 5,
+      "source_trace": "NCERT Class 12 Biology, Chapter 9, extracted page 5"
+    },
+    {
+      "title": "5' —— GAATTC —— 3'",
+      "first_seen_page_index": 7,
+      "source_trace": "NCERT Class 12 Biology, Chapter 9, extracted page 7"
+    },
+    {
+      "title": "3' —— CTTAAG —— 5'",
+      "first_seen_page_index": 7,
+      "source_trace": "NCERT Class 12 Biology, Chapter 9, extracted page 7"
+    },
+    {
+      "title": "9.2.2 Cloning Vectors",
+      "first_seen_page_index": 8,
+      "source_trace": "NCERT Class 12 Biology, Chapter 9, extracted page 8"
+    },
+    {
+      "title": "9.2.3 Competent Host (For Transformation with",
+      "first_seen_page_index": 10,
+      "source_trace": "NCERT Class 12 Biology, Chapter 9, extracted page 10"
+    },
+    {
+      "title": "9.3 PROCESSES OF RECOMBINANT DNA TECHNOLOGY",
+      "first_seen_page_index": 11,
+      "source_trace": "NCERT Class 12 Biology, Chapter 9, extracted page 11"
+    },
+    {
+      "title": "9.3.1 Isolation of the Genetic Material (DNA)",
+      "first_seen_page_index": 11,
+      "source_trace": "NCERT Class 12 Biology, Chapter 9, extracted page 11"
+    },
+    {
+      "title": "9.3.2 Cutting of DNA at Specific Locations",
+      "first_seen_page_index": 12,
+      "source_trace": "NCERT Class 12 Biology, Chapter 9, extracted page 12"
+    },
+    {
+      "title": "9.3.3 Amplification of Gene of Interest using PCR",
+      "first_seen_page_index": 12,
+      "source_trace": "NCERT Class 12 Biology, Chapter 9, extracted page 12"
+    },
+    {
+      "title": "9.3.4 Insertion of Recombinant DNA into the Host",
+      "first_seen_page_index": 13,
+      "source_trace": "NCERT Class 12 Biology, Chapter 9, extracted page 13"
+    },
+    {
+      "title": "9.3.5 Obtaining the Foreign Gene Product",
+      "first_seen_page_index": 13,
+      "source_trace": "NCERT Class 12 Biology, Chapter 9, extracted page 13"
+    },
+    {
+      "title": "9.3.6 Downstream Processing",
+      "first_seen_page_index": 14,
+      "source_trace": "NCERT Class 12 Biology, Chapter 9, extracted page 14"
+    },
+    {
+      "title": "SUMMARY",
+      "first_seen_page_index": 15,
+      "source_trace": "NCERT Class 12 Biology, Chapter 9, extracted page 15"
+    },
+    {
+      "title": "(a) PCR",
+      "first_seen_page_index": 16,
+      "source_trace": "NCERT Class 12 Biology, Chapter 9, extracted page 16"
+    }
+  ],
+  "production_status": "concept_candidates_ready_for_human_decode"
+}

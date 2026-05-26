@@ -1,0 +1,28 @@
+{
+  "key": "gs1_society_class12_social_change_ch02_cultural_change",
+  "title": "Cultural Change",
+  "source": {
+    "book": "NCERT Class 12 Social Change and Development in India",
+    "chapter": 2,
+    "chapter_title": "Cultural Change",
+    "pdf_url": "https://ncert.nic.in/textbook.php?lesy2=0-8",
+    "page_range": "pending source extraction"
+  },
+  "resolved_pdf_url": "https://ncert.nic.in/textbook/pdf/lesy202.pdf",
+  "sha256": "46b23bf1562cfba91f70b48b6dc058aabf708f1f5fb7b03cf97f9817ae7be082",
+  "extraction": {
+    "raw_text_path": "data/study/textbook-first/raw-text/gs1_society_class12_social_change_ch02_cultural_change.txt",
+    "extracted_characters": 35385,
+    "page_count": 16,
+    "paragraph_count_estimate": 0,
+    "title_match_score": 1
+  },
+  "concept_candidates": [
+    {
+      "title": "2.1 Social reform movementS in the",
+      "first_seen_page_index": 2,
+      "source_trace": "NCERT Class 12 Social Change and Development in India, Chapter 2, extracted page 2"
+    }
+  ],
+  "production_status": "concept_candidates_ready_for_human_decode"
+}

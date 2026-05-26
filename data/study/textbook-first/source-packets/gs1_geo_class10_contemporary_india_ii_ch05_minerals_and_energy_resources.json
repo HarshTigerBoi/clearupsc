@@ -1,0 +1,123 @@
+{
+  "key": "gs1_geo_class10_contemporary_india_ii_ch05_minerals_and_energy_resources",
+  "title": "Minerals and Energy Resources",
+  "source": {
+    "book": "NCERT Class 10 Contemporary India II",
+    "chapter": 5,
+    "chapter_title": "Minerals and Energy Resources",
+    "pdf_url": "https://ncert.nic.in/textbook.php?jess3=0-7",
+    "page_range": "pending source extraction"
+  },
+  "resolved_pdf_url": "https://ncert.nic.in/textbook/pdf/jess105.pdf",
+  "sha256": "057f84813336a11d4583a5dc7f33a4f6c87770e0831061768fc2ffce2b19afaa",
+  "extraction": {
+    "raw_text_path": "data/study/textbook-first/raw-text/gs1_geo_class10_contemporary_india_ii_ch05_minerals_and_energy_resources.txt",
+    "extracted_characters": 31559,
+    "page_count": 16,
+    "paragraph_count_estimate": 0,
+    "title_match_score": 1
+  },
+  "concept_candidates": [
+    {
+      "title": "MODE OF OCCURRENCE OF MINERALS",
+      "first_seen_page_index": 2,
+      "source_trace": "NCERT Class 10 Contemporary India II, Chapter 5, extracted page 2"
+    },
+    {
+      "title": "43 MINERALS AND ENERGY RESOURCES",
+      "first_seen_page_index": 2,
+      "source_trace": "NCERT Class 10 Contemporary India II, Chapter 5, extracted page 2"
+    },
+    {
+      "title": "44 CONTEMPORARY INDIA – II",
+      "first_seen_page_index": 3,
+      "source_trace": "NCERT Class 10 Contemporary India II, Chapter 5, extracted page 3"
+    },
+    {
+      "title": "45 MINERALS AND ENERGY RESOURCES",
+      "first_seen_page_index": 4,
+      "source_trace": "NCERT Class 10 Contemporary India II, Chapter 5, extracted page 4"
+    },
+    {
+      "title": "46 CONTEMPORARY INDIA – II",
+      "first_seen_page_index": 5,
+      "source_trace": "NCERT Class 10 Contemporary India II, Chapter 5, extracted page 5"
+    },
+    {
+      "title": "47 MINERALS AND ENERGY RESOURCES",
+      "first_seen_page_index": 6,
+      "source_trace": "NCERT Class 10 Contemporary India II, Chapter 5, extracted page 6"
+    },
+    {
+      "title": "48 CONTEMPORARY INDIA – II",
+      "first_seen_page_index": 7,
+      "source_trace": "NCERT Class 10 Contemporary India II, Chapter 5, extracted page 7"
+    },
+    {
+      "title": "49 MINERALS AND ENERGY RESOURCES",
+      "first_seen_page_index": 8,
+      "source_trace": "NCERT Class 10 Contemporary India II, Chapter 5, extracted page 8"
+    },
+    {
+      "title": "CONSERVATION OF MINERALS",
+      "first_seen_page_index": 8,
+      "source_trace": "NCERT Class 10 Contemporary India II, Chapter 5, extracted page 8"
+    },
+    {
+      "title": "50 CONTEMPORARY INDIA – II",
+      "first_seen_page_index": 9,
+      "source_trace": "NCERT Class 10 Contemporary India II, Chapter 5, extracted page 9"
+    },
+    {
+      "title": "51 MINERALS AND ENERGY RESOURCES",
+      "first_seen_page_index": 10,
+      "source_trace": "NCERT Class 10 Contemporary India II, Chapter 5, extracted page 10"
+    },
+    {
+      "title": "52 CONTEMPORARY INDIA – II",
+      "first_seen_page_index": 11,
+      "source_trace": "NCERT Class 10 Contemporary India II, Chapter 5, extracted page 11"
+    },
+    {
+      "title": "53 MINERALS AND ENERGY RESOURCES",
+      "first_seen_page_index": 12,
+      "source_trace": "NCERT Class 10 Contemporary India II, Chapter 5, extracted page 12"
+    },
+    {
+      "title": "54 CONTEMPORARY INDIA – II",
+      "first_seen_page_index": 13,
+      "source_trace": "NCERT Class 10 Contemporary India II, Chapter 5, extracted page 13"
+    },
+    {
+      "title": "55 MINERALS AND ENERGY RESOURCES",
+      "first_seen_page_index": 14,
+      "source_trace": "NCERT Class 10 Contemporary India II, Chapter 5, extracted page 14"
+    },
+    {
+      "title": "56 CONTEMPORARY INDIA – II",
+      "first_seen_page_index": 15,
+      "source_trace": "NCERT Class 10 Contemporary India II, Chapter 5, extracted page 15"
+    },
+    {
+      "title": "ACTIVITY",
+      "first_seen_page_index": 15,
+      "source_trace": "NCERT Class 10 Contemporary India II, Chapter 5, extracted page 15"
+    },
+    {
+      "title": "57 MINERALS AND ENERGY RESOURCES",
+      "first_seen_page_index": 16,
+      "source_trace": "NCERT Class 10 Contemporary India II, Chapter 5, extracted page 16"
+    },
+    {
+      "title": "DOWN",
+      "first_seen_page_index": 16,
+      "source_trace": "NCERT Class 10 Contemporary India II, Chapter 5, extracted page 16"
+    },
+    {
+      "title": "ACROSS",
+      "first_seen_page_index": 16,
+      "source_trace": "NCERT Class 10 Contemporary India II, Chapter 5, extracted page 16"
+    }
+  ],
+  "production_status": "concept_candidates_ready_for_human_decode"
+}

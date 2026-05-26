@@ -1,0 +1,153 @@
+{
+  "key": "gs3_sci_class10_science_ch01_chemical_reactions_and_equations",
+  "title": "Chemical Reactions and Equations",
+  "source": {
+    "book": "NCERT Class 10 Science",
+    "chapter": 1,
+    "chapter_title": "Chemical Reactions and Equations",
+    "pdf_url": "https://ncert.nic.in/textbook.php?jesc1=0-16",
+    "page_range": "pending source extraction"
+  },
+  "resolved_pdf_url": "https://ncert.nic.in/textbook/pdf/jesc101.pdf",
+  "sha256": "9d58fa614b2d1064f4ef13423eaf85155b0efc5e74bdf3e8c5e6f15f1b742d36",
+  "extraction": {
+    "raw_text_path": "data/study/textbook-first/raw-text/gs3_sci_class10_science_ch01_chemical_reactions_and_equations.txt",
+    "extracted_characters": 32056,
+    "page_count": 16,
+    "paragraph_count_estimate": 8,
+    "title_match_score": 1
+  },
+  "concept_candidates": [
+    {
+      "title": "1 CHAPTER",
+      "first_seen_page_index": 1,
+      "source_trace": "NCERT Class 10 Science, Chapter 1, extracted page 1"
+    },
+    {
+      "title": "1.1.1 Writing a Chemical Equation",
+      "first_seen_page_index": 3,
+      "source_trace": "NCERT Class 10 Science, Chapter 1, extracted page 3"
+    },
+    {
+      "title": "Mg + O2 → MgO (1.2)",
+      "first_seen_page_index": 3,
+      "source_trace": "NCERT Class 10 Science, Chapter 1, extracted page 3"
+    },
+    {
+      "title": "1.1.2 Balanced Chemical Equations",
+      "first_seen_page_index": 3,
+      "source_trace": "NCERT Class 10 Science, Chapter 1, extracted page 3"
+    },
+    {
+      "title": "Zn + H2SO4 → ZnSO4 + H2 (1.3)",
+      "first_seen_page_index": 3,
+      "source_trace": "NCERT Class 10 Science, Chapter 1, extracted page 3"
+    },
+    {
+      "title": "Fe + H2O → Fe3O4 + H2 (1.4)",
+      "first_seen_page_index": 3,
+      "source_trace": "NCERT Class 10 Science, Chapter 1, extracted page 3"
+    },
+    {
+      "title": "Fe + H2O → Fe3O4 + H2 (1.5)",
+      "first_seen_page_index": 4,
+      "source_trace": "NCERT Class 10 Science, Chapter 1, extracted page 4"
+    },
+    {
+      "title": "Fe + 4 H2O → Fe3O4 + H2",
+      "first_seen_page_index": 4,
+      "source_trace": "NCERT Class 10 Science, Chapter 1, extracted page 4"
+    },
+    {
+      "title": "Fe + 4 H2O → Fe3O4 + 4 H2",
+      "first_seen_page_index": 4,
+      "source_trace": "NCERT Class 10 Science, Chapter 1, extracted page 4"
+    },
+    {
+      "title": "3 Fe + 4 H2O → Fe3O4 + 4 H2 (1.8)",
+      "first_seen_page_index": 5,
+      "source_trace": "NCERT Class 10 Science, Chapter 1, extracted page 5"
+    },
+    {
+      "title": "3Fe + 4H2O → Fe3O4 + 4H2",
+      "first_seen_page_index": 5,
+      "source_trace": "NCERT Class 10 Science, Chapter 1, extracted page 5"
+    },
+    {
+      "title": "1.2.1 Combination Reaction",
+      "first_seen_page_index": 6,
+      "source_trace": "NCERT Class 10 Science, Chapter 1, extracted page 6"
+    },
+    {
+      "title": "Q U E S T I O N S",
+      "first_seen_page_index": 6,
+      "source_trace": "NCERT Class 10 Science, Chapter 1, extracted page 6"
+    },
+    {
+      "title": "1.2.2 Decomposition Reaction",
+      "first_seen_page_index": 8,
+      "source_trace": "NCERT Class 10 Science, Chapter 1, extracted page 8"
+    },
+    {
+      "title": "1.2.3 Displacement Reaction",
+      "first_seen_page_index": 10,
+      "source_trace": "NCERT Class 10 Science, Chapter 1, extracted page 10"
+    },
+    {
+      "title": "1.2.4 Double Displacement Reaction",
+      "first_seen_page_index": 11,
+      "source_trace": "NCERT Class 10 Science, Chapter 1, extracted page 11"
+    },
+    {
+      "title": "1.2.5 Oxidation and Reduction",
+      "first_seen_page_index": 12,
+      "source_trace": "NCERT Class 10 Science, Chapter 1, extracted page 12"
+    },
+    {
+      "title": "CuO +H Cu + H O 2 2",
+      "first_seen_page_index": 12,
+      "source_trace": "NCERT Class 10 Science, Chapter 1, extracted page 12"
+    },
+    {
+      "title": "ZnO + C → + Zn CO (1.31)",
+      "first_seen_page_index": 12,
+      "source_trace": "NCERT Class 10 Science, Chapter 1, extracted page 12"
+    },
+    {
+      "title": "4 SO and Ba2+. The other product formed is sodium chloride",
+      "first_seen_page_index": 12,
+      "source_trace": "NCERT Class 10 Science, Chapter 1, extracted page 12"
+    },
+    {
+      "title": "1.3.1 Corrosion",
+      "first_seen_page_index": 13,
+      "source_trace": "NCERT Class 10 Science, Chapter 1, extracted page 13"
+    },
+    {
+      "title": "1.3.2 Rancidity",
+      "first_seen_page_index": 13,
+      "source_trace": "NCERT Class 10 Science, Chapter 1, extracted page 13"
+    },
+    {
+      "title": "E X E R C I S E S",
+      "first_seen_page_index": 14,
+      "source_trace": "NCERT Class 10 Science, Chapter 1, extracted page 14"
+    },
+    {
+      "title": "(a) HNO3 + Ca(OH)2 → Ca(NO3)2 + H2O",
+      "first_seen_page_index": 15,
+      "source_trace": "NCERT Class 10 Science, Chapter 1, extracted page 15"
+    },
+    {
+      "title": "(b) NaOH + H2SO4 → Na2SO4 + H2O",
+      "first_seen_page_index": 15,
+      "source_trace": "NCERT Class 10 Science, Chapter 1, extracted page 15"
+    },
+    {
+      "title": "(d) BaCl2 + H2SO4 → BaSO4 + HCl",
+      "first_seen_page_index": 15,
+      "source_trace": "NCERT Class 10 Science, Chapter 1, extracted page 15"
+    }
+  ],
+  "production_status": "concept_candidates_ready_for_human_decode"
+}

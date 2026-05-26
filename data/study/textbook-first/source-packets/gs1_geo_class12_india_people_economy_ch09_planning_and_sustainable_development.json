@@ -1,0 +1,58 @@
+{
+  "key": "gs1_geo_class12_india_people_economy_ch09_planning_and_sustainable_development",
+  "title": "Planning and Sustainable Development",
+  "source": {
+    "book": "NCERT Class 12 India People and Economy",
+    "chapter": 9,
+    "chapter_title": "Planning and Sustainable Development",
+    "pdf_url": "https://ncert.nic.in/textbook.php?legy2=0-12",
+    "page_range": "pending source extraction"
+  },
+  "resolved_pdf_url": "https://ncert.nic.in/textbook/pdf/legy209.pdf",
+  "sha256": "b5d4e9c7e2710f13ac55f9739ac1ecf3e02f27100785a10b518ee3ad584c016c",
+  "extraction": {
+    "raw_text_path": "data/study/textbook-first/raw-text/gs1_geo_class12_india_people_economy_ch09_planning_and_sustainable_development.txt",
+    "extracted_characters": 27959,
+    "page_count": 11,
+    "paragraph_count_estimate": 1,
+    "title_match_score": 0
+  },
+  "concept_candidates": [
+    {
+      "title": "GEOGRAPHICAL",
+      "first_seen_page_index": 1,
+      "source_trace": "NCERT Class 12 India People and Economy, Chapter 9, extracted page 1"
+    },
+    {
+      "title": "PERSPECTIVE ON",
+      "first_seen_page_index": 1,
+      "source_trace": "NCERT Class 12 India People and Economy, Chapter 9, extracted page 1"
+    },
+    {
+      "title": "SELECTED ISSUES",
+      "first_seen_page_index": 1,
+      "source_trace": "NCERT Class 12 India People and Economy, Chapter 9, extracted page 1"
+    },
+    {
+      "title": "AND PROBLEMS",
+      "first_seen_page_index": 1,
+      "source_trace": "NCERT Class 12 India People and Economy, Chapter 9, extracted page 1"
+    },
+    {
+      "title": "98 India : People and Economy",
+      "first_seen_page_index": 4,
+      "source_trace": "NCERT Class 12 India People and Economy, Chapter 9, extracted page 4"
+    },
+    {
+      "title": "102 India : People and Economy",
+      "first_seen_page_index": 8,
+      "source_trace": "NCERT Class 12 India People and Economy, Chapter 9, extracted page 8"
+    },
+    {
+      "title": "104 India : People and Economy",
+      "first_seen_page_index": 10,
+      "source_trace": "NCERT Class 12 India People and Economy, Chapter 9, extracted page 10"
+    }
+  ],
+  "production_status": "concept_candidates_ready_for_human_decode"
+}

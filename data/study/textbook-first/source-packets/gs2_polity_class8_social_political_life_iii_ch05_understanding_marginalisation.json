@@ -1,0 +1,53 @@
+{
+  "key": "gs2_polity_class8_social_political_life_iii_ch05_understanding_marginalisation",
+  "title": "Understanding Marginalisation",
+  "source": {
+    "book": "NCERT Class 8 Social and Political Life III",
+    "chapter": 5,
+    "chapter_title": "Understanding Marginalisation",
+    "pdf_url": "https://ncert.nic.in/textbook.php?hess2=0-8",
+    "page_range": "pending source extraction"
+  },
+  "resolved_pdf_url": "https://ncert.nic.in/textbook/pdf/hess205.pdf",
+  "sha256": "f2ec0cbe7abd0ff8a9ff9a0e35e67cb362d76c6c148de78494cfcb74dfd220cb",
+  "extraction": {
+    "raw_text_path": "data/study/textbook-first/raw-text/gs2_polity_class8_social_political_life_iii_ch05_understanding_marginalisation.txt",
+    "extracted_characters": 28691,
+    "page_count": 14,
+    "paragraph_count_estimate": 0,
+    "title_match_score": 0
+  },
+  "concept_candidates": [
+    {
+      "title": "52 OUR PASTS – III",
+      "first_seen_page_index": 2,
+      "source_trace": "NCERT Class 8 Social and Political Life III, Chapter 5, extracted page 2"
+    },
+    {
+      "title": "54 OUR PASTS – III",
+      "first_seen_page_index": 4,
+      "source_trace": "NCERT Class 8 Social and Political Life III, Chapter 5, extracted page 4"
+    },
+    {
+      "title": "56 OUR PASTS – III",
+      "first_seen_page_index": 6,
+      "source_trace": "NCERT Class 8 Social and Political Life III, Chapter 5, extracted page 6"
+    },
+    {
+      "title": "60 OUR PASTS – III",
+      "first_seen_page_index": 10,
+      "source_trace": "NCERT Class 8 Social and Political Life III, Chapter 5, extracted page 10"
+    },
+    {
+      "title": "62 OUR PASTS – III",
+      "first_seen_page_index": 12,
+      "source_trace": "NCERT Class 8 Social and Political Life III, Chapter 5, extracted page 12"
+    },
+    {
+      "title": "64 OUR PASTS – III",
+      "first_seen_page_index": 14,
+      "source_trace": "NCERT Class 8 Social and Political Life III, Chapter 5, extracted page 14"
+    }
+  ],
+  "production_status": "concept_candidates_ready_for_human_decode"
+}

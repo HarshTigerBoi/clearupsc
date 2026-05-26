@@ -1,0 +1,223 @@
+{
+  "key": "gs3_economy_class10_development_ch01_development",
+  "title": "Development",
+  "source": {
+    "book": "NCERT Class 10 Understanding Economic Development",
+    "chapter": 1,
+    "chapter_title": "Development",
+    "pdf_url": "https://ncert.nic.in/textbook.php?jess2=0-5",
+    "page_range": "pending source extraction"
+  },
+  "resolved_pdf_url": "https://ncert.nic.in/textbook/pdf/jess201.pdf",
+  "sha256": "1a6f8af67a416b98f71d044d9257a5873f1e7470555a4161a56a9b773f8021ae",
+  "extraction": {
+    "raw_text_path": "data/study/textbook-first/raw-text/gs3_economy_class10_development_ch01_development.txt",
+    "extracted_characters": 39018,
+    "page_count": 16,
+    "paragraph_count_estimate": 23,
+    "title_match_score": 1
+  },
+  "concept_candidates": [
+    {
+      "title": "NOTES FOR TEACHERSNOTES FOR THE TEACHER",
+      "first_seen_page_index": 1,
+      "source_trace": "NCERT Class 10 Understanding Economic Development, Chapter 1, extracted page 1"
+    },
+    {
+      "title": "CHAPTER I : DEVELOPMENT",
+      "first_seen_page_index": 1,
+      "source_trace": "NCERT Class 10 Understanding Economic Development, Chapter 1, extracted page 1"
+    },
+    {
+      "title": "DEVELOPMENT DEVELOPMENT DEVELOPMENT DEVELOPMENT DEVELOPMENT",
+      "first_seen_page_index": 2,
+      "source_trace": "NCERT Class 10 Understanding Economic Development, Chapter 1, extracted page 2"
+    },
+    {
+      "title": "CHAPTER I",
+      "first_seen_page_index": 2,
+      "source_trace": "NCERT Class 10 Understanding Economic Development, Chapter 1, extracted page 2"
+    },
+    {
+      "title": "WHAT DEVELOPMENT PROMISES —",
+      "first_seen_page_index": 3,
+      "source_trace": "NCERT Class 10 Understanding Economic Development, Chapter 1, extracted page 3"
+    },
+    {
+      "title": "DIFFERENT PEOPLE, DIFFERENT GOALS",
+      "first_seen_page_index": 3,
+      "source_trace": "NCERT Class 10 Understanding Economic Development, Chapter 1, extracted page 3"
+    },
+    {
+      "title": "TABLE 1.1 DEVELOPMENTAL GOALS OF DIFFERENT",
+      "first_seen_page_index": 3,
+      "source_trace": "NCERT Class 10 Understanding Economic Development, Chapter 1, extracted page 3"
+    },
+    {
+      "title": "CATEGORIES OF PERSONS",
+      "first_seen_page_index": 3,
+      "source_trace": "NCERT Class 10 Understanding Economic Development, Chapter 1, extracted page 3"
+    },
+    {
+      "title": "YOU WANT A CAR CAR CAR CAR CAR? THE WAY OUR COUNTRY IS",
+      "first_seen_page_index": 3,
+      "source_trace": "NCERT Class 10 Understanding Economic Development, Chapter 1, extracted page 3"
+    },
+    {
+      "title": "SET UP ALL YOU CAN HOPE FOR IS MAY BE TO",
+      "first_seen_page_index": 3,
+      "source_trace": "NCERT Class 10 Understanding Economic Development, Chapter 1, extracted page 3"
+    },
+    {
+      "title": "ONE DAY OWN THE RICKSHAW YOU PULL!",
+      "first_seen_page_index": 3,
+      "source_trace": "NCERT Class 10 Understanding Economic Development, Chapter 1, extracted page 3"
+    },
+    {
+      "title": "INCOME AND OTHER GOALS",
+      "first_seen_page_index": 4,
+      "source_trace": "NCERT Class 10 Understanding Economic Development, Chapter 1, extracted page 4"
+    },
+    {
+      "title": "THOSE PEOPLE THOSE PEOPLE THOSE PEOPLE THOSE PEOPLE THOSE PEOPLE",
+      "first_seen_page_index": 4,
+      "source_trace": "NCERT Class 10 Understanding Economic Development, Chapter 1, extracted page 4"
+    },
+    {
+      "title": "DON’T WANT TO",
+      "first_seen_page_index": 4,
+      "source_trace": "NCERT Class 10 Understanding Economic Development, Chapter 1, extracted page 4"
+    },
+    {
+      "title": "DEVELOP!",
+      "first_seen_page_index": 4,
+      "source_trace": "NCERT Class 10 Understanding Economic Development, Chapter 1, extracted page 4"
+    },
+    {
+      "title": "LET’S WORK THESE OUT",
+      "first_seen_page_index": 5,
+      "source_trace": "NCERT Class 10 Understanding Economic Development, Chapter 1, extracted page 5"
+    },
+    {
+      "title": "NATIONAL DEVELOPMENT",
+      "first_seen_page_index": 5,
+      "source_trace": "NCERT Class 10 Understanding Economic Development, Chapter 1, extracted page 5"
+    },
+    {
+      "title": "ACTIVITY 1",
+      "first_seen_page_index": 6,
+      "source_trace": "NCERT Class 10 Understanding Economic Development, Chapter 1, extracted page 6"
+    },
+    {
+      "title": "HOW TO COMPARE DIFFERENT COUNTRIES",
+      "first_seen_page_index": 7,
+      "source_trace": "NCERT Class 10 Understanding Economic Development, Chapter 1, extracted page 7"
+    },
+    {
+      "title": "OR STATES?",
+      "first_seen_page_index": 7,
+      "source_trace": "NCERT Class 10 Understanding Economic Development, Chapter 1, extracted page 7"
+    },
+    {
+      "title": "TABLE 1.2 COMPARISON OF TWO",
+      "first_seen_page_index": 8,
+      "source_trace": "NCERT Class 10 Understanding Economic Development, Chapter 1, extracted page 8"
+    },
+    {
+      "title": "COUNTRIES",
+      "first_seen_page_index": 8,
+      "source_trace": "NCERT Class 10 Understanding Economic Development, Chapter 1, extracted page 8"
+    },
+    {
+      "title": "COUNTRY WITH NO RICH AND NO POOR COUNTRY WITH RICH AND POOR",
+      "first_seen_page_index": 8,
+      "source_trace": "NCERT Class 10 Understanding Economic Development, Chapter 1, extracted page 8"
+    },
+    {
+      "title": "MADE THE",
+      "first_seen_page_index": 8,
+      "source_trace": "NCERT Class 10 Understanding Economic Development, Chapter 1, extracted page 8"
+    },
+    {
+      "title": "CHAIRS",
+      "first_seen_page_index": 8,
+      "source_trace": "NCERT Class 10 Understanding Economic Development, Chapter 1, extracted page 8"
+    },
+    {
+      "title": "AND WE",
+      "first_seen_page_index": 8,
+      "source_trace": "NCERT Class 10 Understanding Economic Development, Chapter 1, extracted page 8"
+    },
+    {
+      "title": "THEM.",
+      "first_seen_page_index": 8,
+      "source_trace": "NCERT Class 10 Understanding Economic Development, Chapter 1, extracted page 8"
+    },
+    {
+      "title": "AND HE",
+      "first_seen_page_index": 8,
+      "source_trace": "NCERT Class 10 Understanding Economic Development, Chapter 1, extracted page 8"
+    },
+    {
+      "title": "TOOK",
+      "first_seen_page_index": 8,
+      "source_trace": "NCERT Class 10 Understanding Economic Development, Chapter 1, extracted page 8"
+    },
+    {
+      "title": "INCOME AND OTHER CRITERIA",
+      "first_seen_page_index": 9,
+      "source_trace": "NCERT Class 10 Understanding Economic Development, Chapter 1, extracted page 9"
+    },
+    {
+      "title": "TABLE 1.4 SOME COMPARATIVE DATA ON",
+      "first_seen_page_index": 9,
+      "source_trace": "NCERT Class 10 Understanding Economic Development, Chapter 1, extracted page 9"
+    },
+    {
+      "title": "HARYANA, KERALA AND BIHAR",
+      "first_seen_page_index": 9,
+      "source_trace": "NCERT Class 10 Understanding Economic Development, Chapter 1, extracted page 9"
+    },
+    {
+      "title": "TABLE 1.3 PER CAPITA INCOME",
+      "first_seen_page_index": 9,
+      "source_trace": "NCERT Class 10 Understanding Economic Development, Chapter 1, extracted page 9"
+    },
+    {
+      "title": "OF SELECT STATES",
+      "first_seen_page_index": 9,
+      "source_trace": "NCERT Class 10 Understanding Economic Development, Chapter 1, extracted page 9"
+    },
+    {
+      "title": "PUBLIC FACILITIES",
+      "first_seen_page_index": 10,
+      "source_trace": "NCERT Class 10 Understanding Economic Development, Chapter 1, extracted page 10"
+    },
+    {
+      "title": "ACTIVITY 2",
+      "first_seen_page_index": 11,
+      "source_trace": "NCERT Class 10 Understanding Economic Development, Chapter 1, extracted page 11"
+    },
+    {
+      "title": "TABLE 1.5 EDUCATIONAL ACHIEVEMENT OF RURAL",
+      "first_seen_page_index": 11,
+      "source_trace": "NCERT Class 10 Understanding Economic Development, Chapter 1, extracted page 11"
+    },
+    {
+      "title": "POPULATION OF UTTAR PRADESH",
+      "first_seen_page_index": 11,
+      "source_trace": "NCERT Class 10 Understanding Economic Development, Chapter 1, extracted page 11"
+    },
+    {
+      "title": "HUMAN HUMAN HUMAN HUMAN HUMAN DEVELOPMENT DEVELOPMENT DEVELOPMENT DEVELOPMENT DEVELOPMENT",
+      "first_seen_page_index": 12,
+      "source_trace": "NCERT Class 10 Understanding Economic Development, Chapter 1, extracted page 12"
+    },
+    {
+      "title": "REPOR REPOR REPOR REPOR REPORT T T T T",
+      "first_seen_page_index": 12,
+      "source_trace": "NCERT Class 10 Understanding Economic Development, Chapter 1, extracted page 12"
+    }
+  ],
+  "production_status": "concept_candidates_ready_for_human_decode"
+}

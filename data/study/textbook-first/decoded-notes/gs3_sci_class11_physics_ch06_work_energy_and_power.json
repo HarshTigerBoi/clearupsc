@@ -1,0 +1,236 @@
+{
+  "analogy": "Think of \"Work Energy and Power\" through the chapter's own opening images: CHAPTER SIX SYSTEMS OF PARTICLES AND ROTATIONAL MOTION 6.1 INTRODUCTION In the earlier chapters we primarily considered the motion of a single particle. (A particle is ideally represented as a point mass having no size.) We applied the results of our study even to the... The easy idea is that the visible surface is only the outside cover. The chapter keeps asking how we can know what is inside when no one can directly reach the deep interior. So the learner must read clues: rocks, mines, drilling, volcanic material, heat, gravity, magnetism and earthquake waves. Like solving a hidden-layer puzzle, each clue tells something about the crust, mantle, core and volcanic activity without inventing anything beyond the textbook.",
+  "full_notes": "Work Energy and Power is decoded here only from the NCERT chapter text. The chapter begins by asking how the nature of the earth should be imagined and why the interior cannot be known in the same direct way as the surface. It connects the hidden interior with visible results on the surface, especially landscape development, earthquakes, tsunamis and volcanic activity.\n\nThe text explains that cHAPTER SIX SYSTEMS OF PARTICLES AND ROTATIONAL MOTION 6.1 INTRODUCTION In the earlier chapters we primarily considered the motion of a single particle.\n\nThe text explains that (A particle is ideally represented as a point mass having no size.) We applied the results of our study even to the motion of bodies of finite size, assuming that motion of such bodies can be described in terms of the motion of a particle.\n\nThe text explains that any real body which we encounter in daily life has a finite size.\n\nThe text explains that in dealing with the motion of extended bodies (bodies of finite size) often the idealised model of a particle is inadequate.\n\nThe text explains that in this chapter we shall try to go beyond this inadequacy.\n\nThe text explains that we shall attempt to build an understanding of the motion of extended bodies.\n\nThe text explains that an extended body, in the first place, is a system of particles.\n\nThe text explains that we shall begin with the consideration of motion of the system as a whole.\n\nThe text explains that the centre of mass of a system of particles will be a key concept here.\n\nThe text explains that we shall discuss the motion of the centre of mass of a system of particles and usefulness of this concept in understanding the motion of extended bodies.\n\nThe text explains that a large class of problems with extended bodies can be solved by considering them to be rigid bodies.\n\nThe text explains that ideally a rigid body is a body with a perfectly definite and unchanging shape.\n\nThe text explains that the distances between all pairs of particles of such a body do not change.\n\nThe text explains that it is evident from this definition of a rigid body that no real body is truly rigid, since real bodies deform under the influence of forces.\n\nThe text explains that but in many situations the deformations are negligible.\n\nThe text explains that in a number of situations involving bodies such as wheels, tops, steel beams, molecules and planets on the other hand, we can ignore that they warp (twist out of shape), bend or vibrate and treat them as rigid.\n\nThe text explains that notice, in this case the orientation of OP, i.e. the angle OP makes with a fixed direction, say the horizontal, remains the same, i.e. α1 = α2 = α3.\n\nThe text explains that the two particles produced in the decay, the radon nucleus and the alpha particle, move in different directions in such a way that their centre of mass moves along the same path along which the original decaying radium nucleus was moving [Fig.\n\nThe text explains that (iii) if we take a right handed screw with its head lying in the plane of a and b and the screw perpendicular to this plane, and if we turn the head in the direction from a to b, then the tip of the screw advances in the direction of c.\n\nThe text explains that alternately, if one curls up the fingers of right hand around a line perpendicular to the plane of the vectors a and b and if the fingers are curled up in the direction from a to b, then the stretched thumb points in the direction of c, as shown in Fig.\n\nThe text explains that 6.15 (a) Rule of the right handed screw for defining the direction of the vector product of two vectors.\n\nThe text explains that (b) Rule of the right hand for defining the direction of the vector product.\n\nThe text explains that your stretched thumb points in the direction of c.\n\nThe text explains that this means the two vectors are in opposite directions.\n\nThe text explains that for rotation about a fixed axis, the angular velocity vector lies along the axis of rotation, and points out in the direction in which a right handed screw would advance, if the head of the screw is rotated with the body.\n\nThe text explains that 6.17 (a) If the head of a right handed screw rotates with the body, the screw advances in the direction of the angular velocity ωωωωω.\n\nThe text explains that if the sense (clockwise or anticlockwise) of rotation of the body changes, so does the direction of ωωωωω.\n\nThe text explains that 6.17 (b) The angular velocity vector ωωωωω is directed along the fixed axis as shown.\n\nThe text explains that it is perpendicular to both ωωωωω and r and is directed along the tangent to the circle described by the particle.\n\nThe text explains that the figure shows the vector ω ωω ωω directed along the fixed (z–) axis and also the position vector r = OP of the particle at P of the rigid body with respect to the origin O.\n\nThe text explains that the linear velocity vector v at P has the same magnitude and direction.\n\nThe text explains that we note that for rotation about a fixed axis, the direction of the vector ω ωω ωω does not change with time.\n\nThe text explains that for the more general rotation, both the magnitude and the direction of ω ωω ωω may change from instant to instant.\n\nThe text explains that thus, d dt = ω α (6.21) If the axis of rotation is fixed, the direction of ω ωω ωω and hence, that of ααααα is fixed.\n\nThe text explains that 6.18 τ = τ = τ = τ = τ = r × F, τττττ is perpendicular to the plane containing r and F, and its direction is given by the right handed screw rule.\n\nThe text explains that the magnitude of the moment of force may be written ( sin ) r F r F τ θ ⊥ = = (6.24b) or sin r F rF τ θ ⊥ = = (6.24c) where r⊥ = r sin θ is the perpendicular distance of the line of action of F from the origin and ( sin ) F F θ ⊥ = is the component of F in the direction perpendicular to r.\n\nThe text explains that if the direction of F is reversed, the direction of the moment of force is reversed.\n\nThe text explains that if directions of both r and F are reversed, the direction of the moment of force remains the same.\n\nThe text explains that we may write l r p⊥ = or r p ⊥ (6.26b) where r⊥ (= r sinθ) is the perpendicular distance of the directional line of p from the origin and ( sin ) p p θ ⊥ = is the component of p in a direction perpendicular to r.\n\nThe text explains that we expect the angular momentum to be zero (l = 0), if the linear momentum vanishes (p = 0), if the particle is at the origin (r = 0), or if the directional line of p passes through the origin θ = 00 or 1800.\n\nThe text explains that determine the direction of this angular momentum.\n\nThe text explains that (We leave it to you to find out how the torque is generated and what its direction is.) The effect of the torque on the angular momentum is to make it precess around an axis perpendicular to both the angular momentum and the torque.\n\nThe text explains that we may therefore separate the contribution of the external and the internal forces to the total torque = = × ∑ ∑ i i i i i r F τ τ as = + ext int τ τ τ , where ext i i ext i = × ∑ r F τ and int int = × ∑ r F i i i τ We shall assume not only Newton’s third law of motion, i.e. the forces between any two particles of the system are equal and opposite, but also that these forces are directed along the line joining the two particles.\n\nThe text explains that although the particle changes position with time, the line of direction of v remains the same and hence OM = r sin θ. is a constant.\n\nThe text explains that further, the direction of l is perpendicular to the plane of r and v.\n\nThe text explains that it is into the page of the figure.This direction does not change with time.\n\nThe text explains that thus, l remains the same in magnitude and direction and is therefore conserved.\n\nThe text explains that at the two ends (A and B) of which two parallel forces, both equal in magnitude and acting along same direction are applied perpendicular to the rod.\n\nThe text explains that a pair of forces of equal magnitude but acting in opposite directions with different lines of action is known as a couple or torque.\n\nThe text explains that except when the needle points in the north-south direction; the two forces do not have the same line of action.\n\nThe text explains that let R be the reaction of the support at the fulcrum; R is directed opposite to the forces F1 and F2.\n\nThe text explains that note that F prevents the ladder from sliding away from the wall and is therefore directed toward the wall.\n\nSource: NCERT Class 11 Physics, Chapter 6: Work Energy and Power",
+  "concise_notes": [
+    {
+      "term": "CHAPTER SIX",
+      "definition": "CHAPTER SIX SYSTEMS OF PARTICLES AND ROTATIONAL MOTION 6.1 INTRODUCTION In the earlier chapters we primarily considered the motion of a single particle.",
+      "source_trace": "NCERT Class 11 Physics Ch6 pg 1"
+    },
+    {
+      "term": "SYSTEMS OF PARTICLES AND ROTATIONAL MOTION",
+      "definition": "CHAPTER SIX SYSTEMS OF PARTICLES AND ROTATIONAL MOTION 6.1 INTRODUCTION In the earlier chapters we primarily considered the motion of a single particle.",
+      "source_trace": "NCERT Class 11 Physics Ch6 pg 1"
+    },
+    {
+      "term": "6.1 INTRODUCTION",
+      "definition": "CHAPTER SIX SYSTEMS OF PARTICLES AND ROTATIONAL MOTION 6.1 INTRODUCTION In the earlier chapters we primarily considered the motion of a single particle.",
+      "source_trace": "NCERT Class 11 Physics Ch6 pg 1"
+    },
+    {
+      "term": "6.1.1 What kind of motion can a rigid body have?",
+      "definition": "6.1.1 What kind of motion can a rigid body have?",
+      "source_trace": "NCERT Class 11 Physics Ch6 pg 1"
+    },
+    {
+      "term": "6.2 Centre of mass",
+      "definition": "The centre of mass of a system of particles will be a key concept here.",
+      "source_trace": "NCERT Class 11 Physics Ch6 pg 1"
+    },
+    {
+      "term": "6.3 Motion of centre of mass",
+      "definition": "CHAPTER SIX SYSTEMS OF PARTICLES AND ROTATIONAL MOTION 6.1 INTRODUCTION In the earlier chapters we primarily considered the motion of a single particle.",
+      "source_trace": "NCERT Class 11 Physics Ch6 pg 1"
+    },
+    {
+      "term": "6.4 Linear momentum of a",
+      "definition": "Let us begin with a rectangular 6.1 Introduction 6.2 Centre of mass 6.3 Motion of centre of mass 6.4 Linear momentum of a system of particles 6.5 Vector...",
+      "source_trace": "NCERT Class 11 Physics Ch6 pg 1"
+    },
+    {
+      "term": "6.5 Vector product of two vectors",
+      "definition": "Let us begin with a rectangular 6.1 Introduction 6.2 Centre of mass 6.3 Motion of centre of mass 6.4 Linear momentum of a system of particles 6.5 Vector...",
+      "source_trace": "NCERT Class 11 Physics Ch6 pg 1"
+    },
+    {
+      "term": "6.6 Angular velocity and its",
+      "definition": "Let us begin with a rectangular 6.1 Introduction 6.2 Centre of mass 6.3 Motion of centre of mass 6.4 Linear momentum of a system of particles 6.5 Vector...",
+      "source_trace": "NCERT Class 11 Physics Ch6 pg 1"
+    },
+    {
+      "term": "6.7 Torque and angular",
+      "definition": "Let us begin with a rectangular 6.1 Introduction 6.2 Centre of mass 6.3 Motion of centre of mass 6.4 Linear momentum of a system of particles 6.5 Vector...",
+      "source_trace": "NCERT Class 11 Physics Ch6 pg 1"
+    }
+  ],
+  "revision_bullets": [
+    "CHAPTER SIX SYSTEMS OF PARTICLES AND ROTATIONAL MOTION 6.1 INTRODUCTION In the earlier chapters we primarily considered the motion of a single particle. (NCERT Class 11 Physics Ch6 pg 1)",
+    "(A particle is ideally represented as a point mass having no size.) We applied the results of our study even to the motion of bodies of... (NCERT Class 11 Physics Ch6 pg 1)",
+    "Any real body which we encounter in daily life has a finite size. (NCERT Class 11 Physics Ch6 pg 1)",
+    "In dealing with the motion of extended bodies (bodies of finite size) often the idealised model of a particle is inadequate. (NCERT Class 11 Physics Ch6 pg 1)",
+    "In this chapter we shall try to go beyond this inadequacy. (NCERT Class 11 Physics Ch6 pg 1)",
+    "We shall attempt to build an understanding of the motion of extended bodies. (NCERT Class 11 Physics Ch6 pg 1)",
+    "An extended body, in the first place, is a system of particles. (NCERT Class 11 Physics Ch6 pg 1)",
+    "We shall begin with the consideration of motion of the system as a whole. (NCERT Class 11 Physics Ch6 pg 1)",
+    "The centre of mass of a system of particles will be a key concept here. (NCERT Class 11 Physics Ch6 pg 1)",
+    "We shall discuss the motion of the centre of mass of a system of particles and usefulness of this concept in understanding the motion of extended... (NCERT Class 11 Physics Ch6 pg 1)"
+  ],
+  "cases": [
+    {
+      "name": "Let",
+      "point": "Let us begin with a rectangular 6.1 Introduction 6.2 Centre of mass 6.3 Motion of centre of mass 6.4 Linear momentum of a system of particles... (NCERT Class 11 Physics Ch6 pg 1)"
+    },
+    {
+      "name": "The",
+      "point": "The centre of mass of the system is that point C which is at a distance X from O, where X is given by 1 1... (NCERT Class 11 Physics Ch6 pg 4)"
+    },
+    {
+      "name": "Answer The",
+      "point": "Answer The lamina (∆LMN ) may be subdivided into narrow strips each parallel to the base (MN) as shown in Fig. (NCERT Class 11 Physics Ch6 pg 6)"
+    },
+    {
+      "name": "Answer Choosing",
+      "point": "Answer Choosing the X and Y axes as shown in Fig. (NCERT Class 11 Physics Ch6 pg 6)"
+    },
+    {
+      "name": "Differentiating Eq",
+      "point": "Differentiating Eq.(6.8) with respect to time, we obtain 1 2 1 2 d d d d ... d d d d n n M m m... (NCERT Class 11 Physics Ch6 pg 7)"
+    }
+  ],
+  "schemes": [
+    {
+      "name": "Since",
+      "point": "Since all these forces act on the single particle, they must be concurrent. (NCERT Class 11 Physics Ch6 pg 18)"
+    },
+    {
+      "name": "Here",
+      "point": "Here the moments of both the forces are equal, but they are not opposite; they act in the same sense and cause anticlockwise rotation of the... (NCERT Class 11 Physics Ch6 pg 18)"
+    },
+    {
+      "name": "The",
+      "point": "The forces F and -F act respectively at points B and A. (NCERT Class 11 Physics Ch6 pg 19)"
+    },
+    {
+      "name": "Two",
+      "point": "Two forces F1 and F2, parallel to each other and usually perpendicular to the lever, as shown here, act on the lever at distances d1 and... (NCERT Class 11 Physics Ch6 pg 19)"
+    },
+    {
+      "name": "You",
+      "point": "You may easily show that the principle of moment holds even when the parallel forces F1 and F2 are not perpendicular, but act at some angle,... (NCERT Class 11 Physics Ch6 pg 20)"
+    }
+  ],
+  "ncert_coverage": [
+    "NCERT Class 11 Physics Chapter 6: Work Energy and Power"
+  ],
+  "prelims_traps": [
+    "Do not treat CHAPTER SIX and SYSTEMS OF PARTICLES AND ROTATIONAL MOTION as identical unless the source text links them directly.",
+    "Do not add outside examples to Work Energy and Power; use only the examples and processes named in the chapter.",
+    "Do not confuse a visible surface result with the internal process or source evidence described by the text."
+  ],
+  "mains_angles": [
+    "Explain Work Energy and Power through the source chain: evidence, process and visible result.",
+    "Use CHAPTER SIX and SYSTEMS OF PARTICLES AND ROTATIONAL MOTION to show how the chapter connects facts with mechanisms.",
+    "Frame an answer around causes, internal working, surface expression and source limitations from the NCERT chapter."
+  ],
+  "mcqs": [
+    {
+      "question_text": "In the NCERT discussion of Work Energy and Power, which statement is supported by the source text about CHAPTER SIX?",
+      "options": [
+        "CHAPTER SIX SYSTEMS OF PARTICLES AND ROTATIONAL MOTION 6.1 INTRODUCTION In the earlier chapters we primarily considered the motion of a single particle.",
+        "(A particle is ideally represented as a point mass having no size.) We applied the results of our study even to the motion of...",
+        "Any real body which we encounter in daily life has a finite size.",
+        "In dealing with the motion of extended bodies (bodies of finite size) often the idealised model of a particle is inadequate."
+      ],
+      "correct_answer": 0,
+      "pattern": "statement",
+      "source_trace": "NCERT Class 11 Physics Ch6 pg 1",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 3,
+      "concepts_tested": [
+        "CHAPTER SIX"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Work Energy and Power, which statement is supported by the source text about SYSTEMS OF PARTICLES AND ROTATIONAL MOTION?",
+      "options": [
+        "In this chapter we shall try to go beyond this inadequacy.",
+        "We shall attempt to build an understanding of the motion of extended bodies.",
+        "An extended body, in the first place, is a system of particles.",
+        "We shall begin with the consideration of motion of the system as a whole."
+      ],
+      "correct_answer": 0,
+      "pattern": "statement",
+      "source_trace": "NCERT Class 11 Physics Ch6 pg 1",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 3,
+      "concepts_tested": [
+        "SYSTEMS OF PARTICLES AND ROTATIONAL MOTION"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Work Energy and Power, which statement is supported by the source text about 6.1 INTRODUCTION?",
+      "options": [
+        "The centre of mass of a system of particles will be a key concept here.",
+        "We shall discuss the motion of the centre of mass of a system of particles and usefulness of this concept in understanding the motion...",
+        "A large class of problems with extended bodies can be solved by considering them to be rigid bodies.",
+        "Ideally a rigid body is a body with a perfectly definite and unchanging shape."
+      ],
+      "correct_answer": 0,
+      "pattern": "not_type",
+      "source_trace": "NCERT Class 11 Physics Ch6 pg 1",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 3,
+      "concepts_tested": [
+        "6.1 INTRODUCTION"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Work Energy and Power, which statement is supported by the source text about 6.1.1 What kind of motion can a rigid body have??",
+      "options": [
+        "The distances between all pairs of particles of such a body do not change.",
+        "It is evident from this definition of a rigid body that no real body is truly rigid, since real bodies deform under the influence...",
+        "But in many situations the deformations are negligible.",
+        "In a number of situations involving bodies such as wheels, tops, steel beams, molecules and planets on the other hand, we can ignore that..."
+      ],
+      "correct_answer": 0,
+      "pattern": "statement",
+      "source_trace": "NCERT Class 11 Physics Ch6 pg 1",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 3,
+      "concepts_tested": [
+        "6.1.1 What kind of motion can a rigid body have?"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Work Energy and Power, which statement is supported by the source text about 6.2 Centre of mass?",
+      "options": [
+        "Let us try to explore this question by taking some examples of the motion of rigid bodies.",
+        "Let us begin with a rectangular 6.1 Introduction 6.2 Centre of mass 6.3 Motion of centre of mass 6.4 Linear momentum of a system...",
+        "SYSTEMS OF PARTICLES AND ROTATIONAL MOTION 9 3 block sliding down an inclined plane without any sidewise movement.",
+        "Its motion down the plane is such that all the particles of the body are moving together, i.e. they have the same velocity at..."
+      ],
+      "correct_answer": 0,
+      "pattern": "statement",
+      "source_trace": "NCERT Class 11 Physics Ch6 pg 1",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 3,
+      "concepts_tested": [
+        "6.2 Centre of mass"
+      ]
+    }
+  ],
+  "source_audit": {
+    "source_only": true,
+    "uncertain_or_omitted": [],
+    "generation_method": "local_source_only_extractive_decode"
+  },
+  "content_model": "clearupsc_textbook_decoded_from_source_v1",
+  "decode_status": "textbook_decoded",
+  "source": {
+    "book": "NCERT Class 11 Physics",
+    "chapter": 6,
+    "chapter_title": "Work Energy and Power",
+    "pdf_url": "https://ncert.nic.in/textbook.php?keph1=0-15",
+    "page_range": "pending source extraction"
+  },
+  "resolved_pdf_url": "https://ncert.nic.in/textbook/pdf/keph106.pdf",
+  "source_trace": "NCERT Class 11 Physics | Chapter 6: Work Energy and Power | https://ncert.nic.in/textbook/pdf/keph106.pdf | sha256:e50c224138171db853ce775949bb02ce3d8f57975aca527f44d94f8058c4996d",
+  "raw_text_path": "data/study/textbook-first/raw-text/gs3_sci_class11_physics_ch06_work_energy_and_power.txt",
+  "generated_by": "local_source_only_extractive_decode",
+  "generated_at": "2026-05-26T19:40:01.873Z"
+}

@@ -9,7 +9,7 @@ export const GS2_POLITY_GOV_KNOWLEDGE: TopicKnowledge[] = [
     title: "Constitution & Polity",
     subject: "GS2",
     analogy:
-      "Think of the Indian Constitution like the rulebook of the world\'s largest school. It tells the principal (government) what they can and cannot do, gives students (citizens) their rights, and sets up a system of class monitors, teachers, and a discipline committee (Parliament, Executive, Judiciary) to make sure everyone follows the rules fairly.",
+      "The Indian Constitution can be read as the rulebook of the world\'s largest school. It tells the principal (government) what they can and cannot do, gives students (citizens) their rights, and sets up a system of class monitors, teachers, and a discipline committee (Parliament, Executive, Judiciary) to make sure everyone follows the rules fairly.",
     easyExplanation: `The Indian Constitution is the supreme law of India. It was written by a Constituent Assembly led by Dr B.R. Ambedkar and adopted on 26 November 1949. It came into effect on 26 January 1950 – which is why we celebrate Republic Day.
 
 The Constitution does four big things:
@@ -750,7 +750,7 @@ Cut Motions: Three types against budget demands – Policy Cut (disapproval of p
     title: "Executive, Judiciary & Tribunals",
     subject: "GS2",
     analogy:
-      "Think of the government like a cricket team. The President is like the BCCI President – important but ceremonial. The Prime Minister is the team captain – makes real decisions. The Cabinet are senior players with specific roles. The Judiciary is the umpire – independent, cannot be removed easily, and has the final say on whether a delivery (law) is legal or not.",
+      "The government can be read through a cricket-team comparison. The President is ceremonial, the Prime Minister is the captain making real decisions, the Cabinet are senior players with specific roles, and the Judiciary is the independent umpire with the final say on whether a law is valid.",
     easyExplanation: `India has a **parliamentary executive** – the real power lies with the Prime Minister and Cabinet, not the President.
 
 **President**: Head of State. Elected indirectly by an electoral college (elected MPs + elected MLAs). 5-year term. Powers include appointing PM, Governors, judges, giving assent to bills, emergency powers. But acts on aid and advice of Council of Ministers (Article 74). Impeachment by Parliament for 'violation of Constitution'.

@@ -1,0 +1,83 @@
+{
+  "key": "gs1_hist_class8_our_pasts_iii_ch06_weavers_iron_smelters_and_factory_owners",
+  "title": "Weavers Iron Smelters and Factory Owners",
+  "source": {
+    "book": "NCERT Class 8 Our Pasts III",
+    "chapter": 6,
+    "chapter_title": "Weavers Iron Smelters and Factory Owners",
+    "pdf_url": "https://ncert.nic.in/textbook.php?hess1=0-10",
+    "page_range": "pending source extraction"
+  },
+  "resolved_pdf_url": "https://ncert.nic.in/textbook/pdf/hess206.pdf",
+  "sha256": "0f3f1c8df84e1437e607e51cefd76b795ad3c96bfc56c3d81f2b07b651378925",
+  "extraction": {
+    "raw_text_path": "data/study/textbook-first/raw-text/gs1_hist_class8_our_pasts_iii_ch06_weavers_iron_smelters_and_factory_owners.txt",
+    "extracted_characters": 25497,
+    "page_count": 13,
+    "paragraph_count_estimate": 0,
+    "title_match_score": 0
+  },
+  "concept_candidates": [
+    {
+      "title": "66 OUR PASTS – III",
+      "first_seen_page_index": 2,
+      "source_trace": "NCERT Class 8 Our Pasts III, Chapter 6, extracted page 2"
+    },
+    {
+      "title": "CIVILISING THE “NATIVE”, EDUCATING THE NATION 67",
+      "first_seen_page_index": 3,
+      "source_trace": "NCERT Class 8 Our Pasts III, Chapter 6, extracted page 3"
+    },
+    {
+      "title": "68 OUR PASTS – III",
+      "first_seen_page_index": 4,
+      "source_trace": "NCERT Class 8 Our Pasts III, Chapter 6, extracted page 4"
+    },
+    {
+      "title": "CIVILISING THE “NATIVE”, EDUCATING THE NATION 69",
+      "first_seen_page_index": 5,
+      "source_trace": "NCERT Class 8 Our Pasts III, Chapter 6, extracted page 5"
+    },
+    {
+      "title": "70 OUR PASTS – III",
+      "first_seen_page_index": 6,
+      "source_trace": "NCERT Class 8 Our Pasts III, Chapter 6, extracted page 6"
+    },
+    {
+      "title": "CIVILISING THE “NATIVE”, EDUCATING THE NATION 71",
+      "first_seen_page_index": 7,
+      "source_trace": "NCERT Class 8 Our Pasts III, Chapter 6, extracted page 7"
+    },
+    {
+      "title": "72 OUR PASTS – III",
+      "first_seen_page_index": 8,
+      "source_trace": "NCERT Class 8 Our Pasts III, Chapter 6, extracted page 8"
+    },
+    {
+      "title": "CIVILISING THE “NATIVE”, EDUCATING THE NATION 73",
+      "first_seen_page_index": 9,
+      "source_trace": "NCERT Class 8 Our Pasts III, Chapter 6, extracted page 9"
+    },
+    {
+      "title": "74 OUR PASTS – III",
+      "first_seen_page_index": 10,
+      "source_trace": "NCERT Class 8 Our Pasts III, Chapter 6, extracted page 10"
+    },
+    {
+      "title": "CIVILISING THE “NATIVE”, EDUCATING THE NATION 75",
+      "first_seen_page_index": 11,
+      "source_trace": "NCERT Class 8 Our Pasts III, Chapter 6, extracted page 11"
+    },
+    {
+      "title": "76 OUR PASTS – III",
+      "first_seen_page_index": 12,
+      "source_trace": "NCERT Class 8 Our Pasts III, Chapter 6, extracted page 12"
+    },
+    {
+      "title": "CIVILISING THE “NATIVE”, EDUCATING THE NATION 77",
+      "first_seen_page_index": 13,
+      "source_trace": "NCERT Class 8 Our Pasts III, Chapter 6, extracted page 13"
+    }
+  ],
+  "production_status": "concept_candidates_ready_for_human_decode"
+}

@@ -1,0 +1,63 @@
+{
+  "key": "gs1_society_class12_indian_society_ch07_suggestions_for_project_work",
+  "title": "Suggestions for Project Work",
+  "source": {
+    "book": "NCERT Class 12 Indian Society",
+    "chapter": 7,
+    "chapter_title": "Suggestions for Project Work",
+    "pdf_url": "https://ncert.nic.in/textbook.php?lesy1=0-7",
+    "page_range": "pending source extraction"
+  },
+  "resolved_pdf_url": "https://ncert.nic.in/textbook/pdf/lesy107.pdf",
+  "sha256": "f6dfa5c68a4e0a6094949afbb9f8996e39703994c7905eb1ed4f66d4068a28bd",
+  "extraction": {
+    "raw_text_path": "data/study/textbook-first/raw-text/gs1_society_class12_indian_society_ch07_suggestions_for_project_work.txt",
+    "extracted_characters": 18738,
+    "page_count": 12,
+    "paragraph_count_estimate": 0,
+    "title_match_score": 1
+  },
+  "concept_candidates": [
+    {
+      "title": "7.1 V ariety of Methods",
+      "first_seen_page_index": 3,
+      "source_trace": "NCERT Class 12 Indian Society, Chapter 7, extracted page 3"
+    },
+    {
+      "title": "7.2 Possible theMes and subjects for sMall",
+      "first_seen_page_index": 4,
+      "source_trace": "NCERT Class 12 Indian Society, Chapter 7, extracted page 4"
+    },
+    {
+      "title": "RESEARCH",
+      "first_seen_page_index": 10,
+      "source_trace": "NCERT Class 12 Indian Society, Chapter 7, extracted page 10"
+    },
+    {
+      "title": "TOPIC / AREA",
+      "first_seen_page_index": 10,
+      "source_trace": "NCERT Class 12 Indian Society, Chapter 7, extracted page 10"
+    },
+    {
+      "title": "TYPE OF RESEARCH METHOD / TECHNIQUE",
+      "first_seen_page_index": 10,
+      "source_trace": "NCERT Class 12 Indian Society, Chapter 7, extracted page 10"
+    },
+    {
+      "title": "OBSERVATION SURVEY",
+      "first_seen_page_index": 10,
+      "source_trace": "NCERT Class 12 Indian Society, Chapter 7, extracted page 10"
+    },
+    {
+      "title": "ARCHIVAL INTERVIEWS COMMENTS /",
+      "first_seen_page_index": 11,
+      "source_trace": "NCERT Class 12 Indian Society, Chapter 7, extracted page 11"
+    },
+    {
+      "title": "SUGGESTIONS",
+      "first_seen_page_index": 11,
+      "source_trace": "NCERT Class 12 Indian Society, Chapter 7, extracted page 11"
+    }
+  ],
+  "production_status": "concept_candidates_ready_for_human_decode"
+}

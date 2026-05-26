@@ -1,0 +1,88 @@
+{
+  "key": "gs1_post_independence_class12_politics_india_ch02_era_of_one_party_dominance",
+  "title": "Era of One Party Dominance",
+  "source": {
+    "book": "NCERT Class 12 Politics in India since Independence",
+    "chapter": 2,
+    "chapter_title": "Era of One Party Dominance",
+    "pdf_url": "https://ncert.nic.in/textbook.php?leps2=0-8",
+    "page_range": "pending source extraction"
+  },
+  "resolved_pdf_url": "https://ncert.nic.in/textbook/pdf/leps202.pdf",
+  "sha256": "b01912cdb66d3405ca1bd73df3b5a78693c66753b7db89392dbd5d486996cdc6",
+  "extraction": {
+    "raw_text_path": "data/study/textbook-first/raw-text/gs1_post_independence_class12_politics_india_ch02_era_of_one_party_dominance.txt",
+    "extracted_characters": 38304,
+    "page_count": 18,
+    "paragraph_count_estimate": 0,
+    "title_match_score": 1
+  },
+  "concept_candidates": [
+    {
+      "title": "26 November 1949 and signed on 24 January 1950 and it came into",
+      "first_seen_page_index": 2,
+      "source_trace": "NCERT Class 12 Politics in India since Independence, Chapter 2, extracted page 2"
+    },
+    {
+      "title": "25 November 1949",
+      "first_seen_page_index": 2,
+      "source_trace": "NCERT Class 12 Politics in India since Independence, Chapter 2, extracted page 2"
+    },
+    {
+      "title": "28 Politics in India sinc Independence",
+      "first_seen_page_index": 3,
+      "source_trace": "NCERT Class 12 Politics in India since Independence, Chapter 2, extracted page 3"
+    },
+    {
+      "title": "489 Members of Lok Sabha. Only 15 per cent of these eligible voters",
+      "first_seen_page_index": 3,
+      "source_trace": "NCERT Class 12 Politics in India since Independence, Chapter 2, extracted page 3"
+    },
+    {
+      "title": "30 Politics in India sinc Independence",
+      "first_seen_page_index": 5,
+      "source_trace": "NCERT Class 12 Politics in India since Independence, Chapter 2, extracted page 5"
+    },
+    {
+      "title": "32 Politics in India sinc Independence",
+      "first_seen_page_index": 7,
+      "source_trace": "NCERT Class 12 Politics in India since Independence, Chapter 2, extracted page 7"
+    },
+    {
+      "title": "34 Politics in India sinc Independence",
+      "first_seen_page_index": 9,
+      "source_trace": "NCERT Class 12 Politics in India since Independence, Chapter 2, extracted page 9"
+    },
+    {
+      "title": "34 Politics in India since Independence",
+      "first_seen_page_index": 9,
+      "source_trace": "NCERT Class 12 Politics in India since Independence, Chapter 2, extracted page 9"
+    },
+    {
+      "title": "36 Politics in India sinc Independence",
+      "first_seen_page_index": 11,
+      "source_trace": "NCERT Class 12 Politics in India since Independence, Chapter 2, extracted page 11"
+    },
+    {
+      "title": "38 Politics in India sinc Independence",
+      "first_seen_page_index": 13,
+      "source_trace": "NCERT Class 12 Politics in India since Independence, Chapter 2, extracted page 13"
+    },
+    {
+      "title": "40 Politics in India sinc Independence",
+      "first_seen_page_index": 15,
+      "source_trace": "NCERT Class 12 Politics in India since Independence, Chapter 2, extracted page 15"
+    },
+    {
+      "title": "42 Politics in India sinc Independence",
+      "first_seen_page_index": 17,
+      "source_trace": "NCERT Class 12 Politics in India since Independence, Chapter 2, extracted page 17"
+    },
+    {
+      "title": "LET US DO IT TOGETHER",
+      "first_seen_page_index": 18,
+      "source_trace": "NCERT Class 12 Politics in India since Independence, Chapter 2, extracted page 18"
+    }
+  ],
+  "production_status": "concept_candidates_ready_for_human_decode"
+}

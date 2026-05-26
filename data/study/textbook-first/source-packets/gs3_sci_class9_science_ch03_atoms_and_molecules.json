@@ -1,0 +1,118 @@
+{
+  "key": "gs3_sci_class9_science_ch03_atoms_and_molecules",
+  "title": "Atoms and Molecules",
+  "source": {
+    "book": "NCERT Class 9 Science",
+    "chapter": 3,
+    "chapter_title": "Atoms and Molecules",
+    "pdf_url": "https://ncert.nic.in/textbook.php?iesc1=0-15",
+    "page_range": "pending source extraction"
+  },
+  "resolved_pdf_url": "https://ncert.nic.in/textbook/pdf/iesc103.pdf",
+  "sha256": "a0d1f9b22e6bf084e6ce89d98fa60ec92b956a6f26f3cfdfe2354003d04192fe",
+  "extraction": {
+    "raw_text_path": "data/study/textbook-first/raw-text/gs3_sci_class9_science_ch03_atoms_and_molecules.txt",
+    "extracted_characters": 46206,
+    "page_count": 20,
+    "paragraph_count_estimate": 0,
+    "title_match_score": 0
+  },
+  "concept_candidates": [
+    {
+      "title": "3.1 Why are Plant and Animal Tissues Different?",
+      "first_seen_page_index": 2,
+      "source_trace": "NCERT Class 9 Science, Chapter 3, extracted page 2"
+    },
+    {
+      "title": "3.2 Tissues for Growth in Plants",
+      "first_seen_page_index": 2,
+      "source_trace": "NCERT Class 9 Science, Chapter 3, extracted page 2"
+    },
+    {
+      "title": "3.2.2 Lateral meristem — How do plants grow in girth?",
+      "first_seen_page_index": 3,
+      "source_trace": "NCERT Class 9 Science, Chapter 3, extracted page 3"
+    },
+    {
+      "title": "3.2.3 Intercalary meristem — How do plants grow after",
+      "first_seen_page_index": 4,
+      "source_trace": "NCERT Class 9 Science, Chapter 3, extracted page 4"
+    },
+    {
+      "title": "3.2.4 Permanent tissues",
+      "first_seen_page_index": 4,
+      "source_trace": "NCERT Class 9 Science, Chapter 3, extracted page 4"
+    },
+    {
+      "title": "3.3 Animal Tissues",
+      "first_seen_page_index": 7,
+      "source_trace": "NCERT Class 9 Science, Chapter 3, extracted page 7"
+    },
+    {
+      "title": "3.3.1 Epithelial tissues — Structure and",
+      "first_seen_page_index": 7,
+      "source_trace": "NCERT Class 9 Science, Chapter 3, extracted page 7"
+    },
+    {
+      "title": "3.3.2 How are various parts",
+      "first_seen_page_index": 8,
+      "source_trace": "NCERT Class 9 Science, Chapter 3, extracted page 8"
+    },
+    {
+      "title": "RBCs",
+      "first_seen_page_index": 9,
+      "source_trace": "NCERT Class 9 Science, Chapter 3, extracted page 9"
+    },
+    {
+      "title": "3.3.3 Can we control movement in our body?",
+      "first_seen_page_index": 10,
+      "source_trace": "NCERT Class 9 Science, Chapter 3, extracted page 10"
+    },
+    {
+      "title": "3.3.4 How does the body sense, communicate and",
+      "first_seen_page_index": 11,
+      "source_trace": "NCERT Class 9 Science, Chapter 3, extracted page 11"
+    },
+    {
+      "title": "3.4 The Musculoskeletal System",
+      "first_seen_page_index": 11,
+      "source_trace": "NCERT Class 9 Science, Chapter 3, extracted page 11"
+    },
+    {
+      "title": "3.4.1 The musculoskeletal system in action",
+      "first_seen_page_index": 12,
+      "source_trace": "NCERT Class 9 Science, Chapter 3, extracted page 12"
+    },
+    {
+      "title": "3.5 Types of Joints",
+      "first_seen_page_index": 13,
+      "source_trace": "NCERT Class 9 Science, Chapter 3, extracted page 13"
+    },
+    {
+      "title": "3.5.1 Ball and socket joint",
+      "first_seen_page_index": 13,
+      "source_trace": "NCERT Class 9 Science, Chapter 3, extracted page 13"
+    },
+    {
+      "title": "3.5.2 Hinge joint",
+      "first_seen_page_index": 13,
+      "source_trace": "NCERT Class 9 Science, Chapter 3, extracted page 13"
+    },
+    {
+      "title": "3.5.3 Pivot joint",
+      "first_seen_page_index": 13,
+      "source_trace": "NCERT Class 9 Science, Chapter 3, extracted page 13"
+    },
+    {
+      "title": "3.5.4 Fixed joints",
+      "first_seen_page_index": 13,
+      "source_trace": "NCERT Class 9 Science, Chapter 3, extracted page 13"
+    },
+    {
+      "title": "3.6 Skeletal System",
+      "first_seen_page_index": 14,
+      "source_trace": "NCERT Class 9 Science, Chapter 3, extracted page 14"
+    }
+  ],
+  "production_status": "concept_candidates_ready_for_human_decode"
+}

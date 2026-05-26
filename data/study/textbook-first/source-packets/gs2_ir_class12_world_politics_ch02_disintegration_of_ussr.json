@@ -1,0 +1,153 @@
+{
+  "key": "gs2_ir_class12_world_politics_ch02_disintegration_of_ussr",
+  "title": "Disintegration of USSR",
+  "source": {
+    "book": "NCERT Class 12 Contemporary World Politics",
+    "chapter": 2,
+    "chapter_title": "Disintegration of USSR",
+    "pdf_url": "https://ncert.nic.in/textbook.php?leps1=0-9",
+    "page_range": "pending source extraction"
+  },
+  "resolved_pdf_url": "https://ncert.nic.in/textbook/pdf/leps102.pdf",
+  "sha256": "87c5546fbe5d7d7930580ce9c84164eadf2242a7bb7b4e2973335b0f43ffd578",
+  "extraction": {
+    "raw_text_path": "data/study/textbook-first/raw-text/gs2_ir_class12_world_politics_ch02_disintegration_of_ussr.txt",
+    "extracted_characters": 32248,
+    "page_count": 14,
+    "paragraph_count_estimate": 0,
+    "title_match_score": 0
+  },
+  "concept_candidates": [
+    {
+      "title": "17 Contemporary C entres of Power",
+      "first_seen_page_index": 3,
+      "source_trace": "NCERT Class 12 Contemporary World Politics, Chapter 2, extracted page 3"
+    },
+    {
+      "title": "TIMELINE OF EUROPEAN",
+      "first_seen_page_index": 4,
+      "source_trace": "NCERT Class 12 Contemporary World Politics, Chapter 2, extracted page 4"
+    },
+    {
+      "title": "INTEGRATION",
+      "first_seen_page_index": 4,
+      "source_trace": "NCERT Class 12 Contemporary World Politics, Chapter 2, extracted page 4"
+    },
+    {
+      "title": "1951 April: Six west European countries, France, West",
+      "first_seen_page_index": 4,
+      "source_trace": "NCERT Class 12 Contemporary World Politics, Chapter 2, extracted page 4"
+    },
+    {
+      "title": "1957 March 25: These six countries sign the Treaties of Rome",
+      "first_seen_page_index": 4,
+      "source_trace": "NCERT Class 12 Contemporary World Politics, Chapter 2, extracted page 4"
+    },
+    {
+      "title": "1973 January: Denmark, Ireland and the United Kingdom",
+      "first_seen_page_index": 4,
+      "source_trace": "NCERT Class 12 Contemporary World Politics, Chapter 2, extracted page 4"
+    },
+    {
+      "title": "1979 June: First direct elections to the European Parliament",
+      "first_seen_page_index": 4,
+      "source_trace": "NCERT Class 12 Contemporary World Politics, Chapter 2, extracted page 4"
+    },
+    {
+      "title": "1981 January: Greece joins the EEC.",
+      "first_seen_page_index": 4,
+      "source_trace": "NCERT Class 12 Contemporary World Politics, Chapter 2, extracted page 4"
+    },
+    {
+      "title": "1985 June: The Schengen Agreement abolishes border",
+      "first_seen_page_index": 4,
+      "source_trace": "NCERT Class 12 Contemporary World Politics, Chapter 2, extracted page 4"
+    },
+    {
+      "title": "1986 January: Spain and Portugal join the EEC.",
+      "first_seen_page_index": 4,
+      "source_trace": "NCERT Class 12 Contemporary World Politics, Chapter 2, extracted page 4"
+    },
+    {
+      "title": "1990 October: Unification of Germany.",
+      "first_seen_page_index": 4,
+      "source_trace": "NCERT Class 12 Contemporary World Politics, Chapter 2, extracted page 4"
+    },
+    {
+      "title": "1992 February 7: The Treaty of Maastricht was signed",
+      "first_seen_page_index": 4,
+      "source_trace": "NCERT Class 12 Contemporary World Politics, Chapter 2, extracted page 4"
+    },
+    {
+      "title": "1993 January: European Economic Community (EEC) was",
+      "first_seen_page_index": 4,
+      "source_trace": "NCERT Class 12 Contemporary World Politics, Chapter 2, extracted page 4"
+    },
+    {
+      "title": "1995 January: Austria, Finland and Sweden join the EU.",
+      "first_seen_page_index": 4,
+      "source_trace": "NCERT Class 12 Contemporary World Politics, Chapter 2, extracted page 4"
+    },
+    {
+      "title": "2002 January: Euro, the new currency, was introduced in",
+      "first_seen_page_index": 4,
+      "source_trace": "NCERT Class 12 Contemporary World Politics, Chapter 2, extracted page 4"
+    },
+    {
+      "title": "2004 May: Ten new members, Cyprus, the Czech Republic,",
+      "first_seen_page_index": 4,
+      "source_trace": "NCERT Class 12 Contemporary World Politics, Chapter 2, extracted page 4"
+    },
+    {
+      "title": "2007 January: Bulgaria and Romania join the EU. Slovenia",
+      "first_seen_page_index": 4,
+      "source_trace": "NCERT Class 12 Contemporary World Politics, Chapter 2, extracted page 4"
+    },
+    {
+      "title": "2009 December: The Lisbon Treaty came into force.",
+      "first_seen_page_index": 4,
+      "source_trace": "NCERT Class 12 Contemporary World Politics, Chapter 2, extracted page 4"
+    },
+    {
+      "title": "19 Contemporary C entres of Power",
+      "first_seen_page_index": 5,
+      "source_trace": "NCERT Class 12 Contemporary World Politics, Chapter 2, extracted page 5"
+    },
+    {
+      "title": "of ASEAN.",
+      "first_seen_page_index": 6,
+      "source_trace": "NCERT Class 12 Contemporary World Politics, Chapter 2, extracted page 6"
+    },
+    {
+      "title": "21 Contemporary C entres of Power",
+      "first_seen_page_index": 7,
+      "source_trace": "NCERT Class 12 Contemporary World Politics, Chapter 2, extracted page 7"
+    },
+    {
+      "title": "ASEAN",
+      "first_seen_page_index": 7,
+      "source_trace": "NCERT Class 12 Contemporary World Politics, Chapter 2, extracted page 7"
+    },
+    {
+      "title": "23 Contemporary C entres of Power",
+      "first_seen_page_index": 9,
+      "source_trace": "NCERT Class 12 Contemporary World Politics, Chapter 2, extracted page 9"
+    },
+    {
+      "title": "25 Contemporary Centres of Power",
+      "first_seen_page_index": 11,
+      "source_trace": "NCERT Class 12 Contemporary World Politics, Chapter 2, extracted page 11"
+    },
+    {
+      "title": "STEPS",
+      "first_seen_page_index": 12,
+      "source_trace": "NCERT Class 12 Contemporary World Politics, Chapter 2, extracted page 12"
+    },
+    {
+      "title": "27 Contemporary C entres of Power",
+      "first_seen_page_index": 13,
+      "source_trace": "NCERT Class 12 Contemporary World Politics, Chapter 2, extracted page 13"
+    }
+  ],
+  "production_status": "concept_candidates_ready_for_human_decode"
+}

@@ -1,0 +1,33 @@
+{
+  "key": "gs1_geo_class8_resources_development_ch06_human_resources",
+  "title": "Human Resources",
+  "source": {
+    "book": "NCERT Class 8 Resources and Development",
+    "chapter": 6,
+    "chapter_title": "Human Resources",
+    "pdf_url": "https://ncert.nic.in/textbook.php?hess3=0-6",
+    "page_range": "pending source extraction"
+  },
+  "resolved_pdf_url": "https://ncert.nic.in/textbook/pdf/hess306.pdf",
+  "sha256": "38ad22705816585182357066b63a10dbfa60898eeec5d93df14894e1221a12bb",
+  "extraction": {
+    "raw_text_path": "data/study/textbook-first/raw-text/gs1_geo_class8_resources_development_ch06_human_resources.txt",
+    "extracted_characters": 25063,
+    "page_count": 10,
+    "paragraph_count_estimate": 0,
+    "title_match_score": 0.5
+  },
+  "concept_candidates": [
+    {
+      "title": "77 Chapter 6: Confronting Marginalisation",
+      "first_seen_page_index": 4,
+      "source_trace": "NCERT Class 8 Resources and Development, Chapter 6, extracted page 4"
+    },
+    {
+      "title": "GLOSSARY",
+      "first_seen_page_index": 10,
+      "source_trace": "NCERT Class 8 Resources and Development, Chapter 6, extracted page 10"
+    }
+  ],
+  "production_status": "concept_candidates_ready_for_human_decode"
+}

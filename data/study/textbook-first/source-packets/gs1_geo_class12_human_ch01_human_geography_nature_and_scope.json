@@ -1,0 +1,48 @@
+{
+  "key": "gs1_geo_class12_human_ch01_human_geography_nature_and_scope",
+  "title": "Human Geography Nature and Scope",
+  "source": {
+    "book": "NCERT Class 12 Fundamentals of Human Geography",
+    "chapter": 1,
+    "chapter_title": "Human Geography Nature and Scope",
+    "pdf_url": "https://ncert.nic.in/textbook.php?legy1=0-9",
+    "page_range": "pending source extraction"
+  },
+  "resolved_pdf_url": "https://ncert.nic.in/textbook/pdf/legy101.pdf",
+  "sha256": "793cdd4b82cdddfc866f24772c678b2cf98a98e22fbba077b480ebc06a64e5ae",
+  "extraction": {
+    "raw_text_path": "data/study/textbook-first/raw-text/gs1_geo_class12_human_ch01_human_geography_nature_and_scope.txt",
+    "extracted_characters": 17684,
+    "page_count": 6,
+    "paragraph_count_estimate": 1,
+    "title_match_score": 1
+  },
+  "concept_candidates": [
+    {
+      "title": "1 Agnew J. Livingstone, David N. and Rogers, A.; (1996) Blackwell",
+      "first_seen_page_index": 1,
+      "source_trace": "NCERT Class 12 Fundamentals of Human Geography, Chapter 1, extracted page 1"
+    },
+    {
+      "title": "2 Fundamentals of Human Geography",
+      "first_seen_page_index": 2,
+      "source_trace": "NCERT Class 12 Fundamentals of Human Geography, Chapter 1, extracted page 2"
+    },
+    {
+      "title": "NATURE OF HUMAN GEOGRAPHY",
+      "first_seen_page_index": 2,
+      "source_trace": "NCERT Class 12 Fundamentals of Human Geography, Chapter 1, extracted page 2"
+    },
+    {
+      "title": "4 Fundamentals of Human Geography",
+      "first_seen_page_index": 4,
+      "source_trace": "NCERT Class 12 Fundamentals of Human Geography, Chapter 1, extracted page 4"
+    },
+    {
+      "title": "6 Fundamentals of Human Geography",
+      "first_seen_page_index": 6,
+      "source_trace": "NCERT Class 12 Fundamentals of Human Geography, Chapter 1, extracted page 6"
+    }
+  ],
+  "production_status": "concept_candidates_ready_for_human_decode"
+}

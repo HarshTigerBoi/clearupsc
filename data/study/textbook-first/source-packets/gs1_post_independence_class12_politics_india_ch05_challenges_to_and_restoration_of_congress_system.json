@@ -1,0 +1,78 @@
+{
+  "key": "gs1_post_independence_class12_politics_india_ch05_challenges_to_and_restoration_of_congress_system",
+  "title": "Challenges to and Restoration of Congress System",
+  "source": {
+    "book": "NCERT Class 12 Politics in India since Independence",
+    "chapter": 5,
+    "chapter_title": "Challenges to and Restoration of Congress System",
+    "pdf_url": "https://ncert.nic.in/textbook.php?leps2=0-8",
+    "page_range": "pending source extraction"
+  },
+  "resolved_pdf_url": "https://ncert.nic.in/textbook/pdf/leps205.pdf",
+  "sha256": "128bc08186b7fd21ad0277b5f2abb34347b4636726e8cb1d730dd1d787b246b1",
+  "extraction": {
+    "raw_text_path": "data/study/textbook-first/raw-text/gs1_post_independence_class12_politics_india_ch05_challenges_to_and_restoration_of_congress_system.txt",
+    "extracted_characters": 40045,
+    "page_count": 20,
+    "paragraph_count_estimate": 0,
+    "title_match_score": 1
+  },
+  "concept_candidates": [
+    {
+      "title": "74 Politics in India since Independence",
+      "first_seen_page_index": 3,
+      "source_trace": "NCERT Class 12 Politics in India since Independence, Chapter 5, extracted page 3"
+    },
+    {
+      "title": "76 Politics in India since Independence",
+      "first_seen_page_index": 5,
+      "source_trace": "NCERT Class 12 Politics in India since Independence, Chapter 5, extracted page 5"
+    },
+    {
+      "title": "78 Politics in India since Independence",
+      "first_seen_page_index": 7,
+      "source_trace": "NCERT Class 12 Politics in India since Independence, Chapter 5, extracted page 7"
+    },
+    {
+      "title": "80 Politics in India since Independence",
+      "first_seen_page_index": 9,
+      "source_trace": "NCERT Class 12 Politics in India since Independence, Chapter 5, extracted page 9"
+    },
+    {
+      "title": "82 Politics in India since Independence",
+      "first_seen_page_index": 11,
+      "source_trace": "NCERT Class 12 Politics in India since Independence, Chapter 5, extracted page 11"
+    },
+    {
+      "title": "84 Politics in India since Independence",
+      "first_seen_page_index": 13,
+      "source_trace": "NCERT Class 12 Politics in India since Independence, Chapter 5, extracted page 13"
+    },
+    {
+      "title": "20 July 1969",
+      "first_seen_page_index": 14,
+      "source_trace": "NCERT Class 12 Politics in India since Independence, Chapter 5, extracted page 14"
+    },
+    {
+      "title": "86 Politics in India since Independence",
+      "first_seen_page_index": 15,
+      "source_trace": "NCERT Class 12 Politics in India since Independence, Chapter 5, extracted page 15"
+    },
+    {
+      "title": "88 Politics in India since Independence",
+      "first_seen_page_index": 17,
+      "source_trace": "NCERT Class 12 Politics in India since Independence, Chapter 5, extracted page 17"
+    },
+    {
+      "title": "90 Politics in India since Independence",
+      "first_seen_page_index": 19,
+      "source_trace": "NCERT Class 12 Politics in India since Independence, Chapter 5, extracted page 19"
+    },
+    {
+      "title": "LET US DO IT TOGETHER",
+      "first_seen_page_index": 20,
+      "source_trace": "NCERT Class 12 Politics in India since Independence, Chapter 5, extracted page 20"
+    }
+  ],
+  "production_status": "concept_candidates_ready_for_human_decode"
+}

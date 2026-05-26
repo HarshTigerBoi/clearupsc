@@ -1,0 +1,183 @@
+{
+  "key": "gs3_economy_class12_macro_ch02_money_and_banking",
+  "title": "Money and Banking",
+  "source": {
+    "book": "NCERT Class 12 Introductory Macroeconomics",
+    "chapter": 2,
+    "chapter_title": "Money and Banking",
+    "pdf_url": "https://ncert.nic.in/textbook/pdf/leec102.pdf",
+    "page_range": "29-52"
+  },
+  "resolved_pdf_url": "https://ncert.nic.in/textbook/pdf/leec102.pdf",
+  "sha256": "89f1eea66614cbcab4057897828bba25f7e27192aeaa612bb8450ebcc37ebc0f",
+  "extraction": {
+    "raw_text_path": "data/study/textbook-first/raw-text/gs3_economy_class12_macro_ch02_money_and_banking.txt",
+    "extracted_characters": 80170,
+    "page_count": 27,
+    "paragraph_count_estimate": 1,
+    "title_match_score": 0
+  },
+  "concept_candidates": [
+    {
+      "title": "2.1 SOME BASIC CONCEPTS OF MACROECONOMICS",
+      "first_seen_page_index": 1,
+      "source_trace": "NCERT Class 12 Introductory Macroeconomics, Chapter 2, extracted page 1"
+    },
+    {
+      "title": "2.2 CIRCULAR FLOW OF INCOME AND METHODS",
+      "first_seen_page_index": 6,
+      "source_trace": "NCERT Class 12 Introductory Macroeconomics, Chapter 2, extracted page 6"
+    },
+    {
+      "title": "OF CALCULATING NATIONAL INCOME",
+      "first_seen_page_index": 6,
+      "source_trace": "NCERT Class 12 Introductory Macroeconomics, Chapter 2, extracted page 6"
+    },
+    {
+      "title": "2.2.1 The Product or Value Added Method",
+      "first_seen_page_index": 9,
+      "source_trace": "NCERT Class 12 Introductory Macroeconomics, Chapter 2, extracted page 9"
+    },
+    {
+      "title": "≡ GVA1 + GVA2 + ..... + GVAN",
+      "first_seen_page_index": 12,
+      "source_trace": "NCERT Class 12 Introductory Macroeconomics, Chapter 2, extracted page 12"
+    },
+    {
+      "title": "2.2.2 Expenditure Method",
+      "first_seen_page_index": 13,
+      "source_trace": "NCERT Class 12 Introductory Macroeconomics, Chapter 2, extracted page 13"
+    },
+    {
+      "title": "≡ C + I + G + X – M",
+      "first_seen_page_index": 14,
+      "source_trace": "NCERT Class 12 Introductory Macroeconomics, Chapter 2, extracted page 14"
+    },
+    {
+      "title": "2.2.3 Income Method",
+      "first_seen_page_index": 14,
+      "source_trace": "NCERT Class 12 Introductory Macroeconomics, Chapter 2, extracted page 14"
+    },
+    {
+      "title": "i i GV A ≡ C + I + G + X – M ≡ W + P + In + R (2.6)",
+      "first_seen_page_index": 15,
+      "source_trace": "NCERT Class 12 Introductory Macroeconomics, Chapter 2, extracted page 15"
+    },
+    {
+      "title": "GDP = VAA + VAB = 200.",
+      "first_seen_page_index": 15,
+      "source_trace": "NCERT Class 12 Introductory Macroeconomics, Chapter 2, extracted page 15"
+    },
+    {
+      "title": "2.2.4 Factor Cost, Basic Prices and Market Prices",
+      "first_seen_page_index": 16,
+      "source_trace": "NCERT Class 12 Introductory Macroeconomics, Chapter 2, extracted page 16"
+    },
+    {
+      "title": "2.3 SOME MACROECONOMIC IDENTITIES",
+      "first_seen_page_index": 17,
+      "source_trace": "NCERT Class 12 Introductory Macroeconomics, Chapter 2, extracted page 17"
+    },
+    {
+      "title": "NFIA D",
+      "first_seen_page_index": 18,
+      "source_trace": "NCERT Class 12 Introductory Macroeconomics, Chapter 2, extracted page 18"
+    },
+    {
+      "title": "GDP GNP NNP",
+      "first_seen_page_index": 18,
+      "source_trace": "NCERT Class 12 Introductory Macroeconomics, Chapter 2, extracted page 18"
+    },
+    {
+      "title": "UP + NIH",
+      "first_seen_page_index": 18,
+      "source_trace": "NCERT Class 12 Introductory Macroeconomics, Chapter 2, extracted page 18"
+    },
+    {
+      "title": "PI PTP +",
+      "first_seen_page_index": 18,
+      "source_trace": "NCERT Class 12 Introductory Macroeconomics, Chapter 2, extracted page 18"
+    },
+    {
+      "title": "MP GDP C I G X M = + + + −",
+      "first_seen_page_index": 19,
+      "source_trace": "NCERT Class 12 Introductory Macroeconomics, Chapter 2, extracted page 19"
+    },
+    {
+      "title": "FC MP GDP GDP NIT = −",
+      "first_seen_page_index": 19,
+      "source_trace": "NCERT Class 12 Introductory Macroeconomics, Chapter 2, extracted page 19"
+    },
+    {
+      "title": ". MP MP NDP GDP Dep = −",
+      "first_seen_page_index": 19,
+      "source_trace": "NCERT Class 12 Introductory Macroeconomics, Chapter 2, extracted page 19"
+    },
+    {
+      "title": "FC MP",
+      "first_seen_page_index": 19,
+      "source_trace": "NCERT Class 12 Introductory Macroeconomics, Chapter 2, extracted page 19"
+    },
+    {
+      "title": "(GDPFC)",
+      "first_seen_page_index": 19,
+      "source_trace": "NCERT Class 12 Introductory Macroeconomics, Chapter 2, extracted page 19"
+    },
+    {
+      "title": "(NDPFC)",
+      "first_seen_page_index": 19,
+      "source_trace": "NCERT Class 12 Introductory Macroeconomics, Chapter 2, extracted page 19"
+    },
+    {
+      "title": "(GNPFC)",
+      "first_seen_page_index": 20,
+      "source_trace": "NCERT Class 12 Introductory Macroeconomics, Chapter 2, extracted page 20"
+    },
+    {
+      "title": "(NNPFC)",
+      "first_seen_page_index": 20,
+      "source_trace": "NCERT Class 12 Introductory Macroeconomics, Chapter 2, extracted page 20"
+    },
+    {
+      "title": "GNPMP = GDPMP + NFIA",
+      "first_seen_page_index": 20,
+      "source_trace": "NCERT Class 12 Introductory Macroeconomics, Chapter 2, extracted page 20"
+    },
+    {
+      "title": "MP MP",
+      "first_seen_page_index": 20,
+      "source_trace": "NCERT Class 12 Introductory Macroeconomics, Chapter 2, extracted page 20"
+    },
+    {
+      "title": "NNP NDP NFIA",
+      "first_seen_page_index": 20,
+      "source_trace": "NCERT Class 12 Introductory Macroeconomics, Chapter 2, extracted page 20"
+    },
+    {
+      "title": "FC FC",
+      "first_seen_page_index": 20,
+      "source_trace": "NCERT Class 12 Introductory Macroeconomics, Chapter 2, extracted page 20"
+    },
+    {
+      "title": "NDP NFIA NNP",
+      "first_seen_page_index": 20,
+      "source_trace": "NCERT Class 12 Introductory Macroeconomics, Chapter 2, extracted page 20"
+    },
+    {
+      "title": "2.4 NOMINAL AND REAL GDP",
+      "first_seen_page_index": 21,
+      "source_trace": "NCERT Class 12 Introductory Macroeconomics, Chapter 2, extracted page 21"
+    },
+    {
+      "title": "2.5 GDP AND WELFARE",
+      "first_seen_page_index": 22,
+      "source_trace": "NCERT Class 12 Introductory Macroeconomics, Chapter 2, extracted page 22"
+    },
+    {
+      "title": "(GFCE)",
+      "first_seen_page_index": 27,
+      "source_trace": "NCERT Class 12 Introductory Macroeconomics, Chapter 2, extracted page 27"
+    }
+  ],
+  "production_status": "concept_candidates_ready_for_human_decode"
+}

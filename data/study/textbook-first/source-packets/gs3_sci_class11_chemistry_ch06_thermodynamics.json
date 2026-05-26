@@ -1,0 +1,223 @@
+{
+  "key": "gs3_sci_class11_chemistry_ch06_thermodynamics",
+  "title": "Thermodynamics",
+  "source": {
+    "book": "NCERT Class 11 Chemistry",
+    "chapter": 6,
+    "chapter_title": "Thermodynamics",
+    "pdf_url": "https://ncert.nic.in/textbook.php?kech1=0-14",
+    "page_range": "pending source extraction"
+  },
+  "resolved_pdf_url": "https://ncert.nic.in/textbook/pdf/kech106.pdf",
+  "sha256": "28807c54d2ddf10aed0fcf4d58aff66099cee25f33a8e36aad7106505dfb1bc1",
+  "extraction": {
+    "raw_text_path": "data/study/textbook-first/raw-text/gs3_sci_class11_chemistry_ch06_thermodynamics.txt",
+    "extracted_characters": 155055,
+    "page_count": 53,
+    "paragraph_count_estimate": 0,
+    "title_match_score": 0
+  },
+  "concept_candidates": [
+    {
+      "title": "169 EQUILIBRIUM",
+      "first_seen_page_index": 2,
+      "source_trace": "NCERT Class 11 Chemistry, Chapter 6, extracted page 2"
+    },
+    {
+      "title": "6.1 E q U i l i b r i U m i n P H Y S i C A l",
+      "first_seen_page_index": 2,
+      "source_trace": "NCERT Class 11 Chemistry, Chapter 6, extracted page 2"
+    },
+    {
+      "title": "PrOCESSES",
+      "first_seen_page_index": 2,
+      "source_trace": "NCERT Class 11 Chemistry, Chapter 6, extracted page 2"
+    },
+    {
+      "title": "6.1.1 Solid-liquid Equilibrium",
+      "first_seen_page_index": 2,
+      "source_trace": "NCERT Class 11 Chemistry, Chapter 6, extracted page 2"
+    },
+    {
+      "title": "170 CHEMISTRY",
+      "first_seen_page_index": 3,
+      "source_trace": "NCERT Class 11 Chemistry, Chapter 6, extracted page 3"
+    },
+    {
+      "title": "6.1.3 Solid – Vapour Equilibrium",
+      "first_seen_page_index": 3,
+      "source_trace": "NCERT Class 11 Chemistry, Chapter 6, extracted page 3"
+    },
+    {
+      "title": "171 EQUILIBRIUM",
+      "first_seen_page_index": 4,
+      "source_trace": "NCERT Class 11 Chemistry, Chapter 6, extracted page 4"
+    },
+    {
+      "title": "6.1.4 Equilibrium Involving Dissolution",
+      "first_seen_page_index": 4,
+      "source_trace": "NCERT Class 11 Chemistry, Chapter 6, extracted page 4"
+    },
+    {
+      "title": "H2 O (l) H2 O (g)",
+      "first_seen_page_index": 4,
+      "source_trace": "NCERT Class 11 Chemistry, Chapter 6, extracted page 4"
+    },
+    {
+      "title": "H2 O (s) H2 O (l)",
+      "first_seen_page_index": 4,
+      "source_trace": "NCERT Class 11 Chemistry, Chapter 6, extracted page 4"
+    },
+    {
+      "title": "172 CHEMISTRY",
+      "first_seen_page_index": 5,
+      "source_trace": "NCERT Class 11 Chemistry, Chapter 6, extracted page 5"
+    },
+    {
+      "title": "6.1.5 General Characteristics of",
+      "first_seen_page_index": 5,
+      "source_trace": "NCERT Class 11 Chemistry, Chapter 6, extracted page 5"
+    },
+    {
+      "title": "6.2 EQUILIBRIUM IN CHEMICAL",
+      "first_seen_page_index": 5,
+      "source_trace": "NCERT Class 11 Chemistry, Chapter 6, extracted page 5"
+    },
+    {
+      "title": "PROCESSES – DYNAMIC",
+      "first_seen_page_index": 5,
+      "source_trace": "NCERT Class 11 Chemistry, Chapter 6, extracted page 5"
+    },
+    {
+      "title": "EQUILIBRIUM",
+      "first_seen_page_index": 5,
+      "source_trace": "NCERT Class 11 Chemistry, Chapter 6, extracted page 5"
+    },
+    {
+      "title": "A + B C + D",
+      "first_seen_page_index": 5,
+      "source_trace": "NCERT Class 11 Chemistry, Chapter 6, extracted page 5"
+    },
+    {
+      "title": "173 EQUILIBRIUM",
+      "first_seen_page_index": 6,
+      "source_trace": "NCERT Class 11 Chemistry, Chapter 6, extracted page 6"
+    },
+    {
+      "title": "174 CHEMISTRY",
+      "first_seen_page_index": 7,
+      "source_trace": "NCERT Class 11 Chemistry, Chapter 6, extracted page 7"
+    },
+    {
+      "title": "175 EQUILIBRIUM",
+      "first_seen_page_index": 8,
+      "source_trace": "NCERT Class 11 Chemistry, Chapter 6, extracted page 8"
+    },
+    {
+      "title": "176 CHEMISTRY",
+      "first_seen_page_index": 9,
+      "source_trace": "NCERT Class 11 Chemistry, Chapter 6, extracted page 9"
+    },
+    {
+      "title": "K c = [NO]4 [H2 O]6 / [NH3 ]4 [O2 ]5",
+      "first_seen_page_index": 9,
+      "source_trace": "NCERT Class 11 Chemistry, Chapter 6, extracted page 9"
+    },
+    {
+      "title": "K″c = [HI] / [H2 ]1/2 [I2 ]1/2 = {[HI]2 / [H2 ][I2 ]}1/2",
+      "first_seen_page_index": 9,
+      "source_trace": "NCERT Class 11 Chemistry, Chapter 6, extracted page 9"
+    },
+    {
+      "title": "177 EQUILIBRIUM",
+      "first_seen_page_index": 10,
+      "source_trace": "NCERT Class 11 Chemistry, Chapter 6, extracted page 10"
+    },
+    {
+      "title": "K c = NO",
+      "first_seen_page_index": 10,
+      "source_trace": "NCERT Class 11 Chemistry, Chapter 6, extracted page 10"
+    },
+    {
+      "title": "6.4 HOMOGENEOUS EQUILIBRIA",
+      "first_seen_page_index": 10,
+      "source_trace": "NCERT Class 11 Chemistry, Chapter 6, extracted page 10"
+    },
+    {
+      "title": "CH3COOC2H5 (aq) + H2O (l) CH3COOH (aq)",
+      "first_seen_page_index": 10,
+      "source_trace": "NCERT Class 11 Chemistry, Chapter 6, extracted page 10"
+    },
+    {
+      "title": "+ C2H5OH (aq)",
+      "first_seen_page_index": 10,
+      "source_trace": "NCERT Class 11 Chemistry, Chapter 6, extracted page 10"
+    },
+    {
+      "title": "6.4.1 Equilibrium Constant in Gaseous",
+      "first_seen_page_index": 10,
+      "source_trace": "NCERT Class 11 Chemistry, Chapter 6, extracted page 10"
+    },
+    {
+      "title": "178 CHEMISTRY",
+      "first_seen_page_index": 11,
+      "source_trace": "NCERT Class 11 Chemistry, Chapter 6, extracted page 11"
+    },
+    {
+      "title": "HI g R = ( )  ",
+      "first_seen_page_index": 11,
+      "source_trace": "NCERT Class 11 Chemistry, Chapter 6, extracted page 11"
+    },
+    {
+      "title": "H g R H",
+      "first_seen_page_index": 11,
+      "source_trace": "NCERT Class 11 Chemistry, Chapter 6, extracted page 11"
+    },
+    {
+      "title": "H R I . R RT",
+      "first_seen_page_index": 11,
+      "source_trace": "NCERT Class 11 Chemistry, Chapter 6, extracted page 11"
+    },
+    {
+      "title": "NH g R",
+      "first_seen_page_index": 11,
+      "source_trace": "NCERT Class 11 Chemistry, Chapter 6, extracted page 11"
+    },
+    {
+      "title": "− NH g R",
+      "first_seen_page_index": 11,
+      "source_trace": "NCERT Class 11 Chemistry, Chapter 6, extracted page 11"
+    },
+    {
+      "title": "H K T c",
+      "first_seen_page_index": 11,
+      "source_trace": "NCERT Class 11 Chemistry, Chapter 6, extracted page 11"
+    },
+    {
+      "title": "A B R R",
+      "first_seen_page_index": 11,
+      "source_trace": "NCERT Class 11 Chemistry, Chapter 6, extracted page 11"
+    },
+    {
+      "title": "179 EQUILIBRIUM",
+      "first_seen_page_index": 12,
+      "source_trace": "NCERT Class 11 Chemistry, Chapter 6, extracted page 12"
+    },
+    {
+      "title": "[CO2 ] = [H2- ] = x = 0.067 M",
+      "first_seen_page_index": 12,
+      "source_trace": "NCERT Class 11 Chemistry, Chapter 6, extracted page 12"
+    },
+    {
+      "title": "[CO] = [H2 O] = 0.1 – 0.067 = 0.033 M",
+      "first_seen_page_index": 12,
+      "source_trace": "NCERT Class 11 Chemistry, Chapter 6, extracted page 12"
+    },
+    {
+      "title": "6.5 HEtErOGEnEOUS EqUilibriA",
+      "first_seen_page_index": 12,
+      "source_trace": "NCERT Class 11 Chemistry, Chapter 6, extracted page 12"
+    }
+  ],
+  "production_status": "concept_candidates_ready_for_human_decode"
+}

@@ -1,0 +1,223 @@
+{
+  "key": "gs1_art_class11_indian_art_ch08_some_aspects_of_indo_islamic_architecture",
+  "title": "Some Aspects of Indo-Islamic Architecture",
+  "source": {
+    "book": "NCERT Class 11 An Introduction to Indian Art",
+    "chapter": 8,
+    "chapter_title": "Some Aspects of Indo-Islamic Architecture",
+    "pdf_url": "https://ncert.nic.in/textbook.php?kefa1=0-8",
+    "page_range": "pending source extraction"
+  },
+  "resolved_pdf_url": "https://ncert.nic.in/textbook/pdf/kefa108.pdf",
+  "sha256": "43c462fb1b58c2e09b290b4bb0181cf678a328d27c122177ecdb9e789dea19de",
+  "extraction": {
+    "raw_text_path": "data/study/textbook-first/raw-text/gs1_art_class11_indian_art_ch08_some_aspects_of_indo_islamic_architecture.txt",
+    "extracted_characters": 34236,
+    "page_count": 24,
+    "paragraph_count_estimate": 2,
+    "title_match_score": 1
+  },
+  "concept_candidates": [
+    {
+      "title": "SOME ASPECTS OF",
+      "first_seen_page_index": 1,
+      "source_trace": "NCERT Class 11 An Introduction to Indian Art, Chapter 8, extracted page 1"
+    },
+    {
+      "title": "INDO-ISLAMIC ARCHITECTURE",
+      "first_seen_page_index": 1,
+      "source_trace": "NCERT Class 11 An Introduction to Indian Art, Chapter 8, extracted page 1"
+    },
+    {
+      "title": "AN INTRODUCTION TO INDIAN ART 110",
+      "first_seen_page_index": 2,
+      "source_trace": "NCERT Class 11 An Introduction to Indian Art, Chapter 8, extracted page 2"
+    },
+    {
+      "title": "TYPOLOGIES OF STRUCTURES",
+      "first_seen_page_index": 2,
+      "source_trace": "NCERT Class 11 An Introduction to Indian Art, Chapter 8, extracted page 2"
+    },
+    {
+      "title": "CATEGORIES OF STYLES",
+      "first_seen_page_index": 2,
+      "source_trace": "NCERT Class 11 An Introduction to Indian Art, Chapter 8, extracted page 2"
+    },
+    {
+      "title": "SOME ASPECTS OF INDO-ISLAMIC ARCHITECTURE 111",
+      "first_seen_page_index": 3,
+      "source_trace": "NCERT Class 11 An Introduction to Indian Art, Chapter 8, extracted page 3"
+    },
+    {
+      "title": "ARCHITECTURAL INFLUENCES",
+      "first_seen_page_index": 3,
+      "source_trace": "NCERT Class 11 An Introduction to Indian Art, Chapter 8, extracted page 3"
+    },
+    {
+      "title": "DECORATIVE FORMS",
+      "first_seen_page_index": 3,
+      "source_trace": "NCERT Class 11 An Introduction to Indian Art, Chapter 8, extracted page 3"
+    },
+    {
+      "title": "AN INTRODUCTION TO INDIAN ART 112",
+      "first_seen_page_index": 4,
+      "source_trace": "NCERT Class 11 An Introduction to Indian Art, Chapter 8, extracted page 4"
+    },
+    {
+      "title": "MATERIALS FOR CONSTRUCTION",
+      "first_seen_page_index": 4,
+      "source_trace": "NCERT Class 11 An Introduction to Indian Art, Chapter 8, extracted page 4"
+    },
+    {
+      "title": "FORTS",
+      "first_seen_page_index": 4,
+      "source_trace": "NCERT Class 11 An Introduction to Indian Art, Chapter 8, extracted page 4"
+    },
+    {
+      "title": "SOME ASPECTS OF INDO-ISLAMIC ARCHITECTURE 113",
+      "first_seen_page_index": 5,
+      "source_trace": "NCERT Class 11 An Introduction to Indian Art, Chapter 8, extracted page 5"
+    },
+    {
+      "title": "MINARS",
+      "first_seen_page_index": 5,
+      "source_trace": "NCERT Class 11 An Introduction to Indian Art, Chapter 8, extracted page 5"
+    },
+    {
+      "title": "AN INTRODUCTION TO INDIAN ART 114",
+      "first_seen_page_index": 6,
+      "source_trace": "NCERT Class 11 An Introduction to Indian Art, Chapter 8, extracted page 6"
+    },
+    {
+      "title": "TOMBS",
+      "first_seen_page_index": 6,
+      "source_trace": "NCERT Class 11 An Introduction to Indian Art, Chapter 8, extracted page 6"
+    },
+    {
+      "title": "SOME ASPECTS OF INDO-ISLAMIC ARCHITECTURE 115",
+      "first_seen_page_index": 7,
+      "source_trace": "NCERT Class 11 An Introduction to Indian Art, Chapter 8, extracted page 7"
+    },
+    {
+      "title": "SARAIS",
+      "first_seen_page_index": 7,
+      "source_trace": "NCERT Class 11 An Introduction to Indian Art, Chapter 8, extracted page 7"
+    },
+    {
+      "title": "STRUCTURES FOR COMMON PEOPLE",
+      "first_seen_page_index": 7,
+      "source_trace": "NCERT Class 11 An Introduction to Indian Art, Chapter 8, extracted page 7"
+    },
+    {
+      "title": "MANDU",
+      "first_seen_page_index": 8,
+      "source_trace": "NCERT Class 11 An Introduction to Indian Art, Chapter 8, extracted page 8"
+    },
+    {
+      "title": "AN INTRODUCTION TO INDIAN ART 116",
+      "first_seen_page_index": 8,
+      "source_trace": "NCERT Class 11 An Introduction to Indian Art, Chapter 8, extracted page 8"
+    },
+    {
+      "title": "117 SOME ASPECTS OF INDO-ISLAMIC ARCHITECTURE",
+      "first_seen_page_index": 9,
+      "source_trace": "NCERT Class 11 An Introduction to Indian Art, Chapter 8, extracted page 9"
+    },
+    {
+      "title": "AN INTRODUCTION TO INDIAN ART 118",
+      "first_seen_page_index": 10,
+      "source_trace": "NCERT Class 11 An Introduction to Indian Art, Chapter 8, extracted page 10"
+    },
+    {
+      "title": "119 SOME ASPECTS OF INDO-ISLAMIC ARCHITECTURE",
+      "first_seen_page_index": 11,
+      "source_trace": "NCERT Class 11 An Introduction to Indian Art, Chapter 8, extracted page 11"
+    },
+    {
+      "title": "TAJ MAHAL",
+      "first_seen_page_index": 11,
+      "source_trace": "NCERT Class 11 An Introduction to Indian Art, Chapter 8, extracted page 11"
+    },
+    {
+      "title": "AN INTRODUCTION TO INDIAN ART 120",
+      "first_seen_page_index": 12,
+      "source_trace": "NCERT Class 11 An Introduction to Indian Art, Chapter 8, extracted page 12"
+    },
+    {
+      "title": "121 SOME ASPECTS OF INDO-ISLAMIC ARCHITECTURE",
+      "first_seen_page_index": 13,
+      "source_trace": "NCERT Class 11 An Introduction to Indian Art, Chapter 8, extracted page 13"
+    },
+    {
+      "title": "AN INTRODUCTION TO INDIAN ART 122",
+      "first_seen_page_index": 14,
+      "source_trace": "NCERT Class 11 An Introduction to Indian Art, Chapter 8, extracted page 14"
+    },
+    {
+      "title": "GOL GUMBAD",
+      "first_seen_page_index": 14,
+      "source_trace": "NCERT Class 11 An Introduction to Indian Art, Chapter 8, extracted page 14"
+    },
+    {
+      "title": "123 SOME ASPECTS OF INDO-ISLAMIC ARCHITECTURE",
+      "first_seen_page_index": 15,
+      "source_trace": "NCERT Class 11 An Introduction to Indian Art, Chapter 8, extracted page 15"
+    },
+    {
+      "title": "AN INTRODUCTION TO INDIAN ART 124",
+      "first_seen_page_index": 16,
+      "source_trace": "NCERT Class 11 An Introduction to Indian Art, Chapter 8, extracted page 16"
+    },
+    {
+      "title": "JAMA MASJID",
+      "first_seen_page_index": 16,
+      "source_trace": "NCERT Class 11 An Introduction to Indian Art, Chapter 8, extracted page 16"
+    },
+    {
+      "title": "ART OF THE INDUS VALLEY 125",
+      "first_seen_page_index": 17,
+      "source_trace": "NCERT Class 11 An Introduction to Indian Art, Chapter 8, extracted page 17"
+    },
+    {
+      "title": "PROJECT",
+      "first_seen_page_index": 17,
+      "source_trace": "NCERT Class 11 An Introduction to Indian Art, Chapter 8, extracted page 17"
+    },
+    {
+      "title": "SOME ASPECTS OF INDO-ISLAMIC ARCHITECTURE",
+      "first_seen_page_index": 17,
+      "source_trace": "NCERT Class 11 An Introduction to Indian Art, Chapter 8, extracted page 17"
+    },
+    {
+      "title": "AN INTRODUCTION TO INDIAN ART 126",
+      "first_seen_page_index": 18,
+      "source_trace": "NCERT Class 11 An Introduction to Indian Art, Chapter 8, extracted page 18"
+    },
+    {
+      "title": "GLOSSARY",
+      "first_seen_page_index": 18,
+      "source_trace": "NCERT Class 11 An Introduction to Indian Art, Chapter 8, extracted page 18"
+    },
+    {
+      "title": "GLOSSARY 127",
+      "first_seen_page_index": 19,
+      "source_trace": "NCERT Class 11 An Introduction to Indian Art, Chapter 8, extracted page 19"
+    },
+    {
+      "title": "AN INTRODUCTION TO INDIAN ART 128",
+      "first_seen_page_index": 20,
+      "source_trace": "NCERT Class 11 An Introduction to Indian Art, Chapter 8, extracted page 20"
+    },
+    {
+      "title": "GLOSSARY 129",
+      "first_seen_page_index": 21,
+      "source_trace": "NCERT Class 11 An Introduction to Indian Art, Chapter 8, extracted page 21"
+    },
+    {
+      "title": "AN INTRODUCTION TO INDIAN ART 130",
+      "first_seen_page_index": 22,
+      "source_trace": "NCERT Class 11 An Introduction to Indian Art, Chapter 8, extracted page 22"
+    }
+  ],
+  "production_status": "concept_candidates_ready_for_human_decode"
+}

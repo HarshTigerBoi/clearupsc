@@ -1,0 +1,118 @@
+{
+  "key": "gs3_sci_class9_science_ch02_is_matter_around_us_pure",
+  "title": "Is Matter Around Us Pure",
+  "source": {
+    "book": "NCERT Class 9 Science",
+    "chapter": 2,
+    "chapter_title": "Is Matter Around Us Pure",
+    "pdf_url": "https://ncert.nic.in/textbook.php?iesc1=0-15",
+    "page_range": "pending source extraction"
+  },
+  "resolved_pdf_url": "https://ncert.nic.in/textbook/pdf/iesc102.pdf",
+  "sha256": "f50bf0b4d8a7fb0c7b9adffd335acd0d29d807336c0e011cce0ce898aac22a5c",
+  "extraction": {
+    "raw_text_path": "data/study/textbook-first/raw-text/gs3_sci_class9_science_ch02_is_matter_around_us_pure.txt",
+    "extracted_characters": 49306,
+    "page_count": 20,
+    "paragraph_count_estimate": 0,
+    "title_match_score": 0.33
+  },
+  "concept_candidates": [
+    {
+      "title": "2.1 How to Study Cells?",
+      "first_seen_page_index": 2,
+      "source_trace": "NCERT Class 9 Science, Chapter 2, extracted page 2"
+    },
+    {
+      "title": "10 Exploration|Grade 9",
+      "first_seen_page_index": 3,
+      "source_trace": "NCERT Class 9 Science, Chapter 2, extracted page 3"
+    },
+    {
+      "title": "2.2 Structure of a Cell",
+      "first_seen_page_index": 4,
+      "source_trace": "NCERT Class 9 Science, Chapter 2, extracted page 4"
+    },
+    {
+      "title": "2.2.1 Cell membrane — The universal feature of a cell",
+      "first_seen_page_index": 4,
+      "source_trace": "NCERT Class 9 Science, Chapter 2, extracted page 4"
+    },
+    {
+      "title": "12 Exploration|Grade 9",
+      "first_seen_page_index": 5,
+      "source_trace": "NCERT Class 9 Science, Chapter 2, extracted page 5"
+    },
+    {
+      "title": "2.2.2 Cell wall — The outer covering of cells",
+      "first_seen_page_index": 6,
+      "source_trace": "NCERT Class 9 Science, Chapter 2, extracted page 6"
+    },
+    {
+      "title": "14 Exploration|Grade 9",
+      "first_seen_page_index": 7,
+      "source_trace": "NCERT Class 9 Science, Chapter 2, extracted page 7"
+    },
+    {
+      "title": "2.3 The Cell Interior — A Coordinated Working System",
+      "first_seen_page_index": 7,
+      "source_trace": "NCERT Class 9 Science, Chapter 2, extracted page 7"
+    },
+    {
+      "title": "16 Exploration|Grade 9",
+      "first_seen_page_index": 9,
+      "source_trace": "NCERT Class 9 Science, Chapter 2, extracted page 9"
+    },
+    {
+      "title": "2.3.1 Why do eukaryotic cells need these organelles?",
+      "first_seen_page_index": 9,
+      "source_trace": "NCERT Class 9 Science, Chapter 2, extracted page 9"
+    },
+    {
+      "title": "18 Exploration|Grade 9",
+      "first_seen_page_index": 11,
+      "source_trace": "NCERT Class 9 Science, Chapter 2, extracted page 11"
+    },
+    {
+      "title": "20 Exploration|Grade 9",
+      "first_seen_page_index": 13,
+      "source_trace": "NCERT Class 9 Science, Chapter 2, extracted page 13"
+    },
+    {
+      "title": "2.4 How do Normal Cells Grow and Divide?",
+      "first_seen_page_index": 13,
+      "source_trace": "NCERT Class 9 Science, Chapter 2, extracted page 13"
+    },
+    {
+      "title": "2.4.1 Cell division",
+      "first_seen_page_index": 14,
+      "source_trace": "NCERT Class 9 Science, Chapter 2, extracted page 14"
+    },
+    {
+      "title": "22 Exploration|Grade 9",
+      "first_seen_page_index": 15,
+      "source_trace": "NCERT Class 9 Science, Chapter 2, extracted page 15"
+    },
+    {
+      "title": "2.5 Cell Theory — The Unifying Principle of Biology",
+      "first_seen_page_index": 16,
+      "source_trace": "NCERT Class 9 Science, Chapter 2, extracted page 16"
+    },
+    {
+      "title": "2.5.1 Do cells grow and reproduce forever?",
+      "first_seen_page_index": 16,
+      "source_trace": "NCERT Class 9 Science, Chapter 2, extracted page 16"
+    },
+    {
+      "title": "24 Exploration|Grade 9",
+      "first_seen_page_index": 17,
+      "source_trace": "NCERT Class 9 Science, Chapter 2, extracted page 17"
+    },
+    {
+      "title": "26 Exploration|Grade 9",
+      "first_seen_page_index": 19,
+      "source_trace": "NCERT Class 9 Science, Chapter 2, extracted page 19"
+    }
+  ],
+  "production_status": "concept_candidates_ready_for_human_decode"
+}

@@ -1,0 +1,223 @@
+{
+  "key": "gs3_sci_class12_chemistry_ch02_electrochemistry",
+  "title": "Electrochemistry",
+  "source": {
+    "book": "NCERT Class 12 Chemistry",
+    "chapter": 2,
+    "chapter_title": "Electrochemistry",
+    "pdf_url": "https://ncert.nic.in/textbook.php?lech1=0-10",
+    "page_range": "pending source extraction"
+  },
+  "resolved_pdf_url": "https://ncert.nic.in/textbook/pdf/lech102.pdf",
+  "sha256": "ca0f380fbfe6a0a4363251a646aafe451fe99c5fc8dba1aa9317438d2bc8705a",
+  "extraction": {
+    "raw_text_path": "data/study/textbook-first/raw-text/gs3_sci_class12_chemistry_ch02_electrochemistry.txt",
+    "extracted_characters": 68905,
+    "page_count": 30,
+    "paragraph_count_estimate": 3,
+    "title_match_score": 1
+  },
+  "concept_candidates": [
+    {
+      "title": "32 Chemistry",
+      "first_seen_page_index": 2,
+      "source_trace": "NCERT Class 12 Chemistry, Chapter 2, extracted page 2"
+    },
+    {
+      "title": "ZnSO4 CuSO4",
+      "first_seen_page_index": 2,
+      "source_trace": "NCERT Class 12 Chemistry, Chapter 2, extracted page 2"
+    },
+    {
+      "title": "33 Electrochemistry",
+      "first_seen_page_index": 3,
+      "source_trace": "NCERT Class 12 Chemistry, Chapter 2, extracted page 3"
+    },
+    {
+      "title": "34 Chemistry",
+      "first_seen_page_index": 4,
+      "source_trace": "NCERT Class 12 Chemistry, Chapter 2, extracted page 4"
+    },
+    {
+      "title": "35 Electrochemistry",
+      "first_seen_page_index": 5,
+      "source_trace": "NCERT Class 12 Chemistry, Chapter 2, extracted page 5"
+    },
+    {
+      "title": "36 Chemistry",
+      "first_seen_page_index": 6,
+      "source_trace": "NCERT Class 12 Chemistry, Chapter 2, extracted page 6"
+    },
+    {
+      "title": "2.1 How would you determine the standard electrode potential of the system",
+      "first_seen_page_index": 6,
+      "source_trace": "NCERT Class 12 Chemistry, Chapter 2, extracted page 6"
+    },
+    {
+      "title": "2.2 Can you store copper sulphate solutions in a zinc pot?",
+      "first_seen_page_index": 6,
+      "source_trace": "NCERT Class 12 Chemistry, Chapter 2, extracted page 6"
+    },
+    {
+      "title": "2.3 Consult the table of standard electrode potentials and suggest three",
+      "first_seen_page_index": 6,
+      "source_trace": "NCERT Class 12 Chemistry, Chapter 2, extracted page 6"
+    },
+    {
+      "title": "M / M M / M",
+      "first_seen_page_index": 6,
+      "source_trace": "NCERT Class 12 Chemistry, Chapter 2, extracted page 6"
+    },
+    {
+      "title": "E E – RT",
+      "first_seen_page_index": 6,
+      "source_trace": "NCERT Class 12 Chemistry, Chapter 2, extracted page 6"
+    },
+    {
+      "title": "37 Electrochemistry",
+      "first_seen_page_index": 7,
+      "source_trace": "NCERT Class 12 Chemistry, Chapter 2, extracted page 7"
+    },
+    {
+      "title": "H2O2 + 2H+ + 2e– Æ 2H2O 1.78",
+      "first_seen_page_index": 7,
+      "source_trace": "NCERT Class 12 Chemistry, Chapter 2, extracted page 7"
+    },
+    {
+      "title": "– + 8H+ + 5e– Æ Mn2+ + 4H2O 1.51",
+      "first_seen_page_index": 7,
+      "source_trace": "NCERT Class 12 Chemistry, Chapter 2, extracted page 7"
+    },
+    {
+      "title": "Cr2O72– + 14H+ + 6e– Æ 2Cr3+ + 7H2O 1.33",
+      "first_seen_page_index": 7,
+      "source_trace": "NCERT Class 12 Chemistry, Chapter 2, extracted page 7"
+    },
+    {
+      "title": "O2(g) + 4H+ + 4e– Æ 2H2O 1.23",
+      "first_seen_page_index": 7,
+      "source_trace": "NCERT Class 12 Chemistry, Chapter 2, extracted page 7"
+    },
+    {
+      "title": "– + 4H+ + 3e– Æ NO(g) + 2H2O 0.97",
+      "first_seen_page_index": 7,
+      "source_trace": "NCERT Class 12 Chemistry, Chapter 2, extracted page 7"
+    },
+    {
+      "title": "O2(g) + 2H+ + 2e– Æ H2O2 0.68",
+      "first_seen_page_index": 7,
+      "source_trace": "NCERT Class 12 Chemistry, Chapter 2, extracted page 7"
+    },
+    {
+      "title": "38 Chemistry",
+      "first_seen_page_index": 8,
+      "source_trace": "NCERT Class 12 Chemistry, Chapter 2, extracted page 8"
+    },
+    {
+      "title": "39 Electrochemistry",
+      "first_seen_page_index": 9,
+      "source_trace": "NCERT Class 12 Chemistry, Chapter 2, extracted page 9"
+    },
+    {
+      "title": "2.3.1 Equilibrium",
+      "first_seen_page_index": 9,
+      "source_trace": "NCERT Class 12 Chemistry, Chapter 2, extracted page 9"
+    },
+    {
+      "title": "Mg RT",
+      "first_seen_page_index": 9,
+      "source_trace": "NCERT Class 12 Chemistry, Chapter 2, extracted page 9"
+    },
+    {
+      "title": "V 0.130 = 3.17 V – 0.21V = 2.96 V.",
+      "first_seen_page_index": 9,
+      "source_trace": "NCERT Class 12 Chemistry, Chapter 2, extracted page 9"
+    },
+    {
+      "title": "40 Chemistry",
+      "first_seen_page_index": 10,
+      "source_trace": "NCERT Class 12 Chemistry, Chapter 2, extracted page 10"
+    },
+    {
+      "title": "2 Zn (s) + 2 Cu2+(aq) æÆ2 Zn2+(aq) + 2Cu(s)",
+      "first_seen_page_index": 10,
+      "source_trace": "NCERT Class 12 Chemistry, Chapter 2, extracted page 10"
+    },
+    {
+      "title": "2.3.2 Electro-",
+      "first_seen_page_index": 10,
+      "source_trace": "NCERT Class 12 Chemistry, Chapter 2, extracted page 10"
+    },
+    {
+      "title": "41 Electrochemistry",
+      "first_seen_page_index": 11,
+      "source_trace": "NCERT Class 12 Chemistry, Chapter 2, extracted page 11"
+    },
+    {
+      "title": "1 W m = 100 W cm or 1 W cm = 0.01 W m",
+      "first_seen_page_index": 11,
+      "source_trace": "NCERT Class 12 Chemistry, Chapter 2, extracted page 11"
+    },
+    {
+      "title": "2.4 Calculate the potential of hydrogen electrode in contact with a solution",
+      "first_seen_page_index": 11,
+      "source_trace": "NCERT Class 12 Chemistry, Chapter 2, extracted page 11"
+    },
+    {
+      "title": "2.5 Calculate the emf of the cell in which the following reaction takes place:",
+      "first_seen_page_index": 11,
+      "source_trace": "NCERT Class 12 Chemistry, Chapter 2, extracted page 11"
+    },
+    {
+      "title": "2.6 The cell in which the following reaction occurs:",
+      "first_seen_page_index": 11,
+      "source_trace": "NCERT Class 12 Chemistry, Chapter 2, extracted page 11"
+    },
+    {
+      "title": "42 Chemistry",
+      "first_seen_page_index": 12,
+      "source_trace": "NCERT Class 12 Chemistry, Chapter 2, extracted page 12"
+    },
+    {
+      "title": "43 Electrochemistry",
+      "first_seen_page_index": 13,
+      "source_trace": "NCERT Class 12 Chemistry, Chapter 2, extracted page 13"
+    },
+    {
+      "title": "2.4.1 Measurement",
+      "first_seen_page_index": 13,
+      "source_trace": "NCERT Class 12 Chemistry, Chapter 2, extracted page 13"
+    },
+    {
+      "title": "44 Chemistry",
+      "first_seen_page_index": 14,
+      "source_trace": "NCERT Class 12 Chemistry, Chapter 2, extracted page 14"
+    },
+    {
+      "title": "45 Electrochemistry",
+      "first_seen_page_index": 15,
+      "source_trace": "NCERT Class 12 Chemistry, Chapter 2, extracted page 15"
+    },
+    {
+      "title": "1000 L m × molarity (mol L )",
+      "first_seen_page_index": 15,
+      "source_trace": "NCERT Class 12 Chemistry, Chapter 2, extracted page 15"
+    },
+    {
+      "title": "1 S m2mol–1 = 104 S cm2mol–1 or",
+      "first_seen_page_index": 15,
+      "source_trace": "NCERT Class 12 Chemistry, Chapter 2, extracted page 15"
+    },
+    {
+      "title": "1 S cm2mol–1 = 10–4 S m2mol–1.",
+      "first_seen_page_index": 15,
+      "source_trace": "NCERT Class 12 Chemistry, Chapter 2, extracted page 15"
+    },
+    {
+      "title": "100 W . If the resistance of the same cell when filled with 0.02 mol L–1",
+      "first_seen_page_index": 15,
+      "source_trace": "NCERT Class 12 Chemistry, Chapter 2, extracted page 15"
+    }
+  ],
+  "production_status": "concept_candidates_ready_for_human_decode"
+}

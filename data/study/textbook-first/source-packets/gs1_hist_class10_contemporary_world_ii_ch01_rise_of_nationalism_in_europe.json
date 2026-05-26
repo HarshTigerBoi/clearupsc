@@ -1,0 +1,223 @@
+{
+  "key": "gs1_hist_class10_contemporary_world_ii_ch01_rise_of_nationalism_in_europe",
+  "title": "Rise of Nationalism in Europe",
+  "source": {
+    "book": "NCERT Class 10 India and the Contemporary World II",
+    "chapter": 1,
+    "chapter_title": "Rise of Nationalism in Europe",
+    "pdf_url": "https://ncert.nic.in/textbook.php?jess1=0-5",
+    "page_range": "pending source extraction"
+  },
+  "resolved_pdf_url": "https://ncert.nic.in/textbook/pdf/jess301.pdf",
+  "sha256": "b66dc3c971b610d0d56046450e23d494327f591fcc9afcf4ecdffc46b32252af",
+  "extraction": {
+    "raw_text_path": "data/study/textbook-first/raw-text/gs1_hist_class10_contemporary_world_ii_ch01_rise_of_nationalism_in_europe.txt",
+    "extracted_characters": 58121,
+    "page_count": 28,
+    "paragraph_count_estimate": 0,
+    "title_match_score": 1
+  },
+  "concept_candidates": [
+    {
+      "title": "EVENTS AND PROCESSES",
+      "first_seen_page_index": 1,
+      "source_trace": "NCERT Class 10 India and the Contemporary World II, Chapter 1, extracted page 1"
+    },
+    {
+      "title": "SECTION I",
+      "first_seen_page_index": 1,
+      "source_trace": "NCERT Class 10 India and the Contemporary World II, Chapter 1, extracted page 1"
+    },
+    {
+      "title": "1 The French Revolution and the Idea of the Nation",
+      "first_seen_page_index": 5,
+      "source_trace": "NCERT Class 10 India and the Contemporary World II, Chapter 1, extracted page 5"
+    },
+    {
+      "title": "ICELAND",
+      "first_seen_page_index": 6,
+      "source_trace": "NCERT Class 10 India and the Contemporary World II, Chapter 1, extracted page 6"
+    },
+    {
+      "title": "(DENMARK)",
+      "first_seen_page_index": 6,
+      "source_trace": "NCERT Class 10 India and the Contemporary World II, Chapter 1, extracted page 6"
+    },
+    {
+      "title": "NORWAY",
+      "first_seen_page_index": 6,
+      "source_trace": "NCERT Class 10 India and the Contemporary World II, Chapter 1, extracted page 6"
+    },
+    {
+      "title": "(SWEDEN)",
+      "first_seen_page_index": 6,
+      "source_trace": "NCERT Class 10 India and the Contemporary World II, Chapter 1, extracted page 6"
+    },
+    {
+      "title": "SWEDEN",
+      "first_seen_page_index": 6,
+      "source_trace": "NCERT Class 10 India and the Contemporary World II, Chapter 1, extracted page 6"
+    },
+    {
+      "title": "DENMARK",
+      "first_seen_page_index": 6,
+      "source_trace": "NCERT Class 10 India and the Contemporary World II, Chapter 1, extracted page 6"
+    },
+    {
+      "title": "HABOVER",
+      "first_seen_page_index": 6,
+      "source_trace": "NCERT Class 10 India and the Contemporary World II, Chapter 1, extracted page 6"
+    },
+    {
+      "title": "NETHERLANDS",
+      "first_seen_page_index": 6,
+      "source_trace": "NCERT Class 10 India and the Contemporary World II, Chapter 1, extracted page 6"
+    },
+    {
+      "title": "ENGLAND",
+      "first_seen_page_index": 6,
+      "source_trace": "NCERT Class 10 India and the Contemporary World II, Chapter 1, extracted page 6"
+    },
+    {
+      "title": "WALES",
+      "first_seen_page_index": 6,
+      "source_trace": "NCERT Class 10 India and the Contemporary World II, Chapter 1, extracted page 6"
+    },
+    {
+      "title": "IRELAND GREAT",
+      "first_seen_page_index": 6,
+      "source_trace": "NCERT Class 10 India and the Contemporary World II, Chapter 1, extracted page 6"
+    },
+    {
+      "title": "BRITAIN",
+      "first_seen_page_index": 6,
+      "source_trace": "NCERT Class 10 India and the Contemporary World II, Chapter 1, extracted page 6"
+    },
+    {
+      "title": "SCOTLAND",
+      "first_seen_page_index": 6,
+      "source_trace": "NCERT Class 10 India and the Contemporary World II, Chapter 1, extracted page 6"
+    },
+    {
+      "title": "FRANCE",
+      "first_seen_page_index": 6,
+      "source_trace": "NCERT Class 10 India and the Contemporary World II, Chapter 1, extracted page 6"
+    },
+    {
+      "title": "SPAIN",
+      "first_seen_page_index": 6,
+      "source_trace": "NCERT Class 10 India and the Contemporary World II, Chapter 1, extracted page 6"
+    },
+    {
+      "title": "PORTUGAL",
+      "first_seen_page_index": 6,
+      "source_trace": "NCERT Class 10 India and the Contemporary World II, Chapter 1, extracted page 6"
+    },
+    {
+      "title": "MOROCCO ALGERIA",
+      "first_seen_page_index": 6,
+      "source_trace": "NCERT Class 10 India and the Contemporary World II, Chapter 1, extracted page 6"
+    },
+    {
+      "title": "TUNIS",
+      "first_seen_page_index": 6,
+      "source_trace": "NCERT Class 10 India and the Contemporary World II, Chapter 1, extracted page 6"
+    },
+    {
+      "title": "EGYPT",
+      "first_seen_page_index": 6,
+      "source_trace": "NCERT Class 10 India and the Contemporary World II, Chapter 1, extracted page 6"
+    },
+    {
+      "title": "PALESTINE",
+      "first_seen_page_index": 6,
+      "source_trace": "NCERT Class 10 India and the Contemporary World II, Chapter 1, extracted page 6"
+    },
+    {
+      "title": "SYRIA",
+      "first_seen_page_index": 6,
+      "source_trace": "NCERT Class 10 India and the Contemporary World II, Chapter 1, extracted page 6"
+    },
+    {
+      "title": "CYPRUS",
+      "first_seen_page_index": 6,
+      "source_trace": "NCERT Class 10 India and the Contemporary World II, Chapter 1, extracted page 6"
+    },
+    {
+      "title": "MESOPOTAMIA",
+      "first_seen_page_index": 6,
+      "source_trace": "NCERT Class 10 India and the Contemporary World II, Chapter 1, extracted page 6"
+    },
+    {
+      "title": "ARMENIA",
+      "first_seen_page_index": 6,
+      "source_trace": "NCERT Class 10 India and the Contemporary World II, Chapter 1, extracted page 6"
+    },
+    {
+      "title": "OTTOMAN EMPIRE",
+      "first_seen_page_index": 6,
+      "source_trace": "NCERT Class 10 India and the Contemporary World II, Chapter 1, extracted page 6"
+    },
+    {
+      "title": "CRETE",
+      "first_seen_page_index": 6,
+      "source_trace": "NCERT Class 10 India and the Contemporary World II, Chapter 1, extracted page 6"
+    },
+    {
+      "title": "GREECE",
+      "first_seen_page_index": 6,
+      "source_trace": "NCERT Class 10 India and the Contemporary World II, Chapter 1, extracted page 6"
+    },
+    {
+      "title": "BULGARIA",
+      "first_seen_page_index": 6,
+      "source_trace": "NCERT Class 10 India and the Contemporary World II, Chapter 1, extracted page 6"
+    },
+    {
+      "title": "ROMANIA",
+      "first_seen_page_index": 6,
+      "source_trace": "NCERT Class 10 India and the Contemporary World II, Chapter 1, extracted page 6"
+    },
+    {
+      "title": "SERBIA",
+      "first_seen_page_index": 6,
+      "source_trace": "NCERT Class 10 India and the Contemporary World II, Chapter 1, extracted page 6"
+    },
+    {
+      "title": "HUNGARY",
+      "first_seen_page_index": 6,
+      "source_trace": "NCERT Class 10 India and the Contemporary World II, Chapter 1, extracted page 6"
+    },
+    {
+      "title": "AUSTRIAN EMPIRE",
+      "first_seen_page_index": 6,
+      "source_trace": "NCERT Class 10 India and the Contemporary World II, Chapter 1, extracted page 6"
+    },
+    {
+      "title": "AUSTRIA",
+      "first_seen_page_index": 6,
+      "source_trace": "NCERT Class 10 India and the Contemporary World II, Chapter 1, extracted page 6"
+    },
+    {
+      "title": "GALICIA",
+      "first_seen_page_index": 6,
+      "source_trace": "NCERT Class 10 India and the Contemporary World II, Chapter 1, extracted page 6"
+    },
+    {
+      "title": "BAVARIA",
+      "first_seen_page_index": 6,
+      "source_trace": "NCERT Class 10 India and the Contemporary World II, Chapter 1, extracted page 6"
+    },
+    {
+      "title": "SWITZERLAND",
+      "first_seen_page_index": 6,
+      "source_trace": "NCERT Class 10 India and the Contemporary World II, Chapter 1, extracted page 6"
+    },
+    {
+      "title": "PRUSSIA",
+      "first_seen_page_index": 6,
+      "source_trace": "NCERT Class 10 India and the Contemporary World II, Chapter 1, extracted page 6"
+    }
+  ],
+  "production_status": "concept_candidates_ready_for_human_decode"
+}

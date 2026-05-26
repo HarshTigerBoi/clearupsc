@@ -1,0 +1,223 @@
+{
+  "key": "gs1_art_class11_indian_art_ch06_temple_architecture_and_sculpture",
+  "title": "Temple Architecture and Sculpture",
+  "source": {
+    "book": "NCERT Class 11 An Introduction to Indian Art",
+    "chapter": 6,
+    "chapter_title": "Temple Architecture and Sculpture",
+    "pdf_url": "https://ncert.nic.in/textbook.php?kefa1=0-8",
+    "page_range": "pending source extraction"
+  },
+  "resolved_pdf_url": "https://ncert.nic.in/textbook/pdf/kefa106.pdf",
+  "sha256": "97ce45a5f5bffc292fb5ed5a9cab3a2b2bc1574b553773ec20557ed73729d997",
+  "extraction": {
+    "raw_text_path": "data/study/textbook-first/raw-text/gs1_art_class11_indian_art_ch06_temple_architecture_and_sculpture.txt",
+    "extracted_characters": 56650,
+    "page_count": 35,
+    "paragraph_count_estimate": 0,
+    "title_match_score": 1
+  },
+  "concept_candidates": [
+    {
+      "title": "AND AND AND AND AND S S S S SCULPTURE CULPTURE CULPTURE CULPTURE CULPTURE",
+      "first_seen_page_index": 2,
+      "source_trace": "NCERT Class 11 An Introduction to Indian Art, Chapter 6, extracted page 2"
+    },
+    {
+      "title": "AN INTRODUCTION TO INDIAN ART 70",
+      "first_seen_page_index": 3,
+      "source_trace": "NCERT Class 11 An Introduction to Indian Art, Chapter 6, extracted page 3"
+    },
+    {
+      "title": "THE BASIC FORM OF THE HINDU TEMPLE",
+      "first_seen_page_index": 3,
+      "source_trace": "NCERT Class 11 An Introduction to Indian Art, Chapter 6, extracted page 3"
+    },
+    {
+      "title": "SCULPTURE, ICONOGRAPHY AND ORNAMENTATION",
+      "first_seen_page_index": 3,
+      "source_trace": "NCERT Class 11 An Introduction to Indian Art, Chapter 6, extracted page 3"
+    },
+    {
+      "title": "TEMPLE ARCHITECTURE AND SCULPTURE 71",
+      "first_seen_page_index": 4,
+      "source_trace": "NCERT Class 11 An Introduction to Indian Art, Chapter 6, extracted page 4"
+    },
+    {
+      "title": "THE NAGARA OR NORTH INDIAN TEMPLE STYLE",
+      "first_seen_page_index": 4,
+      "source_trace": "NCERT Class 11 An Introduction to Indian Art, Chapter 6, extracted page 4"
+    },
+    {
+      "title": "AN INTRODUCTION TO INDIAN ART 72",
+      "first_seen_page_index": 5,
+      "source_trace": "NCERT Class 11 An Introduction to Indian Art, Chapter 6, extracted page 5"
+    },
+    {
+      "title": "TEMPLE ARCHITECTURE AND SCULPTURE 73",
+      "first_seen_page_index": 6,
+      "source_trace": "NCERT Class 11 An Introduction to Indian Art, Chapter 6, extracted page 6"
+    },
+    {
+      "title": "AN INTRODUCTION TO INDIAN ART 74",
+      "first_seen_page_index": 7,
+      "source_trace": "NCERT Class 11 An Introduction to Indian Art, Chapter 6, extracted page 7"
+    },
+    {
+      "title": "TEMPLE ARCHITECTURE AND SCULPTURE 75",
+      "first_seen_page_index": 8,
+      "source_trace": "NCERT Class 11 An Introduction to Indian Art, Chapter 6, extracted page 8"
+    },
+    {
+      "title": "AN INTRODUCTION TO INDIAN ART 76",
+      "first_seen_page_index": 9,
+      "source_trace": "NCERT Class 11 An Introduction to Indian Art, Chapter 6, extracted page 9"
+    },
+    {
+      "title": "TEMPLE ARCHITECTURE AND SCULPTURE 77",
+      "first_seen_page_index": 10,
+      "source_trace": "NCERT Class 11 An Introduction to Indian Art, Chapter 6, extracted page 10"
+    },
+    {
+      "title": "AN INTRODUCTION TO INDIAN ART 78",
+      "first_seen_page_index": 11,
+      "source_trace": "NCERT Class 11 An Introduction to Indian Art, Chapter 6, extracted page 11"
+    },
+    {
+      "title": "TEMPLE ARCHITECTURE AND SCULPTURE 79",
+      "first_seen_page_index": 12,
+      "source_trace": "NCERT Class 11 An Introduction to Indian Art, Chapter 6, extracted page 12"
+    },
+    {
+      "title": "AN INTRODUCTION TO INDIAN ART 80",
+      "first_seen_page_index": 13,
+      "source_trace": "NCERT Class 11 An Introduction to Indian Art, Chapter 6, extracted page 13"
+    },
+    {
+      "title": "TEMPLE ARCHITECTURE AND SCULPTURE 81",
+      "first_seen_page_index": 14,
+      "source_trace": "NCERT Class 11 An Introduction to Indian Art, Chapter 6, extracted page 14"
+    },
+    {
+      "title": "AN INTRODUCTION TO INDIAN ART 82",
+      "first_seen_page_index": 15,
+      "source_trace": "NCERT Class 11 An Introduction to Indian Art, Chapter 6, extracted page 15"
+    },
+    {
+      "title": "THE DRAVIDA OR SOUTH INDIAN TEMPLE STYLE",
+      "first_seen_page_index": 15,
+      "source_trace": "NCERT Class 11 An Introduction to Indian Art, Chapter 6, extracted page 15"
+    },
+    {
+      "title": "TEMPLE ARCHITECTURE AND SCULPTURE 83",
+      "first_seen_page_index": 16,
+      "source_trace": "NCERT Class 11 An Introduction to Indian Art, Chapter 6, extracted page 16"
+    },
+    {
+      "title": "AN INTRODUCTION TO INDIAN ART 84",
+      "first_seen_page_index": 17,
+      "source_trace": "NCERT Class 11 An Introduction to Indian Art, Chapter 6, extracted page 17"
+    },
+    {
+      "title": "TEMPLE ARCHITECTURE AND SCULPTURE 85",
+      "first_seen_page_index": 18,
+      "source_trace": "NCERT Class 11 An Introduction to Indian Art, Chapter 6, extracted page 18"
+    },
+    {
+      "title": "AN INTRODUCTION TO INDIAN ART 86",
+      "first_seen_page_index": 19,
+      "source_trace": "NCERT Class 11 An Introduction to Indian Art, Chapter 6, extracted page 19"
+    },
+    {
+      "title": "750 CE, the early western Chalukya control of the Deccan",
+      "first_seen_page_index": 19,
+      "source_trace": "NCERT Class 11 An Introduction to Indian Art, Chapter 6, extracted page 19"
+    },
+    {
+      "title": "TEMPLE ARCHITECTURE AND SCULPTURE 87",
+      "first_seen_page_index": 20,
+      "source_trace": "NCERT Class 11 An Introduction to Indian Art, Chapter 6, extracted page 20"
+    },
+    {
+      "title": "AN INTRODUCTION TO INDIAN ART 88",
+      "first_seen_page_index": 21,
+      "source_trace": "NCERT Class 11 An Introduction to Indian Art, Chapter 6, extracted page 21"
+    },
+    {
+      "title": "TEMPLE ARCHITECTURE AND SCULPTURE 89",
+      "first_seen_page_index": 22,
+      "source_trace": "NCERT Class 11 An Introduction to Indian Art, Chapter 6, extracted page 22"
+    },
+    {
+      "title": "AN INTRODUCTION TO INDIAN ART 90",
+      "first_seen_page_index": 23,
+      "source_trace": "NCERT Class 11 An Introduction to Indian Art, Chapter 6, extracted page 23"
+    },
+    {
+      "title": "BUDDHIST AND JAIN ARCHITECTURAL DEVELOPMENTS",
+      "first_seen_page_index": 23,
+      "source_trace": "NCERT Class 11 An Introduction to Indian Art, Chapter 6, extracted page 23"
+    },
+    {
+      "title": "TEMPLE ARCHITECTURE AND SCULPTURE 91",
+      "first_seen_page_index": 24,
+      "source_trace": "NCERT Class 11 An Introduction to Indian Art, Chapter 6, extracted page 24"
+    },
+    {
+      "title": "AN INTRODUCTION TO INDIAN ART 92",
+      "first_seen_page_index": 25,
+      "source_trace": "NCERT Class 11 An Introduction to Indian Art, Chapter 6, extracted page 25"
+    },
+    {
+      "title": "TEMPLE ARCHITECTURE AND SCULPTURE 93",
+      "first_seen_page_index": 26,
+      "source_trace": "NCERT Class 11 An Introduction to Indian Art, Chapter 6, extracted page 26"
+    },
+    {
+      "title": "AN INTRODUCTION TO INDIAN ART 94",
+      "first_seen_page_index": 27,
+      "source_trace": "NCERT Class 11 An Introduction to Indian Art, Chapter 6, extracted page 27"
+    },
+    {
+      "title": "TEMPLE ARCHITECTURE AND SCULPTURE 95",
+      "first_seen_page_index": 28,
+      "source_trace": "NCERT Class 11 An Introduction to Indian Art, Chapter 6, extracted page 28"
+    },
+    {
+      "title": "MAHABALIPURAM",
+      "first_seen_page_index": 29,
+      "source_trace": "NCERT Class 11 An Introduction to Indian Art, Chapter 6, extracted page 29"
+    },
+    {
+      "title": "AN INTRODUCTION TO INDIAN ART 96",
+      "first_seen_page_index": 29,
+      "source_trace": "NCERT Class 11 An Introduction to Indian Art, Chapter 6, extracted page 29"
+    },
+    {
+      "title": "TEMPLE ARCHITECTURE AND SCULPTURE 97",
+      "first_seen_page_index": 30,
+      "source_trace": "NCERT Class 11 An Introduction to Indian Art, Chapter 6, extracted page 30"
+    },
+    {
+      "title": "AN INTRODUCTION TO INDIAN ART 98",
+      "first_seen_page_index": 31,
+      "source_trace": "NCERT Class 11 An Introduction to Indian Art, Chapter 6, extracted page 31"
+    },
+    {
+      "title": "RAVANA SHAKING MOUNT KAILASHA",
+      "first_seen_page_index": 31,
+      "source_trace": "NCERT Class 11 An Introduction to Indian Art, Chapter 6, extracted page 31"
+    },
+    {
+      "title": "TEMPLE ARCHITECTURE AND SCULPTURE 99",
+      "first_seen_page_index": 32,
+      "source_trace": "NCERT Class 11 An Introduction to Indian Art, Chapter 6, extracted page 32"
+    },
+    {
+      "title": "LAKSHMANA",
+      "first_seen_page_index": 33,
+      "source_trace": "NCERT Class 11 An Introduction to Indian Art, Chapter 6, extracted page 33"
+    }
+  ],
+  "production_status": "concept_candidates_ready_for_human_decode"
+}

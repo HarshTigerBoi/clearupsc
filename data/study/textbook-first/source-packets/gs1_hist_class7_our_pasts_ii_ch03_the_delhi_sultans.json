@@ -1,0 +1,98 @@
+{
+  "key": "gs1_hist_class7_our_pasts_ii_ch03_the_delhi_sultans",
+  "title": "The Delhi Sultans",
+  "source": {
+    "book": "NCERT Class 7 Our Pasts II",
+    "chapter": 3,
+    "chapter_title": "The Delhi Sultans",
+    "pdf_url": "https://ncert.nic.in/textbook.php?gess1=0-10",
+    "page_range": "pending source extraction"
+  },
+  "resolved_pdf_url": "https://ncert.nic.in/textbook/pdf/gess103.pdf",
+  "sha256": "897fb315a6f8489538ede02ee1bd3bf2a9ef472f3726971e132970e4ab611e40",
+  "extraction": {
+    "raw_text_path": "data/study/textbook-first/raw-text/gs1_hist_class7_our_pasts_ii_ch03_the_delhi_sultans.txt",
+    "extracted_characters": 10896,
+    "page_count": 9,
+    "paragraph_count_estimate": 0,
+    "title_match_score": 1
+  },
+  "concept_candidates": [
+    {
+      "title": "DELHI: 12 th TO 15 th CENTURY",
+      "first_seen_page_index": 1,
+      "source_trace": "NCERT Class 7 Our Pasts II, Chapter 3, extracted page 1"
+    },
+    {
+      "title": "31 DELHI: 12TH TO 15TH...",
+      "first_seen_page_index": 2,
+      "source_trace": "NCERT Class 7 Our Pasts II, Chapter 3, extracted page 2"
+    },
+    {
+      "title": "RAJPUT DYNASTIES",
+      "first_seen_page_index": 2,
+      "source_trace": "NCERT Class 7 Our Pasts II, Chapter 3, extracted page 2"
+    },
+    {
+      "title": "EARLY TURKISH RULERS",
+      "first_seen_page_index": 2,
+      "source_trace": "NCERT Class 7 Our Pasts II, Chapter 3, extracted page 2"
+    },
+    {
+      "title": "KHALJI DYNASTY",
+      "first_seen_page_index": 2,
+      "source_trace": "NCERT Class 7 Our Pasts II, Chapter 3, extracted page 2"
+    },
+    {
+      "title": "TUGHLUQ DYNASTY",
+      "first_seen_page_index": 2,
+      "source_trace": "NCERT Class 7 Our Pasts II, Chapter 3, extracted page 2"
+    },
+    {
+      "title": "SAYYID DYNASTY",
+      "first_seen_page_index": 2,
+      "source_trace": "NCERT Class 7 Our Pasts II, Chapter 3, extracted page 2"
+    },
+    {
+      "title": "LODI DYNASTY",
+      "first_seen_page_index": 2,
+      "source_trace": "NCERT Class 7 Our Pasts II, Chapter 3, extracted page 2"
+    },
+    {
+      "title": "32 OUR PASTS – II",
+      "first_seen_page_index": 3,
+      "source_trace": "NCERT Class 7 Our Pasts II, Chapter 3, extracted page 3"
+    },
+    {
+      "title": "33 DELHI: 12TH TO 15TH...",
+      "first_seen_page_index": 4,
+      "source_trace": "NCERT Class 7 Our Pasts II, Chapter 3, extracted page 4"
+    },
+    {
+      "title": "34 OUR PASTS – II",
+      "first_seen_page_index": 5,
+      "source_trace": "NCERT Class 7 Our Pasts II, Chapter 3, extracted page 5"
+    },
+    {
+      "title": "35 DELHI: 12TH TO 15TH...",
+      "first_seen_page_index": 6,
+      "source_trace": "NCERT Class 7 Our Pasts II, Chapter 3, extracted page 6"
+    },
+    {
+      "title": "36 OUR PASTS – II",
+      "first_seen_page_index": 7,
+      "source_trace": "NCERT Class 7 Our Pasts II, Chapter 3, extracted page 7"
+    },
+    {
+      "title": "37 DELHI: 12TH TO 15TH...",
+      "first_seen_page_index": 8,
+      "source_trace": "NCERT Class 7 Our Pasts II, Chapter 3, extracted page 8"
+    },
+    {
+      "title": "KEYWORDS",
+      "first_seen_page_index": 9,
+      "source_trace": "NCERT Class 7 Our Pasts II, Chapter 3, extracted page 9"
+    }
+  ],
+  "production_status": "concept_candidates_ready_for_human_decode"
+}

@@ -1,0 +1,213 @@
+{
+  "key": "gs3_sci_class8_science_ch10_reaching_the_age_of_adolescence",
+  "title": "Reaching the Age of Adolescence",
+  "source": {
+    "book": "NCERT Class 8 Science",
+    "chapter": 10,
+    "chapter_title": "Reaching the Age of Adolescence",
+    "pdf_url": "https://ncert.nic.in/textbook.php?hesc1=0-18",
+    "page_range": "pending source extraction"
+  },
+  "resolved_pdf_url": "https://ncert.nic.in/textbook/pdf/hesc110.pdf",
+  "sha256": "67d164b95714d7d6f3737796c345f7c47abfe0fa5739ea276e40a6c05647daff",
+  "extraction": {
+    "raw_text_path": "data/study/textbook-first/raw-text/gs3_sci_class8_science_ch10_reaching_the_age_of_adolescence.txt",
+    "extracted_characters": 23841,
+    "page_count": 15,
+    "paragraph_count_estimate": 0,
+    "title_match_score": 0
+  },
+  "concept_candidates": [
+    {
+      "title": "SOUND SOUND",
+      "first_seen_page_index": 1,
+      "source_trace": "NCERT Class 8 Science, Chapter 10, extracted page 1"
+    },
+    {
+      "title": "SCIENCE 124",
+      "first_seen_page_index": 2,
+      "source_trace": "NCERT Class 8 Science, Chapter 10, extracted page 2"
+    },
+    {
+      "title": "10.1 Sound is Produced by a",
+      "first_seen_page_index": 2,
+      "source_trace": "NCERT Class 8 Science, Chapter 10, extracted page 2"
+    },
+    {
+      "title": "SOUND 125",
+      "first_seen_page_index": 3,
+      "source_trace": "NCERT Class 8 Science, Chapter 10, extracted page 3"
+    },
+    {
+      "title": "SCIENCE 126",
+      "first_seen_page_index": 4,
+      "source_trace": "NCERT Class 8 Science, Chapter 10, extracted page 4"
+    },
+    {
+      "title": "10.2 Sound Produced by",
+      "first_seen_page_index": 4,
+      "source_trace": "NCERT Class 8 Science, Chapter 10, extracted page 4"
+    },
+    {
+      "title": "SOUND 127",
+      "first_seen_page_index": 5,
+      "source_trace": "NCERT Class 8 Science, Chapter 10, extracted page 5"
+    },
+    {
+      "title": "10.3 Sound Needs a Medium",
+      "first_seen_page_index": 5,
+      "source_trace": "NCERT Class 8 Science, Chapter 10, extracted page 5"
+    },
+    {
+      "title": "SCIENCE 128",
+      "first_seen_page_index": 6,
+      "source_trace": "NCERT Class 8 Science, Chapter 10, extracted page 6"
+    },
+    {
+      "title": "SOUND 129",
+      "first_seen_page_index": 7,
+      "source_trace": "NCERT Class 8 Science, Chapter 10, extracted page 7"
+    },
+    {
+      "title": "10.4 We Hear Sound through",
+      "first_seen_page_index": 7,
+      "source_trace": "NCERT Class 8 Science, Chapter 10, extracted page 7"
+    },
+    {
+      "title": "SCIENCE 130",
+      "first_seen_page_index": 8,
+      "source_trace": "NCERT Class 8 Science, Chapter 10, extracted page 8"
+    },
+    {
+      "title": "1 Hz is one oscillation per second. If an",
+      "first_seen_page_index": 8,
+      "source_trace": "NCERT Class 8 Science, Chapter 10, extracted page 8"
+    },
+    {
+      "title": "10.5 Amplitude, Time Period",
+      "first_seen_page_index": 8,
+      "source_trace": "NCERT Class 8 Science, Chapter 10, extracted page 8"
+    },
+    {
+      "title": "SOUND 131",
+      "first_seen_page_index": 9,
+      "source_trace": "NCERT Class 8 Science, Chapter 10, extracted page 9"
+    },
+    {
+      "title": "SCIENCE 132",
+      "first_seen_page_index": 10,
+      "source_trace": "NCERT Class 8 Science, Chapter 10, extracted page 10"
+    },
+    {
+      "title": "10.6 Audible and Inaudible",
+      "first_seen_page_index": 10,
+      "source_trace": "NCERT Class 8 Science, Chapter 10, extracted page 10"
+    },
+    {
+      "title": "10.7 Noise and Music",
+      "first_seen_page_index": 10,
+      "source_trace": "NCERT Class 8 Science, Chapter 10, extracted page 10"
+    },
+    {
+      "title": "10.8 Noise Pollution",
+      "first_seen_page_index": 10,
+      "source_trace": "NCERT Class 8 Science, Chapter 10, extracted page 10"
+    },
+    {
+      "title": "SOUND 133",
+      "first_seen_page_index": 11,
+      "source_trace": "NCERT Class 8 Science, Chapter 10, extracted page 11"
+    },
+    {
+      "title": "SCIENCE 134",
+      "first_seen_page_index": 12,
+      "source_trace": "NCERT Class 8 Science, Chapter 10, extracted page 12"
+    },
+    {
+      "title": "KEYWORDS KEYWORDS KEYWORDS KEYWORDS KEYWORDS",
+      "first_seen_page_index": 12,
+      "source_trace": "NCERT Class 8 Science, Chapter 10, extracted page 12"
+    },
+    {
+      "title": "AMPLITUDE",
+      "first_seen_page_index": 12,
+      "source_trace": "NCERT Class 8 Science, Chapter 10, extracted page 12"
+    },
+    {
+      "title": "EARDRUM",
+      "first_seen_page_index": 12,
+      "source_trace": "NCERT Class 8 Science, Chapter 10, extracted page 12"
+    },
+    {
+      "title": "FREQUENCY",
+      "first_seen_page_index": 12,
+      "source_trace": "NCERT Class 8 Science, Chapter 10, extracted page 12"
+    },
+    {
+      "title": "LARYNX",
+      "first_seen_page_index": 12,
+      "source_trace": "NCERT Class 8 Science, Chapter 10, extracted page 12"
+    },
+    {
+      "title": "LOUDNESS",
+      "first_seen_page_index": 12,
+      "source_trace": "NCERT Class 8 Science, Chapter 10, extracted page 12"
+    },
+    {
+      "title": "NOISE",
+      "first_seen_page_index": 12,
+      "source_trace": "NCERT Class 8 Science, Chapter 10, extracted page 12"
+    },
+    {
+      "title": "OSCILLATION",
+      "first_seen_page_index": 12,
+      "source_trace": "NCERT Class 8 Science, Chapter 10, extracted page 12"
+    },
+    {
+      "title": "PITCH",
+      "first_seen_page_index": 12,
+      "source_trace": "NCERT Class 8 Science, Chapter 10, extracted page 12"
+    },
+    {
+      "title": "TIME PERIOD",
+      "first_seen_page_index": 12,
+      "source_trace": "NCERT Class 8 Science, Chapter 10, extracted page 12"
+    },
+    {
+      "title": "VIBRATION",
+      "first_seen_page_index": 12,
+      "source_trace": "NCERT Class 8 Science, Chapter 10, extracted page 12"
+    },
+    {
+      "title": "VOICE BOX",
+      "first_seen_page_index": 12,
+      "source_trace": "NCERT Class 8 Science, Chapter 10, extracted page 12"
+    },
+    {
+      "title": "WIND PIPE",
+      "first_seen_page_index": 12,
+      "source_trace": "NCERT Class 8 Science, Chapter 10, extracted page 12"
+    },
+    {
+      "title": "SOUND 135",
+      "first_seen_page_index": 13,
+      "source_trace": "NCERT Class 8 Science, Chapter 10, extracted page 13"
+    },
+    {
+      "title": "E X E R C I S E S",
+      "first_seen_page_index": 13,
+      "source_trace": "NCERT Class 8 Science, Chapter 10, extracted page 13"
+    },
+    {
+      "title": "SCIENCE 136",
+      "first_seen_page_index": 14,
+      "source_trace": "NCERT Class 8 Science, Chapter 10, extracted page 14"
+    },
+    {
+      "title": "SOUND 137",
+      "first_seen_page_index": 15,
+      "source_trace": "NCERT Class 8 Science, Chapter 10, extracted page 15"
+    }
+  ],
+  "production_status": "concept_candidates_ready_for_human_decode"
+}

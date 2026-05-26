@@ -1,0 +1,53 @@
+{
+  "key": "gs1_society_class12_social_change_ch05_change_and_development_in_industrial_society",
+  "title": "Change and Development in Industrial Society",
+  "source": {
+    "book": "NCERT Class 12 Social Change and Development in India",
+    "chapter": 5,
+    "chapter_title": "Change and Development in Industrial Society",
+    "pdf_url": "https://ncert.nic.in/textbook.php?lesy2=0-8",
+    "page_range": "pending source extraction"
+  },
+  "resolved_pdf_url": "https://ncert.nic.in/textbook/pdf/lesy205.pdf",
+  "sha256": "e7aaadfc26caa44af60d4cdfc3d06f42801984720e3fd6ded445074181235356",
+  "extraction": {
+    "raw_text_path": "data/study/textbook-first/raw-text/gs1_society_class12_social_change_ch05_change_and_development_in_industrial_society.txt",
+    "extracted_characters": 29962,
+    "page_count": 12,
+    "paragraph_count_estimate": 0,
+    "title_match_score": 1
+  },
+  "concept_candidates": [
+    {
+      "title": "5.1 Images of IndustrIal socIety",
+      "first_seen_page_index": 2,
+      "source_trace": "NCERT Class 12 Social Change and Development in India, Chapter 5, extracted page 2"
+    },
+    {
+      "title": "5.2 IndustrIalIsatIon In IndIa",
+      "first_seen_page_index": 3,
+      "source_trace": "NCERT Class 12 Social Change and Development in India, Chapter 5, extracted page 3"
+    },
+    {
+      "title": "5.3 How People FInd Jobs",
+      "first_seen_page_index": 6,
+      "source_trace": "NCERT Class 12 Social Change and Development in India, Chapter 5, extracted page 6"
+    },
+    {
+      "title": "5.4 How Is work carrIed out?",
+      "first_seen_page_index": 7,
+      "source_trace": "NCERT Class 12 Social Change and Development in India, Chapter 5, extracted page 7"
+    },
+    {
+      "title": "5.5 Working conditions",
+      "first_seen_page_index": 10,
+      "source_trace": "NCERT Class 12 Social Change and Development in India, Chapter 5, extracted page 10"
+    },
+    {
+      "title": "5.6 Home - based work",
+      "first_seen_page_index": 11,
+      "source_trace": "NCERT Class 12 Social Change and Development in India, Chapter 5, extracted page 11"
+    }
+  ],
+  "production_status": "concept_candidates_ready_for_human_decode"
+}

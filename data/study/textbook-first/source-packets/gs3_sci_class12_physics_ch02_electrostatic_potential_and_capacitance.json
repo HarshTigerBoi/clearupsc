@@ -1,0 +1,223 @@
+{
+  "key": "gs3_sci_class12_physics_ch02_electrostatic_potential_and_capacitance",
+  "title": "Electrostatic Potential and Capacitance",
+  "source": {
+    "book": "NCERT Class 12 Physics",
+    "chapter": 2,
+    "chapter_title": "Electrostatic Potential and Capacitance",
+    "pdf_url": "https://ncert.nic.in/textbook.php?leph1=0-14",
+    "page_range": "pending source extraction"
+  },
+  "resolved_pdf_url": "https://ncert.nic.in/textbook/pdf/leph102.pdf",
+  "sha256": "d69c4f007bde6809f6d9cd401ec8d7ccd3d775070408ccc5b4c37c444c8faf24",
+  "extraction": {
+    "raw_text_path": "data/study/textbook-first/raw-text/gs3_sci_class12_physics_ch02_electrostatic_potential_and_capacitance.txt",
+    "extracted_characters": 78270,
+    "page_count": 36,
+    "paragraph_count_estimate": 0,
+    "title_match_score": 1
+  },
+  "concept_candidates": [
+    {
+      "title": "2.1 I 2.1 I 2.1 I 2.1 I 2.1 INTRODUCTION NTRODUCTION NTRODUCTION NTRODUCTION NTRODUCTION",
+      "first_seen_page_index": 1,
+      "source_trace": "NCERT Class 12 Physics, Chapter 2, extracted page 1"
+    },
+    {
+      "title": "ELECTROSTATIC",
+      "first_seen_page_index": 1,
+      "source_trace": "NCERT Class 12 Physics, Chapter 2, extracted page 1"
+    },
+    {
+      "title": "POTENTIAL AND",
+      "first_seen_page_index": 1,
+      "source_trace": "NCERT Class 12 Physics, Chapter 2, extracted page 1"
+    },
+    {
+      "title": "CAPACITANCE",
+      "first_seen_page_index": 1,
+      "source_trace": "NCERT Class 12 Physics, Chapter 2, extracted page 1"
+    },
+    {
+      "title": "P R RP U U U W ∆ = − = (2.2)",
+      "first_seen_page_index": 2,
+      "source_trace": "NCERT Class 12 Physics, Chapter 2, extracted page 2"
+    },
+    {
+      "title": "( ) ( ) P R P R U U U U",
+      "first_seen_page_index": 3,
+      "source_trace": "NCERT Class 12 Physics, Chapter 2, extracted page 3"
+    },
+    {
+      "title": "P P P W U U U ∞ ∞ = − = (2.3)",
+      "first_seen_page_index": 3,
+      "source_trace": "NCERT Class 12 Physics, Chapter 2, extracted page 3"
+    },
+    {
+      "title": "2.2 ELECTROSTATIC POTENTIAL",
+      "first_seen_page_index": 3,
+      "source_trace": "NCERT Class 12 Physics, Chapter 2, extracted page 3"
+    },
+    {
+      "title": "= VP – VR = − ",
+      "first_seen_page_index": 3,
+      "source_trace": "NCERT Class 12 Physics, Chapter 2, extracted page 3"
+    },
+    {
+      "title": "COUNT ALESSANDRO VOLTA (1745 –1827)",
+      "first_seen_page_index": 3,
+      "source_trace": "NCERT Class 12 Physics, Chapter 2, extracted page 3"
+    },
+    {
+      "title": "2.3 POTENTIAL DUE TO A POINT CHARGE",
+      "first_seen_page_index": 4,
+      "source_trace": "NCERT Class 12 Physics, Chapter 2, extracted page 4"
+    },
+    {
+      "title": "EXAMPLE",
+      "first_seen_page_index": 5,
+      "source_trace": "NCERT Class 12 Physics, Chapter 2, extracted page 5"
+    },
+    {
+      "title": "(b) W = qV = 2 × 10–9C × 4 × 104V",
+      "first_seen_page_index": 5,
+      "source_trace": "NCERT Class 12 Physics, Chapter 2, extracted page 5"
+    },
+    {
+      "title": "2.4 POTENTIAL DUE TO AN ELECTRIC DIPOLE",
+      "first_seen_page_index": 5,
+      "source_trace": "NCERT Class 12 Physics, Chapter 2, extracted page 5"
+    },
+    {
+      "title": "2.5 POTENTIAL DUE TO A SYSTEM OF CHARGES",
+      "first_seen_page_index": 7,
+      "source_trace": "NCERT Class 12 Physics, Chapter 2, extracted page 7"
+    },
+    {
+      "title": "V = V1 + V2 + ... + Vn (2.17)",
+      "first_seen_page_index": 7,
+      "source_trace": "NCERT Class 12 Physics, Chapter 2, extracted page 7"
+    },
+    {
+      "title": "n P P P",
+      "first_seen_page_index": 8,
+      "source_trace": "NCERT Class 12 Physics, Chapter 2, extracted page 8"
+    },
+    {
+      "title": "FIGURE 2.7",
+      "first_seen_page_index": 8,
+      "source_trace": "NCERT Class 12 Physics, Chapter 2, extracted page 8"
+    },
+    {
+      "title": "FIGURE 2.8",
+      "first_seen_page_index": 9,
+      "source_trace": "NCERT Class 12 Physics, Chapter 2, extracted page 9"
+    },
+    {
+      "title": "2.6 EQUIPOTENTIAL SURFACES",
+      "first_seen_page_index": 10,
+      "source_trace": "NCERT Class 12 Physics, Chapter 2, extracted page 10"
+    },
+    {
+      "title": "FIGURE 2.9 For a",
+      "first_seen_page_index": 10,
+      "source_trace": "NCERT Class 12 Physics, Chapter 2, extracted page 10"
+    },
+    {
+      "title": "2.6.1 Relation between field and potential",
+      "first_seen_page_index": 11,
+      "source_trace": "NCERT Class 12 Physics, Chapter 2, extracted page 11"
+    },
+    {
+      "title": "VA–VB.",
+      "first_seen_page_index": 11,
+      "source_trace": "NCERT Class 12 Physics, Chapter 2, extracted page 11"
+    },
+    {
+      "title": "2.7 POTENTIAL ENERGY OF A SYSTEM OF CHARGES",
+      "first_seen_page_index": 11,
+      "source_trace": "NCERT Class 12 Physics, Chapter 2, extracted page 11"
+    },
+    {
+      "title": "FIGURE 2.15",
+      "first_seen_page_index": 13,
+      "source_trace": "NCERT Class 12 Physics, Chapter 2, extracted page 13"
+    },
+    {
+      "title": "2.8 POTENTIAL ENERGY IN AN EXTERNAL FIELD",
+      "first_seen_page_index": 14,
+      "source_trace": "NCERT Class 12 Physics, Chapter 2, extracted page 14"
+    },
+    {
+      "title": "2.8.1 Potential energy of a single charge",
+      "first_seen_page_index": 14,
+      "source_trace": "NCERT Class 12 Physics, Chapter 2, extracted page 14"
+    },
+    {
+      "title": "2.8.2 Potential energy of a system of two charges in an",
+      "first_seen_page_index": 15,
+      "source_trace": "NCERT Class 12 Physics, Chapter 2, extracted page 15"
+    },
+    {
+      "title": "(b) W = U2 – U1 = 0 – U = 0 – (–0.7) = 0.7 J.",
+      "first_seen_page_index": 16,
+      "source_trace": "NCERT Class 12 Physics, Chapter 2, extracted page 16"
+    },
+    {
+      "title": "q V q V A A",
+      "first_seen_page_index": 16,
+      "source_trace": "NCERT Class 12 Physics, Chapter 2, extracted page 16"
+    },
+    {
+      "title": "2.8.3 Potential energy of a dipole in an external field",
+      "first_seen_page_index": 16,
+      "source_trace": "NCERT Class 12 Physics, Chapter 2, extracted page 16"
+    },
+    {
+      "title": "2.9 ELECTROSTATICS OF CONDUCTORS",
+      "first_seen_page_index": 17,
+      "source_trace": "NCERT Class 12 Physics, Chapter 2, extracted page 17"
+    },
+    {
+      "title": "2.10 DIELECTRICS AND POLARISATION",
+      "first_seen_page_index": 21,
+      "source_trace": "NCERT Class 12 Physics, Chapter 2, extracted page 21"
+    },
+    {
+      "title": "2.11 CAPACITORS AND CAPACITANCE",
+      "first_seen_page_index": 23,
+      "source_trace": "NCERT Class 12 Physics, Chapter 2, extracted page 23"
+    },
+    {
+      "title": "2.12 THE PARALLEL PLATE CAPACITOR",
+      "first_seen_page_index": 24,
+      "source_trace": "NCERT Class 12 Physics, Chapter 2, extracted page 24"
+    },
+    {
+      "title": "V E d A",
+      "first_seen_page_index": 25,
+      "source_trace": "NCERT Class 12 Physics, Chapter 2, extracted page 25"
+    },
+    {
+      "title": "2.13 EFFECT OF DIELECTRIC ON CAPACITANCE",
+      "first_seen_page_index": 25,
+      "source_trace": "NCERT Class 12 Physics, Chapter 2, extracted page 25"
+    },
+    {
+      "title": "V K A K",
+      "first_seen_page_index": 26,
+      "source_trace": "NCERT Class 12 Physics, Chapter 2, extracted page 26"
+    },
+    {
+      "title": "Q Q K K",
+      "first_seen_page_index": 27,
+      "source_trace": "NCERT Class 12 Physics, Chapter 2, extracted page 27"
+    },
+    {
+      "title": "V K V K",
+      "first_seen_page_index": 27,
+      "source_trace": "NCERT Class 12 Physics, Chapter 2, extracted page 27"
+    }
+  ],
+  "production_status": "concept_candidates_ready_for_human_decode"
+}

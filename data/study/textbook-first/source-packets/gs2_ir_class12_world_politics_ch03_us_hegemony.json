@@ -1,0 +1,128 @@
+{
+  "key": "gs2_ir_class12_world_politics_ch03_us_hegemony",
+  "title": "US Hegemony",
+  "source": {
+    "book": "NCERT Class 12 Contemporary World Politics",
+    "chapter": 3,
+    "chapter_title": "US Hegemony",
+    "pdf_url": "https://ncert.nic.in/textbook.php?leps1=0-9",
+    "page_range": "pending source extraction"
+  },
+  "resolved_pdf_url": "https://ncert.nic.in/textbook/pdf/leps103.pdf",
+  "sha256": "8b62f02becd783c084f87c33e6147f547fc5d9f113987654f6c0ed84f2f96cbe",
+  "extraction": {
+    "raw_text_path": "data/study/textbook-first/raw-text/gs2_ir_class12_world_politics_ch03_us_hegemony.txt",
+    "extracted_characters": 38597,
+    "page_count": 16,
+    "paragraph_count_estimate": 0,
+    "title_match_score": 0
+  },
+  "concept_candidates": [
+    {
+      "title": "31 Contemporary South Asia",
+      "first_seen_page_index": 3,
+      "source_trace": "NCERT Class 12 Contemporary World Politics, Chapter 3, extracted page 3"
+    },
+    {
+      "title": "TIMELINE OF SOUTH ASIA",
+      "first_seen_page_index": 4,
+      "source_trace": "NCERT Class 12 Contemporary World Politics, Chapter 3, extracted page 4"
+    },
+    {
+      "title": "SINCE 1947",
+      "first_seen_page_index": 4,
+      "source_trace": "NCERT Class 12 Contemporary World Politics, Chapter 3, extracted page 4"
+    },
+    {
+      "title": "1971 March: Proclamation of Independence by leaders of",
+      "first_seen_page_index": 4,
+      "source_trace": "NCERT Class 12 Contemporary World Politics, Chapter 3, extracted page 4"
+    },
+    {
+      "title": "1972 July: India and Pakistan sign the Simla Agreement",
+      "first_seen_page_index": 4,
+      "source_trace": "NCERT Class 12 Contemporary World Politics, Chapter 3, extracted page 4"
+    },
+    {
+      "title": "1974 May: India conducts nuclear test",
+      "first_seen_page_index": 4,
+      "source_trace": "NCERT Class 12 Contemporary World Politics, Chapter 3, extracted page 4"
+    },
+    {
+      "title": "1985 December: South Asian leaders sign the SAARC Charter",
+      "first_seen_page_index": 4,
+      "source_trace": "NCERT Class 12 Contemporary World Politics, Chapter 3, extracted page 4"
+    },
+    {
+      "title": "1996 December: India and Bangladesh sign the Farakka",
+      "first_seen_page_index": 4,
+      "source_trace": "NCERT Class 12 Contemporary World Politics, Chapter 3, extracted page 4"
+    },
+    {
+      "title": "1998 May: India and Pakistan conduct nuclear tests",
+      "first_seen_page_index": 4,
+      "source_trace": "NCERT Class 12 Contemporary World Politics, Chapter 3, extracted page 4"
+    },
+    {
+      "title": "1999 February: Indian PM Vajpayee undertakes bus journey",
+      "first_seen_page_index": 4,
+      "source_trace": "NCERT Class 12 Contemporary World Politics, Chapter 3, extracted page 4"
+    },
+    {
+      "title": "2001 July: Vajpayee - Musharraf Agra Summit unsuccessful",
+      "first_seen_page_index": 4,
+      "source_trace": "NCERT Class 12 Contemporary World Politics, Chapter 3, extracted page 4"
+    },
+    {
+      "title": "2004 January: SAFTA signed at the 12th SAARC Summit in",
+      "first_seen_page_index": 4,
+      "source_trace": "NCERT Class 12 Contemporary World Politics, Chapter 3, extracted page 4"
+    },
+    {
+      "title": "2014 November: The 18th SAARC Summit in Kathmandu,",
+      "first_seen_page_index": 4,
+      "source_trace": "NCERT Class 12 Contemporary World Politics, Chapter 3, extracted page 4"
+    },
+    {
+      "title": "33 Contemporary South Asia",
+      "first_seen_page_index": 5,
+      "source_trace": "NCERT Class 12 Contemporary World Politics, Chapter 3, extracted page 5"
+    },
+    {
+      "title": "35 Contemporary South Asia",
+      "first_seen_page_index": 7,
+      "source_trace": "NCERT Class 12 Contemporary World Politics, Chapter 3, extracted page 7"
+    },
+    {
+      "title": "37 Contemporary South Asia",
+      "first_seen_page_index": 9,
+      "source_trace": "NCERT Class 12 Contemporary World Politics, Chapter 3, extracted page 9"
+    },
+    {
+      "title": "by LTTE.",
+      "first_seen_page_index": 9,
+      "source_trace": "NCERT Class 12 Contemporary World Politics, Chapter 3, extracted page 9"
+    },
+    {
+      "title": "39 Contemporary South Asia",
+      "first_seen_page_index": 11,
+      "source_trace": "NCERT Class 12 Contemporary World Politics, Chapter 3, extracted page 11"
+    },
+    {
+      "title": "STEPS",
+      "first_seen_page_index": 12,
+      "source_trace": "NCERT Class 12 Contemporary World Politics, Chapter 3, extracted page 12"
+    },
+    {
+      "title": "41 Contemporary South Asia",
+      "first_seen_page_index": 13,
+      "source_trace": "NCERT Class 12 Contemporary World Politics, Chapter 3, extracted page 13"
+    },
+    {
+      "title": "43 Contemporary South Asia",
+      "first_seen_page_index": 15,
+      "source_trace": "NCERT Class 12 Contemporary World Politics, Chapter 3, extracted page 15"
+    }
+  ],
+  "production_status": "concept_candidates_ready_for_human_decode"
+}

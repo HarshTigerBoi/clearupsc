@@ -1,0 +1,73 @@
+{
+  "key": "gs3_sci_class10_science_ch12_electricity",
+  "title": "Electricity",
+  "source": {
+    "book": "NCERT Class 10 Science",
+    "chapter": 12,
+    "chapter_title": "Electricity",
+    "pdf_url": "https://ncert.nic.in/textbook.php?jesc1=0-16",
+    "page_range": "pending source extraction"
+  },
+  "resolved_pdf_url": "https://ncert.nic.in/textbook/pdf/jesc112.pdf",
+  "sha256": "ab82bae095324b3854eed3db8513d201e01477154df902b9dfc166be3dfd0a42",
+  "extraction": {
+    "raw_text_path": "data/study/textbook-first/raw-text/gs3_sci_class10_science_ch12_electricity.txt",
+    "extracted_characters": 30585,
+    "page_count": 13,
+    "paragraph_count_estimate": 6,
+    "title_match_score": 1
+  },
+  "concept_candidates": [
+    {
+      "title": "12 CHAPTER",
+      "first_seen_page_index": 1,
+      "source_trace": "NCERT Class 10 Science, Chapter 12, extracted page 1"
+    },
+    {
+      "title": "Q U E S T I O N",
+      "first_seen_page_index": 2,
+      "source_trace": "NCERT Class 10 Science, Chapter 12, extracted page 2"
+    },
+    {
+      "title": "CONDUCTOR CONDUCTOR CONDUCTOR CONDUCTOR CONDUCTOR",
+      "first_seen_page_index": 3,
+      "source_trace": "NCERT Class 10 Science, Chapter 12, extracted page 3"
+    },
+    {
+      "title": "12.2.1 Magnetic Field due to a Current through a Straight",
+      "first_seen_page_index": 4,
+      "source_trace": "NCERT Class 10 Science, Chapter 12, extracted page 4"
+    },
+    {
+      "title": "12.2.2 Right-Hand Thumb Rule",
+      "first_seen_page_index": 5,
+      "source_trace": "NCERT Class 10 Science, Chapter 12, extracted page 5"
+    },
+    {
+      "title": "12.2.3 Magnetic Field due to a Current through a",
+      "first_seen_page_index": 6,
+      "source_trace": "NCERT Class 10 Science, Chapter 12, extracted page 6"
+    },
+    {
+      "title": "Q U E S T I O N S",
+      "first_seen_page_index": 6,
+      "source_trace": "NCERT Class 10 Science, Chapter 12, extracted page 6"
+    },
+    {
+      "title": "12.2.4 Magnetic Field due to a Current in a Solenoid",
+      "first_seen_page_index": 7,
+      "source_trace": "NCERT Class 10 Science, Chapter 12, extracted page 7"
+    },
+    {
+      "title": "15 A current rating for appliances with higher power ratings such as",
+      "first_seen_page_index": 10,
+      "source_trace": "NCERT Class 10 Science, Chapter 12, extracted page 10"
+    },
+    {
+      "title": "E X E R C I S E S",
+      "first_seen_page_index": 13,
+      "source_trace": "NCERT Class 10 Science, Chapter 12, extracted page 13"
+    }
+  ],
+  "production_status": "concept_candidates_ready_for_human_decode"
+}

@@ -1,0 +1,203 @@
+{
+  "key": "gs3_sci_class8_science_ch04_materials_metals_and_non_metals",
+  "title": "Materials Metals and Non-Metals",
+  "source": {
+    "book": "NCERT Class 8 Science",
+    "chapter": 4,
+    "chapter_title": "Materials Metals and Non-Metals",
+    "pdf_url": "https://ncert.nic.in/textbook.php?hesc1=0-18",
+    "page_range": "pending source extraction"
+  },
+  "resolved_pdf_url": "https://ncert.nic.in/textbook/pdf/hesc104.pdf",
+  "sha256": "d39c7be4c078f48b970f810af99d37c22e02b03fec4e6219752e38f2cea3f81f",
+  "extraction": {
+    "raw_text_path": "data/study/textbook-first/raw-text/gs3_sci_class8_science_ch04_materials_metals_and_non_metals.txt",
+    "extracted_characters": 23432,
+    "page_count": 13,
+    "paragraph_count_estimate": 0,
+    "title_match_score": 0.33
+  },
+  "concept_candidates": [
+    {
+      "title": "COMBUSTION AND FLAME COMBUSTION AND FLAME",
+      "first_seen_page_index": 1,
+      "source_trace": "NCERT Class 8 Science, Chapter 4, extracted page 1"
+    },
+    {
+      "title": "4.1 What is Combustion?",
+      "first_seen_page_index": 1,
+      "source_trace": "NCERT Class 8 Science, Chapter 4, extracted page 1"
+    },
+    {
+      "title": "COMBUSTION AND FLAME 41",
+      "first_seen_page_index": 2,
+      "source_trace": "NCERT Class 8 Science, Chapter 4, extracted page 2"
+    },
+    {
+      "title": "SCIENCE 42",
+      "first_seen_page_index": 3,
+      "source_trace": "NCERT Class 8 Science, Chapter 4, extracted page 3"
+    },
+    {
+      "title": "COMBUSTION AND FLAME 43",
+      "first_seen_page_index": 4,
+      "source_trace": "NCERT Class 8 Science, Chapter 4, extracted page 4"
+    },
+    {
+      "title": "SCIENCE 44",
+      "first_seen_page_index": 5,
+      "source_trace": "NCERT Class 8 Science, Chapter 4, extracted page 5"
+    },
+    {
+      "title": "4.2 How Do We Control Fire?",
+      "first_seen_page_index": 5,
+      "source_trace": "NCERT Class 8 Science, Chapter 4, extracted page 5"
+    },
+    {
+      "title": "COMBUSTION AND FLAME 45",
+      "first_seen_page_index": 6,
+      "source_trace": "NCERT Class 8 Science, Chapter 4, extracted page 6"
+    },
+    {
+      "title": "4.3 Types of Combustion",
+      "first_seen_page_index": 6,
+      "source_trace": "NCERT Class 8 Science, Chapter 4, extracted page 6"
+    },
+    {
+      "title": "SCIENCE 46",
+      "first_seen_page_index": 7,
+      "source_trace": "NCERT Class 8 Science, Chapter 4, extracted page 7"
+    },
+    {
+      "title": "4.4 Flame",
+      "first_seen_page_index": 7,
+      "source_trace": "NCERT Class 8 Science, Chapter 4, extracted page 7"
+    },
+    {
+      "title": "COMBUSTION AND FLAME 47",
+      "first_seen_page_index": 8,
+      "source_trace": "NCERT Class 8 Science, Chapter 4, extracted page 8"
+    },
+    {
+      "title": "4.5 Structure of a Flame",
+      "first_seen_page_index": 8,
+      "source_trace": "NCERT Class 8 Science, Chapter 4, extracted page 8"
+    },
+    {
+      "title": "SCIENCE 48",
+      "first_seen_page_index": 9,
+      "source_trace": "NCERT Class 8 Science, Chapter 4, extracted page 9"
+    },
+    {
+      "title": "4.6 What is a Fuel?",
+      "first_seen_page_index": 9,
+      "source_trace": "NCERT Class 8 Science, Chapter 4, extracted page 9"
+    },
+    {
+      "title": "4.7 Fuel Efficiency",
+      "first_seen_page_index": 9,
+      "source_trace": "NCERT Class 8 Science, Chapter 4, extracted page 9"
+    },
+    {
+      "title": "COMBUSTION AND FLAME 49",
+      "first_seen_page_index": 10,
+      "source_trace": "NCERT Class 8 Science, Chapter 4, extracted page 10"
+    },
+    {
+      "title": "SCIENCE 50",
+      "first_seen_page_index": 11,
+      "source_trace": "NCERT Class 8 Science, Chapter 4, extracted page 11"
+    },
+    {
+      "title": "KEYWORDS KEYWORDS KEYWORDS KEYWORDS KEYWORDS",
+      "first_seen_page_index": 11,
+      "source_trace": "NCERT Class 8 Science, Chapter 4, extracted page 11"
+    },
+    {
+      "title": "ACID RAIN",
+      "first_seen_page_index": 11,
+      "source_trace": "NCERT Class 8 Science, Chapter 4, extracted page 11"
+    },
+    {
+      "title": "CALORIFIC VALUE",
+      "first_seen_page_index": 11,
+      "source_trace": "NCERT Class 8 Science, Chapter 4, extracted page 11"
+    },
+    {
+      "title": "COMBUSTION",
+      "first_seen_page_index": 11,
+      "source_trace": "NCERT Class 8 Science, Chapter 4, extracted page 11"
+    },
+    {
+      "title": "DEFORESTATION",
+      "first_seen_page_index": 11,
+      "source_trace": "NCERT Class 8 Science, Chapter 4, extracted page 11"
+    },
+    {
+      "title": "EXPLOSION",
+      "first_seen_page_index": 11,
+      "source_trace": "NCERT Class 8 Science, Chapter 4, extracted page 11"
+    },
+    {
+      "title": "FLAME",
+      "first_seen_page_index": 11,
+      "source_trace": "NCERT Class 8 Science, Chapter 4, extracted page 11"
+    },
+    {
+      "title": "FIRE EXTINGUISHER",
+      "first_seen_page_index": 11,
+      "source_trace": "NCERT Class 8 Science, Chapter 4, extracted page 11"
+    },
+    {
+      "title": "FUEL",
+      "first_seen_page_index": 11,
+      "source_trace": "NCERT Class 8 Science, Chapter 4, extracted page 11"
+    },
+    {
+      "title": "FUEL EFFICIENCY",
+      "first_seen_page_index": 11,
+      "source_trace": "NCERT Class 8 Science, Chapter 4, extracted page 11"
+    },
+    {
+      "title": "GLOBAL WARMING",
+      "first_seen_page_index": 11,
+      "source_trace": "NCERT Class 8 Science, Chapter 4, extracted page 11"
+    },
+    {
+      "title": "IDEAL FUEL",
+      "first_seen_page_index": 11,
+      "source_trace": "NCERT Class 8 Science, Chapter 4, extracted page 11"
+    },
+    {
+      "title": "IGNITION",
+      "first_seen_page_index": 11,
+      "source_trace": "NCERT Class 8 Science, Chapter 4, extracted page 11"
+    },
+    {
+      "title": "TEMPERATURE",
+      "first_seen_page_index": 11,
+      "source_trace": "NCERT Class 8 Science, Chapter 4, extracted page 11"
+    },
+    {
+      "title": "INFLAMMABLE",
+      "first_seen_page_index": 11,
+      "source_trace": "NCERT Class 8 Science, Chapter 4, extracted page 11"
+    },
+    {
+      "title": "SUBSTANCES",
+      "first_seen_page_index": 11,
+      "source_trace": "NCERT Class 8 Science, Chapter 4, extracted page 11"
+    },
+    {
+      "title": "COMBUSTION AND FLAME 51",
+      "first_seen_page_index": 12,
+      "source_trace": "NCERT Class 8 Science, Chapter 4, extracted page 12"
+    },
+    {
+      "title": "SCIENCE 52",
+      "first_seen_page_index": 13,
+      "source_trace": "NCERT Class 8 Science, Chapter 4, extracted page 13"
+    }
+  ],
+  "production_status": "concept_candidates_ready_for_human_decode"
+}

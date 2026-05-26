@@ -1,0 +1,68 @@
+{
+  "key": "gs1_geo_class7_our_environment_ch04_air",
+  "title": "Air",
+  "source": {
+    "book": "NCERT Class 7 Our Environment",
+    "chapter": 4,
+    "chapter_title": "Air",
+    "pdf_url": "https://ncert.nic.in/textbook.php?gess2=0-9",
+    "page_range": "pending source extraction"
+  },
+  "resolved_pdf_url": "https://ncert.nic.in/textbook/pdf/gess204.pdf",
+  "sha256": "7a63608df976542a533338281566b3b66821eb642e6c97f2be380ac654071403",
+  "extraction": {
+    "raw_text_path": "data/study/textbook-first/raw-text/gs1_geo_class7_our_environment_ch04_air.txt",
+    "extracted_characters": 16296,
+    "page_count": 10,
+    "paragraph_count_estimate": 0,
+    "title_match_score": 0
+  },
+  "concept_candidates": [
+    {
+      "title": "COMPOSITION OF THE ATMOSPHERE",
+      "first_seen_page_index": 1,
+      "source_trace": "NCERT Class 7 Our Environment, Chapter 4, extracted page 1"
+    },
+    {
+      "title": "22 OUR ENVIRONMENT",
+      "first_seen_page_index": 3,
+      "source_trace": "NCERT Class 7 Our Environment, Chapter 4, extracted page 3"
+    },
+    {
+      "title": "STRUCTURE OF THE ATMOSPHERE",
+      "first_seen_page_index": 3,
+      "source_trace": "NCERT Class 7 Our Environment, Chapter 4, extracted page 3"
+    },
+    {
+      "title": "WEATHER AND CLIMATE",
+      "first_seen_page_index": 4,
+      "source_trace": "NCERT Class 7 Our Environment, Chapter 4, extracted page 4"
+    },
+    {
+      "title": "24 OUR ENVIRONMENT",
+      "first_seen_page_index": 5,
+      "source_trace": "NCERT Class 7 Our Environment, Chapter 4, extracted page 5"
+    },
+    {
+      "title": "CYCLONE – NATURE’S FURY",
+      "first_seen_page_index": 6,
+      "source_trace": "NCERT Class 7 Our Environment, Chapter 4, extracted page 6"
+    },
+    {
+      "title": "29 October 1999, that",
+      "first_seen_page_index": 6,
+      "source_trace": "NCERT Class 7 Our Environment, Chapter 4, extracted page 6"
+    },
+    {
+      "title": "26 OUR ENVIRONMENT",
+      "first_seen_page_index": 7,
+      "source_trace": "NCERT Class 7 Our Environment, Chapter 4, extracted page 7"
+    },
+    {
+      "title": "28 OUR ENVIRONMENT",
+      "first_seen_page_index": 9,
+      "source_trace": "NCERT Class 7 Our Environment, Chapter 4, extracted page 9"
+    }
+  ],
+  "production_status": "concept_candidates_ready_for_human_decode"
+}

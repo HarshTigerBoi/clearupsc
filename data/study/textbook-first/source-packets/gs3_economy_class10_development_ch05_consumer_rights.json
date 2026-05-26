@@ -1,0 +1,223 @@
+{
+  "key": "gs3_economy_class10_development_ch05_consumer_rights",
+  "title": "Consumer Rights",
+  "source": {
+    "book": "NCERT Class 10 Understanding Economic Development",
+    "chapter": 5,
+    "chapter_title": "Consumer Rights",
+    "pdf_url": "https://ncert.nic.in/textbook.php?jess2=0-5",
+    "page_range": "pending source extraction"
+  },
+  "resolved_pdf_url": "https://ncert.nic.in/textbook/pdf/jess205.pdf",
+  "sha256": "d1c546bbf35a4133ff1d3837f719335e33858166353e07e2345cf840585971fe",
+  "extraction": {
+    "raw_text_path": "data/study/textbook-first/raw-text/gs3_economy_class10_development_ch05_consumer_rights.txt",
+    "extracted_characters": 42880,
+    "page_count": 19,
+    "paragraph_count_estimate": 8,
+    "title_match_score": 1
+  },
+  "concept_candidates": [
+    {
+      "title": "NOTES FOR THE TEACHER",
+      "first_seen_page_index": 1,
+      "source_trace": "NCERT Class 10 Understanding Economic Development, Chapter 5, extracted page 1"
+    },
+    {
+      "title": "CHAPTER 5 : CONSUMER RIGHTS",
+      "first_seen_page_index": 1,
+      "source_trace": "NCERT Class 10 Understanding Economic Development, Chapter 5, extracted page 1"
+    },
+    {
+      "title": "CONSUMER RIGHTS CONSUMER RIGHTS CONSUMER RIGHTS CONSUMER RIGHTS CONSUMER RIGHTS",
+      "first_seen_page_index": 2,
+      "source_trace": "NCERT Class 10 Understanding Economic Development, Chapter 5, extracted page 2"
+    },
+    {
+      "title": "CHAPTER 5",
+      "first_seen_page_index": 2,
+      "source_trace": "NCERT Class 10 Understanding Economic Development, Chapter 5, extracted page 2"
+    },
+    {
+      "title": "THE CONSUMER IN THE MARKETPLACE",
+      "first_seen_page_index": 3,
+      "source_trace": "NCERT Class 10 Understanding Economic Development, Chapter 5, extracted page 3"
+    },
+    {
+      "title": "THEY PURPOSELY MADE IT",
+      "first_seen_page_index": 3,
+      "source_trace": "NCERT Class 10 Understanding Economic Development, Chapter 5, extracted page 3"
+    },
+    {
+      "title": "SO IT WOULD FALL APART",
+      "first_seen_page_index": 3,
+      "source_trace": "NCERT Class 10 Understanding Economic Development, Chapter 5, extracted page 3"
+    },
+    {
+      "title": "AFTER A FEW MONTHS SO",
+      "first_seen_page_index": 3,
+      "source_trace": "NCERT Class 10 Understanding Economic Development, Chapter 5, extracted page 3"
+    },
+    {
+      "title": "THAT I WILL BUY A NEW ONE!",
+      "first_seen_page_index": 3,
+      "source_trace": "NCERT Class 10 Understanding Economic Development, Chapter 5, extracted page 3"
+    },
+    {
+      "title": "LET’S WORK THESE OUT",
+      "first_seen_page_index": 4,
+      "source_trace": "NCERT Class 10 Understanding Economic Development, Chapter 5, extracted page 4"
+    },
+    {
+      "title": "CONSUMER MOVEMENT",
+      "first_seen_page_index": 4,
+      "source_trace": "NCERT Class 10 Understanding Economic Development, Chapter 5, extracted page 4"
+    },
+    {
+      "title": "EVERYONE KNOWS",
+      "first_seen_page_index": 4,
+      "source_trace": "NCERT Class 10 Understanding Economic Development, Chapter 5, extracted page 4"
+    },
+    {
+      "title": "TOBACCO KILLS PEOPLE,",
+      "first_seen_page_index": 4,
+      "source_trace": "NCERT Class 10 Understanding Economic Development, Chapter 5, extracted page 4"
+    },
+    {
+      "title": "BUT WHO CAN SAY THAT",
+      "first_seen_page_index": 4,
+      "source_trace": "NCERT Class 10 Understanding Economic Development, Chapter 5, extracted page 4"
+    },
+    {
+      "title": "TOBACCO COMPANIES",
+      "first_seen_page_index": 4,
+      "source_trace": "NCERT Class 10 Understanding Economic Development, Chapter 5, extracted page 4"
+    },
+    {
+      "title": "SHOULD NOT BE FREE",
+      "first_seen_page_index": 4,
+      "source_trace": "NCERT Class 10 Understanding Economic Development, Chapter 5, extracted page 4"
+    },
+    {
+      "title": "TO SELL TOBACCO?",
+      "first_seen_page_index": 4,
+      "source_trace": "NCERT Class 10 Understanding Economic Development, Chapter 5, extracted page 4"
+    },
+    {
+      "title": "SAFETY IS EVERYONE’S RIGHT",
+      "first_seen_page_index": 6,
+      "source_trace": "NCERT Class 10 Understanding Economic Development, Chapter 5, extracted page 6"
+    },
+    {
+      "title": "CONSUMER RIGHTS",
+      "first_seen_page_index": 6,
+      "source_trace": "NCERT Class 10 Understanding Economic Development, Chapter 5, extracted page 6"
+    },
+    {
+      "title": "LET’S WORK THIS OUT",
+      "first_seen_page_index": 9,
+      "source_trace": "NCERT Class 10 Understanding Economic Development, Chapter 5, extracted page 9"
+    },
+    {
+      "title": "1. PRAKASH GOES TO THE POST OFFICE TO",
+      "first_seen_page_index": 9,
+      "source_trace": "NCERT Class 10 Understanding Economic Development, Chapter 5, extracted page 9"
+    },
+    {
+      "title": "SEND MONEY ORDER TO HIS DAUGHTER 2. PRAKASH COMES TO KNOW THAT THE",
+      "first_seen_page_index": 9,
+      "source_trace": "NCERT Class 10 Understanding Economic Development, Chapter 5, extracted page 9"
+    },
+    {
+      "title": "MONEY HAS NOT REACHED HIS DAUGHTER",
+      "first_seen_page_index": 9,
+      "source_trace": "NCERT Class 10 Understanding Economic Development, Chapter 5, extracted page 9"
+    },
+    {
+      "title": "3. PRAKASH ENQUIRES ABOUT THE",
+      "first_seen_page_index": 10,
+      "source_trace": "NCERT Class 10 Understanding Economic Development, Chapter 5, extracted page 10"
+    },
+    {
+      "title": "MONEY ORDER IN THE POST OFFICE 4. THE POST OFFICE DOES NOT RESPOND",
+      "first_seen_page_index": 10,
+      "source_trace": "NCERT Class 10 Understanding Economic Development, Chapter 5, extracted page 10"
+    },
+    {
+      "title": "TO THE QUERY SATISFACTORILY",
+      "first_seen_page_index": 10,
+      "source_trace": "NCERT Class 10 Understanding Economic Development, Chapter 5, extracted page 10"
+    },
+    {
+      "title": "5. PRAKASH GOES TO THE LOCAL CONSUMER",
+      "first_seen_page_index": 10,
+      "source_trace": "NCERT Class 10 Understanding Economic Development, Chapter 5, extracted page 10"
+    },
+    {
+      "title": "PROTECTION COUNCIL FOR ADVICE",
+      "first_seen_page_index": 10,
+      "source_trace": "NCERT Class 10 Understanding Economic Development, Chapter 5, extracted page 10"
+    },
+    {
+      "title": "7. HE HIMSELF PLEADS",
+      "first_seen_page_index": 10,
+      "source_trace": "NCERT Class 10 Understanding Economic Development, Chapter 5, extracted page 10"
+    },
+    {
+      "title": "THE CASE IN",
+      "first_seen_page_index": 10,
+      "source_trace": "NCERT Class 10 Understanding Economic Development, Chapter 5, extracted page 10"
+    },
+    {
+      "title": "THE COMMISSION",
+      "first_seen_page_index": 10,
+      "source_trace": "NCERT Class 10 Understanding Economic Development, Chapter 5, extracted page 10"
+    },
+    {
+      "title": "OFFICE 9. THE JUDGE ANNOUNCES",
+      "first_seen_page_index": 10,
+      "source_trace": "NCERT Class 10 Understanding Economic Development, Chapter 5, extracted page 10"
+    },
+    {
+      "title": "THE DISPUTES REDRESSAL",
+      "first_seen_page_index": 10,
+      "source_trace": "NCERT Class 10 Understanding Economic Development, Chapter 5, extracted page 10"
+    },
+    {
+      "title": "COMMISSION VERDICT.",
+      "first_seen_page_index": 10,
+      "source_trace": "NCERT Class 10 Understanding Economic Development, Chapter 5, extracted page 10"
+    },
+    {
+      "title": "8. THE COMMISSION OFFICE JUDGE VERIFIES THE",
+      "first_seen_page_index": 10,
+      "source_trace": "NCERT Class 10 Understanding Economic Development, Chapter 5, extracted page 10"
+    },
+    {
+      "title": "DOCUMENTS AND HEARS THE ARGUMENTS OF BOTH",
+      "first_seen_page_index": 10,
+      "source_trace": "NCERT Class 10 Understanding Economic Development, Chapter 5, extracted page 10"
+    },
+    {
+      "title": "THE AGGRIEVED PARTY AND THE OTHER PARTY",
+      "first_seen_page_index": 10,
+      "source_trace": "NCERT Class 10 Understanding Economic Development, Chapter 5, extracted page 10"
+    },
+    {
+      "title": "6. PRAKASH GOES TO A CONSUMER DISPUTES",
+      "first_seen_page_index": 10,
+      "source_trace": "NCERT Class 10 Understanding Economic Development, Chapter 5, extracted page 10"
+    },
+    {
+      "title": "REDRESSAL COMMISSION TO FILE A CASE. HE",
+      "first_seen_page_index": 10,
+      "source_trace": "NCERT Class 10 Understanding Economic Development, Chapter 5, extracted page 10"
+    },
+    {
+      "title": "FILLS A REGISTRATION FORM. THE COMMISSION",
+      "first_seen_page_index": 10,
+      "source_trace": "NCERT Class 10 Understanding Economic Development, Chapter 5, extracted page 10"
+    }
+  ],
+  "production_status": "concept_candidates_ready_for_human_decode"
+}

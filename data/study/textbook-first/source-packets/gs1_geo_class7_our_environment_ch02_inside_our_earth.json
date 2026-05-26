@@ -1,0 +1,53 @@
+{
+  "key": "gs1_geo_class7_our_environment_ch02_inside_our_earth",
+  "title": "Inside Our Earth",
+  "source": {
+    "book": "NCERT Class 7 Our Environment",
+    "chapter": 2,
+    "chapter_title": "Inside Our Earth",
+    "pdf_url": "https://ncert.nic.in/textbook.php?gess2=0-9",
+    "page_range": "pending source extraction"
+  },
+  "resolved_pdf_url": "https://ncert.nic.in/textbook/pdf/gess202.pdf",
+  "sha256": "cac176f4996ae79fb5d3df619524d24bc3a675368d62a13f6351f9c70ea699e8",
+  "extraction": {
+    "raw_text_path": "data/study/textbook-first/raw-text/gs1_geo_class7_our_environment_ch02_inside_our_earth.txt",
+    "extracted_characters": 7299,
+    "page_count": 5,
+    "paragraph_count_estimate": 0,
+    "title_match_score": 1
+  },
+  "concept_candidates": [
+    {
+      "title": "INTERIOR OF THE EARTH",
+      "first_seen_page_index": 1,
+      "source_trace": "NCERT Class 7 Our Environment, Chapter 2, extracted page 1"
+    },
+    {
+      "title": "8 OUR ENVIRONMENT",
+      "first_seen_page_index": 2,
+      "source_trace": "NCERT Class 7 Our Environment, Chapter 2, extracted page 2"
+    },
+    {
+      "title": "ROCKS AND MINERALS",
+      "first_seen_page_index": 2,
+      "source_trace": "NCERT Class 7 Our Environment, Chapter 2, extracted page 2"
+    },
+    {
+      "title": "INSIDE OUR EARTH 9",
+      "first_seen_page_index": 3,
+      "source_trace": "NCERT Class 7 Our Environment, Chapter 2, extracted page 3"
+    },
+    {
+      "title": "10 OUR ENVIRONMENT",
+      "first_seen_page_index": 4,
+      "source_trace": "NCERT Class 7 Our Environment, Chapter 2, extracted page 4"
+    },
+    {
+      "title": "INSIDE OUR EARTH 11",
+      "first_seen_page_index": 5,
+      "source_trace": "NCERT Class 7 Our Environment, Chapter 2, extracted page 5"
+    }
+  ],
+  "production_status": "concept_candidates_ready_for_human_decode"
+}

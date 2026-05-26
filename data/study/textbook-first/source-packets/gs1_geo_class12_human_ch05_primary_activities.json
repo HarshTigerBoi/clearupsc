@@ -1,0 +1,28 @@
+{
+  "key": "gs1_geo_class12_human_ch05_primary_activities",
+  "title": "Primary Activities",
+  "source": {
+    "book": "NCERT Class 12 Fundamentals of Human Geography",
+    "chapter": 5,
+    "chapter_title": "Primary Activities",
+    "pdf_url": "https://ncert.nic.in/textbook.php?legy1=0-9",
+    "page_range": "pending source extraction"
+  },
+  "resolved_pdf_url": "https://ncert.nic.in/textbook/pdf/legy105.pdf",
+  "sha256": "c6335f23fa1ff55552829ceda73586d277347b7e189978115152b04be2faa4b0",
+  "extraction": {
+    "raw_text_path": "data/study/textbook-first/raw-text/gs1_geo_class12_human_ch05_primary_activities.txt",
+    "extracted_characters": 20048,
+    "page_count": 9,
+    "paragraph_count_estimate": 5,
+    "title_match_score": 1
+  },
+  "concept_candidates": [
+    {
+      "title": "MANUF MANUF MANUF MANUF MANUFA A A A ACTURING CTURING CTURING CTURING CTURING",
+      "first_seen_page_index": 1,
+      "source_trace": "NCERT Class 12 Fundamentals of Human Geography, Chapter 5, extracted page 1"
+    }
+  ],
+  "production_status": "concept_candidates_ready_for_human_decode"
+}

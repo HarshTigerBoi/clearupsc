@@ -1,0 +1,224 @@
+{
+  "analogy": "Think of \"Electric Charges and Fields\" through the chapter's own opening images: Chapter One ELECTRIC CHARGES AND FIELDS 1.1 INTRODUCTION All of us have the experience of seeing a spark or hearing a crackle when we take off our synthetic clothes or sweater, particularly in dry weather. Have you ever tried to find any explanation for this... The easy idea is that the visible surface is only the outside cover. The chapter keeps asking how we can know what is inside when no one can directly reach the deep interior. So the learner must read clues: rocks, mines, drilling, volcanic material, heat, gravity, magnetism and earthquake waves. Like solving a hidden-layer puzzle, each clue tells something about the crust, mantle, core and volcanic activity without inventing anything beyond the textbook.",
+  "full_notes": "Electric Charges and Fields is decoded here only from the NCERT chapter text. The chapter begins by asking how the nature of the earth should be imagined and why the interior cannot be known in the same direct way as the surface. It connects the hidden interior with visible results on the surface, especially landscape development, earthquakes, tsunamis and volcanic activity.\n\nThe text explains that chapter One ELECTRIC CHARGES AND FIELDS 1.1 INTRODUCTION All of us have the experience of seeing a spark or hearing a crackle when we take off our synthetic clothes or sweater, particularly in dry weather.\n\nThe text explains that have you ever tried to find any explanation for this phenomenon?\n\nThe text explains that another common example of electric discharge is the lightning that we see in the sky during thunderstorms.\n\nThe text explains that we also experience a sensation of an electric shock either while opening the door of a car or holding the iron bar of a bus after sliding from our seat.\n\nThe text explains that the reason for these experiences is discharge of electric charges through our body, which were accumulated due to rubbing of insulating surfaces.\n\nThe text explains that you might have also heard that this is due to generation of static electricity.\n\nThe text explains that this is precisely the topic we are going to discuss in this and the next chapter.\n\nThe text explains that static means anything that does not move or change with time.\n\nThe text explains that electrostatics deals with the study of forces, fields and potentials arising from static charges.\n\nThe text explains that 1.2 ELECTRIC CHARGE Historically the credit of discovery of the fact that amber rubbed with wool or silk cloth attracts light objects goes to Thales of Miletus, Greece, around 600 BC.\n\nThe text explains that the name electricity is coined from the Greek word\n\nThe text explains that many such pairs of materials were known which on rubbing could attract light objects like straw, pith balls and bits of papers.\n\nThe text explains that it was observed that if two glass rods rubbed with wool or silk cloth are brought close to each other, they repel each other [Fig.\n\nThe text explains that the two strands of wool or two pieces of silk cloth, with which the rods were rubbed, also repel each other.\n\nThe text explains that however, the glass rod and wool attracted each other.\n\nThe text explains that similarly, two plastic rods rubbed with cat’s fur repelled each other [Fig.\n\nThe text explains that charge has magnitude but no direction, similar to mass.\n\nThe text explains that coulomb measured the force between two point charges and found that it varied inversely as the square of the distance between the charges and was directly proportional to the product of the magnitude of the two charges and\n\nThe text explains that the direction of a vector is specified by a unit vector along the vector.\n\nThe text explains that to denote the direction from 1 to 2 (or from 2 to 1), we define the unit vectors: ɵ 21 21 21 = r r r , ɵ ɵ ɵ = = − 12 12 21 12 12 , r r r r r Coulomb’s force law between two point charges q1 and q2 located at r1 and r2, respectively is then expressed as ɵ ε = π 1 2 21 21 2 21 1 4 o q q r F r (1.3) Some remarks on Eq.\n\nThe text explains that suppose that the resultant force was non-zero but in some direction.\n\nThe text explains that 14 Physics EXAMPLE 1.6 Similarly the total force on charge –q at C is F3 = 3 F ˆn , where ˆn is the unit vector along the direction bisecting the ÐBCA.\n\nThe text explains that the charge Q, which is producing the electric field, is called a source charge and the charge q, which tests the effect of a source charge, is called a test charge.\n\nThe text explains that note that the source charge Q must remain at its original location.\n\nThe text explains that (iii) For a positive charge, the electric field will be directed radially outwards from the charge.\n\nThe text explains that on the other hand, if the source charge is negative, the electric field vector, at each point, points radially inwards.\n\nThe text explains that 16 Physics Electric field E1 at r due to q1 at r1 is given by E1 = 1 4 0 1 1 2 π ε q r P 1P ˆr where 1P ˆr is a unit vector in the direction from q1 to P, and r1P is the distance between q1 and P.\n\nThe text explains that in the same manner, electric field E2 at r due to q2 at r2 is E2 = 1 4 0 2 2 2 π ε q r P 2P ˆr where 2P ˆr is a unit vector in the direction from q2 to P and r2P is the distance between q2 and P.\n\nThe text explains that 1.9) E(r) = E1 (r) + E2 (r) + … + En(r) = 1 4 1 4 1 4 0 1 1 2 1 0 2 2 2 2 0 2 π π π ε ε ε q r q r q r n n n P P P P P P ˆ ˆ ... ˆ r r r + + + E(r) = = ∑ 1 4 0 P i P π ε q r i i i n 2 1 ˆr (1.10) E is a vector quantity that varies from one point to another point in space and is determined from the positions of the source charges.\n\nThe text explains that after all, for any system of charges, the measurable quantity is the force on a charge which can be directly determined using Coulomb’s law and the superposition principle [Eq.\n\nThe text explains that the field picture is this: the accelerated motion of charge q1 produces electromagnetic waves, which then propagate with the speed c, reach q2 and cause a force on q2.\n\nThe text explains that thus, a source of time- dependent electromagnetic fields, turned on for a short interval of time and then switched off, leaves behind propagating electromagnetic fields transporting energy.\n\nThe text explains that the direction of the field is reversed keeping its magnitude unchanged and a proton falls through the same distance [Fig.\n\nThe text explains that hence the magnitude of the total electric field EA at A is EA = E1A + E2A = 7.2 × 104 N C–1 EA is directed toward the right.\n\nThe text explains that electric Charges and Fields 19 The electric field vector E1B at B due to the positive charge q1 points towards the left and has a magnitude 9 2 –2 8 1B 2 (9 10 Nm C ) (10 C) (0.05 m) E − × × = = 3.6 × 104 N C–1 The electric field vector E2B at B due to the negative charge q2 points towards the right and has a magnitude 9 2 –2 8 2B 2 (9 10 Nm C ) (10 C) (0.15 m) E − × × = = 4 × 103 N C–1 The magnitude of the total electric field at B is EB = E1B – E2B = 3.2 × 104 N C–1 EB is directed towards the left.\n\nThe text explains that the magnitude of each electric field vector at point C, due to charge q1 and q2 is 9 2 –2 8 1C 2C 2 (9 10 Nm C ) (10 C) (0.10 m) E E − × × = = = 9 × 103 N C–1 The directions in which these two vectors point are indicated in Fig.\n\nThe text explains that draw vectors pointing along the direction of the electric field with their lengths proportional to the strength of the field at each point.\n\nThe text explains that connect the arrows pointing in one direction and the resulting figure represents a field line.\n\nThe text explains that now the magnitude of the field is represented by the density of field lines.\n\nThe text explains that e is strong near the charge, so the density of field lines is more near the charge and the lines are closer.\n\nThe text explains that away from the charge, the field gets weaker and the density of field lines is less, resulting in well-separated lines.\n\nThe text explains that 20 Physics It is the relative density of lines in different regions which is important.\n\nThe text explains that so if one wishes to estimate the density of field lines, one has to consider the number of lines per unit cross-sectional area, perpendicular to the lines.\n\nThe text explains that we started by saying that the field lines carry information about the direction of electric field at different points in space.\n\nThe text explains that having drawn a certain set of field lines, the relative density (i.e., closeness) of the field lines at different points indicates the relative strength of electric field at those points.\n\nThe text explains that electric Charges and Fields 21 a curve drawn in such a way that the tangent to it at each point is in the direction of the net field at that point.\n\nThe text explains that an arrow on the curve is obviously necessary to specify the direction of electric field from the two possible directions indicated by a tangent to the curve.\n\nThe text explains that (If they did, the field at the point of intersection will not have a unique direction, which is absurd.) (iv) Electrostatic field lines do not form any closed loops.\n\nThe text explains that 1.9 ELECTRIC FLUX Consider flow of a liquid with velocity v, through a small flat surface dS, in a direction normal to the surface.\n\nThe text explains that if the normal to the surface is not parallel to the direction of flow of liquid, i.e., to v, but makes an angle q with it, the projected area in a plane perpendicular to v is δ dS cos q.\n\nThe text explains that how to specify the direction of a planar area?\n\nThe text explains that thus the direction of a planar area vector is along its normal.\n\nSource: NCERT Class 12 Physics, Chapter 1: Electric Charges and Fields",
+  "concise_notes": [
+    {
+      "term": "ELECTRIC CHARGES",
+      "definition": "Chapter One ELECTRIC CHARGES AND FIELDS 1.1 INTRODUCTION All of us have the experience of seeing a spark or hearing a crackle when we take off our synthetic...",
+      "source_trace": "NCERT Class 12 Physics Ch1 pg 1"
+    },
+    {
+      "term": "AND FIELDS",
+      "definition": "Chapter One ELECTRIC CHARGES AND FIELDS 1.1 INTRODUCTION All of us have the experience of seeing a spark or hearing a crackle when we take off our synthetic...",
+      "source_trace": "NCERT Class 12 Physics Ch1 pg 1"
+    },
+    {
+      "term": "1.1 INTRODUCTION",
+      "definition": "Chapter One ELECTRIC CHARGES AND FIELDS 1.1 INTRODUCTION All of us have the experience of seeing a spark or hearing a crackle when we take off our synthetic...",
+      "source_trace": "NCERT Class 12 Physics Ch1 pg 1"
+    },
+    {
+      "term": "1.2 ELECTRIC CHARGE",
+      "definition": "Chapter One ELECTRIC CHARGES AND FIELDS 1.1 INTRODUCTION All of us have the experience of seeing a spark or hearing a crackle when we take off our synthetic...",
+      "source_trace": "NCERT Class 12 Physics Ch1 pg 1"
+    },
+    {
+      "term": "1.3 CONDUCTORS AND INSULATORS",
+      "definition": "1.3 CONDUCTORS AND INSULATORS Some substances readily allow passage of electricity through them, others do not.",
+      "source_trace": "NCERT Class 12 Physics Ch1 pg 2"
+    },
+    {
+      "term": "1.4 BASIC PROPERTIES OF ELECTRIC",
+      "definition": "Forces that hold the molecules together, forces that hold atoms together in a solid, the adhesive force of glue, forces associated with surface tension, all are basically electrical...",
+      "source_trace": "NCERT Class 12 Physics Ch1 pg 2"
+    },
+    {
+      "term": "CHARGE",
+      "definition": "Chapter One ELECTRIC CHARGES AND FIELDS 1.1 INTRODUCTION All of us have the experience of seeing a spark or hearing a crackle when we take off our synthetic...",
+      "source_trace": "NCERT Class 12 Physics Ch1 pg 1"
+    },
+    {
+      "term": "1.4.1 Additivity of charges",
+      "definition": "1.4.1 Additivity of charges We have not as yet given a quantitative definition of a charge; we shall follow it up in the next section.",
+      "source_trace": "NCERT Class 12 Physics Ch1 pg 3"
+    },
+    {
+      "term": "1.4.2 Charge is conserved",
+      "definition": "1.4.2 Charge is conserved We have already hinted to the fact that when bodies are charged by rubbing, there is transfer of electrons from one body to the...",
+      "source_trace": "NCERT Class 12 Physics Ch1 pg 3"
+    },
+    {
+      "term": "1.4.3 Quantisation of charge",
+      "definition": "1.4.3 Quantisation of charge Experimentally it is established that all free charges are integral multiples of a basic unit of charge denoted by e.",
+      "source_trace": "NCERT Class 12 Physics Ch1 pg 4"
+    }
+  ],
+  "revision_bullets": [
+    "Chapter One ELECTRIC CHARGES AND FIELDS 1.1 INTRODUCTION All of us have the experience of seeing a spark or hearing a crackle when we take off... (NCERT Class 12 Physics Ch1 pg 1)",
+    "Have you ever tried to find any explanation for this phenomenon? (NCERT Class 12 Physics Ch1 pg 1)",
+    "Another common example of electric discharge is the lightning that we see in the sky during thunderstorms. (NCERT Class 12 Physics Ch1 pg 1)",
+    "We also experience a sensation of an electric shock either while opening the door of a car or holding the iron bar of a bus after... (NCERT Class 12 Physics Ch1 pg 1)",
+    "The reason for these experiences is discharge of electric charges through our body, which were accumulated due to rubbing of insulating surfaces. (NCERT Class 12 Physics Ch1 pg 1)",
+    "You might have also heard that this is due to generation of static electricity. (NCERT Class 12 Physics Ch1 pg 1)",
+    "This is precisely the topic we are going to discuss in this and the next chapter. (NCERT Class 12 Physics Ch1 pg 1)",
+    "Static means anything that does not move or change with time. (NCERT Class 12 Physics Ch1 pg 1)",
+    "Electrostatics deals with the study of forces, fields and potentials arising from static charges. (NCERT Class 12 Physics Ch1 pg 1)",
+    "1.2 ELECTRIC CHARGE Historically the credit of discovery of the fact that amber rubbed with wool or silk cloth attracts light objects goes to Thales of... (NCERT Class 12 Physics Ch1 pg 1)"
+  ],
+  "cases": [
+    {
+      "name": "Chapter One ELECTRIC CHARGES AND",
+      "point": "Chapter One ELECTRIC CHARGES AND FIELDS 1.1 INTRODUCTION All of us have the experience of seeing a spark or hearing a crackle when we take off... (NCERT Class 12 Physics Ch1 pg 1)"
+    },
+    {
+      "name": "Therefore",
+      "point": "Therefore, the charges were named as positive and negative by the American scientist Benjamin Franklin. (NCERT Class 12 Physics Ch1 pg 1)"
+    },
+    {
+      "name": "Electric Charges",
+      "point": "Electric Charges and Fields 3 A simple apparatus to detect charge on a body is the gold-leaf electroscope [Fig. (NCERT Class 12 Physics Ch1 pg 2)"
+    },
+    {
+      "name": "In",
+      "point": "In the International System (SI) of Units, a unit of charge is called a coulomb and is denoted by the symbol C. (NCERT Class 12 Physics Ch1 pg 4)"
+    },
+    {
+      "name": "In",
+      "point": "In terms of this definition, one coulomb is the charge flowing through a wire in 1 s if the current is 1 A (ampere), (see Chapter... (NCERT Class 12 Physics Ch1 pg 4)"
+    }
+  ],
+  "schemes": [
+    {
+      "name": "If",
+      "point": "If there is nothing at the point P, then how does a force act when we place the charge q at P. (NCERT Class 12 Physics Ch1 pg 13)"
+    },
+    {
+      "name": "However",
+      "point": "However, the charges are separated, so the forces act at different points, resulting in a torque on the dipole. (NCERT Class 12 Physics Ch1 pg 26)"
+    }
+  ],
+  "ncert_coverage": [
+    "NCERT Class 12 Physics Chapter 1: Electric Charges and Fields"
+  ],
+  "prelims_traps": [
+    "Do not treat ELECTRIC CHARGES and AND FIELDS as identical unless the source text links them directly.",
+    "Do not add outside examples to Electric Charges and Fields; use only the examples and processes named in the chapter.",
+    "Do not confuse a visible surface result with the internal process or source evidence described by the text."
+  ],
+  "mains_angles": [
+    "Explain Electric Charges and Fields through the source chain: evidence, process and visible result.",
+    "Use ELECTRIC CHARGES and AND FIELDS to show how the chapter connects facts with mechanisms.",
+    "Frame an answer around causes, internal working, surface expression and source limitations from the NCERT chapter."
+  ],
+  "mcqs": [
+    {
+      "question_text": "In the NCERT discussion of Electric Charges and Fields, which statement is supported by the source text about ELECTRIC CHARGES?",
+      "options": [
+        "Chapter One ELECTRIC CHARGES AND FIELDS 1.1 INTRODUCTION All of us have the experience of seeing a spark or hearing a crackle when we...",
+        "Have you ever tried to find any explanation for this phenomenon?",
+        "Another common example of electric discharge is the lightning that we see in the sky during thunderstorms.",
+        "We also experience a sensation of an electric shock either while opening the door of a car or holding the iron bar of a..."
+      ],
+      "correct_answer": 0,
+      "pattern": "statement",
+      "source_trace": "NCERT Class 12 Physics Ch1 pg 1",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 3,
+      "concepts_tested": [
+        "ELECTRIC CHARGES"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Electric Charges and Fields, which statement is supported by the source text about AND FIELDS?",
+      "options": [
+        "The reason for these experiences is discharge of electric charges through our body, which were accumulated due to rubbing of insulating surfaces.",
+        "You might have also heard that this is due to generation of static electricity.",
+        "This is precisely the topic we are going to discuss in this and the next chapter.",
+        "Static means anything that does not move or change with time."
+      ],
+      "correct_answer": 0,
+      "pattern": "statement",
+      "source_trace": "NCERT Class 12 Physics Ch1 pg 1",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 3,
+      "concepts_tested": [
+        "AND FIELDS"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Electric Charges and Fields, which statement is supported by the source text about 1.1 INTRODUCTION?",
+      "options": [
+        "Electrostatics deals with the study of forces, fields and potentials arising from static charges.",
+        "1.2 ELECTRIC CHARGE Historically the credit of discovery of the fact that amber rubbed with wool or silk cloth attracts light objects goes to...",
+        "Many such pairs of materials were known which on rubbing could attract light objects like straw, pith balls and bits of papers.",
+        "It was observed that if two glass rods rubbed with wool or silk cloth are brought close to each other, they repel each other..."
+      ],
+      "correct_answer": 0,
+      "pattern": "not_type",
+      "source_trace": "NCERT Class 12 Physics Ch1 pg 1",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 3,
+      "concepts_tested": [
+        "1.1 INTRODUCTION"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Electric Charges and Fields, which statement is supported by the source text about 1.2 ELECTRIC CHARGE?",
+      "options": [
+        "The two strands of wool or two pieces of silk cloth, with which the rods were rubbed, also repel each other.",
+        "Similarly, two plastic rods rubbed with cat’s fur repelled each other [Fig.",
+        "On the other hand, the plastic rod attracts the glass rod [Fig.",
+        "1.1(c)] and repel the silk or wool with which the glass rod is rubbed."
+      ],
+      "correct_answer": 0,
+      "pattern": "statement",
+      "source_trace": "NCERT Class 12 Physics Ch1 pg 1",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 3,
+      "concepts_tested": [
+        "1.2 ELECTRIC CHARGE"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Electric Charges and Fields, which statement is supported by the source text about 1.3 CONDUCTORS AND INSULATORS?",
+      "options": [
+        "These seemingly simple facts were established from years of efforts and careful experiments and their analyses.",
+        "It was concluded, after many careful studies by different scientists, that there were only two kinds of an entry which is called the electric...",
+        "We say that the bodies like glass or plastic rods, silk, fur and pith balls are electrified.",
+        "There are two kinds of electrification and we find that (i) like charges repel and (ii) unlike charges attract each other."
+      ],
+      "correct_answer": 0,
+      "pattern": "statement",
+      "source_trace": "NCERT Class 12 Physics Ch1 pg 1",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 3,
+      "concepts_tested": [
+        "1.3 CONDUCTORS AND INSULATORS"
+      ]
+    }
+  ],
+  "source_audit": {
+    "source_only": true,
+    "uncertain_or_omitted": [],
+    "generation_method": "local_source_only_extractive_decode"
+  },
+  "content_model": "clearupsc_textbook_decoded_from_source_v1",
+  "decode_status": "textbook_decoded",
+  "source": {
+    "book": "NCERT Class 12 Physics",
+    "chapter": 1,
+    "chapter_title": "Electric Charges and Fields",
+    "pdf_url": "https://ncert.nic.in/textbook.php?leph1=0-14",
+    "page_range": "pending source extraction"
+  },
+  "resolved_pdf_url": "https://ncert.nic.in/textbook/pdf/leph101.pdf",
+  "source_trace": "NCERT Class 12 Physics | Chapter 1: Electric Charges and Fields | https://ncert.nic.in/textbook/pdf/leph101.pdf | sha256:ebfbdf8057d7e855385b1720c1771a89d807cb45f5f3b7b79d530f1e8880209f",
+  "raw_text_path": "data/study/textbook-first/raw-text/gs3_sci_class12_physics_ch01_electric_charges_and_fields.txt",
+  "generated_by": "local_source_only_extractive_decode",
+  "generated_at": "2026-05-26T19:40:03.625Z"
+}

@@ -1,0 +1,78 @@
+{
+  "key": "gs2_polity_class11_constitution_ch10_the_philosophy_of_the_constitution",
+  "title": "The Philosophy of the Constitution",
+  "source": {
+    "book": "NCERT Class 11 Indian Constitution at Work",
+    "chapter": 10,
+    "chapter_title": "The Philosophy of the Constitution",
+    "pdf_url": "https://ncert.nic.in/textbook.php?keps2=0-10",
+    "page_range": "pending source extraction"
+  },
+  "resolved_pdf_url": "https://ncert.nic.in/textbook/pdf/keps210.pdf",
+  "sha256": "f2034da1647672de785b439ed02c561a2243092cce74fc3e8a0634812473ff3f",
+  "extraction": {
+    "raw_text_path": "data/study/textbook-first/raw-text/gs2_polity_class11_constitution_ch10_the_philosophy_of_the_constitution.txt",
+    "extracted_characters": 44313,
+    "page_count": 23,
+    "paragraph_count_estimate": 0,
+    "title_match_score": 1
+  },
+  "concept_candidates": [
+    {
+      "title": "THE PHILOSOPHY OF",
+      "first_seen_page_index": 1,
+      "source_trace": "NCERT Class 11 Indian Constitution at Work, Chapter 10, extracted page 1"
+    },
+    {
+      "title": "THE CONSTITUTION",
+      "first_seen_page_index": 1,
+      "source_trace": "NCERT Class 11 Indian Constitution at Work, Chapter 10, extracted page 1"
+    },
+    {
+      "title": "INTRODUCTION",
+      "first_seen_page_index": 1,
+      "source_trace": "NCERT Class 11 Indian Constitution at Work, Chapter 10, extracted page 1"
+    },
+    {
+      "title": "WHAT IS MEANT BY PHILOSOPHY OF THE",
+      "first_seen_page_index": 2,
+      "source_trace": "NCERT Class 11 Indian Constitution at Work, Chapter 10, extracted page 2"
+    },
+    {
+      "title": "CONSTITUTION?",
+      "first_seen_page_index": 2,
+      "source_trace": "NCERT Class 11 Indian Constitution at Work, Chapter 10, extracted page 2"
+    },
+    {
+      "title": "WHAT IS THE POLITICAL PHILOSOPHY OF OUR",
+      "first_seen_page_index": 6,
+      "source_trace": "NCERT Class 11 Indian Constitution at Work, Chapter 10, extracted page 6"
+    },
+    {
+      "title": "READ A CARTOON",
+      "first_seen_page_index": 6,
+      "source_trace": "NCERT Class 11 Indian Constitution at Work, Chapter 10, extracted page 6"
+    },
+    {
+      "title": "26 January 1950",
+      "first_seen_page_index": 6,
+      "source_trace": "NCERT Class 11 Indian Constitution at Work, Chapter 10, extracted page 6"
+    },
+    {
+      "title": "PROCEDURAL ACHIEVEMENTS",
+      "first_seen_page_index": 15,
+      "source_trace": "NCERT Class 11 Indian Constitution at Work, Chapter 10, extracted page 15"
+    },
+    {
+      "title": "CRITICISMS",
+      "first_seen_page_index": 16,
+      "source_trace": "NCERT Class 11 Indian Constitution at Work, Chapter 10, extracted page 16"
+    },
+    {
+      "title": "REQUEST FOR FEEDBACK",
+      "first_seen_page_index": 23,
+      "source_trace": "NCERT Class 11 Indian Constitution at Work, Chapter 10, extracted page 23"
+    }
+  ],
+  "production_status": "concept_candidates_ready_for_human_decode"
+}

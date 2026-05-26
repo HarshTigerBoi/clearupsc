@@ -1,0 +1,43 @@
+{
+  "key": "gs1_geo_class12_india_people_economy_ch04_human_settlements",
+  "title": "Human Settlements",
+  "source": {
+    "book": "NCERT Class 12 India People and Economy",
+    "chapter": 4,
+    "chapter_title": "Human Settlements",
+    "pdf_url": "https://ncert.nic.in/textbook.php?legy2=0-12",
+    "page_range": "pending source extraction"
+  },
+  "resolved_pdf_url": "https://ncert.nic.in/textbook/pdf/legy204.pdf",
+  "sha256": "4665c011f481a2d749feb35c89f7d957cb29554c1de31704947e70a1be2ca9d1",
+  "extraction": {
+    "raw_text_path": "data/study/textbook-first/raw-text/gs1_geo_class12_india_people_economy_ch04_human_settlements.txt",
+    "extracted_characters": 28355,
+    "page_count": 12,
+    "paragraph_count_estimate": 6,
+    "title_match_score": 0.5
+  },
+  "concept_candidates": [
+    {
+      "title": "WATER RESOURCES",
+      "first_seen_page_index": 1,
+      "source_trace": "NCERT Class 12 India People and Economy, Chapter 4, extracted page 1"
+    },
+    {
+      "title": "42 India : People and Economy",
+      "first_seen_page_index": 2,
+      "source_trace": "NCERT Class 12 India People and Economy, Chapter 4, extracted page 2"
+    },
+    {
+      "title": "48 India : People and Economy",
+      "first_seen_page_index": 8,
+      "source_trace": "NCERT Class 12 India People and Economy, Chapter 4, extracted page 8"
+    },
+    {
+      "title": "52 India : People and Economy",
+      "first_seen_page_index": 12,
+      "source_trace": "NCERT Class 12 India People and Economy, Chapter 4, extracted page 12"
+    }
+  ],
+  "production_status": "concept_candidates_ready_for_human_decode"
+}

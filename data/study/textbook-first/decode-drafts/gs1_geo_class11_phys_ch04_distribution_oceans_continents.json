@@ -1,0 +1,107 @@
+{
+  "key": "gs1_geo_class11_phys_ch04_distribution_oceans_continents",
+  "title": "Distribution of Oceans and Continents",
+  "decode_status": "source_packet_ready_for_human_decode",
+  "generated_at": "2026-05-26T19:12:40.806Z",
+  "source": {
+    "book": "NCERT Class 11 Fundamentals of Physical Geography",
+    "chapter": 4,
+    "chapter_title": "Distribution of Oceans and Continents",
+    "pdf_url": "https://ncert.nic.in/textbook/pdf/kegy204.pdf",
+    "page_range": "28-42"
+  },
+  "resolved_pdf_url": "https://ncert.nic.in/textbook/pdf/kegy204.pdf",
+  "source_trace": "NCERT Class 11 Fundamentals of Physical Geography | Chapter 4: Distribution of Oceans and Continents | https://ncert.nic.in/textbook/pdf/kegy204.pdf | sha256:d35ee78893d37c5912592f3d7243d6fed22341837b53bcae623d9c9ef221fc11",
+  "raw_text_path": "data/study/textbook-first/raw-text/gs1_geo_class11_phys_ch04_distribution_oceans_continents.txt",
+  "source_packet_path": "data/study/textbook-first/source-packets/gs1_geo_class11_phys_ch04_distribution_oceans_continents.json",
+  "concept_candidates": [
+    {
+      "title": "CONTINENTAL DRIFT",
+      "first_seen_page_index": 1,
+      "source_trace": "NCERT Class 11 Fundamentals of Physical Geography, Chapter 4, extracted page 1"
+    },
+    {
+      "title": "DISTRIBUTION OF OCEANS",
+      "first_seen_page_index": 1,
+      "source_trace": "NCERT Class 11 Fundamentals of Physical Geography, Chapter 4, extracted page 1"
+    },
+    {
+      "title": "AND CONTINENTS",
+      "first_seen_page_index": 1,
+      "source_trace": "NCERT Class 11 Fundamentals of Physical Geography, Chapter 4, extracted page 1"
+    },
+    {
+      "title": "C H A P T E R",
+      "first_seen_page_index": 1,
+      "source_trace": "NCERT Class 11 Fundamentals of Physical Geography, Chapter 4, extracted page 1"
+    },
+    {
+      "title": "FUNDAMENTALS OF PHYSICAL GEOGRAPHY 28",
+      "first_seen_page_index": 2,
+      "source_trace": "NCERT Class 11 Fundamentals of Physical Geography, Chapter 4, extracted page 2"
+    },
+    {
+      "title": "DISTRIBUTION OF OCEANS AND CONTINENTS 29",
+      "first_seen_page_index": 3,
+      "source_trace": "NCERT Class 11 Fundamentals of Physical Geography, Chapter 4, extracted page 3"
+    },
+    {
+      "title": "FUNDAMENTALS OF PHYSICAL GEOGRAPHY 30",
+      "first_seen_page_index": 4,
+      "source_trace": "NCERT Class 11 Fundamentals of Physical Geography, Chapter 4, extracted page 4"
+    },
+    {
+      "title": "DISTRIBUTION OF OCEANS AND CONTINENTS 31",
+      "first_seen_page_index": 5,
+      "source_trace": "NCERT Class 11 Fundamentals of Physical Geography, Chapter 4, extracted page 5"
+    },
+    {
+      "title": "PLATE TECTONICS",
+      "first_seen_page_index": 5,
+      "source_trace": "NCERT Class 11 Fundamentals of Physical Geography, Chapter 4, extracted page 5"
+    },
+    {
+      "title": "FUNDAMENTALS OF PHYSICAL GEOGRAPHY 32",
+      "first_seen_page_index": 6,
+      "source_trace": "NCERT Class 11 Fundamentals of Physical Geography, Chapter 4, extracted page 6"
+    },
+    {
+      "title": "DISTRIBUTION OF OCEANS AND CONTINENTS 33",
+      "first_seen_page_index": 7,
+      "source_trace": "NCERT Class 11 Fundamentals of Physical Geography, Chapter 4, extracted page 7"
+    },
+    {
+      "title": "FUNDAMENTALS OF PHYSICAL GEOGRAPHY 34",
+      "first_seen_page_index": 8,
+      "source_trace": "NCERT Class 11 Fundamentals of Physical Geography, Chapter 4, extracted page 8"
+    },
+    {
+      "title": "MOVEMENT OF THE INDIAN PLATE",
+      "first_seen_page_index": 8,
+      "source_trace": "NCERT Class 11 Fundamentals of Physical Geography, Chapter 4, extracted page 8"
+    },
+    {
+      "title": "DISTRIBUTION OF OCEANS AND CONTINENTS 35",
+      "first_seen_page_index": 9,
+      "source_trace": "NCERT Class 11 Fundamentals of Physical Geography, Chapter 4, extracted page 9"
+    }
+  ],
+  "publication_overlay": {
+    "concepts": [],
+    "concise_notes": [],
+    "revision_bullets": [],
+    "mcqs": [],
+    "mains_framework": null
+  },
+  "required_before_publication": [
+    "Human/source-backed 4-layer ConceptDecode entries with ncert_line_that_answers.",
+    "Exactly 10 source-traced UPSCPatternMCQ entries with allowed pattern types only.",
+    "PYQ mappings traced to official UPSC question papers.",
+    "Mains framework derived from the chapter and verified against source text."
+  ],
+  "guardrails": [
+    "Do not publish this draft as decoded content.",
+    "Do not infer explanations, PYQ links, or MCQs without source verification.",
+    "Use candidate headings only as navigation hints for manual decoding."
+  ]
+}

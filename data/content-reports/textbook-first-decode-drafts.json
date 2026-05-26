@@ -1,0 +1,69 @@
+{
+  "generated_at": "2026-05-26T19:12:40.809Z",
+  "requested_limit": 10,
+  "fetched_sources_available": 317,
+  "drafts_created": 10,
+  "errors": [],
+  "drafts": [
+    {
+      "key": "gs1_geo_class11_india_ch01_location",
+      "source_trace": "NCERT Class 11 India Physical Environment | Chapter 1: India: Location | https://ncert.nic.in/textbook/pdf/kegy101.pdf | sha256:bd0156c65e879f1c4491477dfdc66f577662c32dbb3cc1548e5965b1d0573d2a",
+      "concept_candidates": 12,
+      "draft_path": "data/study/textbook-first/decode-drafts/gs1_geo_class11_india_ch01_location.json"
+    },
+    {
+      "key": "gs1_geo_class11_india_ch02_structure_physiography",
+      "source_trace": "NCERT Class 11 India Physical Environment | Chapter 2: Structure and Physiography | https://ncert.nic.in/textbook/pdf/kegy102.pdf | sha256:96018893b461798ecf984e5b8630039b143a7ed846d5b5d5017855fb8a825389",
+      "concept_candidates": 15,
+      "draft_path": "data/study/textbook-first/decode-drafts/gs1_geo_class11_india_ch02_structure_physiography.json"
+    },
+    {
+      "key": "gs1_geo_class11_india_ch03_drainage_system",
+      "source_trace": "NCERT Class 11 India Physical Environment | Chapter 3: Drainage System | https://ncert.nic.in/textbook/pdf/kegy103.pdf | sha256:a0432d4801d05b4e0676446793e9ba0b3c1f1a71af75faba1b922b731768c484",
+      "concept_candidates": 19,
+      "draft_path": "data/study/textbook-first/decode-drafts/gs1_geo_class11_india_ch03_drainage_system.json"
+    },
+    {
+      "key": "gs1_geo_class11_india_ch04_climate",
+      "source_trace": "NCERT Class 11 India Physical Environment | Chapter 4: Climate | https://ncert.nic.in/textbook/pdf/kegy104.pdf | sha256:9b2e02e45d32ab82c9a5f0022cb66ab9d41541adbdfed015d8df60b50c643d89",
+      "concept_candidates": 24,
+      "draft_path": "data/study/textbook-first/decode-drafts/gs1_geo_class11_india_ch04_climate.json"
+    },
+    {
+      "key": "gs1_geo_class11_india_ch05_natural_vegetation",
+      "source_trace": "NCERT Class 11 India Physical Environment | Chapter 5: Natural Vegetation | https://ncert.nic.in/textbook/pdf/kegy105.pdf | sha256:376bf8eca08991d4fa2472cae2e4816700045e24dabbabcaa55d8cf5cf29f07e",
+      "concept_candidates": 17,
+      "draft_path": "data/study/textbook-first/decode-drafts/gs1_geo_class11_india_ch05_natural_vegetation.json"
+    },
+    {
+      "key": "gs1_geo_class11_india_ch06_soils",
+      "source_trace": "NCERT Class 11 India Physical Environment | Chapter 6: Soils | https://ncert.nic.in/textbook/pdf/kegy106.pdf | sha256:eec0e12dfc4d745a641bba61b2c2b431f2e7bbc722338502a27c62860e3b793e",
+      "concept_candidates": 28,
+      "draft_path": "data/study/textbook-first/decode-drafts/gs1_geo_class11_india_ch06_soils.json"
+    },
+    {
+      "key": "gs1_geo_class11_phys_ch02_origin_evolution_earth",
+      "source_trace": "NCERT Class 11 Fundamentals of Physical Geography | Chapter 2: The Origin and Evolution of the Earth | https://ncert.nic.in/textbook/pdf/kegy202.pdf | sha256:74f021ea50e2f22174d907970235bd237819d68d9d2609ca8e12ed263eb2b65f",
+      "concept_candidates": 11,
+      "draft_path": "data/study/textbook-first/decode-drafts/gs1_geo_class11_phys_ch02_origin_evolution_earth.json"
+    },
+    {
+      "key": "gs1_geo_class11_phys_ch03_interior_of_earth",
+      "source_trace": "NCERT Class 11 Fundamentals of Physical Geography | Chapter 3: Interior of the Earth | https://ncert.nic.in/textbook/pdf/kegy203.pdf | sha256:7d69c7530ca960fdb66f457c22e47e4b2ee3223982e166b8ca21e40a6e754997",
+      "concept_candidates": 15,
+      "draft_path": "data/study/textbook-first/decode-drafts/gs1_geo_class11_phys_ch03_interior_of_earth.json"
+    },
+    {
+      "key": "gs1_geo_class11_phys_ch04_distribution_oceans_continents",
+      "source_trace": "NCERT Class 11 Fundamentals of Physical Geography | Chapter 4: Distribution of Oceans and Continents | https://ncert.nic.in/textbook/pdf/kegy204.pdf | sha256:d35ee78893d37c5912592f3d7243d6fed22341837b53bcae623d9c9ef221fc11",
+      "concept_candidates": 14,
+      "draft_path": "data/study/textbook-first/decode-drafts/gs1_geo_class11_phys_ch04_distribution_oceans_continents.json"
+    },
+    {
+      "key": "gs1_geo_class11_phys_ch05_minerals_and_rocks",
+      "source_trace": "NCERT Class 11 Fundamentals of Physical Geography | Chapter 5: Minerals and Rocks | https://ncert.nic.in/textbook/pdf/kegy205.pdf | sha256:7e52795e77e99cb672e983dd3382fdfae6ab12623866d2f5808c283dae01d624",
+      "concept_candidates": 21,
+      "draft_path": "data/study/textbook-first/decode-drafts/gs1_geo_class11_phys_ch05_minerals_and_rocks.json"
+    }
+  ]
+}

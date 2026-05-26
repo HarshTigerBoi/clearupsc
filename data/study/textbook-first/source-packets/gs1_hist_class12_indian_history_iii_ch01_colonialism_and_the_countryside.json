@@ -1,0 +1,223 @@
+{
+  "key": "gs1_hist_class12_indian_history_iii_ch01_colonialism_and_the_countryside",
+  "title": "Colonialism and the Countryside",
+  "source": {
+    "book": "NCERT Class 12 Themes in Indian History III",
+    "chapter": 1,
+    "chapter_title": "Colonialism and the Countryside",
+    "pdf_url": "https://ncert.nic.in/textbook.php?lehs3=0-4",
+    "page_range": "pending source extraction"
+  },
+  "resolved_pdf_url": "https://ncert.nic.in/textbook/pdf/lehs301.pdf",
+  "sha256": "d8781d69c148eab2e09f33dceb54a1face5961d52d18dec41a63bf26eb5283f8",
+  "extraction": {
+    "raw_text_path": "data/study/textbook-first/raw-text/gs1_hist_class12_indian_history_iii_ch01_colonialism_and_the_countryside.txt",
+    "extracted_characters": 67803,
+    "page_count": 31,
+    "paragraph_count_estimate": 1,
+    "title_match_score": 1
+  },
+  "concept_candidates": [
+    {
+      "title": "THEME",
+      "first_seen_page_index": 1,
+      "source_trace": "NCERT Class 12 Themes in Indian History III, Chapter 1, extracted page 1"
+    },
+    {
+      "title": "NINE",
+      "first_seen_page_index": 1,
+      "source_trace": "NCERT Class 12 Themes in Indian History III, Chapter 1, extracted page 1"
+    },
+    {
+      "title": "THEMES IN INDIAN HISTORY – PART III 228",
+      "first_seen_page_index": 2,
+      "source_trace": "NCERT Class 12 Themes in Indian History III, Chapter 1, extracted page 2"
+    },
+    {
+      "title": "1.1 An auction in Burdwan",
+      "first_seen_page_index": 2,
+      "source_trace": "NCERT Class 12 Themes in Indian History III, Chapter 1, extracted page 2"
+    },
+    {
+      "title": "1.2 The problem of unpaid revenue",
+      "first_seen_page_index": 2,
+      "source_trace": "NCERT Class 12 Themes in Indian History III, Chapter 1, extracted page 2"
+    },
+    {
+      "title": "1.3 Why zamindars defaulted on payments",
+      "first_seen_page_index": 3,
+      "source_trace": "NCERT Class 12 Themes in Indian History III, Chapter 1, extracted page 3"
+    },
+    {
+      "title": "COLONIALISM AND THE COUNTRYSIDE",
+      "first_seen_page_index": 3,
+      "source_trace": "NCERT Class 12 Themes in Indian History III, Chapter 1, extracted page 3"
+    },
+    {
+      "title": "THEMES IN INDIAN HISTORY – PART III 230",
+      "first_seen_page_index": 4,
+      "source_trace": "NCERT Class 12 Themes in Indian History III, Chapter 1, extracted page 4"
+    },
+    {
+      "title": "1.4 The rise of the jotedars",
+      "first_seen_page_index": 5,
+      "source_trace": "NCERT Class 12 Themes in Indian History III, Chapter 1, extracted page 5"
+    },
+    {
+      "title": "THEMES IN INDIAN HISTORY – PART III 232",
+      "first_seen_page_index": 6,
+      "source_trace": "NCERT Class 12 Themes in Indian History III, Chapter 1, extracted page 6"
+    },
+    {
+      "title": "1.5 The zamindars resist",
+      "first_seen_page_index": 6,
+      "source_trace": "NCERT Class 12 Themes in Indian History III, Chapter 1, extracted page 6"
+    },
+    {
+      "title": "COMPANY",
+      "first_seen_page_index": 6,
+      "source_trace": "NCERT Class 12 Themes in Indian History III, Chapter 1, extracted page 6"
+    },
+    {
+      "title": "UNDER-RYOT",
+      "first_seen_page_index": 6,
+      "source_trace": "NCERT Class 12 Themes in Indian History III, Chapter 1, extracted page 6"
+    },
+    {
+      "title": "RYOT",
+      "first_seen_page_index": 6,
+      "source_trace": "NCERT Class 12 Themes in Indian History III, Chapter 1, extracted page 6"
+    },
+    {
+      "title": "JOTEDAR",
+      "first_seen_page_index": 6,
+      "source_trace": "NCERT Class 12 Themes in Indian History III, Chapter 1, extracted page 6"
+    },
+    {
+      "title": "ZAMINDAR",
+      "first_seen_page_index": 6,
+      "source_trace": "NCERT Class 12 Themes in Indian History III, Chapter 1, extracted page 6"
+    },
+    {
+      "title": "1.6 The Fifth Report",
+      "first_seen_page_index": 7,
+      "source_trace": "NCERT Class 12 Themes in Indian History III, Chapter 1, extracted page 7"
+    },
+    {
+      "title": "THEMES IN INDIAN HISTORY – PART III 234",
+      "first_seen_page_index": 8,
+      "source_trace": "NCERT Class 12 Themes in Indian History III, Chapter 1, extracted page 8"
+    },
+    {
+      "title": "THEMES IN INDIAN HISTORY – PART III 236",
+      "first_seen_page_index": 10,
+      "source_trace": "NCERT Class 12 Themes in Indian History III, Chapter 1, extracted page 10"
+    },
+    {
+      "title": "2.1 In the hills of Rajmahal",
+      "first_seen_page_index": 10,
+      "source_trace": "NCERT Class 12 Themes in Indian History III, Chapter 1, extracted page 10"
+    },
+    {
+      "title": "THEMES IN INDIAN HISTORY – PART III 238",
+      "first_seen_page_index": 12,
+      "source_trace": "NCERT Class 12 Themes in Indian History III, Chapter 1, extracted page 12"
+    },
+    {
+      "title": "THEMES IN INDIAN HISTORY – PART III 240",
+      "first_seen_page_index": 14,
+      "source_trace": "NCERT Class 12 Themes in Indian History III, Chapter 1, extracted page 14"
+    },
+    {
+      "title": "2.2 The Santhals: Pioneer settlers",
+      "first_seen_page_index": 14,
+      "source_trace": "NCERT Class 12 Themes in Indian History III, Chapter 1, extracted page 14"
+    },
+    {
+      "title": "23 February 1856",
+      "first_seen_page_index": 14,
+      "source_trace": "NCERT Class 12 Themes in Indian History III, Chapter 1, extracted page 14"
+    },
+    {
+      "title": "THEMES IN INDIAN HISTORY – PART III 242",
+      "first_seen_page_index": 16,
+      "source_trace": "NCERT Class 12 Themes in Indian History III, Chapter 1, extracted page 16"
+    },
+    {
+      "title": "243 COLONIALISM AND THE COUNTRYSIDE",
+      "first_seen_page_index": 17,
+      "source_trace": "NCERT Class 12 Themes in Indian History III, Chapter 1, extracted page 17"
+    },
+    {
+      "title": "THEMES IN INDIAN HISTORY – PART III 244",
+      "first_seen_page_index": 18,
+      "source_trace": "NCERT Class 12 Themes in Indian History III, Chapter 1, extracted page 18"
+    },
+    {
+      "title": "2.3 The accounts of Buchanan",
+      "first_seen_page_index": 18,
+      "source_trace": "NCERT Class 12 Themes in Indian History III, Chapter 1, extracted page 18"
+    },
+    {
+      "title": "THEMES IN INDIAN HISTORY – PART III 246",
+      "first_seen_page_index": 20,
+      "source_trace": "NCERT Class 12 Themes in Indian History III, Chapter 1, extracted page 20"
+    },
+    {
+      "title": "DECCAN RIOTS COMMISSION",
+      "first_seen_page_index": 20,
+      "source_trace": "NCERT Class 12 Themes in Indian History III, Chapter 1, extracted page 20"
+    },
+    {
+      "title": "3.1 Account books are burnt",
+      "first_seen_page_index": 20,
+      "source_trace": "NCERT Class 12 Themes in Indian History III, Chapter 1, extracted page 20"
+    },
+    {
+      "title": "3.2 A new revenue system",
+      "first_seen_page_index": 21,
+      "source_trace": "NCERT Class 12 Themes in Indian History III, Chapter 1, extracted page 21"
+    },
+    {
+      "title": "THEMES IN INDIAN HISTORY – PART III 248",
+      "first_seen_page_index": 22,
+      "source_trace": "NCERT Class 12 Themes in Indian History III, Chapter 1, extracted page 22"
+    },
+    {
+      "title": "3.3 Revenue demand and peasant debt",
+      "first_seen_page_index": 22,
+      "source_trace": "NCERT Class 12 Themes in Indian History III, Chapter 1, extracted page 22"
+    },
+    {
+      "title": "3.4 Then came the cotton boom",
+      "first_seen_page_index": 23,
+      "source_trace": "NCERT Class 12 Themes in Indian History III, Chapter 1, extracted page 23"
+    },
+    {
+      "title": "13 December 1862",
+      "first_seen_page_index": 23,
+      "source_trace": "NCERT Class 12 Themes in Indian History III, Chapter 1, extracted page 23"
+    },
+    {
+      "title": "I N D E X",
+      "first_seen_page_index": 23,
+      "source_trace": "NCERT Class 12 Themes in Indian History III, Chapter 1, extracted page 23"
+    },
+    {
+      "title": "Y E A R S",
+      "first_seen_page_index": 23,
+      "source_trace": "NCERT Class 12 Themes in Indian History III, Chapter 1, extracted page 23"
+    },
+    {
+      "title": "THEMES IN INDIAN HISTORY – PART III 250",
+      "first_seen_page_index": 24,
+      "source_trace": "NCERT Class 12 Themes in Indian History III, Chapter 1, extracted page 24"
+    },
+    {
+      "title": "THEMES IN INDIAN HISTORY – PART III 252",
+      "first_seen_page_index": 26,
+      "source_trace": "NCERT Class 12 Themes in Indian History III, Chapter 1, extracted page 26"
+    }
+  ],
+  "production_status": "concept_candidates_ready_for_human_decode"
+}

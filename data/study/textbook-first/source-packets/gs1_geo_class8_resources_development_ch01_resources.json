@@ -1,0 +1,33 @@
+{
+  "key": "gs1_geo_class8_resources_development_ch01_resources",
+  "title": "Resources",
+  "source": {
+    "book": "NCERT Class 8 Resources and Development",
+    "chapter": 1,
+    "chapter_title": "Resources",
+    "pdf_url": "https://ncert.nic.in/textbook.php?hess3=0-6",
+    "page_range": "pending source extraction"
+  },
+  "resolved_pdf_url": "https://ncert.nic.in/textbook/pdf/hess301.pdf",
+  "sha256": "075c7c0f437895a26c9b56039eee08ad4ed748908897a6db920daab0786c6216",
+  "extraction": {
+    "raw_text_path": "data/study/textbook-first/raw-text/gs1_geo_class8_resources_development_ch01_resources.txt",
+    "extracted_characters": 33038,
+    "page_count": 16,
+    "paragraph_count_estimate": 0,
+    "title_match_score": 0
+  },
+  "concept_candidates": [
+    {
+      "title": "1990 Constitution of Nepal 2015 Constitution of Nepal",
+      "first_seen_page_index": 15,
+      "source_trace": "NCERT Class 8 Resources and Development, Chapter 1, extracted page 15"
+    },
+    {
+      "title": "GLOSSARY",
+      "first_seen_page_index": 16,
+      "source_trace": "NCERT Class 8 Resources and Development, Chapter 1, extracted page 16"
+    }
+  ],
+  "production_status": "concept_candidates_ready_for_human_decode"
+}

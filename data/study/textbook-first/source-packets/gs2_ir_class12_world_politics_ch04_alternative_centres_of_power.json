@@ -1,0 +1,188 @@
+{
+  "key": "gs2_ir_class12_world_politics_ch04_alternative_centres_of_power",
+  "title": "Alternative Centres of Power",
+  "source": {
+    "book": "NCERT Class 12 Contemporary World Politics",
+    "chapter": 4,
+    "chapter_title": "Alternative Centres of Power",
+    "pdf_url": "https://ncert.nic.in/textbook.php?leps1=0-9",
+    "page_range": "pending source extraction"
+  },
+  "resolved_pdf_url": "https://ncert.nic.in/textbook/pdf/leps104.pdf",
+  "sha256": "598be274c34d30ad29cee799186eff39a68c92cc7700fe05a2800bc74348846e",
+  "extraction": {
+    "raw_text_path": "data/study/textbook-first/raw-text/gs2_ir_class12_world_politics_ch04_alternative_centres_of_power.txt",
+    "extracted_characters": 39084,
+    "page_count": 18,
+    "paragraph_count_estimate": 0,
+    "title_match_score": 0.33
+  },
+  "concept_candidates": [
+    {
+      "title": "1941 August: Signing of the Atlantic Charter by the US",
+      "first_seen_page_index": 4,
+      "source_trace": "NCERT Class 12 Contemporary World Politics, Chapter 4, extracted page 4"
+    },
+    {
+      "title": "1942 January: 26 Allied nations fighting against the Axis",
+      "first_seen_page_index": 4,
+      "source_trace": "NCERT Class 12 Contemporary World Politics, Chapter 4, extracted page 4"
+    },
+    {
+      "title": "1943 December: Tehran Conference Declaration of the",
+      "first_seen_page_index": 4,
+      "source_trace": "NCERT Class 12 Contemporary World Politics, Chapter 4, extracted page 4"
+    },
+    {
+      "title": "1945 February: Yalta Conference of the ‘Big Three’",
+      "first_seen_page_index": 4,
+      "source_trace": "NCERT Class 12 Contemporary World Politics, Chapter 4, extracted page 4"
+    },
+    {
+      "title": "1945 June 26: Signing of the UN Charter by 50 nations (Poland",
+      "first_seen_page_index": 4,
+      "source_trace": "NCERT Class 12 Contemporary World Politics, Chapter 4, extracted page 4"
+    },
+    {
+      "title": "1945 October 24: the UN was founded (hence October 24",
+      "first_seen_page_index": 4,
+      "source_trace": "NCERT Class 12 Contemporary World Politics, Chapter 4, extracted page 4"
+    },
+    {
+      "title": "1945 October 30: India joins the UN",
+      "first_seen_page_index": 4,
+      "source_trace": "NCERT Class 12 Contemporary World Politics, Chapter 4, extracted page 4"
+    },
+    {
+      "title": "FOUNDING OF THE UNITED NATIONS",
+      "first_seen_page_index": 4,
+      "source_trace": "NCERT Class 12 Contemporary World Politics, Chapter 4, extracted page 4"
+    },
+    {
+      "title": "UN SECRETARIES-GENERAL",
+      "first_seen_page_index": 7,
+      "source_trace": "NCERT Class 12 Contemporary World Politics, Chapter 4, extracted page 7"
+    },
+    {
+      "title": "WORLD BANK",
+      "first_seen_page_index": 9,
+      "source_trace": "NCERT Class 12 Contemporary World Politics, Chapter 4, extracted page 9"
+    },
+    {
+      "title": "2 China 12.0",
+      "first_seen_page_index": 9,
+      "source_trace": "NCERT Class 12 Contemporary World Politics, Chapter 4, extracted page 9"
+    },
+    {
+      "title": "3 Japan 8.5",
+      "first_seen_page_index": 9,
+      "source_trace": "NCERT Class 12 Contemporary World Politics, Chapter 4, extracted page 9"
+    },
+    {
+      "title": "4 Germany 6.0",
+      "first_seen_page_index": 9,
+      "source_trace": "NCERT Class 12 Contemporary World Politics, Chapter 4, extracted page 9"
+    },
+    {
+      "title": "6 France 4.4",
+      "first_seen_page_index": 9,
+      "source_trace": "NCERT Class 12 Contemporary World Politics, Chapter 4, extracted page 9"
+    },
+    {
+      "title": "7 Italy 3.3",
+      "first_seen_page_index": 9,
+      "source_trace": "NCERT Class 12 Contemporary World Politics, Chapter 4, extracted page 9"
+    },
+    {
+      "title": "8 Brazil 2.9",
+      "first_seen_page_index": 9,
+      "source_trace": "NCERT Class 12 Contemporary World Politics, Chapter 4, extracted page 9"
+    },
+    {
+      "title": "9 Canada 2.7",
+      "first_seen_page_index": 9,
+      "source_trace": "NCERT Class 12 Contemporary World Politics, Chapter 4, extracted page 9"
+    },
+    {
+      "title": "10 Russia 2.4",
+      "first_seen_page_index": 9,
+      "source_trace": "NCERT Class 12 Contemporary World Politics, Chapter 4, extracted page 9"
+    },
+    {
+      "title": "11 Republic of Korea 2.2",
+      "first_seen_page_index": 9,
+      "source_trace": "NCERT Class 12 Contemporary World Politics, Chapter 4, extracted page 9"
+    },
+    {
+      "title": "12 Australia 2.2",
+      "first_seen_page_index": 9,
+      "source_trace": "NCERT Class 12 Contemporary World Politics, Chapter 4, extracted page 9"
+    },
+    {
+      "title": "13 Spain 2.1",
+      "first_seen_page_index": 9,
+      "source_trace": "NCERT Class 12 Contemporary World Politics, Chapter 4, extracted page 9"
+    },
+    {
+      "title": "14 Turkey 1.3",
+      "first_seen_page_index": 9,
+      "source_trace": "NCERT Class 12 Contemporary World Politics, Chapter 4, extracted page 9"
+    },
+    {
+      "title": "15 Netherlands 1.3",
+      "first_seen_page_index": 9,
+      "source_trace": "NCERT Class 12 Contemporary World Politics, Chapter 4, extracted page 9"
+    },
+    {
+      "title": "16 Mexico 1.2",
+      "first_seen_page_index": 9,
+      "source_trace": "NCERT Class 12 Contemporary World Politics, Chapter 4, extracted page 9"
+    },
+    {
+      "title": "17 Saudi Arabia 1.1",
+      "first_seen_page_index": 9,
+      "source_trace": "NCERT Class 12 Contemporary World Politics, Chapter 4, extracted page 9"
+    },
+    {
+      "title": "18 Switzerland 1.1",
+      "first_seen_page_index": 9,
+      "source_trace": "NCERT Class 12 Contemporary World Politics, Chapter 4, extracted page 9"
+    },
+    {
+      "title": "19 Argentina 0.9",
+      "first_seen_page_index": 9,
+      "source_trace": "NCERT Class 12 Contemporary World Politics, Chapter 4, extracted page 9"
+    },
+    {
+      "title": "20 Sweden 0.9",
+      "first_seen_page_index": 9,
+      "source_trace": "NCERT Class 12 Contemporary World Politics, Chapter 4, extracted page 9"
+    },
+    {
+      "title": "21 India 0.8",
+      "first_seen_page_index": 9,
+      "source_trace": "NCERT Class 12 Contemporary World Politics, Chapter 4, extracted page 9"
+    },
+    {
+      "title": "STEPS",
+      "first_seen_page_index": 10,
+      "source_trace": "NCERT Class 12 Contemporary World Politics, Chapter 4, extracted page 10"
+    },
+    {
+      "title": "IAEA",
+      "first_seen_page_index": 14,
+      "source_trace": "NCERT Class 12 Contemporary World Politics, Chapter 4, extracted page 14"
+    },
+    {
+      "title": "AMNESTY INTERNATIONAL",
+      "first_seen_page_index": 15,
+      "source_trace": "NCERT Class 12 Contemporary World Politics, Chapter 4, extracted page 15"
+    },
+    {
+      "title": "HUMAN RIGHTS WATCH",
+      "first_seen_page_index": 16,
+      "source_trace": "NCERT Class 12 Contemporary World Politics, Chapter 4, extracted page 16"
+    }
+  ],
+  "production_status": "concept_candidates_ready_for_human_decode"
+}

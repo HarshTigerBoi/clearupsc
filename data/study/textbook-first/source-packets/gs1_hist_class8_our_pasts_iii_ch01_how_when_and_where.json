@@ -1,0 +1,63 @@
+{
+  "key": "gs1_hist_class8_our_pasts_iii_ch01_how_when_and_where",
+  "title": "How When and Where",
+  "source": {
+    "book": "NCERT Class 8 Our Pasts III",
+    "chapter": 1,
+    "chapter_title": "How When and Where",
+    "pdf_url": "https://ncert.nic.in/textbook.php?hess1=0-10",
+    "page_range": "pending source extraction"
+  },
+  "resolved_pdf_url": "https://ncert.nic.in/textbook/pdf/hess201.pdf",
+  "sha256": "9a098b768a04af04bc5508ea377d2a235f5f4768da0112cf1ce01a422ac584a7",
+  "extraction": {
+    "raw_text_path": "data/study/textbook-first/raw-text/gs1_hist_class8_our_pasts_iii_ch01_how_when_and_where.txt",
+    "extracted_characters": 18616,
+    "page_count": 8,
+    "paragraph_count_estimate": 0,
+    "title_match_score": 1
+  },
+  "concept_candidates": [
+    {
+      "title": "2 OUR PASTS – III",
+      "first_seen_page_index": 2,
+      "source_trace": "NCERT Class 8 Our Pasts III, Chapter 1, extracted page 2"
+    },
+    {
+      "title": "INTRODUCTION: HOW, WHEN AND WHERE 3",
+      "first_seen_page_index": 3,
+      "source_trace": "NCERT Class 8 Our Pasts III, Chapter 1, extracted page 3"
+    },
+    {
+      "title": "4 OUR PASTS – III",
+      "first_seen_page_index": 4,
+      "source_trace": "NCERT Class 8 Our Pasts III, Chapter 1, extracted page 4"
+    },
+    {
+      "title": "INTRODUCTION: HOW, WHEN AND WHERE 5",
+      "first_seen_page_index": 5,
+      "source_trace": "NCERT Class 8 Our Pasts III, Chapter 1, extracted page 5"
+    },
+    {
+      "title": "6 OUR PASTS – III",
+      "first_seen_page_index": 6,
+      "source_trace": "NCERT Class 8 Our Pasts III, Chapter 1, extracted page 6"
+    },
+    {
+      "title": "INTRODUCTION: HOW, WHEN AND WHERE 7",
+      "first_seen_page_index": 7,
+      "source_trace": "NCERT Class 8 Our Pasts III, Chapter 1, extracted page 7"
+    },
+    {
+      "title": "22 March, 1946",
+      "first_seen_page_index": 7,
+      "source_trace": "NCERT Class 8 Our Pasts III, Chapter 1, extracted page 7"
+    },
+    {
+      "title": "8 OUR PASTS – III",
+      "first_seen_page_index": 8,
+      "source_trace": "NCERT Class 8 Our Pasts III, Chapter 1, extracted page 8"
+    }
+  ],
+  "production_status": "concept_candidates_ready_for_human_decode"
+}

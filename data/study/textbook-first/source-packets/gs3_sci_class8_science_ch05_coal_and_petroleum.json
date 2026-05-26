@@ -1,0 +1,223 @@
+{
+  "key": "gs3_sci_class8_science_ch05_coal_and_petroleum",
+  "title": "Coal and Petroleum",
+  "source": {
+    "book": "NCERT Class 8 Science",
+    "chapter": 5,
+    "chapter_title": "Coal and Petroleum",
+    "pdf_url": "https://ncert.nic.in/textbook.php?hesc1=0-18",
+    "page_range": "pending source extraction"
+  },
+  "resolved_pdf_url": "https://ncert.nic.in/textbook/pdf/hesc105.pdf",
+  "sha256": "19c3ef27e39a7db8f07ab7fd8f193a4d3bd3b6d45434badcc3b66eec4426f51e",
+  "extraction": {
+    "raw_text_path": "data/study/textbook-first/raw-text/gs3_sci_class8_science_ch05_coal_and_petroleum.txt",
+    "extracted_characters": 22874,
+    "page_count": 13,
+    "paragraph_count_estimate": 0,
+    "title_match_score": 0
+  },
+  "concept_candidates": [
+    {
+      "title": "CONSERVATION OF PLANTS AND ANIMALS CONSERVATION OF PLANTS AND ANIMALS",
+      "first_seen_page_index": 1,
+      "source_trace": "NCERT Class 8 Science, Chapter 5, extracted page 1"
+    },
+    {
+      "title": "5.2 Consequences of",
+      "first_seen_page_index": 1,
+      "source_trace": "NCERT Class 8 Science, Chapter 5, extracted page 1"
+    },
+    {
+      "title": "5.1 Deforestation and Its",
+      "first_seen_page_index": 1,
+      "source_trace": "NCERT Class 8 Science, Chapter 5, extracted page 1"
+    },
+    {
+      "title": "SCIENCE 54",
+      "first_seen_page_index": 2,
+      "source_trace": "NCERT Class 8 Science, Chapter 5, extracted page 2"
+    },
+    {
+      "title": "5.3 Conservation of Forest",
+      "first_seen_page_index": 2,
+      "source_trace": "NCERT Class 8 Science, Chapter 5, extracted page 2"
+    },
+    {
+      "title": "CONSERVATION OF PLANTS AND ANIMALS 55",
+      "first_seen_page_index": 3,
+      "source_trace": "NCERT Class 8 Science, Chapter 5, extracted page 3"
+    },
+    {
+      "title": "5.4 Biosphere Reserve",
+      "first_seen_page_index": 3,
+      "source_trace": "NCERT Class 8 Science, Chapter 5, extracted page 3"
+    },
+    {
+      "title": "PACHMARHI SANCTUARY",
+      "first_seen_page_index": 3,
+      "source_trace": "NCERT Class 8 Science, Chapter 5, extracted page 3"
+    },
+    {
+      "title": "TO PIPARIYA",
+      "first_seen_page_index": 3,
+      "source_trace": "NCERT Class 8 Science, Chapter 5, extracted page 3"
+    },
+    {
+      "title": "TAWA",
+      "first_seen_page_index": 3,
+      "source_trace": "NCERT Class 8 Science, Chapter 5, extracted page 3"
+    },
+    {
+      "title": "RESERVIOR",
+      "first_seen_page_index": 3,
+      "source_trace": "NCERT Class 8 Science, Chapter 5, extracted page 3"
+    },
+    {
+      "title": "CHURNA",
+      "first_seen_page_index": 3,
+      "source_trace": "NCERT Class 8 Science, Chapter 5, extracted page 3"
+    },
+    {
+      "title": "BORI SANCTUARY",
+      "first_seen_page_index": 3,
+      "source_trace": "NCERT Class 8 Science, Chapter 5, extracted page 3"
+    },
+    {
+      "title": "DHAIN BORI",
+      "first_seen_page_index": 3,
+      "source_trace": "NCERT Class 8 Science, Chapter 5, extracted page 3"
+    },
+    {
+      "title": "SATPURA NATIONAL PARK",
+      "first_seen_page_index": 3,
+      "source_trace": "NCERT Class 8 Science, Chapter 5, extracted page 3"
+    },
+    {
+      "title": "NEEMGHAN PANARPANI GATE",
+      "first_seen_page_index": 3,
+      "source_trace": "NCERT Class 8 Science, Chapter 5, extracted page 3"
+    },
+    {
+      "title": "PACHMARHI",
+      "first_seen_page_index": 3,
+      "source_trace": "NCERT Class 8 Science, Chapter 5, extracted page 3"
+    },
+    {
+      "title": "SCIENCE 56",
+      "first_seen_page_index": 4,
+      "source_trace": "NCERT Class 8 Science, Chapter 5, extracted page 4"
+    },
+    {
+      "title": "5.5 Flora and Fauna",
+      "first_seen_page_index": 4,
+      "source_trace": "NCERT Class 8 Science, Chapter 5, extracted page 4"
+    },
+    {
+      "title": "CONSERVATION OF PLANTS AND ANIMALS 57",
+      "first_seen_page_index": 5,
+      "source_trace": "NCERT Class 8 Science, Chapter 5, extracted page 5"
+    },
+    {
+      "title": "5.6 Endemic Species",
+      "first_seen_page_index": 5,
+      "source_trace": "NCERT Class 8 Science, Chapter 5, extracted page 5"
+    },
+    {
+      "title": "SCIENCE 58",
+      "first_seen_page_index": 6,
+      "source_trace": "NCERT Class 8 Science, Chapter 5, extracted page 6"
+    },
+    {
+      "title": "5.7 Wildlife Sanctuary",
+      "first_seen_page_index": 6,
+      "source_trace": "NCERT Class 8 Science, Chapter 5, extracted page 6"
+    },
+    {
+      "title": "5.8 National Park",
+      "first_seen_page_index": 6,
+      "source_trace": "NCERT Class 8 Science, Chapter 5, extracted page 6"
+    },
+    {
+      "title": "CONSERVATION OF PLANTS AND ANIMALS 59",
+      "first_seen_page_index": 7,
+      "source_trace": "NCERT Class 8 Science, Chapter 5, extracted page 7"
+    },
+    {
+      "title": "SCIENCE 60",
+      "first_seen_page_index": 8,
+      "source_trace": "NCERT Class 8 Science, Chapter 5, extracted page 8"
+    },
+    {
+      "title": "5.9 Red Data Book",
+      "first_seen_page_index": 8,
+      "source_trace": "NCERT Class 8 Science, Chapter 5, extracted page 8"
+    },
+    {
+      "title": "5.10 Migration",
+      "first_seen_page_index": 8,
+      "source_trace": "NCERT Class 8 Science, Chapter 5, extracted page 8"
+    },
+    {
+      "title": "5.11 Recycling of Paper",
+      "first_seen_page_index": 8,
+      "source_trace": "NCERT Class 8 Science, Chapter 5, extracted page 8"
+    },
+    {
+      "title": "CONSERVATION OF PLANTS AND ANIMALS 61",
+      "first_seen_page_index": 9,
+      "source_trace": "NCERT Class 8 Science, Chapter 5, extracted page 9"
+    },
+    {
+      "title": "5.12 Reforestation",
+      "first_seen_page_index": 9,
+      "source_trace": "NCERT Class 8 Science, Chapter 5, extracted page 9"
+    },
+    {
+      "title": "SCIENCE 62",
+      "first_seen_page_index": 10,
+      "source_trace": "NCERT Class 8 Science, Chapter 5, extracted page 10"
+    },
+    {
+      "title": "KEYWORDS KEYWORDS KEYWORDS KEYWORDS KEYWORDS",
+      "first_seen_page_index": 10,
+      "source_trace": "NCERT Class 8 Science, Chapter 5, extracted page 10"
+    },
+    {
+      "title": "BIODIVERSITY",
+      "first_seen_page_index": 10,
+      "source_trace": "NCERT Class 8 Science, Chapter 5, extracted page 10"
+    },
+    {
+      "title": "BIOSPHERE RESERVE",
+      "first_seen_page_index": 10,
+      "source_trace": "NCERT Class 8 Science, Chapter 5, extracted page 10"
+    },
+    {
+      "title": "DEFORESTATION",
+      "first_seen_page_index": 10,
+      "source_trace": "NCERT Class 8 Science, Chapter 5, extracted page 10"
+    },
+    {
+      "title": "DESERTIFICATION",
+      "first_seen_page_index": 10,
+      "source_trace": "NCERT Class 8 Science, Chapter 5, extracted page 10"
+    },
+    {
+      "title": "ECOSYSTEM",
+      "first_seen_page_index": 10,
+      "source_trace": "NCERT Class 8 Science, Chapter 5, extracted page 10"
+    },
+    {
+      "title": "ENDANGERED",
+      "first_seen_page_index": 10,
+      "source_trace": "NCERT Class 8 Science, Chapter 5, extracted page 10"
+    },
+    {
+      "title": "SPECIES",
+      "first_seen_page_index": 10,
+      "source_trace": "NCERT Class 8 Science, Chapter 5, extracted page 10"
+    }
+  ],
+  "production_status": "concept_candidates_ready_for_human_decode"
+}

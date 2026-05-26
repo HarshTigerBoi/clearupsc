@@ -1,0 +1,73 @@
+{
+  "key": "gs1_geo_class7_our_environment_ch07_human_environment_settlement_transport_and_communication",
+  "title": "Human Environment Settlement Transport and Communication",
+  "source": {
+    "book": "NCERT Class 7 Our Environment",
+    "chapter": 7,
+    "chapter_title": "Human Environment Settlement Transport and Communication",
+    "pdf_url": "https://ncert.nic.in/textbook.php?gess2=0-9",
+    "page_range": "pending source extraction"
+  },
+  "resolved_pdf_url": "https://ncert.nic.in/textbook/pdf/gess207.pdf",
+  "sha256": "4485a424f236ed53f75d8ca76ebdc93161c9d7f9b5489e035ddbd0c1a3942630",
+  "extraction": {
+    "raw_text_path": "data/study/textbook-first/raw-text/gs1_geo_class7_our_environment_ch07_human_environment_settlement_transport_and_communication.txt",
+    "extracted_characters": 12377,
+    "page_count": 8,
+    "paragraph_count_estimate": 0,
+    "title_match_score": 0.2
+  },
+  "concept_candidates": [
+    {
+      "title": "THE HOT DESERT – SAHARA",
+      "first_seen_page_index": 1,
+      "source_trace": "NCERT Class 7 Our Environment, Chapter 7, extracted page 1"
+    },
+    {
+      "title": "50 OUR ENVIRONMENT",
+      "first_seen_page_index": 2,
+      "source_trace": "NCERT Class 7 Our Environment, Chapter 7, extracted page 2"
+    },
+    {
+      "title": "LIFE IN THE DESERTS 51",
+      "first_seen_page_index": 3,
+      "source_trace": "NCERT Class 7 Our Environment, Chapter 7, extracted page 3"
+    },
+    {
+      "title": "52 OUR ENVIRONMENT",
+      "first_seen_page_index": 4,
+      "source_trace": "NCERT Class 7 Our Environment, Chapter 7, extracted page 4"
+    },
+    {
+      "title": "THE COLD DESERT - LADAKH",
+      "first_seen_page_index": 4,
+      "source_trace": "NCERT Class 7 Our Environment, Chapter 7, extracted page 4"
+    },
+    {
+      "title": "LIFE IN THE DESERTS 53",
+      "first_seen_page_index": 5,
+      "source_trace": "NCERT Class 7 Our Environment, Chapter 7, extracted page 5"
+    },
+    {
+      "title": "54 OUR ENVIRONMENT",
+      "first_seen_page_index": 6,
+      "source_trace": "NCERT Class 7 Our Environment, Chapter 7, extracted page 6"
+    },
+    {
+      "title": "LIFE IN THE DESERTS 55",
+      "first_seen_page_index": 7,
+      "source_trace": "NCERT Class 7 Our Environment, Chapter 7, extracted page 7"
+    },
+    {
+      "title": "56 OUR ENVIRONMENT",
+      "first_seen_page_index": 8,
+      "source_trace": "NCERT Class 7 Our Environment, Chapter 7, extracted page 8"
+    },
+    {
+      "title": "APPENDIX",
+      "first_seen_page_index": 8,
+      "source_trace": "NCERT Class 7 Our Environment, Chapter 7, extracted page 8"
+    }
+  ],
+  "production_status": "concept_candidates_ready_for_human_decode"
+}

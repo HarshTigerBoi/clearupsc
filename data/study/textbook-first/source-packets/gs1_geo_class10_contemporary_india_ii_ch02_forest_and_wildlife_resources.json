@@ -1,0 +1,48 @@
+{
+  "key": "gs1_geo_class10_contemporary_india_ii_ch02_forest_and_wildlife_resources",
+  "title": "Forest and Wildlife Resources",
+  "source": {
+    "book": "NCERT Class 10 Contemporary India II",
+    "chapter": 2,
+    "chapter_title": "Forest and Wildlife Resources",
+    "pdf_url": "https://ncert.nic.in/textbook.php?jess3=0-7",
+    "page_range": "pending source extraction"
+  },
+  "resolved_pdf_url": "https://ncert.nic.in/textbook/pdf/jess102.pdf",
+  "sha256": "3fd7cef2770630c7be6a6e62265e4b96cf54aeb0c843c2391f918e54f6a7f926",
+  "extraction": {
+    "raw_text_path": "data/study/textbook-first/raw-text/gs1_geo_class10_contemporary_india_ii_ch02_forest_and_wildlife_resources.txt",
+    "extracted_characters": 13263,
+    "page_count": 6,
+    "paragraph_count_estimate": 0,
+    "title_match_score": 1
+  },
+  "concept_candidates": [
+    {
+      "title": "14 CONTEMPORARY INDIA – II",
+      "first_seen_page_index": 2,
+      "source_trace": "NCERT Class 10 Contemporary India II, Chapter 2, extracted page 2"
+    },
+    {
+      "title": "15 FOREST AND WILDLIFE RESOURCES",
+      "first_seen_page_index": 3,
+      "source_trace": "NCERT Class 10 Contemporary India II, Chapter 2, extracted page 3"
+    },
+    {
+      "title": "16 CONTEMPORARY INDIA – II",
+      "first_seen_page_index": 4,
+      "source_trace": "NCERT Class 10 Contemporary India II, Chapter 2, extracted page 4"
+    },
+    {
+      "title": "17 FOREST AND WILDLIFE RESOURCES",
+      "first_seen_page_index": 5,
+      "source_trace": "NCERT Class 10 Contemporary India II, Chapter 2, extracted page 5"
+    },
+    {
+      "title": "18 CONTEMPORARY INDIA – II",
+      "first_seen_page_index": 6,
+      "source_trace": "NCERT Class 10 Contemporary India II, Chapter 2, extracted page 6"
+    }
+  ],
+  "production_status": "concept_candidates_ready_for_human_decode"
+}

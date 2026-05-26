@@ -1,0 +1,63 @@
+{
+  "key": "gs2_polity_class7_social_political_life_ii_ch02_role_of_the_government_in_health",
+  "title": "Role of the Government in Health",
+  "source": {
+    "book": "NCERT Class 7 Social and Political Life II",
+    "chapter": 2,
+    "chapter_title": "Role of the Government in Health",
+    "pdf_url": "https://ncert.nic.in/textbook.php?gess3=0-9",
+    "page_range": "pending source extraction"
+  },
+  "resolved_pdf_url": "https://ncert.nic.in/textbook/pdf/gess302.pdf",
+  "sha256": "2a1c6f49007feb460c4583b3fbd0eba17a4d4edc4b81abb7dfa7254cc60d4b34",
+  "extraction": {
+    "raw_text_path": "data/study/textbook-first/raw-text/gs2_polity_class7_social_political_life_ii_ch02_role_of_the_government_in_health.txt",
+    "extracted_characters": 20023,
+    "page_count": 13,
+    "paragraph_count_estimate": 0,
+    "title_match_score": 1
+  },
+  "concept_candidates": [
+    {
+      "title": "10 Social and Political Life Chapter 1: On Equality",
+      "first_seen_page_index": 1,
+      "source_trace": "NCERT Class 7 Social and Political Life II, Chapter 2, extracted page 1"
+    },
+    {
+      "title": "2CHAPTER",
+      "first_seen_page_index": 3,
+      "source_trace": "NCERT Class 7 Social and Political Life II, Chapter 2, extracted page 3"
+    },
+    {
+      "title": "16 Social and Political Life",
+      "first_seen_page_index": 6,
+      "source_trace": "NCERT Class 7 Social and Political Life II, Chapter 2, extracted page 6"
+    },
+    {
+      "title": "THE COST OF A CURE",
+      "first_seen_page_index": 6,
+      "source_trace": "NCERT Class 7 Social and Political Life II, Chapter 2, extracted page 6"
+    },
+    {
+      "title": "18 Social and Political Life",
+      "first_seen_page_index": 8,
+      "source_trace": "NCERT Class 7 Social and Political Life II, Chapter 2, extracted page 8"
+    },
+    {
+      "title": "20 Social and Political Life",
+      "first_seen_page_index": 10,
+      "source_trace": "NCERT Class 7 Social and Political Life II, Chapter 2, extracted page 10"
+    },
+    {
+      "title": "22 Social and Political Life",
+      "first_seen_page_index": 12,
+      "source_trace": "NCERT Class 7 Social and Political Life II, Chapter 2, extracted page 12"
+    },
+    {
+      "title": "23 Chapter 2: Role of the Government in Health",
+      "first_seen_page_index": 13,
+      "source_trace": "NCERT Class 7 Social and Political Life II, Chapter 2, extracted page 13"
+    }
+  ],
+  "production_status": "concept_candidates_ready_for_human_decode"
+}

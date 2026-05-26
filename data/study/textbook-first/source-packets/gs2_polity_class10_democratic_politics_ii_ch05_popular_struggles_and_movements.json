@@ -1,0 +1,22 @@
+{
+  "key": "gs2_polity_class10_democratic_politics_ii_ch05_popular_struggles_and_movements",
+  "title": "Popular Struggles and Movements",
+  "source": {
+    "book": "NCERT Class 10 Democratic Politics II",
+    "chapter": 5,
+    "chapter_title": "Popular Struggles and Movements",
+    "pdf_url": "https://ncert.nic.in/textbook.php?jess4=0-8",
+    "page_range": "pending source extraction"
+  },
+  "resolved_pdf_url": "https://ncert.nic.in/textbook/pdf/jess405.pdf",
+  "sha256": "f9049b6789da596463e6e2171c8982b0578cab252fb07e741d99f4200095c325",
+  "extraction": {
+    "raw_text_path": "data/study/textbook-first/raw-text/gs2_polity_class10_democratic_politics_ii_ch05_popular_struggles_and_movements.txt",
+    "extracted_characters": 24870,
+    "page_count": 12,
+    "paragraph_count_estimate": 0,
+    "title_match_score": 0
+  },
+  "concept_candidates": [],
+  "production_status": "needs_manual_source_review"
+}

@@ -1,0 +1,43 @@
+{
+  "key": "gs1_post_independence_class12_politics_india_ch03_politics_of_planned_development",
+  "title": "Politics of Planned Development",
+  "source": {
+    "book": "NCERT Class 12 Politics in India since Independence",
+    "chapter": 3,
+    "chapter_title": "Politics of Planned Development",
+    "pdf_url": "https://ncert.nic.in/textbook.php?leps2=0-8",
+    "page_range": "pending source extraction"
+  },
+  "resolved_pdf_url": "https://ncert.nic.in/textbook/pdf/leps203.pdf",
+  "sha256": "a00b87a6adf2ac21e1d03587a3231441f24d77074ae81ae00b46d894f237a779",
+  "extraction": {
+    "raw_text_path": "data/study/textbook-first/raw-text/gs1_post_independence_class12_politics_india_ch03_politics_of_planned_development.txt",
+    "extracted_characters": 20158,
+    "page_count": 10,
+    "paragraph_count_estimate": 0,
+    "title_match_score": 0.67
+  },
+  "concept_candidates": [
+    {
+      "title": "46 Politics in India since Independence",
+      "first_seen_page_index": 3,
+      "source_trace": "NCERT Class 12 Politics in India since Independence, Chapter 3, extracted page 3"
+    },
+    {
+      "title": "48 Politics in India since Independence",
+      "first_seen_page_index": 5,
+      "source_trace": "NCERT Class 12 Politics in India since Independence, Chapter 3, extracted page 5"
+    },
+    {
+      "title": "50 Politics in India since Independence",
+      "first_seen_page_index": 7,
+      "source_trace": "NCERT Class 12 Politics in India since Independence, Chapter 3, extracted page 7"
+    },
+    {
+      "title": "52 Politics in India since Independence",
+      "first_seen_page_index": 9,
+      "source_trace": "NCERT Class 12 Politics in India since Independence, Chapter 3, extracted page 9"
+    }
+  ],
+  "production_status": "concept_candidates_ready_for_human_decode"
+}

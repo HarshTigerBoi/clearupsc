@@ -1,0 +1,148 @@
+{
+  "key": "gs3_sci_class10_science_ch03_metals_and_non_metals",
+  "title": "Metals and Non-Metals",
+  "source": {
+    "book": "NCERT Class 10 Science",
+    "chapter": 3,
+    "chapter_title": "Metals and Non-Metals",
+    "pdf_url": "https://ncert.nic.in/textbook.php?jesc1=0-16",
+    "page_range": "pending source extraction"
+  },
+  "resolved_pdf_url": "https://ncert.nic.in/textbook/pdf/jesc103.pdf",
+  "sha256": "cda8ac2d0dfd62366bc8949b901df3f28128137b7e0971968f7568dccb715117",
+  "extraction": {
+    "raw_text_path": "data/study/textbook-first/raw-text/gs3_sci_class10_science_ch03_metals_and_non_metals.txt",
+    "extracted_characters": 43183,
+    "page_count": 21,
+    "paragraph_count_estimate": 5,
+    "title_match_score": 1
+  },
+  "concept_candidates": [
+    {
+      "title": "3 CHAPTER",
+      "first_seen_page_index": 1,
+      "source_trace": "NCERT Class 10 Science, Chapter 3, extracted page 1"
+    },
+    {
+      "title": "3.1.1 Metals",
+      "first_seen_page_index": 1,
+      "source_trace": "NCERT Class 10 Science, Chapter 3, extracted page 1"
+    },
+    {
+      "title": "3.1.2 Non-metals",
+      "first_seen_page_index": 3,
+      "source_trace": "NCERT Class 10 Science, Chapter 3, extracted page 3"
+    },
+    {
+      "title": "Q U E S T I O N S",
+      "first_seen_page_index": 4,
+      "source_trace": "NCERT Class 10 Science, Chapter 3, extracted page 4"
+    },
+    {
+      "title": "3.2.1 What happens when Metals are burnt in Air?",
+      "first_seen_page_index": 5,
+      "source_trace": "NCERT Class 10 Science, Chapter 3, extracted page 5"
+    },
+    {
+      "title": "2Cu + O2 → 2CuO",
+      "first_seen_page_index": 5,
+      "source_trace": "NCERT Class 10 Science, Chapter 3, extracted page 5"
+    },
+    {
+      "title": "4Al + 3O2 → 2Al2O3",
+      "first_seen_page_index": 5,
+      "source_trace": "NCERT Class 10 Science, Chapter 3, extracted page 5"
+    },
+    {
+      "title": "Al2O3 + 6HCl → 2AlCl3 + 3H2O",
+      "first_seen_page_index": 5,
+      "source_trace": "NCERT Class 10 Science, Chapter 3, extracted page 5"
+    },
+    {
+      "title": "Al2O3 + 2NaOH → 2NaAlO2 + H2O",
+      "first_seen_page_index": 5,
+      "source_trace": "NCERT Class 10 Science, Chapter 3, extracted page 5"
+    },
+    {
+      "title": "3.2.2 What happens when Metals react with Water?",
+      "first_seen_page_index": 6,
+      "source_trace": "NCERT Class 10 Science, Chapter 3, extracted page 6"
+    },
+    {
+      "title": "3.2.3 What happens when Metals react with Acids?",
+      "first_seen_page_index": 7,
+      "source_trace": "NCERT Class 10 Science, Chapter 3, extracted page 7"
+    },
+    {
+      "title": "3.2.4 How do Metals react with Solutions of other Metal",
+      "first_seen_page_index": 8,
+      "source_trace": "NCERT Class 10 Science, Chapter 3, extracted page 8"
+    },
+    {
+      "title": "3.2.5 The Reactivity Series",
+      "first_seen_page_index": 9,
+      "source_trace": "NCERT Class 10 Science, Chapter 3, extracted page 9"
+    },
+    {
+      "title": "K L M N",
+      "first_seen_page_index": 11,
+      "source_trace": "NCERT Class 10 Science, Chapter 3, extracted page 11"
+    },
+    {
+      "title": "3.3.1 Properties of Ionic Compounds",
+      "first_seen_page_index": 12,
+      "source_trace": "NCERT Class 10 Science, Chapter 3, extracted page 12"
+    },
+    {
+      "title": "3.4.1 Extraction of Metals",
+      "first_seen_page_index": 13,
+      "source_trace": "NCERT Class 10 Science, Chapter 3, extracted page 13"
+    },
+    {
+      "title": "3.4.2 Enrichment of Ores",
+      "first_seen_page_index": 14,
+      "source_trace": "NCERT Class 10 Science, Chapter 3, extracted page 14"
+    },
+    {
+      "title": "3.4.3 Extracting Metals Low in the Activity Series",
+      "first_seen_page_index": 15,
+      "source_trace": "NCERT Class 10 Science, Chapter 3, extracted page 15"
+    },
+    {
+      "title": "2Cu O + Cu S",
+      "first_seen_page_index": 15,
+      "source_trace": "NCERT Class 10 Science, Chapter 3, extracted page 15"
+    },
+    {
+      "title": "3.4.4 Extracting Metals in the Middle of the Activity Series",
+      "first_seen_page_index": 15,
+      "source_trace": "NCERT Class 10 Science, Chapter 3, extracted page 15"
+    },
+    {
+      "title": "3.4.5 Extracting Metals towards the Top of the",
+      "first_seen_page_index": 16,
+      "source_trace": "NCERT Class 10 Science, Chapter 3, extracted page 16"
+    },
+    {
+      "title": "3.4.6 Refining of Metals",
+      "first_seen_page_index": 16,
+      "source_trace": "NCERT Class 10 Science, Chapter 3, extracted page 16"
+    },
+    {
+      "title": "3.5 CORROSION 3.5 CORROSION 3.5 CORROSION 3.5 CORROSION 3.5 CORROSION",
+      "first_seen_page_index": 17,
+      "source_trace": "NCERT Class 10 Science, Chapter 3, extracted page 17"
+    },
+    {
+      "title": "3.5.1 Prevention of Corrosion",
+      "first_seen_page_index": 18,
+      "source_trace": "NCERT Class 10 Science, Chapter 3, extracted page 18"
+    },
+    {
+      "title": "E X E R C I S E S",
+      "first_seen_page_index": 20,
+      "source_trace": "NCERT Class 10 Science, Chapter 3, extracted page 20"
+    }
+  ],
+  "production_status": "concept_candidates_ready_for_human_decode"
+}

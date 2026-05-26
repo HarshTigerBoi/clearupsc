@@ -1,0 +1,78 @@
+{
+  "key": "gs3_economy_class12_macro_ch03_determination_of_income_and_employment",
+  "title": "Determination of Income and Employment",
+  "source": {
+    "book": "NCERT Class 12 Introductory Macroeconomics",
+    "chapter": 3,
+    "chapter_title": "Determination of Income and Employment",
+    "pdf_url": "https://ncert.nic.in/textbook.php?leec1=0-6",
+    "page_range": "pending source extraction"
+  },
+  "resolved_pdf_url": "https://ncert.nic.in/textbook/pdf/leec103.pdf",
+  "sha256": "d1b7f0407236a4fcf300267a04c2897acfcfbe2435c100ccf5205acb0748843f",
+  "extraction": {
+    "raw_text_path": "data/study/textbook-first/raw-text/gs3_economy_class12_macro_ch03_determination_of_income_and_employment.txt",
+    "extracted_characters": 45793,
+    "page_count": 17,
+    "paragraph_count_estimate": 0,
+    "title_match_score": 0
+  },
+  "concept_candidates": [
+    {
+      "title": "3.1 FUNCTIONS OF MONEY",
+      "first_seen_page_index": 1,
+      "source_trace": "NCERT Class 12 Introductory Macroeconomics, Chapter 3, extracted page 1"
+    },
+    {
+      "title": "3.2 DEMAND FOR MONEY AND SUPPLY OF MONEY",
+      "first_seen_page_index": 2,
+      "source_trace": "NCERT Class 12 Introductory Macroeconomics, Chapter 3, extracted page 2"
+    },
+    {
+      "title": "3.3 MONEY CREATION BY BANKING SYSTEM",
+      "first_seen_page_index": 4,
+      "source_trace": "NCERT Class 12 Introductory Macroeconomics, Chapter 3, extracted page 4"
+    },
+    {
+      "title": "3.3.1 Balance Sheet of a Fictional Bank",
+      "first_seen_page_index": 5,
+      "source_trace": "NCERT Class 12 Introductory Macroeconomics, Chapter 3, extracted page 5"
+    },
+    {
+      "title": "3.1 Balance Sheet of a Bank",
+      "first_seen_page_index": 5,
+      "source_trace": "NCERT Class 12 Introductory Macroeconomics, Chapter 3, extracted page 5"
+    },
+    {
+      "title": "3.3.2 Limits to Credit Creation and Money Multiplier",
+      "first_seen_page_index": 5,
+      "source_trace": "NCERT Class 12 Introductory Macroeconomics, Chapter 3, extracted page 5"
+    },
+    {
+      "title": "3.4 POLICY TOOLS TO CONTROL MONEY SUPPLY",
+      "first_seen_page_index": 7,
+      "source_trace": "NCERT Class 12 Introductory Macroeconomics, Chapter 3, extracted page 7"
+    },
+    {
+      "title": "T = kPY (3.3)",
+      "first_seen_page_index": 9,
+      "source_trace": "NCERT Class 12 Introductory Macroeconomics, Chapter 3, extracted page 9"
+    },
+    {
+      "title": "PV = X + Y = 10",
+      "first_seen_page_index": 10,
+      "source_trace": "NCERT Class 12 Introductory Macroeconomics, Chapter 3, extracted page 10"
+    },
+    {
+      "title": "THE SUPPLY OF MONEY : VARIOUS MEASURES",
+      "first_seen_page_index": 12,
+      "source_trace": "NCERT Class 12 Introductory Macroeconomics, Chapter 3, extracted page 12"
+    },
+    {
+      "title": "M1 = CU + DD",
+      "first_seen_page_index": 13,
+      "source_trace": "NCERT Class 12 Introductory Macroeconomics, Chapter 3, extracted page 13"
+    }
+  ],
+  "production_status": "concept_candidates_ready_for_human_decode"
+}

@@ -1,0 +1,208 @@
+{
+  "key": "gs1_hist_class12_indian_history_ii_ch02_bhakti_sufi_traditions",
+  "title": "Bhakti Sufi Traditions",
+  "source": {
+    "book": "NCERT Class 12 Themes in Indian History II",
+    "chapter": 2,
+    "chapter_title": "Bhakti Sufi Traditions",
+    "pdf_url": "https://ncert.nic.in/textbook.php?lehs2=0-5",
+    "page_range": "pending source extraction"
+  },
+  "resolved_pdf_url": "https://ncert.nic.in/textbook/pdf/lehs202.pdf",
+  "sha256": "40306b8534e4322837150a1fdd33ca6fbcc2b63a7abf616c0d4d73985356dfd5",
+  "extraction": {
+    "raw_text_path": "data/study/textbook-first/raw-text/gs1_hist_class12_indian_history_ii_ch02_bhakti_sufi_traditions.txt",
+    "extracted_characters": 66644,
+    "page_count": 30,
+    "paragraph_count_estimate": 2,
+    "title_match_score": 1
+  },
+  "concept_candidates": [
+    {
+      "title": "THEMES IN INDIAN HISTORY – PART II 140",
+      "first_seen_page_index": 1,
+      "source_trace": "NCERT Class 12 Themes in Indian History II, Chapter 2, extracted page 1"
+    },
+    {
+      "title": "THEME",
+      "first_seen_page_index": 1,
+      "source_trace": "NCERT Class 12 Themes in Indian History II, Chapter 2, extracted page 1"
+    },
+    {
+      "title": "1.1 The integration of cults",
+      "first_seen_page_index": 2,
+      "source_trace": "NCERT Class 12 Themes in Indian History II, Chapter 2, extracted page 2"
+    },
+    {
+      "title": "BHAKTI-SUFI TRADITIONS",
+      "first_seen_page_index": 2,
+      "source_trace": "NCERT Class 12 Themes in Indian History II, Chapter 2, extracted page 2"
+    },
+    {
+      "title": "THEMES IN INDIAN HISTORY – PART II 142",
+      "first_seen_page_index": 3,
+      "source_trace": "NCERT Class 12 Themes in Indian History II, Chapter 2, extracted page 3"
+    },
+    {
+      "title": "1.2 Difference and conflict",
+      "first_seen_page_index": 3,
+      "source_trace": "NCERT Class 12 Themes in Indian History II, Chapter 2, extracted page 3"
+    },
+    {
+      "title": "2.1 The Alvars and Nayanars of Tamil Nadu",
+      "first_seen_page_index": 4,
+      "source_trace": "NCERT Class 12 Themes in Indian History II, Chapter 2, extracted page 4"
+    },
+    {
+      "title": "THEMES IN INDIAN HISTORY – PART II 144",
+      "first_seen_page_index": 5,
+      "source_trace": "NCERT Class 12 Themes in Indian History II, Chapter 2, extracted page 5"
+    },
+    {
+      "title": "2.2 Attitudes towards caste",
+      "first_seen_page_index": 5,
+      "source_trace": "NCERT Class 12 Themes in Indian History II, Chapter 2, extracted page 5"
+    },
+    {
+      "title": "2.3 Women devotees",
+      "first_seen_page_index": 5,
+      "source_trace": "NCERT Class 12 Themes in Indian History II, Chapter 2, extracted page 5"
+    },
+    {
+      "title": "2.4 Relations with the state",
+      "first_seen_page_index": 6,
+      "source_trace": "NCERT Class 12 Themes in Indian History II, Chapter 2, extracted page 6"
+    },
+    {
+      "title": "THEMES IN INDIAN HISTORY – PART II 146",
+      "first_seen_page_index": 7,
+      "source_trace": "NCERT Class 12 Themes in Indian History II, Chapter 2, extracted page 7"
+    },
+    {
+      "title": "THEMES IN INDIAN HISTORY – PART II 148",
+      "first_seen_page_index": 9,
+      "source_trace": "NCERT Class 12 Themes in Indian History II, Chapter 2, extracted page 9"
+    },
+    {
+      "title": "5.1 Faiths of rulers and subjects",
+      "first_seen_page_index": 10,
+      "source_trace": "NCERT Class 12 Themes in Indian History II, Chapter 2, extracted page 10"
+    },
+    {
+      "title": "THEMES IN INDIAN HISTORY – PART II 150",
+      "first_seen_page_index": 11,
+      "source_trace": "NCERT Class 12 Themes in Indian History II, Chapter 2, extracted page 11"
+    },
+    {
+      "title": "5.2 The popular practice of Islam",
+      "first_seen_page_index": 12,
+      "source_trace": "NCERT Class 12 Themes in Indian History II, Chapter 2, extracted page 12"
+    },
+    {
+      "title": "THEMES IN INDIAN HISTORY – PART II 152",
+      "first_seen_page_index": 13,
+      "source_trace": "NCERT Class 12 Themes in Indian History II, Chapter 2, extracted page 13"
+    },
+    {
+      "title": "5.3 Names for communities",
+      "first_seen_page_index": 13,
+      "source_trace": "NCERT Class 12 Themes in Indian History II, Chapter 2, extracted page 13"
+    },
+    {
+      "title": "6.1 Khanqahs and silsilas",
+      "first_seen_page_index": 14,
+      "source_trace": "NCERT Class 12 Themes in Indian History II, Chapter 2, extracted page 14"
+    },
+    {
+      "title": "THEMES IN INDIAN HISTORY – PART II 154",
+      "first_seen_page_index": 15,
+      "source_trace": "NCERT Class 12 Themes in Indian History II, Chapter 2, extracted page 15"
+    },
+    {
+      "title": "6.2 Outside the khanqah",
+      "first_seen_page_index": 15,
+      "source_trace": "NCERT Class 12 Themes in Indian History II, Chapter 2, extracted page 15"
+    },
+    {
+      "title": "7.1 Life in the Chishti khanqah",
+      "first_seen_page_index": 15,
+      "source_trace": "NCERT Class 12 Themes in Indian History II, Chapter 2, extracted page 15"
+    },
+    {
+      "title": "MAJOR TEACHERS OF THE CHISHTI SILSILA",
+      "first_seen_page_index": 15,
+      "source_trace": "NCERT Class 12 Themes in Indian History II, Chapter 2, extracted page 15"
+    },
+    {
+      "title": "SUFI TEACHERS YEAR OF DEATH LOCATION OF DARGAH",
+      "first_seen_page_index": 15,
+      "source_trace": "NCERT Class 12 Themes in Indian History II, Chapter 2, extracted page 15"
+    },
+    {
+      "title": "7.2 Chishti devotionalism: ziyarat and qawwali",
+      "first_seen_page_index": 16,
+      "source_trace": "NCERT Class 12 Themes in Indian History II, Chapter 2, extracted page 16"
+    },
+    {
+      "title": "THEMES IN INDIAN HISTORY – PART II 156",
+      "first_seen_page_index": 17,
+      "source_trace": "NCERT Class 12 Themes in Indian History II, Chapter 2, extracted page 17"
+    },
+    {
+      "title": "THEMES IN INDIAN HISTORY – PART II 158",
+      "first_seen_page_index": 19,
+      "source_trace": "NCERT Class 12 Themes in Indian History II, Chapter 2, extracted page 19"
+    },
+    {
+      "title": "7.3 Languages and communication",
+      "first_seen_page_index": 19,
+      "source_trace": "NCERT Class 12 Themes in Indian History II, Chapter 2, extracted page 19"
+    },
+    {
+      "title": "7.4 Sufis and the state",
+      "first_seen_page_index": 20,
+      "source_trace": "NCERT Class 12 Themes in Indian History II, Chapter 2, extracted page 20"
+    },
+    {
+      "title": "THEMES IN INDIAN HISTORY – PART II 160",
+      "first_seen_page_index": 21,
+      "source_trace": "NCERT Class 12 Themes in Indian History II, Chapter 2, extracted page 21"
+    },
+    {
+      "title": "8.1 Weaving a divine fabric: Kabir",
+      "first_seen_page_index": 22,
+      "source_trace": "NCERT Class 12 Themes in Indian History II, Chapter 2, extracted page 22"
+    },
+    {
+      "title": "THEMES IN INDIAN HISTORY – PART II 162",
+      "first_seen_page_index": 23,
+      "source_trace": "NCERT Class 12 Themes in Indian History II, Chapter 2, extracted page 23"
+    },
+    {
+      "title": "8.2 Baba Guru Nanak and the Sacred Word",
+      "first_seen_page_index": 24,
+      "source_trace": "NCERT Class 12 Themes in Indian History II, Chapter 2, extracted page 24"
+    },
+    {
+      "title": "THEMES IN INDIAN HISTORY – PART II 164",
+      "first_seen_page_index": 25,
+      "source_trace": "NCERT Class 12 Themes in Indian History II, Chapter 2, extracted page 25"
+    },
+    {
+      "title": "8.3 Mirabai, the devotee princess",
+      "first_seen_page_index": 25,
+      "source_trace": "NCERT Class 12 Themes in Indian History II, Chapter 2, extracted page 25"
+    },
+    {
+      "title": "THEMES IN INDIAN HISTORY – PART II 166",
+      "first_seen_page_index": 27,
+      "source_trace": "NCERT Class 12 Themes in Indian History II, Chapter 2, extracted page 27"
+    },
+    {
+      "title": "THEMES IN INDIAN HISTORY – PART II 168",
+      "first_seen_page_index": 29,
+      "source_trace": "NCERT Class 12 Themes in Indian History II, Chapter 2, extracted page 29"
+    }
+  ],
+  "production_status": "concept_candidates_ready_for_human_decode"
+}

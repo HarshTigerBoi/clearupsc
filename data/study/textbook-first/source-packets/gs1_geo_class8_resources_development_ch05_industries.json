@@ -1,0 +1,33 @@
+{
+  "key": "gs1_geo_class8_resources_development_ch05_industries",
+  "title": "Industries",
+  "source": {
+    "book": "NCERT Class 8 Resources and Development",
+    "chapter": 5,
+    "chapter_title": "Industries",
+    "pdf_url": "https://ncert.nic.in/textbook.php?hess3=0-6",
+    "page_range": "pending source extraction"
+  },
+  "resolved_pdf_url": "https://ncert.nic.in/textbook/pdf/hess305.pdf",
+  "sha256": "c4e5c53e957accf3e4c6fc98f063bba4f830bca8e8e550f3446ae1ec2dafe2ea",
+  "extraction": {
+    "raw_text_path": "data/study/textbook-first/raw-text/gs1_geo_class8_resources_development_ch05_industries.txt",
+    "extracted_characters": 29226,
+    "page_count": 14,
+    "paragraph_count_estimate": 0,
+    "title_match_score": 0
+  },
+  "concept_candidates": [
+    {
+      "title": "73 Chapter 5: Understanding Marginalisation",
+      "first_seen_page_index": 14,
+      "source_trace": "NCERT Class 8 Resources and Development, Chapter 5, extracted page 14"
+    },
+    {
+      "title": "GLOSSARY",
+      "first_seen_page_index": 14,
+      "source_trace": "NCERT Class 8 Resources and Development, Chapter 5, extracted page 14"
+    }
+  ],
+  "production_status": "concept_candidates_ready_for_human_decode"
+}

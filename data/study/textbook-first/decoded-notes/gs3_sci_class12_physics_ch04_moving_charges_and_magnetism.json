@@ -1,0 +1,220 @@
+{
+  "analogy": "Think of \"Moving Charges and Magnetism\" through the chapter's own opening images: 4.1 INTRODUCTION Both Electricity and Magnetism have been known for more than 2000 years. However, it was only about 200 years ago, in 1820, that it was realised that they were intimately related. During a lecture demonstration in the summer of 1820, Danish physicist Hans... The easy idea is that the visible surface is only the outside cover. The chapter keeps asking how we can know what is inside when no one can directly reach the deep interior. So the learner must read clues: rocks, mines, drilling, volcanic material, heat, gravity, magnetism and earthquake waves. Like solving a hidden-layer puzzle, each clue tells something about the crust, mantle, core and volcanic activity without inventing anything beyond the textbook.",
+  "full_notes": "Moving Charges and Magnetism is decoded here only from the NCERT chapter text. The chapter begins by asking how the nature of the earth should be imagined and why the interior cannot be known in the same direct way as the surface. It connects the hidden interior with visible results on the surface, especially landscape development, earthquakes, tsunamis and volcanic activity.\n\nThe text explains that 4.1 INTRODUCTION Both Electricity and Magnetism have been known for more than 2000 years.\n\nThe text explains that however, it was only about 200 years ago, in 1820, that it was realised that they were intimately related.\n\nThe text explains that during a lecture demonstration in the summer of 1820, Danish physicist Hans Christian Oersted noticed that a current in a straight wire caused a noticeable deflection in a nearby magnetic compass needle.\n\nThe text explains that he found that the alignment of the needle is tangential to an imaginary circle which has the straight wire as its centre and has its plane perpendicular to the wire.\n\nThe text explains that it is noticeable when the current is large and the needle sufficiently close to the wire so that the earth’s magnetic field may be ignored.\n\nThe text explains that reversing the direction of the current reverses the orientation of the needle [Fig.\n\nThe text explains that the deflection increases on increasing the current or bringing the needle closer to the wire.\n\nThe text explains that iron filings sprinkled around the wire arrange themselves in concentric circles with the wire as the centre [Fig.\n\nThe text explains that oersted concluded that moving charges or currents produced a magnetic field in the surrounding space.\n\nThe text explains that following this, there was intense experimentation.\n\nThe text explains that in 1864, the laws obeyed by electricity and magnetism were unified and formulated by Chapter Four MOVING CHARGES AND MAGNETISM\n\nThe text explains that physics 108 James Maxwell who then realised that light was electromagnetic waves.\n\nThe text explains that radio waves were discovered by Hertz, and produced by J.C.Bose and G.\n\nThe text explains that a remarkable scientific and technological progress took place in the 20th century.\n\nThe text explains that this was due to our increased understanding of electromagnetism and the invention of devices for production, amplification, transmission and detection of electromagnetic waves.\n\nThe text explains that in this chapter, we will see how magnetic field exerts forces on moving charged particles, like electrons, protons, and current-carrying wires.\n\nThe text explains that 4.2 MAGNETIC FORCE 4.2.1 Sources and fields Before we introduce the concept of a magnetic field B, we shall recapitulate what we have learnt in Chapter 1 about the electric field E.\n\nThe text explains that the charge Q, the source of the field, produces an electric field E, where FIGURE 4.1 The magnetic field due to a straight long current-carrying wire.\n\nThe text explains that experimentally, it is found to obey the principle of superposition: the magnetic field of several sources is the vector addition of magnetic field of each individual source.\n\nThe text explains that the force acts in a (sideways) direction perpendicular to both the velocity and the magnetic field.\n\nThe text explains that its direction is given by the screw rule or right hand rule for vector (or cross) product as illustrated in Fig.\n\nThe text explains that let the number density of these mobile charge carriers in it be n.\n\nThe text explains that now nq vd is the current density j and |(nq vd )|A is the current I (see Chapter 3 for the discussion of current and current density).\n\nThe text explains that thus, F = [(nq vd )l A] × B = [ jAl ] ´´´´´ B = Il ´´´´´ B (4.4) where l is a vector of magnitude l, the length of the rod, and with a direction identical to the current I.\n\nThe text explains that fIGURE 4.2 The direction of the magnetic force acting on a charged particle.\n\nThe text explains that we have learnt in Mechanics (see Class XI book, Chapter 5) that a force on a particle does work if the force has a component along (or opposed to) the direction of motion of the particle.\n\nThe text explains that so no work is done and no change in the magnitude of the velocity is produced (though the direction of momentum may be changed). [Notice that this is unlike the force due to an electric field, q E, which can have a component parallel (or antiparallel) to motion and thus can transfer energy in addition to momentum.] We shall consider motion of a charged particle in a uniform magnetic field.\n\nThe text explains that its direction* is perpendicular to the plane containing dl and r .\n\nThe text explains that the ƒ sign indicates that the field is perpendicular to the plane of this page and directed into it. * The sense of dl × r is also given by the Right Hand Screw rule : Look at the plane containing vectors dl and r.\n\nThe text explains that some of these are: (i) Both are long range, since both depend inversely on the square of distance from the source to the point of interest.\n\nThe text explains that the principle of superposition applies to both fields. [In this connection, note that the magnetic field is linear in the source I dl just as the electrostatic field is linear in its source: the electric charge.] (ii) The electrostatic field is produced by a scalar source, namely, the electric charge.\n\nThe text explains that the magnetic field is produced by a vector source I dl.\n\nThe text explains that (iii) The electrostatic field is along the displacement vector joining the source and the field point.\n\nThe text explains that 4.7, the magnetic field at any point in the direction of dl (the dashed line) is zero.\n\nThe text explains that there is an interesting relation between ε0, the permittivity of free space; μ0, the permeability of free space; and c, the speed of light in vacuum: ( ) 0 0 0 0 4 4 μ ε μ ε = π π ( )7 9 1 10 9 10 − = × 8 2 2 1 1 (3 10 ) c = = × We will discuss this connection further in Chapter 8 on the electromagnetic waves.\n\nThe text explains that (4.7)] 2 d 10 m l x − = ∆ = , I = 10 A, r = 0.5 m = y, 7 0 T m / 4 10 A μ − π = θ = 90° ; sin θ = 1 7 2 2 10 10 10 d 25 10 − − − × × = × B = 4 × 10–8 T The direction of the field is in the +z-direction.\n\nThe text explains that physics 116 The direction of dB is shown in Fig.\n\nThe text explains that the net contribution along x-direction can be obtained by integrating dBx = dB cos θ over the loop.\n\nThe text explains that the direction of the magnetic field is given by (another) right-hand thumb rule stated below: Curl the palm of your right hand around the circular wire with the fingers pointing in the direction of the current.\n\nThe text explains that the right-hand thumb gives the direction of the magnetic field.\n\nThe text explains that the direction of the field is given by the right-hand thumb rule described in the text.\n\nThe text explains that hence direction of B for a semicircular arc is given by the right-hand rule and magnitude is half that of a circular loop.\n\nThe text explains that (c) Same magnitude of B but opposite in direction to that in (b).\n\nThe text explains that then the direction of the thumb gives the sense in which the current I is regarded as positive.\n\nThe text explains that (ii) The field direction at any point on this circle is tangential to it.\n\nThe text explains that the field is directly proportional to the current and inversely proportional to the distance from the (infinitely long) current source.\n\nThe text explains that (iv) There exists a simple rule to determine the direction of the magnetic field due to a long wire.\n\nThe text explains that this rule, called the right-hand rule*, is: Grasp the wire in your right hand with your extended thumb pointing in the direction of the current.\n\nThe text explains that determine the ratio of (a) current sensitivity and (b) voltage sensitivity of M2 and M1.\n\nThe text explains that 4.11 In a chamber, a uniform magnetic field of 6.5 G (1 G = 10–4 T ) is maintained.\n\nThe text explains that an electron is shot into the field with a speed of 4.8 × 106 m s–1 normal to the field.\n\nThe text explains that explain why the path of the electron is a circle.\n\nSource: NCERT Class 12 Physics, Chapter 4: Moving Charges and Magnetism",
+  "concise_notes": [
+    {
+      "term": "4.1 INTRODUCTION",
+      "definition": "4.1 INTRODUCTION Both Electricity and Magnetism have been known for more than 2000 years.",
+      "source_trace": "NCERT Class 12 Physics Ch4 pg 1"
+    },
+    {
+      "term": "MOVING CHARGES",
+      "definition": "Oersted concluded that moving charges or currents produced a magnetic field in the surrounding space.",
+      "source_trace": "NCERT Class 12 Physics Ch4 pg 1"
+    },
+    {
+      "term": "AND MAGNETISM",
+      "definition": "4.1 INTRODUCTION Both Electricity and Magnetism have been known for more than 2000 years.",
+      "source_trace": "NCERT Class 12 Physics Ch4 pg 1"
+    },
+    {
+      "term": "4.2 MAGNETIC FORCE",
+      "definition": "During a lecture demonstration in the summer of 1820, Danish physicist Hans Christian Oersted noticed that a current in a straight wire caused a noticeable deflection in a...",
+      "source_trace": "NCERT Class 12 Physics Ch4 pg 1"
+    },
+    {
+      "term": "4.2.1 Sources and fields",
+      "definition": "4.2 MAGNETIC FORCE 4.2.1 Sources and fields Before we introduce the concept of a magnetic field B, we shall recapitulate what we have learnt in Chapter 1 about...",
+      "source_trace": "NCERT Class 12 Physics Ch4 pg 1"
+    },
+    {
+      "term": "HANS CHRISTIAN OERSTED",
+      "definition": "During a lecture demonstration in the summer of 1820, Danish physicist Hans Christian Oersted noticed that a current in a straight wire caused a noticeable deflection in a...",
+      "source_trace": "NCERT Class 12 Physics Ch4 pg 1"
+    },
+    {
+      "term": "4.2.2 Magnetic Field, Lorentz Force",
+      "definition": "4.2.2 Magnetic Field, Lorentz Force Let us suppose that there is a point charge q (moving with a velocity v and, located at r at a given time...",
+      "source_trace": "NCERT Class 12 Physics Ch4 pg 2"
+    },
+    {
+      "term": "HENDRIK ANTOON LORENTZ (1853 – 1928)",
+      "definition": "The vector product makes the force due to magnetic HENDRIK ANTOON LORENTZ (1853 – 1928) Hendrik Antoon Lorentz (1853 – 1928) Dutch theoretical physicist, professor at Leiden.",
+      "source_trace": "NCERT Class 12 Physics Ch4 pg 2"
+    },
+    {
+      "term": "4.2.3 Magnetic force on a current-carrying conductor",
+      "definition": "4.2.3 Magnetic force on a current-carrying conductor We can extend the analysis for force due to magnetic field on a single moving charge to a straight rod carrying...",
+      "source_trace": "NCERT Class 12 Physics Ch4 pg 3"
+    },
+    {
+      "term": "EXAMPLE",
+      "definition": "111 Moving Charges and Magnetism EXAMPLE 4.1 Example 4.1 A straight wire of mass 200 g and length 1.5 m carries a current of 2 A.",
+      "source_trace": "NCERT Class 12 Physics Ch4 pg 4"
+    }
+  ],
+  "revision_bullets": [
+    "4.1 INTRODUCTION Both Electricity and Magnetism have been known for more than 2000 years. (NCERT Class 12 Physics Ch4 pg 1)",
+    "However, it was only about 200 years ago, in 1820, that it was realised that they were intimately related. (NCERT Class 12 Physics Ch4 pg 1)",
+    "During a lecture demonstration in the summer of 1820, Danish physicist Hans Christian Oersted noticed that a current in a straight wire caused a noticeable deflection... (NCERT Class 12 Physics Ch4 pg 1)",
+    "He found that the alignment of the needle is tangential to an imaginary circle which has the straight wire as its centre and has its plane... (NCERT Class 12 Physics Ch4 pg 1)",
+    "It is noticeable when the current is large and the needle sufficiently close to the wire so that the earth’s magnetic field may be ignored. (NCERT Class 12 Physics Ch4 pg 1)",
+    "Reversing the direction of the current reverses the orientation of the needle [Fig. (NCERT Class 12 Physics Ch4 pg 1)",
+    "The deflection increases on increasing the current or bringing the needle closer to the wire. (NCERT Class 12 Physics Ch4 pg 1)",
+    "Iron filings sprinkled around the wire arrange themselves in concentric circles with the wire as the centre [Fig. (NCERT Class 12 Physics Ch4 pg 1)",
+    "Oersted concluded that moving charges or currents produced a magnetic field in the surrounding space. (NCERT Class 12 Physics Ch4 pg 1)",
+    "In 1864, the laws obeyed by electricity and magnetism were unified and formulated by Chapter Four MOVING CHARGES AND MAGNETISM (NCERT Class 12 Physics Ch4 pg 1)"
+  ],
+  "cases": [
+    {
+      "name": "INTRODUCTION Both Electricity",
+      "point": "4.1 INTRODUCTION Both Electricity and Magnetism have been known for more than 2000 years. (NCERT Class 12 Physics Ch4 pg 1)"
+    },
+    {
+      "name": "During",
+      "point": "During a lecture demonstration in the summer of 1820, Danish physicist Hans Christian Oersted noticed that a current in a straight wire caused a noticeable deflection... (NCERT Class 12 Physics Ch4 pg 1)"
+    },
+    {
+      "name": "In",
+      "point": "In 1864, the laws obeyed by electricity and magnetism were unified and formulated by Chapter Four MOVING CHARGES AND MAGNETISM (NCERT Class 12 Physics Ch4 pg 1)"
+    },
+    {
+      "name": "Physics",
+      "point": "Physics 108 James Maxwell who then realised that light was electromagnetic waves. (NCERT Class 12 Physics Ch4 pg 1)"
+    },
+    {
+      "name": "Hans Christian Oersted",
+      "point": "Hans Christian Oersted (1777–1851) Danish physicist and chemist, professor at Copenhagen. (NCERT Class 12 Physics Ch4 pg 1)"
+    }
+  ],
+  "schemes": [
+    {
+      "name": "The",
+      "point": "The forces on the arms BC and DA are equal, opposite, and act along the axis of the coil, which connects the centres of mass of... (NCERT Class 12 Physics Ch4 pg 18)"
+    }
+  ],
+  "ncert_coverage": [
+    "NCERT Class 12 Physics Chapter 4: Moving Charges and Magnetism"
+  ],
+  "prelims_traps": [
+    "Do not treat 4.1 INTRODUCTION and MOVING CHARGES as identical unless the source text links them directly.",
+    "Do not add outside examples to Moving Charges and Magnetism; use only the examples and processes named in the chapter.",
+    "Do not confuse a visible surface result with the internal process or source evidence described by the text."
+  ],
+  "mains_angles": [
+    "Explain Moving Charges and Magnetism through the source chain: evidence, process and visible result.",
+    "Use 4.1 INTRODUCTION and MOVING CHARGES to show how the chapter connects facts with mechanisms.",
+    "Frame an answer around causes, internal working, surface expression and source limitations from the NCERT chapter."
+  ],
+  "mcqs": [
+    {
+      "question_text": "In the NCERT discussion of Moving Charges and Magnetism, which statement is supported by the source text about 4.1 INTRODUCTION?",
+      "options": [
+        "4.1 INTRODUCTION Both Electricity and Magnetism have been known for more than 2000 years.",
+        "However, it was only about 200 years ago, in 1820, that it was realised that they were intimately related.",
+        "During a lecture demonstration in the summer of 1820, Danish physicist Hans Christian Oersted noticed that a current in a straight wire caused a...",
+        "He found that the alignment of the needle is tangential to an imaginary circle which has the straight wire as its centre and has..."
+      ],
+      "correct_answer": 0,
+      "pattern": "statement",
+      "source_trace": "NCERT Class 12 Physics Ch4 pg 1",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 3,
+      "concepts_tested": [
+        "4.1 INTRODUCTION"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Moving Charges and Magnetism, which statement is supported by the source text about MOVING CHARGES?",
+      "options": [
+        "It is noticeable when the current is large and the needle sufficiently close to the wire so that the earth’s magnetic field may be...",
+        "Reversing the direction of the current reverses the orientation of the needle [Fig.",
+        "The deflection increases on increasing the current or bringing the needle closer to the wire.",
+        "Iron filings sprinkled around the wire arrange themselves in concentric circles with the wire as the centre [Fig."
+      ],
+      "correct_answer": 0,
+      "pattern": "statement",
+      "source_trace": "NCERT Class 12 Physics Ch4 pg 1",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 3,
+      "concepts_tested": [
+        "MOVING CHARGES"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Moving Charges and Magnetism, which statement is supported by the source text about AND MAGNETISM?",
+      "options": [
+        "Oersted concluded that moving charges or currents produced a magnetic field in the surrounding space.",
+        "In 1864, the laws obeyed by electricity and magnetism were unified and formulated by Chapter Four MOVING CHARGES AND MAGNETISM",
+        "Physics 108 James Maxwell who then realised that light was electromagnetic waves.",
+        "Radio waves were discovered by Hertz, and produced by J.C.Bose and G."
+      ],
+      "correct_answer": 0,
+      "pattern": "not_type",
+      "source_trace": "NCERT Class 12 Physics Ch4 pg 1",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 3,
+      "concepts_tested": [
+        "AND MAGNETISM"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Moving Charges and Magnetism, which statement is supported by the source text about 4.2 MAGNETIC FORCE?",
+      "options": [
+        "A remarkable scientific and technological progress took place in the 20th century.",
+        "This was due to our increased understanding of electromagnetism and the invention of devices for production, amplification, transmission and detection of electromagnetic waves.",
+        "In this chapter, we will see how magnetic field exerts forces on moving charged particles, like electrons, protons, and current-carrying wires.",
+        "We shall also learn how currents produce magnetic fields."
+      ],
+      "correct_answer": 0,
+      "pattern": "statement",
+      "source_trace": "NCERT Class 12 Physics Ch4 pg 1",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 3,
+      "concepts_tested": [
+        "4.2 MAGNETIC FORCE"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Moving Charges and Magnetism, which statement is supported by the source text about 4.2.1 Sources and fields?",
+      "options": [
+        "We shall see how particles can be accelerated to very high energies in a cyclotron.",
+        "We shall study how currents and voltages are detected by a galvanometer.",
+        "In this and subsequent Chapter on magnetism, we adopt the following convention: A current or a field (electric or magnetic) emerging out of the...",
+        "A current or a field going into the plane of the paper is depicted by a cross (  )*."
+      ],
+      "correct_answer": 0,
+      "pattern": "statement",
+      "source_trace": "NCERT Class 12 Physics Ch4 pg 1",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 3,
+      "concepts_tested": [
+        "4.2.1 Sources and fields"
+      ]
+    }
+  ],
+  "source_audit": {
+    "source_only": true,
+    "uncertain_or_omitted": [],
+    "generation_method": "local_source_only_extractive_decode"
+  },
+  "content_model": "clearupsc_textbook_decoded_from_source_v1",
+  "decode_status": "textbook_decoded",
+  "source": {
+    "book": "NCERT Class 12 Physics",
+    "chapter": 4,
+    "chapter_title": "Moving Charges and Magnetism",
+    "pdf_url": "https://ncert.nic.in/textbook.php?leph1=0-14",
+    "page_range": "pending source extraction"
+  },
+  "resolved_pdf_url": "https://ncert.nic.in/textbook/pdf/leph104.pdf",
+  "source_trace": "NCERT Class 12 Physics | Chapter 4: Moving Charges and Magnetism | https://ncert.nic.in/textbook/pdf/leph104.pdf | sha256:9bea19084fa95e103eb4b22a7c008248395c022e7adae04fe11a9228067b6746",
+  "raw_text_path": "data/study/textbook-first/raw-text/gs3_sci_class12_physics_ch04_moving_charges_and_magnetism.txt",
+  "generated_by": "local_source_only_extractive_decode",
+  "generated_at": "2026-05-26T19:40:04.337Z"
+}

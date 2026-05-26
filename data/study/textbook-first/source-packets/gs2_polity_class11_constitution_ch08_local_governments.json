@@ -1,0 +1,63 @@
+{
+  "key": "gs2_polity_class11_constitution_ch08_local_governments",
+  "title": "Local Governments",
+  "source": {
+    "book": "NCERT Class 11 Indian Constitution at Work",
+    "chapter": 8,
+    "chapter_title": "Local Governments",
+    "pdf_url": "https://ncert.nic.in/textbook.php?keps2=0-10",
+    "page_range": "pending source extraction"
+  },
+  "resolved_pdf_url": "https://ncert.nic.in/textbook/pdf/keps208.pdf",
+  "sha256": "310198f51e71f981101cb3121c83a0ff9238003ea0e289806e391699d78a6ee7",
+  "extraction": {
+    "raw_text_path": "data/study/textbook-first/raw-text/gs2_polity_class11_constitution_ch08_local_governments.txt",
+    "extracted_characters": 34903,
+    "page_count": 20,
+    "paragraph_count_estimate": 0,
+    "title_match_score": 1
+  },
+  "concept_candidates": [
+    {
+      "title": "LOCAL",
+      "first_seen_page_index": 1,
+      "source_trace": "NCERT Class 11 Indian Constitution at Work, Chapter 8, extracted page 1"
+    },
+    {
+      "title": "GOVERNMENTS",
+      "first_seen_page_index": 1,
+      "source_trace": "NCERT Class 11 Indian Constitution at Work, Chapter 8, extracted page 1"
+    },
+    {
+      "title": "INTRODUCTION",
+      "first_seen_page_index": 1,
+      "source_trace": "NCERT Class 11 Indian Constitution at Work, Chapter 8, extracted page 1"
+    },
+    {
+      "title": "WHY LOCAL GOVERNMENTS?",
+      "first_seen_page_index": 2,
+      "source_trace": "NCERT Class 11 Indian Constitution at Work, Chapter 8, extracted page 2"
+    },
+    {
+      "title": "GROWTH OF LOCAL GOVERNMENT IN INDIA",
+      "first_seen_page_index": 4,
+      "source_trace": "NCERT Class 11 Indian Constitution at Work, Chapter 8, extracted page 4"
+    },
+    {
+      "title": "73RD AND 74TH AMENDMENTS",
+      "first_seen_page_index": 7,
+      "source_trace": "NCERT Class 11 Indian Constitution at Work, Chapter 8, extracted page 7"
+    },
+    {
+      "title": "IMPLEMENTATION OF 73RD AND 74TH AMENDMENTS",
+      "first_seen_page_index": 12,
+      "source_trace": "NCERT Class 11 Indian Constitution at Work, Chapter 8, extracted page 12"
+    },
+    {
+      "title": "READ AN IMAGE",
+      "first_seen_page_index": 13,
+      "source_trace": "NCERT Class 11 Indian Constitution at Work, Chapter 8, extracted page 13"
+    }
+  ],
+  "production_status": "concept_candidates_ready_for_human_decode"
+}

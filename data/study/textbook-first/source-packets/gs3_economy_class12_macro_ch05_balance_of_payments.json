@@ -1,0 +1,133 @@
+{
+  "key": "gs3_economy_class12_macro_ch05_balance_of_payments",
+  "title": "Balance of Payments",
+  "source": {
+    "book": "NCERT Class 12 Introductory Macroeconomics",
+    "chapter": 5,
+    "chapter_title": "Balance of Payments",
+    "pdf_url": "https://ncert.nic.in/textbook.php?leec1=0-6",
+    "page_range": "pending source extraction"
+  },
+  "resolved_pdf_url": "https://ncert.nic.in/textbook/pdf/leec105.pdf",
+  "sha256": "2fdd11fd2063ee4d35e065773686b74714a0d9ef636a54d4440326df82146149",
+  "extraction": {
+    "raw_text_path": "data/study/textbook-first/raw-text/gs3_economy_class12_macro_ch05_balance_of_payments.txt",
+    "extracted_characters": 53356,
+    "page_count": 19,
+    "paragraph_count_estimate": 0,
+    "title_match_score": 0.5
+  },
+  "concept_candidates": [
+    {
+      "title": "5.1 GOVERNMENT BUDGET — MEANING AND ITS COMPONENTS",
+      "first_seen_page_index": 1,
+      "source_trace": "NCERT Class 12 Introductory Macroeconomics, Chapter 5, extracted page 1"
+    },
+    {
+      "title": "5.1.1 Objectives of Government Budget",
+      "first_seen_page_index": 2,
+      "source_trace": "NCERT Class 12 Introductory Macroeconomics, Chapter 5, extracted page 2"
+    },
+    {
+      "title": "5.1.2 Classification of Receipts",
+      "first_seen_page_index": 3,
+      "source_trace": "NCERT Class 12 Introductory Macroeconomics, Chapter 5, extracted page 3"
+    },
+    {
+      "title": "5.2 BALANCED, SURPLUS AND DEFICIT BUDGET",
+      "first_seen_page_index": 5,
+      "source_trace": "NCERT Class 12 Introductory Macroeconomics, Chapter 5, extracted page 5"
+    },
+    {
+      "title": "5.2.1 Measures of Government Deficit",
+      "first_seen_page_index": 6,
+      "source_trace": "NCERT Class 12 Introductory Macroeconomics, Chapter 5, extracted page 6"
+    },
+    {
+      "title": "C = C + cYD = C + c(Y – T + TR",
+      "first_seen_page_index": 8,
+      "source_trace": "NCERT Class 12 Introductory Macroeconomics, Chapter 5, extracted page 8"
+    },
+    {
+      "title": "AD = C + c(Y – T + TR",
+      "first_seen_page_index": 8,
+      "source_trace": "NCERT Class 12 Introductory Macroeconomics, Chapter 5, extracted page 8"
+    },
+    {
+      "title": "Y = C + c (Y – T + TR",
+      "first_seen_page_index": 8,
+      "source_trace": "NCERT Class 12 Introductory Macroeconomics, Chapter 5, extracted page 8"
+    },
+    {
+      "title": "Y Y C cT cTR I G G",
+      "first_seen_page_index": 9,
+      "source_trace": "NCERT Class 12 Introductory Macroeconomics, Chapter 5, extracted page 9"
+    },
+    {
+      "title": "E' Y = AD",
+      "first_seen_page_index": 9,
+      "source_trace": "NCERT Class 12 Introductory Macroeconomics, Chapter 5, extracted page 9"
+    },
+    {
+      "title": "C + I + G – cT'",
+      "first_seen_page_index": 9,
+      "source_trace": "NCERT Class 12 Introductory Macroeconomics, Chapter 5, extracted page 9"
+    },
+    {
+      "title": "C + I + G – cT",
+      "first_seen_page_index": 9,
+      "source_trace": "NCERT Class 12 Introductory Macroeconomics, Chapter 5, extracted page 9"
+    },
+    {
+      "title": "C + I + G' – cT",
+      "first_seen_page_index": 9,
+      "source_trace": "NCERT Class 12 Introductory Macroeconomics, Chapter 5, extracted page 9"
+    },
+    {
+      "title": "EXAMPLE 5.1",
+      "first_seen_page_index": 10,
+      "source_trace": "NCERT Class 12 Introductory Macroeconomics, Chapter 5, extracted page 10"
+    },
+    {
+      "title": "C = C + c (Y – tY + TR",
+      "first_seen_page_index": 11,
+      "source_trace": "NCERT Class 12 Introductory Macroeconomics, Chapter 5, extracted page 11"
+    },
+    {
+      "title": "TR + I + G",
+      "first_seen_page_index": 11,
+      "source_trace": "NCERT Class 12 Introductory Macroeconomics, Chapter 5, extracted page 11"
+    },
+    {
+      "title": "AD' = C + c(1 – t)Y + I + G",
+      "first_seen_page_index": 11,
+      "source_trace": "NCERT Class 12 Introductory Macroeconomics, Chapter 5, extracted page 11"
+    },
+    {
+      "title": "AD = C + cY + I + G",
+      "first_seen_page_index": 11,
+      "source_trace": "NCERT Class 12 Introductory Macroeconomics, Chapter 5, extracted page 11"
+    },
+    {
+      "title": "EXAMPLE 5.2",
+      "first_seen_page_index": 12,
+      "source_trace": "NCERT Class 12 Introductory Macroeconomics, Chapter 5, extracted page 12"
+    },
+    {
+      "title": "AD' = C + c(1 – t')Y",
+      "first_seen_page_index": 12,
+      "source_trace": "NCERT Class 12 Introductory Macroeconomics, Chapter 5, extracted page 12"
+    },
+    {
+      "title": "AD = C + c(1 – t)Y + I + G",
+      "first_seen_page_index": 12,
+      "source_trace": "NCERT Class 12 Introductory Macroeconomics, Chapter 5, extracted page 12"
+    },
+    {
+      "title": "EXAMPLE 5.3",
+      "first_seen_page_index": 13,
+      "source_trace": "NCERT Class 12 Introductory Macroeconomics, Chapter 5, extracted page 13"
+    }
+  ],
+  "production_status": "concept_candidates_ready_for_human_decode"
+}

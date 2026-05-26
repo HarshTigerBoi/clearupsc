@@ -1,0 +1,98 @@
+{
+  "key": "gs1_hist_class10_contemporary_world_ii_ch04_the_age_of_industrialisation",
+  "title": "The Age of Industrialisation",
+  "source": {
+    "book": "NCERT Class 10 India and the Contemporary World II",
+    "chapter": 4,
+    "chapter_title": "The Age of Industrialisation",
+    "pdf_url": "https://ncert.nic.in/textbook.php?jess1=0-5",
+    "page_range": "pending source extraction"
+  },
+  "resolved_pdf_url": "https://ncert.nic.in/textbook/pdf/jess304.pdf",
+  "sha256": "4d9221dd6d954eb57c151e549405bfbaa1a9668ef7ec80e15fad70d371541fb4",
+  "extraction": {
+    "raw_text_path": "data/study/textbook-first/raw-text/gs1_hist_class10_contemporary_world_ii_ch04_the_age_of_industrialisation.txt",
+    "extracted_characters": 52108,
+    "page_count": 24,
+    "paragraph_count_estimate": 0,
+    "title_match_score": 1
+  },
+  "concept_candidates": [
+    {
+      "title": "1 Before the Industrial Revolution",
+      "first_seen_page_index": 3,
+      "source_trace": "NCERT Class 10 India and the Contemporary World II, Chapter 4, extracted page 3"
+    },
+    {
+      "title": "1.1 The Coming Up of the Factory",
+      "first_seen_page_index": 4,
+      "source_trace": "NCERT Class 10 India and the Contemporary World II, Chapter 4, extracted page 4"
+    },
+    {
+      "title": "1.2 The Pace of Industrial Change",
+      "first_seen_page_index": 5,
+      "source_trace": "NCERT Class 10 India and the Contemporary World II, Chapter 4, extracted page 5"
+    },
+    {
+      "title": "2 Hand Labour and Steam Power",
+      "first_seen_page_index": 7,
+      "source_trace": "NCERT Class 10 India and the Contemporary World II, Chapter 4, extracted page 7"
+    },
+    {
+      "title": "2.1 Life of the Workers",
+      "first_seen_page_index": 8,
+      "source_trace": "NCERT Class 10 India and the Contemporary World II, Chapter 4, extracted page 8"
+    },
+    {
+      "title": "3 Industrialisation in the Colonies",
+      "first_seen_page_index": 11,
+      "source_trace": "NCERT Class 10 India and the Contemporary World II, Chapter 4, extracted page 11"
+    },
+    {
+      "title": "3.1 The Age of Indian Textiles",
+      "first_seen_page_index": 11,
+      "source_trace": "NCERT Class 10 India and the Contemporary World II, Chapter 4, extracted page 11"
+    },
+    {
+      "title": "3.2 What Happened to Weavers?",
+      "first_seen_page_index": 12,
+      "source_trace": "NCERT Class 10 India and the Contemporary World II, Chapter 4, extracted page 12"
+    },
+    {
+      "title": "3.3 Manchester Comes to India",
+      "first_seen_page_index": 14,
+      "source_trace": "NCERT Class 10 India and the Contemporary World II, Chapter 4, extracted page 14"
+    },
+    {
+      "title": "4 Factories Come Up",
+      "first_seen_page_index": 16,
+      "source_trace": "NCERT Class 10 India and the Contemporary World II, Chapter 4, extracted page 16"
+    },
+    {
+      "title": "4.1 The Early Entrepreneurs",
+      "first_seen_page_index": 16,
+      "source_trace": "NCERT Class 10 India and the Contemporary World II, Chapter 4, extracted page 16"
+    },
+    {
+      "title": "4.2 Where Did the Workers Come From?",
+      "first_seen_page_index": 17,
+      "source_trace": "NCERT Class 10 India and the Contemporary World II, Chapter 4, extracted page 17"
+    },
+    {
+      "title": "5 The Peculiarities of Industrial Growth",
+      "first_seen_page_index": 19,
+      "source_trace": "NCERT Class 10 India and the Contemporary World II, Chapter 4, extracted page 19"
+    },
+    {
+      "title": "5.1 Small-scale Industries Predominate",
+      "first_seen_page_index": 20,
+      "source_trace": "NCERT Class 10 India and the Contemporary World II, Chapter 4, extracted page 20"
+    },
+    {
+      "title": "6 Market for Goods",
+      "first_seen_page_index": 22,
+      "source_trace": "NCERT Class 10 India and the Contemporary World II, Chapter 4, extracted page 22"
+    }
+  ],
+  "production_status": "concept_candidates_ready_for_human_decode"
+}

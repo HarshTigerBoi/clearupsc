@@ -1,0 +1,128 @@
+{
+  "key": "gs1_geo_class11_phys_ch01_geography_as_discipline",
+  "title": "Geography as a Discipline",
+  "source": {
+    "book": "NCERT Class 11 Fundamentals of Physical Geography",
+    "chapter": 1,
+    "chapter_title": "Geography as a Discipline",
+    "pdf_url": "https://ncert.nic.in/textbook/pdf/kegy201.pdf",
+    "page_range": "1-8"
+  },
+  "resolved_pdf_url": "https://ncert.nic.in/textbook/pdf/kegy201.pdf",
+  "sha256": "c36af59e494cbd3c0a495549a1f8ec99dd7cb3b7c7a0c6331a419dc53448f3ee",
+  "extraction": {
+    "raw_text_path": "data/study/textbook-first/raw-text/gs1_geo_class11_phys_ch01_geography_as_discipline.txt",
+    "extracted_characters": 25682,
+    "page_count": 11,
+    "paragraph_count_estimate": 0,
+    "title_match_score": 1
+  },
+  "concept_candidates": [
+    {
+      "title": "GEOGRAPHY AS A DISCIPLINE",
+      "first_seen_page_index": 1,
+      "source_trace": "NCERT Class 11 Fundamentals of Physical Geography, Chapter 1, extracted page 1"
+    },
+    {
+      "title": "C H A P T E R",
+      "first_seen_page_index": 2,
+      "source_trace": "NCERT Class 11 Fundamentals of Physical Geography, Chapter 1, extracted page 2"
+    },
+    {
+      "title": "GEOGRAPHY AS A DISCIPLINE 3",
+      "first_seen_page_index": 3,
+      "source_trace": "NCERT Class 11 Fundamentals of Physical Geography, Chapter 1, extracted page 3"
+    },
+    {
+      "title": "FUNDAMENTALS OF PHYSICAL GEOGRAPHY 4",
+      "first_seen_page_index": 4,
+      "source_trace": "NCERT Class 11 Fundamentals of Physical Geography, Chapter 1, extracted page 4"
+    },
+    {
+      "title": "GEOGRAPHY AS AN INTEGRATING DISCIPLINE",
+      "first_seen_page_index": 4,
+      "source_trace": "NCERT Class 11 Fundamentals of Physical Geography, Chapter 1, extracted page 4"
+    },
+    {
+      "title": "GEOGRAPHY AS A DISCIPLINE 5",
+      "first_seen_page_index": 5,
+      "source_trace": "NCERT Class 11 Fundamentals of Physical Geography, Chapter 1, extracted page 5"
+    },
+    {
+      "title": "FIELD OF GEOGRAPHY",
+      "first_seen_page_index": 5,
+      "source_trace": "NCERT Class 11 Fundamentals of Physical Geography, Chapter 1, extracted page 5"
+    },
+    {
+      "title": "FUNDAMENTALS OF PHYSICAL GEOGRAPHY 6",
+      "first_seen_page_index": 6,
+      "source_trace": "NCERT Class 11 Fundamentals of Physical Geography, Chapter 1, extracted page 6"
+    },
+    {
+      "title": "BRANCHES OF GEOGRAPHY",
+      "first_seen_page_index": 6,
+      "source_trace": "NCERT Class 11 Fundamentals of Physical Geography, Chapter 1, extracted page 6"
+    },
+    {
+      "title": "BRANCHES OF GEOGRAPHY (BASED ON",
+      "first_seen_page_index": 6,
+      "source_trace": "NCERT Class 11 Fundamentals of Physical Geography, Chapter 1, extracted page 6"
+    },
+    {
+      "title": "SYSTEMATIC APPROACH)",
+      "first_seen_page_index": 6,
+      "source_trace": "NCERT Class 11 Fundamentals of Physical Geography, Chapter 1, extracted page 6"
+    },
+    {
+      "title": "GEOGRAPHY AS A DISCIPLINE 7",
+      "first_seen_page_index": 7,
+      "source_trace": "NCERT Class 11 Fundamentals of Physical Geography, Chapter 1, extracted page 7"
+    },
+    {
+      "title": "FUNDAMENTALS OF PHYSICAL GEOGRAPHY 8",
+      "first_seen_page_index": 8,
+      "source_trace": "NCERT Class 11 Fundamentals of Physical Geography, Chapter 1, extracted page 8"
+    },
+    {
+      "title": "BRANCHES OF GEOGRAPHY BASED ON REGIONAL",
+      "first_seen_page_index": 8,
+      "source_trace": "NCERT Class 11 Fundamentals of Physical Geography, Chapter 1, extracted page 8"
+    },
+    {
+      "title": "APPROACH (FIGURE1.3)",
+      "first_seen_page_index": 8,
+      "source_trace": "NCERT Class 11 Fundamentals of Physical Geography, Chapter 1, extracted page 8"
+    },
+    {
+      "title": "GEOGRAPHY AS A DISCIPLINE 9",
+      "first_seen_page_index": 9,
+      "source_trace": "NCERT Class 11 Fundamentals of Physical Geography, Chapter 1, extracted page 9"
+    },
+    {
+      "title": "PHYSICAL GEOGRAPHY AND ITS IMPORTANCE",
+      "first_seen_page_index": 9,
+      "source_trace": "NCERT Class 11 Fundamentals of Physical Geography, Chapter 1, extracted page 9"
+    },
+    {
+      "title": "FUNDAMENTALS OF PHYSICAL GEOGRAPHY 10",
+      "first_seen_page_index": 10,
+      "source_trace": "NCERT Class 11 Fundamentals of Physical Geography, Chapter 1, extracted page 10"
+    },
+    {
+      "title": "(a) 1B,2C,3A,4D (c) 1D,2B,3C,4A",
+      "first_seen_page_index": 10,
+      "source_trace": "NCERT Class 11 Fundamentals of Physical Geography, Chapter 1, extracted page 10"
+    },
+    {
+      "title": "(b) 1A,2D,3B,4C (d) 1C,2A,3D,4B",
+      "first_seen_page_index": 10,
+      "source_trace": "NCERT Class 11 Fundamentals of Physical Geography, Chapter 1, extracted page 10"
+    },
+    {
+      "title": "GEOGRAPHY AS A DISCIPLINE 11",
+      "first_seen_page_index": 11,
+      "source_trace": "NCERT Class 11 Fundamentals of Physical Geography, Chapter 1, extracted page 11"
+    }
+  ],
+  "production_status": "concept_candidates_ready_for_human_decode"
+}

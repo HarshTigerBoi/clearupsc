@@ -1,0 +1,223 @@
+{
+  "key": "gs1_hist_class12_indian_history_iii_ch04_framing_the_constitution",
+  "title": "Framing the Constitution",
+  "source": {
+    "book": "NCERT Class 12 Themes in Indian History III",
+    "chapter": 4,
+    "chapter_title": "Framing the Constitution",
+    "pdf_url": "https://ncert.nic.in/textbook.php?lehs3=0-4",
+    "page_range": "pending source extraction"
+  },
+  "resolved_pdf_url": "https://ncert.nic.in/textbook/pdf/lehs304.pdf",
+  "sha256": "6e00dbc64d67c38fc6042163d82ded8c4811899e210c159f36e25bbe220a820d",
+  "extraction": {
+    "raw_text_path": "data/study/textbook-first/raw-text/gs1_hist_class12_indian_history_iii_ch04_framing_the_constitution.txt",
+    "extracted_characters": 64170,
+    "page_count": 29,
+    "paragraph_count_estimate": 1,
+    "title_match_score": 1
+  },
+  "concept_candidates": [
+    {
+      "title": "THEME",
+      "first_seen_page_index": 1,
+      "source_trace": "NCERT Class 12 Themes in Indian History III, Chapter 4, extracted page 1"
+    },
+    {
+      "title": "TWELVE",
+      "first_seen_page_index": 1,
+      "source_trace": "NCERT Class 12 Themes in Indian History III, Chapter 4, extracted page 1"
+    },
+    {
+      "title": "317 FRAMING THE CONSTITUTION",
+      "first_seen_page_index": 2,
+      "source_trace": "NCERT Class 12 Themes in Indian History III, Chapter 4, extracted page 2"
+    },
+    {
+      "title": "THEMES IN INDIAN HISTORY – PART III 318",
+      "first_seen_page_index": 3,
+      "source_trace": "NCERT Class 12 Themes in Indian History III, Chapter 4, extracted page 3"
+    },
+    {
+      "title": "1.1 The making of the Constituent Assembly",
+      "first_seen_page_index": 3,
+      "source_trace": "NCERT Class 12 Themes in Indian History III, Chapter 4, extracted page 3"
+    },
+    {
+      "title": "319 FRAMING THE CONSTITUTION",
+      "first_seen_page_index": 4,
+      "source_trace": "NCERT Class 12 Themes in Indian History III, Chapter 4, extracted page 4"
+    },
+    {
+      "title": "THEMES IN INDIAN HISTORY – PART III 320",
+      "first_seen_page_index": 5,
+      "source_trace": "NCERT Class 12 Themes in Indian History III, Chapter 4, extracted page 5"
+    },
+    {
+      "title": "1.2 The dominant voices",
+      "first_seen_page_index": 5,
+      "source_trace": "NCERT Class 12 Themes in Indian History III, Chapter 4, extracted page 5"
+    },
+    {
+      "title": "321 FRAMING THE CONSTITUTION",
+      "first_seen_page_index": 6,
+      "source_trace": "NCERT Class 12 Themes in Indian History III, Chapter 4, extracted page 6"
+    },
+    {
+      "title": "THEMES IN INDIAN HISTORY – PART III 322",
+      "first_seen_page_index": 7,
+      "source_trace": "NCERT Class 12 Themes in Indian History III, Chapter 4, extracted page 7"
+    },
+    {
+      "title": "13 December 1946:",
+      "first_seen_page_index": 7,
+      "source_trace": "NCERT Class 12 Themes in Indian History III, Chapter 4, extracted page 7"
+    },
+    {
+      "title": "323 FRAMING THE CONSTITUTION",
+      "first_seen_page_index": 8,
+      "source_trace": "NCERT Class 12 Themes in Indian History III, Chapter 4, extracted page 8"
+    },
+    {
+      "title": "CONSTITUENT ASSEMBLY DEBATES (CAD), VOL.I",
+      "first_seen_page_index": 8,
+      "source_trace": "NCERT Class 12 Themes in Indian History III, Chapter 4, extracted page 8"
+    },
+    {
+      "title": "THEMES IN INDIAN HISTORY – PART III 324",
+      "first_seen_page_index": 9,
+      "source_trace": "NCERT Class 12 Themes in Indian History III, Chapter 4, extracted page 9"
+    },
+    {
+      "title": "2.1 The will of the people",
+      "first_seen_page_index": 9,
+      "source_trace": "NCERT Class 12 Themes in Indian History III, Chapter 4, extracted page 9"
+    },
+    {
+      "title": "325 FRAMING THE CONSTITUTION",
+      "first_seen_page_index": 10,
+      "source_trace": "NCERT Class 12 Themes in Indian History III, Chapter 4, extracted page 10"
+    },
+    {
+      "title": "CAD, VOL.I",
+      "first_seen_page_index": 10,
+      "source_trace": "NCERT Class 12 Themes in Indian History III, Chapter 4, extracted page 10"
+    },
+    {
+      "title": "THEMES IN INDIAN HISTORY – PART III 326",
+      "first_seen_page_index": 11,
+      "source_trace": "NCERT Class 12 Themes in Indian History III, Chapter 4, extracted page 11"
+    },
+    {
+      "title": "327 FRAMING THE CONSTITUTION",
+      "first_seen_page_index": 12,
+      "source_trace": "NCERT Class 12 Themes in Indian History III, Chapter 4, extracted page 12"
+    },
+    {
+      "title": "13 December 1946 was of the Constitution of an",
+      "first_seen_page_index": 12,
+      "source_trace": "NCERT Class 12 Themes in Indian History III, Chapter 4, extracted page 12"
+    },
+    {
+      "title": "3.1 The problem with separate electorates",
+      "first_seen_page_index": 12,
+      "source_trace": "NCERT Class 12 Themes in Indian History III, Chapter 4, extracted page 12"
+    },
+    {
+      "title": "THEMES IN INDIAN HISTORY – PART III 328",
+      "first_seen_page_index": 13,
+      "source_trace": "NCERT Class 12 Themes in Indian History III, Chapter 4, extracted page 13"
+    },
+    {
+      "title": "CAD, VOL.V",
+      "first_seen_page_index": 13,
+      "source_trace": "NCERT Class 12 Themes in Indian History III, Chapter 4, extracted page 13"
+    },
+    {
+      "title": "329 FRAMING THE CONSTITUTION",
+      "first_seen_page_index": 14,
+      "source_trace": "NCERT Class 12 Themes in Indian History III, Chapter 4, extracted page 14"
+    },
+    {
+      "title": "CAD, VOL.II",
+      "first_seen_page_index": 14,
+      "source_trace": "NCERT Class 12 Themes in Indian History III, Chapter 4, extracted page 14"
+    },
+    {
+      "title": "THEMES IN INDIAN HISTORY – PART III 330",
+      "first_seen_page_index": 15,
+      "source_trace": "NCERT Class 12 Themes in Indian History III, Chapter 4, extracted page 15"
+    },
+    {
+      "title": "331 FRAMING THE CONSTITUTION",
+      "first_seen_page_index": 16,
+      "source_trace": "NCERT Class 12 Themes in Indian History III, Chapter 4, extracted page 16"
+    },
+    {
+      "title": "THEMES IN INDIAN HISTORY – PART III 332",
+      "first_seen_page_index": 17,
+      "source_trace": "NCERT Class 12 Themes in Indian History III, Chapter 4, extracted page 17"
+    },
+    {
+      "title": "333 FRAMING THE CONSTITUTION",
+      "first_seen_page_index": 18,
+      "source_trace": "NCERT Class 12 Themes in Indian History III, Chapter 4, extracted page 18"
+    },
+    {
+      "title": "THEMES IN INDIAN HISTORY – PART III 334",
+      "first_seen_page_index": 19,
+      "source_trace": "NCERT Class 12 Themes in Indian History III, Chapter 4, extracted page 19"
+    },
+    {
+      "title": "335 FRAMING THE CONSTITUTION",
+      "first_seen_page_index": 20,
+      "source_trace": "NCERT Class 12 Themes in Indian History III, Chapter 4, extracted page 20"
+    },
+    {
+      "title": "THEMES IN INDIAN HISTORY – PART III 336",
+      "first_seen_page_index": 21,
+      "source_trace": "NCERT Class 12 Themes in Indian History III, Chapter 4, extracted page 21"
+    },
+    {
+      "title": "HARIJANSEVAK, 12 OCTOBER 1947",
+      "first_seen_page_index": 21,
+      "source_trace": "NCERT Class 12 Themes in Indian History III, Chapter 4, extracted page 21"
+    },
+    {
+      "title": "337 FRAMING THE CONSTITUTION",
+      "first_seen_page_index": 22,
+      "source_trace": "NCERT Class 12 Themes in Indian History III, Chapter 4, extracted page 22"
+    },
+    {
+      "title": "5.1 A plea for Hindi",
+      "first_seen_page_index": 22,
+      "source_trace": "NCERT Class 12 Themes in Indian History III, Chapter 4, extracted page 22"
+    },
+    {
+      "title": "THEMES IN INDIAN HISTORY – PART III 338",
+      "first_seen_page_index": 23,
+      "source_trace": "NCERT Class 12 Themes in Indian History III, Chapter 4, extracted page 23"
+    },
+    {
+      "title": "5.2 The fear of domination",
+      "first_seen_page_index": 23,
+      "source_trace": "NCERT Class 12 Themes in Indian History III, Chapter 4, extracted page 23"
+    },
+    {
+      "title": "339 FRAMING THE CONSTITUTION",
+      "first_seen_page_index": 24,
+      "source_trace": "NCERT Class 12 Themes in Indian History III, Chapter 4, extracted page 24"
+    },
+    {
+      "title": "THEMES IN INDIAN HISTORY – PART III 340",
+      "first_seen_page_index": 25,
+      "source_trace": "NCERT Class 12 Themes in Indian History III, Chapter 4, extracted page 25"
+    },
+    {
+      "title": "341 FRAMING THE CONSTITUTION",
+      "first_seen_page_index": 26,
+      "source_trace": "NCERT Class 12 Themes in Indian History III, Chapter 4, extracted page 26"
+    }
+  ],
+  "production_status": "concept_candidates_ready_for_human_decode"
+}

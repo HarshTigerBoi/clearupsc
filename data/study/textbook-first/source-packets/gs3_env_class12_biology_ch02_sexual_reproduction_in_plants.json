@@ -1,0 +1,98 @@
+{
+  "key": "gs3_env_class12_biology_ch02_sexual_reproduction_in_plants",
+  "title": "Sexual Reproduction in Plants",
+  "source": {
+    "book": "NCERT Class 12 Biology",
+    "chapter": 2,
+    "chapter_title": "Sexual Reproduction in Plants",
+    "pdf_url": "https://ncert.nic.in/textbook.php?lebo1=0-16",
+    "page_range": "pending source extraction"
+  },
+  "resolved_pdf_url": "https://ncert.nic.in/textbook/pdf/lebo102.pdf",
+  "sha256": "af54d04d912114053befb30adf8e56580fe9ddb49c461160dba150a0d19a07a8",
+  "extraction": {
+    "raw_text_path": "data/study/textbook-first/raw-text/gs3_env_class12_biology_ch02_sexual_reproduction_in_plants.txt",
+    "extracted_characters": 30402,
+    "page_count": 15,
+    "paragraph_count_estimate": 0,
+    "title_match_score": 0.67
+  },
+  "concept_candidates": [
+    {
+      "title": "2.1 THE MALE REPRODUCTIVE SYSTEM",
+      "first_seen_page_index": 1,
+      "source_trace": "NCERT Class 12 Biology, Chapter 2, extracted page 1"
+    },
+    {
+      "title": "CHAPTER 2",
+      "first_seen_page_index": 1,
+      "source_trace": "NCERT Class 12 Biology, Chapter 2, extracted page 1"
+    },
+    {
+      "title": "HUMAN REPRODUCTION",
+      "first_seen_page_index": 1,
+      "source_trace": "NCERT Class 12 Biology, Chapter 2, extracted page 1"
+    },
+    {
+      "title": "2.1 The Male Reproductive",
+      "first_seen_page_index": 1,
+      "source_trace": "NCERT Class 12 Biology, Chapter 2, extracted page 1"
+    },
+    {
+      "title": "2.2 The Female Reproductive",
+      "first_seen_page_index": 1,
+      "source_trace": "NCERT Class 12 Biology, Chapter 2, extracted page 1"
+    },
+    {
+      "title": "2.3 Gametogenesis",
+      "first_seen_page_index": 1,
+      "source_trace": "NCERT Class 12 Biology, Chapter 2, extracted page 1"
+    },
+    {
+      "title": "2.4 Menstrual Cycle",
+      "first_seen_page_index": 1,
+      "source_trace": "NCERT Class 12 Biology, Chapter 2, extracted page 1"
+    },
+    {
+      "title": "2.5 Fertilisation and",
+      "first_seen_page_index": 1,
+      "source_trace": "NCERT Class 12 Biology, Chapter 2, extracted page 1"
+    },
+    {
+      "title": "2.6 Pregnancy and Embryonic",
+      "first_seen_page_index": 1,
+      "source_trace": "NCERT Class 12 Biology, Chapter 2, extracted page 1"
+    },
+    {
+      "title": "2.7 Parturition and Lactation",
+      "first_seen_page_index": 1,
+      "source_trace": "NCERT Class 12 Biology, Chapter 2, extracted page 1"
+    },
+    {
+      "title": "BIOLOGY",
+      "first_seen_page_index": 3,
+      "source_trace": "NCERT Class 12 Biology, Chapter 2, extracted page 3"
+    },
+    {
+      "title": "2.2 THE FEMALE REPRODUCTIVE SYSTEM",
+      "first_seen_page_index": 3,
+      "source_trace": "NCERT Class 12 Biology, Chapter 2, extracted page 3"
+    },
+    {
+      "title": "2.5 FERTILISATION AND IMPLANTATION",
+      "first_seen_page_index": 10,
+      "source_trace": "NCERT Class 12 Biology, Chapter 2, extracted page 10"
+    },
+    {
+      "title": "2.6 PREGNANCY AND EMBRYONIC DEVELOPMENT",
+      "first_seen_page_index": 12,
+      "source_trace": "NCERT Class 12 Biology, Chapter 2, extracted page 12"
+    },
+    {
+      "title": "SUMMARY",
+      "first_seen_page_index": 14,
+      "source_trace": "NCERT Class 12 Biology, Chapter 2, extracted page 14"
+    }
+  ],
+  "production_status": "concept_candidates_ready_for_human_decode"
+}

@@ -1,0 +1,103 @@
+{
+  "key": "gs2_polity_class11_constitution_ch03_election_and_representation",
+  "title": "Election and Representation",
+  "source": {
+    "book": "NCERT Class 11 Indian Constitution at Work",
+    "chapter": 3,
+    "chapter_title": "Election and Representation",
+    "pdf_url": "https://ncert.nic.in/textbook.php?keps2=0-10",
+    "page_range": "pending source extraction"
+  },
+  "resolved_pdf_url": "https://ncert.nic.in/textbook/pdf/keps203.pdf",
+  "sha256": "1ec3da10cde835e42d7076c34848ef8a124cfe92963162796afd460e96487b91",
+  "extraction": {
+    "raw_text_path": "data/study/textbook-first/raw-text/gs2_polity_class11_constitution_ch03_election_and_representation.txt",
+    "extracted_characters": 48870,
+    "page_count": 27,
+    "paragraph_count_estimate": 2,
+    "title_match_score": 1
+  },
+  "concept_candidates": [
+    {
+      "title": "ELECTION AND",
+      "first_seen_page_index": 1,
+      "source_trace": "NCERT Class 11 Indian Constitution at Work, Chapter 3, extracted page 1"
+    },
+    {
+      "title": "REPRESENTATION",
+      "first_seen_page_index": 1,
+      "source_trace": "NCERT Class 11 Indian Constitution at Work, Chapter 3, extracted page 1"
+    },
+    {
+      "title": "INTRODUCTION",
+      "first_seen_page_index": 1,
+      "source_trace": "NCERT Class 11 Indian Constitution at Work, Chapter 3, extracted page 1"
+    },
+    {
+      "title": "ELECTIONS AND DEMOCRACY",
+      "first_seen_page_index": 2,
+      "source_trace": "NCERT Class 11 Indian Constitution at Work, Chapter 3, extracted page 2"
+    },
+    {
+      "title": "READ A CARTOON",
+      "first_seen_page_index": 2,
+      "source_trace": "NCERT Class 11 Indian Constitution at Work, Chapter 3, extracted page 2"
+    },
+    {
+      "title": "17 February 1957",
+      "first_seen_page_index": 2,
+      "source_trace": "NCERT Class 11 Indian Constitution at Work, Chapter 3, extracted page 2"
+    },
+    {
+      "title": "ELECTION SYSTEM IN INDIA",
+      "first_seen_page_index": 4,
+      "source_trace": "NCERT Class 11 Indian Constitution at Work, Chapter 3, extracted page 4"
+    },
+    {
+      "title": "CPI (M) 5.7 22",
+      "first_seen_page_index": 6,
+      "source_trace": "NCERT Class 11 Indian Constitution at Work, Chapter 3, extracted page 6"
+    },
+    {
+      "title": "AIADMK 1.6 12",
+      "first_seen_page_index": 6,
+      "source_trace": "NCERT Class 11 Indian Constitution at Work, Chapter 3, extracted page 6"
+    },
+    {
+      "title": "FPTP PR",
+      "first_seen_page_index": 9,
+      "source_trace": "NCERT Class 11 Indian Constitution at Work, Chapter 3, extracted page 9"
+    },
+    {
+      "title": "AIADMK 40.77 135",
+      "first_seen_page_index": 12,
+      "source_trace": "NCERT Class 11 Indian Constitution at Work, Chapter 3, extracted page 12"
+    },
+    {
+      "title": "DMDK 2.39 0",
+      "first_seen_page_index": 12,
+      "source_trace": "NCERT Class 11 Indian Constitution at Work, Chapter 3, extracted page 12"
+    },
+    {
+      "title": "IUML 0.73 1",
+      "first_seen_page_index": 12,
+      "source_trace": "NCERT Class 11 Indian Constitution at Work, Chapter 3, extracted page 12"
+    },
+    {
+      "title": "NOTA 1.30 –",
+      "first_seen_page_index": 12,
+      "source_trace": "NCERT Class 11 Indian Constitution at Work, Chapter 3, extracted page 12"
+    },
+    {
+      "title": "RESERVATION OF CONSTITUENCIES",
+      "first_seen_page_index": 13,
+      "source_trace": "NCERT Class 11 Indian Constitution at Work, Chapter 3, extracted page 13"
+    },
+    {
+      "title": "21 October 1951",
+      "first_seen_page_index": 17,
+      "source_trace": "NCERT Class 11 Indian Constitution at Work, Chapter 3, extracted page 17"
+    }
+  ],
+  "production_status": "concept_candidates_ready_for_human_decode"
+}

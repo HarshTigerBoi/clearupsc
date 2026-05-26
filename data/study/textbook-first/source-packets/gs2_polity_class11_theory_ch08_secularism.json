@@ -1,0 +1,78 @@
+{
+  "key": "gs2_polity_class11_theory_ch08_secularism",
+  "title": "Secularism",
+  "source": {
+    "book": "NCERT Class 11 Political Theory",
+    "chapter": 8,
+    "chapter_title": "Secularism",
+    "pdf_url": "https://ncert.nic.in/textbook.php?keps1=0-10",
+    "page_range": "pending source extraction"
+  },
+  "resolved_pdf_url": "https://ncert.nic.in/textbook/pdf/keps108.pdf",
+  "sha256": "4ecca5c0bb1075aac04993be5a7a06765de591811fe3794da79c2c1ad0b7e01a",
+  "extraction": {
+    "raw_text_path": "data/study/textbook-first/raw-text/gs2_polity_class11_theory_ch08_secularism.txt",
+    "extracted_characters": 36331,
+    "page_count": 18,
+    "paragraph_count_estimate": 0,
+    "title_match_score": 1
+  },
+  "concept_candidates": [
+    {
+      "title": "8.1 WHAT IS SECULARISM?",
+      "first_seen_page_index": 2,
+      "source_trace": "NCERT Class 11 Political Theory, Chapter 8, extracted page 2"
+    },
+    {
+      "title": "8.2 SECULAR STATE",
+      "first_seen_page_index": 4,
+      "source_trace": "NCERT Class 11 Political Theory, Chapter 8, extracted page 4"
+    },
+    {
+      "title": "LET’S DO IT D o",
+      "first_seen_page_index": 4,
+      "source_trace": "NCERT Class 11 Political Theory, Chapter 8, extracted page 4"
+    },
+    {
+      "title": "8.3 THE WESTERN MODEL OF SECULARISM",
+      "first_seen_page_index": 5,
+      "source_trace": "NCERT Class 11 Political Theory, Chapter 8, extracted page 5"
+    },
+    {
+      "title": "LET’S DEBATE",
+      "first_seen_page_index": 5,
+      "source_trace": "NCERT Class 11 Political Theory, Chapter 8, extracted page 5"
+    },
+    {
+      "title": "KEMAL ATATURK’S SECULARISM",
+      "first_seen_page_index": 6,
+      "source_trace": "NCERT Class 11 Political Theory, Chapter 8, extracted page 6"
+    },
+    {
+      "title": "8.4 THE INDIAN MODEL",
+      "first_seen_page_index": 7,
+      "source_trace": "NCERT Class 11 Political Theory, Chapter 8, extracted page 7"
+    },
+    {
+      "title": "OF SECULARISM",
+      "first_seen_page_index": 7,
+      "source_trace": "NCERT Class 11 Political Theory, Chapter 8, extracted page 7"
+    },
+    {
+      "title": "NEHRU ON SECULARISM’",
+      "first_seen_page_index": 7,
+      "source_trace": "NCERT Class 11 Political Theory, Chapter 8, extracted page 7"
+    },
+    {
+      "title": "LET’S THINK",
+      "first_seen_page_index": 10,
+      "source_trace": "NCERT Class 11 Political Theory, Chapter 8, extracted page 10"
+    },
+    {
+      "title": "8.5 CRITICISMS OF INDIAN SECULARISM",
+      "first_seen_page_index": 10,
+      "source_trace": "NCERT Class 11 Political Theory, Chapter 8, extracted page 10"
+    }
+  ],
+  "production_status": "concept_candidates_ready_for_human_decode"
+}

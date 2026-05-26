@@ -1,0 +1,33 @@
+{
+  "key": "gs1_geo_class8_resources_development_ch03_mineral_and_power_resources",
+  "title": "Mineral and Power Resources",
+  "source": {
+    "book": "NCERT Class 8 Resources and Development",
+    "chapter": 3,
+    "chapter_title": "Mineral and Power Resources",
+    "pdf_url": "https://ncert.nic.in/textbook.php?hess3=0-6",
+    "page_range": "pending source extraction"
+  },
+  "resolved_pdf_url": "https://ncert.nic.in/textbook/pdf/hess303.pdf",
+  "sha256": "1cd48693dba92f67f6822d4aa084b8b24a8a40bf3e1125a02ca4fa954d5ed054",
+  "extraction": {
+    "raw_text_path": "data/study/textbook-first/raw-text/gs1_geo_class8_resources_development_ch03_mineral_and_power_resources.txt",
+    "extracted_characters": 33018,
+    "page_count": 18,
+    "paragraph_count_estimate": 9,
+    "title_match_score": 0
+  },
+  "concept_candidates": [
+    {
+      "title": "AJSU Party (AJSU) 1",
+      "first_seen_page_index": 8,
+      "source_trace": "NCERT Class 8 Resources and Development, Chapter 3, extracted page 8"
+    },
+    {
+      "title": "GLOSSARY",
+      "first_seen_page_index": 17,
+      "source_trace": "NCERT Class 8 Resources and Development, Chapter 3, extracted page 17"
+    }
+  ],
+  "production_status": "concept_candidates_ready_for_human_decode"
+}

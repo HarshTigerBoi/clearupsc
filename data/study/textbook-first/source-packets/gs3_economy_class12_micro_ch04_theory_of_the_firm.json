@@ -1,0 +1,208 @@
+{
+  "key": "gs3_economy_class12_micro_ch04_theory_of_the_firm",
+  "title": "Theory of the Firm",
+  "source": {
+    "book": "NCERT Class 12 Introductory Microeconomics",
+    "chapter": 4,
+    "chapter_title": "Theory of the Firm",
+    "pdf_url": "https://ncert.nic.in/textbook.php?leec2=0-5",
+    "page_range": "pending source extraction"
+  },
+  "resolved_pdf_url": "https://ncert.nic.in/textbook/pdf/leec204.pdf",
+  "sha256": "698cba11d5b9bf295dfc17d61ca2b703554fd9abb8a851a5df69930fa3c199fe",
+  "extraction": {
+    "raw_text_path": "data/study/textbook-first/raw-text/gs3_economy_class12_micro_ch04_theory_of_the_firm.txt",
+    "extracted_characters": 42693,
+    "page_count": 18,
+    "paragraph_count_estimate": 0,
+    "title_match_score": 1
+  },
+  "concept_candidates": [
+    {
+      "title": "4.1 PERFECT COMPETITION: DEFINING FEATURES",
+      "first_seen_page_index": 1,
+      "source_trace": "NCERT Class 12 Introductory Microeconomics, Chapter 4, extracted page 1"
+    },
+    {
+      "title": "4.2 REVENUE",
+      "first_seen_page_index": 2,
+      "source_trace": "NCERT Class 12 Introductory Microeconomics, Chapter 4, extracted page 2"
+    },
+    {
+      "title": "55 The Theory of the Firm",
+      "first_seen_page_index": 3,
+      "source_trace": "NCERT Class 12 Introductory Microeconomics, Chapter 4, extracted page 3"
+    },
+    {
+      "title": "AR = TR",
+      "first_seen_page_index": 3,
+      "source_trace": "NCERT Class 12 Introductory Microeconomics, Chapter 4, extracted page 3"
+    },
+    {
+      "title": "4.3 PROFIT MAXIMISATION",
+      "first_seen_page_index": 4,
+      "source_trace": "NCERT Class 12 Introductory Microeconomics, Chapter 4, extracted page 4"
+    },
+    {
+      "title": "π = TR – TC",
+      "first_seen_page_index": 4,
+      "source_trace": "NCERT Class 12 Introductory Microeconomics, Chapter 4, extracted page 4"
+    },
+    {
+      "title": "4.3.1 Condition 1",
+      "first_seen_page_index": 4,
+      "source_trace": "NCERT Class 12 Introductory Microeconomics, Chapter 4, extracted page 4"
+    },
+    {
+      "title": "4.3.2 Condition 2",
+      "first_seen_page_index": 4,
+      "source_trace": "NCERT Class 12 Introductory Microeconomics, Chapter 4, extracted page 4"
+    },
+    {
+      "title": "57 The Theory of the Firm",
+      "first_seen_page_index": 5,
+      "source_trace": "NCERT Class 12 Introductory Microeconomics, Chapter 4, extracted page 5"
+    },
+    {
+      "title": "4.3.3 Condition 3",
+      "first_seen_page_index": 5,
+      "source_trace": "NCERT Class 12 Introductory Microeconomics, Chapter 4, extracted page 5"
+    },
+    {
+      "title": "4.3.4 The Profit Maximisation",
+      "first_seen_page_index": 6,
+      "source_trace": "NCERT Class 12 Introductory Microeconomics, Chapter 4, extracted page 6"
+    },
+    {
+      "title": "LRMC",
+      "first_seen_page_index": 6,
+      "source_trace": "NCERT Class 12 Introductory Microeconomics, Chapter 4, extracted page 6"
+    },
+    {
+      "title": "LRAC",
+      "first_seen_page_index": 6,
+      "source_trace": "NCERT Class 12 Introductory Microeconomics, Chapter 4, extracted page 6"
+    },
+    {
+      "title": "59 The Theory of the Firm",
+      "first_seen_page_index": 7,
+      "source_trace": "NCERT Class 12 Introductory Microeconomics, Chapter 4, extracted page 7"
+    },
+    {
+      "title": "4.4 SUPPLY CURVE OF A FIRM",
+      "first_seen_page_index": 7,
+      "source_trace": "NCERT Class 12 Introductory Microeconomics, Chapter 4, extracted page 7"
+    },
+    {
+      "title": "4.4.1 Short Run Supply Curve of a Firm",
+      "first_seen_page_index": 7,
+      "source_trace": "NCERT Class 12 Introductory Microeconomics, Chapter 4, extracted page 7"
+    },
+    {
+      "title": "4.4.2 Long Run Supply Curve of a Firm",
+      "first_seen_page_index": 8,
+      "source_trace": "NCERT Class 12 Introductory Microeconomics, Chapter 4, extracted page 8"
+    },
+    {
+      "title": "61 The Theory of the Firm",
+      "first_seen_page_index": 9,
+      "source_trace": "NCERT Class 12 Introductory Microeconomics, Chapter 4, extracted page 9"
+    },
+    {
+      "title": "4.4.3 The Shut Down Point",
+      "first_seen_page_index": 9,
+      "source_trace": "NCERT Class 12 Introductory Microeconomics, Chapter 4, extracted page 9"
+    },
+    {
+      "title": "4.4.4 The Normal Profit and Break-even Point",
+      "first_seen_page_index": 9,
+      "source_trace": "NCERT Class 12 Introductory Microeconomics, Chapter 4, extracted page 9"
+    },
+    {
+      "title": "4.5 DETERMINANTS OF A FIRM’S SUPPLY CURVE",
+      "first_seen_page_index": 10,
+      "source_trace": "NCERT Class 12 Introductory Microeconomics, Chapter 4, extracted page 10"
+    },
+    {
+      "title": "4.5.1 Technological Progress",
+      "first_seen_page_index": 10,
+      "source_trace": "NCERT Class 12 Introductory Microeconomics, Chapter 4, extracted page 10"
+    },
+    {
+      "title": "4.5.2 Input Prices",
+      "first_seen_page_index": 10,
+      "source_trace": "NCERT Class 12 Introductory Microeconomics, Chapter 4, extracted page 10"
+    },
+    {
+      "title": "63 The Theory of the Firm",
+      "first_seen_page_index": 11,
+      "source_trace": "NCERT Class 12 Introductory Microeconomics, Chapter 4, extracted page 11"
+    },
+    {
+      "title": "4.6 MARKET SUPPLY CURVE",
+      "first_seen_page_index": 11,
+      "source_trace": "NCERT Class 12 Introductory Microeconomics, Chapter 4, extracted page 11"
+    },
+    {
+      "title": "LRMC1",
+      "first_seen_page_index": 11,
+      "source_trace": "NCERT Class 12 Introductory Microeconomics, Chapter 4, extracted page 11"
+    },
+    {
+      "title": "LRAC0",
+      "first_seen_page_index": 11,
+      "source_trace": "NCERT Class 12 Introductory Microeconomics, Chapter 4, extracted page 11"
+    },
+    {
+      "title": "LRMC0",
+      "first_seen_page_index": 11,
+      "source_trace": "NCERT Class 12 Introductory Microeconomics, Chapter 4, extracted page 11"
+    },
+    {
+      "title": "LRAC1",
+      "first_seen_page_index": 11,
+      "source_trace": "NCERT Class 12 Introductory Microeconomics, Chapter 4, extracted page 11"
+    },
+    {
+      "title": "65 The Theory of the Firm",
+      "first_seen_page_index": 13,
+      "source_trace": "NCERT Class 12 Introductory Microeconomics, Chapter 4, extracted page 13"
+    },
+    {
+      "title": "4.7 PRICE ELASTICITY OF SUPPLY",
+      "first_seen_page_index": 13,
+      "source_trace": "NCERT Class 12 Introductory Microeconomics, Chapter 4, extracted page 13"
+    },
+    {
+      "title": "M O O O M",
+      "first_seen_page_index": 14,
+      "source_trace": "NCERT Class 12 Introductory Microeconomics, Chapter 4, extracted page 14"
+    },
+    {
+      "title": "67 The Theory of the Firm",
+      "first_seen_page_index": 15,
+      "source_trace": "NCERT Class 12 Introductory Microeconomics, Chapter 4, extracted page 15"
+    },
+    {
+      "title": "(i) p = LRMC",
+      "first_seen_page_index": 15,
+      "source_trace": "NCERT Class 12 Introductory Microeconomics, Chapter 4, extracted page 15"
+    },
+    {
+      "title": "LRAC.",
+      "first_seen_page_index": 15,
+      "source_trace": "NCERT Class 12 Introductory Microeconomics, Chapter 4, extracted page 15"
+    },
+    {
+      "title": "K K K K Key",
+      "first_seen_page_index": 15,
+      "source_trace": "NCERT Class 12 Introductory Microeconomics, Chapter 4, extracted page 15"
+    },
+    {
+      "title": "69 The Theory of the Firm",
+      "first_seen_page_index": 17,
+      "source_trace": "NCERT Class 12 Introductory Microeconomics, Chapter 4, extracted page 17"
+    }
+  ],
+  "production_status": "concept_candidates_ready_for_human_decode"
+}

@@ -1,0 +1,48 @@
+{
+  "key": "gs3_economy_class12_macro_ch01_national_income_accounting",
+  "title": "National Income Accounting",
+  "source": {
+    "book": "NCERT Class 12 Introductory Macroeconomics",
+    "chapter": 1,
+    "chapter_title": "National Income Accounting",
+    "pdf_url": "https://ncert.nic.in/textbook.php?leec1=0-6",
+    "page_range": "pending source extraction"
+  },
+  "resolved_pdf_url": "https://ncert.nic.in/textbook/pdf/leec101.pdf",
+  "sha256": "e4463575613563853b81b92cd41dd50107ce012eadf0daddb5794eab99d37ec0",
+  "extraction": {
+    "raw_text_path": "data/study/textbook-first/raw-text/gs3_economy_class12_macro_ch01_national_income_accounting.txt",
+    "extracted_characters": 21658,
+    "page_count": 8,
+    "paragraph_count_estimate": 0,
+    "title_match_score": 0
+  },
+  "concept_candidates": [
+    {
+      "title": "33333 Introduction",
+      "first_seen_page_index": 3,
+      "source_trace": "NCERT Class 12 Introductory Macroeconomics, Chapter 1, extracted page 3"
+    },
+    {
+      "title": "55555 Introduction",
+      "first_seen_page_index": 5,
+      "source_trace": "NCERT Class 12 Introductory Macroeconomics, Chapter 1, extracted page 5"
+    },
+    {
+      "title": "1.1 EMERGENCE OF MACROECONOMICS",
+      "first_seen_page_index": 5,
+      "source_trace": "NCERT Class 12 Introductory Macroeconomics, Chapter 1, extracted page 5"
+    },
+    {
+      "title": "1.2 CONTEXT OF THE PRESENT BOOK OF MACROECONOMICS",
+      "first_seen_page_index": 6,
+      "source_trace": "NCERT Class 12 Introductory Macroeconomics, Chapter 1, extracted page 6"
+    },
+    {
+      "title": "77777 Introduction",
+      "first_seen_page_index": 7,
+      "source_trace": "NCERT Class 12 Introductory Macroeconomics, Chapter 1, extracted page 7"
+    }
+  ],
+  "production_status": "concept_candidates_ready_for_human_decode"
+}

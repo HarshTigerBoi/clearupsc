@@ -1,0 +1,173 @@
+{
+  "key": "gs1_geo_class10_contemporary_india_ii_ch07_lifelines_of_national_economy",
+  "title": "Lifelines of National Economy",
+  "source": {
+    "book": "NCERT Class 10 Contemporary India II",
+    "chapter": 7,
+    "chapter_title": "Lifelines of National Economy",
+    "pdf_url": "https://ncert.nic.in/textbook.php?jess3=0-7",
+    "page_range": "pending source extraction"
+  },
+  "resolved_pdf_url": "https://ncert.nic.in/textbook/pdf/jess107.pdf",
+  "sha256": "c2cd5124c91dc32dff24f682c4bd5a1669a34c4f2b1a38982c594bc9357a9f11",
+  "extraction": {
+    "raw_text_path": "data/study/textbook-first/raw-text/gs1_geo_class10_contemporary_india_ii_ch07_lifelines_of_national_economy.txt",
+    "extracted_characters": 26416,
+    "page_count": 13,
+    "paragraph_count_estimate": 0,
+    "title_match_score": 1
+  },
+  "concept_candidates": [
+    {
+      "title": "TRANSPORT",
+      "first_seen_page_index": 1,
+      "source_trace": "NCERT Class 10 Contemporary India II, Chapter 7, extracted page 1"
+    },
+    {
+      "title": "72 CONTEMPORARY INDIA – II",
+      "first_seen_page_index": 2,
+      "source_trace": "NCERT Class 10 Contemporary India II, Chapter 7, extracted page 2"
+    },
+    {
+      "title": "73 LIFELINES OF NATIONAL ECONOMY",
+      "first_seen_page_index": 3,
+      "source_trace": "NCERT Class 10 Contemporary India II, Chapter 7, extracted page 3"
+    },
+    {
+      "title": "74 CONTEMPORARY INDIA – II",
+      "first_seen_page_index": 4,
+      "source_trace": "NCERT Class 10 Contemporary India II, Chapter 7, extracted page 4"
+    },
+    {
+      "title": "75 LIFELINES OF NATIONAL ECONOMY",
+      "first_seen_page_index": 5,
+      "source_trace": "NCERT Class 10 Contemporary India II, Chapter 7, extracted page 5"
+    },
+    {
+      "title": "76 CONTEMPORARY INDIA – II",
+      "first_seen_page_index": 6,
+      "source_trace": "NCERT Class 10 Contemporary India II, Chapter 7, extracted page 6"
+    },
+    {
+      "title": "77 LIFELINES OF NATIONAL ECONOMY",
+      "first_seen_page_index": 7,
+      "source_trace": "NCERT Class 10 Contemporary India II, Chapter 7, extracted page 7"
+    },
+    {
+      "title": "78 CONTEMPORARY INDIA – II",
+      "first_seen_page_index": 8,
+      "source_trace": "NCERT Class 10 Contemporary India II, Chapter 7, extracted page 8"
+    },
+    {
+      "title": "UDAN (",
+      "first_seen_page_index": 8,
+      "source_trace": "NCERT Class 10 Contemporary India II, Chapter 7, extracted page 8"
+    },
+    {
+      "title": "79 LIFELINES OF NATIONAL ECONOMY",
+      "first_seen_page_index": 9,
+      "source_trace": "NCERT Class 10 Contemporary India II, Chapter 7, extracted page 9"
+    },
+    {
+      "title": "80 CONTEMPORARY INDIA – II",
+      "first_seen_page_index": 10,
+      "source_trace": "NCERT Class 10 Contemporary India II, Chapter 7, extracted page 10"
+    },
+    {
+      "title": "81 LIFELINES OF NATIONAL ECONOMY",
+      "first_seen_page_index": 11,
+      "source_trace": "NCERT Class 10 Contemporary India II, Chapter 7, extracted page 11"
+    },
+    {
+      "title": "82 CONTEMPORARY INDIA – II",
+      "first_seen_page_index": 12,
+      "source_trace": "NCERT Class 10 Contemporary India II, Chapter 7, extracted page 12"
+    },
+    {
+      "title": "QUIZ DRIVE",
+      "first_seen_page_index": 12,
+      "source_trace": "NCERT Class 10 Contemporary India II, Chapter 7, extracted page 12"
+    },
+    {
+      "title": "83 LIFELINES OF NATIONAL ECONOMY",
+      "first_seen_page_index": 13,
+      "source_trace": "NCERT Class 10 Contemporary India II, Chapter 7, extracted page 13"
+    },
+    {
+      "title": "ACTIVITY",
+      "first_seen_page_index": 13,
+      "source_trace": "NCERT Class 10 Contemporary India II, Chapter 7, extracted page 13"
+    },
+    {
+      "title": "S H E R S H A H S U R I M A R G",
+      "first_seen_page_index": 13,
+      "source_trace": "NCERT Class 10 Contemporary India II, Chapter 7, extracted page 13"
+    },
+    {
+      "title": "A R T P R N X E L A T A D L A Y",
+      "first_seen_page_index": 13,
+      "source_trace": "NCERT Class 10 Contemporary India II, Chapter 7, extracted page 13"
+    },
+    {
+      "title": "J M M X I P O R A Y M P G H T X",
+      "first_seen_page_index": 13,
+      "source_trace": "NCERT Class 10 Contemporary India II, Chapter 7, extracted page 13"
+    },
+    {
+      "title": "Y C H E N N N A I I K M C A I M",
+      "first_seen_page_index": 13,
+      "source_trace": "NCERT Class 10 Contemporary India II, Chapter 7, extracted page 13"
+    },
+    {
+      "title": "O D C D A L M C S O T P O R C P",
+      "first_seen_page_index": 13,
+      "source_trace": "NCERT Class 10 Contemporary India II, Chapter 7, extracted page 13"
+    },
+    {
+      "title": "A P T R G S K J M J L E A N E R",
+      "first_seen_page_index": 13,
+      "source_trace": "NCERT Class 10 Contemporary India II, Chapter 7, extracted page 13"
+    },
+    {
+      "title": "R A E T A J P O R M W M A S X O",
+      "first_seen_page_index": 13,
+      "source_trace": "NCERT Class 10 Contemporary India II, Chapter 7, extracted page 13"
+    },
+    {
+      "title": "I L S B R O A D G A U G E L O T",
+      "first_seen_page_index": 13,
+      "source_trace": "NCERT Class 10 Contemporary India II, Chapter 7, extracted page 13"
+    },
+    {
+      "title": "A S N L C M E C U K Z M A A J E",
+      "first_seen_page_index": 13,
+      "source_trace": "NCERT Class 10 Contemporary India II, Chapter 7, extracted page 13"
+    },
+    {
+      "title": "L M U G H A L S A R A I B S N A",
+      "first_seen_page_index": 13,
+      "source_trace": "NCERT Class 10 Contemporary India II, Chapter 7, extracted page 13"
+    },
+    {
+      "title": "G O E T V R A Y F T O R E A J M",
+      "first_seen_page_index": 13,
+      "source_trace": "NCERT Class 10 Contemporary India II, Chapter 7, extracted page 13"
+    },
+    {
+      "title": "K Q A I P M N Y R Y A Y H L I N",
+      "first_seen_page_index": 13,
+      "source_trace": "NCERT Class 10 Contemporary India II, Chapter 7, extracted page 13"
+    },
+    {
+      "title": "Q K O L K A T A E U I T W B E A",
+      "first_seen_page_index": 13,
+      "source_trace": "NCERT Class 10 Contemporary India II, Chapter 7, extracted page 13"
+    },
+    {
+      "title": "N I T N K D E M O U R P N P J D",
+      "first_seen_page_index": 13,
+      "source_trace": "NCERT Class 10 Contemporary India II, Chapter 7, extracted page 13"
+    }
+  ],
+  "production_status": "concept_candidates_ready_for_human_decode"
+}

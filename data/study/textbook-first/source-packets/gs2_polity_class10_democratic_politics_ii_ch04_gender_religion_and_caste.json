@@ -1,0 +1,88 @@
+{
+  "key": "gs2_polity_class10_democratic_politics_ii_ch04_gender_religion_and_caste",
+  "title": "Gender Religion and Caste",
+  "source": {
+    "book": "NCERT Class 10 Democratic Politics II",
+    "chapter": 4,
+    "chapter_title": "Gender Religion and Caste",
+    "pdf_url": "https://ncert.nic.in/textbook.php?jess4=0-8",
+    "page_range": "pending source extraction"
+  },
+  "resolved_pdf_url": "https://ncert.nic.in/textbook/pdf/jess404.pdf",
+  "sha256": "848863f8ebe983fe81ffff0e19462c8059f35af97788ce6ff7393287699bf7c9",
+  "extraction": {
+    "raw_text_path": "data/study/textbook-first/raw-text/gs2_polity_class10_democratic_politics_ii_ch04_gender_religion_and_caste.txt",
+    "extracted_characters": 36202,
+    "page_count": 17,
+    "paragraph_count_estimate": 0,
+    "title_match_score": 0
+  },
+  "concept_candidates": [
+    {
+      "title": "1 Parties contest elections. In most",
+      "first_seen_page_index": 3,
+      "source_trace": "NCERT Class 10 Democratic Politics II, Chapter 4, extracted page 3"
+    },
+    {
+      "title": "2 Parties put forward different",
+      "first_seen_page_index": 3,
+      "source_trace": "NCERT Class 10 Democratic Politics II, Chapter 4, extracted page 3"
+    },
+    {
+      "title": "3 Parties play a decisive role",
+      "first_seen_page_index": 4,
+      "source_trace": "NCERT Class 10 Democratic Politics II, Chapter 4, extracted page 4"
+    },
+    {
+      "title": "4 Parties form and run governments.",
+      "first_seen_page_index": 4,
+      "source_trace": "NCERT Class 10 Democratic Politics II, Chapter 4, extracted page 4"
+    },
+    {
+      "title": "5 Those parties that lose in the",
+      "first_seen_page_index": 4,
+      "source_trace": "NCERT Class 10 Democratic Politics II, Chapter 4, extracted page 4"
+    },
+    {
+      "title": "6 Parties shape public opinion.",
+      "first_seen_page_index": 4,
+      "source_trace": "NCERT Class 10 Democratic Politics II, Chapter 4, extracted page 4"
+    },
+    {
+      "title": "7 Parties provide people access",
+      "first_seen_page_index": 4,
+      "source_trace": "NCERT Class 10 Democratic Politics II, Chapter 4, extracted page 4"
+    },
+    {
+      "title": "26 November 2012,",
+      "first_seen_page_index": 9,
+      "source_trace": "NCERT Class 10 Democratic Politics II, Chapter 4, extracted page 9"
+    },
+    {
+      "title": "2019 Lok Sabha election, it won 19.5%",
+      "first_seen_page_index": 10,
+      "source_trace": "NCERT Class 10 Democratic Politics II, Chapter 4, extracted page 10"
+    },
+    {
+      "title": "(a) C A B D",
+      "first_seen_page_index": 16,
+      "source_trace": "NCERT Class 10 Democratic Politics II, Chapter 4, extracted page 16"
+    },
+    {
+      "title": "(b) C D A B",
+      "first_seen_page_index": 16,
+      "source_trace": "NCERT Class 10 Democratic Politics II, Chapter 4, extracted page 16"
+    },
+    {
+      "title": "(c) C A D B",
+      "first_seen_page_index": 16,
+      "source_trace": "NCERT Class 10 Democratic Politics II, Chapter 4, extracted page 16"
+    },
+    {
+      "title": "(d) D C A B",
+      "first_seen_page_index": 16,
+      "source_trace": "NCERT Class 10 Democratic Politics II, Chapter 4, extracted page 16"
+    }
+  ],
+  "production_status": "concept_candidates_ready_for_human_decode"
+}

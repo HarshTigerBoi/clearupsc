@@ -1,0 +1,63 @@
+{
+  "key": "gs1_art_class11_indian_art_ch05_later_mural_traditions",
+  "title": "Later Mural Traditions",
+  "source": {
+    "book": "NCERT Class 11 An Introduction to Indian Art",
+    "chapter": 5,
+    "chapter_title": "Later Mural Traditions",
+    "pdf_url": "https://ncert.nic.in/textbook.php?kefa1=0-8",
+    "page_range": "pending source extraction"
+  },
+  "resolved_pdf_url": "https://ncert.nic.in/textbook/pdf/kefa105.pdf",
+  "sha256": "f4b31fcb3d5ac140e874b71278dc07d1b17126acaf0ea4e7e9f2da1d5f9b565c",
+  "extraction": {
+    "raw_text_path": "data/study/textbook-first/raw-text/gs1_art_class11_indian_art_ch05_later_mural_traditions.txt",
+    "extracted_characters": 11310,
+    "page_count": 7,
+    "paragraph_count_estimate": 0,
+    "title_match_score": 1
+  },
+  "concept_candidates": [
+    {
+      "title": "LATER MURAL",
+      "first_seen_page_index": 1,
+      "source_trace": "NCERT Class 11 An Introduction to Indian Art, Chapter 5, extracted page 1"
+    },
+    {
+      "title": "TRADITIONS",
+      "first_seen_page_index": 1,
+      "source_trace": "NCERT Class 11 An Introduction to Indian Art, Chapter 5, extracted page 1"
+    },
+    {
+      "title": "AN INTRODUCTION TO INDIAN ART 62",
+      "first_seen_page_index": 2,
+      "source_trace": "NCERT Class 11 An Introduction to Indian Art, Chapter 5, extracted page 2"
+    },
+    {
+      "title": "LATER MURAL TRADITIONS 63",
+      "first_seen_page_index": 3,
+      "source_trace": "NCERT Class 11 An Introduction to Indian Art, Chapter 5, extracted page 3"
+    },
+    {
+      "title": "AN INTRODUCTION TO INDIAN ART 64",
+      "first_seen_page_index": 4,
+      "source_trace": "NCERT Class 11 An Introduction to Indian Art, Chapter 5, extracted page 4"
+    },
+    {
+      "title": "LATER MURAL TRADITIONS 65",
+      "first_seen_page_index": 5,
+      "source_trace": "NCERT Class 11 An Introduction to Indian Art, Chapter 5, extracted page 5"
+    },
+    {
+      "title": "AN INTRODUCTION TO INDIAN ART 66",
+      "first_seen_page_index": 6,
+      "source_trace": "NCERT Class 11 An Introduction to Indian Art, Chapter 5, extracted page 6"
+    },
+    {
+      "title": "LATER MURAL TRADITIONS 67",
+      "first_seen_page_index": 7,
+      "source_trace": "NCERT Class 11 An Introduction to Indian Art, Chapter 5, extracted page 7"
+    }
+  ],
+  "production_status": "concept_candidates_ready_for_human_decode"
+}

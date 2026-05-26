@@ -1,0 +1,163 @@
+{
+  "key": "gs3_env_class11_biology_ch10_cell_cycle_and_cell_division",
+  "title": "Cell Cycle and Cell Division",
+  "source": {
+    "book": "NCERT Class 11 Biology",
+    "chapter": 10,
+    "chapter_title": "Cell Cycle and Cell Division",
+    "pdf_url": "https://ncert.nic.in/textbook.php?kebo1=0-22",
+    "page_range": "pending source extraction"
+  },
+  "resolved_pdf_url": "https://ncert.nic.in/textbook/pdf/kebo110.pdf",
+  "sha256": "1fbd61044264b30d19f075e4a9a15699b0d0f1d5c51cf094e4e9b18566bcb72c",
+  "extraction": {
+    "raw_text_path": "data/study/textbook-first/raw-text/gs3_env_class11_biology_ch10_cell_cycle_and_cell_division.txt",
+    "extracted_characters": 24062,
+    "page_count": 11,
+    "paragraph_count_estimate": 2,
+    "title_match_score": 1
+  },
+  "concept_candidates": [
+    {
+      "title": "120 BIOLOGY",
+      "first_seen_page_index": 1,
+      "source_trace": "NCERT Class 11 Biology, Chapter 10, extracted page 1"
+    },
+    {
+      "title": "10.1 CELL CYCLE",
+      "first_seen_page_index": 1,
+      "source_trace": "NCERT Class 11 Biology, Chapter 10, extracted page 1"
+    },
+    {
+      "title": "CELL CYCLE AND CELL DIVISION",
+      "first_seen_page_index": 1,
+      "source_trace": "NCERT Class 11 Biology, Chapter 10, extracted page 1"
+    },
+    {
+      "title": "CHAPTER 10",
+      "first_seen_page_index": 1,
+      "source_trace": "NCERT Class 11 Biology, Chapter 10, extracted page 1"
+    },
+    {
+      "title": "10.2 M Phase",
+      "first_seen_page_index": 1,
+      "source_trace": "NCERT Class 11 Biology, Chapter 10, extracted page 1"
+    },
+    {
+      "title": "10.3 Significance of",
+      "first_seen_page_index": 1,
+      "source_trace": "NCERT Class 11 Biology, Chapter 10, extracted page 1"
+    },
+    {
+      "title": "10.4 Meiosis",
+      "first_seen_page_index": 1,
+      "source_trace": "NCERT Class 11 Biology, Chapter 10, extracted page 1"
+    },
+    {
+      "title": "10.5 Significance of",
+      "first_seen_page_index": 1,
+      "source_trace": "NCERT Class 11 Biology, Chapter 10, extracted page 1"
+    },
+    {
+      "title": "CELL CYCLE AND CELL DIVISION 121",
+      "first_seen_page_index": 2,
+      "source_trace": "NCERT Class 11 Biology, Chapter 10, extracted page 2"
+    },
+    {
+      "title": "10.1.1 Phases of Cell Cycle",
+      "first_seen_page_index": 2,
+      "source_trace": "NCERT Class 11 Biology, Chapter 10, extracted page 2"
+    },
+    {
+      "title": "122 BIOLOGY",
+      "first_seen_page_index": 3,
+      "source_trace": "NCERT Class 11 Biology, Chapter 10, extracted page 3"
+    },
+    {
+      "title": "10.2.1 Prophase",
+      "first_seen_page_index": 3,
+      "source_trace": "NCERT Class 11 Biology, Chapter 10, extracted page 3"
+    },
+    {
+      "title": "CELL CYCLE AND CELL DIVISION 123",
+      "first_seen_page_index": 4,
+      "source_trace": "NCERT Class 11 Biology, Chapter 10, extracted page 4"
+    },
+    {
+      "title": "10.2.2 Metaphase",
+      "first_seen_page_index": 4,
+      "source_trace": "NCERT Class 11 Biology, Chapter 10, extracted page 4"
+    },
+    {
+      "title": "10.2.3 Anaphase",
+      "first_seen_page_index": 4,
+      "source_trace": "NCERT Class 11 Biology, Chapter 10, extracted page 4"
+    },
+    {
+      "title": "124 BIOLOGY",
+      "first_seen_page_index": 5,
+      "source_trace": "NCERT Class 11 Biology, Chapter 10, extracted page 5"
+    },
+    {
+      "title": "10.2.4 Telophase",
+      "first_seen_page_index": 5,
+      "source_trace": "NCERT Class 11 Biology, Chapter 10, extracted page 5"
+    },
+    {
+      "title": "10.2.5 Cytokinesis",
+      "first_seen_page_index": 5,
+      "source_trace": "NCERT Class 11 Biology, Chapter 10, extracted page 5"
+    },
+    {
+      "title": "CELL CYCLE AND CELL DIVISION 125",
+      "first_seen_page_index": 6,
+      "source_trace": "NCERT Class 11 Biology, Chapter 10, extracted page 6"
+    },
+    {
+      "title": "10.3 Significance of Mitosis",
+      "first_seen_page_index": 6,
+      "source_trace": "NCERT Class 11 Biology, Chapter 10, extracted page 6"
+    },
+    {
+      "title": "126 126 126 126 126 BIOLOGY",
+      "first_seen_page_index": 7,
+      "source_trace": "NCERT Class 11 Biology, Chapter 10, extracted page 7"
+    },
+    {
+      "title": "CELL CYCLE AND CELL DIVISION 127",
+      "first_seen_page_index": 8,
+      "source_trace": "NCERT Class 11 Biology, Chapter 10, extracted page 8"
+    },
+    {
+      "title": "10.4.2 Meiosis II",
+      "first_seen_page_index": 8,
+      "source_trace": "NCERT Class 11 Biology, Chapter 10, extracted page 8"
+    },
+    {
+      "title": "128 BIOLOGY",
+      "first_seen_page_index": 9,
+      "source_trace": "NCERT Class 11 Biology, Chapter 10, extracted page 9"
+    },
+    {
+      "title": "10.5 SIGNIFICANCE OF MEIOSIS",
+      "first_seen_page_index": 9,
+      "source_trace": "NCERT Class 11 Biology, Chapter 10, extracted page 9"
+    },
+    {
+      "title": "SUMMARY",
+      "first_seen_page_index": 9,
+      "source_trace": "NCERT Class 11 Biology, Chapter 10, extracted page 9"
+    },
+    {
+      "title": "CELL CYCLE AND CELL DIVISION 129",
+      "first_seen_page_index": 10,
+      "source_trace": "NCERT Class 11 Biology, Chapter 10, extracted page 10"
+    },
+    {
+      "title": "130 BIOLOGY",
+      "first_seen_page_index": 11,
+      "source_trace": "NCERT Class 11 Biology, Chapter 10, extracted page 11"
+    }
+  ],
+  "production_status": "concept_candidates_ready_for_human_decode"
+}

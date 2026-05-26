@@ -51,7 +51,7 @@ alter table public.topics add column if not exists wiki_slug text;
 alter table public.topics add column if not exists structured_notes text;
 alter table public.topics add column if not exists govt_sources jsonb default '[]'::jsonb;
 alter table public.topics add column if not exists ncert_refs jsonb default '[]'::jsonb;
-alter table public.topics add column if not exists content_quality text check (content_quality in ('fallback','wiki_seeded','ncert_enriched','human_review_needed','publish_ready')) default 'fallback';
+alter table public.topics add column if not exists content_quality text check (content_quality in ('fallback','wiki_seeded','ncert_enriched','human_review_needed','publish_ready','source_packet_ready_for_human_decode','textbook_decoded')) default 'fallback';
 
 create table if not exists public.topic_wiki_cache (
   topic_key text primary key,

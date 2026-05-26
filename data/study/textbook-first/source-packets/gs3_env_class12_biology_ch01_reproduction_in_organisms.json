@@ -1,0 +1,138 @@
+{
+  "key": "gs3_env_class12_biology_ch01_reproduction_in_organisms",
+  "title": "Reproduction in Organisms",
+  "source": {
+    "book": "NCERT Class 12 Biology",
+    "chapter": 1,
+    "chapter_title": "Reproduction in Organisms",
+    "pdf_url": "https://ncert.nic.in/textbook.php?lebo1=0-16",
+    "page_range": "pending source extraction"
+  },
+  "resolved_pdf_url": "https://ncert.nic.in/textbook/pdf/lebo101.pdf",
+  "sha256": "039bad8cf195a93b90fa7857eda95f39bdd4fd278b3c8bced235f3b6cd71c25c",
+  "extraction": {
+    "raw_text_path": "data/study/textbook-first/raw-text/gs3_env_class12_biology_ch01_reproduction_in_organisms.txt",
+    "extracted_characters": 49846,
+    "page_count": 25,
+    "paragraph_count_estimate": 0,
+    "title_match_score": 1
+  },
+  "concept_candidates": [
+    {
+      "title": "PANCHANAN MAHESHWARI",
+      "first_seen_page_index": 2,
+      "source_trace": "NCERT Class 12 Biology, Chapter 1, extracted page 2"
+    },
+    {
+      "title": "1.1 FLOWER – A FASCINATING ORGAN OF",
+      "first_seen_page_index": 3,
+      "source_trace": "NCERT Class 12 Biology, Chapter 1, extracted page 3"
+    },
+    {
+      "title": "ANGIOSPERMS",
+      "first_seen_page_index": 3,
+      "source_trace": "NCERT Class 12 Biology, Chapter 1, extracted page 3"
+    },
+    {
+      "title": "1.1 Flower – A Fascinating",
+      "first_seen_page_index": 3,
+      "source_trace": "NCERT Class 12 Biology, Chapter 1, extracted page 3"
+    },
+    {
+      "title": "1.2 Pre-fertilisation : Structures",
+      "first_seen_page_index": 3,
+      "source_trace": "NCERT Class 12 Biology, Chapter 1, extracted page 3"
+    },
+    {
+      "title": "1.3 Double Fertilisation",
+      "first_seen_page_index": 3,
+      "source_trace": "NCERT Class 12 Biology, Chapter 1, extracted page 3"
+    },
+    {
+      "title": "1.4 Post-fertilisation: Structures",
+      "first_seen_page_index": 3,
+      "source_trace": "NCERT Class 12 Biology, Chapter 1, extracted page 3"
+    },
+    {
+      "title": "1.5 Apomixis and",
+      "first_seen_page_index": 3,
+      "source_trace": "NCERT Class 12 Biology, Chapter 1, extracted page 3"
+    },
+    {
+      "title": "CHAPTER 1",
+      "first_seen_page_index": 3,
+      "source_trace": "NCERT Class 12 Biology, Chapter 1, extracted page 3"
+    },
+    {
+      "title": "SEXUAL REPRODUCTION IN",
+      "first_seen_page_index": 3,
+      "source_trace": "NCERT Class 12 Biology, Chapter 1, extracted page 3"
+    },
+    {
+      "title": "FLOWERING PLANTS",
+      "first_seen_page_index": 3,
+      "source_trace": "NCERT Class 12 Biology, Chapter 1, extracted page 3"
+    },
+    {
+      "title": "BIOLOGY",
+      "first_seen_page_index": 4,
+      "source_trace": "NCERT Class 12 Biology, Chapter 1, extracted page 4"
+    },
+    {
+      "title": "1.2 PRE-FERTILISATION: STRUCTURES AND EVENTS",
+      "first_seen_page_index": 4,
+      "source_trace": "NCERT Class 12 Biology, Chapter 1, extracted page 4"
+    },
+    {
+      "title": "HUMAN REPRODUCTION SEXUAL REPRODUCTION IN FLOWERING PLANTS",
+      "first_seen_page_index": 5,
+      "source_trace": "NCERT Class 12 Biology, Chapter 1, extracted page 5"
+    },
+    {
+      "title": "1.2.1 Stamen, Microsporangium and Pollen Grain",
+      "first_seen_page_index": 5,
+      "source_trace": "NCERT Class 12 Biology, Chapter 1, extracted page 5"
+    },
+    {
+      "title": "1.2.2 The Pistil, Megasporangium (ovule) and Embryo sac",
+      "first_seen_page_index": 8,
+      "source_trace": "NCERT Class 12 Biology, Chapter 1, extracted page 8"
+    },
+    {
+      "title": "1.2.3 Pollination",
+      "first_seen_page_index": 11,
+      "source_trace": "NCERT Class 12 Biology, Chapter 1, extracted page 11"
+    },
+    {
+      "title": "1.4 POST-FERTILISATION : STRUCTURES AND EVENTS",
+      "first_seen_page_index": 18,
+      "source_trace": "NCERT Class 12 Biology, Chapter 1, extracted page 18"
+    },
+    {
+      "title": "1.4.1 Endosperm",
+      "first_seen_page_index": 18,
+      "source_trace": "NCERT Class 12 Biology, Chapter 1, extracted page 18"
+    },
+    {
+      "title": "1.4.2 Embryo",
+      "first_seen_page_index": 19,
+      "source_trace": "NCERT Class 12 Biology, Chapter 1, extracted page 19"
+    },
+    {
+      "title": "1.4.3 Seed",
+      "first_seen_page_index": 20,
+      "source_trace": "NCERT Class 12 Biology, Chapter 1, extracted page 20"
+    },
+    {
+      "title": "1.5 APOMIXIS AND POLYEMBRYONY",
+      "first_seen_page_index": 22,
+      "source_trace": "NCERT Class 12 Biology, Chapter 1, extracted page 22"
+    },
+    {
+      "title": "SUMMARY",
+      "first_seen_page_index": 23,
+      "source_trace": "NCERT Class 12 Biology, Chapter 1, extracted page 23"
+    }
+  ],
+  "production_status": "concept_candidates_ready_for_human_decode"
+}

@@ -1,0 +1,133 @@
+{
+  "key": "gs3_sci_class7_science_ch10_respiration_in_organisms",
+  "title": "Respiration in Organisms",
+  "source": {
+    "book": "NCERT Class 7 Science",
+    "chapter": 10,
+    "chapter_title": "Respiration in Organisms",
+    "pdf_url": "https://ncert.nic.in/textbook.php?gesc1=0-18",
+    "page_range": "pending source extraction"
+  },
+  "resolved_pdf_url": "https://ncert.nic.in/textbook/pdf/gesc110.pdf",
+  "sha256": "59c142a62b79399cf7e26ca391ae3d45f130dba004e262cbc390caa0dd2c7f97",
+  "extraction": {
+    "raw_text_path": "data/study/textbook-first/raw-text/gs3_sci_class7_science_ch10_respiration_in_organisms.txt",
+    "extracted_characters": 23140,
+    "page_count": 14,
+    "paragraph_count_estimate": 0,
+    "title_match_score": 0
+  },
+  "concept_candidates": [
+    {
+      "title": "10.1 SYMBOLS OF ELECTRIC",
+      "first_seen_page_index": 1,
+      "source_trace": "NCERT Class 7 Science, Chapter 10, extracted page 1"
+    },
+    {
+      "title": "COMPONENTS",
+      "first_seen_page_index": 1,
+      "source_trace": "NCERT Class 7 Science, Chapter 10, extracted page 1"
+    },
+    {
+      "title": "SCIENCE 110",
+      "first_seen_page_index": 2,
+      "source_trace": "NCERT Class 7 Science, Chapter 10, extracted page 2"
+    },
+    {
+      "title": "ELECTRIC CURRENT AND ITS EFFECTS 111",
+      "first_seen_page_index": 3,
+      "source_trace": "NCERT Class 7 Science, Chapter 10, extracted page 3"
+    },
+    {
+      "title": "SCIENCE 112",
+      "first_seen_page_index": 4,
+      "source_trace": "NCERT Class 7 Science, Chapter 10, extracted page 4"
+    },
+    {
+      "title": "10.2 HEATING EFFECT OF ELECTRIC",
+      "first_seen_page_index": 4,
+      "source_trace": "NCERT Class 7 Science, Chapter 10, extracted page 4"
+    },
+    {
+      "title": "CURRENT",
+      "first_seen_page_index": 4,
+      "source_trace": "NCERT Class 7 Science, Chapter 10, extracted page 4"
+    },
+    {
+      "title": "CAUTION",
+      "first_seen_page_index": 4,
+      "source_trace": "NCERT Class 7 Science, Chapter 10, extracted page 4"
+    },
+    {
+      "title": "ELECTRIC CURRENT AND ITS EFFECTS 113",
+      "first_seen_page_index": 5,
+      "source_trace": "NCERT Class 7 Science, Chapter 10, extracted page 5"
+    },
+    {
+      "title": "SCIENCE 114",
+      "first_seen_page_index": 6,
+      "source_trace": "NCERT Class 7 Science, Chapter 10, extracted page 6"
+    },
+    {
+      "title": "ELECTRIC CURRENT AND ITS EFFECTS 115",
+      "first_seen_page_index": 7,
+      "source_trace": "NCERT Class 7 Science, Chapter 10, extracted page 7"
+    },
+    {
+      "title": "SCIENCE 116",
+      "first_seen_page_index": 8,
+      "source_trace": "NCERT Class 7 Science, Chapter 10, extracted page 8"
+    },
+    {
+      "title": "10.3 M AGNETIC EFFECT OF",
+      "first_seen_page_index": 8,
+      "source_trace": "NCERT Class 7 Science, Chapter 10, extracted page 8"
+    },
+    {
+      "title": "ELECTRIC CURRENT",
+      "first_seen_page_index": 8,
+      "source_trace": "NCERT Class 7 Science, Chapter 10, extracted page 8"
+    },
+    {
+      "title": "ELECTRIC CURRENT AND ITS EFFECTS 117",
+      "first_seen_page_index": 9,
+      "source_trace": "NCERT Class 7 Science, Chapter 10, extracted page 9"
+    },
+    {
+      "title": "10.4 E LECTROMAGNET",
+      "first_seen_page_index": 9,
+      "source_trace": "NCERT Class 7 Science, Chapter 10, extracted page 9"
+    },
+    {
+      "title": "SCIENCE 118",
+      "first_seen_page_index": 10,
+      "source_trace": "NCERT Class 7 Science, Chapter 10, extracted page 10"
+    },
+    {
+      "title": "10.5 E LECTRIC BELL",
+      "first_seen_page_index": 10,
+      "source_trace": "NCERT Class 7 Science, Chapter 10, extracted page 10"
+    },
+    {
+      "title": "ELECTRIC CURRENT AND ITS EFFECTS 119",
+      "first_seen_page_index": 11,
+      "source_trace": "NCERT Class 7 Science, Chapter 10, extracted page 11"
+    },
+    {
+      "title": "SCIENCE 120",
+      "first_seen_page_index": 12,
+      "source_trace": "NCERT Class 7 Science, Chapter 10, extracted page 12"
+    },
+    {
+      "title": "ELECTRIC CURRENT AND ITS EFFECTS 121",
+      "first_seen_page_index": 13,
+      "source_trace": "NCERT Class 7 Science, Chapter 10, extracted page 13"
+    },
+    {
+      "title": "SCIENCE 122",
+      "first_seen_page_index": 14,
+      "source_trace": "NCERT Class 7 Science, Chapter 10, extracted page 14"
+    }
+  ],
+  "production_status": "concept_candidates_ready_for_human_decode"
+}

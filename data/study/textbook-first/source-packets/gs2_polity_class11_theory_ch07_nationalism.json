@@ -1,0 +1,58 @@
+{
+  "key": "gs2_polity_class11_theory_ch07_nationalism",
+  "title": "Nationalism",
+  "source": {
+    "book": "NCERT Class 11 Political Theory",
+    "chapter": 7,
+    "chapter_title": "Nationalism",
+    "pdf_url": "https://ncert.nic.in/textbook.php?keps1=0-10",
+    "page_range": "pending source extraction"
+  },
+  "resolved_pdf_url": "https://ncert.nic.in/textbook/pdf/keps107.pdf",
+  "sha256": "6b32a777a5f4a9f96026130a8f319c10a914a6090a5c39ddfa80f1b21d3391b4",
+  "extraction": {
+    "raw_text_path": "data/study/textbook-first/raw-text/gs2_polity_class11_theory_ch07_nationalism.txt",
+    "extracted_characters": 26792,
+    "page_count": 14,
+    "paragraph_count_estimate": 0,
+    "title_match_score": 1
+  },
+  "concept_candidates": [
+    {
+      "title": "7.1 INTRODUCING NATIONALISM",
+      "first_seen_page_index": 2,
+      "source_trace": "NCERT Class 11 Political Theory, Chapter 7, extracted page 2"
+    },
+    {
+      "title": "7.2 NATIONS AND NATIONALISM",
+      "first_seen_page_index": 4,
+      "source_trace": "NCERT Class 11 Political Theory, Chapter 7, extracted page 4"
+    },
+    {
+      "title": "LET’S DO IT D o",
+      "first_seen_page_index": 4,
+      "source_trace": "NCERT Class 11 Political Theory, Chapter 7, extracted page 4"
+    },
+    {
+      "title": "7.3 NATIONAL SELF-DETERMINATION",
+      "first_seen_page_index": 8,
+      "source_trace": "NCERT Class 11 Political Theory, Chapter 7, extracted page 8"
+    },
+    {
+      "title": "DEMAND FOR NATIONAL SELF-DETERMINATION IN BASQUE",
+      "first_seen_page_index": 9,
+      "source_trace": "NCERT Class 11 Political Theory, Chapter 7, extracted page 9"
+    },
+    {
+      "title": "7.4 NATIONALISM AND PLURALISM",
+      "first_seen_page_index": 11,
+      "source_trace": "NCERT Class 11 Political Theory, Chapter 7, extracted page 11"
+    },
+    {
+      "title": "TAGORE’S CRITIQUE OF NATIONALISM",
+      "first_seen_page_index": 12,
+      "source_trace": "NCERT Class 11 Political Theory, Chapter 7, extracted page 12"
+    }
+  ],
+  "production_status": "concept_candidates_ready_for_human_decode"
+}

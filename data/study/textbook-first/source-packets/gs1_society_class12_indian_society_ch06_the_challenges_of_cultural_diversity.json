@@ -1,0 +1,43 @@
+{
+  "key": "gs1_society_class12_indian_society_ch06_the_challenges_of_cultural_diversity",
+  "title": "The Challenges of Cultural Diversity",
+  "source": {
+    "book": "NCERT Class 12 Indian Society",
+    "chapter": 6,
+    "chapter_title": "The Challenges of Cultural Diversity",
+    "pdf_url": "https://ncert.nic.in/textbook.php?lesy1=0-7",
+    "page_range": "pending source extraction"
+  },
+  "resolved_pdf_url": "https://ncert.nic.in/textbook/pdf/lesy106.pdf",
+  "sha256": "4bc2dc466e8519bba56581069d2fc109c614c2bf2f43d9204d0e75a49e324422",
+  "extraction": {
+    "raw_text_path": "data/study/textbook-first/raw-text/gs1_society_class12_indian_society_ch06_the_challenges_of_cultural_diversity.txt",
+    "extracted_characters": 53216,
+    "page_count": 20,
+    "paragraph_count_estimate": 0,
+    "title_match_score": 1
+  },
+  "concept_candidates": [
+    {
+      "title": "6.1 The ImporTance of communITy IdenTITy",
+      "first_seen_page_index": 2,
+      "source_trace": "NCERT Class 12 Indian Society, Chapter 6, extracted page 2"
+    },
+    {
+      "title": "6.2 Regionalism in the indian Context",
+      "first_seen_page_index": 8,
+      "source_trace": "NCERT Class 12 Indian Society, Chapter 6, extracted page 8"
+    },
+    {
+      "title": "6.3 R eligion -Related issues and",
+      "first_seen_page_index": 11,
+      "source_trace": "NCERT Class 12 Indian Society, Chapter 6, extracted page 11"
+    },
+    {
+      "title": "2011 Census. The Hindu population is four times larger than the combined population of all",
+      "first_seen_page_index": 13,
+      "source_trace": "NCERT Class 12 Indian Society, Chapter 6, extracted page 13"
+    }
+  ],
+  "production_status": "concept_candidates_ready_for_human_decode"
+}

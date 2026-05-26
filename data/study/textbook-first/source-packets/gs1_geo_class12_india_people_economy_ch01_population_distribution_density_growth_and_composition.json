@@ -1,0 +1,58 @@
+{
+  "key": "gs1_geo_class12_india_people_economy_ch01_population_distribution_density_growth_and_composition",
+  "title": "Population Distribution Density Growth and Composition",
+  "source": {
+    "book": "NCERT Class 12 India People and Economy",
+    "chapter": 1,
+    "chapter_title": "Population Distribution Density Growth and Composition",
+    "pdf_url": "https://ncert.nic.in/textbook.php?legy2=0-12",
+    "page_range": "pending source extraction"
+  },
+  "resolved_pdf_url": "https://ncert.nic.in/textbook/pdf/legy201.pdf",
+  "sha256": "1aa2bc65e6f3de00dcf867a44592daffe0a5465c120cd1196385c045c226e906",
+  "extraction": {
+    "raw_text_path": "data/study/textbook-first/raw-text/gs1_geo_class12_india_people_economy_ch01_population_distribution_density_growth_and_composition.txt",
+    "extracted_characters": 31541,
+    "page_count": 14,
+    "paragraph_count_estimate": 5,
+    "title_match_score": 1
+  },
+  "concept_candidates": [
+    {
+      "title": "POPULATION",
+      "first_seen_page_index": 1,
+      "source_trace": "NCERT Class 12 India People and Economy, Chapter 1, extracted page 1"
+    },
+    {
+      "title": "2 India : People and Economy",
+      "first_seen_page_index": 2,
+      "source_trace": "NCERT Class 12 India People and Economy, Chapter 1, extracted page 2"
+    },
+    {
+      "title": "4 India : People and Economy",
+      "first_seen_page_index": 4,
+      "source_trace": "NCERT Class 12 India People and Economy, Chapter 1, extracted page 4"
+    },
+    {
+      "title": "6 India : People and Economy",
+      "first_seen_page_index": 6,
+      "source_trace": "NCERT Class 12 India People and Economy, Chapter 1, extracted page 6"
+    },
+    {
+      "title": "10 India : People and Economy",
+      "first_seen_page_index": 10,
+      "source_trace": "NCERT Class 12 India People and Economy, Chapter 1, extracted page 10"
+    },
+    {
+      "title": "12 India : People and Economy",
+      "first_seen_page_index": 12,
+      "source_trace": "NCERT Class 12 India People and Economy, Chapter 1, extracted page 12"
+    },
+    {
+      "title": "14 India : People and Economy",
+      "first_seen_page_index": 14,
+      "source_trace": "NCERT Class 12 India People and Economy, Chapter 1, extracted page 14"
+    }
+  ],
+  "production_status": "concept_candidates_ready_for_human_decode"
+}
