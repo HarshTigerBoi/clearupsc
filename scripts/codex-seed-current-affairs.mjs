@@ -439,4 +439,38 @@ if (error) {
   process.exit(1);
 }
 
+const legacyCategoryPatches = [
+  {
+    title: "Heat action plans and urban governance",
+    category: "environment",
+    source: "ClearUPSC Current Affairs",
+  },
+  {
+    title: "Semiconductor manufacturing incentives",
+    category: "science",
+    source: "ClearUPSC Current Affairs",
+  },
+  {
+    title: "Wetland restoration and flood buffering",
+    category: "environment",
+    source: "ClearUPSC Current Affairs",
+  },
+];
+
+let legacyUpdated = 0;
+for (const patch of legacyCategoryPatches) {
+  const { data: patchedRows, error: patchError } = await supabase
+    .from("current_affairs")
+    .update({ category: patch.category, source: patch.source })
+    .eq("title", patch.title)
+    .select("id");
+
+  if (patchError) {
+    console.error(patchError);
+    process.exit(1);
+  }
+  legacyUpdated += patchedRows?.length ?? 0;
+}
+
 console.log(`Seeded ${data?.length ?? entries.length} current affairs entries.`);
+console.log(`Updated ${legacyUpdated} legacy current affairs rows with category/source.`);
