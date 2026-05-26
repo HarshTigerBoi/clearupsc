@@ -20,6 +20,13 @@ export function LoginModal({ open, onClose }: { open: boolean; onClose: () => vo
       : `${origin}/auth/callback`;
   }
 
+  function rememberNextRoute() {
+    const next = new URLSearchParams(window.location.search).get("next");
+    if (!next?.startsWith("/")) return;
+    const secure = window.location.protocol === "https:" ? "; Secure" : "";
+    document.cookie = `clearupsc_auth_next=${encodeURIComponent(next)}; Path=/; Max-Age=900; SameSite=Lax${secure}`;
+  }
+
   async function signInWithGithub() {
     setStatus("github");
     setMessage("");
@@ -31,6 +38,7 @@ export function LoginModal({ open, onClose }: { open: boolean; onClose: () => vo
     }
 
     const supabase = createClient();
+    rememberNextRoute();
     const { error } = await supabase.auth.signInWithOAuth({
       provider: "github",
       options: { redirectTo: getCallbackUrl() },

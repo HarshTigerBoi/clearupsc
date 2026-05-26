@@ -39,16 +39,12 @@ export default function Navbar() {
         </nav>
       </header>
 
+      {menuOpen ? (
       <div
-        className={`fixed inset-0 z-[60] bg-[#0a0a0a]/95 text-white transition-opacity duration-300 ${
-          menuOpen ? "pointer-events-auto opacity-100" : "pointer-events-none opacity-0"
-        }`}
-        aria-hidden={!menuOpen}
+        className="fixed inset-0 z-[60] bg-[#0a0a0a]/95 text-white transition-opacity duration-300"
       >
         <div
-          className={`ml-auto flex h-full w-full max-w-xl flex-col bg-[#0a0a0a] px-6 py-5 shadow-2xl transition-transform duration-300 ${
-            menuOpen ? "translate-x-0" : "translate-x-full"
-          }`}
+          className="ml-auto flex h-full w-full max-w-xl flex-col bg-[#0a0a0a] px-6 py-5 shadow-2xl transition-transform duration-300"
         >
           <div className="flex min-h-12 items-center justify-between">
             <Link href="/" className="text-lg font-black text-white" onClick={() => setMenuOpen(false)}>
@@ -78,6 +74,7 @@ export default function Navbar() {
           </nav>
         </div>
       </div>
+      ) : null}
     </>
   );
 }
