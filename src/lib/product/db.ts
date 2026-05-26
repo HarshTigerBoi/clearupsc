@@ -2,7 +2,7 @@ import { createClient } from "@/lib/supabase/server";
 import { hasSupabaseConfig } from "@/lib/supabase/config";
 import { enrichCurrentAffairFallback } from "@/lib/current-affairs/enrichment";
 import { buildPersonalizedWeekPlan, generatePersonalizedTopicSequence } from "@/lib/study/personalized-plan";
-import { LEGACY_TOPIC_REDIRECTS, NCERT_CHAPTER_TOPICS } from "@/lib/study/ncert-master-index";
+import { NCERT_CHAPTER_TOPICS } from "@/lib/study/ncert-master-index";
 import { SYLLABUS } from "@/data/syllabus";
 import { PYQS } from "@/data/pyqs";
 import type {
@@ -63,7 +63,7 @@ export async function getTopicsFromDb() {
       .range(from, from + 999);
     if (error) return [
       ...NCERT_CHAPTER_TOPICS.map((topic) => chapterTopicToListItem(topic, topic.decode_status)),
-      ...SYLLABUS.filter((topic) => !LEGACY_TOPIC_REDIRECTS[topic.key]),
+      ...SYLLABUS,
     ];
     rows.push(...(data ?? []));
     if (!data || data.length < 1000) break;
@@ -72,10 +72,9 @@ export async function getTopicsFromDb() {
   const rowByKey = new Map(rows.map((row) => [String(row.key), row]));
   const chapterTopics = NCERT_CHAPTER_TOPICS.map((topic) => chapterTopicToListItem(topic, String(rowByKey.get(topic.key)?.content_quality ?? topic.decode_status)));
 
-  if (!rows.length) return [...chapterTopics, ...SYLLABUS.filter((topic) => !LEGACY_TOPIC_REDIRECTS[topic.key])];
+  if (!rows.length) return [...chapterTopics, ...SYLLABUS];
 
   const dbTopics = rows
-    .filter((topic) => !LEGACY_TOPIC_REDIRECTS[String(topic.key)])
     .map((topic) => ({
       key: String(topic.key),
       title: String(topic.title),
