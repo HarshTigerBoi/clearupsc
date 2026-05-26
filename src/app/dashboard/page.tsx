@@ -95,6 +95,12 @@ export default function DashboardPage() {
         {stats ? (
           <>
             <NextActionCard stats={stats} />
+            <Link
+              href="/dashboard/analytics"
+              className="mt-3 inline-flex min-h-11 items-center gap-2 rounded-md px-1 text-sm font-black text-[#f97316] transition hover:text-[#ea580c]"
+            >
+              View Full Analytics <ArrowRight size={16} />
+            </Link>
 
             <details className="mt-6 rounded-2xl border border-slate-200 bg-white shadow-sm">
               <summary className="cursor-pointer list-none px-5 py-4 text-sm font-black uppercase tracking-[0.14em] text-slate-500">
