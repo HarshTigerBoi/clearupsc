@@ -34,3 +34,23 @@ GitHub: https://github.com/HarshTigerBoi/clearupsc
 
 ## How To Continue
 Paste this file to new Claude and say: continue captain mode
+
+For every new Claude/Codex session, start with:
+
+```txt
+Read CAPTAIN_HANDOFF.md in my project first.
+Check git status before changing anything.
+Continue from existing work, do not overwrite.
+```
+
+## Next 5 Session Prompts For Codex
+
+Session 1: Check git status first. Check existing personalization work in src/lib/product/db.ts. Build personalized study sequence from onboarding answers - exam year, weak subjects, daily hours, experience level. Update dashboard next action and study_plan_tasks to reflect personalized order.
+
+Session 2: Implement spaced repetition. After topic completion schedule review at 1, 3, 7, 14, 30 days. Store next_review_at in topic_progress. Dashboard shows topics due today. High score = longer interval. Low score = shorter interval.
+
+Session 3: Mobile UX polish. Fix every page at 375px - no horizontal scroll, tap-friendly questions, stacking dashboard cards, smooth hamburger menu, clean onboarding on small screens.
+
+Session 4: NCERT layer. Map all Class 6-12 NCERT chapters to official ncert.nic.in URLs. Update Read It section to show real clickable links for every topic.
+
+Session 5: Essay and answer writing module. User picks Mains PYQ, types answer, app scores against rubric - intro, structure, examples, conclusion, word count. Store in answer_submissions. Show streak and average score on dashboard.
