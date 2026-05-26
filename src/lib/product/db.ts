@@ -209,12 +209,18 @@ export async function completeTask(userId: string, taskId: string, completed: bo
 export async function getSyllabusProgress(userId: string) {
   const supabase = await createClient();
   const topics = await getTopicsFromDb();
-  const enriched = await supabase.from("topic_progress").select("topic_key,status,confidence_score,last_studied_at,correct_count,mistakes_count,last_score").eq("user_id", userId);
-  const legacy = enriched.error
+  const enriched = await supabase
+    .from("topic_progress")
+    .select("topic_key,status,confidence_score,last_studied_at,correct_count,mistakes_count,last_score,next_review_at,ease_factor,review_interval_days,review_count")
+    .eq("user_id", userId);
+  const scored = enriched.error
+    ? await supabase.from("topic_progress").select("topic_key,status,confidence_score,last_studied_at,correct_count,mistakes_count,last_score").eq("user_id", userId)
+    : null;
+  const legacy = scored?.error
     ? await supabase.from("topic_progress").select("topic_key,status,confidence_score,last_studied_at").eq("user_id", userId)
     : null;
-  const data = enriched.error ? legacy?.data : enriched.data;
-  const error = enriched.error ? legacy?.error : enriched.error;
+  const data = enriched.error ? (scored?.error ? legacy?.data : scored?.data) : enriched.data;
+  const error = enriched.error ? (scored?.error ? legacy?.error : scored?.error) : enriched.error;
   if (error) throw new ProductDataError("Could not load syllabus progress.");
   return {
     topics,
@@ -228,6 +234,10 @@ export async function getSyllabusProgress(userId: string) {
         correct_count: Number(row.correct_count ?? 0),
         mistakes_count: Number(row.mistakes_count ?? 0),
         last_score: row.last_score === null || row.last_score === undefined ? undefined : Number(row.last_score),
+        next_review_at: row.next_review_at ? String(row.next_review_at) : null,
+        ease_factor: row.ease_factor === null || row.ease_factor === undefined ? undefined : Number(row.ease_factor),
+        review_interval_days: row.review_interval_days === null || row.review_interval_days === undefined ? undefined : Number(row.review_interval_days),
+        review_count: row.review_count === null || row.review_count === undefined ? undefined : Number(row.review_count),
       };
     }),
   };
@@ -238,6 +248,10 @@ interface TopicProgressMetrics {
   correctCount?: number;
   mistakesCount?: number;
   lastScore?: number;
+  nextReviewAt?: string;
+  easeFactor?: number;
+  reviewIntervalDays?: number;
+  reviewCount?: number;
 }
 
 export async function updateTopicProgress(
@@ -264,12 +278,29 @@ export async function updateTopicProgress(
   if (metrics.correctCount !== undefined) updatePayload.correct_count = Math.max(0, Math.round(metrics.correctCount));
   if (metrics.mistakesCount !== undefined) updatePayload.mistakes_count = Math.max(0, Math.round(metrics.mistakesCount));
   if (metrics.lastScore !== undefined) updatePayload.last_score = Math.max(0, Math.min(100, Math.round(metrics.lastScore)));
+  if (metrics.nextReviewAt !== undefined) updatePayload.next_review_at = metrics.nextReviewAt;
+  if (metrics.easeFactor !== undefined) updatePayload.ease_factor = Math.max(1.3, Number(metrics.easeFactor.toFixed(2)));
+  if (metrics.reviewIntervalDays !== undefined) updatePayload.review_interval_days = Math.max(1, Math.round(metrics.reviewIntervalDays));
+  if (metrics.reviewCount !== undefined) updatePayload.review_count = Math.max(0, Math.round(metrics.reviewCount));
 
-  const { data, error } = await supabase
+  let response = await supabase
     .from("topic_progress")
     .upsert(updatePayload, { onConflict: "user_id,topic_key" })
-    .select("topic_key,status,confidence_score,last_studied_at,time_spent_seconds")
+    .select("topic_key,status,confidence_score,last_studied_at,time_spent_seconds,next_review_at,ease_factor,review_interval_days,review_count")
     .single();
+  if (response.error && ("next_review_at" in updatePayload || "ease_factor" in updatePayload || "review_interval_days" in updatePayload || "review_count" in updatePayload)) {
+    const fallbackPayload = { ...updatePayload };
+    delete fallbackPayload.next_review_at;
+    delete fallbackPayload.ease_factor;
+    delete fallbackPayload.review_interval_days;
+    delete fallbackPayload.review_count;
+    response = await supabase
+      .from("topic_progress")
+      .upsert(fallbackPayload, { onConflict: "user_id,topic_key" })
+      .select("topic_key,status,confidence_score,last_studied_at,time_spent_seconds")
+      .single();
+  }
+  const { data, error } = response;
   if (error || !data) throw new ProductDataError("Could not update topic progress.");
   return data;
 }
@@ -606,6 +637,10 @@ export async function getDashboardStats(userId: string): Promise<UserStats> {
     return { topicKey: item.topic_key, title: topic?.title ?? item.topic_key.replaceAll("_", " "), lastScore: item.last_score ?? null, mistakesCount: item.mistakes_count ?? 0 };
   });
   const weakAreas = await getWeakTopicProgress(userId, topics, needsRevision);
+  const today = new Date().toISOString().slice(0, 10);
+  const dueTopicReviews = progress.filter(
+    (item) => item.status !== "not_started" && item.next_review_at && item.next_review_at.slice(0, 10) <= today,
+  );
 
   const { data: streak } = await supabase.from("user_streaks").select("current_streak").eq("user_id", userId).maybeSingle();
   const { count: mockCount } = await supabase
@@ -629,7 +664,7 @@ export async function getDashboardStats(userId: string): Promise<UserStats> {
 
   return {
     plan: planName,
-    nextAction: buildNextAction(progress, topics, flashcards.length, studied, profile),
+    nextAction: buildNextAction(progress, topics, dueTopicReviews.length, studied, profile),
     syllabusCompletion: Math.round((completed / topics.length) * 100),
     currentStreak: Number(streak?.current_streak ?? 0),
     cardsDue: flashcards.length,
@@ -672,7 +707,7 @@ type OnboardingProfile = Awaited<ReturnType<typeof getUserProfile>>;
 function buildNextAction(
   progress: TopicProgressRecord[],
   topics: Awaited<ReturnType<typeof getTopicsFromDb>>,
-  cardsDue: number,
+  reviewDueCount: number,
   studiedCount: number,
   profile: OnboardingProfile,
 ): UserStats["nextAction"] {
@@ -710,14 +745,14 @@ function buildNextAction(
     };
   }
 
-  // Flashcard recall (but only if user has studied 3+ topics, so new users aren't confused by starter cards)
-  if (cardsDue > 0 && studiedCount >= 3) {
+  // Topic recall (but only if user has studied 3+ topics, so new users are not sent to revision too early)
+  if (reviewDueCount > 0 && studiedCount >= 3) {
     return {
       title: "Revise Before You Forget",
-      subtitle: `${cardsDue} flashcard${cardsDue === 1 ? "" : "s"} are due now. Clear recall first so today's study does not leak away.`,
-      buttonLabel: "Review Flashcards",
-      href: "/flashcards",
-      cardCount: cardsDue,
+      subtitle: `${reviewDueCount} topic${reviewDueCount === 1 ? "" : "s"} are due today by the SM-2 revision schedule. Clear recall first so today's study does not leak away.`,
+      buttonLabel: "Start Revision",
+      href: "/flashcards?due=topics",
+      cardCount: reviewDueCount,
     };
   }
 

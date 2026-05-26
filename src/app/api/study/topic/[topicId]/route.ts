@@ -62,6 +62,13 @@ export async function GET(_request: NextRequest, { params }: { params: { topicId
 }
 
 async function getProgress(supabase: Awaited<ReturnType<typeof createClient>>, userId: string, topicKey: string) {
+  const enriched = await supabase
+    .from("topic_progress")
+    .select("status,confidence_score,last_studied_at,next_review_at,ease_factor,review_interval_days,review_count")
+    .eq("user_id", userId)
+    .eq("topic_key", topicKey)
+    .maybeSingle();
+  if (!enriched.error) return enriched.data ?? null;
   const { data } = await supabase
     .from("topic_progress")
     .select("status,confidence_score,last_studied_at")

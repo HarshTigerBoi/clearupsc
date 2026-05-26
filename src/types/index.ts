@@ -37,6 +37,10 @@ export interface TopicProgressRecord {
   correct_count?: number;
   mistakes_count?: number;
   last_score?: number;
+  next_review_at?: string | null;
+  ease_factor?: number;
+  review_interval_days?: number;
+  review_count?: number;
 }
 
 export interface PYQOption {

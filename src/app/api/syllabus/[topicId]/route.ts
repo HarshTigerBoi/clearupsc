@@ -8,6 +8,10 @@ const statusSchema = z.object({
   correct_count: z.number().int().min(0).optional(),
   mistakes_count: z.number().int().min(0).optional(),
   last_score: z.number().int().min(0).max(100).optional(),
+  next_review_at: z.string().optional(),
+  ease_factor: z.number().min(1.3).optional(),
+  review_interval_days: z.number().int().min(1).optional(),
+  review_count: z.number().int().min(0).optional(),
 });
 
 export async function PATCH(request: Request, { params }: { params: { topicId: string } }) {
@@ -21,6 +25,10 @@ export async function PATCH(request: Request, { params }: { params: { topicId: s
         correctCount: parsed.data.correct_count,
         mistakesCount: parsed.data.mistakes_count,
         lastScore: parsed.data.last_score,
+        nextReviewAt: parsed.data.next_review_at,
+        easeFactor: parsed.data.ease_factor,
+        reviewIntervalDays: parsed.data.review_interval_days,
+        reviewCount: parsed.data.review_count,
       }),
     );
   } catch (error) {
@@ -34,6 +42,10 @@ export async function PATCH(request: Request, { params }: { params: { topicId: s
         correct_count: parsed.data.correct_count ?? 0,
         mistakes_count: parsed.data.mistakes_count ?? 0,
         last_score: parsed.data.last_score ?? null,
+        next_review_at: parsed.data.next_review_at ?? null,
+        ease_factor: parsed.data.ease_factor ?? 2.5,
+        review_interval_days: parsed.data.review_interval_days ?? 1,
+        review_count: parsed.data.review_count ?? 0,
         guest: true,
       });
     }

@@ -9,6 +9,7 @@ import { useMutation, useQuery } from "@tanstack/react-query";
 import { ArrowLeft, ArrowRight, BookOpen, CheckCircle2, ChevronRight, ExternalLink, FileText, Target, Trophy } from "lucide-react";
 import ProductShell from "@/components/product/ProductShell";
 import { LoadingSkeleton } from "@/components/ui/state";
+import { calculateNextReview, qualityFromScore } from "@/lib/study/spaced-repetition";
 
 interface StructuredTopicNotes {
   analogy: { heading: string; body: string };
@@ -58,7 +59,15 @@ interface TopicPayload {
   ncert: NcertRef[];
   ncertRefs: NcertRef[];
   sources: Array<{ name: string; url: string; type: string }>;
-  progress: null | { status: string; confidence_score: number; last_studied_at: string | null };
+  progress: null | {
+    status: string;
+    confidence_score: number;
+    last_studied_at: string | null;
+    next_review_at?: string | null;
+    ease_factor?: number;
+    review_interval_days?: number;
+    review_count?: number;
+  };
   prevTopic: TopicLink | null;
   nextTopic: TopicLink | null;
   readTime: { full: string; revision: string };
@@ -85,6 +94,20 @@ function saveGuestProgress(topicId: string, patch: Record<string, unknown>) {
     window.localStorage.setItem("clearupsc_guest_topic_progress", JSON.stringify(current));
   } catch {
     // Browser storage is best-effort; the page should remain usable without it.
+  }
+}
+
+function readGuestProgress(topicId: string) {
+  try {
+    const current = JSON.parse(window.localStorage.getItem("clearupsc_guest_topic_progress") || "{}");
+    return (current[topicId] ?? {}) as {
+      next_review_at?: string | null;
+      ease_factor?: number;
+      review_interval_days?: number;
+      review_count?: number;
+    };
+  } catch {
+    return {};
   }
 }
 
@@ -291,7 +314,7 @@ export default function StudyTopicPage({ params }: { params: { topicId: string }
             </StepSection>
 
             <StepSection id="prove-it" step="06" label="Prove It" title="Official + Pattern Questions" tone="white">
-              <QuestionPractice topicId={params.topicId} questions={data.quizQuestions} />
+              <QuestionPractice topicId={params.topicId} questions={data.quizQuestions} progress={data.progress} />
             </StepSection>
 
             <CompleteAndContinue
@@ -740,7 +763,7 @@ function NcertViewer({ ncerts, coverage }: { ncerts: NcertRef[]; coverage: strin
   );
 }
 
-function QuestionPractice({ topicId, questions }: { topicId: string; questions: QuizQuestion[] }) {
+function QuestionPractice({ topicId, questions, progress }: { topicId: string; questions: QuizQuestion[]; progress: TopicPayload["progress"] }) {
   const [answers, setAnswers] = useState<Record<string, string>>({});
   const reportedScoreRef = useRef("");
   const answerable = questions.filter((question) => !question.reviewOnly && question.correct);
@@ -759,11 +782,21 @@ function QuestionPractice({ topicId, questions }: { topicId: string; questions: 
     const signature = `${topicId}:${correct}:${mistakes}:${score}`;
     if (reportedScoreRef.current === signature) return;
     reportedScoreRef.current = signature;
+    const guestProgress = readGuestProgress(topicId);
+    const quality = qualityFromScore(score);
+    const currentInterval = Number(progress?.review_interval_days ?? guestProgress.review_interval_days ?? 0);
+    const easeFactor = Number(progress?.ease_factor ?? guestProgress.ease_factor ?? 2.5);
+    const reviewCount = Number(progress?.review_count ?? guestProgress.review_count ?? 0);
+    const review = calculateNextReview(quality, currentInterval, easeFactor);
     saveGuestProgress(topicId, {
       status: "in_progress",
       correct_count: correct,
       mistakes_count: mistakes,
       last_score: score,
+      next_review_at: review.nextReviewAt,
+      ease_factor: review.easeFactor,
+      review_interval_days: review.interval,
+      review_count: reviewCount + 1,
     });
     fetch(`/api/syllabus/${topicId}`, {
       method: "PATCH",
@@ -773,11 +806,15 @@ function QuestionPractice({ topicId, questions }: { topicId: string; questions: 
         correct_count: correct,
         mistakes_count: mistakes,
         last_score: score,
+        next_review_at: review.nextReviewAt,
+        ease_factor: review.easeFactor,
+        review_interval_days: review.interval,
+        review_count: reviewCount + 1,
       }),
     }).catch(() => {
       reportedScoreRef.current = "";
     });
-  }, [correct, done, mistakes, score, topicId]);
+  }, [correct, done, mistakes, progress?.ease_factor, progress?.review_count, progress?.review_interval_days, score, topicId]);
 
   if (!questions.length) {
     return <div className="rounded-3xl bg-white p-6 text-sm text-slate-600 shadow-sm">Questions are being mapped for this topic.</div>;

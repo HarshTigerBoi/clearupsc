@@ -16,8 +16,22 @@ const quickActions = [
   { href: "/flashcards", label: "Clear due cards", helper: "Protect memory before it leaks", icon: Repeat },
 ];
 
+type GuestTopicProgress = Record<
+  string,
+  {
+    status?: string;
+    last_score?: number | null;
+    mistakes_count?: number;
+    updated_at?: string;
+    next_review_at?: string | null;
+    ease_factor?: number;
+    review_interval_days?: number;
+    review_count?: number;
+  }
+>;
+
 export default function DashboardPage() {
-  const [guestProgress, setGuestProgress] = useState<Record<string, { status?: string; last_score?: number | null; mistakes_count?: number; updated_at?: string }>>({});
+  const [guestProgress, setGuestProgress] = useState<GuestTopicProgress>({});
   const [guestProfile, setGuestProfile] = useState<PersonalizationProfile>(null);
 
   useEffect(() => {
@@ -214,7 +228,7 @@ export default function DashboardPage() {
 
 function mergeGuestStats(
   stats: UserStats | undefined,
-  progress: Record<string, { status?: string; last_score?: number | null; mistakes_count?: number; updated_at?: string }>,
+  progress: GuestTopicProgress,
   profile: PersonalizationProfile,
   topics: Topic[],
 ) {
@@ -226,6 +240,10 @@ function mergeGuestStats(
     last_score: item.last_score ?? undefined,
     mistakes_count: item.mistakes_count ?? 0,
     last_studied_at: item.updated_at ?? null,
+    next_review_at: item.next_review_at ?? null,
+    ease_factor: item.ease_factor,
+    review_interval_days: item.review_interval_days,
+    review_count: item.review_count,
   }));
   const personalized = topics.length ? generatePersonalizedTopicSequence({ profile, topics, progress: progressRecords }) : null;
   const personalizedTopic = personalized?.nextTopicKey ? topics.find((topic) => topic.key === personalized.nextTopicKey) : null;
@@ -233,6 +251,11 @@ function mergeGuestStats(
   if (!entries.length && !personalizedTopic) return stats;
 
   const completed = entries.filter(([, item]) => item.status === "completed" || item.status === "done").length;
+  const studied = entries.filter(([, item]) => normaliseGuestStatus(item.status) !== "not_started").length;
+  const today = new Date().toISOString().slice(0, 10);
+  const dueTopics = entries
+    .filter(([, item]) => item.next_review_at && item.next_review_at.slice(0, 10) <= today && normaliseGuestStatus(item.status) !== "not_started")
+    .sort((a, b) => String(a[1].next_review_at).localeCompare(String(b[1].next_review_at)));
   const inProgress = entries
     .filter(([, item]) => item.status === "in_progress")
     .sort((a, b) => new Date(b[1].updated_at ?? 0).getTime() - new Date(a[1].updated_at ?? 0).getTime())[0];
@@ -260,7 +283,15 @@ function mergeGuestStats(
           topicTitle: inProgress[0].replace(/^gs\d?_?/, "").replaceAll("_", " "),
           stepLabel: "Resume study",
         }
-      : personalizedTopic
+        : dueTopics.length > 0 && studied >= 3
+          ? {
+              title: "Revise Before You Forget",
+              subtitle: `${dueTopics.length} topic${dueTopics.length === 1 ? "" : "s"} are due today by your SM-2 revision schedule. Guest progress is saved in this browser.`,
+              buttonLabel: "Start Revision",
+              href: "/flashcards?due=topics",
+              cardCount: dueTopics.length,
+            }
+        : personalizedTopic
         ? {
             title: completed > 0 ? "Study Next Topic" : "Start Your First Topic",
             subtitle: `${personalized?.reason ?? "Following your personalized UPSC sequence"}. Guest progress is saved in this browser.`,
@@ -298,7 +329,7 @@ function NextActionCard({ stats }: { stats: UserStats }) {
           <h2 className="mt-4 text-4xl font-black tracking-normal text-white sm:text-5xl">{action.title}</h2>
           {action.topicTitle ? <p className="mt-3 text-xl font-black text-zinc-100">{action.topicTitle}</p> : null}
           {action.stepLabel ? <p className="mt-1 text-sm font-bold uppercase tracking-[0.16em] text-[#f97316]">{action.stepLabel}</p> : null}
-          {typeof action.cardCount === "number" ? <p className="mt-3 text-xl font-black text-zinc-100">{action.cardCount} cards due</p> : null}
+          {typeof action.cardCount === "number" ? <p className="mt-3 text-xl font-black text-zinc-100">{action.cardCount} topics due</p> : null}
           <p className="mt-4 max-w-2xl text-sm leading-6 text-zinc-300 sm:text-base">{action.subtitle}</p>
         </div>
         <Link
