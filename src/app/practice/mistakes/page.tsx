@@ -4,6 +4,7 @@ import Link from "next/link";
 import { useEffect, useMemo, useState } from "react";
 import { useQuery } from "@tanstack/react-query";
 import ProductShell from "@/components/product/ProductShell";
+import { BADGE_BY_ID } from "@/lib/gamification/badges";
 
 interface Mistake {
   id: string;
@@ -51,6 +52,17 @@ export default function MistakeJournalPage() {
       const next = guestMistakes.filter((item) => item.id !== mistake.id);
       setGuestMistakes(next);
       window.localStorage.setItem("clearupsc_guest_mistakes", JSON.stringify(next));
+      const resolved = Number(window.localStorage.getItem("clearupsc_guest_resolved_mistakes") ?? 0) + 1;
+      window.localStorage.setItem("clearupsc_guest_resolved_mistakes", String(resolved));
+      if (resolved >= 50) {
+        const earned = new Set(JSON.parse(window.localStorage.getItem("clearupsc_guest_badges") || "[]"));
+        if (!earned.has("mistake_crusher")) {
+          earned.add("mistake_crusher");
+          window.localStorage.setItem("clearupsc_guest_badges", JSON.stringify([...earned]));
+          const badge = BADGE_BY_ID.get("mistake_crusher");
+          if (badge) window.dispatchEvent(new CustomEvent("clearupsc:badge-unlock", { detail: badge }));
+        }
+      }
       return;
     }
     await fetch(`/api/mistakes?id=${encodeURIComponent(mistake.id)}`, { method: "DELETE" }).catch(() => {});

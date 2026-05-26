@@ -1,6 +1,7 @@
 import { redirect } from "next/navigation";
 import ProductShell from "@/components/product/ProductShell";
 import { PageHeader } from "@/components/layout/PageHeader";
+import BadgeShowcase from "@/components/gamification/BadgeShowcase";
 import { getCurrentPlan, getUserProfile } from "@/lib/product/db";
 import { createClient } from "@/lib/supabase/server";
 
@@ -39,6 +40,7 @@ export default async function ProfilePage() {
             ))}
           </dl>
         </div>
+        <BadgeShowcase />
       </section>
     </ProductShell>
   );

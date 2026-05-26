@@ -938,9 +938,9 @@ function QuestionPractice({ topicId, questions, progress }: { topicId: string; q
                       onClick={() => chooseAnswer(question, option.label)}
                       className={`min-h-14 w-full rounded-2xl border px-4 py-3 text-left text-sm font-bold leading-6 transition sm:text-base ${
                       showCorrect
-                        ? "border-green-300 bg-green-50 text-green-800"
+                        ? "animate-correct-pulse border-green-300 bg-green-50 text-green-800"
                         : showWrong
-                          ? "border-red-300 bg-red-50 text-red-800"
+                          ? "animate-wrong-shake border-red-300 bg-red-50 text-red-800"
                           : selected === option.label
                             ? "border-[#f97316] bg-orange-50 text-orange-800"
                             : "border-slate-200 bg-slate-50 text-slate-700 hover:border-[#f97316]"

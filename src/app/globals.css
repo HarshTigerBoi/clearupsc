@@ -42,3 +42,94 @@ video,
 iframe {
   max-width: 100%;
 }
+
+@keyframes xp-float {
+  0% {
+    opacity: 0;
+    transform: translateY(12px) scale(0.95);
+  }
+  18% {
+    opacity: 1;
+    transform: translateY(0) scale(1);
+  }
+  100% {
+    opacity: 0;
+    transform: translateY(-48px) scale(0.98);
+  }
+}
+
+@keyframes correct-pulse {
+  0%,
+  100% {
+    transform: scale(1);
+    box-shadow: 0 0 0 0 rgba(34, 197, 94, 0);
+  }
+  45% {
+    transform: scale(1.015);
+    box-shadow: 0 0 0 8px rgba(34, 197, 94, 0.16);
+  }
+}
+
+@keyframes wrong-shake {
+  0%,
+  100% {
+    transform: translateX(0);
+  }
+  20% {
+    transform: translateX(-5px);
+  }
+  40% {
+    transform: translateX(5px);
+  }
+  60% {
+    transform: translateX(-3px);
+  }
+  80% {
+    transform: translateX(3px);
+  }
+}
+
+@keyframes badge-unlock-pop {
+  0% {
+    opacity: 0;
+    transform: scale(0.86) translateY(12px);
+  }
+  60% {
+    opacity: 1;
+    transform: scale(1.04) translateY(0);
+  }
+  100% {
+    opacity: 1;
+    transform: scale(1);
+  }
+}
+
+@keyframes streak-bounce {
+  0%,
+  100% {
+    transform: translateY(0) scale(1);
+  }
+  45% {
+    transform: translateY(-4px) scale(1.08);
+  }
+}
+
+.animate-xp-float {
+  animation: xp-float 1.2s ease-out forwards;
+}
+
+.animate-correct-pulse {
+  animation: correct-pulse 0.65s ease-out;
+}
+
+.animate-wrong-shake {
+  animation: wrong-shake 0.45s ease-in-out;
+}
+
+.animate-badge-unlock-pop {
+  animation: badge-unlock-pop 0.42s cubic-bezier(0.2, 0.9, 0.2, 1);
+}
+
+.animate-streak-bounce {
+  animation: streak-bounce 0.75s ease-in-out;
+}

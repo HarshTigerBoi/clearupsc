@@ -83,6 +83,12 @@ export default function DailyChallenge() {
       });
       const data = await response.json();
       if (response.ok && !data.guest) {
+        if (data.xp?.points) {
+          window.dispatchEvent(new CustomEvent("clearupsc:xp-earned", { detail: { points: data.xp.points, action: "daily_challenge" } }));
+        }
+        for (const badge of data.xp?.badges ?? []) {
+          window.dispatchEvent(new CustomEvent("clearupsc:badge-unlock", { detail: badge }));
+        }
         setResult({ correct: data.correct, correctOption: data.correctOption, explanation: data.explanation, streak: data.streak ?? streak });
         return;
       }
@@ -116,7 +122,7 @@ export default function DailyChallenge() {
           <Trophy className="h-4 w-4" /> Today&apos;s Challenge
         </span>
         <span className="inline-flex items-center gap-2 rounded-full bg-white/10 px-3 py-1 text-sm font-black text-white">
-          <Flame className="h-4 w-4 text-[#f97316]" /> {streak} day streak
+          <Flame className="animate-streak-bounce h-4 w-4 text-[#f97316]" /> {streak} day streak
         </span>
       </div>
 
@@ -127,9 +133,9 @@ export default function DailyChallenge() {
           const isCorrectOption = question.correct === option.label;
           const stateClass = alreadyAnswered
             ? isCorrectOption
-              ? "border-green-500 bg-green-500/15 text-green-100"
+              ? "animate-correct-pulse border-green-500 bg-green-500/15 text-green-100"
               : isChosen
-                ? "border-red-500 bg-red-500/15 text-red-100"
+                ? "animate-wrong-shake border-red-500 bg-red-500/15 text-red-100"
                 : "border-white/10 bg-white/5 text-zinc-300"
             : "border-white/10 bg-white/5 text-zinc-100 hover:border-[#f97316] hover:bg-[#f97316]/10";
           return (
@@ -158,4 +164,3 @@ export default function DailyChallenge() {
     </section>
   );
 }
-

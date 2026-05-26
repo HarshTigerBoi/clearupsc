@@ -1,4 +1,5 @@
 import type { SupabaseClient } from "@supabase/supabase-js";
+import { getEligibleBadges, emptyBadgeMetrics, type Badge, type BadgeMetrics } from "@/lib/gamification/badges";
 
 export const XP_ACTIONS = {
   topic_completed: 100,
@@ -60,13 +61,18 @@ export function readGuestXp() {
 export function addGuestXp(action: XpAction) {
   if (typeof window === "undefined") return getXpLevel(0);
   const next = readGuestXp() + getXpForAction(action);
+  const points = getXpForAction(action);
   try {
     window.localStorage.setItem("clearupsc_guest_xp", String(next));
     const events = JSON.parse(window.localStorage.getItem("clearupsc_guest_xp_events") || "[]");
     window.localStorage.setItem(
       "clearupsc_guest_xp_events",
-      JSON.stringify([{ action, xp: getXpForAction(action), created_at: new Date().toISOString() }, ...(Array.isArray(events) ? events : [])].slice(0, 100)),
+      JSON.stringify([{ action, xp: points, created_at: new Date().toISOString() }, ...(Array.isArray(events) ? events : [])].slice(0, 100)),
     );
+    window.dispatchEvent(new CustomEvent("clearupsc:xp-earned", { detail: { points, action } }));
+    for (const badge of checkGuestBadges(next)) {
+      window.dispatchEvent(new CustomEvent("clearupsc:badge-unlock", { detail: badge }));
+    }
   } catch {
     // XP is motivational, not blocking; ignore storage failures.
   }
@@ -82,7 +88,10 @@ export async function awardClientXp(action: XpAction) {
       body: JSON.stringify({ action }),
     });
     if (!response.ok) return guest;
-    const data = (await response.json()) as { xp?: { totalXp: number; levelName: string; progressPercent: number; remainingXp: number } };
+    const data = (await response.json()) as { xp?: { totalXp: number; levelName: string; progressPercent: number; remainingXp: number; badges?: Badge[] } };
+    for (const badge of data.xp?.badges ?? []) {
+      window.dispatchEvent(new CustomEvent("clearupsc:badge-unlock", { detail: badge }));
+    }
     return data.xp ?? guest;
   } catch {
     return guest;
@@ -106,5 +115,120 @@ export async function awardUserXp(supabase: SupabaseClient, userId: string, acti
     { onConflict: "user_id" },
   );
 
-  return { ...getXpLevel(error ? Number(current.data?.total_xp ?? 0) : totalXp), points, synced: !error };
+  const finalXp = error ? Number(current.data?.total_xp ?? 0) : totalXp;
+  const badges = error ? [] : await checkAndAwardBadges(supabase, userId, finalXp);
+  return { ...getXpLevel(finalXp), points, synced: !error, badges };
+}
+
+function checkGuestBadges(totalXp: number) {
+  const metrics = emptyBadgeMetrics(totalXp);
+  try {
+    const progress = JSON.parse(window.localStorage.getItem("clearupsc_guest_topic_progress") || "{}");
+    const progressRows = Object.values(progress) as Array<{ status?: string; last_score?: number | null; updated_at?: string }>;
+    metrics.completedTopics = progressRows.filter((row) => row.status === "completed" || row.status === "done").length;
+    metrics.perfectProveIts = progressRows.filter((row) => Number(row.last_score ?? 0) >= 100).length;
+    const streak = JSON.parse(window.localStorage.getItem("clearupsc_guest_streak") || "{}");
+    metrics.currentStreak = Number(streak.currentStreak ?? 0);
+    metrics.resolvedMistakes = Number(window.localStorage.getItem("clearupsc_guest_resolved_mistakes") ?? 0);
+    const existing = new Set(JSON.parse(window.localStorage.getItem("clearupsc_guest_badges") || "[]"));
+    const newlyEarned = getEligibleBadges(metrics).filter((badge) => !existing.has(badge.id));
+    if (newlyEarned.length) {
+      window.localStorage.setItem("clearupsc_guest_badges", JSON.stringify([...existing, ...newlyEarned.map((badge) => badge.id)]));
+    }
+    return newlyEarned;
+  } catch {
+    return [];
+  }
+}
+
+async function checkAndAwardBadges(supabase: SupabaseClient, userId: string, totalXp: number) {
+  const metrics = await collectBadgeMetrics(supabase, userId, totalXp);
+  const eligible = getEligibleBadges(metrics);
+  if (!eligible.length) return [];
+
+  const writer = await badgeWriterClient(supabase);
+  const { data: existingRows } = await writer.from("user_badges").select("badge_id").eq("user_id", userId);
+  const existing = new Set((existingRows ?? []).map((row) => String(row.badge_id)));
+  const newBadges = eligible.filter((badge) => !existing.has(badge.id));
+  if (!newBadges.length) return [];
+
+  const { error } = await writer.from("user_badges").insert(newBadges.map((badge) => ({ user_id: userId, badge_id: badge.id })));
+  return error ? [] : newBadges;
+}
+
+async function badgeWriterClient(fallback: SupabaseClient) {
+  try {
+    const mod = await import("@/lib/supabase/admin");
+    return mod.createAdminClient() ?? fallback;
+  } catch {
+    return fallback;
+  }
+}
+
+async function collectBadgeMetrics(supabase: SupabaseClient, userId: string, totalXp: number): Promise<BadgeMetrics> {
+  const metrics = emptyBadgeMetrics(totalXp);
+  const [
+    progressResult,
+    topicsResult,
+    streakResult,
+    mcqResult,
+    mockResult,
+    answersResult,
+  ] = await Promise.all([
+    supabase.from("topic_progress").select("topic_key,status,last_score,last_studied_at").eq("user_id", userId),
+    supabase.from("topics").select("key,title,subject"),
+    supabase.from("user_streaks").select("current_streak").eq("user_id", userId).maybeSingle(),
+    supabase.from("mcq_attempts").select("id", { count: "exact", head: true }).eq("user_id", userId),
+    supabase.from("mock_test_attempts").select("id", { count: "exact", head: true }).eq("user_id", userId).eq("status", "evaluated"),
+    supabase.from("answer_submissions").select("id", { count: "exact", head: true }).eq("user_id", userId),
+  ]);
+
+  const progressRows = progressResult.data ?? [];
+  const topicRows = topicsResult.data ?? [];
+  const completed = new Set(
+    progressRows
+      .filter((row) => row.status === "completed" || row.status === "done")
+      .map((row) => String(row.topic_key)),
+  );
+
+  metrics.completedTopics = completed.size;
+  metrics.currentStreak = Number(streakResult.data?.current_streak ?? 0);
+  metrics.mcqAttempts = mcqResult.count ?? 0;
+  metrics.mockAttempts = mockResult.count ?? 0;
+  metrics.answerSubmissions = answersResult.count ?? 0;
+  metrics.perfectProveIts = progressRows.filter((row) => Number(row.last_score ?? 0) >= 100).length;
+
+  for (const row of progressRows) {
+    if (!row.last_studied_at) continue;
+    const hour = hourInIndia(String(row.last_studied_at));
+    if (hour >= 22) metrics.nightStudyCount += 1;
+    if (hour < 7) metrics.earlyStudyCount += 1;
+  }
+
+  for (const topic of topicRows) {
+    const key = String(topic.key ?? "").toLowerCase();
+    const title = String(topic.title ?? "").toLowerCase();
+    const subject = String(topic.subject ?? "").toLowerCase();
+    const isDone = completed.has(String(topic.key));
+    if (subject === "gs2" && (key.includes("polity") || title.includes("polity") || title.includes("constitution"))) {
+      metrics.polityTotal += 1;
+      if (isDone) metrics.polityCompleted += 1;
+    }
+    if (subject === "gs1" && (key.includes("history") || title.includes("history") || title.includes("freedom"))) {
+      metrics.historyTotal += 1;
+      if (isDone) metrics.historyCompleted += 1;
+    }
+    if (subject === "gs3" && (key.includes("economy") || title.includes("economy") || title.includes("inflation") || title.includes("banking"))) {
+      metrics.economyTotal += 1;
+      if (isDone) metrics.economyCompleted += 1;
+    }
+  }
+
+  return metrics;
+}
+
+function hourInIndia(value: string) {
+  const text = new Intl.DateTimeFormat("en-US", { timeZone: "Asia/Kolkata", hour: "2-digit", hour12: false }).format(new Date(value));
+  const hour = Number(text.replace(/\D/g, ""));
+  return Number.isFinite(hour) ? hour % 24 : 12;
 }

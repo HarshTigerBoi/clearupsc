@@ -70,7 +70,7 @@ export default function StreakCounter({ fallbackStreak = 0 }: { fallbackStreak?:
       <div className="flex flex-col gap-3 sm:flex-row sm:items-center sm:justify-between">
         <div>
           <p className="flex items-center gap-2 text-2xl font-black text-[#1a2744]">
-            <Flame className="h-6 w-6 text-[#f97316]" /> {state.currentStreak} day streak
+            <Flame className="animate-streak-bounce h-6 w-6 text-[#f97316]" /> {state.currentStreak} day streak
           </p>
           <p className="mt-1 text-sm font-semibold text-slate-500">
             Longest: {state.longestStreak} days · {state.freezesRemaining} streak freeze{state.freezesRemaining === 1 ? "" : "s"} left
@@ -91,4 +91,3 @@ export default function StreakCounter({ fallbackStreak = 0 }: { fallbackStreak?:
     </section>
   );
 }
-
