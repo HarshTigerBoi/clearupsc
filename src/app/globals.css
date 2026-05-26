@@ -43,6 +43,75 @@ iframe {
   max-width: 100%;
 }
 
+.product-dark,
+.dark-page {
+  background: #0a0a0a;
+  color: #f9fafb;
+}
+
+.product-dark .bg-white,
+.product-dark .bg-slate-50,
+.product-dark .bg-\[\#f8fafc\],
+.dark-page .bg-white,
+.dark-page .bg-slate-50,
+.dark-page .bg-\[\#f8fafc\] {
+  background-color: #1f2937 !important;
+}
+
+.product-dark .bg-slate-100,
+.dark-page .bg-slate-100 {
+  background-color: #111827 !important;
+}
+
+.product-dark .border-slate-200,
+.product-dark .border-\[\#e2e8f0\],
+.dark-page .border-slate-200,
+.dark-page .border-\[\#e2e8f0\] {
+  border-color: #374151 !important;
+}
+
+.product-dark .text-\[\#1a2744\],
+.product-dark .text-slate-900,
+.product-dark .text-slate-800,
+.product-dark .text-slate-700,
+.product-dark .text-orange-950,
+.dark-page .text-\[\#1a2744\],
+.dark-page .text-slate-900,
+.dark-page .text-slate-800,
+.dark-page .text-slate-700,
+.dark-page .text-orange-950 {
+  color: #f9fafb !important;
+}
+
+.product-dark .text-\[\#64748b\],
+.product-dark .text-slate-600,
+.product-dark .text-slate-500,
+.product-dark .text-slate-400,
+.dark-page .text-\[\#64748b\],
+.dark-page .text-slate-600,
+.dark-page .text-slate-500,
+.dark-page .text-slate-400 {
+  color: #9ca3af !important;
+}
+
+.product-dark input,
+.product-dark select,
+.product-dark textarea,
+.dark-page input,
+.dark-page select,
+.dark-page textarea {
+  background-color: #111827 !important;
+  border-color: #374151 !important;
+  color: #ffffff !important;
+}
+
+.product-dark input::placeholder,
+.product-dark textarea::placeholder,
+.dark-page input::placeholder,
+.dark-page textarea::placeholder {
+  color: #6b7280;
+}
+
 @keyframes xp-float {
   0% {
     opacity: 0;

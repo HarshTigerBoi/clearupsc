@@ -88,7 +88,7 @@ export default function PracticePage() {
   const currentQuestion = questions[currentIndex];
 
   return (
-    <div className="bg-[#f8fafc]">
+    <div className="dark-page bg-[#0a0a0a]">
       <section className="mx-auto max-w-5xl px-4 py-10 sm:px-6 lg:px-8">
         <div className="rounded-xl bg-[#1a2744] p-6 text-white sm:p-8">
           <p className="text-sm font-bold uppercase tracking-[0.16em] text-orange-300">UPSC-pattern Practice</p>

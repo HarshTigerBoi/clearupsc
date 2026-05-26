@@ -5,7 +5,7 @@ import { pricingPlans } from "@/data/blueprint";
 
 export default function PricingPage() {
   return (
-    <div className="bg-[#f8fafc]">
+    <div className="dark-page bg-[#0a0a0a]">
       <section className="mx-auto max-w-7xl px-4 py-10 sm:px-6 lg:px-8">
         <PageHeader
           eyebrow="Pricing"

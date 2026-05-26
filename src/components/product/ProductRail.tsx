@@ -42,11 +42,11 @@ const items = [
 
 export default function ProductRail() {
   return (
-    <aside className="hidden w-64 shrink-0 border-r border-slate-200 bg-white p-5 lg:block">
+    <aside className="hidden w-64 shrink-0 border-r border-[#1f2937] bg-[#111827] p-5 lg:block">
       <div className="sticky top-24 space-y-2">
-        <p className="px-3 text-xs font-bold uppercase tracking-[0.25em] text-slate-400">Workspace</p>
+        <p className="px-3 text-xs font-bold uppercase tracking-[0.25em] text-zinc-500">Workspace</p>
         {items.map((item) => (
-          <Link key={item.href} href={item.href} className="flex items-center gap-3 rounded-2xl px-3 py-3 text-sm font-semibold text-slate-600 hover:bg-navy-50 hover:text-navy-900">
+          <Link key={item.href} href={item.href} className="flex items-center gap-3 rounded-2xl px-3 py-3 text-sm font-semibold text-zinc-400 transition hover:bg-white/5 hover:text-[#f97316]">
             <item.icon className="h-4 w-4" />
             {item.label}
           </Link>

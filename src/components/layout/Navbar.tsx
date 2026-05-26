@@ -1,7 +1,7 @@
 "use client";
 
 import Link from "next/link";
-import { useState } from "react";
+import { useEffect, useState } from "react";
 import { AlertTriangle, BarChart3, Menu, ScrollText, Shuffle, X, type LucideIcon } from "lucide-react";
 
 const menuItems: Array<{ href: string; label: string; icon?: LucideIcon }> = [
@@ -23,6 +23,14 @@ const menuItems: Array<{ href: string; label: string; icon?: LucideIcon }> = [
 
 export default function Navbar() {
   const [menuOpen, setMenuOpen] = useState(false);
+
+  useEffect(() => {
+    function openMenu() {
+      setMenuOpen(true);
+    }
+    window.addEventListener("clearupsc:open-menu", openMenu);
+    return () => window.removeEventListener("clearupsc:open-menu", openMenu);
+  }, []);
 
   return (
     <>
