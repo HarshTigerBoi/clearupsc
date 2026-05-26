@@ -35,28 +35,25 @@ export default function OnboardingPage() {
   async function finish() {
     setSaving(true);
     setError("");
-    const response = await fetch("/api/onboarding/complete", {
+    const payload = {
+      attemptNumber: form.currentLevel === "Advanced" ? 3 : form.currentLevel === "Intermediate" ? 2 : 1,
+      educationalBackground: form.currentLevel,
+      dailyHoursAvailable: form.dailyHoursAvailable,
+      optionalSubject: form.optionalSubject,
+      targetExamYear: form.targetExamYear,
+      weakSubjects: form.weakestPaper === "Equal" ? [] : [form.weakestPaper],
+      strongSubjects: form.weakestPaper === "Equal" ? ["Balanced GS"] : [],
+      prelimsClearedBefore: form.currentLevel === "Advanced",
+    };
+
+    window.localStorage.setItem("clearupsc_guest_onboarding", JSON.stringify({ ...payload, onboardingComplete: true, updatedAt: new Date().toISOString() }));
+    router.push("/dashboard");
+
+    fetch("/api/onboarding/complete", {
       method: "POST",
       headers: { "Content-Type": "application/json" },
-      body: JSON.stringify({
-        attemptNumber: form.currentLevel === "Advanced" ? 3 : form.currentLevel === "Intermediate" ? 2 : 1,
-        educationalBackground: form.currentLevel,
-        dailyHoursAvailable: form.dailyHoursAvailable,
-        optionalSubject: form.optionalSubject,
-        targetExamYear: form.targetExamYear,
-        weakSubjects: form.weakestPaper === "Equal" ? [] : [form.weakestPaper],
-        strongSubjects: form.weakestPaper === "Equal" ? ["Balanced GS"] : [],
-        prelimsClearedBefore: form.currentLevel === "Advanced",
-      }),
-    });
-
-    if (!response.ok) {
-      setSaving(false);
-      setError("Sign in first, then onboarding can build your dashboard.");
-      return;
-    }
-
-    router.push("/dashboard");
+      body: JSON.stringify(payload),
+    }).catch(() => setError("Using guest mode. Sign in later if you want cloud sync."));
   }
 
   const screens = [

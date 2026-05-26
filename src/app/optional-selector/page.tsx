@@ -7,8 +7,6 @@ import { scoreOptionals } from "@/lib/optional-selector/scorer";
 import type { OptionalResult, UserAnswers } from "@/types";
 import { QuestionScreen } from "@/components/optional-selector/QuestionScreen";
 import { ResultsScreen } from "@/components/optional-selector/ResultsScreen";
-import { hasSupabaseConfig } from "@/lib/supabase/config";
-import { createClient } from "@/lib/supabase/client";
 
 export default function OptionalSelectorPage() {
   const router = useRouter();
@@ -45,37 +43,7 @@ export default function OptionalSelectorPage() {
 
     setStarting(true);
     setStartError("");
-
-    if (!hasSupabaseConfig()) {
-      router.push(`/auth/signin?next=${encodeURIComponent("/onboarding?force=1")}`);
-      return;
-    }
-
-    const supabase = createClient();
-    const {
-      data: { user },
-    } = await supabase.auth.getUser();
-
-    if (!user) {
-      router.push(`/auth/signin?next=${encodeURIComponent("/onboarding?force=1")}`);
-      return;
-    }
-
-    const { error } = await supabase.from("user_profiles").upsert(
-      {
-        user_id: user.id,
-        optional_subject: topOptional,
-        updated_at: new Date().toISOString(),
-      },
-      { onConflict: "user_id" },
-    );
-
-    if (error) {
-      setStarting(false);
-      setStartError("Could not save your optional yet. Try again after signing in.");
-      return;
-    }
-
+    window.localStorage.setItem("clearupsc_guest_optional_subject", topOptional);
     router.push("/onboarding?force=1");
   }
 

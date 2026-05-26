@@ -1,6 +1,7 @@
 "use client";
 
 import Link from "next/link";
+import { useEffect, useMemo, useState } from "react";
 import { useQuery } from "@tanstack/react-query";
 import { ArrowRight, Brain, CheckCircle2, Flame, PenLine, Repeat, Target } from "lucide-react";
 import { Bar, BarChart, Line, LineChart, ResponsiveContainer, Tooltip, XAxis, YAxis } from "recharts";
@@ -15,6 +16,16 @@ const quickActions = [
 ];
 
 export default function DashboardPage() {
+  const [guestProgress, setGuestProgress] = useState<Record<string, { status?: string; last_score?: number | null; mistakes_count?: number; updated_at?: string }>>({});
+
+  useEffect(() => {
+    try {
+      setGuestProgress(JSON.parse(window.localStorage.getItem("clearupsc_guest_topic_progress") || "{}"));
+    } catch {
+      setGuestProgress({});
+    }
+  }, []);
+
   const statsQuery = useQuery({
     queryKey: ["user", "stats"],
     queryFn: async () => {
@@ -24,7 +35,7 @@ export default function DashboardPage() {
     },
   });
 
-  const stats = statsQuery.data;
+  const stats = useMemo(() => mergeGuestStats(statsQuery.data, guestProgress), [guestProgress, statsQuery.data]);
   const analyticsQuery = useQuery({
     queryKey: ["user", "analytics"],
     queryFn: async () => {
@@ -183,6 +194,52 @@ export default function DashboardPage() {
       </section>
     </ProductShell>
   );
+}
+
+function mergeGuestStats(stats: UserStats | undefined, progress: Record<string, { status?: string; last_score?: number | null; mistakes_count?: number; updated_at?: string }>) {
+  if (!stats) return stats;
+  const entries = Object.entries(progress);
+  if (!entries.length) return stats;
+
+  const completed = entries.filter(([, item]) => item.status === "completed" || item.status === "done").length;
+  const inProgress = entries
+    .filter(([, item]) => item.status === "in_progress")
+    .sort((a, b) => new Date(b[1].updated_at ?? 0).getTime() - new Date(a[1].updated_at ?? 0).getTime())[0];
+  const weakAreas = entries
+    .filter(([, item]) => (item.last_score ?? 100) < 60 || (item.mistakes_count ?? 0) > 2)
+    .sort((a, b) => (b[1].mistakes_count ?? 0) - (a[1].mistakes_count ?? 0))
+    .slice(0, 5)
+    .map(([topicKey, item]) => ({
+      topicKey,
+      title: topicKey.replace(/^gs\d?_?/, "").replaceAll("_", " "),
+      lastScore: item.last_score ?? null,
+      mistakesCount: item.mistakes_count ?? 0,
+    }));
+
+  return {
+    ...stats,
+    syllabusCompletion: Math.max(stats.syllabusCompletion, Math.round((completed / 1196) * 100)),
+    weakAreas: weakAreas.length ? weakAreas : stats.weakAreas,
+    nextAction: inProgress
+      ? {
+          title: "Continue Where You Left Off",
+          subtitle: "This progress is saved in this browser. Sign in later only if you want cloud sync.",
+          buttonLabel: "Continue Topic",
+          href: `/study/${inProgress[0]}`,
+          topicTitle: inProgress[0].replace(/^gs\d?_?/, "").replaceAll("_", " "),
+          stepLabel: "Resume study",
+        }
+      : completed > 0
+        ? {
+            title: "Study Next Topic",
+            subtitle: `${completed} topic${completed === 1 ? "" : "s"} completed in guest mode. Keep the momentum going.`,
+            buttonLabel: "Open Study",
+            href: "/study",
+            topicTitle: "Continue Course",
+            stepLabel: "Guest progress saved",
+          }
+        : stats.nextAction,
+  } satisfies UserStats;
 }
 
 function NextActionCard({ stats }: { stats: UserStats }) {

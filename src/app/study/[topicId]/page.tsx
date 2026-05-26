@@ -74,6 +74,29 @@ const steps = [
   { id: "prove-it", label: "Prove It", title: "Official + Pattern Questions" },
 ] as const;
 
+function saveGuestProgress(topicId: string, patch: Record<string, unknown>) {
+  try {
+    const current = JSON.parse(window.localStorage.getItem("clearupsc_guest_topic_progress") || "{}");
+    current[topicId] = {
+      ...(current[topicId] ?? {}),
+      ...patch,
+      updated_at: new Date().toISOString(),
+    };
+    window.localStorage.setItem("clearupsc_guest_topic_progress", JSON.stringify(current));
+  } catch {
+    // Browser storage is best-effort; the page should remain usable without it.
+  }
+}
+
+function saveGuestCollection(key: string, item: Record<string, unknown>) {
+  try {
+    const current = JSON.parse(window.localStorage.getItem(key) || "[]");
+    window.localStorage.setItem(key, JSON.stringify([{ id: `guest-${Date.now()}`, created_at: new Date().toISOString(), ...item }, ...current]));
+  } catch {
+    // Keep guest actions non-blocking.
+  }
+}
+
 export default function StudyTopicPage({ params }: { params: { topicId: string } }) {
   const router = useRouter();
   const [activeStep, setActiveStep] = useState(0);
@@ -96,53 +119,56 @@ export default function StudyTopicPage({ params }: { params: { topicId: string }
   const markStudied = useMutation({
     mutationFn: async () => {
       const timeSpentSeconds = Math.max(1, Math.round((Date.now() - sessionStartedAt.current) / 1000));
+      saveGuestProgress(params.topicId, { status: "completed", time_spent_seconds: timeSpentSeconds });
       const response = await fetch(`/api/syllabus/${params.topicId}`, {
         method: "PATCH",
         headers: { "Content-Type": "application/json" },
         body: JSON.stringify({ status: "completed", time_spent_seconds: timeSpentSeconds }),
       });
-      if (!response.ok) throw new Error("Could not mark topic studied");
+      if (!response.ok) return;
     },
     onSuccess: () => {
       const nextKey = query.data?.nextTopic?.key;
       setNotice(nextKey ? "Topic complete. Opening the next topic." : "Topic complete. Returning to dashboard.");
       router.push(nextKey ? `/study/${nextKey}` : "/dashboard");
     },
-    onError: () => setNotice("Sign in first, then this will update your syllabus progress."),
+    onError: () => setNotice("Saved on this device. Sign in later if you want cloud sync."),
   });
 
   const addFlashcard = useMutation({
     mutationFn: async () => {
+      saveGuestCollection("clearupsc_guest_flashcards", { topic_key: params.topicId, ...flashcard });
       const response = await fetch(`/api/study/topic/${params.topicId}/flashcard`, {
         method: "POST",
         headers: { "Content-Type": "application/json" },
         body: JSON.stringify(flashcard),
       });
-      if (!response.ok) throw new Error("Could not add flashcard");
+      if (!response.ok) return;
     },
     onSuccess: () => {
       setFlashcard({ question: "", answer: "" });
       setActionPanel(null);
-      setNotice("Flashcard added. It will appear in your due-card queue.");
+      setNotice("Flashcard added. Guest flashcards are saved on this device.");
     },
-    onError: () => setNotice("Sign in first, then flashcards will save to your revision queue."),
+    onError: () => setNotice("Flashcard saved on this device. Sign in later for cloud sync."),
   });
 
   const addNote = useMutation({
     mutationFn: async () => {
+      saveGuestCollection("clearupsc_guest_notes", { topic_key: params.topicId, ...note });
       const response = await fetch(`/api/study/topic/${params.topicId}/note`, {
         method: "POST",
         headers: { "Content-Type": "application/json" },
         body: JSON.stringify(note),
       });
-      if (!response.ok) throw new Error("Could not add note");
+      if (!response.ok) return;
     },
     onSuccess: () => {
       setNote({ title: "", content: "" });
       setActionPanel(null);
-      setNotice("Topic note saved. You can find it in Notes.");
+      setNotice("Topic note saved on this device.");
     },
-    onError: () => setNotice("Sign in first, then notes will save to your workspace."),
+    onError: () => setNotice("Note saved on this device. Sign in later for cloud sync."),
   });
 
   useEffect(() => {
@@ -733,6 +759,12 @@ function QuestionPractice({ topicId, questions }: { topicId: string; questions: 
     const signature = `${topicId}:${correct}:${mistakes}:${score}`;
     if (reportedScoreRef.current === signature) return;
     reportedScoreRef.current = signature;
+    saveGuestProgress(topicId, {
+      status: "in_progress",
+      correct_count: correct,
+      mistakes_count: mistakes,
+      last_score: score,
+    });
     fetch(`/api/syllabus/${topicId}`, {
       method: "PATCH",
       headers: { "Content-Type": "application/json" },

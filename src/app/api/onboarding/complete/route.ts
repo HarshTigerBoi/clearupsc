@@ -21,6 +21,14 @@ export async function POST(request: Request) {
     const plan = await completeOnboarding(user.id, parsed.data);
     return ok({ profile: { ...parsed.data, onboardingComplete: true }, firstSevenDaysSeeded: true, firstDay: plan.tasks });
   } catch (error) {
+    if (error instanceof ProductDataError && error.status === 401) {
+      return ok({
+        profile: { ...parsed.data, onboardingComplete: true, guest: true },
+        firstSevenDaysSeeded: false,
+        firstDay: [],
+        guest: true,
+      });
+    }
     if (error instanceof ProductDataError) return fail(error.message, error.status);
     return fail("Could not complete onboarding.", 500);
   }
