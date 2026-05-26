@@ -120,7 +120,7 @@
       "source_trace": "NCERT Class 12 Chemistry Ch4 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
-      "difficulty_level": 3,
+      "difficulty_level": 1,
       "concepts_tested": [
         "90 Chemistry"
       ]
@@ -134,7 +134,7 @@
         "Now according to IUPAC, transition metals are defined as metals which have incomplete d subshell either in neutral atom or in their ions."
       ],
       "correct_answer": 0,
-      "pattern": "statement",
+      "pattern": "match",
       "source_trace": "NCERT Class 12 Chemistry Ch4 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
@@ -188,13 +188,103 @@
         "The d–orbitals of the penultimate energy level of atoms receive electrons giving rise to four rows of the transition metals, i.e., 3d, 4d, 5d..."
       ],
       "correct_answer": 0,
+      "pattern": "match",
+      "source_trace": "NCERT Class 12 Chemistry Ch4 pg 1",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "4.1 Silver atom has completely filled d orbitals (4d10) in its ground state."
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of The d and f Block Elements, which statement is supported by the source text about 4.3.1 Physical Properties?",
+      "options": [
+        "All these series of transition elements are shown in Table 4.1.",
+        "In general the electronic configuration of outer orbitals of these elements is (n-1)d1– 10ns1–2except for Pd where its electronic configuration is 4d105s0.",
+        "The (n–1) stands for the inner d orbitals which may have one to ten electrons and the outermost ns orbital may have one or...",
+        "However, this generalisation has several exceptions because of very little energy difference between (n-1)d and ns orbitals."
+      ],
+      "correct_answer": 0,
+      "pattern": "not_type",
+      "source_trace": "NCERT Class 12 Chemistry Ch4 pg 1",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "4.3.1 Physical Properties"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of The d and f Block Elements, which statement is supported by the source text about 93 The d- and f- Block Elements?",
+      "options": [
+        "Furthermore, half and completely filled sets of orbitals are relatively more stable.",
+        "A consequence of this factor is reflected in the electronic configurations of Cr and Cu in the 3d series.",
+        "For example, consider the case of Cr, which has 3d5 4s1 configuration instead of 3d44s2; the energy gap between the two sets (3d and...",
+        "Similarly in case of Cu, the configuration is 3d104s1 and not 3d94s2."
+      ],
+      "correct_answer": 0,
       "pattern": "statement",
       "source_trace": "NCERT Class 12 Chemistry Ch4 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
-      "difficulty_level": 3,
+      "difficulty_level": 4,
       "concepts_tested": [
-        "4.1 Silver atom has completely filled d orbitals (4d10) in its ground state."
+        "93 The d- and f- Block Elements"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of The d and f Block Elements, which statement is supported by the source text about 4.3.2 Variation in?",
+      "options": [
+        "The ground state electronic configurations of the outer orbitals of transition elements are given in Table 4.1.",
+        "4.1 4.1 4.1 4.1 4.1 Position in the Position in the Position in the Position in the Position in the Periodic Table Periodic Table...",
+        "91 The d- and f- Block Elements The electronic configurations of outer orbitals of Zn, Cd, Hg and Cn are represented by the general...",
+        "The orbitals in these elements are completely filled in the ground state as well as in their common oxidation states."
+      ],
+      "correct_answer": 0,
+      "pattern": "match",
+      "source_trace": "NCERT Class 12 Chemistry Ch4 pg 1",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "4.3.2 Variation in"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of The d and f Block Elements, which statement is supported by the source text about DaHV?",
+      "options": [
+        "Therefore, they are not regarded as transition elements.",
+        "The d orbitals of the transition elements protrude to the periphery of an atom more than the other orbitals (i.e., s and p), hence,...",
+        "In some respects, ions of a given dn configuration (n = 1 – 9) have similar magnetic and electronic properties.",
+        "With partly filled d orbitals these elements exhibit certain characteristic properties such as display of a variety of oxidation states, formation of coloured ions..."
+      ],
+      "correct_answer": 0,
+      "pattern": "not_type",
+      "source_trace": "NCERT Class 12 Chemistry Ch4 pg 2",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 5,
+      "concepts_tested": [
+        "DaHV"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of The d and f Block Elements, which statement is supported by the source text about 94 Chemistry?",
+      "options": [
+        "The transition metals and their compounds also exhibit catalytic property and paramagnetic behaviour.",
+        "All these characteristics have been discussed in detail later in this Unit.",
+        "There are greater similarities in the properties of the transition elements of a horizontal row in contrast to the non-transition elements.",
+        "We shall first study the general characteristics and their trends in the horizontal rows (particularly 3d row) and then consider some group similarities."
+      ],
+      "correct_answer": 0,
+      "pattern": "statement",
+      "source_trace": "NCERT Class 12 Chemistry Ch4 pg 2",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 5,
+      "concepts_tested": [
+        "94 Chemistry"
       ]
     }
   ],
@@ -204,7 +294,7 @@
     "generation_method": "local_source_only_extractive_decode"
   },
   "content_model": "clearupsc_textbook_decoded_from_source_v1",
-  "decode_status": "textbook_decoded",
+  "decode_status": "textbook_verified",
   "source": {
     "book": "NCERT Class 12 Chemistry",
     "chapter": 4,
@@ -216,5 +306,5 @@
   "source_trace": "NCERT Class 12 Chemistry | Chapter 4: The d and f Block Elements | https://ncert.nic.in/textbook/pdf/lech104.pdf | sha256:4f33bf2825d1d693b78ae52c13002f45bce3881a3934790eaf34133b6ccb8972",
   "raw_text_path": "data/study/textbook-first/raw-text/gs3_sci_class12_chemistry_ch04_the_d_and_f_block_elements.txt",
   "generated_by": "local_source_only_extractive_decode",
-  "generated_at": "2026-05-26T19:54:31.620Z"
+  "generated_at": "2026-05-26T20:27:39.953Z"
 }

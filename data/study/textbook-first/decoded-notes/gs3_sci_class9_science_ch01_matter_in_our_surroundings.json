@@ -115,7 +115,7 @@
       "source_trace": "NCERT Class 9 Science Ch1 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
-      "difficulty_level": 3,
+      "difficulty_level": 1,
       "concepts_tested": [
         "Matter in Our Surroundings"
       ]
@@ -129,7 +129,7 @@
         "The magnifying glass symbolises careful observation — noticing patterns and paying attention to what might otherwise be missed."
       ],
       "correct_answer": 0,
-      "pattern": "statement",
+      "pattern": "match",
       "source_trace": "NCERT Class 9 Science Ch1 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
@@ -183,13 +183,103 @@
         "Answer: We must ask, “Will the ball cross the boundary without hitting the ground first?”."
       ],
       "correct_answer": 0,
+      "pattern": "match",
+      "source_trace": "NCERT Class 9 Science Ch1 pg 1",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "In the"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Matter in Our Surroundings, which statement is supported by the source text about Will the?",
+      "options": [
+        "For this, things like the brand of the bat, the colour of the ball, the amount of grass on the field will make no...",
+        "On the other hand, the mass of the ball, and the speed and direction in which it has been hit will be very important.",
+        "Air resistance, the spin of the ball, and the stitching of the threads at the seam have smaller effects that can be ignored in...",
+        "As we build more and more complex models, we add extra details for greater accuracy."
+      ],
+      "correct_answer": 0,
+      "pattern": "not_type",
+      "source_trace": "NCERT Class 9 Science Ch1 pg 1",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "Will the"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Matter in Our Surroundings, which statement is supported by the source text about On the?",
+      "options": [
+        "You want to model the time it takes to go home from school.",
+        "Suggest why ignoring some details may actually be useful.",
+        "As you explore science more deeply, you will notice that it uses language in a very careful and precise way.",
+        "Many words that we use in everyday life, such as force, work, cell, or reaction, have specific meanings in science."
+      ],
+      "correct_answer": 0,
       "pattern": "statement",
       "source_trace": "NCERT Class 9 Science Ch1 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
-      "difficulty_level": 3,
+      "difficulty_level": 4,
       "concepts_tested": [
-        "In the"
+        "On the"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Matter in Our Surroundings, which statement is supported by the source text about Scientist Simplifying the?",
+      "options": [
+        "These meanings are often very specific because scientific ideas must be communicated clearly and unambiguously.",
+        "To allow scientists across the world to describe observations, compare results, and build ideas together, science uses a shared language of these specific terms,...",
+        "Quantities, such as mass, velocity, force, and electric current are represented by symbols like m, v, F, and I, each associated with a defined...",
+        "To make this even more precise, science often turns to mathematics to allow relationships between quantities to be expressed clearly and tested carefully."
+      ],
+      "correct_answer": 0,
+      "pattern": "match",
+      "source_trace": "NCERT Class 9 Science Ch1 pg 1",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "Scientist Simplifying the"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Matter in Our Surroundings, which statement is supported by the source text about Meghnad Saha?",
+      "options": [
+        "This can sometimes feel Meet a Scientist Simplifying the stars: Science often begins by ignoring details.",
+        "When physicist Meghnad Saha studied the light from stars, he did not try to model every atom, every reaction, or every movement inside a...",
+        "Instead, he treated the matter in the star as a hot gas, ignored many complex processes, and focused only on temperature, pressure, and how...",
+        "This simplification allowed him to explain how the colour of stars is deeply connected to their temperature."
+      ],
+      "correct_answer": 0,
+      "pattern": "not_type",
+      "source_trace": "NCERT Class 9 Science Ch1 pg 1",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 5,
+      "concepts_tested": [
+        "Meghnad Saha"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Matter in Our Surroundings, which statement is supported by the source text about Go Beyond Airplane?",
+      "options": [
+        "Exploration: Entering the World of Secondary Science 3 challenging, but it is important to remember that mathematics in science is not meant to be...",
+        "Instead, it is a language that helps us think more clearly about the world.",
+        "An equation is not just a calculation tool, it is a compact statement about how certain things are related.",
+        "For example, describing motion using quantities, such as distance, time, and velocity allows us to answer questions about where an object will be at..."
+      ],
+      "correct_answer": 0,
+      "pattern": "statement",
+      "source_trace": "NCERT Class 9 Science Ch1 pg 2",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 5,
+      "concepts_tested": [
+        "Go Beyond Airplane"
       ]
     }
   ],
@@ -199,7 +289,7 @@
     "generation_method": "local_source_only_extractive_decode"
   },
   "content_model": "clearupsc_textbook_decoded_from_source_v1",
-  "decode_status": "textbook_decoded",
+  "decode_status": "textbook_verified",
   "source": {
     "book": "NCERT Class 9 Science",
     "chapter": 1,
@@ -211,5 +301,5 @@
   "source_trace": "NCERT Class 9 Science | Chapter 1: Matter in Our Surroundings | https://ncert.nic.in/textbook/pdf/iesc101.pdf | sha256:dc82ff62186838191296abe19bfef785749ca11f9a7f58d06357043a82702e44",
   "raw_text_path": "data/study/textbook-first/raw-text/gs3_sci_class9_science_ch01_matter_in_our_surroundings.txt",
   "generated_by": "local_source_only_extractive_decode",
-  "generated_at": "2026-05-26T19:54:40.054Z"
+  "generated_at": "2026-05-26T20:27:48.817Z"
 }

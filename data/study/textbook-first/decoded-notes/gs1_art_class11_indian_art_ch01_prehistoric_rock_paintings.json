@@ -115,7 +115,7 @@
       "source_trace": "NCERT Class 11 An Introduction to Indian Art Ch1 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
-      "difficulty_level": 3,
+      "difficulty_level": 1,
       "concepts_tested": [
         "PREHISTORIC ROCK"
       ]
@@ -129,7 +129,7 @@
         "They may have drawn and painted to make their shelters more colourful and beautiful or to keep a visual record of their day-to-day life,..."
       ],
       "correct_answer": 0,
-      "pattern": "statement",
+      "pattern": "match",
       "source_trace": "NCERT Class 11 An Introduction to Indian Art Ch1 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
@@ -183,13 +183,103 @@
         "The rock shelters on banks of the River Suyal at Lakhudiyar, about twenty kilometres on the Almora– Barechina road, bear these prehistoric paintings."
       ],
       "correct_answer": 0,
+      "pattern": "match",
+      "source_trace": "NCERT Class 11 An Introduction to Indian Art Ch1 pg 2",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "DANCING SCENE"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Prehistoric Rock Paintings, which statement is supported by the source text about AN INTRODUCTION TO INDIAN ART 6?",
+      "options": [
+        "Lakhudiyar literally means one lakh caves.The paintings here can be divided into three categories: man, animal and geometric patterns in white, black and red...",
+        "A long-snouted animal, a fox and a multiple legged lizard are the main animal motifs.",
+        "Wavy lines, rectangle-filled geometric designs, and groups of dots can also be seen here.",
+        "One of the interesting scenes depicted here is of hand-linked dancing human figures."
+      ],
+      "correct_answer": 0,
+      "pattern": "not_type",
+      "source_trace": "NCERT Class 11 An Introduction to Indian Art Ch1 pg 2",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "AN INTRODUCTION TO INDIAN ART 6"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Prehistoric Rock Paintings, which statement is supported by the source text about HUNTING SCENE?",
+      "options": [
+        "The earliest are in black; over these are red ochre paintings and the last group comprises white paintings.",
+        "From Kashmir two slabs with engravings have been reported.",
+        "The granite rocks of Karnataka and Andhra Pradesh provided suitable canvases to the Neolithic man for his paintings.",
+        "There are several such sites but more famous among them are Kupgallu, Piklihal and Tekkalkota."
+      ],
+      "correct_answer": 0,
       "pattern": "statement",
       "source_trace": "NCERT Class 11 An Introduction to Indian Art Ch1 pg 2",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
-      "difficulty_level": 3,
+      "difficulty_level": 4,
       "concepts_tested": [
-        "DANCING SCENE"
+        "HUNTING SCENE"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Prehistoric Rock Paintings, which statement is supported by the source text about 7 PREHISTORIC ROCK PAINTINGS?",
+      "options": [
+        "Three types of paintings have been reported from here—paintings in white, paintings in red ochre over a white background and paintings in red ochre.",
+        "These Hand-linked dancing figures, Lakhudiyar, Uttarakhand 2 Wavy lines, Lakhudiyar, Uttarakhand",
+        "PREHISTORIC ROCK PAINTINGS paintings belong to late historical, early historical and Neolithic periods.",
+        "The subjects depicted are bulls, elephants, sambhars, gazelles, sheep, goats, horses, stylised humans, tridents, but rarely, vegetal motifs."
+      ],
+      "correct_answer": 0,
+      "pattern": "match",
+      "source_trace": "NCERT Class 11 An Introduction to Indian Art Ch1 pg 2",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "7 PREHISTORIC ROCK PAINTINGS"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Prehistoric Rock Paintings, which statement is supported by the source text about PAKISTAN?",
+      "options": [
+        "But the richest paintings are reported from the Vindhya ranges of Madhya Pradesh and their Kaimurean extensions into Uttar Pradesh.",
+        "These hill ranges are full of Palaeolithic and Mesolithic remains, and they are also full of forests, wild plants, fruits, streams and creeks, thus...",
+        "Among these the largest and most spectacular rock-shelter is located in the Vindhya hills at Bhimbetka in Madhya Pradesh.",
+        "Bhimbetka is located forty- five kilometres south of Bhopal, in an area of ten square kilometres, having about eight hundred rock shelters, five hundred..."
+      ],
+      "correct_answer": 0,
+      "pattern": "not_type",
+      "source_trace": "NCERT Class 11 An Introduction to Indian Art Ch1 pg 3",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 5,
+      "concepts_tested": [
+        "PAKISTAN"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Prehistoric Rock Paintings, which statement is supported by the source text about AFGHANISTAN?",
+      "options": [
+        "The caves of Bhimbetka were discovered in 1957–58 by eminent archaeologist V.S.",
+        "Wakankar spent several years in surveying these inaccessible hills and jungles to study these paintings.",
+        "The themes of paintings found here are of great variety, ranging from mundane events of daily life in those times to sacred and royal...",
+        "These include hunting, dancing, music, horse and elephant riders, animal fighting, honey collection, decoration of bodies, and other household scenes."
+      ],
+      "correct_answer": 0,
+      "pattern": "statement",
+      "source_trace": "NCERT Class 11 An Introduction to Indian Art Ch1 pg 3",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 5,
+      "concepts_tested": [
+        "AFGHANISTAN"
       ]
     }
   ],
@@ -199,7 +289,7 @@
     "generation_method": "local_source_only_extractive_decode"
   },
   "content_model": "clearupsc_textbook_decoded_from_source_v1",
-  "decode_status": "textbook_decoded",
+  "decode_status": "textbook_verified",
   "source": {
     "book": "NCERT Class 11 An Introduction to Indian Art",
     "chapter": 1,
@@ -211,5 +301,5 @@
   "source_trace": "NCERT Class 11 An Introduction to Indian Art | Chapter 1: Prehistoric Rock Paintings | https://ncert.nic.in/textbook/pdf/kefa101.pdf | sha256:72c3c27b7455ff485698a0cf783ef5c4cf29c8233d4a93ec277941c23f6196b8",
   "raw_text_path": "data/study/textbook-first/raw-text/gs1_art_class11_indian_art_ch01_prehistoric_rock_paintings.txt",
   "generated_by": "local_source_only_extractive_decode",
-  "generated_at": "2026-05-26T19:54:04.134Z"
+  "generated_at": "2026-05-26T20:27:11.195Z"
 }

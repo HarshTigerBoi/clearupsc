@@ -115,7 +115,7 @@
       "source_trace": "NCERT Class 10 Science Ch8 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
-      "difficulty_level": 3,
+      "difficulty_level": 1,
       "concepts_tested": [
         "8 CHAPTER"
       ]
@@ -129,7 +129,7 @@
         "And the number of successful variations are maximised by the process of sexual reproduction."
       ],
       "correct_answer": 0,
-      "pattern": "statement",
+      "pattern": "match",
       "source_trace": "NCERT Class 10 Science Ch8 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
@@ -183,13 +183,103 @@
         "Depending on the nature of variations, different individuals would have"
       ],
       "correct_answer": 0,
+      "pattern": "match",
+      "source_trace": "NCERT Class 10 Science Ch8 pg 1",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "8.2.2 Rules for the Inheritance of Traits – –– ––"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of How Do Organisms Reproduce, which statement is supported by the source text about RRYY RRYy RrYY RrYy?",
+      "options": [
+        "Heredity 129 8.2 HEREDITY 8.2 HEREDITY 8.2 HEREDITY 8.2 HEREDITY 8.2 HEREDITY The most obvious outcome of the reproductive process still remains the generation...",
+        "The rules of heredity determine the process by which traits and characteristics are reliably inherited.",
+        "8.2.1 Inherited Traits What exactly do we mean by similarities and differences?",
+        "We know that a child bears all the basic features of a human being."
+      ],
+      "correct_answer": 0,
+      "pattern": "not_type",
+      "source_trace": "NCERT Class 10 Science Ch8 pg 1",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "RRYY RRYy RrYY RrYy"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of How Do Organisms Reproduce, which statement is supported by the source text about 8.2.3 How do these Traits get Expressed??",
+      "options": [
+        "However, it does not look exactly like its parents, and human populations show a great deal of variation.",
+        "If a trait A exists in 10% of a population of an asexually reproducing species and a trait B exists in 60% of the...",
+        "How does the creation of variations in a species promote survival?",
+        "Prepare a list of students having free or attached earlobes and calculate the percentage of students having each (Fig."
+      ],
+      "correct_answer": 0,
       "pattern": "statement",
       "source_trace": "NCERT Class 10 Science Ch8 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
-      "difficulty_level": 3,
+      "difficulty_level": 4,
       "concepts_tested": [
-        "8.2.2 Rules for the Inheritance of Traits – –– ––"
+        "8.2.3 How do these Traits get Expressed?"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of How Do Organisms Reproduce, which statement is supported by the source text about 8.2.4 Sex Determination?",
+      "options": [
+        "Find out about the earlobes of the parents of each student in the class.",
+        "Correlate the earlobe type of each student with that of their parents.",
+        "Based on this evidence, suggest a possible rule for the inheritance of earlobe types.",
+        "8.2.2 Rules for the Inheritance of Traits – –– –– Mendel’s Contributions The rules for inheritance of such traits in human beings are related..."
+      ],
+      "correct_answer": 0,
+      "pattern": "match",
+      "source_trace": "NCERT Class 10 Science Ch8 pg 1",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "8.2.4 Sex Determination"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of How Do Organisms Reproduce, which statement is supported by the source text about E X E R C I S E S?",
+      "options": [
+        "This means that each trait can be influenced by both paternal and maternal DNA.",
+        "Thus, for each trait there will be two versions in each child.",
+        "Mendel (see box) worked out the main rules of such inheritance, and it is interesting to look at some of his experiments from more...",
+        "Figure 8.2 Figure 8.2 Figure 8.2 Figure 8.2 Figure 8.2 (a) Free and (b) attached earlobes."
+      ],
+      "correct_answer": 0,
+      "pattern": "not_type",
+      "source_trace": "NCERT Class 10 Science Ch8 pg 1",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 5,
+      "concepts_tested": [
+        "E X E R C I S E S"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of How Do Organisms Reproduce, which statement is supported by the source text about (a) TTWW?",
+      "options": [
+        "The lowest part of the ear, called the earlobe, is closely attached to the side of the head in some of us, and not...",
+        "Free and attached earlobes are two variants found in human populations. different kinds of advantages.",
+        "Bacteria that can withstand heat will survive better in a heat wave, as we have discussed earlier.",
+        "Selection of variants by environmental factors forms the basis for evolutionary processes, as we will discuss in later sections."
+      ],
+      "correct_answer": 0,
+      "pattern": "statement",
+      "source_trace": "NCERT Class 10 Science Ch8 pg 1",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 5,
+      "concepts_tested": [
+        "(a) TTWW"
       ]
     }
   ],
@@ -199,7 +289,7 @@
     "generation_method": "local_source_only_extractive_decode"
   },
   "content_model": "clearupsc_textbook_decoded_from_source_v1",
-  "decode_status": "textbook_decoded",
+  "decode_status": "textbook_verified",
   "source": {
     "book": "NCERT Class 10 Science",
     "chapter": 8,
@@ -211,5 +301,5 @@
   "source_trace": "NCERT Class 10 Science | Chapter 8: How Do Organisms Reproduce | https://ncert.nic.in/textbook/pdf/jesc108.pdf | sha256:b0357c0bcc860190c9d3dccc7c91ee31a65012442e795be5bc00cd9f621bff5b",
   "raw_text_path": "data/study/textbook-first/raw-text/gs3_sci_class10_science_ch08_how_do_organisms_reproduce.txt",
   "generated_by": "local_source_only_extractive_decode",
-  "generated_at": "2026-05-26T19:54:25.981Z"
+  "generated_at": "2026-05-26T20:27:34.356Z"
 }

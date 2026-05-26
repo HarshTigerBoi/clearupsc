@@ -136,7 +136,7 @@
       "source_trace": "NCERT Class 11 Biology Ch7 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
-      "difficulty_level": 3,
+      "difficulty_level": 1,
       "concepts_tested": [
         "STRUCTURAL ORGANISATION IN ANIMALS 79"
       ]
@@ -150,7 +150,7 @@
         "These tissues are organised in specific proportion and pattern to form an organ like stomach, lung, heart and kidney."
       ],
       "correct_answer": 0,
-      "pattern": "statement",
+      "pattern": "match",
       "source_trace": "NCERT Class 11 Biology Ch7 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
@@ -204,13 +204,103 @@
         "In the case of plants or microbes, the term morphology precisely means only this."
       ],
       "correct_answer": 0,
+      "pattern": "match",
+      "source_trace": "NCERT Class 11 Biology Ch7 pg 1",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "CHAPTER 7"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Structural Organisation in Animals, which statement is supported by the source text about 7.1 Organ and Organ?",
+      "options": [
+        "In case of animals this refers to the external appearance of the organs or parts of the body.",
+        "The word anatomy conventionally is used for the study of morphology of internal organs in the animals.",
+        "You will learn the morphology and anatomy of frog representing vertebrates.",
+        "7.2 FROGS Frogs can live both on land and in freshwater and belong to class Amphibia of phylum Chordata."
+      ],
+      "correct_answer": 0,
+      "pattern": "not_type",
+      "source_trace": "NCERT Class 11 Biology Ch7 pg 1",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "7.1 Organ and Organ"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Structural Organisation in Animals, which statement is supported by the source text about 7.2 Frogs?",
+      "options": [
+        "The most common species of frog found in India is Rana tigrina.",
+        "They do not have constant body temperature i.e., their body temperature varies with the temperature of the environment.",
+        "You might have also noticed changes in the colour of the frogs while they are in grasses and on dry land.",
+        "They have the ability to change the colour to hide them from their enemies (camouflage)."
+      ],
+      "correct_answer": 0,
       "pattern": "statement",
       "source_trace": "NCERT Class 11 Biology Ch7 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
-      "difficulty_level": 3,
+      "difficulty_level": 4,
       "concepts_tested": [
-        "CHAPTER 7"
+        "7.2 Frogs"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Structural Organisation in Animals, which statement is supported by the source text about 80 BIOLOGY?",
+      "options": [
+        "You may also know that frogs are not seen during peak summer and winter.",
+        "During this period they take shelter in deep burrows to protect them from extreme heat and cold.",
+        "This is known as summer sleep (aestivation) and winter sleep (hibernation) respectively.",
+        "7.2.1 Morphology Have you ever touched the skin of frog?"
+      ],
+      "correct_answer": 0,
+      "pattern": "match",
+      "source_trace": "NCERT Class 11 Biology Ch7 pg 1",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "80 BIOLOGY"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Structural Organisation in Animals, which statement is supported by the source text about 7.2.1 Morphology?",
+      "options": [
+        "The skin is smooth and slippery due to the presence of mucus.",
+        "The colour of dorsal side of body is generally olive green with dark irregular spots.",
+        "The frog never drinks water but absorb it through the skin.",
+        "Body of a frog is divisible into head and trunk (Figure 7.1)."
+      ],
+      "correct_answer": 0,
+      "pattern": "not_type",
+      "source_trace": "NCERT Class 11 Biology Ch7 pg 1",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 5,
+      "concepts_tested": [
+        "7.2.1 Morphology"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Structural Organisation in Animals, which statement is supported by the source text about STRUCTURAL ORGANISATION IN ANIMALS 81?",
+      "options": [
+        "Eyes are bulged and covered by a nictitating membrane that protects them while in water.",
+        "On either side of eyes a membranous tympanum (ear) receives sound signals.",
+        "The forelimbs and hind limbs help in Figure 7.1 External features of frog Eye Fore limb Hind limb Head Trunk",
+        "STRUCTURAL ORGANISATION IN ANIMALS 81 swimming, walking, leaping and burrowing."
+      ],
+      "correct_answer": 0,
+      "pattern": "statement",
+      "source_trace": "NCERT Class 11 Biology Ch7 pg 1",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 5,
+      "concepts_tested": [
+        "STRUCTURAL ORGANISATION IN ANIMALS 81"
       ]
     }
   ],
@@ -220,7 +310,7 @@
     "generation_method": "local_source_only_extractive_decode"
   },
   "content_model": "clearupsc_textbook_decoded_from_source_v1",
-  "decode_status": "textbook_decoded",
+  "decode_status": "textbook_verified",
   "source": {
     "book": "NCERT Class 11 Biology",
     "chapter": 7,
@@ -232,5 +322,5 @@
   "source_trace": "NCERT Class 11 Biology | Chapter 7: Structural Organisation in Animals | https://ncert.nic.in/textbook/pdf/kebo107.pdf | sha256:75fd54a68b18b84f22e659695e28e32ebdc3f1de8be50ea38bed778b9ebcef26",
   "raw_text_path": "data/study/textbook-first/raw-text/gs3_env_class11_biology_ch07_structural_organisation_in_animals.txt",
   "generated_by": "local_source_only_extractive_decode",
-  "generated_at": "2026-05-26T19:54:21.400Z"
+  "generated_at": "2026-05-26T20:27:29.474Z"
 }

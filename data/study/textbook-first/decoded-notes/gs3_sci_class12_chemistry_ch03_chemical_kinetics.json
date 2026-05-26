@@ -115,7 +115,7 @@
       "source_trace": "NCERT Class 12 Chemistry Ch3 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
-      "difficulty_level": 3,
+      "difficulty_level": 1,
       "concepts_tested": [
         "62 Chemistry"
       ]
@@ -129,7 +129,7 @@
         "All these questions can be answered by the branch of chemistry, which deals with the study of reaction rates and their mechanisms, called chemical..."
       ],
       "correct_answer": 0,
-      "pattern": "statement",
+      "pattern": "match",
       "source_trace": "NCERT Class 12 Chemistry Ch3 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
@@ -183,13 +183,103 @@
         "Some elementary ideas about the collision theory of reaction rates are also given."
       ],
       "correct_answer": 0,
+      "pattern": "match",
+      "source_trace": "NCERT Class 12 Chemistry Ch3 pg 1",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "C4H9Cl + H2O ® C4H9OH + HCl"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Chemical Kinetics, which statement is supported by the source text about 64 Chemistry?",
+      "options": [
+        "However, in order to understand all these, let us first learn about the reaction rate.",
+        "Some reactions such as ionic reactions occur very fast, for example, precipitation of silver chloride occurs instantaneously by mixing of aqueous solutions of silver...",
+        "On the other hand, some reactions are very slow, for example, rusting of iron in the presence of air and moisture.",
+        "Also there are reactions like inversion of cane sugar and hydrolysis of starch, which proceed with a moderate speed."
+      ],
+      "correct_answer": 0,
+      "pattern": "not_type",
+      "source_trace": "NCERT Class 12 Chemistry Ch3 pg 1",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "64 Chemistry"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Chemical Kinetics, which statement is supported by the source text about [C4H9CI]t1?",
+      "options": [
+        "You must be knowing that speed of an automobile is expressed in terms of change in the position or distance covered by it in...",
+        "Similarly, the speed of a reaction or the rate of a reaction can be defined as the change in concentration of a reactant or...",
+        "To be more specific, it can be expressed in terms of: (i) the rate of decrease in concentration of any one of the reactants,...",
+        "Consider a hypothetical reaction, assuming that the volume of the system remains constant."
+      ],
+      "correct_answer": 0,
       "pattern": "statement",
       "source_trace": "NCERT Class 12 Chemistry Ch3 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
-      "difficulty_level": 3,
+      "difficulty_level": 4,
       "concepts_tested": [
-        "C4H9Cl + H2O ® C4H9OH + HCl"
+        "[C4H9CI]t1"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Chemical Kinetics, which statement is supported by the source text about / [C4H9CI]t2?",
+      "options": [
+        "R Æ P One mole of the reactant R produces one mole of the product P.",
+        "If [R]1 and [P]1 are the concentrations of R and P respectively at time t1 and [R]2 and [P]2 are their concentrations at time...",
+        "Rate of disappearance of R [ ] Decrease in concentration of R R = Time taken t ∆ = − ∆ (3.1) 3 .",
+        "1 Rate of a Rate of a Rate of a Rate of a Rate of a Chemical Chemical Chemical Chemical Chemical Reaction Reaction Reaction..."
+      ],
+      "correct_answer": 0,
+      "pattern": "match",
+      "source_trace": "NCERT Class 12 Chemistry Ch3 pg 1",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "/ [C4H9CI]t2"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Chemical Kinetics, which statement is supported by the source text about 65 Chemical Kinetics?",
+      "options": [
+        "63 Chemical Kinetics Rate of appearance of P [ ] Increase in concentration of P P = Time taken t ∆ = + ∆...",
+        "Equations (3.1) and (3.2) given above represent the average rate of a reaction, rav.",
+        "Average rate depends upon the change in concentration of reactants or products and the time taken for that change to occur (Fig.",
+        "3.1: Instantaneous and average rate of a reaction Units of rate of a reaction From equations (3.1) and (3.2), it is clear that units..."
+      ],
+      "correct_answer": 0,
+      "pattern": "not_type",
+      "source_trace": "NCERT Class 12 Chemistry Ch3 pg 2",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 5,
+      "concepts_tested": [
+        "65 Chemical Kinetics"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Chemical Kinetics, which statement is supported by the source text about 5 Br- (aq) + BrO3?",
+      "options": [
+        "For example, if concentration is in mol L–1 and time is in seconds then the units will be mol L-1s–1.",
+        "However, in gaseous reactions, when the concentration of gases is expressed in terms of their partial pressures, then the units of the rate equation...",
+        "From the concentrations of C4H9Cl (butyl chloride) at different times given below, calculate the average rate of the reaction: C4H9Cl + H2O ® C4H9OH...",
+        "64 Chemistry It can be seen (Table 3.1) that the average rate falls from 1.90 × 0-4 mol L-1s-1 to 0.4 × 10-4 mol..."
+      ],
+      "correct_answer": 0,
+      "pattern": "statement",
+      "source_trace": "NCERT Class 12 Chemistry Ch3 pg 2",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 5,
+      "concepts_tested": [
+        "5 Br- (aq) + BrO3"
       ]
     }
   ],
@@ -199,7 +289,7 @@
     "generation_method": "local_source_only_extractive_decode"
   },
   "content_model": "clearupsc_textbook_decoded_from_source_v1",
-  "decode_status": "textbook_decoded",
+  "decode_status": "textbook_verified",
   "source": {
     "book": "NCERT Class 12 Chemistry",
     "chapter": 3,
@@ -211,5 +301,5 @@
   "source_trace": "NCERT Class 12 Chemistry | Chapter 3: Chemical Kinetics | https://ncert.nic.in/textbook/pdf/lech103.pdf | sha256:7c822864c114aa805cc63b1e44a028d16d0d4704afc3ad304d4dc4054945f320",
   "raw_text_path": "data/study/textbook-first/raw-text/gs3_sci_class12_chemistry_ch03_chemical_kinetics.txt",
   "generated_by": "local_source_only_extractive_decode",
-  "generated_at": "2026-05-26T19:54:31.360Z"
+  "generated_at": "2026-05-26T20:27:39.715Z"
 }

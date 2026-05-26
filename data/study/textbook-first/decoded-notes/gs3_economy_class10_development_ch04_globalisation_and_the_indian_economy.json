@@ -136,7 +136,7 @@
       "source_trace": "NCERT Class 10 Understanding Economic Development Ch4 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
-      "difficulty_level": 3,
+      "difficulty_level": 1,
       "concepts_tested": [
         "CHAPTER 4 : GLOBALISATION AND THE INDIAN ECONOMY"
       ]
@@ -150,7 +150,7 @@
         "Note that the examples are an aid to explain a more general point."
       ],
       "correct_answer": 0,
-      "pattern": "statement",
+      "pattern": "match",
       "source_trace": "NCERT Class 10 Understanding Economic Development Ch4 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
@@ -204,13 +204,103 @@
         "This section draws on the topics covered in Chapters 1 and 2 (for example, what is a fair development goal), which you can refer..."
       ],
       "correct_answer": 0,
+      "pattern": "match",
+      "source_trace": "NCERT Class 10 Understanding Economic Development Ch4 pg 1",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "LET’S WORK THIS OUT"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Globalisation and the Indian Economy, which statement is supported by the source text about INTERLINKING PRODUCTION ACROSS?",
+      "options": [
+        "Also, examples and activities drawn from the local environment are a must while discussing this section.",
+        "This might include contexts that have not been covered in the chapter, such as the impact of imports on local farmers, etc.",
+        "Collective brainstorming sessions can be conducted to analyse such situations.",
+        "Sources for Information The call for a fairer globalisation has been given, among others, by the International Labour Organisation — www.ilo.org."
+      ],
+      "correct_answer": 0,
+      "pattern": "not_type",
+      "source_trace": "NCERT Class 10 Understanding Economic Development Ch4 pg 1",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "INTERLINKING PRODUCTION ACROSS"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Globalisation and the Indian Economy, which statement is supported by the source text about COUNTRIES?",
+      "options": [
+        "Another interesting resource is the WTO website http://www.wto.org.",
+        "It gives access to the variety of agreements that are being negotiated at the WTO.",
+        "For company related information, most MNCs have their own websites.",
+        "If you want to critically look at the MNCs, one recommended website is www.corporatewatch.org.uk."
+      ],
+      "correct_answer": 0,
       "pattern": "statement",
       "source_trace": "NCERT Class 10 Understanding Economic Development Ch4 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
-      "difficulty_level": 3,
+      "difficulty_level": 4,
       "concepts_tested": [
-        "LET’S WORK THIS OUT"
+        "COUNTRIES"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Globalisation and the Indian Economy, which statement is supported by the source text about WE WILL SHIFT?",
+      "options": [
+        "CHAPTER 4 : GLOBALISATION AND THE INDIAN ECONOMY 54 54 54 54 54 U U U U UNDERST NDERST NDERST NDERST NDERSTANDING ANDING ANDING...",
+        "G G G G GLLLLLOBALISA OBALISA OBALISA OBALISA OBALISATION TION TION TION TION AND AND AND AND AND THE THE THE THE THE IIIIINDIAN...",
+        "The latest models of digital cameras, mobile phones and televisions made by the leading manufacturers of the world are within our reach.",
+        "Every season, new models of automobiles can be seen on Indian roads."
+      ],
+      "correct_answer": 0,
+      "pattern": "match",
+      "source_trace": "NCERT Class 10 Understanding Economic Development Ch4 pg 1",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "WE WILL SHIFT"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Globalisation and the Indian Economy, which statement is supported by the source text about THIS FACTORY TO?",
+      "options": [
+        "Gone are the days when Ambassador and Fiat were the only cars on Indian roads.",
+        "Today, Indians are buying cars produced by nearly all the top companies in the world.",
+        "A similar explosion of brands can be seen for many other goods: from shirts to televisions to processed fruit juices.",
+        "Such wide-ranging choice of goods in our markets is a relatively recent phenomenon."
+      ],
+      "correct_answer": 0,
+      "pattern": "not_type",
+      "source_trace": "NCERT Class 10 Understanding Economic Development Ch4 pg 1",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 5,
+      "concepts_tested": [
+        "THIS FACTORY TO"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Globalisation and the Indian Economy, which statement is supported by the source text about ANOTHER COUNTRY.?",
+      "options": [
+        "You wouldn’t have found such a wide variety of goods in Indian markets even two decades back.",
+        "In a matter of years, our markets have been transformed!",
+        "What are the factors that are bringing about these changes?",
+        "And, how are these changes affecting the lives of the people?"
+      ],
+      "correct_answer": 0,
+      "pattern": "statement",
+      "source_trace": "NCERT Class 10 Understanding Economic Development Ch4 pg 1",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 5,
+      "concepts_tested": [
+        "ANOTHER COUNTRY."
       ]
     }
   ],
@@ -220,7 +310,7 @@
     "generation_method": "local_source_only_extractive_decode"
   },
   "content_model": "clearupsc_textbook_decoded_from_source_v1",
-  "decode_status": "textbook_decoded",
+  "decode_status": "textbook_verified",
   "source": {
     "book": "NCERT Class 10 Understanding Economic Development",
     "chapter": 4,
@@ -232,5 +322,5 @@
   "source_trace": "NCERT Class 10 Understanding Economic Development | Chapter 4: Globalisation and the Indian Economy | https://ncert.nic.in/textbook/pdf/jess204.pdf | sha256:4e3441cb0d7789ae828e0295b43d82f5afed607dc724c96cfdeba8279fdfdbb6",
   "raw_text_path": "data/study/textbook-first/raw-text/gs3_economy_class10_development_ch04_globalisation_and_the_indian_economy.txt",
   "generated_by": "local_source_only_extractive_decode",
-  "generated_at": "2026-05-26T19:54:18.382Z"
+  "generated_at": "2026-05-26T20:27:26.244Z"
 }

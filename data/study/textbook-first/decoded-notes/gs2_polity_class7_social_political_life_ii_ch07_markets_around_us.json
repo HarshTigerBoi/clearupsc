@@ -120,7 +120,7 @@
       "source_trace": "NCERT Class 7 Social and Political Life II Ch7 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
-      "difficulty_level": 3,
+      "difficulty_level": 1,
       "concepts_tested": [
         "76 Social and Political Life"
       ]
@@ -134,7 +134,7 @@
         "Can you think of a situation where the bargain would be unfair?"
       ],
       "correct_answer": 0,
-      "pattern": "statement",
+      "pattern": "match",
       "source_trace": "NCERT Class 7 Social and Political Life II Ch7 pg 2",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
@@ -188,13 +188,103 @@
         "Weekly markets also have a large number of shops selling the same goods which means there is competition among them."
       ],
       "correct_answer": 0,
+      "pattern": "match",
+      "source_trace": "NCERT Class 7 Social and Political Life II Ch7 pg 2",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "82 Social and Political Life"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Markets Around Us, which statement is supported by the source text about 84 Social and Political Life?",
+      "options": [
+        "If some trader were to charge a high price, people would move to another shop where the same thing may be available more cheaply...",
+        "One of the advantages of weekly markets is that most things you need are available at one place.",
+        "Whether you want vegetables, groceries or cloth items, utensils  all of them can be found here.",
+        "You do not have to go to different areas to buy different things."
+      ],
+      "correct_answer": 0,
+      "pattern": "not_type",
+      "source_trace": "NCERT Class 7 Social and Political Life II Ch7 pg 2",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "84 Social and Political Life"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Markets Around Us, which statement is supported by the source text about Markets Around Us?",
+      "options": [
+        "People also prefer going to a market where they have a choice and a variety of goods.",
+        "Shops in the neighbourhood We have seen that the weekly markets offer a variety of goods.",
+        "However, we also buy things from other kinds of markets.",
+        "There are many shops that sell goods and services in our neighbourhoods."
+      ],
+      "correct_answer": 0,
       "pattern": "statement",
       "source_trace": "NCERT Class 7 Social and Political Life II Ch7 pg 2",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
-      "difficulty_level": 3,
+      "difficulty_level": 4,
       "concepts_tested": [
-        "82 Social and Political Life"
+        "Markets Around Us"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Markets Around Us, which statement is supported by the source text about Markets?",
+      "options": [
+        "We may buy milk from the dairy, groceries from departmental stores, stationery, eatables or medicines from other",
+        "79 Sujata and Kavita were sent to buy groceries from their neighbourhood shop.This was the shop they usually went to.",
+        "The shop owner managed the shop herself with two helpers.When they managed to get into the shop, Sujata dictated a list to her.",
+        "She in turn began asking her helpers to weigh and pack the items."
+      ],
+      "correct_answer": 0,
+      "pattern": "match",
+      "source_trace": "NCERT Class 7 Social and Political Life II Ch7 pg 2",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "Markets"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Markets Around Us, which statement is supported by the source text about Around?",
+      "options": [
+        "Meanwhile Kavita looked around On the top left shelf there were different brands of detergent cakes.",
+        "Another shelf had toothpastes, talcum powder, shampoo, hair oil.",
+        "The different brands and different colours looked so attractive.",
+        "It took almost 20 minutes to weigh and pack all the groceries."
+      ],
+      "correct_answer": 0,
+      "pattern": "not_type",
+      "source_trace": "NCERT Class 7 Social and Political Life II Ch7 pg 3",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 5,
+      "concepts_tested": [
+        "Around"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Markets Around Us, which statement is supported by the source text about Social and Political Life Markets Around?",
+      "options": [
+        "Then Sujata showed her notebook. The woman noted the amount of ` 3000 in the notebook and gave it back.",
+        "Her family will pay for the purchases in the first week of next month.",
+        "What are the different kinds of shops that you find in your neighbourhood?",
+        "Why are goods sold in permanent shops costlier than those sold in the weekly markets or by roadside hawkers?"
+      ],
+      "correct_answer": 0,
+      "pattern": "statement",
+      "source_trace": "NCERT Class 7 Social and Political Life II Ch7 pg 3",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 5,
+      "concepts_tested": [
+        "Social and Political Life Markets Around"
       ]
     }
   ],
@@ -204,7 +294,7 @@
     "generation_method": "local_source_only_extractive_decode"
   },
   "content_model": "clearupsc_textbook_decoded_from_source_v1",
-  "decode_status": "textbook_decoded",
+  "decode_status": "textbook_verified",
   "source": {
     "book": "NCERT Class 7 Social and Political Life II",
     "chapter": 7,
@@ -216,5 +306,5 @@
   "source_trace": "NCERT Class 7 Social and Political Life II | Chapter 7: Markets Around Us | https://ncert.nic.in/textbook/pdf/gess307.pdf | sha256:3153d757a5f3bcc05984aec2ce83a3ed833a82e3508089786840fc729ea56a4f",
   "raw_text_path": "data/study/textbook-first/raw-text/gs2_polity_class7_social_political_life_ii_ch07_markets_around_us.txt",
   "generated_by": "local_source_only_extractive_decode",
-  "generated_at": "2026-05-26T19:54:15.303Z"
+  "generated_at": "2026-05-26T20:27:22.884Z"
 }

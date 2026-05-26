@@ -136,7 +136,7 @@
       "source_trace": "NCERT Class 8 Social and Political Life III Ch7 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
-      "difficulty_level": 3,
+      "difficulty_level": 1,
       "concepts_tested": [
         "WOMEN, CASTE AND REFORM 79"
       ]
@@ -150,7 +150,7 @@
         "Both Hindu and Muslim men could marry more than one wife."
       ],
       "correct_answer": 0,
-      "pattern": "statement",
+      "pattern": "match",
       "source_trace": "NCERT Class 8 Social and Political Life III Ch7 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
@@ -204,13 +204,103 @@
         "At the lowest rung were those who laboured to keep cities and villages clean or worked at jobs that upper castes considered “polluting”, that..."
       ],
       "correct_answer": 0,
+      "pattern": "match",
+      "source_trace": "NCERT Class 8 Social and Political Life III Ch7 pg 1",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "OPPONENT OF SATI:"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Public Facilities, which statement is supported by the source text about 82 OUR PASTS – III?",
+      "options": [
+        "The upper castes also treated many of these groups at the bottom as “untouchable”.",
+        "They were not allowed to enter temples, draw water from the wells used by the upper castes, or bathe in ponds where upper castes...",
+        "Over the nineteenth and twentieth centuries, many of these norms and perceptions slowly changed.",
+        "Working Towards Change From the early nineteenth century, we find debates and discussions about social customs and practices taking on a new character."
+      ],
+      "correct_answer": 0,
+      "pattern": "not_type",
+      "source_trace": "NCERT Class 8 Social and Political Life III Ch7 pg 1",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "82 OUR PASTS – III"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Public Facilities, which statement is supported by the source text about 84 OUR PASTS – III?",
+      "options": [
+        "One important reason for this was the development of new forms of communication.",
+        "For the first time, books, newspapers, magazines, leaflets and pamphlets were printed.",
+        "These were far cheaper and far more accessible than the manuscripts that you have read about in Class VII.",
+        "Therefore ordinary people could read these, and many of them could also write and express their ideas in their own languages."
+      ],
+      "correct_answer": 0,
       "pattern": "statement",
       "source_trace": "NCERT Class 8 Social and Political Life III Ch7 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
-      "difficulty_level": 3,
+      "difficulty_level": 4,
       "concepts_tested": [
-        "OPPONENT OF SATI:"
+        "84 OUR PASTS – III"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Public Facilities, which statement is supported by the source text about WOMEN, CASTE AND REFORM 85?",
+      "options": [
+        "All kinds of issues – social, political, economic and religious – could now be debated and discussed by men (and sometimes by women as...",
+        "The discussions could reach out to a wider public, and could become linked to movements for social change.",
+        "These debates were often initiated by Indian reformers and reform groups.",
+        "He founded a reform association known as the Brahmo Sabha (later known as the Brahmo Samaj) in Calcutta."
+      ],
+      "correct_answer": 0,
+      "pattern": "match",
+      "source_trace": "NCERT Class 8 Social and Political Life III Ch7 pg 1",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "WOMEN, CASTE AND REFORM 85"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Public Facilities, which statement is supported by the source text about 86 OUR PASTS – III?",
+      "options": [
+        "People such as Rammohun Roy are described as reformers because they felt that changes were necessary in society, and unjust practices needed to be...",
+        "They thought that the best way to ensure such changes was by persuading people to give up old practices and adopt a new way...",
+        "80 OUR PASTS – III Rammohun Roy was keen to spread the knowledge of Western education in the country and bring about greater freedom...",
+        "He wrote about the way women were forced to bear the burden of domestic work, confined to the home and the kitchen, and not..."
+      ],
+      "correct_answer": 0,
+      "pattern": "not_type",
+      "source_trace": "NCERT Class 8 Social and Political Life III Ch7 pg 1",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 5,
+      "concepts_tested": [
+        "86 OUR PASTS – III"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Public Facilities, which statement is supported by the source text about WOMEN, CASTE AND REFORM 87?",
+      "options": [
+        "Changing the lives of widows Rammohun Roy was particularly moved by the problems widows faced in their lives.",
+        "Rammohun Roy was well versed in Sanskrit, Persian and several other Indian and Europeon languages.",
+        "He tried to show through his writings that the practice of widow burning had no sanction in ancient texts.",
+        "By the early nineteenth century, as you have read in Chapter 6, many British officials had also begun to criticise Indian traditions and customs."
+      ],
+      "correct_answer": 0,
+      "pattern": "statement",
+      "source_trace": "NCERT Class 8 Social and Political Life III Ch7 pg 2",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 5,
+      "concepts_tested": [
+        "WOMEN, CASTE AND REFORM 87"
       ]
     }
   ],
@@ -220,7 +310,7 @@
     "generation_method": "local_source_only_extractive_decode"
   },
   "content_model": "clearupsc_textbook_decoded_from_source_v1",
-  "decode_status": "textbook_decoded",
+  "decode_status": "textbook_verified",
   "source": {
     "book": "NCERT Class 8 Social and Political Life III",
     "chapter": 7,
@@ -232,5 +322,5 @@
   "source_trace": "NCERT Class 8 Social and Political Life III | Chapter 7: Public Facilities | https://ncert.nic.in/textbook/pdf/hess207.pdf | sha256:3cade768aa6ad102f39b7c705c86596b9e1eaf556939a22432d45e661847837b",
   "raw_text_path": "data/study/textbook-first/raw-text/gs2_polity_class8_social_political_life_iii_ch07_public_facilities.txt",
   "generated_by": "local_source_only_extractive_decode",
-  "generated_at": "2026-05-26T19:54:17.234Z"
+  "generated_at": "2026-05-26T20:27:24.806Z"
 }

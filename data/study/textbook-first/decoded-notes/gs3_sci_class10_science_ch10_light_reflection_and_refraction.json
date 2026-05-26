@@ -115,7 +115,7 @@
       "source_trace": "NCERT Class 10 Science Ch10 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
-      "difficulty_level": 3,
+      "difficulty_level": 1,
       "concepts_tested": [
         "10 CHAPTER"
       ]
@@ -129,7 +129,7 @@
         "We shall also discuss about rainbow formation, splitting of white light and blue colour of the sky."
       ],
       "correct_answer": 0,
-      "pattern": "statement",
+      "pattern": "match",
       "source_trace": "NCERT Class 10 Science Ch10 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
@@ -183,13 +183,103 @@
         "Iris is a dark muscular diaphragm that controls the size of the pupil."
       ],
       "correct_answer": 0,
+      "pattern": "match",
+      "source_trace": "NCERT Class 10 Science Ch10 pg 1",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "Q U E S T I O N S"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Light Reflection and Refraction, which statement is supported by the source text about 10.5 ATMOSPHERIC REFRACTION?",
+      "options": [
+        "The pupil regulates and controls the amount of light Figure 10.1 Figure 10.1 Figure 10.1 Figure 10.1 Figure 10.1 The human eye",
+        "The eye lens forms an inverted real image of the object on the retina.",
+        "The retina is a delicate membrane having enormous number of light-sensitive cells.",
+        "The light-sensitive cells get activated upon illumination and generate electrical signals."
+      ],
+      "correct_answer": 0,
+      "pattern": "not_type",
+      "source_trace": "NCERT Class 10 Science Ch10 pg 1",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "10.5 ATMOSPHERIC REFRACTION"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Light Reflection and Refraction, which statement is supported by the source text about 10.6 SCATTERING OF LIGHT?",
+      "options": [
+        "These signals are sent to the brain via the optic nerves.",
+        "The brain interprets these signals, and finally, processes the information so that we perceive objects as they are.",
+        "10.1.1 Power of Accommodation The eye lens is composed of a fibrous, jelly-like material.",
+        "Its curvature can be modified to some extent by the ciliary muscles."
+      ],
+      "correct_answer": 0,
       "pattern": "statement",
       "source_trace": "NCERT Class 10 Science Ch10 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
-      "difficulty_level": 3,
+      "difficulty_level": 4,
       "concepts_tested": [
-        "Q U E S T I O N S"
+        "10.6 SCATTERING OF LIGHT"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Light Reflection and Refraction, which statement is supported by the source text about 10.6.1 Tyndall Effect?",
+      "options": [
+        "The change in the curvature of the eye lens can thus change its focal length.",
+        "When you are looking at objects closer to the eye, the ciliary muscles contract.",
+        "Consequently, the focal length of the eye lens decreases.",
+        "The ability of the eye lens to adjust its focal length is called accommodation."
+      ],
+      "correct_answer": 0,
+      "pattern": "match",
+      "source_trace": "NCERT Class 10 Science Ch10 pg 1",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "10.6.1 Tyndall Effect"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Light Reflection and Refraction, which statement is supported by the source text about 10.6.2 Why is the colour of the clear Sky Blue??",
+      "options": [
+        "However, the focal length of the eye lens cannot be decreased below a certain minimum limit.",
+        "Try to read a printed page by holding it very close to your eyes.",
+        "You may see the image being blurred or feel strain in the eye.",
+        "To see an object comfortably and distinctly, you must hold it at about 25 cm from the eyes."
+      ],
+      "correct_answer": 0,
+      "pattern": "not_type",
+      "source_trace": "NCERT Class 10 Science Ch10 pg 1",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 5,
+      "concepts_tested": [
+        "10.6.2 Why is the colour of the clear Sky Blue?"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Light Reflection and Refraction, which statement is supported by the source text about E X E R C I S E S?",
+      "options": [
+        "The minimum distance, at which objects can be seen most distinctly without strain, is called the least distance of distinct vision.",
+        "For a young adult with normal vision, the near point is about 25 cm.",
+        "The farthest point upto which the eye can see objects clearly is called the far point of the eye.",
+        "You may note here a normal eye can see objects clearly that are between 25 cm and infinity."
+      ],
+      "correct_answer": 0,
+      "pattern": "statement",
+      "source_trace": "NCERT Class 10 Science Ch10 pg 1",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 5,
+      "concepts_tested": [
+        "E X E R C I S E S"
       ]
     }
   ],
@@ -199,7 +289,7 @@
     "generation_method": "local_source_only_extractive_decode"
   },
   "content_model": "clearupsc_textbook_decoded_from_source_v1",
-  "decode_status": "textbook_decoded",
+  "decode_status": "textbook_verified",
   "source": {
     "book": "NCERT Class 10 Science",
     "chapter": 10,
@@ -211,5 +301,5 @@
   "source_trace": "NCERT Class 10 Science | Chapter 10: Light Reflection and Refraction | https://ncert.nic.in/textbook/pdf/jesc110.pdf | sha256:c8ed49fa55eedeb9ee5d5fbfa6d02061adb94075e94a32ca9bd16f4caf67c423",
   "raw_text_path": "data/study/textbook-first/raw-text/gs3_sci_class10_science_ch10_light_reflection_and_refraction.txt",
   "generated_by": "local_source_only_extractive_decode",
-  "generated_at": "2026-05-26T19:54:26.483Z"
+  "generated_at": "2026-05-26T20:27:34.850Z"
 }

@@ -115,7 +115,7 @@
       "source_trace": "NCERT Class 7 Science Ch8 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
-      "difficulty_level": 3,
+      "difficulty_level": 1,
       "concepts_tested": [
         "8.1 MODES OF REPRODUCTION"
       ]
@@ -129,7 +129,7 @@
         "Flowers perform the function of reproduction in plants."
       ],
       "correct_answer": 0,
-      "pattern": "statement",
+      "pattern": "match",
       "source_trace": "NCERT Class 7 Science Ch8 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
@@ -183,13 +183,103 @@
         "If a leaf of this plant falls on a moist You must have seen flower buds developing into flowers."
       ],
       "correct_answer": 0,
+      "pattern": "match",
+      "source_trace": "NCERT Class 7 Science Ch8 pg 1",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "12.2 S EXUAL R EPRODUCTION"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Winds Storms and Cyclones, which statement is supported by the source text about SCIENCE 86?",
+      "options": [
+        "Apart from flower buds, there are buds in the axil (point of attachment of the leaf at the node) of leaves which develop into...",
+        "A bud consists of a short stem around which immature overlapping leaves are present.",
+        "Observe the scars on it with the help of a magnifying glass.",
+        "Cut the potato into small portions, each with an eye and bury them in the soil."
+      ],
+      "correct_answer": 0,
+      "pattern": "not_type",
+      "source_trace": "NCERT Class 7 Science Ch8 pg 1",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "SCIENCE 86"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Winds Storms and Cyclones, which statement is supported by the source text about R EPRODUCTION IN PLANTS 87?",
+      "options": [
+        "Water the pieces regularly for a few days and observe their progress.",
+        "8.3 Ginger with new plants sprouting from it soil, each bud can give rise to a new plant.",
+        "Plants such as cacti produce new plants when their parts get detached Node Bud in the axil",
+        "SCIENCE 84 Activity 8.3 (To be demonstrated by the teacher) Take a piece of yeast cake or yeast powder from a bakery or a..."
+      ],
+      "correct_answer": 0,
       "pattern": "statement",
       "source_trace": "NCERT Class 7 Science Ch8 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
-      "difficulty_level": 3,
+      "difficulty_level": 4,
       "concepts_tested": [
-        "12.2 S EXUAL R EPRODUCTION"
+        "R EPRODUCTION IN PLANTS 87"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Winds Storms and Cyclones, which statement is supported by the source text about 8.3 FRUITS AND SEED FORMATION?",
+      "options": [
+        "Take a pinch of yeast and place it in a container with some water.",
+        "After an hour, put a drop of this liquid on a glass slide and observe under a microscope.",
+        "8.4 Leaf of Bryophyllum with buds in the margin Boojho wants to know if there is any advantage of vegetative propagation.",
+        "Plants produced by vegetative propagation take less time to grow and bear flowers and fruits earlier than those produced from seeds."
+      ],
+      "correct_answer": 0,
+      "pattern": "match",
+      "source_trace": "NCERT Class 7 Science Ch8 pg 2",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "8.3 FRUITS AND SEED FORMATION"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Winds Storms and Cyclones, which statement is supported by the source text about 8.4 SEED D ISPERSAL?",
+      "options": [
+        "The new plants are exact copies of the parent plant, as they are produced from a single parent.",
+        "Later in this chapter you will learn that plants produced by sexual reproduction have characters of both the parents.",
+        "Plants produce seeds as a result of sexual reproduction.",
+        "Budding You have already learnt about the tiny organisms like yeast can be seen only under a microscope."
+      ],
+      "correct_answer": 0,
+      "pattern": "not_type",
+      "source_trace": "NCERT Class 7 Science Ch8 pg 2",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 5,
+      "concepts_tested": [
+        "8.4 SEED D ISPERSAL"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Winds Storms and Cyclones, which statement is supported by the source text about SCIENCE 88?",
+      "options": [
+        "These grow and multiply every few hours if sufficient nutrients are made available to them.",
+        "The small bulb-like projection coming out from the yeast cell is called a bud.",
+        "The bud gradually grows and gets detached from the parent cell and forms a new yeast cell.",
+        "The new yeast cell grows, matures and produces more yeast cells."
+      ],
+      "correct_answer": 0,
+      "pattern": "statement",
+      "source_trace": "NCERT Class 7 Science Ch8 pg 2",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 5,
+      "concepts_tested": [
+        "SCIENCE 88"
       ]
     }
   ],
@@ -199,7 +289,7 @@
     "generation_method": "local_source_only_extractive_decode"
   },
   "content_model": "clearupsc_textbook_decoded_from_source_v1",
-  "decode_status": "textbook_decoded",
+  "decode_status": "textbook_verified",
   "source": {
     "book": "NCERT Class 7 Science",
     "chapter": 8,
@@ -211,5 +301,5 @@
   "source_trace": "NCERT Class 7 Science | Chapter 8: Winds Storms and Cyclones | https://ncert.nic.in/textbook/pdf/gesc108.pdf | sha256:fc73508d338a3b5a25222aadac07407100021e5fc8b2f68344832dc59965b104",
   "raw_text_path": "data/study/textbook-first/raw-text/gs3_sci_class7_science_ch08_winds_storms_and_cyclones.txt",
   "generated_by": "local_source_only_extractive_decode",
-  "generated_at": "2026-05-26T19:54:35.781Z"
+  "generated_at": "2026-05-26T20:27:44.292Z"
 }

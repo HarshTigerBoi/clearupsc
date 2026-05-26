@@ -115,7 +115,7 @@
       "source_trace": "NCERT Class 8 Science Ch9 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
-      "difficulty_level": 3,
+      "difficulty_level": 1,
       "concepts_tested": [
         "FRICTION FRICTION"
       ]
@@ -129,7 +129,7 @@
         "Repeat this activity pushing the book from the opposite direction [Fig."
       ],
       "correct_answer": 0,
-      "pattern": "statement",
+      "pattern": "match",
       "source_trace": "NCERT Class 8 Science Ch9 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
@@ -183,13 +183,103 @@
         "9.3 : A brick is being pulled by spring balance Now wrap a piece of polythene around the brick and repeat the activity."
       ],
       "correct_answer": 0,
+      "pattern": "match",
+      "source_trace": "NCERT Class 8 Science Ch9 pg 1",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "SCIENCE 114"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Reproduction in Animals, which statement is supported by the source text about FRICTION 115?",
+      "options": [
+        "Do you observe any difference in the readings of the spring balance in the above two cases?",
+        "What might be the reason Spring Balance Spring balance is a device used for measuring the force acting on an object.",
+        "It consists of a coiled spring which gets stretched when a force is applied to it.",
+        "Stretching of the spring is measured by a pointer moving on a graduated scale."
+      ],
+      "correct_answer": 0,
+      "pattern": "not_type",
+      "source_trace": "NCERT Class 8 Science Ch9 pg 1",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "FRICTION 115"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Reproduction in Animals, which statement is supported by the source text about 9.3 Friction : A Necessary?",
+      "options": [
+        "The reading on the scale gives the magnitude of the force.",
+        "You may use a wooden board supported by bricks, or books. [Fig.",
+        "Put a mark with a pen at any point A on the inclined plane.",
+        "How far does it move on the table before coming to rest?"
+      ],
+      "correct_answer": 0,
       "pattern": "statement",
       "source_trace": "NCERT Class 8 Science Ch9 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
-      "difficulty_level": 3,
+      "difficulty_level": 4,
       "concepts_tested": [
-        "SCIENCE 114"
+        "9.3 Friction : A Necessary"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Reproduction in Animals, which statement is supported by the source text about SCIENCE 116?",
+      "options": [
+        "Does the distance covered depend on the nature of the surface on which the cell moves?",
+        "Could the smoothness of the surface of the cell also affect the distance travelled by it?",
+        "(a) (b) Repeat this activity by spreading a thin layer of sand over the table.",
+        "Why is the distance covered by the pencil cell different every time."
+      ],
+      "correct_answer": 0,
+      "pattern": "match",
+      "source_trace": "NCERT Class 8 Science Ch9 pg 2",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "SCIENCE 116"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Reproduction in Animals, which statement is supported by the source text about FRICTION 117?",
+      "options": [
+        "9.4 : The pencil cell covers different distances on different surfaces I shall try the activity by wrapping a piece of sandpaper around the...",
+        "Friction is caused by the irregularities on the two surfaces in contact.",
+        "Even those surfaces which appear very smooth have a large number of minute irregularities on them (Fig.",
+        "Irregularities on the two surfaces lock into one another."
+      ],
+      "correct_answer": 0,
+      "pattern": "not_type",
+      "source_trace": "NCERT Class 8 Science Ch9 pg 2",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 5,
+      "concepts_tested": [
+        "FRICTION 117"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Reproduction in Animals, which statement is supported by the source text about 9.4 Increasing and Reducing?",
+      "options": [
+        "When we attempt to move any surface, we have to apply a force to overcome interlocking.",
+        "On rough surfaces, there are a larger number of irregularities.",
+        "So the force of friction is greater if a rough surface is involved.",
+        "FRICTION 115 We see that the friction is caused by the interlocking of irregularities in the two surfaces."
+      ],
+      "correct_answer": 0,
+      "pattern": "statement",
+      "source_trace": "NCERT Class 8 Science Ch9 pg 2",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 5,
+      "concepts_tested": [
+        "9.4 Increasing and Reducing"
       ]
     }
   ],
@@ -199,7 +289,7 @@
     "generation_method": "local_source_only_extractive_decode"
   },
   "content_model": "clearupsc_textbook_decoded_from_source_v1",
-  "decode_status": "textbook_decoded",
+  "decode_status": "textbook_verified",
   "source": {
     "book": "NCERT Class 8 Science",
     "chapter": 9,
@@ -211,5 +301,5 @@
   "source_trace": "NCERT Class 8 Science | Chapter 9: Reproduction in Animals | https://ncert.nic.in/textbook/pdf/hesc109.pdf | sha256:7fcf2afca1e4c181fbfdb5dee3ac9d3c7020c1cfb8e5ee42a5fef878cf82a20f",
   "raw_text_path": "data/study/textbook-first/raw-text/gs3_sci_class8_science_ch09_reproduction_in_animals.txt",
   "generated_by": "local_source_only_extractive_decode",
-  "generated_at": "2026-05-26T19:54:38.978Z"
+  "generated_at": "2026-05-26T20:27:47.696Z"
 }

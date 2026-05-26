@@ -124,7 +124,7 @@
       "source_trace": "NCERT Class 10 Contemporary India II Ch5 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
-      "difficulty_level": 3,
+      "difficulty_level": 1,
       "concepts_tested": [
         "MODE OF OCCURRENCE OF MINERALS"
       ]
@@ -138,7 +138,7 @@
         "In all stages of development, human beings have used minerals for their livelihood, decoration, festivities, religious and ceremonial rites."
       ],
       "correct_answer": 0,
-      "pattern": "statement",
+      "pattern": "match",
       "source_trace": "NCERT Class 10 Contemporary India II Ch5 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
@@ -192,13 +192,103 @@
         "All living things need minerals Life processes cannot occur without minerals."
       ],
       "correct_answer": 0,
+      "pattern": "match",
+      "source_trace": "NCERT Class 10 Contemporary India II Ch5 pg 1",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "46 CONTEMPORARY INDIA – II"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Minerals and Energy Resources, which statement is supported by the source text about 47 MINERALS AND ENERGY RESOURCES?",
+      "options": [
+        "Although our mineral intake represents only about 0.3 per cent of our total intake of nutrients, they are so potent and so important that...",
+        "Dig a little deeper and collect “Nutritional Facts” printed on food labels.",
+        "Geologists define mineral as a “homogenous, naturally occurring substance with a definable internal structure.” Minerals are found in varied forms in nature, ranging from...",
+        "Rocks are combinations of homogenous substances called minerals."
+      ],
+      "correct_answer": 0,
+      "pattern": "not_type",
+      "source_trace": "NCERT Class 10 Contemporary India II Ch5 pg 1",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "47 MINERALS AND ENERGY RESOURCES"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Minerals and Energy Resources, which statement is supported by the source text about 48 CONTEMPORARY INDIA – II?",
+      "options": [
+        "Some rocks, for instance limestone, consist of a single mineral only, but majority of the rock consist of several minerals in varying proportions.",
+        "Although, over 2000 minerals have been identified, only a few are abundantly found in most of the rocks.",
+        "A particular mineral that will be formed from a certain combination of elements depends upon the physical and chemical conditions under which the material...",
+        "This, in turn, results in a wide range of colours, hardness, crystal forms, lustre and density that a particular mineral possesses."
+      ],
+      "correct_answer": 0,
       "pattern": "statement",
       "source_trace": "NCERT Class 10 Contemporary India II Ch5 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
-      "difficulty_level": 3,
+      "difficulty_level": 4,
       "concepts_tested": [
-        "46 CONTEMPORARY INDIA – II"
+        "48 CONTEMPORARY INDIA – II"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Minerals and Energy Resources, which statement is supported by the source text about 49 MINERALS AND ENERGY RESOURCES?",
+      "options": [
+        "Geologists use these properties to classify the minerals.",
+        "Study of Minerals by Geographers and Geologists Geographers study minerals as part of the earth’s crust for a better understanding of landforms.",
+        "The distribution of mineral resources and associated economic activities are of interest to geographers.",
+        "A geologist, however, is interested in the formation of minerals, their age and physical and chemical composition."
+      ],
+      "correct_answer": 0,
+      "pattern": "match",
+      "source_trace": "NCERT Class 10 Contemporary India II Ch5 pg 1",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "49 MINERALS AND ENERGY RESOURCES"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Minerals and Energy Resources, which statement is supported by the source text about CONSERVATION OF MINERALS?",
+      "options": [
+        "However, for general and commercial purposes minerals can be classified as under.",
+        "MODE OF OCCURRENCE OF MINERALS Where are these minerals found?",
+        "The term ore is used to describe an accumulation of any mineral mixed with other elements.",
+        "The mineral content of the ore must be in sufficient concentration to make its extraction commercially viable."
+      ],
+      "correct_answer": 0,
+      "pattern": "not_type",
+      "source_trace": "NCERT Class 10 Contemporary India II Ch5 pg 1",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 5,
+      "concepts_tested": [
+        "CONSERVATION OF MINERALS"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Minerals and Energy Resources, which statement is supported by the source text about 50 CONTEMPORARY INDIA – II?",
+      "options": [
+        "The type of formation or structure in which they are found determines the relative ease with which mineral ores may be mined.",
+        "It is, therefore, important for us to understand the main types of formations in which minerals occur.",
+        "Minerals generally occur in these forms: (i) In igneous and metamorphic rocks minerals may occur in the cracks, crevices, faults or joints.",
+        "The smaller occurrences are called veins and the larger are called lodes."
+      ],
+      "correct_answer": 0,
+      "pattern": "statement",
+      "source_trace": "NCERT Class 10 Contemporary India II Ch5 pg 1",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 5,
+      "concepts_tested": [
+        "50 CONTEMPORARY INDIA – II"
       ]
     }
   ],
@@ -208,7 +298,7 @@
     "generation_method": "local_source_only_extractive_decode"
   },
   "content_model": "clearupsc_textbook_decoded_from_source_v1",
-  "decode_status": "textbook_decoded",
+  "decode_status": "textbook_verified",
   "source": {
     "book": "NCERT Class 10 Contemporary India II",
     "chapter": 5,
@@ -220,5 +310,5 @@
   "source_trace": "NCERT Class 10 Contemporary India II | Chapter 5: Minerals and Energy Resources | https://ncert.nic.in/textbook/pdf/jess105.pdf | sha256:057f84813336a11d4583a5dc7f33a4f6c87770e0831061768fc2ffce2b19afaa",
   "raw_text_path": "data/study/textbook-first/raw-text/gs1_geo_class10_contemporary_india_ii_ch05_minerals_and_energy_resources.txt",
   "generated_by": "local_source_only_extractive_decode",
-  "generated_at": "2026-05-26T19:53:50.273Z"
+  "generated_at": "2026-05-26T20:26:56.586Z"
 }

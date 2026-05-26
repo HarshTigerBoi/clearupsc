@@ -96,10 +96,10 @@ function buildChapterTopicPayload(
     url: chapter.source.pdf_url,
   };
   const pendingLine = `Source decode pending for ${chapter.source.book}, Chapter ${chapter.source.chapter}: ${chapter.source.chapter_title}. Open the official NCERT source before studying this chapter.`;
-  const decodedRecord = decodedTopic?.content_quality === "textbook_decoded" ? parseDecodedNotesRecord(decodedTopic.structured_notes) : null;
+  const decodedRecord = isTextbookSourceQuality(decodedTopic?.content_quality) ? parseDecodedNotesRecord(decodedTopic.structured_notes) : null;
   const decodedNotes = decodedRecord ? parseStructuredNotes(decodedRecord, { title: chapter.title }) : null;
   const decodedMcqs = decodedRecord ? buildTextbookQuizQuestions(decodedRecord, chapter.key) : [];
-  const contentQuality = decodedRecord ? "textbook_decoded" : chapter.decode_status;
+  const contentQuality = decodedRecord ? String(decodedTopic?.content_quality ?? "textbook_decoded") : chapter.decode_status;
   return {
     topic: {
       key: chapter.key,
@@ -163,6 +163,10 @@ function buildChapterTopicPayload(
   };
 }
 
+function isTextbookSourceQuality(value?: string | null) {
+  return value === "textbook_decoded" || value === "textbook_verified";
+}
+
 function parseDecodedNotesRecord(raw: unknown) {
   if (!raw) return null;
   if (typeof raw === "string") {
@@ -179,7 +183,7 @@ function parseDecodedNotesRecord(raw: unknown) {
 function buildTextbookQuizQuestions(decoded: Record<string, any>, topicKey: string) {
   const labels = ["A", "B", "C", "D"];
   if (!Array.isArray(decoded.mcqs)) return [];
-  return decoded.mcqs.slice(0, 5).map((mcq: Record<string, any>, index: number) => {
+  return decoded.mcqs.slice(0, 10).map((mcq: Record<string, any>, index: number) => {
     const correctIndex = Number.isInteger(mcq.correct_answer) ? mcq.correct_answer : 0;
     return {
       id: `${topicKey}-textbook-mcq-${index + 1}`,

@@ -136,7 +136,7 @@
       "source_trace": "NCERT Class 12 Biology Ch5 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
-      "difficulty_level": 3,
+      "difficulty_level": 1,
       "concepts_tested": [
         "CHAPTER 5"
       ]
@@ -150,7 +150,7 @@
         "It functions as adapter, structural, and in some cases as a catalytic molecule."
       ],
       "correct_answer": 0,
-      "pattern": "statement",
+      "pattern": "match",
       "source_trace": "NCERT Class 12 Biology Ch5 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
@@ -204,13 +204,103 @@
         "There are two types of nitrogenous bases – Purines (Adenine and Guanine), and Pyrimidines (Cytosine, Uracil and Thymine)."
       ],
       "correct_answer": 0,
+      "pattern": "match",
+      "source_trace": "NCERT Class 12 Biology Ch5 pg 1",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "5.2 The Search for Genetic"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Principles of Inheritance, which statement is supported by the source text about 5.3 RNA World?",
+      "options": [
+        "Cytosine is common for both DNA and RNA and Thymine is present in DNA.",
+        "A nitrogenous base is linked to the OH of 1' C pentose sugar through a N-glycosidic linkage to form a nucleoside, such as adenosine...",
+        "When a phosphate group is linked to OH of 5' C of a nucleoside through phosphoester linkage, a corresponding nucleotide (or deoxynucleotide depending upon...",
+        "Two nucleotides are linked through 3'-5' phosphodiester linkage to form a dinucleotide."
+      ],
+      "correct_answer": 0,
+      "pattern": "not_type",
+      "source_trace": "NCERT Class 12 Biology Ch5 pg 1",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "5.3 RNA World"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Principles of Inheritance, which statement is supported by the source text about 5.4 Replication?",
+      "options": [
+        "More nucleotides can be joined in such a manner to form a polynucleotide chain.",
+        "A polymer thus formed has at one end a free Figure 5.1 A Polynucleotide chain",
+        "81 MOLECULAR BASIS OF INHERITANCE phosphate moiety at 5' -end of sugar, which is referred to as 5’-end of polynucleotide chain.",
+        "Similarly, at the other end of the polymer the sugar has a free OH of 3' C group which is referred to as 3'..."
+      ],
+      "correct_answer": 0,
       "pattern": "statement",
       "source_trace": "NCERT Class 12 Biology Ch5 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
-      "difficulty_level": 3,
+      "difficulty_level": 4,
       "concepts_tested": [
-        "5.2 The Search for Genetic"
+        "5.4 Replication"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Principles of Inheritance, which statement is supported by the source text about 5.5 Transcription?",
+      "options": [
+        "The backbone of a polynucleotide chain is formed due to sugar and phosphates.",
+        "The nitrogenous bases linked to sugar moiety project from the backbone (Figure 5.1).",
+        "In RNA, every nucleotide residue has an additional –OH group present at 2' -position in the ribose.",
+        "Also, in RNA the uracil is found at the place of thymine (5-methyl uracil, another chemical name for thymine)."
+      ],
+      "correct_answer": 0,
+      "pattern": "match",
+      "source_trace": "NCERT Class 12 Biology Ch5 pg 2",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "5.5 Transcription"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Principles of Inheritance, which statement is supported by the source text about 5.6 Genetic Code?",
+      "options": [
+        "DNA as an acidic substance present in nucleus was first identified by Friedrich Meischer in 1869.",
+        "However, due to technical limitation in isolating such a long polymer intact, the elucidation of structure of DNA remained elusive for a very long...",
+        "It was only in 1953 that James Watson and Francis Crick, based on the X-ray diffraction data produced by Maurice Wilkins and Rosalind Franklin,...",
+        "One of the hallmarks of their proposition was base pairing between the two strands of polynucleotide chains."
+      ],
+      "correct_answer": 0,
+      "pattern": "not_type",
+      "source_trace": "NCERT Class 12 Biology Ch5 pg 2",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 5,
+      "concepts_tested": [
+        "5.6 Genetic Code"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Principles of Inheritance, which statement is supported by the source text about 5.7 Translation?",
+      "options": [
+        "However, this proposition was also based on the observation of Erwin Chargaff that for a double stranded DNA, the ratios between Adenine and Thymine...",
+        "The base pairing confers a very unique property to the polynucleotide chains.",
+        "They are said to be complementary to each other, and therefore if the sequence of bases in one strand is known then the sequence...",
+        "Also, if each strand from a DNA (let us call it as a parental DNA) acts as a template for synthesis of a new..."
+      ],
+      "correct_answer": 0,
+      "pattern": "statement",
+      "source_trace": "NCERT Class 12 Biology Ch5 pg 2",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 5,
+      "concepts_tested": [
+        "5.7 Translation"
       ]
     }
   ],
@@ -220,7 +310,7 @@
     "generation_method": "local_source_only_extractive_decode"
   },
   "content_model": "clearupsc_textbook_decoded_from_source_v1",
-  "decode_status": "textbook_decoded",
+  "decode_status": "textbook_verified",
   "source": {
     "book": "NCERT Class 12 Biology",
     "chapter": 5,
@@ -232,5 +322,5 @@
   "source_trace": "NCERT Class 12 Biology | Chapter 5: Principles of Inheritance | https://ncert.nic.in/textbook/pdf/lebo105.pdf | sha256:21d77cdaf37c11b26956bbdae0b9eff9700d723135ac55c1a2141b1caee8f017",
   "raw_text_path": "data/study/textbook-first/raw-text/gs3_env_class12_biology_ch05_principles_of_inheritance.txt",
   "generated_by": "local_source_only_extractive_decode",
-  "generated_at": "2026-05-26T19:53:38.496Z"
+  "generated_at": "2026-05-26T20:26:44.459Z"
 }

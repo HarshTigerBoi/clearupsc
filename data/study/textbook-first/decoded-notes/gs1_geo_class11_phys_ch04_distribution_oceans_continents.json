@@ -120,7 +120,7 @@
       "source_trace": "NCERT Class 11 Phys Geo Ch4 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
-      "difficulty_level": 3,
+      "difficulty_level": 1,
       "concepts_tested": [
         "CONTINENTAL DRIFT"
       ]
@@ -134,7 +134,7 @@
         "CONTINENTAL DRIFT Observe the shape of the coastline of the Atlantic Ocean."
       ],
       "correct_answer": 0,
-      "pattern": "statement",
+      "pattern": "match",
       "source_trace": "NCERT Class 11 Phys Geo Ch4 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
@@ -188,13 +188,103 @@
         "Subsequently, Laurasia and Gondwanaland continued to break into various smaller continents that exist today."
       ],
       "correct_answer": 0,
+      "pattern": "match",
+      "source_trace": "NCERT Class 11 Phys Geo Ch4 pg 1",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "DISTRIBUTION OF OCEANS AND CONTINENTS 31"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Distribution of Oceans and Continents, which statement is supported by the source text about PLATE TECTONICS?",
+      "options": [
+        "A variety of evidence was offered in support of the continental drift.",
+        "Evidence in Support of the Continental Drift The Matching of Continents (Jig-Saw-Fit) The shorelines of Africa and South America facing each other have a...",
+        "It may be noted that a map produced using a computer programme to find the best fit of the Atlantic margin was presented by...",
+        "The match was tried at 1,000- fathom line instead of the present shoreline."
+      ],
+      "correct_answer": 0,
+      "pattern": "not_type",
+      "source_trace": "NCERT Class 11 Phys Geo Ch4 pg 1",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "PLATE TECTONICS"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Distribution of Oceans and Continents, which statement is supported by the source text about DISTRIBUTION OF OCEANS AND CONTINENTS 33?",
+      "options": [
+        "Rocks of Same Age Across the Oceans The radiometric dating methods developed in the recent period have facilitated correlating the rock formation from different...",
+        "The belt of ancient rocks of 2,000 million years from Brazil coast matches with those from western Africa.",
+        "The earliest marine deposits along the coastline of South America and Africa are of the Jurassic age.",
+        "This suggests that the ocean did not exist prior to that time."
+      ],
+      "correct_answer": 0,
       "pattern": "statement",
       "source_trace": "NCERT Class 11 Phys Geo Ch4 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
-      "difficulty_level": 3,
+      "difficulty_level": 4,
       "concepts_tested": [
-        "DISTRIBUTION OF OCEANS AND CONTINENTS 31"
+        "DISTRIBUTION OF OCEANS AND CONTINENTS 33"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Distribution of Oceans and Continents, which statement is supported by the source text about MOVEMENT OF THE INDIAN PLATE?",
+      "options": [
+        "Tillite It is the sedimentary rock formed out of deposits of glaciers.",
+        "The Gondawana system of sediments from India is known to have its counterparts in six different landmasses of the Southern Hemisphere.",
+        "At the base, the system has thick tillite indicating extensive and prolonged glaciation.",
+        "Counterparts of this succession are found in Africa, Falkland Island, Madagascar, Antarctica and Australia."
+      ],
+      "correct_answer": 0,
+      "pattern": "match",
+      "source_trace": "NCERT Class 11 Phys Geo Ch4 pg 1",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "MOVEMENT OF THE INDIAN PLATE"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Distribution of Oceans and Continents, which statement is supported by the source text about DISTRIBUTION OF OCEANS AND CONTINENTS 35?",
+      "options": [
+        "Overall resemblance of the Gondawana-type sediments clearly demonstrates that these landmasses had remarkably similar histories.",
+        "The glacial tillite provides unambiguous evidence of palaeoclimates and also of drifting of continents.",
+        "Placer Deposits The occurrence of rich placer deposits of gold in the Ghana coast and the absolute absence of source rock in the region...",
+        "The gold bearing veins are in Brazil and it is obvious that the gold deposits of the Ghana are derived from the Brazil plateau..."
+      ],
+      "correct_answer": 0,
+      "pattern": "not_type",
+      "source_trace": "NCERT Class 11 Phys Geo Ch4 pg 1",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 5,
+      "concepts_tested": [
+        "DISTRIBUTION OF OCEANS AND CONTINENTS 35"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Distribution of Oceans and Continents, which statement is supported by the source text about Distribution of Oceans and Continents?",
+      "options": [
+        "Distribution of Fossils When identical species of plants and animals adapted to living on land or in fresh water are found on either side...",
+        "The observations that Lemurs occur in India, Madagascar and Africa led some to consider a contiguous landmass ‘Lemuria’ linking these three landmasses.",
+        "Mesosaurus was a small reptile adapted to shallow brackish water.",
+        "The skeletons of these are found only in two localities: the Southern Cape province of South Africa and Iraver formations of Brazil."
+      ],
+      "correct_answer": 0,
+      "pattern": "statement",
+      "source_trace": "NCERT Class 11 Phys Geo Ch4 pg 1",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 5,
+      "concepts_tested": [
+        "Distribution of Oceans and Continents"
       ]
     }
   ],
@@ -204,7 +294,7 @@
     "generation_method": "local_source_only_extractive_decode"
   },
   "content_model": "clearupsc_textbook_decoded_from_source_v1",
-  "decode_status": "textbook_decoded",
+  "decode_status": "textbook_verified",
   "source": {
     "book": "NCERT Class 11 Fundamentals of Physical Geography",
     "chapter": 4,
@@ -216,5 +306,5 @@
   "source_trace": "NCERT Class 11 Fundamentals of Physical Geography | Chapter 4: Distribution of Oceans and Continents | https://ncert.nic.in/textbook/pdf/kegy204.pdf | sha256:d35ee78893d37c5912592f3d7243d6fed22341837b53bcae623d9c9ef221fc11",
   "raw_text_path": "data/study/textbook-first/raw-text/gs1_geo_class11_phys_ch04_distribution_oceans_continents.txt",
   "generated_by": "local_source_only_extractive_decode",
-  "generated_at": "2026-05-26T19:53:29.328Z"
+  "generated_at": "2026-05-26T20:26:34.843Z"
 }

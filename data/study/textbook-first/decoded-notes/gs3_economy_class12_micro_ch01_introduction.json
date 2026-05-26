@@ -136,7 +136,7 @@
       "source_trace": "NCERT Class 12 Micro Ch1 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
-      "difficulty_level": 3,
+      "difficulty_level": 1,
       "concepts_tested": [
         "1.1 A SIMPLE ECONOMY"
       ]
@@ -150,7 +150,7 @@
         "Some others in society may not have any resource3 excepting their own labour services."
       ],
       "correct_answer": 0,
-      "pattern": "statement",
+      "pattern": "match",
       "source_trace": "NCERT Class 12 Micro Ch1 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
@@ -204,13 +204,103 @@
         "A decision making unit can be a single person or a group like a household, a firm or any other organisation."
       ],
       "correct_answer": 0,
+      "pattern": "match",
+      "source_trace": "NCERT Class 12 Micro Ch1 pg 1",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "1.3 ORGANISATION OF ECONOMIC ACTIVITIES"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Introduction, which statement is supported by the source text about 1.3.1 The Centrally Planned Economy?",
+      "options": [
+        "3By resource, we mean those goods and services which are used to produce other goods and services, e.g. land, labour, tools and machinery, etc.",
+        "2 Introductory Microeconomics and services that it can procure in exchange of corn is also limited.",
+        "As a result, the family is forced to make a choice between the different goods and services that are available.",
+        "It can have more of a good or service only by giving up some amounts of other goods or services."
+      ],
+      "correct_answer": 0,
+      "pattern": "not_type",
+      "source_trace": "NCERT Class 12 Micro Ch1 pg 1",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "1.3.1 The Centrally Planned Economy"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Introduction, which statement is supported by the source text about 5 Introduction?",
+      "options": [
+        "For example, if the family wants to have a bigger house, it may have to give up the idea of having a few more...",
+        "If it wants more and better education for the children, it may have to give up some of the luxuries of life.",
+        "The same is the case with all other individuals in society.",
+        "Everyone faces scarcity of resources, and therefore, has to use the limited resources in the best possible way to fulfill her needs."
+      ],
+      "correct_answer": 0,
       "pattern": "statement",
       "source_trace": "NCERT Class 12 Micro Ch1 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
-      "difficulty_level": 3,
+      "difficulty_level": 4,
       "concepts_tested": [
-        "1.3 ORGANISATION OF ECONOMIC ACTIVITIES"
+        "5 Introduction"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Introduction, which statement is supported by the source text about 1.3.2 The Market Economy?",
+      "options": [
+        "In general, every individual in society is engaged in the production of some goods or services and she wants a combination of many goods...",
+        "Needless to say that there has to be some compatibility between what people in society collectively want to have and what they produce4.",
+        "For example, the total amount of corn produced by family farm along with other farming units in a society must match the total amount...",
+        "If people in the society do not want as much corn as the farming units are capable of producing collectively, a part of the..."
+      ],
+      "correct_answer": 0,
+      "pattern": "match",
+      "source_trace": "NCERT Class 12 Micro Ch1 pg 1",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "1.3.2 The Market Economy"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Introduction, which statement is supported by the source text about 1.4 POSITIVE AND NORMATIVE ECONOMICS?",
+      "options": [
+        "On the other hand, if people in the society want more corn compared to what the farming units are producing collectively, the resources used...",
+        "Just as the resources of an individual are scarce, the resources of the society are also scarce in comparison to what the people in...",
+        "The scarce resources of the society have to be allocated properly in the production of different goods and services in keeping with the likes...",
+        "Any allocation5 of resources of the society would result in the production of a particular combination of different goods and services."
+      ],
+      "correct_answer": 0,
+      "pattern": "not_type",
+      "source_trace": "NCERT Class 12 Micro Ch1 pg 1",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 5,
+      "concepts_tested": [
+        "1.4 POSITIVE AND NORMATIVE ECONOMICS"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Introduction, which statement is supported by the source text about 1.5 MICROECONOMICS AND MACROECONOMICS?",
+      "options": [
+        "The goods and services thus produced will have to be distributed among the individuals of the society.",
+        "The allocation of the limited resources and the distribution of the final mix of goods and services are two of the basic economic problems...",
+        "In reality, any economy is much more complex compared to the society discussed above.",
+        "In the light of what we have learnt about the society, let us now discuss the fundamental concerns of the discipline of economics some..."
+      ],
+      "correct_answer": 0,
+      "pattern": "statement",
+      "source_trace": "NCERT Class 12 Micro Ch1 pg 1",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 5,
+      "concepts_tested": [
+        "1.5 MICROECONOMICS AND MACROECONOMICS"
       ]
     }
   ],
@@ -220,7 +310,7 @@
     "generation_method": "local_source_only_extractive_decode"
   },
   "content_model": "clearupsc_textbook_decoded_from_source_v1",
-  "decode_status": "textbook_decoded",
+  "decode_status": "textbook_verified",
   "source": {
     "book": "NCERT Class 12 Introductory Microeconomics",
     "chapter": 1,
@@ -232,5 +322,5 @@
   "source_trace": "NCERT Class 12 Introductory Microeconomics | Chapter 1: Introduction | https://ncert.nic.in/textbook/pdf/leec201.pdf | sha256:19a6e33c5d3ee5ee1a6b764483c7407ce0160b88a3fd7d9816c910a6ea419ef6",
   "raw_text_path": "data/study/textbook-first/raw-text/gs3_economy_class12_micro_ch01_introduction.txt",
   "generated_by": "local_source_only_extractive_decode",
-  "generated_at": "2026-05-26T19:54:18.858Z"
+  "generated_at": "2026-05-26T20:27:26.753Z"
 }

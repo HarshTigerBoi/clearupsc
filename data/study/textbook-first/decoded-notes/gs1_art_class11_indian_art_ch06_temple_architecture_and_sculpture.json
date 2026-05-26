@@ -120,7 +120,7 @@
       "source_trace": "NCERT Class 11 An Introduction to Indian Art Ch6 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
-      "difficulty_level": 3,
+      "difficulty_level": 1,
       "concepts_tested": [
         "AND AND AND AND AND S S S S SCULPTURE CULPTURE CULPTURE CULPTURE CULPTURE"
       ]
@@ -134,7 +134,7 @@
         "Early Temples Early Temples Early Temples Early Temples Early Temples While construction of stupas continued, Brahmanical temples and images of gods also started getting..."
       ],
       "correct_answer": 0,
-      "pattern": "statement",
+      "pattern": "match",
       "source_trace": "NCERT Class 11 An Introduction to Indian Art Ch6 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
@@ -188,13 +188,103 @@
         "As temples grew more complex, more surfaces were created for sculpture through additive geometry, i.e., by adding more and more rhythmically projecting, symmetrical walls..."
       ],
       "correct_answer": 0,
+      "pattern": "match",
+      "source_trace": "NCERT Class 11 An Introduction to Indian Art Ch6 pg 2",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "TEMPLE ARCHITECTURE AND SCULPTURE 71"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Temple Architecture and Sculpture, which statement is supported by the source text about THE NAGARA OR NORTH INDIAN TEMPLE STYLE?",
+      "options": [
+        "SCULPTURE, ICONOGRAPHY AND ORNAMENTATION The study of images of deities falls within a branch of art history called ‘iconography’, which consists of identification of...",
+        "And very often, while the fundamental myth and meaning of the deity may remain the same for centuries, its specific usage at a spot...",
+        "Every region and period produced its own distinct style of images with its regional variations in iconography.",
+        "The temple is covered with elaborate sculpture and ornament that form a fundamental part of its conception."
+      ],
+      "correct_answer": 0,
+      "pattern": "not_type",
+      "source_trace": "NCERT Class 11 An Introduction to Indian Art Ch6 pg 2",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "THE NAGARA OR NORTH INDIAN TEMPLE STYLE"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Temple Architecture and Sculpture, which statement is supported by the source text about AN INTRODUCTION TO INDIAN ART 72?",
+      "options": [
+        "The placement of an image in a temple is carefully planned:",
+        "TEMPLE ARCHITECTURE AND SCULPTURE 71 for instance, river goddesses (Ganga and Yamuna) are usually found at the entrance of a garbhagriha in a Nagara...",
+        "Various forms or aspects of the main divinity are to be found on the outer walls of the sanctum.",
+        "The deities of directions, i.e., the ashtadikpalas face the eight key directions on the outer walls of the sanctum and/or on the outer walls..."
+      ],
+      "correct_answer": 0,
       "pattern": "statement",
       "source_trace": "NCERT Class 11 An Introduction to Indian Art Ch6 pg 2",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
-      "difficulty_level": 3,
+      "difficulty_level": 4,
       "concepts_tested": [
-        "TEMPLE ARCHITECTURE AND SCULPTURE 71"
+        "AN INTRODUCTION TO INDIAN ART 72"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Temple Architecture and Sculpture, which statement is supported by the source text about TEMPLE ARCHITECTURE AND SCULPTURE 73?",
+      "options": [
+        "Subsidiary shrines around the main temple are dedicated to the family or incarnations of the main deity.",
+        "Finally, various elements of ornamentation such as gavaksha, vyala/yali, kalpa-lata, amalaka, kalasha, etc. are used in distinct ways and places in a temple.",
+        "THE NAGARA OR NORTH INDIAN TEMPLE STYLE The style of temple architecture that became popular in northern India is known as nagara.",
+        "In North India it is common for an entire temple to be built on a stone platform with steps leading up to it."
+      ],
+      "correct_answer": 0,
+      "pattern": "match",
+      "source_trace": "NCERT Class 11 An Introduction to Indian Art Ch6 pg 3",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "TEMPLE ARCHITECTURE AND SCULPTURE 73"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Temple Architecture and Sculpture, which statement is supported by the source text about AN INTRODUCTION TO INDIAN ART 74?",
+      "options": [
+        "Further, unlike in South India it does not usually have elaborate boundary walls or gateways.",
+        "While the earliest temples had just one tower, or shikhara, later temples had several.",
+        "The garbhagriha is always located directly under the tallest tower.",
+        "There are many subdivisions of nagara temples depending on the shape of the shikhara."
+      ],
+      "correct_answer": 0,
+      "pattern": "not_type",
+      "source_trace": "NCERT Class 11 An Introduction to Indian Art Ch6 pg 3",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 5,
+      "concepts_tested": [
+        "AN INTRODUCTION TO INDIAN ART 74"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Temple Architecture and Sculpture, which statement is supported by the source text about TEMPLE ARCHITECTURE AND SCULPTURE 75?",
+      "options": [
+        "There are different names for the various parts of the temple in different parts Sun temple, Konark",
+        "AN INTRODUCTION TO INDIAN ART 72 of India; however, the most common name for the simple shikhara which is square at the base and...",
+        "The second major type of architectural form in the nagara order is the phamsana.",
+        "Phamsana buildings tend to be broader and shorter than latina ones."
+      ],
+      "correct_answer": 0,
+      "pattern": "statement",
+      "source_trace": "NCERT Class 11 An Introduction to Indian Art Ch6 pg 3",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 5,
+      "concepts_tested": [
+        "TEMPLE ARCHITECTURE AND SCULPTURE 75"
       ]
     }
   ],
@@ -204,7 +294,7 @@
     "generation_method": "local_source_only_extractive_decode"
   },
   "content_model": "clearupsc_textbook_decoded_from_source_v1",
-  "decode_status": "textbook_decoded",
+  "decode_status": "textbook_verified",
   "source": {
     "book": "NCERT Class 11 An Introduction to Indian Art",
     "chapter": 6,
@@ -216,5 +306,5 @@
   "source_trace": "NCERT Class 11 An Introduction to Indian Art | Chapter 6: Temple Architecture and Sculpture | https://ncert.nic.in/textbook/pdf/kefa106.pdf | sha256:97ce45a5f5bffc292fb5ed5a9cab3a2b2bc1574b553773ec20557ed73729d997",
   "raw_text_path": "data/study/textbook-first/raw-text/gs1_art_class11_indian_art_ch06_temple_architecture_and_sculpture.txt",
   "generated_by": "local_source_only_extractive_decode",
-  "generated_at": "2026-05-26T19:54:05.288Z"
+  "generated_at": "2026-05-26T20:27:12.453Z"
 }

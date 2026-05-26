@@ -136,7 +136,7 @@
       "source_trace": "NCERT Class 10 Democratic Politics II Ch5 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
-      "difficulty_level": 3,
+      "difficulty_level": 1,
       "concepts_tested": [
         "Popular Struggles and Movements"
       ]
@@ -150,7 +150,7 @@
         "It emerged from that conversation that democracy is a better form of government when compared with dictatorship or any other alternative."
       ],
       "correct_answer": 0,
-      "pattern": "statement",
+      "pattern": "match",
       "source_trace": "NCERT Class 10 Democratic Politics II Ch5 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
@@ -204,13 +204,103 @@
         "If some of our expectations are not met, we start blaming the idea of democracy."
       ],
       "correct_answer": 0,
+      "pattern": "match",
+      "source_trace": "NCERT Class 10 Democratic Politics II Ch5 pg 1",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "Outcomes of Democracy Overview As"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Popular Struggles and Movements, which statement is supported by the source text about Madam Lyngdoh?",
+      "options": [
+        "The first step towards thinking carefully about the outcomes of democracy is to recognise that democracy is just a form of government.",
+        "The citizens have to take advantage of those conditions and achieve those goals.",
+        "Let us examine some of the things we can reasonably expect from democracy and examine the record of democracy.",
+        "Did we reach these conclusions in Madam Lyngdoh’s class?"
+      ],
+      "correct_answer": 0,
+      "pattern": "not_type",
+      "source_trace": "NCERT Class 10 Democratic Politics II Ch5 pg 1",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "Madam Lyngdoh"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Popular Struggles and Movements, which statement is supported by the source text about Enhances the?",
+      "options": [
+        "I loved that class because students were not being dictated any conclusions. © RK Laxman - Brushing up the years Is democracy all about...",
+        "O u t c o m e s o f D e m o c r a c y 65 Accountable, responsive and legitimate...",
+        "In a democracy, we are most concerned with ensuring that people will have the right to choose their rulers and people will have control...",
+        "Whenever possible and necessary, citizens should be able to participate in decision making, that affects them all."
+      ],
+      "correct_answer": 0,
       "pattern": "statement",
       "source_trace": "NCERT Class 10 Democratic Politics II Ch5 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
-      "difficulty_level": 3,
+      "difficulty_level": 4,
       "concepts_tested": [
-        "Outcomes of Democracy Overview As"
+        "Enhances the"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Popular Struggles and Movements, which statement is supported by the source text about Improves the?",
+      "options": [
+        "Therefore, the most basic outcome of democracy should be that it produces a government that is accountable to the citizens, and responsive to the...",
+        "Before we go into this question, we face another common question: Is the democratic government efficient?",
+        "Some people think that democracy produces less effective government.",
+        "It is, of course, true that non-democratic rulers do not have to bother about deliberation in assemblies or worry about majorities and public opinion."
+      ],
+      "correct_answer": 0,
+      "pattern": "match",
+      "source_trace": "NCERT Class 10 Democratic Politics II Ch5 pg 2",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "Improves the"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Popular Struggles and Movements, which statement is supported by the source text about RK Laxman?",
+      "options": [
+        "So, they can be very quick and efficient in decision making and implementation.",
+        "Democracy is based on the idea of deliberation and negotiation.",
+        "Imagine a government that may take decisions very fast.",
+        "But it may take decisions that are not accepted by the people and may therefore face problems."
+      ],
+      "correct_answer": 0,
+      "pattern": "not_type",
+      "source_trace": "NCERT Class 10 Democratic Politics II Ch5 pg 2",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 5,
+      "concepts_tested": [
+        "RK Laxman"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Popular Struggles and Movements, which statement is supported by the source text about Is the?",
+      "options": [
+        "In contrast, the democratic government will take more time to follow procedures before arriving at a decision.",
+        "But because it has followed procedures, its decisions may be both more acceptable to the people and more effective.",
+        "So, the cost of time that democracy pays is perhaps worth it.",
+        "Now look at the other side – democracy ensures that decision making will be based on norms and procedures."
+      ],
+      "correct_answer": 0,
+      "pattern": "statement",
+      "source_trace": "NCERT Class 10 Democratic Politics II Ch5 pg 2",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 5,
+      "concepts_tested": [
+        "Is the"
       ]
     }
   ],
@@ -220,7 +310,7 @@
     "generation_method": "local_source_only_extractive_decode"
   },
   "content_model": "clearupsc_textbook_decoded_from_source_v1",
-  "decode_status": "textbook_decoded",
+  "decode_status": "textbook_verified",
   "source": {
     "book": "NCERT Class 10 Democratic Politics II",
     "chapter": 5,
@@ -232,5 +322,5 @@
   "source_trace": "NCERT Class 10 Democratic Politics II | Chapter 5: Popular Struggles and Movements | https://ncert.nic.in/textbook/pdf/jess405.pdf | sha256:f9049b6789da596463e6e2171c8982b0578cab252fb07e741d99f4200095c325",
   "raw_text_path": "data/study/textbook-first/raw-text/gs2_polity_class10_democratic_politics_ii_ch05_popular_struggles_and_movements.txt",
   "generated_by": "local_source_only_extractive_decode",
-  "generated_at": "2026-05-26T19:54:13.558Z"
+  "generated_at": "2026-05-26T20:27:21.142Z"
 }

@@ -136,7 +136,7 @@
       "source_trace": "NCERT Class 8 Resources and Development Ch3 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
-      "difficulty_level": 3,
+      "difficulty_level": 1,
       "concepts_tested": [
         "AJSU Party (AJSU) 1"
       ]
@@ -150,7 +150,7 @@
         "At times students might be cynical about the political process and your role as a teacher is not to dismiss or agree with this..."
       ],
       "correct_answer": 0,
-      "pattern": "statement",
+      "pattern": "match",
       "source_trace": "NCERT Class 8 Resources and Development Ch3 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
@@ -204,13 +204,103 @@
         "Here we will try and understand the relation between the ideas of participation in decision-making and the need for all democratic governments to have..."
       ],
       "correct_answer": 0,
-      "pattern": "statement",
+      "pattern": "match",
       "source_trace": "NCERT Class 8 Resources and Development Ch3 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
-      "difficulty_level": 3,
+      "difficulty_level": 4,
       "concepts_tested": [
         "Power"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Mineral and Power Resources, which statement is supported by the source text about Resources?",
+      "options": [
+        "It is these elements that together make us a democracy and this is best expressed in the institution of the Parliament.",
+        "In this chapter, we will try to see how the Parliament enables citizens of India to participate in decision making and control the government,...",
+        "31 India, as we know, became independent on 15 August 1947.",
+        "Preceding this was a long and difficult struggle in which many sections of society participated."
+      ],
+      "correct_answer": 0,
+      "pattern": "not_type",
+      "source_trace": "NCERT Class 8 Resources and Development Ch3 pg 2",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "Resources"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Mineral and Power Resources, which statement is supported by the source text about Social and Political Life?",
+      "options": [
+        "People from various backgrounds joined the struggle and they were inspired by the ideas of freedom, equality and participation in decision– making.",
+        "Under colonial rule, the people had lived in fear of the British government and did not agree with many of the decisions that they...",
+        "But they faced grave danger if they tried to criticise these decisions.",
+        "The nationalists began to openly criticise the British government and make demands."
+      ],
+      "correct_answer": 0,
+      "pattern": "statement",
+      "source_trace": "NCERT Class 8 Resources and Development Ch3 pg 3",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "Social and Political Life"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Mineral and Power Resources, which statement is supported by the source text about Unit Two?",
+      "options": [
+        "As far back as 1885, the Indian National Congress demanded that there be elected members in the legislature with a right to discuss the...",
+        "The Government of India Act 1909, allowed for some elected representation.",
+        "While these early legislatures under the British government were in response to the growing demands of the nationalists, they did not allow for all...",
+        "As you read in Chapter 1, the experience of colonial rule as well as the participation of different people in the struggle for freedom..."
+      ],
+      "correct_answer": 0,
+      "pattern": "match",
+      "source_trace": "NCERT Class 8 Resources and Development Ch3 pg 3",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "Unit Two"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Mineral and Power Resources, which statement is supported by the source text about Note This?",
+      "options": [
+        "With the coming of independence, we were going to be citizens of a free country.",
+        "This did not mean that the government could do what it felt like, it meant that the government had to be sensitive to people’s...",
+        "The dreams and aspirations of the freedom struggle were made concrete in the Constitution of independent India that laid down the principle of universal...",
+        "Parliament and the Making of Laws What do you think the artist is trying to convey through the image of Parliament on the previous..."
+      ],
+      "correct_answer": 0,
+      "pattern": "not_type",
+      "source_trace": "NCERT Class 8 Resources and Development Ch3 pg 3",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 5,
+      "concepts_tested": [
+        "Note This"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Mineral and Power Resources, which statement is supported by the source text about Class VI and VII?",
+      "options": [
+        "The above photo shows a voter reading instructions on how to use an Electronic Voting Machine (EVM).",
+        "EVMs were used throughout the country for the first time in the 2004 general elections.",
+        "The use of EVMs in 2004 saved around 1,50,000 trees which would have been cut to produce about 8,000 tons of paper for printing...",
+        "Social and Political Life 32 People and their Representatives The take-off point for a democracy is the idea of consent, i.e. the desire, approval..."
+      ],
+      "correct_answer": 0,
+      "pattern": "statement",
+      "source_trace": "NCERT Class 8 Resources and Development Ch3 pg 3",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 5,
+      "concepts_tested": [
+        "Class VI and VII"
       ]
     }
   ],
@@ -220,7 +310,7 @@
     "generation_method": "local_source_only_extractive_decode"
   },
   "content_model": "clearupsc_textbook_decoded_from_source_v1",
-  "decode_status": "textbook_decoded",
+  "decode_status": "textbook_verified",
   "source": {
     "book": "NCERT Class 8 Resources and Development",
     "chapter": 3,
@@ -232,5 +322,5 @@
   "source_trace": "NCERT Class 8 Resources and Development | Chapter 3: Mineral and Power Resources | https://ncert.nic.in/textbook/pdf/hess303.pdf | sha256:1cd48693dba92f67f6822d4aa084b8b24a8a40bf3e1125a02ca4fa954d5ed054",
   "raw_text_path": "data/study/textbook-first/raw-text/gs1_geo_class8_resources_development_ch03_mineral_and_power_resources.txt",
   "generated_by": "local_source_only_extractive_decode",
-  "generated_at": "2026-05-26T19:54:07.983Z"
+  "generated_at": "2026-05-26T20:27:15.316Z"
 }

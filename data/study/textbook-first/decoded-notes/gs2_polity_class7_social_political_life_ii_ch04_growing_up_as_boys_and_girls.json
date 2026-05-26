@@ -136,7 +136,7 @@
       "source_trace": "NCERT Class 7 Social and Political Life II Ch4 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
-      "difficulty_level": 3,
+      "difficulty_level": 1,
       "concepts_tested": [
         "4CHAPTER"
       ]
@@ -150,7 +150,7 @@
         "This chapter will also examine how inequalities between men and women emerge in the area of work."
       ],
       "correct_answer": 0,
-      "pattern": "statement",
+      "pattern": "match",
       "source_trace": "NCERT Class 7 Social and Political Life II Ch4 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
@@ -204,13 +204,103 @@
         "Girls had to continue looking after small children or do errands for adults till they were teenagers."
       ],
       "correct_answer": 0,
+      "pattern": "match",
+      "source_trace": "NCERT Class 7 Social and Political Life II Ch4 pg 1",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "HONK"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Growing up as Boys and Girls, which statement is supported by the source text about 42 Social and Political Life?",
+      "options": [
+        "But, once they became teenagers they had much more freedom.",
+        "After the age of fourteen or so, girls also went on fishing trips, worked in the plantations, learnt how to weave baskets.",
+        "Cooking was done in special cooking-houses, where boys were supposed to do most of the work while girls helped with the preparations.",
+        "Growing up male in Madhya Pradesh in the 1960s The following is adapted from an account of experiences of being in a small town..."
+      ],
+      "correct_answer": 0,
+      "pattern": "not_type",
+      "source_trace": "NCERT Class 7 Social and Political Life II Ch4 pg 1",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "42 Social and Political Life"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Growing up as Boys and Girls, which statement is supported by the source text about DING?",
+      "options": [
+        "From Class VI onwards, boys and girls went to separate schools.",
+        "The girls school was designed very differently from the boys school.",
+        "They had a central courtyard where they played in total seclusion and 39 Chapter 4: Growing up as Boys and Girls",
+        "40 Social and Political Life Make a drawing of a street or a park in your neighbourhood."
+      ],
+      "correct_answer": 0,
       "pattern": "statement",
       "source_trace": "NCERT Class 7 Social and Political Life II Ch4 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
-      "difficulty_level": 3,
+      "difficulty_level": 4,
       "concepts_tested": [
-        "HONK"
+        "DING"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Growing up as Boys and Girls, which statement is supported by the source text about 44 Social and Political Life?",
+      "options": [
+        "Show the different kinds of activities young boys and girls may be engaged in.",
+        "Can you think of reasons why there are fewer women and girls in your neighbourhood streets, parks and markets in the late evenings or...",
+        "What would happen if you replaced the girls with the boys and vice-versa? safety from the outside world.",
+        "The boys school had no such courtyard and our playground was just a big space attached to the school."
+      ],
+      "correct_answer": 0,
+      "pattern": "match",
+      "source_trace": "NCERT Class 7 Social and Political Life II Ch4 pg 2",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "44 Social and Political Life"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Growing up as Boys and Girls, which statement is supported by the source text about 46 Social and Political Life?",
+      "options": [
+        "Every evening, once school was over, the boys watched as hundreds of school girls crowded the narrow streets.",
+        "As these girls walked on the streets, they looked so purposeful.",
+        "This was unlike the boys who used the streets as a place to stand around idling, to play, to try out tricks with their...",
+        "For the girls, the street was simply a place to get straight home."
+      ],
+      "correct_answer": 0,
+      "pattern": "not_type",
+      "source_trace": "NCERT Class 7 Social and Political Life II Ch4 pg 2",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 5,
+      "concepts_tested": [
+        "46 Social and Political Life"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Growing up as Boys and Girls, which statement is supported by the source text about Growing up as Boys and Girls?",
+      "options": [
+        "The girls always went in groups, perhaps because they also carried fears of being teased or attacked.",
+        "After reading the two examples above, we realise that there are many different ways of growing up.",
+        "Often we think that there is only one way in which children grow up.",
+        "This is because we are most familiar with our own experiences."
+      ],
+      "correct_answer": 0,
+      "pattern": "statement",
+      "source_trace": "NCERT Class 7 Social and Political Life II Ch4 pg 2",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 5,
+      "concepts_tested": [
+        "Growing up as Boys and Girls"
       ]
     }
   ],
@@ -220,7 +310,7 @@
     "generation_method": "local_source_only_extractive_decode"
   },
   "content_model": "clearupsc_textbook_decoded_from_source_v1",
-  "decode_status": "textbook_decoded",
+  "decode_status": "textbook_verified",
   "source": {
     "book": "NCERT Class 7 Social and Political Life II",
     "chapter": 4,
@@ -232,5 +322,5 @@
   "source_trace": "NCERT Class 7 Social and Political Life II | Chapter 4: Growing up as Boys and Girls | https://ncert.nic.in/textbook/pdf/gess304.pdf | sha256:74d508985e8f9e7dc0357085d2e7862d7c4cb97a2ec91f72cb74cf6417682cba",
   "raw_text_path": "data/study/textbook-first/raw-text/gs2_polity_class7_social_political_life_ii_ch04_growing_up_as_boys_and_girls.txt",
   "generated_by": "local_source_only_extractive_decode",
-  "generated_at": "2026-05-26T19:54:14.594Z"
+  "generated_at": "2026-05-26T20:27:22.134Z"
 }

@@ -136,7 +136,7 @@
       "source_trace": "NCERT Class 8 Social and Political Life III Ch2 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
-      "difficulty_level": 3,
+      "difficulty_level": 1,
       "concepts_tested": [
         "10 OUR PASTS – III"
       ]
@@ -150,7 +150,7 @@
         "In fact, when a massive rebellion against British rule broke out in 1857, Bahadur Shah Zafar, the Mughal emperor at the time, was seen..."
       ],
       "correct_answer": 0,
-      "pattern": "statement",
+      "pattern": "match",
       "source_trace": "NCERT Class 8 Social and Political Life III Ch2 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
@@ -204,13 +204,103 @@
         "The fine qualities of cotton and silk produced in India had a big market in Europe."
       ],
       "correct_answer": 0,
+      "pattern": "match",
+      "source_trace": "NCERT Class 8 Social and Political Life III Ch2 pg 1",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "14 OUR PASTS – III"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Understanding Secularism, which statement is supported by the source text about FROM TRADE TO TERRITORY 15?",
+      "options": [
+        "Pepper, cloves, cardamom and cinnamon too were in great demand.",
+        "Competition amongst the European companies inevitably pushed up the prices at which these goods could be purchased, and this reduced the profits that could...",
+        "The only way the trading companies could flourish was by eliminating rival competitors.",
+        "The urge to secure markets, therefore, led to fierce battles between the trading companies."
+      ],
+      "correct_answer": 0,
+      "pattern": "not_type",
+      "source_trace": "NCERT Class 8 Social and Political Life III Ch2 pg 1",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "FROM TRADE TO TERRITORY 15"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Understanding Secularism, which statement is supported by the source text about 16 OUR PASTS – III?",
+      "options": [
+        "Through the seventeenth and eighteenth centuries they regularly sank each other’s ships, blockaded routes, and prevented rival ships from moving with supplies of Fig.",
+        "2 – Routes to India in the eighteenth century Mercantile – A business enterprise that makes profit primarily through trade, buying goods cheap and...",
+        "Trade was carried on with arms and trading posts were protected through fortification.",
+        "This effort to fortify settlements and carry on profitable trade also led to intense conflict with local rulers."
+      ],
+      "correct_answer": 0,
       "pattern": "statement",
       "source_trace": "NCERT Class 8 Social and Political Life III Ch2 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
-      "difficulty_level": 3,
+      "difficulty_level": 4,
       "concepts_tested": [
-        "14 OUR PASTS – III"
+        "16 OUR PASTS – III"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Understanding Secularism, which statement is supported by the source text about 18 OUR PASTS – III?",
+      "options": [
+        "The company therefore found it difficult to separate trade from politics.",
+        "East India Company begins trade in Bengal The first English factory was set up on the banks of the river Hugli in 1651.",
+        "This was the base from which the Company’s traders, known at that time as “factors”, operated.",
+        "The factory had a warehouse where goods for export were stored, and it had offices where Company officials sat."
+      ],
+      "correct_answer": 0,
+      "pattern": "match",
+      "source_trace": "NCERT Class 8 Social and Political Life III Ch2 pg 2",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "18 OUR PASTS – III"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Understanding Secularism, which statement is supported by the source text about FROM TRADE TO TERRITORY 19?",
+      "options": [
+        "As trade expanded, the Company persuaded merchants and traders to come and settle near the factory.",
+        "By 1696, it began building a fort around the settlement.",
+        "Two years later, it bribed Mughal officials into giving the Company zamindari rights over three villages.",
+        "One of these was Kalikata, which later grew into the city of Calcutta or Kolkata as it is known today."
+      ],
+      "correct_answer": 0,
+      "pattern": "not_type",
+      "source_trace": "NCERT Class 8 Social and Political Life III Ch2 pg 2",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 5,
+      "concepts_tested": [
+        "FROM TRADE TO TERRITORY 19"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Understanding Secularism, which statement is supported by the source text about 20 OUR PASTS – III?",
+      "options": [
+        "It also persuaded the Mughal emperor Aurangzeb to issue a farman granting the Company the right to trade duty free.",
+        "The Company tried continuously to press for more concessions and manipulate existing privileges.",
+        "Aurangzeb’s farman, for instance, had granted only the Company the right to trade duty free.",
+        "But officials of the Company, who were carrying on private trade on the side, were expected to pay duty."
+      ],
+      "correct_answer": 0,
+      "pattern": "statement",
+      "source_trace": "NCERT Class 8 Social and Political Life III Ch2 pg 2",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 5,
+      "concepts_tested": [
+        "20 OUR PASTS – III"
       ]
     }
   ],
@@ -220,7 +310,7 @@
     "generation_method": "local_source_only_extractive_decode"
   },
   "content_model": "clearupsc_textbook_decoded_from_source_v1",
-  "decode_status": "textbook_decoded",
+  "decode_status": "textbook_verified",
   "source": {
     "book": "NCERT Class 8 Social and Political Life III",
     "chapter": 2,
@@ -232,5 +322,5 @@
   "source_trace": "NCERT Class 8 Social and Political Life III | Chapter 2: Understanding Secularism | https://ncert.nic.in/textbook/pdf/hess202.pdf | sha256:439adc99a27442579d4c7545c590af736688392f69eea91e4bb5172b0b397210",
   "raw_text_path": "data/study/textbook-first/raw-text/gs2_polity_class8_social_political_life_iii_ch02_understanding_secularism.txt",
   "generated_by": "local_source_only_extractive_decode",
-  "generated_at": "2026-05-26T19:54:16.024Z"
+  "generated_at": "2026-05-26T20:27:23.574Z"
 }

@@ -136,7 +136,7 @@
       "source_trace": "NCERT Class 12 Indian Society Ch2 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
-      "difficulty_level": 3,
+      "difficulty_level": 1,
       "concepts_tested": [
         "2.1 Some TheorieS and ConCepTS in demography"
       ]
@@ -150,7 +150,7 @@
         "The modern state had begun to expand its role and functions."
       ],
       "correct_answer": 0,
-      "pattern": "statement",
+      "pattern": "match",
       "source_trace": "NCERT Class 12 Indian Society Ch2 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
@@ -204,13 +204,103 @@
         "Indian Society 8 of deaths per 1,000 population – or the death rate – are made up by aggregating (or adding up) individual deaths,..."
       ],
       "correct_answer": 0,
-      "pattern": "statement",
+      "pattern": "match",
       "source_trace": "NCERT Class 12 Indian Society Ch2 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
-      "difficulty_level": 3,
+      "difficulty_level": 4,
       "concepts_tested": [
         "RATE PER 1000 POPULATION"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of The Demographic Structure, which statement is supported by the source text about DEATH RATE?",
+      "options": [
+        "Emile Durkheim’s famous study explaining the variation in suicide rates across different countries was a good example of this.",
+        "Durkheim argued that the rate of suicide (i.e., number of suicides per 100,000 population) had to be explained by social causes even though each...",
+        "Sometimes a distinction is made between formal demography and a broader field of population studies.",
+        "Formal demography is primarily concerned with the measurement and analysis of the components of population change."
+      ],
+      "correct_answer": 0,
+      "pattern": "not_type",
+      "source_trace": "NCERT Class 12 Indian Society Ch2 pg 3",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "DEATH RATE"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of The Demographic Structure, which statement is supported by the source text about 2.3 Age Structure of the IndIAn PoPulAtIon?",
+      "options": [
+        "Its focus is on quantitative analysis for which it has a highly developed mathematical methodology suitable for forecasting population growth and changes in the...",
+        "Population studies or social demography, on the other hand, enquires into the wider causes and consequences of population structures and change.",
+        "Social demographers believe that social processes and structures regulate demographic processes; like sociologists, they seek to trace the social reasons that account for population...",
+        "2.1 Some TheorieS and ConCepTS in demography The MalThusian Theory of PoPulaTion GrowTh Among the most famous theories of demography is the one associated..."
+      ],
+      "correct_answer": 0,
+      "pattern": "statement",
+      "source_trace": "NCERT Class 12 Indian Society Ch2 pg 3",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "2.3 Age Structure of the IndIAn PoPulAtIon"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of The Demographic Structure, which statement is supported by the source text about 20 Source: Based on data from relevant volumes of the Census of India (1961, 1981 & 2001)?",
+      "options": [
+        "Malthus’s theory of population growth – outlined in his Essay on Population (1798) – was a rather pessimistic one.",
+        "He argued that human populations tend to grow at a much faster rate than the rate at which the means of human subsistence (specially...",
+        "Therefore humanity is condemned to live in poverty forever because the growth of agricultural production will always be overtaken by population growth.",
+        "While population rises in geometric progression (i.e., like 2, 4, 8, 16, 32, etc.), agricultural production can only grow in arithmetic progression (i.e., like..."
+      ],
+      "correct_answer": 0,
+      "pattern": "match",
+      "source_trace": "NCERT Class 12 Indian Society Ch2 pg 3",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "20 Source: Based on data from relevant volumes of the Census of India (1961, 1981 & 2001)"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of The Demographic Structure, which statement is supported by the source text about 2.4 The deClining Sex- raTio in india?",
+      "options": [
+        "Because population growth always outstrips growth in production of subsistence resources, the only way to increase prosperity is by controlling the growth of population.",
+        "Unfortunately, humanity has only a limited ability to voluntarily reduce the growth of its population (through ‘preventive checks’ such as postponing marriage or practicing...",
+        "Malthus believed therefore that ‘positive checks’ to population growth – in the form of famines and diseases – were inevitable because they were nature’s...",
+        "But it was also challenged by theorists who claimed that economic growth could outstrip population 8"
+      ],
+      "correct_answer": 0,
+      "pattern": "not_type",
+      "source_trace": "NCERT Class 12 Indian Society Ch2 pg 3",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 5,
+      "concepts_tested": [
+        "2.4 The deClining Sex- raTio in india"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of The Demographic Structure, which statement is supported by the source text about 2.6 R uRal-uRban DiffeRences?",
+      "options": [
+        "The Demographic Structure of the Indian Society 9 growth.",
+        "However, the most effective refutation of his theory was provided by the historical experience of European countries.",
+        "The pattern of population growth began to change in the latter half of nineteenth century, and by the end of the first quarter of...",
+        "Birth rates had declined, and outbreaks of epidemic diseases were being controlled."
+      ],
+      "correct_answer": 0,
+      "pattern": "statement",
+      "source_trace": "NCERT Class 12 Indian Society Ch2 pg 4",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 5,
+      "concepts_tested": [
+        "2.6 R uRal-uRban DiffeRences"
       ]
     }
   ],
@@ -220,7 +310,7 @@
     "generation_method": "local_source_only_extractive_decode"
   },
   "content_model": "clearupsc_textbook_decoded_from_source_v1",
-  "decode_status": "textbook_decoded",
+  "decode_status": "textbook_verified",
   "source": {
     "book": "NCERT Class 12 Indian Society",
     "chapter": 2,
@@ -232,5 +322,5 @@
   "source_trace": "NCERT Class 12 Indian Society | Chapter 2: The Demographic Structure | https://ncert.nic.in/textbook/pdf/lesy102.pdf | sha256:7d9ad6210c5de3cf7a20142f699db60fbdf8c8f102fac81bfdb48367d6271c26",
   "raw_text_path": "data/study/textbook-first/raw-text/gs1_society_class12_indian_society_ch02_the_demographic_structure.txt",
   "generated_by": "local_source_only_extractive_decode",
-  "generated_at": "2026-05-26T19:53:47.879Z"
+  "generated_at": "2026-05-26T20:26:54.062Z"
 }

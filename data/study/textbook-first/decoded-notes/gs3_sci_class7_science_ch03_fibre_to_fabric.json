@@ -115,7 +115,7 @@
       "source_trace": "NCERT Class 7 Science Ch3 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
-      "difficulty_level": 3,
+      "difficulty_level": 1,
       "concepts_tested": [
         "3.1 H OT AND COLD"
       ]
@@ -129,7 +129,7 @@
         "Some of them are hot We see that some objects are cold while some are hot."
       ],
       "correct_answer": 0,
-      "pattern": "statement",
+      "pattern": "match",
       "source_trace": "NCERT Class 7 Science Ch3 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
@@ -183,13 +183,103 @@
         "Boojho’s confusion shows that we cannot always rely on our sense of touch to decide whether an object is hot or cold."
       ],
       "correct_answer": 0,
+      "pattern": "match",
+      "source_trace": "NCERT Class 7 Science Ch3 pg 1",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "HEAT 27"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Fibre to Fabric, which statement is supported by the source text about CAUTION?",
+      "options": [
+        "A reliable measure of the hotness of an object is its temperature.",
+        "Temperature is measured by a device called thermometer.",
+        "3.2 M EASURING TEMPERATURE Have you seen a thermometer?",
+        "Recall that when you or someone else in your family had fever, the temperature was measured by a thermometer."
+      ],
+      "correct_answer": 0,
+      "pattern": "not_type",
+      "source_trace": "NCERT Class 7 Science Ch3 pg 1",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "CAUTION"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Fibre to Fabric, which statement is supported by the source text about 3.3 LABORATORY THERMOMETER?",
+      "options": [
+        "The thermometer that measures our body temperature is called a clinical thermometer.",
+        "3.2 A clinical thermom- eter A clinical thermometer reads temperature from 35°C to 42°C.",
+        "First, note the temperature difference indicated between the two bigger marks.",
+        "Now dip your left hand in container A and the right hand in container B."
+      ],
+      "correct_answer": 0,
       "pattern": "statement",
       "source_trace": "NCERT Class 7 Science Ch3 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
-      "difficulty_level": 3,
+      "difficulty_level": 4,
       "concepts_tested": [
-        "HEAT 27"
+        "3.3 LABORATORY THERMOMETER"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Fibre to Fabric, which statement is supported by the source text about SCIENCE 28?",
+      "options": [
+        "After keeping the hands in the two containers for 2–3 minutes, put both the hands simultaneously in container C (Fig.",
+        "Paheli told him that India has adopted the celsius scale and we should read that scale.",
+        "The other scale with the range 94–108 degrees is the Fahrenheit scale (°F).",
+        "Boojho says,“My left hand tells me that the water in mug C is hot and the right hand tells me that the same water..."
+      ],
+      "correct_answer": 0,
+      "pattern": "match",
+      "source_trace": "NCERT Class 7 Science Ch3 pg 1",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "SCIENCE 28"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Fibre to Fabric, which statement is supported by the source text about HEAT 29?",
+      "options": [
+        "SCIENCE 26 Precautions to be observed while using a clinical thermometer  Thermometer should be washed before and after use, preferably with an antiseptic...",
+        "If it hits against some hard object, it can break.  Don’t hold the thermometer by the bulb while reading it.",
+        "Suppose the bigger marks read one degree and there are five divisions between them.",
+        "Wash the thermometer, preferably with an antiseptic solution."
+      ],
+      "correct_answer": 0,
+      "pattern": "not_type",
+      "source_trace": "NCERT Class 7 Science Ch3 pg 2",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 5,
+      "concepts_tested": [
+        "HEAT 29"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Fibre to Fabric, which statement is supported by the source text about 3.4 T RANSFER OF HEAT?",
+      "options": [
+        "3.3 Correct method of reading a clinical thermometer under your tongue.",
+        "After one minute, take the thermometer out and note the reading.",
+        "The temperature should always be stated with its unit, °C.",
+        "Let us try to assure Paheli that there is nothing wrong with her."
+      ],
+      "correct_answer": 0,
+      "pattern": "statement",
+      "source_trace": "NCERT Class 7 Science Ch3 pg 2",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 5,
+      "concepts_tested": [
+        "3.4 T RANSFER OF HEAT"
       ]
     }
   ],
@@ -199,7 +289,7 @@
     "generation_method": "local_source_only_extractive_decode"
   },
   "content_model": "clearupsc_textbook_decoded_from_source_v1",
-  "decode_status": "textbook_decoded",
+  "decode_status": "textbook_verified",
   "source": {
     "book": "NCERT Class 7 Science",
     "chapter": 3,
@@ -211,5 +301,5 @@
   "source_trace": "NCERT Class 7 Science | Chapter 3: Fibre to Fabric | https://ncert.nic.in/textbook/pdf/gesc103.pdf | sha256:ec00a6d751325b68bad3c5c1f19915298e61747728cf43cc1b290fe25081d2ba",
   "raw_text_path": "data/study/textbook-first/raw-text/gs3_sci_class7_science_ch03_fibre_to_fabric.txt",
   "generated_by": "local_source_only_extractive_decode",
-  "generated_at": "2026-05-26T19:54:34.624Z"
+  "generated_at": "2026-05-26T20:27:43.137Z"
 }

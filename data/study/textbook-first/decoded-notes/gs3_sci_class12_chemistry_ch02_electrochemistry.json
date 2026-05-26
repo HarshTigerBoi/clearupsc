@@ -120,7 +120,7 @@
       "source_trace": "NCERT Class 12 Chemistry Ch2 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
-      "difficulty_level": 3,
+      "difficulty_level": 1,
       "concepts_tested": [
         "32 Chemistry"
       ]
@@ -134,7 +134,7 @@
         "Electrochemistry, is therefore, a very vast and interdisciplinary subject."
       ],
       "correct_answer": 0,
-      "pattern": "statement",
+      "pattern": "match",
       "source_trace": "NCERT Class 12 Chemistry Ch2 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
@@ -188,13 +188,103 @@
         "Any further increase in the external potential again starts the reaction but in the opposite direction [Fig."
       ],
       "correct_answer": 0,
+      "pattern": "match",
+      "source_trace": "NCERT Class 12 Chemistry Ch2 pg 1",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "35 Electrochemistry"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Electrochemistry, which statement is supported by the source text about 36 Chemistry?",
+      "options": [
+        "It now functions as an electrolytic cell, a device for using electrical energy to carry non-spontaneous chemical reactions.",
+        "Both types of cells are quite important and we shall study some of their salient features in the following pages. * Strictly speaking activity...",
+        "2.1 2.1 2.1 2.1 2.1 Electrochemical Electrochemical Electrochemical Electrochemical Electrochemical Cells Cells Cells Cells Cells Fig.",
+        "2.1: Daniell cell having electrodes of zinc and copper dipping in the solutions of their respective salts. salt bridge Zn Cu anode cathode current..."
+      ],
+      "correct_answer": 0,
+      "pattern": "not_type",
+      "source_trace": "NCERT Class 12 Chemistry Ch2 pg 1",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "36 Chemistry"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Electrochemistry, which statement is supported by the source text about 2.1 How would you determine the standard electrode potential of the system?",
+      "options": [
+        "(ii) Zn dissolves at anode and copper deposits at cathode.",
+        "When Eext > 1.1 V (i) Electrons flow from Cu to Zn and current flows from Zn to Cu.",
+        "(ii) Zinc is deposited at the zinc electrode and copper dissolves at copper electrode.",
+        "33 Electrochemistry As mentioned earlier a galvanic cell is an electrochemical cell that converts the chemical energy of a spontaneous redox reaction into electrical..."
+      ],
+      "correct_answer": 0,
       "pattern": "statement",
       "source_trace": "NCERT Class 12 Chemistry Ch2 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
-      "difficulty_level": 3,
+      "difficulty_level": 4,
       "concepts_tested": [
-        "35 Electrochemistry"
+        "2.1 How would you determine the standard electrode potential of the system"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Electrochemistry, which statement is supported by the source text about 2.2 Can you store copper sulphate solutions in a zinc pot??",
+      "options": [
+        "In this device the Gibbs energy of the spontaneous redox reaction is converted into electrical work which may be used for running a motor...",
+        "Daniell cell discussed earlier is one such cell in which the following redox reaction occurs.",
+        "Zn(s) + Cu2+(aq) ® Zn2+ (aq) + Cu(s) This reaction is a combination of two half reactions whose addition gives the overall cell reaction:...",
+        "The reduction half reaction occurs on the copper electrode while the oxidation half reaction occurs on the zinc electrode."
+      ],
+      "correct_answer": 0,
+      "pattern": "match",
+      "source_trace": "NCERT Class 12 Chemistry Ch2 pg 2",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "2.2 Can you store copper sulphate solutions in a zinc pot?"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Electrochemistry, which statement is supported by the source text about 2.3 Consult the table of standard electrode potentials and suggest three?",
+      "options": [
+        "These two portions of the cell are also called half-cells or redox couples.",
+        "The copper electrode may be called the reduction half cell and the zinc electrode, the oxidation half-cell.",
+        "We can construct innumerable number of galvanic cells on the pattern of Daniell cell by taking combinations of different half-cells.",
+        "Each half- cell consists of a metallic electrode dipped into an electrolyte."
+      ],
+      "correct_answer": 0,
+      "pattern": "not_type",
+      "source_trace": "NCERT Class 12 Chemistry Ch2 pg 2",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 5,
+      "concepts_tested": [
+        "2.3 Consult the table of standard electrode potentials and suggest three"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Electrochemistry, which statement is supported by the source text about M / M M / M?",
+      "options": [
+        "The two half-cells are connected by a metallic wire through a voltmeter and a switch externally.",
+        "The electrolytes of the two half-cells are connected internally through a salt bridge as shown in Fig.",
+        "Sometimes, both the electrodes dip in the same electrolyte solution and in such cases we do not require a salt bridge.",
+        "At each electrode-electrolyte interface there is a tendency of metal ions from the solution to deposit on the metal electrode trying to make it..."
+      ],
+      "correct_answer": 0,
+      "pattern": "statement",
+      "source_trace": "NCERT Class 12 Chemistry Ch2 pg 2",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 5,
+      "concepts_tested": [
+        "M / M M / M"
       ]
     }
   ],
@@ -204,7 +294,7 @@
     "generation_method": "local_source_only_extractive_decode"
   },
   "content_model": "clearupsc_textbook_decoded_from_source_v1",
-  "decode_status": "textbook_decoded",
+  "decode_status": "textbook_verified",
   "source": {
     "book": "NCERT Class 12 Chemistry",
     "chapter": 2,
@@ -216,5 +306,5 @@
   "source_trace": "NCERT Class 12 Chemistry | Chapter 2: Electrochemistry | https://ncert.nic.in/textbook/pdf/lech102.pdf | sha256:ca0f380fbfe6a0a4363251a646aafe451fe99c5fc8dba1aa9317438d2bc8705a",
   "raw_text_path": "data/study/textbook-first/raw-text/gs3_sci_class12_chemistry_ch02_electrochemistry.txt",
   "generated_by": "local_source_only_extractive_decode",
-  "generated_at": "2026-05-26T19:54:31.126Z"
+  "generated_at": "2026-05-26T20:27:39.476Z"
 }

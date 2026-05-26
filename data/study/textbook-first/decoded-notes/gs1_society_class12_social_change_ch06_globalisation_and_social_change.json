@@ -136,7 +136,7 @@
       "source_trace": "NCERT Class 12 Social Change and Development in India Ch6 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
-      "difficulty_level": 3,
+      "difficulty_level": 1,
       "concepts_tested": [
         "6.1 Are GlobAl InterconnectIons"
       ]
@@ -150,7 +150,7 @@
         "Note down references to the term ‘globalisation’ and ‘global’ in different kinds of television programmes."
       ],
       "correct_answer": 0,
-      "pattern": "statement",
+      "pattern": "match",
       "source_trace": "NCERT Class 12 Social Change and Development in India Ch6 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
@@ -204,13 +204,103 @@
         "How has it affected the possibilities of big Indian corporations becoming transnational corporations?"
       ],
       "correct_answer": 0,
+      "pattern": "match",
+      "source_trace": "NCERT Class 12 Social Change and Development in India Ch6 pg 2",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "Social"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Globalisation and Social Change, which statement is supported by the source text about Change?",
+      "options": [
+        "What does it mean to the neighbourhood grocer if the retail sector is opened up to big transnational companies?",
+        "Why are there so many shopping malls in our cities and towns today?",
+        "How has it changed the way young people spend their leisure time?",
+        "These are just few examples of the wide ranging and different kinds of changes that globalisation is bringing about."
+      ],
+      "correct_answer": 0,
+      "pattern": "not_type",
+      "source_trace": "NCERT Class 12 Social Change and Development in India Ch6 pg 2",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "Change"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Globalisation and Social Change, which statement is supported by the source text about Recall the?",
+      "options": [
+        "You will find many more instances whereby global developments are affecting the lives of people.",
+        "And thereby affecting the way sociology has to study society.",
+        "With the opening up of the market and removal of restrictions to the import of many products, we have many more products from different...",
+        "Since April 1, 2001, all types of quantitative restrictions (QR) on imports were withdrawn."
+      ],
+      "correct_answer": 0,
       "pattern": "statement",
       "source_trace": "NCERT Class 12 Social Change and Development in India Ch6 pg 2",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
-      "difficulty_level": 3,
+      "difficulty_level": 4,
       "concepts_tested": [
-        "Social"
+        "Recall the"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Globalisation and Social Change, which statement is supported by the source text about Vision Mumbai and the?",
+      "options": [
+        "It is no surprise now to find a Chinese pear, an Australian apple vying for attention in the local fruit stall.",
+        "The neighbourhood store also has Australian orange juice and ready to fry chips in frozen packets.",
+        "What we eat and drink at home with our family and friends slowly changes.",
+        "The same set of policy changes affects consumers and producers differently."
+      ],
+      "correct_answer": 0,
+      "pattern": "match",
+      "source_trace": "NCERT Class 12 Social Change and Development in India Ch6 pg 2",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "Vision Mumbai and the"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Globalisation and Social Change, which statement is supported by the source text about What Sociology?",
+      "options": [
+        "What may mean greater choices for the urban, affluent consumer may mean a crisis of livelihood for a farmer.",
+        "These changes are personal because they affect individuals’ lives and lifestyles.",
+        "They are obviously also linked to public policies adopted by the government and its agreement with the World Trade Organisation (WTO).",
+        "Likewise macro policy changes have meant that instead of one television channel we have literally scores today."
+      ],
+      "correct_answer": 0,
+      "pattern": "not_type",
+      "source_trace": "NCERT Class 12 Social Change and Development in India Ch6 pg 2",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 5,
+      "concepts_tested": [
+        "What Sociology"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Globalisation and Social Change, which statement is supported by the source text about With the?",
+      "options": [
+        "The dramatic changes in the media are perhaps the most visible effect of globalisation.",
+        "We will be discussing this in greater detail in the next chapter.",
+        "These are just few random examples but they may help you to appreciate the close interconnection Globalisation and Social Change 73",
+        "that exists between your personal lives and the apparently remote policies of globalisation."
+      ],
+      "correct_answer": 0,
+      "pattern": "statement",
+      "source_trace": "NCERT Class 12 Social Change and Development in India Ch6 pg 2",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 5,
+      "concepts_tested": [
+        "With the"
       ]
     }
   ],
@@ -220,7 +310,7 @@
     "generation_method": "local_source_only_extractive_decode"
   },
   "content_model": "clearupsc_textbook_decoded_from_source_v1",
-  "decode_status": "textbook_decoded",
+  "decode_status": "textbook_verified",
   "source": {
     "book": "NCERT Class 12 Social Change and Development in India",
     "chapter": 6,
@@ -232,5 +322,5 @@
   "source_trace": "NCERT Class 12 Social Change and Development in India | Chapter 6: Globalisation and Social Change | https://ncert.nic.in/textbook/pdf/lesy206.pdf | sha256:59fcba40ef5562562c587abaf3e1d26695bf971d6214a206ac51781dd6ec87b4",
   "raw_text_path": "data/study/textbook-first/raw-text/gs1_society_class12_social_change_ch06_globalisation_and_social_change.txt",
   "generated_by": "local_source_only_extractive_decode",
-  "generated_at": "2026-05-26T19:53:59.899Z"
+  "generated_at": "2026-05-26T20:27:06.682Z"
 }

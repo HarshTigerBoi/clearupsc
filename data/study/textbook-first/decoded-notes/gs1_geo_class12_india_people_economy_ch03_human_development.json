@@ -136,7 +136,7 @@
       "source_trace": "NCERT Class 12 India People and Economy Ch3 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
-      "difficulty_level": 3,
+      "difficulty_level": 1,
       "concepts_tested": [
         "LAND RESOURCES"
       ]
@@ -150,7 +150,7 @@
         "The difference between the two concepts are that while the former changes somewhat depending on the estimates of the land revenue records, the latter..."
       ],
       "correct_answer": 0,
-      "pattern": "statement",
+      "pattern": "match",
       "source_trace": "NCERT Class 12 India People and Economy Ch3 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
@@ -204,13 +204,103 @@
         "(v) Area under Miscellaneous Tree Crops and Groves (Not included in Net sown Area) : The land under orchards and fruit trees are included..."
       ],
       "correct_answer": 0,
+      "pattern": "match",
+      "source_trace": "NCERT Class 12 India People and Economy Ch3 pg 1",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "3HU\u0003FHQW\u0003RI\u0003UHSRUWLQJ\u0003DUHD"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Human Development, which statement is supported by the source text about )RUHVWV $UHD\u0003XQGHU?",
+      "options": [
+        "(vi) Culturable Wasteland : Any land which is left fallow (uncultivated) for more than five years is included in this category.",
+        "It can be brought under cultivation after improving it through reclamation practices.",
+        "(vii) Current Fallow:This is the land which is left without cultivation for one or less than one agricultural year.",
+        "Fallowing is a cultural practice adopted for giving the land rest."
+      ],
+      "correct_answer": 0,
+      "pattern": "not_type",
+      "source_trace": "NCERT Class 12 India People and Economy Ch3 pg 1",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        ")RUHVWV $UHD\u0003XQGHU"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Human Development, which statement is supported by the source text about DJULFXOWXUDO?",
+      "options": [
+        "The land recoups the lost fertility through natural processes.",
+        "(viii) Fallow other than Current Fallow : This is also a cultivable land which is left uncultivated for more than a year but less...",
+        "If the land is left uncultivated for more than five years, it would be categorised as culturable wasteland.",
+        "(ix) Net Area Sown: The physical extent of land on which crops are sown and harvested is known as net sown area."
+      ],
+      "correct_answer": 0,
       "pattern": "statement",
       "source_trace": "NCERT Class 12 India People and Economy Ch3 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
-      "difficulty_level": 3,
+      "difficulty_level": 4,
       "concepts_tested": [
-        "3HU\u0003FHQW\u0003RI\u0003UHSRUWLQJ\u0003DUHD"
+        "DJULFXOWXUDO"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Human Development, which statement is supported by the source text about %DUUHQ\u0003DQG?",
+      "options": [
+        "Land-use Changes in India Land-use Changes in India Land-use Changes in India Land-use Changes in India Land-use Changes in India Land-use in a region,...",
+        "However, while economic activities change over time, land, like many other natural resources, is fixed in terms of its area.",
+        "At this stage, one needs to appreciate three types of changes that an economy undergoes, which affect land-use.",
+        "(i) The size of the economy (measured in terms of value for all the goods and services produced in the economy) grows over time..."
+      ],
+      "correct_answer": 0,
+      "pattern": "match",
+      "source_trace": "NCERT Class 12 India People and Economy Ch3 pg 1",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "%DUUHQ\u0003DQG"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Human Development, which statement is supported by the source text about XQFXOWXUDEOH?",
+      "options": [
+        "As a result, the pressure on land will increase with time and marginal lands would come under use.",
+        "(ii) Secondly, the composition of the economy would undergo a change over time.",
+        "In other words, the secondary and the tertiary sectors usually grow much faster than the primary sector, specifically the agricultural sector.",
+        "This type of change is common in developing countries, like India."
+      ],
+      "correct_answer": 0,
+      "pattern": "not_type",
+      "source_trace": "NCERT Class 12 India People and Economy Ch3 pg 1",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 5,
+      "concepts_tested": [
+        "XQFXOWXUDEOH"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Human Development, which statement is supported by the source text about ZDVWH\u0003?",
+      "options": [
+        "This process would result in a gradual shift of land from agricultural uses to non-agricultural uses.",
+        "You would observe that such changes are sharp around large urban areas.",
+        "The agricultural land is being used for building purposes.",
+        "(iii) Thirdly, though the contribution of the agricultural activities reduces over time, the pressure on land for agricultural activities does not decline."
+      ],
+      "correct_answer": 0,
+      "pattern": "statement",
+      "source_trace": "NCERT Class 12 India People and Economy Ch3 pg 1",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 5,
+      "concepts_tested": [
+        "ZDVWH\u0003"
       ]
     }
   ],
@@ -220,7 +310,7 @@
     "generation_method": "local_source_only_extractive_decode"
   },
   "content_model": "clearupsc_textbook_decoded_from_source_v1",
-  "decode_status": "textbook_decoded",
+  "decode_status": "textbook_verified",
   "source": {
     "book": "NCERT Class 12 India People and Economy",
     "chapter": 3,
@@ -232,5 +322,5 @@
   "source_trace": "NCERT Class 12 India People and Economy | Chapter 3: Human Development | https://ncert.nic.in/textbook/pdf/legy203.pdf | sha256:c02dd7404aa2ee484400299de1327c455b7499c93ea8b434cc4044eb9046cca4",
   "raw_text_path": "data/study/textbook-first/raw-text/gs1_geo_class12_india_people_economy_ch03_human_development.txt",
   "generated_by": "local_source_only_extractive_decode",
-  "generated_at": "2026-05-26T19:53:41.093Z"
+  "generated_at": "2026-05-26T20:26:47.250Z"
 }

@@ -136,7 +136,7 @@
       "source_trace": "NCERT Class 8 Resources and Development Ch4 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
-      "difficulty_level": 3,
+      "difficulty_level": 1,
       "concepts_tested": [
         "26 January 1950, the day India became a"
       ]
@@ -150,7 +150,7 @@
         "The reason why the independence of the judiciary is key to its functioning is a complex idea but something that students need to understand."
       ],
       "correct_answer": 0,
-      "pattern": "statement",
+      "pattern": "match",
       "source_trace": "NCERT Class 8 Resources and Development Ch4 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
@@ -204,13 +204,103 @@
         "Like its predecessor, the Federal Court of India (1937–1949), it was earlier located in the Chamber of Princes in the Parliament House."
       ],
       "correct_answer": 0,
-      "pattern": "statement",
+      "pattern": "match",
       "source_trace": "NCERT Class 8 Resources and Development Ch4 pg 2",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
-      "difficulty_level": 3,
+      "difficulty_level": 4,
       "concepts_tested": [
         "Social and Political Life"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Agriculture, which statement is supported by the source text about Unit Three?",
+      "options": [
+        "It moved to its present building on Mathura Road in New Delhi in 1958.",
+        "Courts take decisions on a very large number of issues.",
+        "They can decide that no teacher can beat a student, or about the sharing of river waters between states, or they can punish people...",
+        "Broadly speaking, the work that the judiciary does can be divided into the following: Dispute Resolution: The judicial system provides a mechanism for resolving..."
+      ],
+      "correct_answer": 0,
+      "pattern": "not_type",
+      "source_trace": "NCERT Class 8 Resources and Development Ch4 pg 3",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "Unit Three"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Agriculture, which statement is supported by the source text about Note Students?",
+      "options": [
+        "Judicial Review: As the final interpreter of the Constitution, the judiciary also has the power to strike down particular laws passed by the Parliament...",
+        "Upholding the Law and Enforcing Fundamental Rights: Every citizen of India can approach the Supreme Court or the High Court if they believe that...",
+        "Chapter 4: Judiciary Supreme Court of India https://www.sci.gov.in 2024-25",
+        "Social and Political Life 50 What is an Independent Judiciary?"
+      ],
+      "correct_answer": 0,
+      "pattern": "statement",
+      "source_trace": "NCERT Class 8 Resources and Development Ch4 pg 3",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "Note Students"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Agriculture, which statement is supported by the source text about Public Interest Litigation?",
+      "options": [
+        "Imagine a situation in which a powerful politician has encroached on land belonging to your family.",
+        "Within this judicial system, the politician has the power to appoint and dismiss a judge from his office.",
+        "When you take this case to court, the judge is clearly partial to the politician.",
+        "The control that the politician holds over the judge does not allow for the judge to take an independent decision."
+      ],
+      "correct_answer": 0,
+      "pattern": "match",
+      "source_trace": "NCERT Class 8 Resources and Development Ch4 pg 4",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "Public Interest Litigation"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Agriculture, which statement is supported by the source text about Fundamental Rights?",
+      "options": [
+        "This lack of independence would force the judge to make all judgments in favour of the politician.",
+        "Although we often hear of rich and powerful people in India trying to influence the judicial process, the Indian Constitution protects against this kind...",
+        "One aspect of this independence is the ‘separation of powers’.",
+        "This, as you read in Chapter 1, is a key feature of the Constitution."
+      ],
+      "correct_answer": 0,
+      "pattern": "not_type",
+      "source_trace": "NCERT Class 8 Resources and Development Ch4 pg 4",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 5,
+      "concepts_tested": [
+        "Fundamental Rights"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Agriculture, which statement is supported by the source text about Supreme Court in New Delhi?",
+      "options": [
+        "What this means here is that other branches of government – the legislature and the executive – cannot interfere in the work of the...",
+        "The courts are not under the government and do not act on their behalf.",
+        "For the above separation to work well, it is also crucial that all judges in the High Court as well as the Supreme Court...",
+        "Once appointed to this office, it is also very difficult to remove a judge."
+      ],
+      "correct_answer": 0,
+      "pattern": "statement",
+      "source_trace": "NCERT Class 8 Resources and Development Ch4 pg 4",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 5,
+      "concepts_tested": [
+        "Supreme Court in New Delhi"
       ]
     }
   ],
@@ -220,7 +310,7 @@
     "generation_method": "local_source_only_extractive_decode"
   },
   "content_model": "clearupsc_textbook_decoded_from_source_v1",
-  "decode_status": "textbook_decoded",
+  "decode_status": "textbook_verified",
   "source": {
     "book": "NCERT Class 8 Resources and Development",
     "chapter": 4,
@@ -232,5 +322,5 @@
   "source_trace": "NCERT Class 8 Resources and Development | Chapter 4: Agriculture | https://ncert.nic.in/textbook/pdf/hess304.pdf | sha256:1680fd2bc82dec9bb7fab6df5ab3fd53daf5f4df51b7a1fcfe2512afae1a8c2b",
   "raw_text_path": "data/study/textbook-first/raw-text/gs1_geo_class8_resources_development_ch04_agriculture.txt",
   "generated_by": "local_source_only_extractive_decode",
-  "generated_at": "2026-05-26T19:54:08.219Z"
+  "generated_at": "2026-05-26T20:27:15.588Z"
 }

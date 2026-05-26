@@ -136,7 +136,7 @@
       "source_trace": "NCERT Class 12 India People and Economy Ch7 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
-      "difficulty_level": 3,
+      "difficulty_level": 1,
       "concepts_tested": [
         "TRANSPORT AND"
       ]
@@ -150,7 +150,7 @@
         "The use of transport and communication depends upon our need to move things from place of their availability to the place of their use."
       ],
       "correct_answer": 0,
-      "pattern": "statement",
+      "pattern": "match",
       "source_trace": "NCERT Class 12 India People and Economy Ch7 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
@@ -204,13 +204,103 @@
         "About 85 per cent of passenger and 70 per cent of freight traffic are carried by roads every year."
       ],
       "correct_answer": 0,
+      "pattern": "match",
+      "source_trace": "NCERT Class 12 India People and Economy Ch7 pg 1",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "Mineral and Energy Resources"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Mineral and Energy Resources, which statement is supported by the source text about Mineral?",
+      "options": [
+        "Road transport is relatively suitable for shorter distance travel.",
+        "Sher Shah Suri built the Shahi (Royal) road to strengthen and consolidate his empire from the Indus Valley to the Sonar Valley in Bengal.",
+        "This road was renamed the Grand Trunk (GT) road during the British period, connecting Calcutta and Peshawar.",
+        "National Highways The main roads which are constructed and maintained by the Central Government are known as the National Highways."
+      ],
+      "correct_answer": 0,
+      "pattern": "not_type",
+      "source_trace": "NCERT Class 12 India People and Economy Ch7 pg 1",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "Mineral"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Mineral and Energy Resources, which statement is supported by the source text about Energy?",
+      "options": [
+        "These roads are meant for inter -state transport and movement of defence men and material in strategic areas.",
+        "These also connect the state capitals, major cities, important ports, railway junctions, etc.",
+        "The length of the National Highways has increased from 19,700 km in 1951 to 1,36,440 km in 2020.",
+        "The National Highways constitute only about 2 per cent of the total road length but carry 40 per cent of the road traffic."
+      ],
+      "correct_answer": 0,
       "pattern": "statement",
       "source_trace": "NCERT Class 12 India People and Economy Ch7 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
-      "difficulty_level": 3,
+      "difficulty_level": 4,
       "concepts_tested": [
-        "Mineral and Energy Resources"
+        "Energy"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Mineral and Energy Resources, which statement is supported by the source text about Resources?",
+      "options": [
+        "The National Highways Authority of India (NHAI) was operationalised in 1995.",
+        "It is an autonomous body under the Ministry of Surface Transport.",
+        "It is entrusted with the responsibility of development, maintenance and operation of National Highways.",
+        "This is also the apex body to improve the quality of the roads designated as National Highways."
+      ],
+      "correct_answer": 0,
+      "pattern": "match",
+      "source_trace": "NCERT Class 12 India People and Economy Ch7 pg 1",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "Resources"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Mineral and Energy Resources, which statement is supported by the source text about Unit IV Unit IV Unit IV?",
+      "options": [
+        "A view of traffic flow in Delhi Rain-soaked : Nomads go about their routine during an early morning downpour in Srinagar.",
+        "Traffic on the 300-km Srinagar-Jammu and 434- km Srinagar-Leh National Highways is suspended as upper reaches of J&K saw heavy snowfall while rain lashed...",
+        "7.1 Collect information about National Highway number (old and new) from the website morth.nic.in/national-highway-details.",
+        "Road transport in modern sense was very limited in India before World War-II."
+      ],
+      "correct_answer": 0,
+      "pattern": "not_type",
+      "source_trace": "NCERT Class 12 India People and Economy Ch7 pg 1",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 5,
+      "concepts_tested": [
+        "Unit IV Unit IV Unit IV"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Mineral and Energy Resources, which statement is supported by the source text about Unit IV Unit IV Chapter?",
+      "options": [
+        "The first serious attempt was made in 1943 when ‘Nagpur Plan’ was drawn.",
+        "This plan could not be implemented due to lack of coordination among",
+        "Other Roads 5902539 Total 6215797 Table 7.1 : India Road Network 2020 National Highways Development Projects NHAI has taken up some major projects in...",
+        "With the construction of Golden Quadrilateral, the time, distance and cost of movement among the mega cities of India will be considerably minimised."
+      ],
+      "correct_answer": 0,
+      "pattern": "statement",
+      "source_trace": "NCERT Class 12 India People and Economy Ch7 pg 1",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 5,
+      "concepts_tested": [
+        "Unit IV Unit IV Chapter"
       ]
     }
   ],
@@ -220,7 +310,7 @@
     "generation_method": "local_source_only_extractive_decode"
   },
   "content_model": "clearupsc_textbook_decoded_from_source_v1",
-  "decode_status": "textbook_decoded",
+  "decode_status": "textbook_verified",
   "source": {
     "book": "NCERT Class 12 India People and Economy",
     "chapter": 7,
@@ -232,5 +322,5 @@
   "source_trace": "NCERT Class 12 India People and Economy | Chapter 7: Mineral and Energy Resources | https://ncert.nic.in/textbook/pdf/legy207.pdf | sha256:e75b1cf08e9872e0a742125331b52c167df5c4860d4c5e824e3b645596b9f089",
   "raw_text_path": "data/study/textbook-first/raw-text/gs1_geo_class12_india_people_economy_ch07_mineral_and_energy_resources.txt",
   "generated_by": "local_source_only_extractive_decode",
-  "generated_at": "2026-05-26T19:53:42.099Z"
+  "generated_at": "2026-05-26T20:26:48.243Z"
 }

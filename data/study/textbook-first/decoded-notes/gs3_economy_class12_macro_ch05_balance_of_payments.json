@@ -136,7 +136,7 @@
       "source_trace": "NCERT Class 12 Macro Ch5 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
-      "difficulty_level": 3,
+      "difficulty_level": 1,
       "concepts_tested": [
         "5.1 GOVERNMENT BUDGET — MEANING AND ITS COMPONENTS"
       ]
@@ -150,7 +150,7 @@
         "It specifically deals with the meaning of different kinds of budget deficits, their implications and the measures to contain them."
       ],
       "correct_answer": 0,
-      "pattern": "statement",
+      "pattern": "match",
       "source_trace": "NCERT Class 12 Macro Ch5 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
@@ -204,13 +204,103 @@
         "Examples of such goods are national defence, roads, government administration etc. which are referred to as public goods."
       ],
       "correct_answer": 0,
+      "pattern": "match",
+      "source_trace": "NCERT Class 12 Macro Ch5 pg 1",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "5.2.1 Measures of Government Deficit"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Balance of Payments, which statement is supported by the source text about C = C + cYD = C + c(Y – T + TR?",
+      "options": [
+        "To understand why public goods need to be provided by the government, we must understand the difference between private goods such as clothes, cars,...",
+        "One, the benefits of public goods are available to all and are not only restricted to one particular consumer.",
+        "For example, if a person eats a chocolate or wears a shirt, these will not be available to others.",
+        "It is said that this person’s consumption stands in rival relationship to the consumption of others."
+      ],
+      "correct_answer": 0,
+      "pattern": "not_type",
+      "source_trace": "NCERT Class 12 Macro Ch5 pg 1",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "C = C + cYD = C + c(Y – T + TR"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Balance of Payments, which statement is supported by the source text about AD = C + c(Y – T + TR?",
+      "options": [
+        "However, if we consider a public park or measures to reduce air pollution, the benefits will be available to all.",
+        "One person’s consumption of a good does not reduce the amount available for consumption for others and so several people can enjoy the benefits,...",
+        "Two, in case of private goods anyone who does not pay for the goods can be excluded from enjoying its benefits.",
+        "If you do not buy a ticket, you will not be allowed to watch a movie at a local cinema hall."
+      ],
+      "correct_answer": 0,
       "pattern": "statement",
       "source_trace": "NCERT Class 12 Macro Ch5 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
-      "difficulty_level": 3,
+      "difficulty_level": 4,
       "concepts_tested": [
-        "5.2.1 Measures of Government Deficit"
+        "AD = C + c(Y – T + TR"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Balance of Payments, which statement is supported by the source text about Y = C + c (Y – T + TR?",
+      "options": [
+        "However, in case of public goods, there is no feasible way of excluding anyone from enjoying the benefits of the good.",
+        "Even if some users do not pay, it is difficult and sometimes impossible to collect fees for the public good.",
+        "Consumers will not voluntarily pay for what they can get for free and for which there is no exclusive title to the property being...",
+        "The link between the producer and consumer which occurs through the payment process is broken and the government must step in to provide for..."
+      ],
+      "correct_answer": 0,
+      "pattern": "match",
+      "source_trace": "NCERT Class 12 Macro Ch5 pg 1",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "Y = C + c (Y – T + TR"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Balance of Payments, which statement is supported by the source text about Y Y C cT cTR I G G?",
+      "options": [
+        "There is, however, a difference between public provision and public production.",
+        "Public provision means that they are financed through the budget and can be used without any direct payment.",
+        "Public goods may be produced by the government or the private sector.",
+        "When goods are produced directly by the government it is called public production."
+      ],
+      "correct_answer": 0,
+      "pattern": "not_type",
+      "source_trace": "NCERT Class 12 Macro Ch5 pg 1",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 5,
+      "concepts_tested": [
+        "Y Y C cT cTR I G G"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Balance of Payments, which statement is supported by the source text about E' Y = AD?",
+      "options": [
+        "Redistribution Function of Government Budget From chapter two we know that the total national income of the country goes to either the private sector,...",
+        "Out of private income, what finally reaches the households is known as personal income and the amount that can be spent is the personal...",
+        "The government sector affects the personal disposable income of households by making transfers and collecting taxes.",
+        "It is through this that the government can change the distribution of income and bring about a distribution that is considered ‘fair’ by society."
+      ],
+      "correct_answer": 0,
+      "pattern": "statement",
+      "source_trace": "NCERT Class 12 Macro Ch5 pg 1",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 5,
+      "concepts_tested": [
+        "E' Y = AD"
       ]
     }
   ],
@@ -220,7 +310,7 @@
     "generation_method": "local_source_only_extractive_decode"
   },
   "content_model": "clearupsc_textbook_decoded_from_source_v1",
-  "decode_status": "textbook_decoded",
+  "decode_status": "textbook_verified",
   "source": {
     "book": "NCERT Class 12 Introductory Macroeconomics",
     "chapter": 5,
@@ -232,5 +322,5 @@
   "source_trace": "NCERT Class 12 Introductory Macroeconomics | Chapter 5: Balance of Payments | https://ncert.nic.in/textbook/pdf/leec105.pdf | sha256:2fdd11fd2063ee4d35e065773686b74714a0d9ef636a54d4440326df82146149",
   "raw_text_path": "data/study/textbook-first/raw-text/gs3_economy_class12_macro_ch05_balance_of_payments.txt",
   "generated_by": "local_source_only_extractive_decode",
-  "generated_at": "2026-05-26T19:53:37.160Z"
+  "generated_at": "2026-05-26T20:26:43.200Z"
 }

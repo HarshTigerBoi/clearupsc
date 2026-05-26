@@ -115,7 +115,7 @@
       "source_trace": "NCERT Class 11 Phys Geo Ch3 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
-      "difficulty_level": 3,
+      "difficulty_level": 1,
       "concepts_tested": [
         "INTERIOR OF THE EARTH"
       ]
@@ -129,7 +129,7 @@
         "A proper understanding of the physiographic character of a region remains incomplete if the effects of endogenic processes are ignored."
       ],
       "correct_answer": 0,
-      "pattern": "statement",
+      "pattern": "match",
       "source_trace": "NCERT Class 11 Phys Geo Ch3 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
@@ -183,13 +183,103 @@
         "Going beyond this depth is not possible as it is very hot at this depth."
       ],
       "correct_answer": 0,
+      "pattern": "match",
+      "source_trace": "NCERT Class 11 Phys Geo Ch3 pg 1",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "VOLCANIC LANDFORMS"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Interior of the Earth, which statement is supported by the source text about Interior of the Earth?",
+      "options": [
+        "Besides mining, scientists have taken up a number of projects to penetrate deeper depths to explore the conditions in the crustal portions.",
+        "Scientists world over are working on two major projects such as “Deep Ocean Drilling Project” and “Integrated Ocean Drilling Project”.",
+        "The deepest drill at Kola, in Arctic Ocean, has so far reached a depth of 12 km.",
+        "This and many deep drilling projects have provided large volume of information through the analysis of materials collected at different depths."
+      ],
+      "correct_answer": 0,
+      "pattern": "not_type",
+      "source_trace": "NCERT Class 11 Phys Geo Ch3 pg 1",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "Interior of the Earth"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Interior of the Earth, which statement is supported by the source text about Interior?",
+      "options": [
+        "Volcanic eruption forms another source of obtaining direct information.",
+        "As and when the molten material (magma) is thrown onto the surface of the earth, during volcanic eruption it becomes available for laboratory analysis.",
+        "However, it is difficult to ascertain the depth of the source of such magma.",
+        "INTERIOR OF THE EARTH 19 Indirect Sources Analysis of properties of matter indirectly provides information about the interior."
+      ],
+      "correct_answer": 0,
       "pattern": "statement",
       "source_trace": "NCERT Class 11 Phys Geo Ch3 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
-      "difficulty_level": 3,
+      "difficulty_level": 4,
       "concepts_tested": [
-        "VOLCANIC LANDFORMS"
+        "Interior"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Interior of the Earth, which statement is supported by the source text about Earth?",
+      "options": [
+        "We know through the mining activity that temperature and pressure increase with the increasing distance from the surface towards the interior in deeper depths.",
+        "Moreover, it is also known that the density of the material also increases with depth.",
+        "It is possible to find the rate of change of these characteristics.",
+        "Knowing the total thickness of the earth, scientists have estimated the values of temperature, pressure and the density of materials at different depths."
+      ],
+      "correct_answer": 0,
+      "pattern": "match",
+      "source_trace": "NCERT Class 11 Phys Geo Ch3 pg 1",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "Earth"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Interior of the Earth, which statement is supported by the source text about FUNDAMENTALS OF PHYSICAL GEOGRAPHY?",
+      "options": [
+        "The details of these characteristics with reference to each layer of the interior are discussed later in this chapter.",
+        "Another source of information are the meteors that at times reach the earth.",
+        "However, it may be noted that the material that becomes available for analysis from meteors, is not from the interior of the earth.",
+        "The material and the structure observed in the meteors are similar to that of the earth."
+      ],
+      "correct_answer": 0,
+      "pattern": "not_type",
+      "source_trace": "NCERT Class 11 Phys Geo Ch3 pg 1",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 5,
+      "concepts_tested": [
+        "FUNDAMENTALS OF PHYSICAL GEOGRAPHY"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Interior of the Earth, which statement is supported by the source text about In the?",
+      "options": [
+        "They are solid bodies developed out of materials same as, or similar to, our planet.",
+        "Hence, this becomes yet another source of information about the interior of the earth.",
+        "The other indirect sources include gravitation, magnetic field, and seismic activity.",
+        "The gravitation force (g) is not the same at different latitudes on the surface."
+      ],
+      "correct_answer": 0,
+      "pattern": "statement",
+      "source_trace": "NCERT Class 11 Phys Geo Ch3 pg 1",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 5,
+      "concepts_tested": [
+        "In the"
       ]
     }
   ],
@@ -199,7 +289,7 @@
     "generation_method": "local_source_only_extractive_decode"
   },
   "content_model": "clearupsc_textbook_decoded_from_source_v1",
-  "decode_status": "textbook_decoded",
+  "decode_status": "textbook_verified",
   "source": {
     "book": "NCERT Class 11 Fundamentals of Physical Geography",
     "chapter": 3,
@@ -211,5 +301,5 @@
   "source_trace": "NCERT Class 11 Fundamentals of Physical Geography | Chapter 3: Interior of the Earth | https://ncert.nic.in/textbook/pdf/kegy203.pdf | sha256:7d69c7530ca960fdb66f457c22e47e4b2ee3223982e166b8ca21e40a6e754997",
   "raw_text_path": "data/study/textbook-first/raw-text/gs1_geo_class11_phys_ch03_interior_of_earth.txt",
   "generated_by": "local_source_only_extractive_decode",
-  "generated_at": "2026-05-26T19:53:29.095Z"
+  "generated_at": "2026-05-26T20:26:34.616Z"
 }

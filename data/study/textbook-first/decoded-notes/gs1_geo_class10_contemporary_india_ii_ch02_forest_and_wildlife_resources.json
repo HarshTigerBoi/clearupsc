@@ -136,7 +136,7 @@
       "source_trace": "NCERT Class 10 Contemporary India II Ch2 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
-      "difficulty_level": 3,
+      "difficulty_level": 1,
       "concepts_tested": [
         "14 CONTEMPORARY INDIA – II"
       ]
@@ -150,7 +150,7 @@
         "This is possibly twice or thrice the number yet to be discovered."
       ],
       "correct_answer": 0,
-      "pattern": "statement",
+      "pattern": "match",
       "source_trace": "NCERT Class 10 Contemporary India II Ch2 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
@@ -204,13 +204,103 @@
         "For example, in agriculture, we are still dependent on traditional crop varieties."
       ],
       "correct_answer": 0,
+      "pattern": "match",
+      "source_trace": "NCERT Class 10 Contemporary India II Ch2 pg 1",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "18 CONTEMPORARY INDIA – II"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Forest and Wildlife Resources, which statement is supported by the source text about Forest and Wildlife Resources?",
+      "options": [
+        "Fisheries too are heavily dependent on the maintenance of aquatic biodiversity.",
+        "In the 1960s and 1970s, conservationists demanded a national wildlife protection programme.",
+        "14 CONTEMPORARY INDIA – II Act was implemented in 1972, with various provisions for protecting habitats.",
+        "An all- India list of protected species was also published."
+      ],
+      "correct_answer": 0,
+      "pattern": "not_type",
+      "source_trace": "NCERT Class 10 Contemporary India II Ch2 pg 1",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "Forest and Wildlife Resources"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Forest and Wildlife Resources, which statement is supported by the source text about Forest?",
+      "options": [
+        "The thrust of the programme was towards protecting the remaining population of certain endangered species by banning hunting, giving legal protection to their habitats,...",
+        "Subsequently, central and many state governments established national parks and wildlife sanctuaries about which you have already studied.",
+        "The central government also announced several projects for protecting specific animals, which were gravely threatened, including the tiger, the one- horned rhinoceros, the Kashmir...",
+        "Most recently, the Indian elephant, black buck (chinkara), the great Indian bustard (godawan) and the snow leopard, etc. have been given full or partial..."
+      ],
+      "correct_answer": 0,
       "pattern": "statement",
       "source_trace": "NCERT Class 10 Contemporary India II Ch2 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
-      "difficulty_level": 3,
+      "difficulty_level": 4,
       "concepts_tested": [
-        "18 CONTEMPORARY INDIA – II"
+        "Forest"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Forest and Wildlife Resources, which statement is supported by the source text about Wildlife?",
+      "options": [
+        "2.1 Tribal girls using bamboo saplings in a nursery at Mukhali near Silent Valley Tribal women selling minor forest produce Leaf litter collection by...",
+        "In 1973, the authorities realised that the tiger population had dwindled to 1,827 from an estimated 55,000 at the turn of the century.",
+        "The major threats to tiger population are numerous, such as poaching for trade, shrinking habitat, depletion of prey base species, growing human population, etc.",
+        "The trade of tiger skins and the use of their bones in traditional medicines, especially in the Asian countries left the tiger population on..."
+      ],
+      "correct_answer": 0,
+      "pattern": "match",
+      "source_trace": "NCERT Class 10 Contemporary India II Ch2 pg 1",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "Wildlife"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Forest and Wildlife Resources, which statement is supported by the source text about Resources?",
+      "options": [
+        "Since India and Nepal provide habitat to about two-thirds of the surviving tiger population in the world, these two nations became prime targets for...",
+        "Tiger conservation has been viewed not only as an effort to save an endangered species, but with",
+        "15 FOREST AND WILDLIFE RESOURCES much of its forest and wildlife resources are either owned or managed by the government through the Forest Department...",
+        "(i) Reserved Forests: More than half of the total forest land has been declared reserved forests."
+      ],
+      "correct_answer": 0,
+      "pattern": "not_type",
+      "source_trace": "NCERT Class 10 Contemporary India II Ch2 pg 1",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 5,
+      "concepts_tested": [
+        "Resources"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Forest and Wildlife Resources, which statement is supported by the source text about Flora and Fauna in India If?",
+      "options": [
+        "Reserved forests are regarded as the most valuable as far as the conservation of forest and wildlife resources are concerned.",
+        "(ii) Protected Forests: Almost one-third of the total forest area is protected forest, as declared by the Forest Department.",
+        "This forest land are protected from any further depletion.",
+        "(iii) Unclassed Forests: These are other forests and wastelands belonging to both government and private individuals and communities."
+      ],
+      "correct_answer": 0,
+      "pattern": "statement",
+      "source_trace": "NCERT Class 10 Contemporary India II Ch2 pg 2",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 5,
+      "concepts_tested": [
+        "Flora and Fauna in India If"
       ]
     }
   ],
@@ -220,7 +310,7 @@
     "generation_method": "local_source_only_extractive_decode"
   },
   "content_model": "clearupsc_textbook_decoded_from_source_v1",
-  "decode_status": "textbook_decoded",
+  "decode_status": "textbook_verified",
   "source": {
     "book": "NCERT Class 10 Contemporary India II",
     "chapter": 2,
@@ -232,5 +322,5 @@
   "source_trace": "NCERT Class 10 Contemporary India II | Chapter 2: Forest and Wildlife Resources | https://ncert.nic.in/textbook/pdf/jess102.pdf | sha256:3fd7cef2770630c7be6a6e62265e4b96cf54aeb0c843c2391f918e54f6a7f926",
   "raw_text_path": "data/study/textbook-first/raw-text/gs1_geo_class10_contemporary_india_ii_ch02_forest_and_wildlife_resources.txt",
   "generated_by": "local_source_only_extractive_decode",
-  "generated_at": "2026-05-26T19:53:49.521Z"
+  "generated_at": "2026-05-26T20:26:55.838Z"
 }

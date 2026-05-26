@@ -120,7 +120,7 @@
       "source_trace": "NCERT Class 10 Science Ch13 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
-      "difficulty_level": 3,
+      "difficulty_level": 1,
       "concepts_tested": [
         "13 CHAPTER"
       ]
@@ -134,7 +134,7 @@
         "For example, if you visit a garden you will find different plants, such as grasses, trees; flower bearing plants like rose, jasmine, sunflower; and..."
       ],
       "correct_answer": 0,
-      "pattern": "statement",
+      "pattern": "match",
       "source_trace": "NCERT Class 10 Science Ch13 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
@@ -188,13 +188,103 @@
         "Organisms depend on the producers either directly or indirectly for their sustenance?"
       ],
       "correct_answer": 0,
+      "pattern": "match",
+      "source_trace": "NCERT Class 10 Science Ch13 pg 1",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "13.2.1 Ozone Layer and How it is Getting Depleted"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Magnetic Effects of Electric Current, which statement is supported by the source text about 13.2.2 Managing the Garbage we Produce?",
+      "options": [
+        "These organisms which consume the food produced, either directly from producers or indirectly by feeding on other consumers are the consumers.",
+        "Consumers can be classed variously as herbivores, carnivores, omnivores and parasites.",
+        "Can you give examples for each of these categories of consumers? n Imagine the situation where you do not clean the aquarium and some...",
+        "Have you ever thought what happens when an organism dies?"
+      ],
+      "correct_answer": 0,
+      "pattern": "not_type",
+      "source_trace": "NCERT Class 10 Science Ch13 pg 1",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "13.2.2 Managing the Garbage we Produce"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Magnetic Effects of Electric Current, which statement is supported by the source text about E X E R C I S E S?",
+      "options": [
+        "The microorganisms, comprising bacteria and fungi, break-down the dead remains and waste products of organisms.",
+        "These microorganisms are the decomposers as they break-down the complex organic substances into simple inorganic substances that go into the soil and are used...",
+        "What will happen to the garbage, and dead animals and plants in their absence?",
+        "Will the natural replenishment of the soil take place, even if decomposers are not there?"
+      ],
+      "correct_answer": 0,
       "pattern": "statement",
       "source_trace": "NCERT Class 10 Science Ch13 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
-      "difficulty_level": 3,
+      "difficulty_level": 4,
       "concepts_tested": [
-        "13.2.1 Ozone Layer and How it is Getting Depleted"
+        "E X E R C I S E S"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Magnetic Effects of Electric Current, which statement is supported by the source text about Magnetic Effects of Electric Current?",
+      "options": [
+        "What would have happened otherwise? n Make groups and discuss how each of the above groups of organisms are dependent on each other. n...",
+        "Science 210 Figure 13.2 Figure 13.2 Figure 13.2 Figure 13.2 Figure 13.2 Trophic levels 13.1.1 Food Chains and Webs In Activity 13.4 we have...",
+        "This series or organisms taking part at various biotic levels form a food chain (Fig.",
+        "Each step or level of the food chain forms a trophic level."
+      ],
+      "correct_answer": 0,
+      "pattern": "match",
+      "source_trace": "NCERT Class 10 Science Ch13 pg 1",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "Magnetic Effects of Electric Current"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Magnetic Effects of Electric Current, which statement is supported by the source text about Magnetic?",
+      "options": [
+        "The autotrophs or the producers are at the first trophic level.",
+        "They fix up the solar energy and make it available for heterotrophs or the consumers.",
+        "The herbivores or the primary consumers come at the second, small carnivores or the secondary consumers at the third and larger carnivores or the...",
+        "We know that the food we eat acts as a fuel to provide us energy to do work."
+      ],
+      "correct_answer": 0,
+      "pattern": "not_type",
+      "source_trace": "NCERT Class 10 Science Ch13 pg 2",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 5,
+      "concepts_tested": [
+        "Magnetic"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Magnetic Effects of Electric Current, which statement is supported by the source text about Effects?",
+      "options": [
+        "Thus the interactions among various components of the environment involves flow of energy from one component of the system to another.",
+        "As we have studied, the autotrophs capture the energy present in sunlight and convert it into chemical energy.",
+        "This energy supports all the activities of the living world.",
+        "From autotrophs, the energy goes to the heterotrophs and decomposers."
+      ],
+      "correct_answer": 0,
+      "pattern": "statement",
+      "source_trace": "NCERT Class 10 Science Ch13 pg 2",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 5,
+      "concepts_tested": [
+        "Effects"
       ]
     }
   ],
@@ -204,7 +294,7 @@
     "generation_method": "local_source_only_extractive_decode"
   },
   "content_model": "clearupsc_textbook_decoded_from_source_v1",
-  "decode_status": "textbook_decoded",
+  "decode_status": "textbook_verified",
   "source": {
     "book": "NCERT Class 10 Science",
     "chapter": 13,
@@ -216,5 +306,5 @@
   "source_trace": "NCERT Class 10 Science | Chapter 13: Magnetic Effects of Electric Current | https://ncert.nic.in/textbook/pdf/jesc113.pdf | sha256:3f61f0574e60bb8fc41feb3cc13f818621d9c17a5d5f51634154a5de35918b2d",
   "raw_text_path": "data/study/textbook-first/raw-text/gs3_sci_class10_science_ch13_magnetic_effects_of_electric_current.txt",
   "generated_by": "local_source_only_extractive_decode",
-  "generated_at": "2026-05-26T19:54:27.204Z"
+  "generated_at": "2026-05-26T20:27:35.535Z"
 }

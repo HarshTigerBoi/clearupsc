@@ -136,7 +136,7 @@
       "source_trace": "NCERT Class 11 Indian Economic Development Ch1 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
-      "difficulty_level": 3,
+      "difficulty_level": 1,
       "concepts_tested": [
         "DEVELOPMENT POLICIES AND EXPERIENCE"
       ]
@@ -150,7 +150,7 @@
         "So, let us first look at the state of India’s economy prior to the country’s independence and form an idea of the various considerations..."
       ],
       "correct_answer": 0,
-      "pattern": "statement",
+      "pattern": "match",
       "source_trace": "NCERT Class 11 Indian Economic Development Ch1 pg 2",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
@@ -204,13 +204,103 @@
         "Obviously, the colonial govern- m e n t n e v e r m a d e a n y s i n c..."
       ],
       "correct_answer": 0,
-      "pattern": "statement",
+      "pattern": "match",
       "source_trace": "NCERT Class 11 Indian Economic Development Ch1 pg 3",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
-      "difficulty_level": 3,
+      "difficulty_level": 4,
       "concepts_tested": [
         "4 INDIAN ECONOMIC DEVELOPMENT"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Indian Economy on the Eve of Independence, which statement is supported by the source text about 1.1 INTRODUCTION?",
+      "options": [
+        "Some individual attempts which were made to measure such incomes yielded conflicting and inconsistent results.",
+        "Among the notable estimators — Dadabhai Naoroji, William Digby, Findlay Shirras, V.K.R.V.",
+        "Desai — it was Rao, whose estimates during the colonial period was considered very significant.",
+        "However, most studies did find that the country’s growth of aggregate real output during the first half of the twentieth century was less than..."
+      ],
+      "correct_answer": 0,
+      "pattern": "not_type",
+      "source_trace": "NCERT Class 11 Indian Economic Development Ch1 pg 4",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "1.1 INTRODUCTION"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Indian Economy on the Eve of Independence, which statement is supported by the source text about 15 August 1947. The sole purpose of?",
+      "options": [
+        "1.3 AGRICULTURAL SECTOR India’s economy under the British colonial rule remained fundamentally agrarian — about 85 per cent of the country’s population lived mostly...",
+        "However, despite being the occupation of such a large population, the agricultural Fig.",
+        "1.1 India’s agricultural stagnation under the British colonial rule Box 1.2: Agriculture During Pre-British India The French traveller, Bernier, described seventeenth century Bengal in...",
+        "It exports, in abundance, cottons and silks, rice, sugar and butter."
+      ],
+      "correct_answer": 0,
+      "pattern": "statement",
+      "source_trace": "NCERT Class 11 Indian Economic Development Ch1 pg 4",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "15 August 1947. The sole purpose of"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Indian Economy on the Eve of Independence, which statement is supported by the source text about 1.2 LOW LEVEL OF ECONOMIC?",
+      "options": [
+        "It produces amply — for its own consumption — wheat, vegetables, grains, fowls, ducks and geese.",
+        "It has immense herds of pigs and flocks of sheep and goats.",
+        "From rajmahal to the sea is an endless number of canals, cut in bygone ages from the Ganges by immense labour for navigation and...",
+        "Contrast it with agricultural stagnation around the time when the British left India, around 200 years later."
+      ],
+      "correct_answer": 0,
+      "pattern": "match",
+      "source_trace": "NCERT Class 11 Indian Economic Development Ch1 pg 4",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "1.2 LOW LEVEL OF ECONOMIC"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Indian Economy on the Eve of Independence, which statement is supported by the source text about DEVELOPMENT UNDER THE?",
+      "options": [
+        "6 INDIAN ECONOMIC DEVELOPMENT sector continued to experience stagnation and, not infrequently, unusual deterioration.",
+        "Agricultural productivity became low though, in absolute terms, the sector experienced some growth due to the expansion of the aggregate area under cultivation.",
+        "This stagnation in the agricultural sector was caused mainly because of the various systems of l a n d settlement that were introduced by...",
+        "Particularly, under the zamindari system which was implemented in the then Bengal Presidency comprising parts of India’s present-day eastern states, the profit accruing out..."
+      ],
+      "correct_answer": 0,
+      "pattern": "not_type",
+      "source_trace": "NCERT Class 11 Indian Economic Development Ch1 pg 5",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 5,
+      "concepts_tested": [
+        "DEVELOPMENT UNDER THE"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Indian Economy on the Eve of Independence, which statement is supported by the source text about COLONIAL RULE?",
+      "options": [
+        "However, a considerable number of zamindars, and not just the colonial government, did nothing to improve the condition of agriculture.",
+        "The main interest of the zamindars was only to collect rent regardless of the economic condition of the cultivators; this caused immense misery and...",
+        "To a very great extent, the terms of the revenue settlement were also responsible for the zamindars adopting such an attitude; dates for depositing...",
+        "Besides this, low levels of technology, lack of irrigation facilities and negligible use of fertilisers, all added up to aggravate the plight of the..."
+      ],
+      "correct_answer": 0,
+      "pattern": "statement",
+      "source_trace": "NCERT Class 11 Indian Economic Development Ch1 pg 5",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 5,
+      "concepts_tested": [
+        "COLONIAL RULE"
       ]
     }
   ],
@@ -220,7 +310,7 @@
     "generation_method": "local_source_only_extractive_decode"
   },
   "content_model": "clearupsc_textbook_decoded_from_source_v1",
-  "decode_status": "textbook_decoded",
+  "decode_status": "textbook_verified",
   "source": {
     "book": "NCERT Class 11 Indian Economic Development",
     "chapter": 1,
@@ -232,5 +322,5 @@
   "source_trace": "NCERT Class 11 Indian Economic Development | Chapter 1: Indian Economy on the Eve of Independence | https://ncert.nic.in/textbook/pdf/keec101.pdf | sha256:593cbd9949afc437d17c2fd6d794504f4221cd90d8ac35ba97602e041855ce2a",
   "raw_text_path": "data/study/textbook-first/raw-text/gs3_economy_class11_indian_development_ch01_indian_economy_on_the_eve_of_independence.txt",
   "generated_by": "local_source_only_extractive_decode",
-  "generated_at": "2026-05-26T19:53:34.356Z"
+  "generated_at": "2026-05-26T20:26:40.191Z"
 }

@@ -136,7 +136,7 @@
       "source_trace": "NCERT Class 11 Themes in World History Ch7 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
-      "difficulty_level": 3,
+      "difficulty_level": 1,
       "concepts_tested": [
         "THEME"
       ]
@@ -150,7 +150,7 @@
         "They found that they could achieve both objectives – of removing inequalities and of rebuilding their country – through revolution."
       ],
       "correct_answer": 0,
-      "pattern": "statement",
+      "pattern": "match",
       "source_trace": "NCERT Class 11 Themes in World History Ch7 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
@@ -204,13 +204,103 @@
         "Sima Qian (145-90 BCE) is considered the greatest historian of early China."
       ],
       "correct_answer": 0,
+      "pattern": "match",
+      "source_trace": "NCERT Class 11 Themes in World History Ch7 pg 1",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "JAPAN"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Paths to Modernisation, which statement is supported by the source text about 158 THEMES IN WORLD HISTORY?",
+      "options": [
+        "In Japan, Chinese cultural influence led to history being given a similar importance.",
+        "One of the earliest acts of the Meiji government was to establish, in 1869, a bureau to collect records and write, as it were,...",
+        "There was great respect for the written word and literary ability was highly valued.",
+        "This has meant that a wide range of written materials – official histories, scholarly writings, popular literature, religious tracts – are available."
+      ],
+      "correct_answer": 0,
+      "pattern": "not_type",
+      "source_trace": "NCERT Class 11 Themes in World History Ch7 pg 1",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "158 THEMES IN WORLD HISTORY"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Paths to Modernisation, which statement is supported by the source text about ACTIVITY 1?",
+      "options": [
+        "Printing and publishing were important industries in the pre-modern period and it is possible, for instance, to trace the distribution of a book in...",
+        "Modern scholars have used these materials in new and different ways.",
+        "Modern scholarship has built on the work of Chinese intellectuals such as Liang Qichao or Kume Kunitake (1839- 1931), one of the pioneers of...",
+        "It has also benefited from the writings of Christian missionaries in the nineteenth century whose work provides valuable material for our understanding of these..."
+      ],
+      "correct_answer": 0,
       "pattern": "statement",
       "source_trace": "NCERT Class 11 Themes in World History Ch7 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
-      "difficulty_level": 3,
+      "difficulty_level": 4,
       "concepts_tested": [
-        "JAPAN"
+        "ACTIVITY 1"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Paths to Modernisation, which statement is supported by the source text about 160 THEMES IN WORLD HISTORY?",
+      "options": [
+        "Scholarship in English from Joseph Needham’s monumental work on the history of science in Chinese civilisation or George Sansom’s on Japanese history and culture...",
+        "In recent years, writings by Chinese and Japanese scholars have been translated into English, some of whom teach abroad and write in English, and...",
+        "This has meant that we have scholarly writings from many parts of the globe that give us a richer and deeper picture of these...",
+        "Naito Konan* (1866-1934) A leading Japanese scholar of China, Naito Konan’s writings influenced scholars worldwide."
+      ],
+      "correct_answer": 0,
+      "pattern": "match",
+      "source_trace": "NCERT Class 11 Themes in World History Ch7 pg 1",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "160 THEMES IN WORLD HISTORY"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Paths to Modernisation, which statement is supported by the source text about 162 THEMES IN WORLD HISTORY?",
+      "options": [
+        "Using the new tools of Western historiography Naito built on a long tradition of studying China as well as bringing his experience as a...",
+        "He helped establish the Department of Oriental Studies in Kyoto University in 1907.",
+        "In Shinaron [On China (1914)], he argued that republican government offered the Chinese a way to end aristocratic control and centralised power that had...",
+        "He saw in Chinese history strengths that would make it modern and democratic."
+      ],
+      "correct_answer": 0,
+      "pattern": "not_type",
+      "source_trace": "NCERT Class 11 Themes in World History Ch7 pg 1",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 5,
+      "concepts_tested": [
+        "162 THEMES IN WORLD HISTORY"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Paths to Modernisation, which statement is supported by the source text about CAR-CLUB?",
+      "options": [
+        "Japan, he thought had an important role to play in China but he underestimated the power of Chinese nationalism. *In Japan, the surname is...",
+        "155 Introduction China and Japan present a marked physical contrast.",
+        "China is a vast continental country that spans many climatic zones; the core is dominated by three major river systems: the Yellow River (Huang...",
+        "PATHS TO MODERNISATION The dominant ethnic group are the Han and the major language is Chinese (Putonghua) but there are many other nationalities, such..."
+      ],
+      "correct_answer": 0,
+      "pattern": "statement",
+      "source_trace": "NCERT Class 11 Themes in World History Ch7 pg 1",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 5,
+      "concepts_tested": [
+        "CAR-CLUB"
       ]
     }
   ],
@@ -220,7 +310,7 @@
     "generation_method": "local_source_only_extractive_decode"
   },
   "content_model": "clearupsc_textbook_decoded_from_source_v1",
-  "decode_status": "textbook_decoded",
+  "decode_status": "textbook_verified",
   "source": {
     "book": "NCERT Class 11 Themes in World History",
     "chapter": 7,
@@ -232,5 +322,5 @@
   "source_trace": "NCERT Class 11 Themes in World History | Chapter 7: Paths to Modernisation | https://ncert.nic.in/textbook/pdf/kehs107.pdf | sha256:e03f315fad9c0f58257e954ce478b8a019ef0378e1ce5b19bfcece32ea3a364b",
   "raw_text_path": "data/study/textbook-first/raw-text/gs1_hist_class11_themes_world_history_ch07_paths_to_modernisation.txt",
   "generated_by": "local_source_only_extractive_decode",
-  "generated_at": "2026-05-26T19:53:54.712Z"
+  "generated_at": "2026-05-26T20:27:01.259Z"
 }

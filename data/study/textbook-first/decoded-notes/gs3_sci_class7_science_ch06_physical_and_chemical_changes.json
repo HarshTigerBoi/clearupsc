@@ -115,7 +115,7 @@
       "source_trace": "NCERT Class 7 Science Ch6 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
-      "difficulty_level": 3,
+      "difficulty_level": 1,
       "concepts_tested": [
         "6.1 WHY DO WE RESPIRE?"
       ]
@@ -129,7 +129,7 @@
         "Even when we are eating, sleeping or reading we require energy."
       ],
       "correct_answer": 0,
-      "pattern": "statement",
+      "pattern": "match",
       "source_trace": "NCERT Class 7 Science Ch6 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
@@ -183,13 +183,103 @@
         "SCIENCE 58 Our muscle cells can also respire anaerobically, but only for a short time, when there is a temporary deficiency of oxygen."
       ],
       "correct_answer": 0,
+      "pattern": "match",
+      "source_trace": "NCERT Class 7 Science Ch6 pg 1",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "RESPIRATION IN ORGANISMS 59"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Physical and Chemical Changes, which statement is supported by the source text about SCIENCE 60?",
+      "options": [
+        "6.1), cycling, walking for many hours or heavy weight lifting, the demand for energy is high.",
+        "But the supply of oxygen to produce the energy is limited.",
+        "Then anaerobic respiration takes places in the muscle cells to fulfil the demand of energy: Fig.",
+        "6.1 During exercise, some muscles may respire anaerobically Have you ever wondered why you get muscle cramps after heavy exercise?"
+      ],
+      "correct_answer": 0,
+      "pattern": "not_type",
+      "source_trace": "NCERT Class 7 Science Ch6 pg 1",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "SCIENCE 60"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Physical and Chemical Changes, which statement is supported by the source text about 6.3 H OW DO WE B REATHE ??",
+      "options": [
+        "The cramps occur when muscle cells respire anaerobically.",
+        "We get relief from cramps after a hot water bath or a massage.",
+        "Hot water bath or massage improves circulation of blood.",
+        "As a result, the supply of oxygen to the muscle cells increases."
+      ],
+      "correct_answer": 0,
       "pattern": "statement",
       "source_trace": "NCERT Class 7 Science Ch6 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
-      "difficulty_level": 3,
+      "difficulty_level": 4,
       "concepts_tested": [
-        "RESPIRATION IN ORGANISMS 59"
+        "6.3 H OW DO WE B REATHE ?"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Physical and Chemical Changes, which statement is supported by the source text about RESPIRATION IN ORGANISMS 61?",
+      "options": [
+        "The increase in the supply of oxygen results in the complete breakdown of lactic acid into carbon dioxide and water.",
+        "6.2 BREATHING Activity 6.1 Yeasts are single-celled organisms.",
+        "They respire anaerobically and during this process yield alcohol.",
+        "CAUTION Do this activity under the supervision of your teacher."
+      ],
+      "correct_answer": 0,
+      "pattern": "match",
+      "source_trace": "NCERT Class 7 Science Ch6 pg 1",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "RESPIRATION IN ORGANISMS 61"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Physical and Chemical Changes, which statement is supported by the source text about SCIENCE 62?",
+      "options": [
+        "Close your nostrils and mouth tightly and look at a watch.",
+        "Note down the time for which you could hold your breath (Fig.",
+        "So, now you know that you cannot survive for long without breathing.",
+        "Breathing means taking in air rich in oxygen and giving out air rich in carbon dioxide with the help of respiratory organs."
+      ],
+      "correct_answer": 0,
+      "pattern": "not_type",
+      "source_trace": "NCERT Class 7 Science Ch6 pg 1",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 5,
+      "concepts_tested": [
+        "SCIENCE 62"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Physical and Chemical Changes, which statement is supported by the source text about RESPIRATION IN ORGANISMS 63?",
+      "options": [
+        "The taking in of air rich in oxygen into the body is called inhalation and giving out of air rich in carbon dioxide is...",
+        "RESPIRATION IN ORGANISMS 59 you like to find out your breathing rate?",
+        "Do you want to know whether it is constant or it changes according to the requirement of oxygen by the body?",
+        "However, if you try you can count your rate of breathing."
+      ],
+      "correct_answer": 0,
+      "pattern": "statement",
+      "source_trace": "NCERT Class 7 Science Ch6 pg 1",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 5,
+      "concepts_tested": [
+        "RESPIRATION IN ORGANISMS 63"
       ]
     }
   ],
@@ -199,7 +289,7 @@
     "generation_method": "local_source_only_extractive_decode"
   },
   "content_model": "clearupsc_textbook_decoded_from_source_v1",
-  "decode_status": "textbook_decoded",
+  "decode_status": "textbook_verified",
   "source": {
     "book": "NCERT Class 7 Science",
     "chapter": 6,
@@ -211,5 +301,5 @@
   "source_trace": "NCERT Class 7 Science | Chapter 6: Physical and Chemical Changes | https://ncert.nic.in/textbook/pdf/gesc106.pdf | sha256:6887712f361da5d99f24f4d12ba46d0cb3aea1f193e3162ad8e5ae9e4899b745",
   "raw_text_path": "data/study/textbook-first/raw-text/gs3_sci_class7_science_ch06_physical_and_chemical_changes.txt",
   "generated_by": "local_source_only_extractive_decode",
-  "generated_at": "2026-05-26T19:54:35.297Z"
+  "generated_at": "2026-05-26T20:27:43.793Z"
 }

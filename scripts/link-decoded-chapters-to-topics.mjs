@@ -85,7 +85,7 @@ const supabase = createClient(url, serviceKey, { auth: { persistSession: false, 
 const { data: decodedRows, error: decodedError } = await supabase
   .from("topics")
   .select("key,title,subject,content_quality")
-  .eq("content_quality", "textbook_decoded")
+  .in("content_quality", ["textbook_decoded", "textbook_verified"])
   .order("key", { ascending: true });
 if (decodedError) throw decodedError;
 
@@ -94,7 +94,6 @@ for (let from = 0; ; from += 1000) {
   const { data, error: topicError } = await supabase
     .from("topics")
     .select("key,title,subject,ncert_refs,content_quality")
-    .neq("content_quality", "textbook_decoded")
     .order("key", { ascending: true })
     .range(from, from + 999);
   if (topicError) throw topicError;
@@ -102,12 +101,14 @@ for (let from = 0; ; from += 1000) {
   if (!data || data.length < 1000) break;
 }
 
-const targetTopics = (topicRows ?? []).map((row) => ({
-  key: String(row.key),
-  title: String(row.title ?? row.key),
-  subject: String(row.subject ?? ""),
-  ncert_refs: normalizeRefs(row.ncert_refs),
-}));
+const targetTopics = (topicRows ?? [])
+  .filter((row) => row.content_quality !== "textbook_decoded" && row.content_quality !== "textbook_verified")
+  .map((row) => ({
+    key: String(row.key),
+    title: String(row.title ?? row.key),
+    subject: String(row.subject ?? ""),
+    ncert_refs: normalizeRefs(row.ncert_refs),
+  }));
 const targetByKey = new Map(targetTopics.map((topic) => [topic.key, topic]));
 const updates = new Map();
 const rows = [];

@@ -136,7 +136,7 @@
       "source_trace": "NCERT Class 12 Social Change and Development in India Ch4 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
-      "difficulty_level": 3,
+      "difficulty_level": 1,
       "concepts_tested": [
         "2011 Census). They make their living from agriculture or related occupations."
       ]
@@ -150,7 +150,7 @@
         "For example, most of the New Year festivals in different regions of India – such as Pongal in Tamil Nadu, Bihu in Assam, Baisakhi..."
       ],
       "correct_answer": 0,
-      "pattern": "statement",
+      "pattern": "match",
       "source_trace": "NCERT Class 12 Social Change and Development in India Ch4 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
@@ -204,13 +204,103 @@
         "But increasing interconnection of the rural and urban economies have led to many diverse occupations."
       ],
       "correct_answer": 0,
-      "pattern": "statement",
+      "pattern": "match",
       "source_trace": "NCERT Class 12 Social Change and Development in India Ch4 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
-      "difficulty_level": 3,
+      "difficulty_level": 4,
       "concepts_tested": [
         "Change"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Change and Development in Rural Society, which statement is supported by the source text about Development?",
+      "options": [
+        "Many people living in rural areas are employed in, or have livelihoods based on rural non- farm activities.",
+        "For instance, there are rural residents employed in government services such as the Postal and Education Departments, factory workers, or in the army, who...",
+        "The Diversity of Occupations 43 ¾ Think of an important festival that is celebrated in your region that has its roots in agrarian society.",
+        "What is the significance of the various practices or rituals that are associated with that festival, and how are they linked to agriculture? ¾..."
+      ],
+      "correct_answer": 0,
+      "pattern": "not_type",
+      "source_trace": "NCERT Class 12 Social Change and Development in India Ch4 pg 2",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "Development"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Change and Development in Rural Society, which statement is supported by the source text about Rural?",
+      "options": [
+        "Can you identify an area of the city or town where you live that used to be a village, or areas that were once...",
+        "How do you think this growth takes place, and what happens to the people who used to make a living from that land?",
+        "Social Change and Development in India 44 4.1 AgrAriAn Structure: cASte And clASS in rurAl indiA Agricultural land is the single most important resource...",
+        "But it is not equally distributed among people living in a particular village or region."
+      ],
+      "correct_answer": 0,
+      "pattern": "statement",
+      "source_trace": "NCERT Class 12 Social Change and Development in India Ch4 pg 2",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "Rural"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Change and Development in Rural Society, which statement is supported by the source text about Society?",
+      "options": [
+        "In fact, the distribution of landholdings in most regions is highly unequal among households.",
+        "In some parts of India, the majority of rural households own at least some land – usually very small plots.",
+        "In other areas as much as 40 to 50 per cent of families do not own any land at all.",
+        "This means that they are dependent on agricultural labour or other kinds of work for their livelihoods."
+      ],
+      "correct_answer": 0,
+      "pattern": "match",
+      "source_trace": "NCERT Class 12 Social Change and Development in India Ch4 pg 3",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "Society"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Change and Development in Rural Society, which statement is supported by the source text about Social Change and Development in India?",
+      "options": [
+        "This of course means that a few families are well-to-do.",
+        "The majority live just above or below the poverty line.",
+        "In most regions of India, women are usually excluded from ownership of land, because of the prevailing patrilineal kinship system and mode of inheritance.",
+        "By law women are supposed to have an equal share of family property."
+      ],
+      "correct_answer": 0,
+      "pattern": "not_type",
+      "source_trace": "NCERT Class 12 Social Change and Development in India Ch4 pg 3",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 5,
+      "concepts_tested": [
+        "Social Change and Development in India"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Change and Development in Rural Society, which statement is supported by the source text about Many of?",
+      "options": [
+        "In reality, they only have limited rights and some access to land — only as part of a household headed by a man.",
+        "The term agrarian structure is often used to refer to the structure or distribution of landholding.",
+        "Because agricultural land is the most important productive resource in rural areas, access to land shapes the rural class structure.",
+        "Access to land largely determines what role one plays in the process of agricultural production."
+      ],
+      "correct_answer": 0,
+      "pattern": "statement",
+      "source_trace": "NCERT Class 12 Social Change and Development in India Ch4 pg 3",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 5,
+      "concepts_tested": [
+        "Many of"
       ]
     }
   ],
@@ -220,7 +310,7 @@
     "generation_method": "local_source_only_extractive_decode"
   },
   "content_model": "clearupsc_textbook_decoded_from_source_v1",
-  "decode_status": "textbook_decoded",
+  "decode_status": "textbook_verified",
   "source": {
     "book": "NCERT Class 12 Social Change and Development in India",
     "chapter": 4,
@@ -232,5 +322,5 @@
   "source_trace": "NCERT Class 12 Social Change and Development in India | Chapter 4: Change and Development in Rural Society | https://ncert.nic.in/textbook/pdf/lesy204.pdf | sha256:2956b9f207d5ed176bb9eb18645ee13f6acdc9eba4b84804e895f59de5737efa",
   "raw_text_path": "data/study/textbook-first/raw-text/gs1_society_class12_social_change_ch04_change_and_development_in_rural_society.txt",
   "generated_by": "local_source_only_extractive_decode",
-  "generated_at": "2026-05-26T19:53:59.410Z"
+  "generated_at": "2026-05-26T20:27:06.233Z"
 }

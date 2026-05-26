@@ -128,7 +128,7 @@
       "source_trace": "NCERT Class 10 India and the Contemporary World II Ch4 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
-      "difficulty_level": 3,
+      "difficulty_level": 1,
       "concepts_tested": [
         "1 Before the Industrial Revolution"
       ]
@@ -142,7 +142,7 @@
         "The term arises out of a western viewpoint that sees this region as pre- modern, traditional and mysterious Fig."
       ],
       "correct_answer": 0,
-      "pattern": "statement",
+      "pattern": "match",
       "source_trace": "NCERT Class 10 India and the Contemporary World II Ch4 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
@@ -196,13 +196,103 @@
         "Can we today continue to glorify continuous mechanisation of all work?"
       ],
       "correct_answer": 0,
-      "pattern": "statement",
+      "pattern": "match",
       "source_trace": "NCERT Class 10 India and the Contemporary World II Ch4 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
-      "difficulty_level": 3,
+      "difficulty_level": 4,
       "concepts_tested": [
         "2.1 Life of the Workers"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of The Age of Industrialisation, which statement is supported by the source text about 3 Industrialisation in the Colonies?",
+      "options": [
+        "To answer such questions we need to turn to the history of industrialisation.",
+        "In this chapter we will look at this history by focusing first on Britain, the first industrial nation, and then India, where the pattern...",
+        "2 – Two Magicians, published in Inland Printers, 26 January 1901.",
+        "You can see each member of the family involved in the production of yarn."
+      ],
+      "correct_answer": 0,
+      "pattern": "not_type",
+      "source_trace": "NCERT Class 10 India and the Contemporary World II Ch4 pg 1",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "3 Industrialisation in the Colonies"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of The Age of Industrialisation, which statement is supported by the source text about 3.1 The Age of Indian Textiles?",
+      "options": [
+        "1 Before the Industrial Revolution All too often we associate industrialisation with the growth of factory industry.",
+        "When we talk of industrial production we refer to factory production.",
+        "When we talk of industrial workers we mean factory workers.",
+        "Histories of industrialisation very often begin with the setting up of the first factories."
+      ],
+      "correct_answer": 0,
+      "pattern": "statement",
+      "source_trace": "NCERT Class 10 India and the Contemporary World II Ch4 pg 2",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "3.1 The Age of Indian Textiles"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of The Age of Industrialisation, which statement is supported by the source text about 3.2 What Happened to Weavers??",
+      "options": [
+        "Even before factories began to dot the landscape in England and Europe, there was large-scale industrial production for an international market.",
+        "Many historians now refer to this phase of industrialisation as proto-industrialisation.",
+        "In the seventeenth and eighteenth centuries, merchants from the towns in Europe began moving to the countryside, supplying money to peasants and artisans, persuading...",
+        "With the expansion of world trade and the acquisition of colonies in different parts of the world, the demand for goods began growing."
+      ],
+      "correct_answer": 0,
+      "pattern": "match",
+      "source_trace": "NCERT Class 10 India and the Contemporary World II Ch4 pg 2",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "3.2 What Happened to Weavers?"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of The Age of Industrialisation, which statement is supported by the source text about 3.3 Manchester Comes to India?",
+      "options": [
+        "But merchants could not expand production within towns.",
+        "This was because here urban crafts and trade guilds were powerful.",
+        "These were associations of producers that trained craftspeople, maintained control over production, regulated competition and prices, and restricted the entry of new people into...",
+        "Rulers granted different guilds the monopoly right to produce and trade in specific products."
+      ],
+      "correct_answer": 0,
+      "pattern": "not_type",
+      "source_trace": "NCERT Class 10 India and the Contemporary World II Ch4 pg 2",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 5,
+      "concepts_tested": [
+        "3.3 Manchester Comes to India"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of The Age of Industrialisation, which statement is supported by the source text about 4 Factories Come Up?",
+      "options": [
+        "It was therefore difficult for new merchants to set up business in towns.",
+        "In the countryside poor peasants and artisans began working for merchants.",
+        "As you have seen in the textbook last year, this was a time when open fields were disappearing and commons were being enclosed.",
+        "Cottagers and poor peasants who had earlier depended on common lands for their survival, gathering their firewood, berries, vegetables, hay and straw, had to..."
+      ],
+      "correct_answer": 0,
+      "pattern": "statement",
+      "source_trace": "NCERT Class 10 India and the Contemporary World II Ch4 pg 2",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 5,
+      "concepts_tested": [
+        "4 Factories Come Up"
       ]
     }
   ],
@@ -212,7 +302,7 @@
     "generation_method": "local_source_only_extractive_decode"
   },
   "content_model": "clearupsc_textbook_decoded_from_source_v1",
-  "decode_status": "textbook_decoded",
+  "decode_status": "textbook_verified",
   "source": {
     "book": "NCERT Class 10 India and the Contemporary World II",
     "chapter": 4,
@@ -224,5 +314,5 @@
   "source_trace": "NCERT Class 10 India and the Contemporary World II | Chapter 4: The Age of Industrialisation | https://ncert.nic.in/textbook/pdf/jess304.pdf | sha256:4d9221dd6d954eb57c151e549405bfbaa1a9668ef7ec80e15fad70d371541fb4",
   "raw_text_path": "data/study/textbook-first/raw-text/gs1_hist_class10_contemporary_world_ii_ch04_the_age_of_industrialisation.txt",
   "generated_by": "local_source_only_extractive_decode",
-  "generated_at": "2026-05-26T19:54:09.697Z"
+  "generated_at": "2026-05-26T20:27:17.112Z"
 }

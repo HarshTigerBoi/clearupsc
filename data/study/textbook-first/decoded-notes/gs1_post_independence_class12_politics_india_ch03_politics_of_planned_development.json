@@ -136,7 +136,7 @@
       "source_trace": "NCERT Class 12 Politics in India since Independence Ch3 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
-      "difficulty_level": 3,
+      "difficulty_level": 1,
       "concepts_tested": [
         "46 Politics in India since Independence"
       ]
@@ -150,7 +150,7 @@
         "Left to right, top to bottom: Damodar Valley, Bhakra Dam, Chittaranjan Locomotives, Gauhati Refinery, Tractor, Sindri Fertilisers, Bhakra Dam, Electric Train, Wheat Revolution, Hirakud..."
       ],
       "correct_answer": 0,
-      "pattern": "statement",
+      "pattern": "match",
       "source_trace": "NCERT Class 12 Politics in India since Independence Ch3 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
@@ -204,13 +204,103 @@
         "Political contestation These questions cannot be answered by an expert."
       ],
       "correct_answer": 0,
+      "pattern": "match",
+      "source_trace": "NCERT Class 12 Politics in India since Independence Ch3 pg 1",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "Politics of Planned Development"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Politics of Planned Development, which statement is supported by the source text about Politics?",
+      "options": [
+        "Decisions of this kind involve weighing the interests of one social group against another, present generation against future generations.",
+        "In a democracy such major decisions should be taken or at least approved by the people themselves.",
+        "It is important to take advice from experts on mining, from environmentalists and from economists.",
+        "Yet the final decision must be a political decision, taken by people’s representatives who are in touch with the feelings of the people."
+      ],
+      "correct_answer": 0,
+      "pattern": "not_type",
+      "source_trace": "NCERT Class 12 Politics in India since Independence Ch3 pg 1",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "Politics"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Politics of Planned Development, which statement is supported by the source text about Planned?",
+      "options": [
+        "After Independence our country had to make a series of major decisions like this.",
+        "Each of these decisions could not be made independent of other such decisions.",
+        "All these decisions were bound together by a shared vision or model of economic development.",
+        "Almost everyone agreed Orissa villagers protest against POSCO plant Staff Reporter BHUBANESWAR: People facing displacement by the proposed POSCO-India steel plant in Jagatsinghpur district..."
+      ],
+      "correct_answer": 0,
       "pattern": "statement",
       "source_trace": "NCERT Class 12 Politics in India since Independence Ch3 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
-      "difficulty_level": 3,
+      "difficulty_level": 4,
       "concepts_tested": [
-        "Politics of Planned Development"
+        "Planned"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Politics of Planned Development, which statement is supported by the source text about Development?",
+      "options": [
+        "They were demanding cancellation of the memorandum of understanding signed between the company and the Orissa government one year ago.",
+        "More than 100 men and women from the gram panchayats of Dhinkia, Nuagaon and Gadakujanga tried to enter the office premises but the police...",
+        "Raising slogans, the protesters said the company should not be allowed to set up its plant at the cost of their lives and livelihood.",
+        "The demonstration was organised by the Rashtriya Yuva Sangathan and the Nabanirman Samiti."
+      ],
+      "correct_answer": 0,
+      "pattern": "match",
+      "source_trace": "NCERT Class 12 Politics in India since Independence Ch3 pg 1",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "Development"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Politics of Planned Development, which statement is supported by the source text about In the?",
+      "options": [
+        "The Hindu, 23 June 2006 3chapter pOLItIcS OF pLaNNeD DeVeLOpMeNt",
+        "46 Politics in India since Independence that the development of India should mean both economic growth and social and economic justice.",
+        "It was also agreed that this matter cannot be left to businessmen, industrialists and farmers themselves, that the government should play a key role...",
+        "There was disagreement, however, on the kind of role that the government must play in ensuring growth with justice."
+      ],
+      "correct_answer": 0,
+      "pattern": "not_type",
+      "source_trace": "NCERT Class 12 Politics in India since Independence Ch3 pg 1",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 5,
+      "concepts_tested": [
+        "In the"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Politics of Planned Development, which statement is supported by the source text about As in the?",
+      "options": [
+        "Was it necessary to have a centralised institution to plan for the entire country?",
+        "Should the government itself run some key industries and business?",
+        "How much importance was to be attached to the needs of justice if it differed from the requirements of economic growth?",
+        "Each of these questions involved contestation which has continued ever since."
+      ],
+      "correct_answer": 0,
+      "pattern": "statement",
+      "source_trace": "NCERT Class 12 Politics in India since Independence Ch3 pg 2",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 5,
+      "concepts_tested": [
+        "As in the"
       ]
     }
   ],
@@ -220,7 +310,7 @@
     "generation_method": "local_source_only_extractive_decode"
   },
   "content_model": "clearupsc_textbook_decoded_from_source_v1",
-  "decode_status": "textbook_decoded",
+  "decode_status": "textbook_verified",
   "source": {
     "book": "NCERT Class 12 Politics in India since Independence",
     "chapter": 3,
@@ -232,5 +322,5 @@
   "source_trace": "NCERT Class 12 Politics in India since Independence | Chapter 3: Politics of Planned Development | https://ncert.nic.in/textbook/pdf/leps203.pdf | sha256:a00b87a6adf2ac21e1d03587a3231441f24d77074ae81ae00b46d894f237a779",
   "raw_text_path": "data/study/textbook-first/raw-text/gs1_post_independence_class12_politics_india_ch03_politics_of_planned_development.txt",
   "generated_by": "local_source_only_extractive_decode",
-  "generated_at": "2026-05-26T19:53:46.176Z"
+  "generated_at": "2026-05-26T20:26:52.354Z"
 }

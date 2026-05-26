@@ -136,7 +136,7 @@
       "source_trace": "NCERT Class 11 Indian Constitution at Work Ch7 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
-      "difficulty_level": 3,
+      "difficulty_level": 1,
       "concepts_tested": [
         "FEDERALISM"
       ]
@@ -150,7 +150,7 @@
         "The maps show these large scale changes that have taken place in the span of over seventy years."
       ],
       "correct_answer": 0,
-      "pattern": "statement",
+      "pattern": "match",
       "source_trace": "NCERT Class 11 Indian Constitution at Work Ch7 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
@@ -204,13 +204,103 @@
         "In 1958, the federation of West Indies came into being."
       ],
       "correct_answer": 0,
+      "pattern": "match",
+      "source_trace": "NCERT Class 11 Indian Constitution at Work Ch7 pg 3",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "FEDERALISM IN THE INDIAN CONSTITUTION"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Federalism, which statement is supported by the source text about FEDERALISM WITH A STRONG CENTRAL GOVERNMENT?",
+      "options": [
+        "It had a weak central government and the economy of each unit was independent.",
+        "These features and political competition among the units led to the formal dissolution of the federation in 1962.",
+        "Later, in 1973 by Treaty of Chiguaramas the independent islands established joint authorities in the form of a common legislature, supreme court, a common...",
+        "The Caribbean Community has even a common executive, and Heads of the governments of member countries are members of this executive."
+      ],
+      "correct_answer": 0,
+      "pattern": "not_type",
+      "source_trace": "NCERT Class 11 Indian Constitution at Work Ch7 pg 3",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "FEDERALISM WITH A STRONG CENTRAL GOVERNMENT"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Federalism, which statement is supported by the source text about CONFLICTS IN INDIA’S FEDERAL SYSTEM?",
+      "options": [
+        "Thus, the units could neither live together as one country, nor can they live separately!",
+        "154 Indian Constitution at Work India is a land of continental proportions and immense diversities.",
+        "There are more than 20 major languages and several hundred minor ones.",
+        "There are several million indigenous peoples living in different parts of the country."
+      ],
+      "correct_answer": 0,
       "pattern": "statement",
       "source_trace": "NCERT Class 11 Indian Constitution at Work Ch7 pg 3",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
-      "difficulty_level": 3,
+      "difficulty_level": 4,
       "concepts_tested": [
-        "FEDERALISM IN THE INDIAN CONSTITUTION"
+        "CONFLICTS IN INDIA’S FEDERAL SYSTEM"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Federalism, which statement is supported by the source text about READ A CARTOON?",
+      "options": [
+        "In spite of all these diversities we share a common land mass.",
+        "We have also participated in a common history, especially, when we fought for independence.",
+        "This has led our national leaders to visualise India as a country where there is unity in diversity.",
+        "Federalism does not consist of a set of fixed principles, which are applied, to different historical situations."
+      ],
+      "correct_answer": 0,
+      "pattern": "match",
+      "source_trace": "NCERT Class 11 Indian Constitution at Work Ch7 pg 4",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "READ A CARTOON"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Federalism, which statement is supported by the source text about 18 September 1949?",
+      "options": [
+        "Rather, federalism as a principle of government has evolved differently in different situations.",
+        "American federalism – one of the first major attempts to build a federal polity – is different from German or Indian federalism.",
+        "But there are also a few key ideas and concepts associated with federalism. ± Essentially, federalism is an institutional mechanism to accommodate two sets...",
+        "In some federal countries, there is even a system of dual citizenship."
+      ],
+      "correct_answer": 0,
+      "pattern": "not_type",
+      "source_trace": "NCERT Class 11 Indian Constitution at Work Ch7 pg 4",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 5,
+      "concepts_tested": [
+        "18 September 1949"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Federalism, which statement is supported by the source text about 27 April 1952?",
+      "options": [
+        "India has only a single citizenship. ± The people likewise, have two sets of identities and loyalties—they belong to the region as well as...",
+        "Each level of the polity has distinct powers and responsibilities and has a separate system of government. ± The details of this dual system...",
+        "Certain subjects, which concern the nation as a whole, for example, defence or currency, are the responsibility of the union or central government.",
+        "We have our identity as students of class XI or XII and so on."
+      ],
+      "correct_answer": 0,
+      "pattern": "statement",
+      "source_trace": "NCERT Class 11 Indian Constitution at Work Ch7 pg 4",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 5,
+      "concepts_tested": [
+        "27 April 1952"
       ]
     }
   ],
@@ -220,7 +310,7 @@
     "generation_method": "local_source_only_extractive_decode"
   },
   "content_model": "clearupsc_textbook_decoded_from_source_v1",
-  "decode_status": "textbook_decoded",
+  "decode_status": "textbook_verified",
   "source": {
     "book": "NCERT Class 11 Indian Constitution at Work",
     "chapter": 7,
@@ -232,5 +322,5 @@
   "source_trace": "NCERT Class 11 Indian Constitution at Work | Chapter 7: Federalism | https://ncert.nic.in/textbook/pdf/keps207.pdf | sha256:53cfb0527ad9941572f1978f91067f53f2fc32d557054a8e06f54db1417720c7",
   "raw_text_path": "data/study/textbook-first/raw-text/gs2_polity_class11_constitution_ch07_federalism.txt",
   "generated_by": "local_source_only_extractive_decode",
-  "generated_at": "2026-05-26T19:53:33.358Z"
+  "generated_at": "2026-05-26T20:26:39.050Z"
 }

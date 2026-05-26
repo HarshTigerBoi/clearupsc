@@ -115,7 +115,7 @@
       "source_trace": "NCERT Class 12 Chemistry Ch1 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
-      "difficulty_level": 3,
+      "difficulty_level": 1,
       "concepts_tested": [
         "2 Chemistry"
       ]
@@ -129,7 +129,7 @@
         "Solutions Solutions Almost all processes in body occur in some kind of liquid solutions."
       ],
       "correct_answer": 0,
-      "pattern": "statement",
+      "pattern": "match",
       "source_trace": "NCERT Class 12 Chemistry Ch1 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
@@ -183,13 +183,103 @@
         "But in real life these kinds of description can add to lot of confusion and thus the need for a quantitative description of the..."
       ],
       "correct_answer": 0,
+      "pattern": "match",
+      "source_trace": "NCERT Class 12 Chemistry Ch1 pg 1",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "5 Solutions"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Solutions, which statement is supported by the source text about 1.3 Solubility 1.3 Solubility 1.3 Solubility 1.3 Solubility 1.3 Solubility?",
+      "options": [
+        "There are several ways by which we can describe the concentration of the solution quantitatively.",
+        "(i) Mass percentage (w/w): The mass percentage of a component of a solution is defined as: Mass % of a component =  Mass...",
+        "Concentration described by mass percentage is commonly used in industrial chemical applications.",
+        "For example, commercial bleaching solution contains 3.62 mass percentage of sodium hypochlorite in water."
+      ],
+      "correct_answer": 0,
+      "pattern": "not_type",
+      "source_trace": "NCERT Class 12 Chemistry Ch1 pg 1",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "1.3 Solubility 1.3 Solubility 1.3 Solubility 1.3 Solubility 1.3 Solubility"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Solutions, which statement is supported by the source text about 1.1 Calculate the mass percentage of benzene (C6H6) and carbon?",
+      "options": [
+        "(ii) Volume percentage (V/V): The volume percentage is defined as: Volume % of a component =  Volume of the component 100 Total volume...",
+        "3 Solutions For example, 10% ethanol solution in water means that 10 mL of ethanol is dissolved in water such that the total volume...",
+        "Solutions containing liquids are commonly expressed in this unit.",
+        "For example, a 35% (v/v) solution of ethylene glycol, an antifreeze, is used in cars for cooling the engine."
+      ],
+      "correct_answer": 0,
       "pattern": "statement",
       "source_trace": "NCERT Class 12 Chemistry Ch1 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
-      "difficulty_level": 3,
+      "difficulty_level": 4,
       "concepts_tested": [
-        "5 Solutions"
+        "1.1 Calculate the mass percentage of benzene (C6H6) and carbon"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Solutions, which statement is supported by the source text about 1.2 Calculate the mole fraction of benzene in solution containing 30%?",
+      "options": [
+        "At this concentration the antifreeze lowers the freezing point of water to 255.4K (–17.6°C).",
+        "(iii) Mass by volume percentage (w/V): Another unit which is commonly used in medicine and pharmacy is mass by volume percentage.",
+        "It is the mass of solute dissolved in 100 mL of the solution.",
+        "(iv) Parts per million: When a solute is present in trace quantities, it is convenient to express concentration in parts per million (ppm) and..."
+      ],
+      "correct_answer": 0,
+      "pattern": "match",
+      "source_trace": "NCERT Class 12 Chemistry Ch1 pg 2",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "1.2 Calculate the mole fraction of benzene in solution containing 30%"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Solutions, which statement is supported by the source text about 1.3 Calculate the molarity of each of the following solutions: (a) 30 g of?",
+      "options": [
+        "A litre of sea water (which weighs 1030 g) contains about 6 × 10–3 g of dissolved oxygen (O2).",
+        "Such a small concentration is also expressed as 5.8 g per 106 g (5.8 ppm) of sea water.",
+        "The concentration of pollutants in water or atmosphere is often expressed in terms of mg mL–1 or ppm.",
+        "(v) Mole fraction: Commonly used symbol for mole fraction is x and subscript used on the right hand side of x denotes the component."
+      ],
+      "correct_answer": 0,
+      "pattern": "not_type",
+      "source_trace": "NCERT Class 12 Chemistry Ch1 pg 2",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 5,
+      "concepts_tested": [
+        "1.3 Calculate the molarity of each of the following solutions: (a) 30 g of"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Solutions, which statement is supported by the source text about 1.4 Calculate the mass of urea (NH2CONH2) required in making 2.5 kg of?",
+      "options": [
+        "It is defined as: Mole fraction of a component = Number of moles of the component Total number of moles of all the compone...",
+        "4 Chemistry Calculate the mole fraction of ethylene glycol (C2H6O2) in a solution containing 20% of C2H6O2 by mass.",
+        "Assume that we have 100 g of solution (one can start with any amount of solution because the results obtained will be the same).",
+        "Solution will contain 20 g of ethylene glycol and 80 g of water."
+      ],
+      "correct_answer": 0,
+      "pattern": "statement",
+      "source_trace": "NCERT Class 12 Chemistry Ch1 pg 2",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 5,
+      "concepts_tested": [
+        "1.4 Calculate the mass of urea (NH2CONH2) required in making 2.5 kg of"
       ]
     }
   ],
@@ -199,7 +289,7 @@
     "generation_method": "local_source_only_extractive_decode"
   },
   "content_model": "clearupsc_textbook_decoded_from_source_v1",
-  "decode_status": "textbook_decoded",
+  "decode_status": "textbook_verified",
   "source": {
     "book": "NCERT Class 12 Chemistry",
     "chapter": 1,
@@ -211,5 +301,5 @@
   "source_trace": "NCERT Class 12 Chemistry | Chapter 1: Solutions | https://ncert.nic.in/textbook/pdf/lech101.pdf | sha256:99d19dbb008280c361496c6e184be91b214d70fb40837749c692c8c52add341f",
   "raw_text_path": "data/study/textbook-first/raw-text/gs3_sci_class12_chemistry_ch01_solutions.txt",
   "generated_by": "local_source_only_extractive_decode",
-  "generated_at": "2026-05-26T19:54:30.896Z"
+  "generated_at": "2026-05-26T20:27:39.202Z"
 }

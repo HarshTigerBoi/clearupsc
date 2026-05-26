@@ -124,7 +124,7 @@
       "source_trace": "NCERT Class 12 Biology Ch7 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
-      "difficulty_level": 3,
+      "difficulty_level": 1,
       "concepts_tested": [
         "M.S. SWAMINATHAN"
       ]
@@ -138,7 +138,7 @@
         "These are briefly described in the following three chapters of this unit."
       ],
       "correct_answer": 0,
-      "pattern": "statement",
+      "pattern": "match",
       "source_trace": "NCERT Class 12 Biology Ch7 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
@@ -192,13 +192,103 @@
         "In later years, biology stated that mind influences, through neural system and endocrine system, our immune system and that our immune system maintains our..."
       ],
       "correct_answer": 0,
-      "pattern": "statement",
+      "pattern": "match",
       "source_trace": "NCERT Class 12 Biology Ch7 pg 2",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
-      "difficulty_level": 3,
+      "difficulty_level": 4,
       "concepts_tested": [
         "7.2 Immunity"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Human Health and Disease, which statement is supported by the source text about 7.3 AIDS?",
+      "options": [
+        "Of course, health is affected by – (i) genetic disorders – deficiencies with which a child is born and deficiencies/defects which the child inherits...",
+        "CHAPTER 7 HUMAN HEALTH AND DISEASE 7.1 Common Diseases in Humans 7.2 Immunity 7.3 AIDS 7.4 Cancer 7.5 Drugs and Alcohol Abuse",
+        "130 BIOLOGY The term health is very frequently used by everybody.",
+        "Health does not simply mean ‘absence of disease’ or ‘physical fitness’."
+      ],
+      "correct_answer": 0,
+      "pattern": "not_type",
+      "source_trace": "NCERT Class 12 Biology Ch7 pg 2",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "7.3 AIDS"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Human Health and Disease, which statement is supported by the source text about 7.4 Cancer?",
+      "options": [
+        "It could be defined as a state of complete physical, mental and social well-being.",
+        "When people are healthy, they are more efficient at work.",
+        "This increases productivity and brings economic prosperity.",
+        "Health also increases longevity of people and reduces infant and maternal mortality."
+      ],
+      "correct_answer": 0,
+      "pattern": "statement",
+      "source_trace": "NCERT Class 12 Biology Ch7 pg 3",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "7.4 Cancer"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Human Health and Disease, which statement is supported by the source text about 7.5 Drugs and Alcohol Abuse?",
+      "options": [
+        "Balanced diet, personal hygiene and regular exercise are very important to maintain good health.",
+        "Yoga has been practised since time immemorial to achieve physical and mental health.",
+        "Awareness about diseases and their effect on different bodily functions, vaccination (immunisation) against infectious diseases, proper disposal of wastes, control of vectors and maintenance...",
+        "When the functioning of one or more organs or systems of the body is adversely affected, characterised by appearance of various signs and symptoms,..."
+      ],
+      "correct_answer": 0,
+      "pattern": "match",
+      "source_trace": "NCERT Class 12 Biology Ch7 pg 3",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "7.5 Drugs and Alcohol Abuse"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Human Health and Disease, which statement is supported by the source text about BIOLOGY?",
+      "options": [
+        "Diseases can be broadly grouped into infectious and non-infectious.",
+        "Diseases which are easily transmitted from one person to another, are called infectious diseases.",
+        "Infectious diseases are very common and every one of us suffers from these at sometime or other.",
+        "Among non-infectious diseases, cancer is the major cause of death."
+      ],
+      "correct_answer": 0,
+      "pattern": "not_type",
+      "source_trace": "NCERT Class 12 Biology Ch7 pg 3",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 5,
+      "concepts_tested": [
+        "BIOLOGY"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Human Health and Disease, which statement is supported by the source text about 7.1 COMMON DISEASES IN HUMANS?",
+      "options": [
+        "Drug and alcohol abuse also affect our health adversely.",
+        "7.1 COMMON DISEASES IN HUMANS A wide range of organisms belonging to bacteria, viruses, fungi, protozoans, helminths, etc., could cause diseases in man.",
+        "Most parasites are therefore pathogens as they cause harm to the host by living in (or on) them.",
+        "The pathogens can enter our body by various means, multiply and interfere with normal vital activities, resulting in morphological and functional damage."
+      ],
+      "correct_answer": 0,
+      "pattern": "statement",
+      "source_trace": "NCERT Class 12 Biology Ch7 pg 3",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 5,
+      "concepts_tested": [
+        "7.1 COMMON DISEASES IN HUMANS"
       ]
     }
   ],
@@ -208,7 +298,7 @@
     "generation_method": "local_source_only_extractive_decode"
   },
   "content_model": "clearupsc_textbook_decoded_from_source_v1",
-  "decode_status": "textbook_decoded",
+  "decode_status": "textbook_verified",
   "source": {
     "book": "NCERT Class 12 Biology",
     "chapter": 7,
@@ -220,5 +310,5 @@
   "source_trace": "NCERT Class 12 Biology | Chapter 7: Human Health and Disease | https://ncert.nic.in/textbook/pdf/lebo107.pdf | sha256:afb1c7c2f7699e0572e09e9ee3279f4e61100ba0b117b3f34b9d1ac10bdeae75",
   "raw_text_path": "data/study/textbook-first/raw-text/gs3_env_class12_biology_ch07_human_health_and_disease.txt",
   "generated_by": "local_source_only_extractive_decode",
-  "generated_at": "2026-05-26T19:53:38.937Z"
+  "generated_at": "2026-05-26T20:26:44.955Z"
 }

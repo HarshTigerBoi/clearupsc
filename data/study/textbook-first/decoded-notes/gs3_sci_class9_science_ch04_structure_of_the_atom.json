@@ -115,7 +115,7 @@
       "source_trace": "NCERT Class 9 Science Ch4 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
-      "difficulty_level": 3,
+      "difficulty_level": 1,
       "concepts_tested": [
         "4.1 Motion in a Straight Line"
       ]
@@ -129,7 +129,7 @@
         "Now, you will learn y How much distance should we maintain from the truck ahead to avoid a collision if it suddenly applies the..."
       ],
       "correct_answer": 0,
-      "pattern": "statement",
+      "pattern": "match",
       "source_trace": "NCERT Class 9 Science Ch4 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
@@ -183,13 +183,103 @@
         "On the other hand, the object is said to be at rest if its position with respect to the reference point does not change..."
       ],
       "correct_answer": 0,
-      "pattern": "statement",
+      "pattern": "match",
       "source_trace": "NCERT Class 9 Science Ch4 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
-      "difficulty_level": 3,
+      "difficulty_level": 4,
       "concepts_tested": [
         "4.1.4 Average acceleration"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Structure of the Atom, which statement is supported by the source text about 4.2 Graphical Representation of Motion?",
+      "options": [
+        "Exploration|Grade 9 50 Let us take the example of an athlete running on a straight track (Fig.",
+        "To describe the position of the athlete, let us take her starting point as the reference point.",
+        "4.3, let us make a straight line with distances marked on it and mark the reference point on it as the origin ʻOʼ.",
+        "The athlete starts running from O, and her positions at two instants of time are marked by points B and A."
+      ],
+      "correct_answer": 0,
+      "pattern": "not_type",
+      "source_trace": "NCERT Class 9 Science Ch4 pg 2",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "4.2 Graphical Representation of Motion"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Structure of the Atom, which statement is supported by the source text about 4.2.1 Plotting graph?",
+      "options": [
+        "4.3: Reference point and positions of the athlete at different instants of time on a straight line O B A 0 m 20 m...",
+        "For the object moving in a straight line, the object can move only in one of the two directions — forward and backward.",
+        "Thus, the direction is represented by plus ( ) and minus (–) signs as shown in Fig.",
+        "Positions to the right of the reference point O are generally taken as positive, and to the left of O as negative (Fig."
+      ],
+      "correct_answer": 0,
+      "pattern": "statement",
+      "source_trace": "NCERT Class 9 Science Ch4 pg 2",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "4.2.1 Plotting graph"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Structure of the Atom, which statement is supported by the source text about 4.2.2 Position-time graphs?",
+      "options": [
+        "4.1.2 Distance travelled and displacement Suppose an athlete starts running from point O at time t = 0 s, reaches point B at t...",
+        "How much is the total distance travelled by the athlete between the starting and stopping positions?",
+        "The total distance travelled is OA + AB = 100 m + 60 m = 160 m.",
+        "Let us now think about the distance between the starting and the stopping positions of the athlete."
+      ],
+      "correct_answer": 0,
+      "pattern": "match",
+      "source_trace": "NCERT Class 9 Science Ch4 pg 2",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "4.2.2 Position-time graphs"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Structure of the Atom, which statement is supported by the source text about 4.2.3 Velocity-time graphs?",
+      "options": [
+        "It is OB = 40 m, which is different from the total distance travelled by the athlete.",
+        "Displacement is the net change in the position of an object between the two given instants of time.",
+        "A complete description of physical quantities like displacement requires specifying both a direction and its numerical value (with units).",
+        "The numerical value (with units) of such a physical quantity is called its magnitude."
+      ],
+      "correct_answer": 0,
+      "pattern": "not_type",
+      "source_trace": "NCERT Class 9 Science Ch4 pg 2",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 5,
+      "concepts_tested": [
+        "4.2.3 Velocity-time graphs"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Structure of the Atom, which statement is supported by the source text about CD DE CA BC?",
+      "options": [
+        "The magnitude of displacement is the distance between the object’s positions at the two instants.",
+        "The direction of displacement is specified from the position at the first instant towards the position at the second instant.",
+        "4.4: Reference point and positions of athlete at different instants of time Total distance travelled Displacement 0 m O B A 20 m t...",
+        "An instant of time is a single reading of clock at a given point of time."
+      ],
+      "correct_answer": 0,
+      "pattern": "statement",
+      "source_trace": "NCERT Class 9 Science Ch4 pg 2",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 5,
+      "concepts_tested": [
+        "CD DE CA BC"
       ]
     }
   ],
@@ -199,7 +289,7 @@
     "generation_method": "local_source_only_extractive_decode"
   },
   "content_model": "clearupsc_textbook_decoded_from_source_v1",
-  "decode_status": "textbook_decoded",
+  "decode_status": "textbook_verified",
   "source": {
     "book": "NCERT Class 9 Science",
     "chapter": 4,
@@ -211,5 +301,5 @@
   "source_trace": "NCERT Class 9 Science | Chapter 4: Structure of the Atom | https://ncert.nic.in/textbook/pdf/iesc104.pdf | sha256:9a9299f272e2e760b7b58e4ecbf697fd65e51ab0fe181d55c0aff8ce4d19e8a4",
   "raw_text_path": "data/study/textbook-first/raw-text/gs3_sci_class9_science_ch04_structure_of_the_atom.txt",
   "generated_by": "local_source_only_extractive_decode",
-  "generated_at": "2026-05-26T19:54:40.751Z"
+  "generated_at": "2026-05-26T20:27:49.507Z"
 }

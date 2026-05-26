@@ -120,7 +120,7 @@
       "source_trace": "NCERT Class 9 Science Ch9 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
-      "difficulty_level": 3,
+      "difficulty_level": 1,
       "concepts_tested": [
         "9.1 Law of Conservation of Mass"
       ]
@@ -134,7 +134,7 @@
         "Hydrogen gas is combustible and oxygen supports combustion, whereas water neither burns nor helps in burning; rather, it extinguishes fire."
       ],
       "correct_answer": 0,
-      "pattern": "statement",
+      "pattern": "match",
       "source_trace": "NCERT Class 9 Science Ch9 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
@@ -188,13 +188,103 @@
         "You can repeat the above activity by weighing a piece of paper before and after tearing it into pieces, and observe whether its mass..."
       ],
       "correct_answer": 0,
+      "pattern": "match",
+      "source_trace": "NCERT Class 9 Science Ch9 pg 1",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "9.4.1 Bonding by sharing of electrons — Covalent Bond"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Force and Laws of Motion, which statement is supported by the source text about 9.4.2 Bonding by electron transfer — Ionic bond?",
+      "options": [
+        "Now, let us find out whether this is true for chemical changes as well.",
+        "Do you remember what happened when baking soda was added to vinegar?",
+        "A gas, carbon dioxide, was formed during this chemical change and the reaction is represented as — Vinegar + Baking soda (Sodium hydrogencarbonate) Carbon...",
+        "Place a clean, dry 100 mL conical flask and a medium-sized balloon on a weighing balance."
+      ],
+      "correct_answer": 0,
+      "pattern": "not_type",
+      "source_trace": "NCERT Class 9 Science Ch9 pg 1",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "9.4.2 Bonding by electron transfer — Ionic bond"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Force and Laws of Motion, which statement is supported by the source text about 9.5 Writing Chemical Formulae?",
+      "options": [
+        "Pour about 20 mL of vinegar or lemon juice into the conical flask.",
+        "Take about 2 g of baking soda (sodium hydrogencarbonate) and put it into the balloon.",
+        "Keep the balloon filled with baking soda on the weighing balance next to the conical flask.",
+        "Grade 7 Curiosity Curiosity Chapter 5 Beaker containing undissolved salt in water Digital weighing balance Fig."
+      ],
+      "correct_answer": 0,
       "pattern": "statement",
       "source_trace": "NCERT Class 9 Science Ch9 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
-      "difficulty_level": 3,
+      "difficulty_level": 4,
       "concepts_tested": [
-        "9.4.1 Bonding by sharing of electrons — Covalent Bond"
+        "9.5 Writing Chemical Formulae"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Force and Laws of Motion, which statement is supported by the source text about 9.5.1 Writing chemical formulae of covalent compounds?",
+      "options": [
+        "9.1: (b) Weight of solution of salt and water Digital weighing balance Beaker containing dissolved salt in water Fig.",
+        "9.1: (a) Weight of water and undissolved salt Digital weighing balance Balloon containing baking soda Vinegar Conical flask Fig.",
+        "Carefully transfer the baking soda (sodium hydrogencarbonate) from the balloon into the conical flask containing vinegar (Fig.",
+        "Place the conical flask and balloon back on the weighing balance, and record the final reading (Fig."
+      ],
+      "correct_answer": 0,
+      "pattern": "match",
+      "source_trace": "NCERT Class 9 Science Ch9 pg 1",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "9.5.1 Writing chemical formulae of covalent compounds"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Force and Laws of Motion, which statement is supported by the source text about 9.5.2 Writing chemical formulae of ionic compounds?",
+      "options": [
+        "Keep the conical flask and the balloon on the digital weighing balance.",
+        "This prevents errors caused by small traces of baking soda that may remain stuck to the balloon.",
+        "Repeat the above experiment in a slightly modified way as explained below.",
+        "Place about 2 g of baking soda (sodium hydrogencarbonate) in the balloon."
+      ],
+      "correct_answer": 0,
+      "pattern": "not_type",
+      "source_trace": "NCERT Class 9 Science Ch9 pg 2",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 5,
+      "concepts_tested": [
+        "9.5.2 Writing chemical formulae of ionic compounds"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Force and Laws of Motion, which statement is supported by the source text about 9.6 Properties of the Ionic and the Covalent?",
+      "options": [
+        "Fix the balloon to the mouth of the conical flask using a thread, without allowing the baking soda to mix with the vinegar.",
+        "Weigh the conical flask containing vinegar and the balloon containing baking soda, and record the reading (Fig.",
+        "Lift the other end of the balloon upwards, allowing the baking soda (sodium hydrogencarbonate) to fall into the vinegar (Fig.",
+        "9.2: (c) Weight of the final reaction mixture Reaction mixture Balloon Fig."
+      ],
+      "correct_answer": 0,
+      "pattern": "statement",
+      "source_trace": "NCERT Class 9 Science Ch9 pg 2",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 5,
+      "concepts_tested": [
+        "9.6 Properties of the Ionic and the Covalent"
       ]
     }
   ],
@@ -204,7 +294,7 @@
     "generation_method": "local_source_only_extractive_decode"
   },
   "content_model": "clearupsc_textbook_decoded_from_source_v1",
-  "decode_status": "textbook_decoded",
+  "decode_status": "textbook_verified",
   "source": {
     "book": "NCERT Class 9 Science",
     "chapter": 9,
@@ -216,5 +306,5 @@
   "source_trace": "NCERT Class 9 Science | Chapter 9: Force and Laws of Motion | https://ncert.nic.in/textbook/pdf/iesc109.pdf | sha256:d588c71178ea87439e9bce3234dadde876c9b54b71587cf4b1b367860c289d57",
   "raw_text_path": "data/study/textbook-first/raw-text/gs3_sci_class9_science_ch09_force_and_laws_of_motion.txt",
   "generated_by": "local_source_only_extractive_decode",
-  "generated_at": "2026-05-26T19:54:41.997Z"
+  "generated_at": "2026-05-26T20:27:50.737Z"
 }

@@ -115,7 +115,7 @@
       "source_trace": "NCERT Class 7 Science Ch4 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
-      "difficulty_level": 3,
+      "difficulty_level": 1,
       "concepts_tested": [
         "4.1 ACIDS AND BASES"
       ]
@@ -129,7 +129,7 @@
         "Since, it does not taste sour it means, that it has no acids in it."
       ],
       "correct_answer": 0,
-      "pattern": "statement",
+      "pattern": "match",
       "source_trace": "NCERT Class 7 Science Ch4 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
@@ -183,13 +183,103 @@
         "Lactic acid Curd Oxalic acid Spinach Ascorbic acid Amla, Citrus fruits (Vitamin C) Tartaric acid Tamarind, grapes, unripe mangoes, etc."
       ],
       "correct_answer": 0,
-      "pattern": "statement",
+      "pattern": "match",
       "source_trace": "NCERT Class 7 Science Ch4 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
-      "difficulty_level": 3,
+      "difficulty_level": 4,
       "concepts_tested": [
         "AROUND US"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Heat, which statement is supported by the source text about SCIENCE 40?",
+      "options": [
+        "All the acids mentioned above occur in nature Name of base Found in Calcium hydroxide Lime water Ammonium hydroxide Window cleaner Sodium hydroxide/ Soap...",
+        "SCIENCE 40 Turmeric is another natural indicator Activity 4.2  Take a tablespoonful of turmeric powder.",
+        "Add a little water and make a paste.  Make turmeric paper by depositing turmeric paste on blotting paper/filter paper and drying it.",
+        "Cut thin strips of the yellow paper obtained.  Put a drop of soap solution on the strip of turmeric paper."
+      ],
+      "correct_answer": 0,
+      "pattern": "not_type",
+      "source_trace": "NCERT Class 7 Science Ch4 pg 1",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "SCIENCE 40"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Heat, which statement is supported by the source text about ACIDS , BASES AND SALTS 41?",
+      "options": [
+        "Is there any change in colour?  Repeat the same exercise with the blue litmus paper.",
+        "Perform the same activity with the following substances: Tap water, detergent solution, aerated drink, soap solution, shampoo, common salt solution, sugar solution, vinegar, baking...",
+        "In your Table, are there any substances on which litmus had no effect?",
+        "The solutions which do not change the colour of either red or blue litmus are known as neutral solutions."
+      ],
+      "correct_answer": 0,
+      "pattern": "statement",
+      "source_trace": "NCERT Class 7 Science Ch4 pg 2",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "ACIDS , BASES AND SALTS 41"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Heat, which statement is supported by the source text about SCIENCE 42?",
+      "options": [
+        "To prepare limewater, take some water in a tumbler and add some lime (chuna) into it.",
+        "Test solution Effect on red Effect on blue Inference litmus paper litmus paper",
+        "Common salt You can prepare a greeting card for your mother on her birthday.",
+        "Apply turmeric paste on a sheet of plane white paper and dry it."
+      ],
+      "correct_answer": 0,
+      "pattern": "match",
+      "source_trace": "NCERT Class 7 Science Ch4 pg 2",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "SCIENCE 42"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Heat, which statement is supported by the source text about ACIDS , BASES AND SALTS 43?",
+      "options": [
+        "Draw a beautiful flower with soap solution with the help of a cotton bud.",
+        "Similarly test the solutions listed in Table 4.3 and note down your observations.",
+        "China Rose as Indicator Activity 4.3 Collect some China rose (Gudhal ) petals and place them in a beaker.",
+        "4.3 China rose flower and indicator prepared from it Acid Base Indicator China rose Now I understand why a turmeric stain on my white..."
+      ],
+      "correct_answer": 0,
+      "pattern": "not_type",
+      "source_trace": "NCERT Class 7 Science Ch4 pg 3",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 5,
+      "concepts_tested": [
+        "ACIDS , BASES AND SALTS 43"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Heat, which statement is supported by the source text about 4.3 NEUTRALISATION?",
+      "options": [
+        "Keep the mixture for some time till water becomes coloured.",
+        "Add five drops of the indicator to each of the solutions given in Table 4.4.",
+        "What is the effect of the indicator on acidic, basic and neutral solutions?",
+        "4.3) turns acidic solutions to dark pink (magenta) and basic solutions to green."
+      ],
+      "correct_answer": 0,
+      "pattern": "statement",
+      "source_trace": "NCERT Class 7 Science Ch4 pg 4",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 5,
+      "concepts_tested": [
+        "4.3 NEUTRALISATION"
       ]
     }
   ],
@@ -199,7 +289,7 @@
     "generation_method": "local_source_only_extractive_decode"
   },
   "content_model": "clearupsc_textbook_decoded_from_source_v1",
-  "decode_status": "textbook_decoded",
+  "decode_status": "textbook_verified",
   "source": {
     "book": "NCERT Class 7 Science",
     "chapter": 4,
@@ -211,5 +301,5 @@
   "source_trace": "NCERT Class 7 Science | Chapter 4: Heat | https://ncert.nic.in/textbook/pdf/gesc104.pdf | sha256:b52c2fbf8d64fd973ac0a1867e4d5f53c811994e9ff4cbdc761063772c577cbf",
   "raw_text_path": "data/study/textbook-first/raw-text/gs3_sci_class7_science_ch04_heat.txt",
   "generated_by": "local_source_only_extractive_decode",
-  "generated_at": "2026-05-26T19:54:34.860Z"
+  "generated_at": "2026-05-26T20:27:43.369Z"
 }

@@ -132,7 +132,7 @@
       "source_trace": "NCERT Class 12 Micro Ch4 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
-      "difficulty_level": 3,
+      "difficulty_level": 1,
       "concepts_tested": [
         "4.1 PERFECT COMPETITION: DEFINING FEATURES"
       ]
@@ -146,7 +146,7 @@
         "Finally, we study how to aggregate the supply curves of individual firms and obtain the market supply curve."
       ],
       "correct_answer": 0,
-      "pattern": "statement",
+      "pattern": "match",
       "source_trace": "NCERT Class 12 Micro Ch4 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
@@ -200,13 +200,103 @@
         "54 Introductory Microeconomics for the large numbers of firms to exist."
       ],
       "correct_answer": 0,
+      "pattern": "match",
+      "source_trace": "NCERT Class 12 Micro Ch4 pg 1",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "4.3 PROFIT MAXIMISATION"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Theory of the Firm, which statement is supported by the source text about π = TR – TC?",
+      "options": [
+        "If entry was difficult, or restricted, then the number of firms in the market could be small.",
+        "Perfect information implies that all buyers and all sellers are completely informed about the price, quality and other relevant details about the product, as...",
+        "These features result in the single most distinguishing characteristic of perfect competition: price taking behaviour.",
+        "From the viewpoint of a firm, what does price-taking entail?"
+      ],
+      "correct_answer": 0,
+      "pattern": "not_type",
+      "source_trace": "NCERT Class 12 Micro Ch4 pg 1",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "π = TR – TC"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Theory of the Firm, which statement is supported by the source text about 4.3.1 Condition 1?",
+      "options": [
+        "A price-taking firm believes that if it sets a price above the market price, it will be unable to sell any quantity of the...",
+        "On the other hand, should the set price be less than or equal to the market price, the firm can sell as many units...",
+        "From the viewpoint of a buyer, what does price-taking entail?",
+        "A buyer would obviously like to buy the good at the lowest possible price."
+      ],
+      "correct_answer": 0,
       "pattern": "statement",
       "source_trace": "NCERT Class 12 Micro Ch4 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
-      "difficulty_level": 3,
+      "difficulty_level": 4,
       "concepts_tested": [
-        "4.3 PROFIT MAXIMISATION"
+        "4.3.1 Condition 1"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Theory of the Firm, which statement is supported by the source text about 4.3.2 Condition 2?",
+      "options": [
+        "However, a price-taking buyer believes that if she asks for a price below the market price, no firm will be willing to sell to...",
+        "On the other hand, should the price asked be greater than or equal to the market price, the buyer can obtain as many units...",
+        "Price-taking is often thought to be a reasonable assumption when the market has many firms and buyers have perfect information about the price prevailing...",
+        "Let us start with a situation where each firm in the market charges the same (market) price."
+      ],
+      "correct_answer": 0,
+      "pattern": "match",
+      "source_trace": "NCERT Class 12 Micro Ch4 pg 1",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "4.3.2 Condition 2"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Theory of the Firm, which statement is supported by the source text about 57 The Theory of the Firm?",
+      "options": [
+        "Suppose, now, that a certain firm raises its price above the market price.",
+        "Observe that since all firms produce the same good and all buyers are aware of the market price, the firm in question loses all...",
+        "Furthermore, as these buyers switch their purchases to other firms, no “adjustment” problems arise; their demand is readily accommodated when there are so many...",
+        "Recall, now, that an individual firm’s inability to sell any amount of the good at a price exceeding the market price is precisely what..."
+      ],
+      "correct_answer": 0,
+      "pattern": "not_type",
+      "source_trace": "NCERT Class 12 Micro Ch4 pg 1",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 5,
+      "concepts_tested": [
+        "57 The Theory of the Firm"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Theory of the Firm, which statement is supported by the source text about 4.3.3 Condition 3?",
+      "options": [
+        "4.2 REVENUE We have indicated that in a perfectly competitive market, a firm believes that it can sell as many units of the good...",
+        "But, if this is the case, surely there is no reason to set a price lower than the market price.",
+        "In other words, should the firm desire to sell some amount of the good, the price that it sets is exactly equal to the...",
+        "A firm earns revenue by selling the good that it produces in the market."
+      ],
+      "correct_answer": 0,
+      "pattern": "statement",
+      "source_trace": "NCERT Class 12 Micro Ch4 pg 1",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 5,
+      "concepts_tested": [
+        "4.3.3 Condition 3"
       ]
     }
   ],
@@ -216,7 +306,7 @@
     "generation_method": "local_source_only_extractive_decode"
   },
   "content_model": "clearupsc_textbook_decoded_from_source_v1",
-  "decode_status": "textbook_decoded",
+  "decode_status": "textbook_verified",
   "source": {
     "book": "NCERT Class 12 Introductory Microeconomics",
     "chapter": 4,
@@ -228,5 +318,5 @@
   "source_trace": "NCERT Class 12 Introductory Microeconomics | Chapter 4: Theory of the Firm | https://ncert.nic.in/textbook/pdf/leec204.pdf | sha256:698cba11d5b9bf295dfc17d61ca2b703554fd9abb8a851a5df69930fa3c199fe",
   "raw_text_path": "data/study/textbook-first/raw-text/gs3_economy_class12_micro_ch04_theory_of_the_firm.txt",
   "generated_by": "local_source_only_extractive_decode",
-  "generated_at": "2026-05-26T19:54:19.585Z"
+  "generated_at": "2026-05-26T20:27:27.504Z"
 }

@@ -132,7 +132,7 @@
       "source_trace": "NCERT Class 7 Our Pasts II Ch8 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
-      "difficulty_level": 3,
+      "difficulty_level": 1,
       "concepts_tested": [
         "8 EIGHTEENTH-CENTURY"
       ]
@@ -146,7 +146,7 @@
         "Under his successors, the efficiency of the imperial administration broke down."
       ],
       "correct_answer": 0,
-      "pattern": "statement",
+      "pattern": "match",
       "source_trace": "NCERT Class 7 Our Pasts II Ch8 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
@@ -200,13 +200,103 @@
         "But these groups were now able to seize the economic resources of the region to consolidate their positions."
       ],
       "correct_answer": 0,
+      "pattern": "match",
+      "source_trace": "NCERT Class 7 Our Pasts II Ch8 pg 2",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "99EIGHTEENTH-CENTURY"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Devotional Paths to the Divine, which statement is supported by the source text about 101EIGHTEENTH -CENTURY?",
+      "options": [
+        "The Mughal emperors after Aurangzeb were unable to arrest the gradual shifting of political and economic authority into the hands of provincial governors, local...",
+        "Rich harvests and empty coffers The following is a contemporary writer’s account of the financial bankruptcy of the empire: The great lords are helpless...",
+        "Their peasants raise two crops a year, but their lords see nothing of either, and their agents on the spot are virtual prisoners in...",
+        "So complete is the collapse of all order and administration that though the peasant reaps a harvest of gold, his lord does not see..."
+      ],
+      "correct_answer": 0,
+      "pattern": "not_type",
+      "source_trace": "NCERT Class 7 Our Pasts II Ch8 pg 2",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "101EIGHTEENTH -CENTURY"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Devotional Paths to the Divine, which statement is supported by the source text about POLITICAL F ORMATIONS?",
+      "options": [
+        "How can he pay the soldiers who should go before him when he goes out, or the horsemen who should ride behind him?",
+        "97EIGHTEENTH-CENTURY POLITICAL FORMATIONS In the midst of this economic and political crisis, the ruler of Iran, Nadir Shah, sacked and plundered the city of...",
+        "This invasion was followed by a series of plundering raids by the Afghan ruler Ahmad Shah Abdali, who invaded north India five times between...",
+        "Nadir Shah attacks Delhi The devastation of Delhi after Nadir Shah’s invasion was described by contemporary observers."
+      ],
+      "correct_answer": 0,
       "pattern": "statement",
       "source_trace": "NCERT Class 7 Our Pasts II Ch8 pg 2",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
-      "difficulty_level": 3,
+      "difficulty_level": 4,
       "concepts_tested": [
-        "99EIGHTEENTH-CENTURY"
+        "POLITICAL F ORMATIONS"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Devotional Paths to the Divine, which statement is supported by the source text about 103EIGHTEENTH -CENTURY?",
+      "options": [
+        "One described the wealth looted from the Mughal treasury as follows: sixty lakhs of rupees and some thousand gold coins, nearly one crore worth...",
+        "Another account described the invasion’s impact upon Delhi: (those) … who had been masters were now in dire straits; and those who had been...",
+        "Those who once set the style in clothes now went naked; and those who owned property were now homeless … The New City (Shahjahanabad)...",
+        "(Nadir Shah) then attacked the Old quarters of the city and destroyed a whole world that existed there … Fig."
+      ],
+      "correct_answer": 0,
+      "pattern": "match",
+      "source_trace": "NCERT Class 7 Our Pasts II Ch8 pg 3",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "103EIGHTEENTH -CENTURY"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Devotional Paths to the Divine, which statement is supported by the source text about Devotional Paths to the Divine?",
+      "options": [
+        "Already under severe pressure from all sides, the empire was further weakened by competition amongst different groups of nobles.",
+        "They were divided into two major groups or factions, the Iranis and Turanis (nobles of Turkish descent).",
+        "For a long time, the later Mughal emperors were puppets in the hands of either",
+        "98 our pasts – ii one or the other of these two powerful groups."
+      ],
+      "correct_answer": 0,
+      "pattern": "not_type",
+      "source_trace": "NCERT Class 7 Our Pasts II Ch8 pg 3",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 5,
+      "concepts_tested": [
+        "Devotional Paths to the Divine"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Devotional Paths to the Divine, which statement is supported by the source text about Devotional?",
+      "options": [
+        "The worst possible humiliation came when two Mughal emperors, Farrukh Siyar (1713 –1719) and Alamgir II (1754 –1759) were assassinated, and two others, Ahmad...",
+        "With the decline in the authority of the Mughal emperors, the governors of large provinces, subadars, and the great zamindars consolidated their authority in...",
+        "The Rajputs Many Rajput kings, particularly those belonging to Amber and Jodhpur, had served under the Mughals with distinction.",
+        "In exchange, they were permitted to enjoy considerable autonomy in their watan jagirs."
+      ],
+      "correct_answer": 0,
+      "pattern": "statement",
+      "source_trace": "NCERT Class 7 Our Pasts II Ch8 pg 4",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 5,
+      "concepts_tested": [
+        "Devotional"
       ]
     }
   ],
@@ -216,7 +306,7 @@
     "generation_method": "local_source_only_extractive_decode"
   },
   "content_model": "clearupsc_textbook_decoded_from_source_v1",
-  "decode_status": "textbook_decoded",
+  "decode_status": "textbook_verified",
   "source": {
     "book": "NCERT Class 7 Our Pasts II",
     "chapter": 8,
@@ -228,5 +318,5 @@
   "source_trace": "NCERT Class 7 Our Pasts II | Chapter 8: Devotional Paths to the Divine | https://ncert.nic.in/textbook/pdf/gess108.pdf | sha256:3017faaf3e2ae55cea67e98d1a95200e7196c9f8e85accd7a2e9d10871605a3c",
   "raw_text_path": "data/study/textbook-first/raw-text/gs1_hist_class7_our_pasts_ii_ch08_devotional_paths_to_the_divine.txt",
   "generated_by": "local_source_only_extractive_decode",
-  "generated_at": "2026-05-26T19:53:58.481Z"
+  "generated_at": "2026-05-26T20:27:05.235Z"
 }

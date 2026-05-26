@@ -136,7 +136,7 @@
       "source_trace": "NCERT Class 12 Politics in India since Independence Ch5 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
-      "difficulty_level": 3,
+      "difficulty_level": 1,
       "concepts_tested": [
         "74 Politics in India since Independence"
       ]
@@ -150,7 +150,7 @@
         "Challenge of Political Succession Prime Minister Jawaharlal Nehru passed away in May 1964."
       ],
       "correct_answer": 0,
-      "pattern": "statement",
+      "pattern": "match",
       "source_trace": "NCERT Class 12 Politics in India since Independence Ch5 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
@@ -204,13 +204,103 @@
         "He was unanimously chosen as the leader of the Congress parliamentary party and thus became the country’s next Prime Minister."
       ],
       "correct_answer": 0,
+      "pattern": "match",
+      "source_trace": "NCERT Class 12 Politics in India since Independence Ch5 pg 2",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "82 Politics in India since Independence"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Challenges to and Restoration of Congress System, which statement is supported by the source text about 84 Politics in India since Independence?",
+      "options": [
+        "Shastri was a non-controversial leader from Uttar Pradesh who had been a Minister in Nehru’s cabinet for many years.",
+        "Nehru had come to depend a lot on him in his last year.",
+        "He was known for his simplicity and his commitment to principles.",
+        "Earlier he had resigned from the position of Railway Minister accepting moral responsibility for a major railway accident."
+      ],
+      "correct_answer": 0,
+      "pattern": "not_type",
+      "source_trace": "NCERT Class 12 Politics in India since Independence Ch5 pg 2",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "84 Politics in India since Independence"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Challenges to and Restoration of Congress System, which statement is supported by the source text about 20 July 1969?",
+      "options": [
+        "Shastri was the country’s Prime Minister from 1964 to 1966.",
+        "During Shastri’s brief Prime Ministership, the country faced two major challenges.",
+        "While India was still recovering from the economic implications of the war with China, failed monsoons, drought and serious food crisis presented a grave...",
+        "As discussed in the previous chapter, the country also faced a war with Pakistan in 1965."
+      ],
+      "correct_answer": 0,
       "pattern": "statement",
       "source_trace": "NCERT Class 12 Politics in India since Independence Ch5 pg 2",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
-      "difficulty_level": 3,
+      "difficulty_level": 4,
       "concepts_tested": [
-        "82 Politics in India since Independence"
+        "20 July 1969"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Challenges to and Restoration of Congress System, which statement is supported by the source text about 86 Politics in India since Independence?",
+      "options": [
+        "Shastri’s famous slogan ‘Jai Jawan Jai Kisan’, symbolised the country’s resolve to face both these challenges.",
+        "Shastri’s Prime Ministership came to an abrupt end on 11 January 1966, when he suddenly expired in Tashkent, then in USSR and currently the...",
+        "He was there to discuss and sign an agreement with Muhammad Ayub Khan, the then President of Pakistan, to end the war.",
+        "From Shastri to Indira Gandhi Thus the Congress faced the challenge of political succession for the second time in two years."
+      ],
+      "correct_answer": 0,
+      "pattern": "match",
+      "source_trace": "NCERT Class 12 Politics in India since Independence Ch5 pg 2",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "86 Politics in India since Independence"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Challenges to and Restoration of Congress System, which statement is supported by the source text about 88 Politics in India since Independence?",
+      "options": [
+        "This time there was an intense competition between Morarji Desai and Indira Gandhi.",
+        "Morarji Desai had earlier served as Chief Minister of Bombay state (today’s Maharashtra and Gujarat) and also as a Minister at the centre.",
+        "Indira Gandhi, the daughter of Jawaharlal Nehru, had been Congress President in the past and had also been Union Minister for Information in the...",
+        "This time the senior leaders in the party decided to back Indira Gandhi, but the decision was not unanimous."
+      ],
+      "correct_answer": 0,
+      "pattern": "not_type",
+      "source_trace": "NCERT Class 12 Politics in India since Independence Ch5 pg 2",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 5,
+      "concepts_tested": [
+        "88 Politics in India since Independence"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Challenges to and Restoration of Congress System, which statement is supported by the source text about 90 Politics in India since Independence?",
+      "options": [
+        "The contest was resolved through a secret ballot among Congress MPs.",
+        "Indira Gandhi defeated Morarji Desai by securing the support of more than two-thirds of the party’s MPs.",
+        "A peaceful transition of power, despite intense competition for leadership, was seen as a sign of maturity of India’s democracy. …new Prime Minister of...",
+        "Editorial in The Guardian, London, 3 June 1964, comparing the political succession after Nehru with the succession drama after Harold Macmillan in Britain."
+      ],
+      "correct_answer": 0,
+      "pattern": "statement",
+      "source_trace": "NCERT Class 12 Politics in India since Independence Ch5 pg 2",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 5,
+      "concepts_tested": [
+        "90 Politics in India since Independence"
       ]
     }
   ],
@@ -220,7 +310,7 @@
     "generation_method": "local_source_only_extractive_decode"
   },
   "content_model": "clearupsc_textbook_decoded_from_source_v1",
-  "decode_status": "textbook_decoded",
+  "decode_status": "textbook_verified",
   "source": {
     "book": "NCERT Class 12 Politics in India since Independence",
     "chapter": 5,
@@ -232,5 +322,5 @@
   "source_trace": "NCERT Class 12 Politics in India since Independence | Chapter 5: Challenges to and Restoration of Congress System | https://ncert.nic.in/textbook/pdf/leps205.pdf | sha256:128bc08186b7fd21ad0277b5f2abb34347b4636726e8cb1d730dd1d787b246b1",
   "raw_text_path": "data/study/textbook-first/raw-text/gs1_post_independence_class12_politics_india_ch05_challenges_to_and_restoration_of_congress_system.txt",
   "generated_by": "local_source_only_extractive_decode",
-  "generated_at": "2026-05-26T19:53:46.674Z"
+  "generated_at": "2026-05-26T20:26:52.825Z"
 }

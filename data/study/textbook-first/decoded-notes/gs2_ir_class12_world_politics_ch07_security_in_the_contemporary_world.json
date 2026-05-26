@@ -136,7 +136,7 @@
       "source_trace": "NCERT Class 12 Contemporary World Politics Ch7 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
-      "difficulty_level": 3,
+      "difficulty_level": 1,
       "concepts_tested": [
         "STEPS"
       ]
@@ -150,7 +150,7 @@
         "He works all night, which is actually day time for his overseas customers."
       ],
       "correct_answer": 0,
-      "pattern": "statement",
+      "pattern": "match",
       "source_trace": "NCERT Class 12 Contemporary World Politics Ch7 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
@@ -204,13 +204,103 @@
         "In the first instance Janardhan was participating in the globalisation of services."
       ],
       "correct_answer": 0,
+      "pattern": "match",
+      "source_trace": "NCERT Class 12 Contemporary World Politics Ch7 pg 1",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "World"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Security in the Contemporary World, which statement is supported by the source text about Contemporary World Politics?",
+      "options": [
+        "Ramdhari’s birthday purchases tell us something about the movement of commodities from one part of the world to another.",
+        "Sarika is faced with a conflict of values partly originating from a new opportunity that earlier was not available to the women in her...",
+        "If we look for examples of the use of the term ‘globalisation’ in real life, we will realise that it is used in various...",
+        "Let us look at some examples, different from the ones that we have looked above: Some far mers committed suicide because their crops failed."
+      ],
+      "correct_answer": 0,
+      "pattern": "not_type",
+      "source_trace": "NCERT Class 12 Contemporary World Politics Ch7 pg 1",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "Contemporary World Politics"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Security in the Contemporary World, which statement is supported by the source text about The ConCepT of GlobalisaTion Janardhan?",
+      "options": [
+        "They had bought very expensive seeds supplied by a multinational company (MNC).",
+        "An Indian company bought a major rival company based in Europe, despite protests by some of the current owners.",
+        "Go through newspapers for a week and collect clippings on anything related to globalisation.",
+        "Globalisation 101 Many retail shopkeepers fear that they would lose their livelihoods if some major international companies open retail chains in the country."
+      ],
+      "correct_answer": 0,
       "pattern": "statement",
       "source_trace": "NCERT Class 12 Contemporary World Politics Ch7 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
-      "difficulty_level": 3,
+      "difficulty_level": 4,
       "concepts_tested": [
-        "World"
+        "The ConCepT of GlobalisaTion Janardhan"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Security in the Contemporary World, which statement is supported by the source text about In the?",
+      "options": [
+        "A film producer in Mumbai was accused of lifting the story of his film from another film made in Hollywood.",
+        "A militant group issued a statement threatening college g i r l s w h o w e a r w e s t...",
+        "These examples show us that globalisation need not always be positive; it can have negative consequences for the people.",
+        "Indeed, there are many who believe that globalisation has more negative consequences than positive."
+      ],
+      "correct_answer": 0,
+      "pattern": "match",
+      "source_trace": "NCERT Class 12 Contemporary World Politics Ch7 pg 2",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "In the"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Security in the Contemporary World, which statement is supported by the source text about An Indian?",
+      "options": [
+        "These examples also show us that globalisation need not be only about the economic issues, nor is the direction of influence always from the...",
+        "Since much of the usage tends to be imprecise, it becomes important to clarify what we mean by globalisation.",
+        "Globalisation as a concept fundamentally deals with flows.",
+        "These flows could be of various kinds — ideas moving from one part of the world to another, capital shunted between two or more..."
+      ],
+      "correct_answer": 0,
+      "pattern": "not_type",
+      "source_trace": "NCERT Class 12 Contemporary World Politics Ch7 pg 2",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 5,
+      "concepts_tested": [
+        "An Indian"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Security in the Contemporary World, which statement is supported by the source text about Much of the Chinese?",
+      "options": [
+        "The crucial element is the ‘worldwide interconnectedness’ that is created and sustained as a consequence of these constant flows.",
+        "Much of the Chinese stuff that comes to India is smuggled.",
+        "T h i s c h a p t e r h a s a series of images a b o u t p...",
+        "Contemporary World Politics 102 Globalisation is a multi- dimensional concept."
+      ],
+      "correct_answer": 0,
+      "pattern": "statement",
+      "source_trace": "NCERT Class 12 Contemporary World Politics Ch7 pg 2",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 5,
+      "concepts_tested": [
+        "Much of the Chinese"
       ]
     }
   ],
@@ -220,7 +310,7 @@
     "generation_method": "local_source_only_extractive_decode"
   },
   "content_model": "clearupsc_textbook_decoded_from_source_v1",
-  "decode_status": "textbook_decoded",
+  "decode_status": "textbook_verified",
   "source": {
     "book": "NCERT Class 12 Contemporary World Politics",
     "chapter": 7,
@@ -232,5 +322,5 @@
   "source_trace": "NCERT Class 12 Contemporary World Politics | Chapter 7: Security in the Contemporary World | https://ncert.nic.in/textbook/pdf/leps107.pdf | sha256:88af814d3c77af6f2d4bc6aed55f349453be894feafd1f02fee1833114641cce",
   "raw_text_path": "data/study/textbook-first/raw-text/gs2_ir_class12_world_politics_ch07_security_in_the_contemporary_world.txt",
   "generated_by": "local_source_only_extractive_decode",
-  "generated_at": "2026-05-26T19:54:02.022Z"
+  "generated_at": "2026-05-26T20:27:09.022Z"
 }

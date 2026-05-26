@@ -136,7 +136,7 @@
       "source_trace": "NCERT Class 8 Resources and Development Ch1 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
-      "difficulty_level": 3,
+      "difficulty_level": 1,
       "concepts_tested": [
         "1990 Constitution of Nepal 2015 Constitution of Nepal"
       ]
@@ -150,7 +150,7 @@
         "This has been done with the express intent that students become aware of the major influence that our anti-colonial struggle had on Indian democracy."
       ],
       "correct_answer": 0,
-      "pattern": "statement",
+      "pattern": "match",
       "source_trace": "NCERT Class 8 Resources and Development Ch1 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
@@ -204,13 +204,103 @@
         "Indian secularism does protect the religious freedom of individuals by maintaining a separation from religion."
       ],
       "correct_answer": 0,
+      "pattern": "match",
+      "source_trace": "NCERT Class 8 Resources and Development Ch1 pg 1",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "Social and Political Life"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Resources, which statement is supported by the source text about Unlike the?",
+      "options": [
+        "But it also provides room for the reform of religions, for example, the abolishing of untouchability, child marriage, etc.",
+        "Therefore, in its attempt to achieve religious equality (both between as well as within religions) the Indian secular State both maintains a separation as...",
+        "This intervention can either be in terms of a ban (like that on untouchability) or in terms of providing assistance to religious minorities.",
+        "The chapter explains this and refers to it as ‘principled distance’."
+      ],
+      "correct_answer": 0,
+      "pattern": "not_type",
+      "source_trace": "NCERT Class 8 Resources and Development Ch1 pg 1",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "Unlike the"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Resources, which statement is supported by the source text about Indian Constitution?",
+      "options": [
+        "This means that any interference in religion by the State has to be based on the ideals laid out in the Constitution.",
+        "It is crucial that you understand these points clearly before teaching this chapter.",
+        "It is very likely that students will come up with several suggestions for why the government should intervene or not intervene in religious affairs.",
+        "While discussion is to be encouraged, it is important to mediate this and ensure that it does not reinforce stereotypes of religious minorities."
+      ],
+      "correct_answer": 0,
       "pattern": "statement",
       "source_trace": "NCERT Class 8 Resources and Development Ch1 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
-      "difficulty_level": 3,
+      "difficulty_level": 4,
       "concepts_tested": [
-        "Social and Political Life"
+        "Indian Constitution"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Resources, which statement is supported by the source text about Religion and the State?",
+      "options": [
+        "Social and Political Life 4 In this chapter, we are going to begin with football, a game many of you have probably heard of,...",
+        "As the name suggests, this is a game that involves the players’ feet.",
+        "According to the rules of football, if the ball touches the arm of any player (except the goalkeeper), then this is considered a foul.",
+        "So if players start holding the football in their hands and passing it around, then they are not playing football any more."
+      ],
+      "correct_answer": 0,
+      "pattern": "match",
+      "source_trace": "NCERT Class 8 Resources and Development Ch1 pg 2",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "Religion and the State"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Resources, which statement is supported by the source text about Religion and State?",
+      "options": [
+        "Similarly other games, such as hockey or cricket, also have rules according to which they are played.",
+        "Each of these rules helps define the game, and helps us distinguish one game from another.",
+        "As these are fundamental to the game, we can also call them the constitutive rules of the game.",
+        "Like these games, a society also has constitutive rules that make it what it is and differentiate it from other kinds of societies."
+      ],
+      "correct_answer": 0,
+      "pattern": "not_type",
+      "source_trace": "NCERT Class 8 Resources and Development Ch1 pg 2",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 5,
+      "concepts_tested": [
+        "Religion and State"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Resources, which statement is supported by the source text about Several of the?",
+      "options": [
+        "In large societies in which different communities of people live together, these rules are formulated through consensus, and in modern countries this consensus is...",
+        "A written document in which we find such rules is called a Constitution.",
+        "We have looked at the Indian Constitution in Classes VI and VII in our Social and Political Life textbooks.",
+        "Have you ever wondered why we need a Constitution or been curious about how the Constitution got written, or who wrote it?"
+      ],
+      "correct_answer": 0,
+      "pattern": "statement",
+      "source_trace": "NCERT Class 8 Resources and Development Ch1 pg 2",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 5,
+      "concepts_tested": [
+        "Several of the"
       ]
     }
   ],
@@ -220,7 +310,7 @@
     "generation_method": "local_source_only_extractive_decode"
   },
   "content_model": "clearupsc_textbook_decoded_from_source_v1",
-  "decode_status": "textbook_decoded",
+  "decode_status": "textbook_verified",
   "source": {
     "book": "NCERT Class 8 Resources and Development",
     "chapter": 1,
@@ -232,5 +322,5 @@
   "source_trace": "NCERT Class 8 Resources and Development | Chapter 1: Resources | https://ncert.nic.in/textbook/pdf/hess301.pdf | sha256:075c7c0f437895a26c9b56039eee08ad4ed748908897a6db920daab0786c6216",
   "raw_text_path": "data/study/textbook-first/raw-text/gs1_geo_class8_resources_development_ch01_resources.txt",
   "generated_by": "local_source_only_extractive_decode",
-  "generated_at": "2026-05-26T19:54:07.528Z"
+  "generated_at": "2026-05-26T20:27:14.775Z"
 }

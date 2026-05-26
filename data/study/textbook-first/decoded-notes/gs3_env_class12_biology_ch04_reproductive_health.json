@@ -115,7 +115,7 @@
       "source_trace": "NCERT Class 12 Biology Ch4 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
-      "difficulty_level": 3,
+      "difficulty_level": 1,
       "concepts_tested": [
         "JAMES WATSON"
       ]
@@ -129,7 +129,7 @@
         "Chapter 4 Principles of Inheritance and Variation Chapter 5 Molecular Basis of Inheritance Chapter 6 Evolution"
       ],
       "correct_answer": 0,
-      "pattern": "statement",
+      "pattern": "match",
       "source_trace": "NCERT Class 12 Biology Ch4 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
@@ -183,13 +183,103 @@
         "CHAPTER 4 Have you ever wondered why an elephant always gives birth only to a baby elephant and not some other animal?"
       ],
       "correct_answer": 0,
-      "pattern": "statement",
+      "pattern": "match",
       "source_trace": "NCERT Class 12 Biology Ch4 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
-      "difficulty_level": 3,
+      "difficulty_level": 4,
       "concepts_tested": [
         "AND VARIATION"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Reproductive Health, which statement is supported by the source text about 4.1 Mendel’s Laws of?",
+      "options": [
+        "Or why a mango seed forms only a mango plant and not any other plant?",
+        "Given that they do, are the offspring identical to their parents?",
+        "Or do they show differences in some of their characteristics?",
+        "Have you ever wondered why siblings sometimes look so similar to each other?"
+      ],
+      "correct_answer": 0,
+      "pattern": "not_type",
+      "source_trace": "NCERT Class 12 Biology Ch4 pg 2",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "4.1 Mendel’s Laws of"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Reproductive Health, which statement is supported by the source text about 4.2 Inheritance of One Gene?",
+      "options": [
+        "These and several related questions are dealt with, scientifically, in a branch of biology known as Genetics.",
+        "This subject deals with the inheritance, as well as the variation of characters from parents to offspring.",
+        "Inheritance is the process by which characters are passed on from parent to progeny; it is the basis of heredity.",
+        "Variation is the degree by which progeny differ from their parents."
+      ],
+      "correct_answer": 0,
+      "pattern": "statement",
+      "source_trace": "NCERT Class 12 Biology Ch4 pg 2",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "4.2 Inheritance of One Gene"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Reproductive Health, which statement is supported by the source text about 4.3 Inheritance of Two Genes?",
+      "options": [
+        "Humans knew from as early as 8000-1000 B.C. that one of the causes of variation was hidden in sexual reproduction.",
+        "They exploited the variations that were naturally present in the wild populations of plants and animals to selectively breed and select for organisms that...",
+        "For example, through artificial selection and domestication from ancestral PRINCIPLES OF INHERITANCE AND VARIATION 4.1 Mendel’s Laws of Inheritance 4.2 Inheritance of One Gene...",
+        "54 BIOLOGY wild cows, we have well-known Indian breeds, e.g., Sahiwal cows in Punjab."
+      ],
+      "correct_answer": 0,
+      "pattern": "match",
+      "source_trace": "NCERT Class 12 Biology Ch4 pg 2",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "4.3 Inheritance of Two Genes"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Reproductive Health, which statement is supported by the source text about 4.4 Sex Determination?",
+      "options": [
+        "We must, however, recognise that though our ancestors knew about the inheritance of characters and variation, they had very little idea about the scientific...",
+        "4.1 MENDEL’S LAWS OF INHERITANCE It was during the mid-nineteenth century that headway was made in the understanding of inheritance.",
+        "Gregor Mendel, conducted hybridisation experiments on garden peas for seven years (1856-1863) and proposed the laws of inheritance in living organisms.",
+        "During Mendel’s investigations into inheritance patterns it was for the first time that statistical analysis and mathematical logic were applied to problems in biology."
+      ],
+      "correct_answer": 0,
+      "pattern": "not_type",
+      "source_trace": "NCERT Class 12 Biology Ch4 pg 3",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 5,
+      "concepts_tested": [
+        "4.4 Sex Determination"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Reproductive Health, which statement is supported by the source text about 4.5 Mutation?",
+      "options": [
+        "His experiments had a large sampling size, which gave greater credibility to the data that he collected.",
+        "Also, the confirmation of his inferences from experiments on successive generations of his test plants, proved that his results pointed to general rules of...",
+        "Mendel investigated characters in the garden pea plant that were manifested as two opposing traits, e.g., tall or dwarf plants, yellow or green seeds.",
+        "This allowed him to set up a basic framework of rules governing inheritance, which was expanded on by later scientists to account for all..."
+      ],
+      "correct_answer": 0,
+      "pattern": "statement",
+      "source_trace": "NCERT Class 12 Biology Ch4 pg 3",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 5,
+      "concepts_tested": [
+        "4.5 Mutation"
       ]
     }
   ],
@@ -199,7 +289,7 @@
     "generation_method": "local_source_only_extractive_decode"
   },
   "content_model": "clearupsc_textbook_decoded_from_source_v1",
-  "decode_status": "textbook_decoded",
+  "decode_status": "textbook_verified",
   "source": {
     "book": "NCERT Class 12 Biology",
     "chapter": 4,
@@ -211,5 +301,5 @@
   "source_trace": "NCERT Class 12 Biology | Chapter 4: Reproductive Health | https://ncert.nic.in/textbook/pdf/lebo104.pdf | sha256:d5f14fc2248860c029ab10aec2687165ed84d54917c10cd44057574f1c4bb456",
   "raw_text_path": "data/study/textbook-first/raw-text/gs3_env_class12_biology_ch04_reproductive_health.txt",
   "generated_by": "local_source_only_extractive_decode",
-  "generated_at": "2026-05-26T19:53:38.250Z"
+  "generated_at": "2026-05-26T20:26:44.190Z"
 }

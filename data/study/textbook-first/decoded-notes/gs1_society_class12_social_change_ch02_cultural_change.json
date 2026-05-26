@@ -136,7 +136,7 @@
       "source_trace": "NCERT Class 12 Social Change and Development in India Ch2 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
-      "difficulty_level": 3,
+      "difficulty_level": 1,
       "concepts_tested": [
         "2.1 Social reform movementS in the"
       ]
@@ -150,7 +150,7 @@
         "The first deals with the deliberate and conscious efforts made by the 19th century social reformers and early 20th century nationalists to bring in..."
       ],
       "correct_answer": 0,
-      "pattern": "statement",
+      "pattern": "match",
       "source_trace": "NCERT Class 12 Social Change and Development in India Ch2 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
@@ -204,13 +204,103 @@
         "The printing press, telegraph, and later the microphone, movement of people and goods through steamship and railways helped quick movement of new ideas."
       ],
       "correct_answer": 0,
-      "pattern": "statement",
+      "pattern": "match",
       "source_trace": "NCERT Class 12 Social Change and Development in India Ch2 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
-      "difficulty_level": 3,
+      "difficulty_level": 4,
       "concepts_tested": [
         "Social Change and Development in India"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Cultural Change, which statement is supported by the source text about Industrialisation and?",
+      "options": [
+        "Within India, social reformers from Punjab and Bengal exchanged ideas with reformers from Madras and Maharashtra.",
+        "Pandita Ramabai travelled to different corners of the country.",
+        "Christian missionaries reached remote corners of present day Nagaland, Mizoram and Meghalaya.",
+        "Modern social organisations like the Brahmo Samaj in Bengal and Arya Samaj in Punjab were set up."
+      ],
+      "correct_answer": 0,
+      "pattern": "not_type",
+      "source_trace": "NCERT Class 12 Social Change and Development in India Ch2 pg 2",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "Industrialisation and"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Cultural Change, which statement is supported by the source text about Living and?",
+      "options": [
+        "The All-India Muslim Ladies Conference (Anjuman- E-Khawatn-E-Islam) was founded in 1914.",
+        "Indian reformers debated not just in public meetings but through public media like newspapers and journals.",
+        "Translations of writings of social reformers from one Indian language to another took place.",
+        "For instance, Vishnu Shastri published a Marathi translation of Vidyasagar’s book in Indu Prakash in 1868."
+      ],
+      "correct_answer": 0,
+      "pattern": "statement",
+      "source_trace": "NCERT Class 12 Social Change and Development in India Ch2 pg 2",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "Living and"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Cultural Change, which statement is supported by the source text about India in the?",
+      "options": [
+        "New ideas of liberalism and freedom, new ideas of homemaking and marriage, new roles for mothers and daughters, new ideas of self-conscious pride in...",
+        "It was seen as very crucial for a nation to become modern but also The mix of ideas  Raja Ram Mohun Roy attacked...",
+        "The literary content of the courses in the humanities and social sciences was drawn from the literature of the European Renaissance, Reformation and Enlightenment.",
+        "Its themes were humanistic, secular and liberal.  Sir Syed Ahmed Khan’s interpretation of Islam emphasised the validity of free enquiry (ijtihad) and the..."
+      ],
+      "correct_answer": 0,
+      "pattern": "match",
+      "source_trace": "NCERT Class 12 Social Change and Development in India Ch2 pg 2",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "India in the"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Cultural Change, which statement is supported by the source text about Bhakti and Sufi?",
+      "options": [
+        "At the same time he translated the works of Julius Huxley, an eminent biologist.",
+        "Social Change and Development in India 18 retain its ancient heritage.",
+        "Significantly, it was the social reformer Jotiba Phule who opened the first school for women in Pune.",
+        "Reformers argued that for a society to progress women have to be educated."
+      ],
+      "correct_answer": 0,
+      "pattern": "not_type",
+      "source_trace": "NCERT Class 12 Social Change and Development in India Ch2 pg 2",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 5,
+      "concepts_tested": [
+        "Bhakti and Sufi"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Cultural Change, which statement is supported by the source text about Raja Ram Mohun Roy Pandita Ramabai?",
+      "options": [
+        "Some of them believed that in pre-modern India, women were educated.",
+        "Others contested this on the grounds that this was so only of a privileged few.",
+        "Thus attempts to justify female education were made by recourse to both modern and traditional ideas.",
+        "They actively debated the meanings of tradition and modernity."
+      ],
+      "correct_answer": 0,
+      "pattern": "statement",
+      "source_trace": "NCERT Class 12 Social Change and Development in India Ch2 pg 3",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 5,
+      "concepts_tested": [
+        "Raja Ram Mohun Roy Pandita Ramabai"
       ]
     }
   ],
@@ -220,7 +310,7 @@
     "generation_method": "local_source_only_extractive_decode"
   },
   "content_model": "clearupsc_textbook_decoded_from_source_v1",
-  "decode_status": "textbook_decoded",
+  "decode_status": "textbook_verified",
   "source": {
     "book": "NCERT Class 12 Social Change and Development in India",
     "chapter": 2,
@@ -232,5 +322,5 @@
   "source_trace": "NCERT Class 12 Social Change and Development in India | Chapter 2: Cultural Change | https://ncert.nic.in/textbook/pdf/lesy202.pdf | sha256:46b23bf1562cfba91f70b48b6dc058aabf708f1f5fb7b03cf97f9817ae7be082",
   "raw_text_path": "data/study/textbook-first/raw-text/gs1_society_class12_social_change_ch02_cultural_change.txt",
   "generated_by": "local_source_only_extractive_decode",
-  "generated_at": "2026-05-26T19:53:58.946Z"
+  "generated_at": "2026-05-26T20:27:05.754Z"
 }

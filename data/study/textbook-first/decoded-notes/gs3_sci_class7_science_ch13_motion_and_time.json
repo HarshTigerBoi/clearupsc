@@ -124,7 +124,7 @@
       "source_trace": "NCERT Class 7 Science Ch13 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
-      "difficulty_level": 3,
+      "difficulty_level": 1,
       "concepts_tested": [
         "SCIENCE 156"
       ]
@@ -138,7 +138,7 @@
         "People even children walk for several kilometres to collect clean water."
       ],
       "correct_answer": 0,
-      "pattern": "statement",
+      "pattern": "match",
       "source_trace": "NCERT Class 7 Science Ch13 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
@@ -192,13 +192,103 @@
         "We know that sewage is a complex mixture containing suspended solids, organic and inorganic impurities, nutrients, saprophytes and disease causing bacteria and other microbes."
       ],
       "correct_answer": 0,
+      "pattern": "match",
+      "source_trace": "NCERT Class 7 Science Ch13 pg 1",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "13.3 W ATER F RESHENS U P — AN"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Motion and Time, which statement is supported by the source text about EVENTFUL JOURNEY?",
+      "options": [
+        "Organic impurities – Human faeces, animal waste, oil, urea (urine), pesticides, herbicides, fruit and vegetable waste, etc.",
+        "Bacteria – Such as vibrio cholera which causes cholera and salmonella paratyphi which causes typhoid.",
+        "Other microbes – Such as protozones which cause dysentery.",
+        "13.3 W ATER F RESHENS U P — AN EVENTFUL JOURNEY In a home or a public building generally one set of pipes brings..."
+      ],
+      "correct_answer": 0,
+      "pattern": "not_type",
+      "source_trace": "NCERT Class 7 Science Ch13 pg 1",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "EVENTFUL JOURNEY"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Motion and Time, which statement is supported by the source text about SCIENCE 158?",
+      "options": [
+        "We would see a network of big and small pipes, called Table 13.1 Contaminant survey S.",
+        "Type of sewage Point of origin Contaminants Any other remark 1.",
+        "It is like a transport system that carries sewage from the point of being produced to the point of disposal, i.e. treatment plant.",
+        "Manholes are located at every 50 m to 60 m in the sewerage, at the junction of two or more sewers and at points..."
+      ],
+      "correct_answer": 0,
       "pattern": "statement",
       "source_trace": "NCERT Class 7 Science Ch13 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
-      "difficulty_level": 3,
+      "difficulty_level": 4,
       "concepts_tested": [
-        "13.3 W ATER F RESHENS U P — AN"
+        "SCIENCE 158"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Motion and Time, which statement is supported by the source text about WASTEWATER STORY 159?",
+      "options": [
+        "Do the following:  Make a line diagram of the sewage route.  Walk down the street or survey the campus to find the...",
+        "In case you do not have a sewerage system in your locality, find out how sewage is being disposed off.",
+        "Treatment of polluted water Perform the following activity.",
+        "It will help you understand the processes that take place at the wastewater treatment plant."
+      ],
+      "correct_answer": 0,
+      "pattern": "match",
+      "source_trace": "NCERT Class 7 Science Ch13 pg 2",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "WASTEWATER STORY 159"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Motion and Time, which statement is supported by the source text about 13.4 WASTEWATER TREATMENT PLANT?",
+      "options": [
+        "Record observations at each stage:  Fill a large glass jar 3/4 full of water.",
+        "Add some dirty organic matter such as grass pieces or orange peels, a small amount of detergent, and a few drops of an ink...",
+        "How does it smell?  Use an aerator from an aquarium to bubble air through the sample in the glass jar.",
+        "Allow several hours for aeration; leave the aerator attached overnight."
+      ],
+      "correct_answer": 0,
+      "pattern": "not_type",
+      "source_trace": "NCERT Class 7 Science Ch13 pg 2",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 5,
+      "concepts_tested": [
+        "13.4 WASTEWATER TREATMENT PLANT"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Motion and Time, which statement is supported by the source text about (WWTP)?",
+      "options": [
+        "If you do not have an aerator, use a mechanical stirrer or a mixer.",
+        "You may have to stir it several times.  The next day when aeration is complete, pour another sample into a second test tube.",
+        "Label it as “After aeration; Sample 2”.  Fold a piece of filter paper to form a cone.",
+        "Wet the paper with tap water and then insert the cone in a funnel."
+      ],
+      "correct_answer": 0,
+      "pattern": "statement",
+      "source_trace": "NCERT Class 7 Science Ch13 pg 2",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 5,
+      "concepts_tested": [
+        "(WWTP)"
       ]
     }
   ],
@@ -208,7 +298,7 @@
     "generation_method": "local_source_only_extractive_decode"
   },
   "content_model": "clearupsc_textbook_decoded_from_source_v1",
-  "decode_status": "textbook_decoded",
+  "decode_status": "textbook_verified",
   "source": {
     "book": "NCERT Class 7 Science",
     "chapter": 13,
@@ -220,5 +310,5 @@
   "source_trace": "NCERT Class 7 Science | Chapter 13: Motion and Time | https://ncert.nic.in/textbook/pdf/gesc113.pdf | sha256:f8205e4ae2069153e9c3d1e0e3ace5ace9059402bb988d7d40e9e18a1e04765e",
   "raw_text_path": "data/study/textbook-first/raw-text/gs3_sci_class7_science_ch13_motion_and_time.txt",
   "generated_by": "local_source_only_extractive_decode",
-  "generated_at": "2026-05-26T19:54:36.888Z"
+  "generated_at": "2026-05-26T20:27:45.506Z"
 }

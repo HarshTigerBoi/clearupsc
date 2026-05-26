@@ -116,7 +116,7 @@
       "source_trace": "NCERT Class 11 Phys Geo Ch7 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
-      "difficulty_level": 3,
+      "difficulty_level": 1,
       "concepts_tested": [
         "CLIMATE"
       ]
@@ -130,7 +130,7 @@
         "The air is an integral part of the earth’s mass and 99 per cent of the total mass of the atmosphere is confined to..."
       ],
       "correct_answer": 0,
-      "pattern": "statement",
+      "pattern": "match",
       "source_trace": "NCERT Class 11 Phys Geo Ch7 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
@@ -184,13 +184,103 @@
         "Water vapour also decreases from the equator towards the poles."
       ],
       "correct_answer": 0,
-      "pattern": "statement",
+      "pattern": "match",
       "source_trace": "NCERT Class 11 Phys Geo Ch7 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
-      "difficulty_level": 3,
+      "difficulty_level": 4,
       "concepts_tested": [
         "COMPOSITION AND STRUCTURE OF ATMOSPHERE 65"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Landforms and their Evolution, which statement is supported by the source text about STRUCTURE OF THE ATMOSPHERE?",
+      "options": [
+        "It also absorbs parts of the insolation from the sun and preserves the earth’s radiated heat.",
+        "It thus, acts like a blanket allowing the earth neither to become too cold nor too hot.",
+        "Water vapour also contributes to the stability and instability in the air.",
+        "COMPOSITION AND STRUCTURE OF ATMOSPHERE 65 Dust Particles Atmosphere has a sufficient capacity to keep small solid particles, which may originate from different sources..."
+      ],
+      "correct_answer": 0,
+      "pattern": "not_type",
+      "source_trace": "NCERT Class 11 Phys Geo Ch7 pg 1",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "STRUCTURE OF THE ATMOSPHERE"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Landforms and their Evolution, which statement is supported by the source text about Landforms and their Evolution?",
+      "options": [
+        "Dust particles are generally concentrated in the lower layers of the atmosphere; yet, convectional air currents may transport them to great heights.",
+        "The higher concentration of dust particles is found in subtropical and temperate regions due to dry winds in comparison to equatorial and polar regions.",
+        "Dust and salt particles act as hygroscopic nuclei around which water vapour condenses to produce clouds.",
+        "STRUCTURE OF THE ATMOSPHERE The atmosphere consists of different layers with varying density and temperature."
+      ],
+      "correct_answer": 0,
+      "pattern": "statement",
+      "source_trace": "NCERT Class 11 Phys Geo Ch7 pg 2",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "Landforms and their Evolution"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Landforms and their Evolution, which statement is supported by the source text about Landforms?",
+      "options": [
+        "Density is highest near the surface of the earth and decreases with increasing altitude.",
+        "The column of atmosphere is divided into five dif ferent layers depending upon the temperature condition.",
+        "They are: troposphere, stratosphere, mesosphere, thermosphere and exosphere.",
+        "The troposphere is the lowermost layer of the atmosphere."
+      ],
+      "correct_answer": 0,
+      "pattern": "match",
+      "source_trace": "NCERT Class 11 Phys Geo Ch7 pg 2",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "Landforms"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Landforms and their Evolution, which statement is supported by the source text about their?",
+      "options": [
+        "Its average height is 13 km and extends roughly to a height of 8 km near the poles and about 18 km at the...",
+        "Thickness of the troposphere is greatest at the equator because heat is transported to great heights by strong convectional currents.",
+        "All changes in climate and weather take place in this layer.",
+        "The temperature in this layer decreases at the rate of 1°C for every 165m of height."
+      ],
+      "correct_answer": 0,
+      "pattern": "not_type",
+      "source_trace": "NCERT Class 11 Phys Geo Ch7 pg 2",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 5,
+      "concepts_tested": [
+        "their"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Landforms and their Evolution, which statement is supported by the source text about Evolution?",
+      "options": [
+        "This is the most important layer for all biological activity.",
+        "The zone separating the tropsophere from stratosphere is known as the tropopause.",
+        "The air temperature at the tropopause is about minus 800C over the equator and about minus 45oC over the poles.",
+        "The temperature here is nearly constant, and hence, it is called the tropopause."
+      ],
+      "correct_answer": 0,
+      "pattern": "statement",
+      "source_trace": "NCERT Class 11 Phys Geo Ch7 pg 2",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 5,
+      "concepts_tested": [
+        "Evolution"
       ]
     }
   ],
@@ -200,7 +290,7 @@
     "generation_method": "local_source_only_extractive_decode"
   },
   "content_model": "clearupsc_textbook_decoded_from_source_v1",
-  "decode_status": "textbook_decoded",
+  "decode_status": "textbook_verified",
   "source": {
     "book": "NCERT Class 11 Fundamentals of Physical Geography",
     "chapter": 7,
@@ -212,5 +302,5 @@
   "source_trace": "NCERT Class 11 Fundamentals of Physical Geography | Chapter 7: Landforms and their Evolution | https://ncert.nic.in/textbook/pdf/kegy207.pdf | sha256:12be052bd8131959db293d3f930fc26980a87d6d5be794f46f6add69e79187d1",
   "raw_text_path": "data/study/textbook-first/raw-text/gs1_geo_class11_phys_ch07_landforms_evolution.txt",
   "generated_by": "local_source_only_extractive_decode",
-  "generated_at": "2026-05-26T19:53:30.023Z"
+  "generated_at": "2026-05-26T20:26:35.602Z"
 }

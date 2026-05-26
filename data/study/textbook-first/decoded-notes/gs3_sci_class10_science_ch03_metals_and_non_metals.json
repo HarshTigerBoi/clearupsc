@@ -115,7 +115,7 @@
       "source_trace": "NCERT Class 10 Science Ch3 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
-      "difficulty_level": 3,
+      "difficulty_level": 1,
       "concepts_tested": [
         "3 CHAPTER"
       ]
@@ -129,7 +129,7 @@
         "Dry it by pressing between the folds of a filter paper. n Put it on a watch-glass and try to cut it with a..."
       ],
       "correct_answer": 0,
-      "pattern": "statement",
+      "pattern": "match",
       "source_trace": "NCERT Class 10 Science Ch3 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
@@ -183,13 +183,103 @@
         "Lead and mercury are comparatively poor conductors of heat."
       ],
       "correct_answer": 0,
-      "pattern": "statement",
+      "pattern": "match",
       "source_trace": "NCERT Class 10 Science Ch3 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
-      "difficulty_level": 3,
+      "difficulty_level": 4,
       "concepts_tested": [
         "3.2.1 What happens when Metals are burnt in Air?"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Metals and Non-Metals, which statement is supported by the source text about 2Cu + O2 → 2CuO?",
+      "options": [
+        "Figure 3.1 Figure 3.1 Figure 3.1 Figure 3.1 Figure 3.1 Metals are good conductors of heat.",
+        "Metals and Non-metals 39 You must have seen that the wires that carry current in your homes have a coating of polyvinylchloride (PVC) or...",
+        "The metals that produce a sound on striking a hard surface are said to be sonorous.",
+        "3.1.2 Non-metals In the previous Class you have learnt that there are very few non-metals as compared to metals."
+      ],
+      "correct_answer": 0,
+      "pattern": "not_type",
+      "source_trace": "NCERT Class 10 Science Ch3 pg 1",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "2Cu + O2 → 2CuO"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Metals and Non-Metals, which statement is supported by the source text about 4Al + 3O2 → 2Al2O3?",
+      "options": [
+        "Some of the examples of non-metals are carbon, sulphur, iodine, oxygen, hydrogen, etc.",
+        "The non-metals are either solids or gases except bromine which is a liquid.",
+        "Do non-metals also have physical properties similar to that of metals?",
+        "3.2. n Place the metal to be tested in the circuit between terminals A and B as shown. n Does the bulb glow?"
+      ],
+      "correct_answer": 0,
+      "pattern": "statement",
+      "source_trace": "NCERT Class 10 Science Ch3 pg 2",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "4Al + 3O2 → 2Al2O3"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Metals and Non-Metals, which statement is supported by the source text about Al2O3 + 6HCl → 2AlCl3 + 3H2O?",
+      "options": [
+        "Figure 3.2 Figure 3.2 Figure 3.2 Figure 3.2 Figure 3.2 Metals are good conductors of electricity.",
+        "Compile your observations regarding metals and non-metals in Table 3.1.",
+        "You must have concluded that we cannot group elements according to their physical properties alone, as there are many exceptions.",
+        "For example – (i) All metals except mercury exist as solids at room temperature."
+      ],
+      "correct_answer": 0,
+      "pattern": "match",
+      "source_trace": "NCERT Class 10 Science Ch3 pg 2",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "Al2O3 + 6HCl → 2AlCl3 + 3H2O"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Metals and Non-Metals, which statement is supported by the source text about Al2O3 + 2NaOH → 2NaAlO2 + H2O?",
+      "options": [
+        "In Activity 3.5, you have observed that metals have high melting",
+        "Science 40 points but gallium and caesium have very low melting points.",
+        "These two metals will melt if you keep them on your palm.",
+        "(iii) Carbon is a non-metal that can exist in different forms."
+      ],
+      "correct_answer": 0,
+      "pattern": "not_type",
+      "source_trace": "NCERT Class 10 Science Ch3 pg 2",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 5,
+      "concepts_tested": [
+        "Al2O3 + 2NaOH → 2NaAlO2 + H2O"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Metals and Non-Metals, which statement is supported by the source text about 3.2.2 What happens when Metals react with Water??",
+      "options": [
+        "Diamond, an allotrope of carbon, is the hardest natural substance known and has a very high melting and boiling point.",
+        "Graphite, another allotrope of carbon, is a conductor of electricity.",
+        "(iv) Alkali metals (lithium, sodium, potassium) are so soft that they can be cut with a knife.",
+        "Elements can be more clearly classified as metals and non-metals on the basis of their chemical properties."
+      ],
+      "correct_answer": 0,
+      "pattern": "statement",
+      "source_trace": "NCERT Class 10 Science Ch3 pg 3",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 5,
+      "concepts_tested": [
+        "3.2.2 What happens when Metals react with Water?"
       ]
     }
   ],
@@ -199,7 +289,7 @@
     "generation_method": "local_source_only_extractive_decode"
   },
   "content_model": "clearupsc_textbook_decoded_from_source_v1",
-  "decode_status": "textbook_decoded",
+  "decode_status": "textbook_verified",
   "source": {
     "book": "NCERT Class 10 Science",
     "chapter": 3,
@@ -211,5 +301,5 @@
   "source_trace": "NCERT Class 10 Science | Chapter 3: Metals and Non-Metals | https://ncert.nic.in/textbook/pdf/jesc103.pdf | sha256:cda8ac2d0dfd62366bc8949b901df3f28128137b7e0971968f7568dccb715117",
   "raw_text_path": "data/study/textbook-first/raw-text/gs3_sci_class10_science_ch03_metals_and_non_metals.txt",
   "generated_by": "local_source_only_extractive_decode",
-  "generated_at": "2026-05-26T19:54:24.842Z"
+  "generated_at": "2026-05-26T20:27:33.046Z"
 }

@@ -136,7 +136,7 @@
       "source_trace": "NCERT Class 12 Themes in Indian History I Ch2 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
-      "difficulty_level": 3,
+      "difficulty_level": 1,
       "concepts_tested": [
         "THEMES IN INDIAN HISTORY 28"
       ]
@@ -150,7 +150,7 @@
         "Perhaps the most visible was the emergence of early states, empires and kingdoms."
       ],
       "correct_answer": 0,
-      "pattern": "statement",
+      "pattern": "match",
       "source_trace": "NCERT Class 12 Themes in Indian History I Ch2 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
@@ -204,13 +204,103 @@
         "This gave a new direction to investigations into early Indian political history as European and Indian scholars used inscriptions and texts composed in a..."
       ],
       "correct_answer": 0,
+      "pattern": "match",
+      "source_trace": "NCERT Class 12 Themes in Indian History I Ch2 pg 1",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "c. 250 B C E"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Kings Farmers and Towns, which statement is supported by the source text about KINGS, FARMERS AND TOWNS?",
+      "options": [
+        "As a result, the broad contours of political history were in place by the early decades of the twentieth century.",
+        "Subsequently, scholars began to shift their focus to the context of political history, investigating whether there were connections between political changes and economic and...",
+        "It was soon realised that while there were links, these were not always simple or direct.",
+        "The Earliest States 2.1 The sixteen mahajanapadas The sixth century BCE is often regarded as a major turning point in early Indian history."
+      ],
+      "correct_answer": 0,
+      "pattern": "not_type",
+      "source_trace": "NCERT Class 12 Themes in Indian History I Ch2 pg 1",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "KINGS, FARMERS AND TOWNS"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Kings Farmers and Towns, which statement is supported by the source text about THEMES IN INDIAN HISTORY 30?",
+      "options": [
+        "It is an era associated with early states, cities, the growing use of iron, the development of coinage, etc.",
+        "It also witnessed the growth of diverse systems of thought, including Buddhism and Jainism.",
+        "Early Buddhist and Jaina texts (see also Chapter 4) mention, amongst other things, sixteen states known as mahajanapadas.",
+        "Although the lists vary, some names such as Vajji, Magadha, Koshala, Kuru, Panchala, Gandhara and Avanti occur frequently."
+      ],
+      "correct_answer": 0,
       "pattern": "statement",
       "source_trace": "NCERT Class 12 Themes in Indian History I Ch2 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
-      "difficulty_level": 3,
+      "difficulty_level": 4,
       "concepts_tested": [
-        "c. 250 B C E"
+        "THEMES IN INDIAN HISTORY 30"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Kings Farmers and Towns, which statement is supported by the source text about KAMBOJA?",
+      "options": [
+        "Clearly, these were amongst the most important mahajanapadas.",
+        "While most mahajanapadas were ruled by kings, some, known as ganas or sanghas, were oligarchies (p.",
+        "30), where power was shared by a number of men, often collectively called rajas.",
+        "Both Mahavira and the Buddha (Chapter 4) belonged to such ganas."
+      ],
+      "correct_answer": 0,
+      "pattern": "match",
+      "source_trace": "NCERT Class 12 Themes in Indian History I Ch2 pg 1",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "KAMBOJA"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Kings Farmers and Towns, which statement is supported by the source text about GANDHARA?",
+      "options": [
+        "In some instances, as in the case of the Vajji sangha, the rajas probably controlled resources such as land collectively.",
+        "Although their histories are often difficult to reconstruct due to the lack of sources, some of these states lasted for nearly a thousand years.",
+        "Each mahajanapada had a capital city, which was often fortified.",
+        "Maintaining these fortified cities as well as providing for incipient armies and bureaucracies required resources."
+      ],
+      "correct_answer": 0,
+      "pattern": "not_type",
+      "source_trace": "NCERT Class 12 Themes in Indian History I Ch2 pg 1",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 5,
+      "concepts_tested": [
+        "GANDHARA"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Kings Farmers and Towns, which statement is supported by the source text about SHURASENA?",
+      "options": [
+        "From c. sixth Inscriptions Inscriptions are writings engraved on hard surfaces such as stone, metal or pottery.",
+        "They usually record the achievements, activities or ideas of those who commissioned them and include the exploits of kings, or donations made by women...",
+        "Inscriptions are virtually permanent records, some of which carry dates.",
+        "Others are dated on the basis of palaeography or styles of writing, with a fair amount of precision."
+      ],
+      "correct_answer": 0,
+      "pattern": "statement",
+      "source_trace": "NCERT Class 12 Themes in Indian History I Ch2 pg 1",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 5,
+      "concepts_tested": [
+        "SHURASENA"
       ]
     }
   ],
@@ -220,7 +310,7 @@
     "generation_method": "local_source_only_extractive_decode"
   },
   "content_model": "clearupsc_textbook_decoded_from_source_v1",
-  "decode_status": "textbook_decoded",
+  "decode_status": "textbook_verified",
   "source": {
     "book": "NCERT Class 12 Themes in Indian History I",
     "chapter": 2,
@@ -232,5 +322,5 @@
   "source_trace": "NCERT Class 12 Themes in Indian History I | Chapter 2: Kings Farmers and Towns | https://ncert.nic.in/textbook/pdf/lehs102.pdf | sha256:9a997c75a6910348b2151e0a3b58cb1f297c95966d04b85c3834da1fdd3e742b",
   "raw_text_path": "data/study/textbook-first/raw-text/gs1_hist_class12_indian_history_i_ch02_kings_farmers_and_towns.txt",
   "generated_by": "local_source_only_extractive_decode",
-  "generated_at": "2026-05-26T19:53:55.172Z"
+  "generated_at": "2026-05-26T20:27:01.722Z"
 }

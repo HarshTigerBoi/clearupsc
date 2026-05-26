@@ -124,7 +124,7 @@
       "source_trace": "NCERT Class 7 Science Ch7 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
-      "difficulty_level": 3,
+      "difficulty_level": 1,
       "concepts_tested": [
         "7.1 CIRCULATORY S YSTEM"
       ]
@@ -138,7 +138,7 @@
         "It carries oxygen from the lungs to the cells of the body."
       ],
       "correct_answer": 0,
-      "pattern": "statement",
+      "pattern": "match",
       "source_trace": "NCERT Class 7 Science Ch7 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
@@ -192,13 +192,103 @@
         "Also, the blood picks up the waste materials including carbon dioxide from the cells."
       ],
       "correct_answer": 0,
+      "pattern": "match",
+      "source_trace": "NCERT Class 7 Science Ch7 pg 1",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "SCIENCE 74"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Weather Climate and Adaptations of Animals to Climate, which statement is supported by the source text about TRANSPORTATION IN ANIMALS AND PLANTS 75?",
+      "options": [
+        "This blood has to go back to the heart for transport to the lungs for removal of carbon dioxide as you have learnt in...",
+        "So, two types of blood vessels, arteries and veins are present in the body.",
+        "7.1) Arteries carry oxygen-rich blood from the heart to all parts of the body.",
+        "Since the blood flow is rapid and at a high pressure, the arteries have thick elastic walls."
+      ],
+      "correct_answer": 0,
+      "pattern": "not_type",
+      "source_trace": "NCERT Class 7 Science Ch7 pg 1",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "TRANSPORTATION IN ANIMALS AND PLANTS 75"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Weather Climate and Adaptations of Animals to Climate, which statement is supported by the source text about 7.2 E XCRETION IN ANIMALS?",
+      "options": [
+        "Let us perform an activity to study the flow of blood through arteries.",
+        "This throbbing is called the pulse and it is due to the blood flowing in the arteries.",
+        "The number of beats per minute is called the pulse rate.",
+        "A resting person, usually has a pulse rate between 72 and 80 beats per minute."
+      ],
+      "correct_answer": 0,
       "pattern": "statement",
       "source_trace": "NCERT Class 7 Science Ch7 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
-      "difficulty_level": 3,
+      "difficulty_level": 4,
       "concepts_tested": [
-        "SCIENCE 74"
+        "7.2 E XCRETION IN ANIMALS"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Weather Climate and Adaptations of Animals to Climate, which statement is supported by the source text about SCIENCE 76?",
+      "options": [
+        "Find other places in your body where you can feel the pulse.",
+        "Record your own pulse beats per minute and those of your classmates.",
+        "Insert the values you obtained in Table 7.1 and compare them.",
+        "Paheli explained that the pulmonary artery carries blood from the heart, so it is called an artery and not a vein."
+      ],
+      "correct_answer": 0,
+      "pattern": "match",
+      "source_trace": "NCERT Class 7 Science Ch7 pg 1",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "SCIENCE 76"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Weather Climate and Adaptations of Animals to Climate, which statement is supported by the source text about TRANSPORTATION IN ANIMALS AND PLANTS 77?",
+      "options": [
+        "Pulmonary vein carries oxygen-rich blood from the lungs to the heart.",
+        "Veins are the vessels which carry carbon dioxide-rich blood from all parts of the body back to the heart.",
+        "There are valves present in veins which allow blood to flow only towards the heart.",
+        "On reaching the tissues, they divide further into extremely thin tubes called capillaries."
+      ],
+      "correct_answer": 0,
+      "pattern": "not_type",
+      "source_trace": "NCERT Class 7 Science Ch7 pg 2",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 5,
+      "concepts_tested": [
+        "TRANSPORTATION IN ANIMALS AND PLANTS 77"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Weather Climate and Adaptations of Animals to Climate, which statement is supported by the source text about 7.3 T RANSPORT OF SUBSTANCES IN?",
+      "options": [
+        "The capillaries join to form veins which empty into the heart.",
+        "Heart The heart is an organ which beats continuously to act as a pump for the transport of blood, which carries other substances with...",
+        "The heart is located in the chest cavity with its lower tip slightly tilted towards the left (Fig.",
+        "That Capillaries Vein Artery Heart Lungs I am confused!"
+      ],
+      "correct_answer": 0,
+      "pattern": "statement",
+      "source_trace": "NCERT Class 7 Science Ch7 pg 2",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 5,
+      "concepts_tested": [
+        "7.3 T RANSPORT OF SUBSTANCES IN"
       ]
     }
   ],
@@ -208,7 +298,7 @@
     "generation_method": "local_source_only_extractive_decode"
   },
   "content_model": "clearupsc_textbook_decoded_from_source_v1",
-  "decode_status": "textbook_decoded",
+  "decode_status": "textbook_verified",
   "source": {
     "book": "NCERT Class 7 Science",
     "chapter": 7,
@@ -220,5 +310,5 @@
   "source_trace": "NCERT Class 7 Science | Chapter 7: Weather Climate and Adaptations of Animals to Climate | https://ncert.nic.in/textbook/pdf/gesc107.pdf | sha256:ed5bcc5fab33e629dfd8246e053dec4617e6b26748dfa8f7d78a5c2f5b2dacd7",
   "raw_text_path": "data/study/textbook-first/raw-text/gs3_sci_class7_science_ch07_weather_climate_and_adaptations_of_animals_to_climate.txt",
   "generated_by": "local_source_only_extractive_decode",
-  "generated_at": "2026-05-26T19:54:35.523Z"
+  "generated_at": "2026-05-26T20:27:44.044Z"
 }

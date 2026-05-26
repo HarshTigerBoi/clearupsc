@@ -115,7 +115,7 @@
       "source_trace": "NCERT Class 10 Science Ch2 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
-      "difficulty_level": 3,
+      "difficulty_level": 1,
       "concepts_tested": [
         "2 CHAPTER"
       ]
@@ -129,7 +129,7 @@
         "You can also use synthetic indicators such as methyl orange and phenolphthalein to test for acids and bases."
       ],
       "correct_answer": 0,
-      "pattern": "statement",
+      "pattern": "match",
       "source_trace": "NCERT Class 10 Science Ch2 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
@@ -183,13 +183,103 @@
         "Acids, Bases and Salts 19 Which of these – vanilla, onion and clove, can be used as olfactory indicators on the basis of your..."
       ],
       "correct_answer": 0,
-      "pattern": "statement",
+      "pattern": "match",
       "source_trace": "NCERT Class 10 Science Ch2 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
-      "difficulty_level": 3,
+      "difficulty_level": 4,
       "concepts_tested": [
         "2.1.2 How do Acids and Bases React with Metals?"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Acids Bases and Salts, which statement is supported by the source text about CH3COOH.?",
+      "options": [
+        "Let us do some more activities to understand the chemical properties of acids and bases.",
+        "2.1.2 How do Acids and Bases React with Metals? n Rinse both cloth strips with water and again check their odour. n Note your...",
+        "Add a few drops of dilute vanilla essence to both test tubes and shake well.",
+        "Check the odour once again and record changes in odour, if any. n Similarly, test the change in the odour of clove oil with..."
+      ],
+      "correct_answer": 0,
+      "pattern": "not_type",
+      "source_trace": "NCERT Class 10 Science Ch2 pg 2",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "CH3COOH."
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Acids Bases and Salts, which statement is supported by the source text about 2.1.3 How do Metal Carbonates and Metal?",
+      "options": [
+        "2.1. n Take about 5 mL of dilute sulphuric acid in a test tube and add a few pieces of zinc granules to it....",
+        "Figure 2.1 Figure 2.1 Figure 2.1 Figure 2.1 Figure 2.1 Reaction of zinc granules with dilute sulphuric acid and testing hydrogen gas by burning",
+        "Science 20 Note that the metal in the above reactions displaces hydrogen atoms from the acids as hydrogen gas and forms a compound called...",
+        "Thus, the reaction of a metal with an acid can be summarised as – Acid + Metal → Salt + Hydrogen gas Can you..."
+      ],
+      "correct_answer": 0,
+      "pattern": "statement",
+      "source_trace": "NCERT Class 10 Science Ch2 pg 2",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "2.1.3 How do Metal Carbonates and Metal"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Acids Bases and Salts, which statement is supported by the source text about 2.1.5 Reaction of Metallic Oxides with Acids?",
+      "options": [
+        "The reaction that takes place can be written as follows.",
+        "2NaOH(aq) + Zn(s) → Na2ZnO2(s) + H2(g) (Sodium zincate) You find again that hydrogen is formed in the reaction.",
+        "However, such reactions are not possible with all metals.",
+        "2.1.3 How do Metal Carbonates and Metal Hydrogencarbonates React with Acids?"
+      ],
+      "correct_answer": 0,
+      "pattern": "match",
+      "source_trace": "NCERT Class 10 Science Ch2 pg 3",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "2.1.5 Reaction of Metallic Oxides with Acids"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Acids Bases and Salts, which statement is supported by the source text about 2.1.4 How do Acids and Bases React with each other??",
+      "options": [
+        "Figure 2.2 Figure 2.2 Figure 2.2 Figure 2.2 Figure 2.2 Passing carbon dioxide gas through calcium hydroxide solution",
+        "Acids, Bases and Salts 21 Activity 2.6 Activity 2.6 Activity 2.6 Activity 2.6 Activity 2.6 n Take about 2 mL of dilute NaOH solution...",
+        "On passing excess carbon dioxide the following reaction takes place: CaCO s Ca(HCO aq 3 3 ( ) ) ( ) + → H...",
+        "All metal carbonates and hydrogencarbonates react with acids to give a corresponding salt, carbon dioxide and water."
+      ],
+      "correct_answer": 0,
+      "pattern": "not_type",
+      "source_trace": "NCERT Class 10 Science Ch2 pg 3",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 5,
+      "concepts_tested": [
+        "2.1.4 How do Acids and Bases React with each other?"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Acids Bases and Salts, which statement is supported by the source text about 2.1.6 Reaction of a Non-metallic Oxide with Base?",
+      "options": [
+        "Thus, the reaction can be summarised as – In the above Activity, we have observed that the effect of a base is nullified by...",
+        "The reaction taking place is written as – NaOH(aq) + HCl(aq) → NaCl(aq) + H2O(l) The reaction between an acid and a base to...",
+        "In general, a neutralisation reaction can be written as – Base + Acid → Salt + Water 2.1.5 Reaction of Metallic Oxides with Acids...",
+        "You will notice that the colour of the solution becomes blue-green and the copper oxide dissolves."
+      ],
+      "correct_answer": 0,
+      "pattern": "statement",
+      "source_trace": "NCERT Class 10 Science Ch2 pg 4",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 5,
+      "concepts_tested": [
+        "2.1.6 Reaction of a Non-metallic Oxide with Base"
       ]
     }
   ],
@@ -199,7 +289,7 @@
     "generation_method": "local_source_only_extractive_decode"
   },
   "content_model": "clearupsc_textbook_decoded_from_source_v1",
-  "decode_status": "textbook_decoded",
+  "decode_status": "textbook_verified",
   "source": {
     "book": "NCERT Class 10 Science",
     "chapter": 2,
@@ -211,5 +301,5 @@
   "source_trace": "NCERT Class 10 Science | Chapter 2: Acids Bases and Salts | https://ncert.nic.in/textbook/pdf/jesc102.pdf | sha256:8ce001e9cd1ab5f842064d1f332d4a64e010c37d5e5e29664bacd9da526f7340",
   "raw_text_path": "data/study/textbook-first/raw-text/gs3_sci_class10_science_ch02_acids_bases_and_salts.txt",
   "generated_by": "local_source_only_extractive_decode",
-  "generated_at": "2026-05-26T19:54:24.608Z"
+  "generated_at": "2026-05-26T20:27:32.812Z"
 }

@@ -136,7 +136,7 @@
       "source_trace": "NCERT Class 11 India Physical Env Ch6 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
-      "difficulty_level": 3,
+      "difficulty_level": 1,
       "concepts_tested": [
         "NATURAL HAZARDS AND DISASTERS:"
       ]
@@ -150,7 +150,7 @@
         "Change can be a gradual or slow process like the evolution of landforms and organisms and it can be as sudden and swift as..."
       ],
       "correct_answer": 0,
-      "pattern": "statement",
+      "pattern": "match",
       "source_trace": "NCERT Class 11 India Physical Env Ch6 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
@@ -204,13 +204,103 @@
         "What is a Disaster? “Disaster is an undesirable occurrence resulting from forces that are largely outside human control, strikes quickly with little or no..."
       ],
       "correct_answer": 0,
-      "pattern": "statement",
+      "pattern": "match",
       "source_trace": "NCERT Class 11 India Physical Env Ch6 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
-      "difficulty_level": 3,
+      "difficulty_level": 4,
       "concepts_tested": [
         "55 NATURAL HAZARDS AND DISASTERS"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Soils, which statement is supported by the source text about CLASSIFICATION OF NATURAL DISASTERS?",
+      "options": [
+        "For a long time, geographical literature viewed disasters as a consequence of natural forces; and human beings were treated as innocent and helpless victims...",
+        "But natural forces are NATURAL HAZARDS AND DISASTERS C H A P T E R 2026-27",
+        "54 INDIA : PHYSICAL ENVIRONMENT not the only causes of disasters.",
+        "There are some activities carried by human beings that are directly responsible for disasters."
+      ],
+      "correct_answer": 0,
+      "pattern": "not_type",
+      "source_trace": "NCERT Class 11 India Physical Env Ch6 pg 1",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "CLASSIFICATION OF NATURAL DISASTERS"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Soils, which statement is supported by the source text about NATURAL DISASTERS AND HAZARDS IN INDIA?",
+      "options": [
+        "Bhopal Gas tragedy, Chernobyl nuclear disaster, wars, release of CFCs (Chlorofluorocarbons) and increase of green house gases, environmental pollutions like noise, air, water and...",
+        "There are some other activities of human beings that accelerate or intensify disasters indirectly.",
+        "Landslides and floods due to deforestation, unscientific land use and construction activities in fragile areas are some of the disasters that are the results...",
+        "Can you identify some other human activities going on in and around your neighbourhood and schools that can lead to disasters in the near..."
+      ],
+      "correct_answer": 0,
+      "pattern": "statement",
+      "source_trace": "NCERT Class 11 India Physical Env Ch6 pg 2",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "NATURAL DISASTERS AND HAZARDS IN INDIA"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Soils, which statement is supported by the source text about 56 INDIA : PHYSICAL ENVIRONMENT?",
+      "options": [
+        "It is a common experience that human-made disasters have increased both in their numbers and magnitudes over the years and concerted efforts are on...",
+        "Though the success has been only nominal so far, it is possible to prevent some of these disasters created by human actions.",
+        "As opposed to this, very little is possible to prevent natural disasters; therefore, the best way out is to emphasise on natural disaster mitigation...",
+        "Establishment of National Institute of Disaster Management, India, Earth Summit at Rio de Janeiro, Brazil, 1993 and the World Conference on Disaster Management in..."
+      ],
+      "correct_answer": 0,
+      "pattern": "match",
+      "source_trace": "NCERT Class 11 India Physical Env Ch6 pg 2",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "56 INDIA : PHYSICAL ENVIRONMENT"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Soils, which statement is supported by the source text about 57 NATURAL HAZARDS AND DISASTERS?",
+      "options": [
+        "Most often it is observed that scholars use disasters and natural hazards as interchangeable.",
+        "Both are related phenomena, yet quite distinct from each other.",
+        "Natural Hazards are elements of circumstances in the Natural environment that have the potential to cause harm to people or property or both.",
+        "These may be swift or permanent aspects of the respective environmental settings like currents in the oceans, steep slope and unstable structural features in..."
+      ],
+      "correct_answer": 0,
+      "pattern": "not_type",
+      "source_trace": "NCERT Class 11 India Physical Env Ch6 pg 2",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 5,
+      "concepts_tested": [
+        "57 NATURAL HAZARDS AND DISASTERS"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Soils, which statement is supported by the source text about 58 INDIA : PHYSICAL ENVIRONMENT?",
+      "options": [
+        "As compared to natural hazards, natural disasters are relatively sudden and cause large scale, widespread death, loss of property and disturbance to social systems...",
+        "Thus, any event can be classed as disaster when the magnitude of destruction and damage caused by it is very high.",
+        "Generally, disasters are generalised experiences of people the world over, and no two disasters are similar and comparable to each other.",
+        "Every disaster is unique in terms of the local socio-environmental factors that control it, the social response it generates, and the way each social..."
+      ],
+      "correct_answer": 0,
+      "pattern": "statement",
+      "source_trace": "NCERT Class 11 India Physical Env Ch6 pg 2",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 5,
+      "concepts_tested": [
+        "58 INDIA : PHYSICAL ENVIRONMENT"
       ]
     }
   ],
@@ -220,7 +310,7 @@
     "generation_method": "local_source_only_extractive_decode"
   },
   "content_model": "clearupsc_textbook_decoded_from_source_v1",
-  "decode_status": "textbook_decoded",
+  "decode_status": "textbook_verified",
   "source": {
     "book": "NCERT Class 11 India Physical Environment",
     "chapter": 6,
@@ -232,5 +322,5 @@
   "source_trace": "NCERT Class 11 India Physical Environment | Chapter 6: Soils | https://ncert.nic.in/textbook/pdf/kegy106.pdf | sha256:eec0e12dfc4d745a641bba61b2c2b431f2e7bbc722338502a27c62860e3b793e",
   "raw_text_path": "data/study/textbook-first/raw-text/gs1_geo_class11_india_ch06_soils.txt",
   "generated_by": "local_source_only_extractive_decode",
-  "generated_at": "2026-05-26T19:53:28.532Z"
+  "generated_at": "2026-05-26T20:26:34.014Z"
 }

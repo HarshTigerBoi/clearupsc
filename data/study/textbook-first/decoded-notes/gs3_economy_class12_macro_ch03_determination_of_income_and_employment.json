@@ -136,7 +136,7 @@
       "source_trace": "NCERT Class 12 Macro Ch3 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
-      "difficulty_level": 3,
+      "difficulty_level": 1,
       "concepts_tested": [
         "3.1 FUNCTIONS OF MONEY"
       ]
@@ -150,7 +150,7 @@
         "If she is not lucky enough she may not be able to find another person who has the diametrically opposite demand for rice with..."
       ],
       "correct_answer": 0,
-      "pattern": "statement",
+      "pattern": "match",
       "source_trace": "NCERT Class 12 Macro Ch3 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
@@ -204,13 +204,103 @@
         "In the above example, a rupee is worth 1 ÷ 2 = 0.5 pencil or 1 ÷ 10 = 0.1 pen."
       ],
       "correct_answer": 0,
+      "pattern": "match",
+      "source_trace": "NCERT Class 12 Macro Ch3 pg 1",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "3.1 Balance Sheet of a Bank"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Determination of Income and Employment, which statement is supported by the source text about 3.3.2 Limits to Credit Creation and Money Multiplier?",
+      "options": [
+        "Thus if prices of all commodities increase in terms of money i.e., there is a general increase in the price level, the value of...",
+        "We call it a deterioration in the purchasing power of money.",
+        "It is difficult to carry forward one’s wealth under the barter system.",
+        "Suppose you have an endowment of rice which you do not wish to consume today entirely."
+      ],
+      "correct_answer": 0,
+      "pattern": "not_type",
+      "source_trace": "NCERT Class 12 Macro Ch3 pg 1",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "3.3.2 Limits to Credit Creation and Money Multiplier"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Determination of Income and Employment, which statement is supported by the source text about 3.4 POLICY TOOLS TO CONTROL MONEY SUPPLY?",
+      "options": [
+        "You may regard this stock of surplus rice as an asset which you may wish to consume, or even sell off, for acquiring other...",
+        "But rice is a perishable item and cannot be stored beyond a certain period.",
+        "Also, holding the stock of rice requires a lot of space.",
+        "You may have to spend considerable time and resources looking for people with a demand for rice when you wish to exchange your stock..."
+      ],
+      "correct_answer": 0,
       "pattern": "statement",
       "source_trace": "NCERT Class 12 Macro Ch3 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
-      "difficulty_level": 3,
+      "difficulty_level": 4,
       "concepts_tested": [
-        "3.1 Balance Sheet of a Bank"
+        "3.4 POLICY TOOLS TO CONTROL MONEY SUPPLY"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Determination of Income and Employment, which statement is supported by the source text about T = kPY (3.3)?",
+      "options": [
+        "This problem can be solved if you sell your rice for money.",
+        "Money is not perishable and its storage costs are also considerably lower.",
+        "Thus money can act as a store of value for individuals.",
+        "Wealth can be stored in the form of money for future use."
+      ],
+      "correct_answer": 0,
+      "pattern": "match",
+      "source_trace": "NCERT Class 12 Macro Ch3 pg 1",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "T = kPY (3.3)"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Determination of Income and Employment, which statement is supported by the source text about PV = X + Y = 10?",
+      "options": [
+        "However, to perform this function well, the value of money must be sufficiently stable.",
+        "A rising price level may erode the purchasing power of money.",
+        "It may be noted that any asset other than money can also act as a store of value, e.g. gold, landed property, houses or...",
+        "However, they may not be easily convertible to other commodities and do not have universal acceptability."
+      ],
+      "correct_answer": 0,
+      "pattern": "not_type",
+      "source_trace": "NCERT Class 12 Macro Ch3 pg 1",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 5,
+      "concepts_tested": [
+        "PV = X + Y = 10"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Determination of Income and Employment, which statement is supported by the source text about THE SUPPLY OF MONEY : VARIOUS MEASURES?",
+      "options": [
+        "Some countries have made an attempt to move towards an economy which use less of cash and more of digital transactions.",
+        "A cashless society describes an economic state whereby financial transactions are not connected with money in the form of physical bank notes or coins...",
+        "In India government has been consistently investing in various reforms for greater financial inclusion.",
+        "During the last few years’ initiatives such as Jan Dhan accounts, Aadhar enabled payment systems, e –Wallets, National financial Switch (NFS) and others have..."
+      ],
+      "correct_answer": 0,
+      "pattern": "statement",
+      "source_trace": "NCERT Class 12 Macro Ch3 pg 1",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 5,
+      "concepts_tested": [
+        "THE SUPPLY OF MONEY : VARIOUS MEASURES"
       ]
     }
   ],
@@ -220,7 +310,7 @@
     "generation_method": "local_source_only_extractive_decode"
   },
   "content_model": "clearupsc_textbook_decoded_from_source_v1",
-  "decode_status": "textbook_decoded",
+  "decode_status": "textbook_verified",
   "source": {
     "book": "NCERT Class 12 Introductory Macroeconomics",
     "chapter": 3,
@@ -232,5 +322,5 @@
   "source_trace": "NCERT Class 12 Introductory Macroeconomics | Chapter 3: Determination of Income and Employment | https://ncert.nic.in/textbook/pdf/leec103.pdf | sha256:d1b7f0407236a4fcf300267a04c2897acfcfbe2435c100ccf5205acb0748843f",
   "raw_text_path": "data/study/textbook-first/raw-text/gs3_economy_class12_macro_ch03_determination_of_income_and_employment.txt",
   "generated_by": "local_source_only_extractive_decode",
-  "generated_at": "2026-05-26T19:53:36.708Z"
+  "generated_at": "2026-05-26T20:26:42.723Z"
 }

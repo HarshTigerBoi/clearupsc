@@ -120,7 +120,7 @@
       "source_trace": "NCERT Class 10 Contemporary India II Ch6 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
-      "difficulty_level": 3,
+      "difficulty_level": 1,
       "concepts_tested": [
         "58 CONTEMPORARY INDIA – II"
       ]
@@ -134,7 +134,7 @@
         "IMPORTANCE OF MANUFACTURING Manufacturing sector is considered the backbone of development in general and economic development in particular mainly because– • Manufacturing industries not..."
       ],
       "correct_answer": 0,
-      "pattern": "statement",
+      "pattern": "match",
       "source_trace": "NCERT Class 10 Contemporary India II Ch6 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
@@ -188,13 +188,103 @@
         "59 MANUFACTURING INDUSTRIES Classification of Industries List the various manufactured products you use in your daily life such as – transistors, electric bulbs, vegetable..."
       ],
       "correct_answer": 0,
+      "pattern": "match",
+      "source_trace": "NCERT Class 10 Contemporary India II Ch6 pg 1",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "61 MANUFACTURING INDUSTRIES"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Manufacturing Industries, which statement is supported by the source text about 62 CONTEMPORARY INDIA – II?",
+      "options": [
+        "If we classify the various industries based on a particular criterion then we would be able to understand their manufacturing better.",
+        "Industries may be classified as follows: On the basis of source of raw materials used: • Agro based: cotton, woollen, jute, silk textile, rubber...",
+        "According to their main role: • Basic or key industries are those which supply their products as raw materials to manufacture other goods e.g....",
+        "On the basis of capital investment: • A small scale industry is defined with reference to the maximum investment allowed on the assets of..."
+      ],
+      "correct_answer": 0,
+      "pattern": "not_type",
+      "source_trace": "NCERT Class 10 Contemporary India II Ch6 pg 1",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "62 CONTEMPORARY INDIA – II"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Manufacturing Industries, which statement is supported by the source text about 63 MANUFACTURING INDUSTRIES?",
+      "options": [
+        "At present the maximum investment allowed is rupees one crore.",
+        "On the basis of ownership: • Public sector, owned and operated by government agencies – BHEL, SAIL etc. • Private sector industries owned and...",
+        "(OIL) is jointly owned by public and private sector. • Cooperative sector industries are owned and operated by the producers or suppliers of raw...",
+        "They pool in the resources and share the profits or losses proportionately."
+      ],
+      "correct_answer": 0,
       "pattern": "statement",
       "source_trace": "NCERT Class 10 Contemporary India II Ch6 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
-      "difficulty_level": 3,
+      "difficulty_level": 4,
       "concepts_tested": [
-        "61 MANUFACTURING INDUSTRIES"
+        "63 MANUFACTURING INDUSTRIES"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Manufacturing Industries, which statement is supported by the source text about 64 CONTEMPORARY INDIA – II?",
+      "options": [
+        "Such examples are the sugar industry in Maharashtra, the coir industry in Kerala.",
+        "Based on the bulk and weight of raw material and finished goods: • Heavy industries such as iron and steel • Light industries that...",
+        "Classify the following into two groups on the basis of bulk and weight of raw material and finished goods.",
+        "(i) Oil (vi) Sewing Machines (ii) Knitting needles (vii) Shipbuilding (iii) Brassware (viii) Electric Bulbs (iv) Fuse wires (ix) Paint brushes (v) Watches (x)..."
+      ],
+      "correct_answer": 0,
+      "pattern": "match",
+      "source_trace": "NCERT Class 10 Contemporary India II Ch6 pg 1",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "64 CONTEMPORARY INDIA – II"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Manufacturing Industries, which statement is supported by the source text about 65 MANUFACTURING INDUSTRIES?",
+      "options": [
+        "In the present day world of globalisation, our industry needs to be more efficient and competitive.",
+        "Our manufactured goods must be a t p a r i n q u a l i t y w i t h t...",
+        "Only then, will we be able to compete in the international market.",
+        "60 CONTEMPORARY INDIA – II Textile Industry: The textile industry occupies unique position in the Indian economy, because it contributes significantly to industrial production,..."
+      ],
+      "correct_answer": 0,
+      "pattern": "not_type",
+      "source_trace": "NCERT Class 10 Contemporary India II Ch6 pg 1",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 5,
+      "concepts_tested": [
+        "65 MANUFACTURING INDUSTRIES"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Manufacturing Industries, which statement is supported by the source text about 66 CONTEMPORARY INDIA – II?",
+      "options": [
+        "It is the only industry in the country, which is self-reliant and complete in the value chain i.e., from raw material to the highest...",
+        "Cotton Textiles: In ancient India, cotton textiles were produced with hand spinning and handloom weaving techniques.",
+        "Our traditional industries suffered a setback during the colonial period because they could not compete with the mill-made cloth from England.",
+        "6.1: Value addition in the textile industry In the early years, the cotton textile industry was concentrated in the cotton growing belt of Maharashtra..."
+      ],
+      "correct_answer": 0,
+      "pattern": "statement",
+      "source_trace": "NCERT Class 10 Contemporary India II Ch6 pg 2",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 5,
+      "concepts_tested": [
+        "66 CONTEMPORARY INDIA – II"
       ]
     }
   ],
@@ -204,7 +294,7 @@
     "generation_method": "local_source_only_extractive_decode"
   },
   "content_model": "clearupsc_textbook_decoded_from_source_v1",
-  "decode_status": "textbook_decoded",
+  "decode_status": "textbook_verified",
   "source": {
     "book": "NCERT Class 10 Contemporary India II",
     "chapter": 6,
@@ -216,5 +306,5 @@
   "source_trace": "NCERT Class 10 Contemporary India II | Chapter 6: Manufacturing Industries | https://ncert.nic.in/textbook/pdf/jess106.pdf | sha256:e8d156fc8a5be2391a8dfd3685748ed512cd5aa67d6cc3328bd4324df4aed7c6",
   "raw_text_path": "data/study/textbook-first/raw-text/gs1_geo_class10_contemporary_india_ii_ch06_manufacturing_industries.txt",
   "generated_by": "local_source_only_extractive_decode",
-  "generated_at": "2026-05-26T19:53:50.496Z"
+  "generated_at": "2026-05-26T20:26:56.802Z"
 }

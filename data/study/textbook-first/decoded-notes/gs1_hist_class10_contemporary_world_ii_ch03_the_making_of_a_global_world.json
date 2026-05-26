@@ -136,7 +136,7 @@
       "source_trace": "NCERT Class 10 India and the Contemporary World II Ch3 pg 2",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
-      "difficulty_level": 3,
+      "difficulty_level": 1,
       "concepts_tested": [
         "SECTION II"
       ]
@@ -150,7 +150,7 @@
         "For more than a millennia, cowries (the Hindi cowdi or seashells, used as a form of currency) from the Maldives found their way to..."
       ],
       "correct_answer": 0,
-      "pattern": "statement",
+      "pattern": "match",
       "source_trace": "NCERT Class 10 India and the Contemporary World II Ch3 pg 2",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
@@ -204,13 +204,103 @@
         "Early Christian missionaries almost certainly travelled this route to Asia, as did early Muslim preachers a few centuries later."
       ],
       "correct_answer": 0,
+      "pattern": "match",
+      "source_trace": "NCERT Class 10 India and the Contemporary World II Ch3 pg 3",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "1.2 Food Travels: Spaghetti and Potato"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of The Making of a Global World, which statement is supported by the source text about 1.3 Conquest, Disease and Trade?",
+      "options": [
+        "Much before all this, Buddhism emerged from eastern India and spread in several directions through intersecting points on the silk routes.",
+        "1.2 Food Travels: Spaghetti and Potato Food offers many examples of long-distance cultural exchange.",
+        "Traders and travellers introduced new crops to the lands they travelled.",
+        "Even ‘ready’ foodstuff in distant parts of the world might share common origins."
+      ],
+      "correct_answer": 0,
+      "pattern": "not_type",
+      "source_trace": "NCERT Class 10 India and the Contemporary World II Ch3 pg 3",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "1.3 Conquest, Disease and Trade"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of The Making of a Global World, which statement is supported by the source text about 2.1 A World Economy Takes Shape?",
+      "options": [
+        "It is believed that noodles travelled west from China to become spaghetti.",
+        "Or, perhaps Arab traders took pasta to fifth-century Sicily, an island now in Italy.",
+        "Similar foods were also known in India and Japan, so the truth about their origins may never be known.",
+        "Yet such guesswork suggests the possibilities of long-distance cultural contact even in the pre-modern world."
+      ],
+      "correct_answer": 0,
       "pattern": "statement",
       "source_trace": "NCERT Class 10 India and the Contemporary World II Ch3 pg 3",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
-      "difficulty_level": 3,
+      "difficulty_level": 4,
       "concepts_tested": [
-        "1.2 Food Travels: Spaghetti and Potato"
+        "2.1 A World Economy Takes Shape"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of The Making of a Global World, which statement is supported by the source text about 2 The Nineteenth Century (1815-1914)?",
+      "options": [
+        "Many of our common foods such as potatoes, soya, groundnuts, maize, tomatoes, chillies, sweet potatoes, and so on were not known to our ancestors...",
+        "These foods were only introduced in Europe and Asia after Christopher Columbus accidentally discovered the vast continent that would later become known as the...",
+        "3 – Merchants from Venice and the Orient exchanging goods, from Marco Polo, Book of Marvels, fifteenth century.",
+        "2 – Silk route trade as depicted in a Chinese cave painting, eighth century, Cave 217, Mogao Grottoes, Gansu, China."
+      ],
+      "correct_answer": 0,
+      "pattern": "match",
+      "source_trace": "NCERT Class 10 India and the Contemporary World II Ch3 pg 3",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "2 The Nineteenth Century (1815-1914)"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of The Making of a Global World, which statement is supported by the source text about 2.2 Role of Technology?",
+      "options": [
+        "55 The Making of a Global World (Here we will use ‘America’ to describe North America, South America and the Caribbean.) In fact, many...",
+        "Sometimes the new crops could make the difference between life and death.",
+        "Europe’s poor began to eat better and live longer with the introduction of the humble potato.",
+        "Ireland’s poorest peasants became so dependent on potatoes that when disease destroyed the potato crop in the mid-1840s, hundreds of thousands died of starvation."
+      ],
+      "correct_answer": 0,
+      "pattern": "not_type",
+      "source_trace": "NCERT Class 10 India and the Contemporary World II Ch3 pg 4",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 5,
+      "concepts_tested": [
+        "2.2 Role of Technology"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of The Making of a Global World, which statement is supported by the source text about 2.3 Late nineteenth-century Colonialism?",
+      "options": [
+        "1.3 Conquest, Disease and Trade The pre-modern world shrank greatly in the sixteenth century after European sailors found a sea route to Asia and...",
+        "For centuries before, the Indian Ocean had known a bustling trade, with goods, people, knowledge, customs, etc. criss-crossing its waters.",
+        "The Indian subcontinent was central to these flows and a crucial point in their networks.",
+        "The entry of the Europeans helped expand or redirect some of these flows towards Europe."
+      ],
+      "correct_answer": 0,
+      "pattern": "statement",
+      "source_trace": "NCERT Class 10 India and the Contemporary World II Ch3 pg 4",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 5,
+      "concepts_tested": [
+        "2.3 Late nineteenth-century Colonialism"
       ]
     }
   ],
@@ -220,7 +310,7 @@
     "generation_method": "local_source_only_extractive_decode"
   },
   "content_model": "clearupsc_textbook_decoded_from_source_v1",
-  "decode_status": "textbook_decoded",
+  "decode_status": "textbook_verified",
   "source": {
     "book": "NCERT Class 10 India and the Contemporary World II",
     "chapter": 3,
@@ -232,5 +322,5 @@
   "source_trace": "NCERT Class 10 India and the Contemporary World II | Chapter 3: The Making of a Global World | https://ncert.nic.in/textbook/pdf/jess303.pdf | sha256:d05d0e3fae418f3e9609410897df1bcfd03db9c1b8278ab4e5545ac32efb1de3",
   "raw_text_path": "data/study/textbook-first/raw-text/gs1_hist_class10_contemporary_world_ii_ch03_the_making_of_a_global_world.txt",
   "generated_by": "local_source_only_extractive_decode",
-  "generated_at": "2026-05-26T19:54:09.451Z"
+  "generated_at": "2026-05-26T20:27:16.861Z"
 }

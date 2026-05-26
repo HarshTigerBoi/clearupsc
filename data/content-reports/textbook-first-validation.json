@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-26T19:54:51.537Z",
+  "generated_at": "2026-05-26T20:31:00.992Z",
   "source": "content-quality-overhaul.md",
   "chapter_count": 462,
   "tests": {
@@ -8933,6 +8933,4774 @@
         "gs3_sci_class8_science_ch17_stars_and_the_solar_system",
         "gs3_sci_class8_science_ch18_pollution_of_air_and_water"
       ]
+    },
+    "decoded_notes_quality": {
+      "status": "pass",
+      "decoded_files": 317,
+      "chapters_with_kill_phrases": 0,
+      "chapters_with_fewer_than_10_mcqs": 0,
+      "chapters_missing_mcq_source_trace": 0,
+      "chapters_with_missing_mandatory_mcq_fields": 0,
+      "chapters_with_banned_mcq_patterns": 0,
+      "textbook_verified_count": 317,
+      "rows": [
+        {
+          "key": "gs1_art_class11_indian_art_ch01_prehistoric_rock_paintings",
+          "mcq_count": 10,
+          "kill_phrase_count": 0,
+          "missing_source_trace": 0,
+          "missing_mandatory_fields": 0,
+          "banned_pattern_count": 0,
+          "difficulty_counts": {
+            "1": 1,
+            "3": 3,
+            "4": 4,
+            "5": 2
+          },
+          "decode_status": "textbook_verified"
+        },
+        {
+          "key": "gs1_art_class11_indian_art_ch02_arts_of_the_indus_valley",
+          "mcq_count": 10,
+          "kill_phrase_count": 0,
+          "missing_source_trace": 0,
+          "missing_mandatory_fields": 0,
+          "banned_pattern_count": 0,
+          "difficulty_counts": {
+            "1": 1,
+            "3": 3,
+            "4": 4,
+            "5": 2
+          },
+          "decode_status": "textbook_verified"
+        },
+        {
+          "key": "gs1_art_class11_indian_art_ch03_arts_of_the_mauryan_period",
+          "mcq_count": 10,
+          "kill_phrase_count": 0,
+          "missing_source_trace": 0,
+          "missing_mandatory_fields": 0,
+          "banned_pattern_count": 0,
+          "difficulty_counts": {
+            "1": 1,
+            "3": 3,
+            "4": 4,
+            "5": 2
+          },
+          "decode_status": "textbook_verified"
+        },
+        {
+          "key": "gs1_art_class11_indian_art_ch04_post_mauryan_trends_in_indian_art_and_architecture",
+          "mcq_count": 10,
+          "kill_phrase_count": 0,
+          "missing_source_trace": 0,
+          "missing_mandatory_fields": 0,
+          "banned_pattern_count": 0,
+          "difficulty_counts": {
+            "1": 1,
+            "3": 3,
+            "4": 4,
+            "5": 2
+          },
+          "decode_status": "textbook_verified"
+        },
+        {
+          "key": "gs1_art_class11_indian_art_ch05_later_mural_traditions",
+          "mcq_count": 10,
+          "kill_phrase_count": 0,
+          "missing_source_trace": 0,
+          "missing_mandatory_fields": 0,
+          "banned_pattern_count": 0,
+          "difficulty_counts": {
+            "1": 1,
+            "3": 3,
+            "4": 4,
+            "5": 2
+          },
+          "decode_status": "textbook_verified"
+        },
+        {
+          "key": "gs1_art_class11_indian_art_ch06_temple_architecture_and_sculpture",
+          "mcq_count": 10,
+          "kill_phrase_count": 0,
+          "missing_source_trace": 0,
+          "missing_mandatory_fields": 0,
+          "banned_pattern_count": 0,
+          "difficulty_counts": {
+            "1": 1,
+            "3": 3,
+            "4": 4,
+            "5": 2
+          },
+          "decode_status": "textbook_verified"
+        },
+        {
+          "key": "gs1_art_class11_indian_art_ch07_indian_bronze_sculpture",
+          "mcq_count": 10,
+          "kill_phrase_count": 0,
+          "missing_source_trace": 0,
+          "missing_mandatory_fields": 0,
+          "banned_pattern_count": 0,
+          "difficulty_counts": {
+            "1": 1,
+            "3": 3,
+            "4": 4,
+            "5": 2
+          },
+          "decode_status": "textbook_verified"
+        },
+        {
+          "key": "gs1_art_class11_indian_art_ch08_some_aspects_of_indo_islamic_architecture",
+          "mcq_count": 10,
+          "kill_phrase_count": 0,
+          "missing_source_trace": 0,
+          "missing_mandatory_fields": 0,
+          "banned_pattern_count": 0,
+          "difficulty_counts": {
+            "1": 1,
+            "3": 3,
+            "4": 4,
+            "5": 2
+          },
+          "decode_status": "textbook_verified"
+        },
+        {
+          "key": "gs1_geo_class10_contemporary_india_ii_ch01_resources_and_development",
+          "mcq_count": 10,
+          "kill_phrase_count": 0,
+          "missing_source_trace": 0,
+          "missing_mandatory_fields": 0,
+          "banned_pattern_count": 0,
+          "difficulty_counts": {
+            "1": 1,
+            "3": 3,
+            "4": 4,
+            "5": 2
+          },
+          "decode_status": "textbook_verified"
+        },
+        {
+          "key": "gs1_geo_class10_contemporary_india_ii_ch02_forest_and_wildlife_resources",
+          "mcq_count": 10,
+          "kill_phrase_count": 0,
+          "missing_source_trace": 0,
+          "missing_mandatory_fields": 0,
+          "banned_pattern_count": 0,
+          "difficulty_counts": {
+            "1": 1,
+            "3": 3,
+            "4": 4,
+            "5": 2
+          },
+          "decode_status": "textbook_verified"
+        },
+        {
+          "key": "gs1_geo_class10_contemporary_india_ii_ch03_water_resources",
+          "mcq_count": 10,
+          "kill_phrase_count": 0,
+          "missing_source_trace": 0,
+          "missing_mandatory_fields": 0,
+          "banned_pattern_count": 0,
+          "difficulty_counts": {
+            "1": 1,
+            "3": 3,
+            "4": 4,
+            "5": 2
+          },
+          "decode_status": "textbook_verified"
+        },
+        {
+          "key": "gs1_geo_class10_contemporary_india_ii_ch04_agriculture",
+          "mcq_count": 10,
+          "kill_phrase_count": 0,
+          "missing_source_trace": 0,
+          "missing_mandatory_fields": 0,
+          "banned_pattern_count": 0,
+          "difficulty_counts": {
+            "1": 1,
+            "3": 3,
+            "4": 4,
+            "5": 2
+          },
+          "decode_status": "textbook_verified"
+        },
+        {
+          "key": "gs1_geo_class10_contemporary_india_ii_ch05_minerals_and_energy_resources",
+          "mcq_count": 10,
+          "kill_phrase_count": 0,
+          "missing_source_trace": 0,
+          "missing_mandatory_fields": 0,
+          "banned_pattern_count": 0,
+          "difficulty_counts": {
+            "1": 1,
+            "3": 3,
+            "4": 4,
+            "5": 2
+          },
+          "decode_status": "textbook_verified"
+        },
+        {
+          "key": "gs1_geo_class10_contemporary_india_ii_ch06_manufacturing_industries",
+          "mcq_count": 10,
+          "kill_phrase_count": 0,
+          "missing_source_trace": 0,
+          "missing_mandatory_fields": 0,
+          "banned_pattern_count": 0,
+          "difficulty_counts": {
+            "1": 1,
+            "3": 3,
+            "4": 4,
+            "5": 2
+          },
+          "decode_status": "textbook_verified"
+        },
+        {
+          "key": "gs1_geo_class10_contemporary_india_ii_ch07_lifelines_of_national_economy",
+          "mcq_count": 10,
+          "kill_phrase_count": 0,
+          "missing_source_trace": 0,
+          "missing_mandatory_fields": 0,
+          "banned_pattern_count": 0,
+          "difficulty_counts": {
+            "1": 1,
+            "3": 3,
+            "4": 4,
+            "5": 2
+          },
+          "decode_status": "textbook_verified"
+        },
+        {
+          "key": "gs1_geo_class11_india_ch01_location",
+          "mcq_count": 10,
+          "kill_phrase_count": 0,
+          "missing_source_trace": 0,
+          "missing_mandatory_fields": 0,
+          "banned_pattern_count": 0,
+          "difficulty_counts": {
+            "1": 1,
+            "3": 3,
+            "4": 4,
+            "5": 2
+          },
+          "decode_status": "textbook_verified"
+        },
+        {
+          "key": "gs1_geo_class11_india_ch02_structure_physiography",
+          "mcq_count": 10,
+          "kill_phrase_count": 0,
+          "missing_source_trace": 0,
+          "missing_mandatory_fields": 0,
+          "banned_pattern_count": 0,
+          "difficulty_counts": {
+            "1": 1,
+            "3": 3,
+            "4": 4,
+            "5": 2
+          },
+          "decode_status": "textbook_verified"
+        },
+        {
+          "key": "gs1_geo_class11_india_ch03_drainage_system",
+          "mcq_count": 10,
+          "kill_phrase_count": 0,
+          "missing_source_trace": 0,
+          "missing_mandatory_fields": 0,
+          "banned_pattern_count": 0,
+          "difficulty_counts": {
+            "1": 1,
+            "3": 3,
+            "4": 4,
+            "5": 2
+          },
+          "decode_status": "textbook_verified"
+        },
+        {
+          "key": "gs1_geo_class11_india_ch04_climate",
+          "mcq_count": 10,
+          "kill_phrase_count": 0,
+          "missing_source_trace": 0,
+          "missing_mandatory_fields": 0,
+          "banned_pattern_count": 0,
+          "difficulty_counts": {
+            "1": 1,
+            "3": 3,
+            "4": 4,
+            "5": 2
+          },
+          "decode_status": "textbook_verified"
+        },
+        {
+          "key": "gs1_geo_class11_india_ch05_natural_vegetation",
+          "mcq_count": 10,
+          "kill_phrase_count": 0,
+          "missing_source_trace": 0,
+          "missing_mandatory_fields": 0,
+          "banned_pattern_count": 0,
+          "difficulty_counts": {
+            "1": 1,
+            "3": 3,
+            "4": 4,
+            "5": 2
+          },
+          "decode_status": "textbook_verified"
+        },
+        {
+          "key": "gs1_geo_class11_india_ch06_soils",
+          "mcq_count": 10,
+          "kill_phrase_count": 0,
+          "missing_source_trace": 0,
+          "missing_mandatory_fields": 0,
+          "banned_pattern_count": 0,
+          "difficulty_counts": {
+            "1": 1,
+            "3": 3,
+            "4": 4,
+            "5": 2
+          },
+          "decode_status": "textbook_verified"
+        },
+        {
+          "key": "gs1_geo_class11_phys_ch01_geography_as_discipline",
+          "mcq_count": 10,
+          "kill_phrase_count": 0,
+          "missing_source_trace": 0,
+          "missing_mandatory_fields": 0,
+          "banned_pattern_count": 0,
+          "difficulty_counts": {
+            "1": 1,
+            "3": 3,
+            "4": 4,
+            "5": 2
+          },
+          "decode_status": "textbook_verified"
+        },
+        {
+          "key": "gs1_geo_class11_phys_ch02_origin_evolution_earth",
+          "mcq_count": 10,
+          "kill_phrase_count": 0,
+          "missing_source_trace": 0,
+          "missing_mandatory_fields": 0,
+          "banned_pattern_count": 0,
+          "difficulty_counts": {
+            "1": 1,
+            "3": 3,
+            "4": 4,
+            "5": 2
+          },
+          "decode_status": "textbook_verified"
+        },
+        {
+          "key": "gs1_geo_class11_phys_ch03_interior_of_earth",
+          "mcq_count": 10,
+          "kill_phrase_count": 0,
+          "missing_source_trace": 0,
+          "missing_mandatory_fields": 0,
+          "banned_pattern_count": 0,
+          "difficulty_counts": {
+            "1": 1,
+            "3": 3,
+            "4": 4,
+            "5": 2
+          },
+          "decode_status": "textbook_verified"
+        },
+        {
+          "key": "gs1_geo_class11_phys_ch04_distribution_oceans_continents",
+          "mcq_count": 10,
+          "kill_phrase_count": 0,
+          "missing_source_trace": 0,
+          "missing_mandatory_fields": 0,
+          "banned_pattern_count": 0,
+          "difficulty_counts": {
+            "1": 1,
+            "3": 3,
+            "4": 4,
+            "5": 2
+          },
+          "decode_status": "textbook_verified"
+        },
+        {
+          "key": "gs1_geo_class11_phys_ch05_minerals_and_rocks",
+          "mcq_count": 10,
+          "kill_phrase_count": 0,
+          "missing_source_trace": 0,
+          "missing_mandatory_fields": 0,
+          "banned_pattern_count": 0,
+          "difficulty_counts": {
+            "1": 1,
+            "3": 3,
+            "4": 4,
+            "5": 2
+          },
+          "decode_status": "textbook_verified"
+        },
+        {
+          "key": "gs1_geo_class11_phys_ch06_geomorphic_processes",
+          "mcq_count": 10,
+          "kill_phrase_count": 0,
+          "missing_source_trace": 0,
+          "missing_mandatory_fields": 0,
+          "banned_pattern_count": 0,
+          "difficulty_counts": {
+            "1": 1,
+            "3": 3,
+            "4": 4,
+            "5": 2
+          },
+          "decode_status": "textbook_verified"
+        },
+        {
+          "key": "gs1_geo_class11_phys_ch07_landforms_evolution",
+          "mcq_count": 10,
+          "kill_phrase_count": 0,
+          "missing_source_trace": 0,
+          "missing_mandatory_fields": 0,
+          "banned_pattern_count": 0,
+          "difficulty_counts": {
+            "1": 1,
+            "3": 3,
+            "4": 4,
+            "5": 2
+          },
+          "decode_status": "textbook_verified"
+        },
+        {
+          "key": "gs1_geo_class11_phys_ch08_composition_and_structure_of_atmosphere",
+          "mcq_count": 10,
+          "kill_phrase_count": 0,
+          "missing_source_trace": 0,
+          "missing_mandatory_fields": 0,
+          "banned_pattern_count": 0,
+          "difficulty_counts": {
+            "1": 1,
+            "3": 3,
+            "4": 4,
+            "5": 2
+          },
+          "decode_status": "textbook_verified"
+        },
+        {
+          "key": "gs1_geo_class11_phys_ch09_solar_radiation_heat_balance_and_temperature",
+          "mcq_count": 10,
+          "kill_phrase_count": 0,
+          "missing_source_trace": 0,
+          "missing_mandatory_fields": 0,
+          "banned_pattern_count": 0,
+          "difficulty_counts": {
+            "1": 1,
+            "3": 3,
+            "4": 4,
+            "5": 2
+          },
+          "decode_status": "textbook_verified"
+        },
+        {
+          "key": "gs1_geo_class11_phys_ch10_atmospheric_circulation_and_weather_systems",
+          "mcq_count": 10,
+          "kill_phrase_count": 0,
+          "missing_source_trace": 0,
+          "missing_mandatory_fields": 0,
+          "banned_pattern_count": 0,
+          "difficulty_counts": {
+            "1": 1,
+            "3": 3,
+            "4": 4,
+            "5": 2
+          },
+          "decode_status": "textbook_verified"
+        },
+        {
+          "key": "gs1_geo_class11_phys_ch11_water_in_the_atmosphere",
+          "mcq_count": 10,
+          "kill_phrase_count": 0,
+          "missing_source_trace": 0,
+          "missing_mandatory_fields": 0,
+          "banned_pattern_count": 0,
+          "difficulty_counts": {
+            "1": 1,
+            "3": 3,
+            "4": 4,
+            "5": 2
+          },
+          "decode_status": "textbook_verified"
+        },
+        {
+          "key": "gs1_geo_class11_phys_ch12_world_climate_and_climate_change",
+          "mcq_count": 10,
+          "kill_phrase_count": 0,
+          "missing_source_trace": 0,
+          "missing_mandatory_fields": 0,
+          "banned_pattern_count": 0,
+          "difficulty_counts": {
+            "1": 1,
+            "3": 3,
+            "4": 4,
+            "5": 2
+          },
+          "decode_status": "textbook_verified"
+        },
+        {
+          "key": "gs1_geo_class11_phys_ch13_water_oceans",
+          "mcq_count": 10,
+          "kill_phrase_count": 0,
+          "missing_source_trace": 0,
+          "missing_mandatory_fields": 0,
+          "banned_pattern_count": 0,
+          "difficulty_counts": {
+            "1": 1,
+            "3": 3,
+            "4": 4,
+            "5": 2
+          },
+          "decode_status": "textbook_verified"
+        },
+        {
+          "key": "gs1_geo_class11_phys_ch14_movements_of_ocean_water",
+          "mcq_count": 10,
+          "kill_phrase_count": 0,
+          "missing_source_trace": 0,
+          "missing_mandatory_fields": 0,
+          "banned_pattern_count": 0,
+          "difficulty_counts": {
+            "1": 1,
+            "3": 3,
+            "4": 4,
+            "5": 2
+          },
+          "decode_status": "textbook_verified"
+        },
+        {
+          "key": "gs1_geo_class12_human_ch01_human_geography_nature_and_scope",
+          "mcq_count": 10,
+          "kill_phrase_count": 0,
+          "missing_source_trace": 0,
+          "missing_mandatory_fields": 0,
+          "banned_pattern_count": 0,
+          "difficulty_counts": {
+            "1": 1,
+            "3": 3,
+            "4": 4,
+            "5": 2
+          },
+          "decode_status": "textbook_verified"
+        },
+        {
+          "key": "gs1_geo_class12_human_ch02_world_population_distribution_density_and_growth",
+          "mcq_count": 10,
+          "kill_phrase_count": 0,
+          "missing_source_trace": 0,
+          "missing_mandatory_fields": 0,
+          "banned_pattern_count": 0,
+          "difficulty_counts": {
+            "1": 1,
+            "3": 3,
+            "4": 4,
+            "5": 2
+          },
+          "decode_status": "textbook_verified"
+        },
+        {
+          "key": "gs1_geo_class12_human_ch03_population_composition",
+          "mcq_count": 10,
+          "kill_phrase_count": 0,
+          "missing_source_trace": 0,
+          "missing_mandatory_fields": 0,
+          "banned_pattern_count": 0,
+          "difficulty_counts": {
+            "1": 1,
+            "3": 3,
+            "4": 4,
+            "5": 2
+          },
+          "decode_status": "textbook_verified"
+        },
+        {
+          "key": "gs1_geo_class12_human_ch04_human_development",
+          "mcq_count": 10,
+          "kill_phrase_count": 0,
+          "missing_source_trace": 0,
+          "missing_mandatory_fields": 0,
+          "banned_pattern_count": 0,
+          "difficulty_counts": {
+            "1": 1,
+            "3": 3,
+            "4": 4,
+            "5": 2
+          },
+          "decode_status": "textbook_verified"
+        },
+        {
+          "key": "gs1_geo_class12_human_ch05_primary_activities",
+          "mcq_count": 10,
+          "kill_phrase_count": 0,
+          "missing_source_trace": 0,
+          "missing_mandatory_fields": 0,
+          "banned_pattern_count": 0,
+          "difficulty_counts": {
+            "1": 1,
+            "3": 3,
+            "4": 4,
+            "5": 2
+          },
+          "decode_status": "textbook_verified"
+        },
+        {
+          "key": "gs1_geo_class12_human_ch06_secondary_activities",
+          "mcq_count": 10,
+          "kill_phrase_count": 0,
+          "missing_source_trace": 0,
+          "missing_mandatory_fields": 0,
+          "banned_pattern_count": 0,
+          "difficulty_counts": {
+            "1": 1,
+            "3": 3,
+            "4": 4,
+            "5": 2
+          },
+          "decode_status": "textbook_verified"
+        },
+        {
+          "key": "gs1_geo_class12_human_ch07_tertiary_and_quaternary_activities",
+          "mcq_count": 10,
+          "kill_phrase_count": 0,
+          "missing_source_trace": 0,
+          "missing_mandatory_fields": 0,
+          "banned_pattern_count": 0,
+          "difficulty_counts": {
+            "1": 1,
+            "3": 3,
+            "4": 4,
+            "5": 2
+          },
+          "decode_status": "textbook_verified"
+        },
+        {
+          "key": "gs1_geo_class12_human_ch08_transport_and_communication",
+          "mcq_count": 10,
+          "kill_phrase_count": 0,
+          "missing_source_trace": 0,
+          "missing_mandatory_fields": 0,
+          "banned_pattern_count": 0,
+          "difficulty_counts": {
+            "1": 1,
+            "3": 3,
+            "4": 4,
+            "5": 2
+          },
+          "decode_status": "textbook_verified"
+        },
+        {
+          "key": "gs1_geo_class12_india_people_economy_ch01_population_distribution_density_growth_and_composition",
+          "mcq_count": 10,
+          "kill_phrase_count": 0,
+          "missing_source_trace": 0,
+          "missing_mandatory_fields": 0,
+          "banned_pattern_count": 0,
+          "difficulty_counts": {
+            "1": 1,
+            "3": 3,
+            "4": 4,
+            "5": 2
+          },
+          "decode_status": "textbook_verified"
+        },
+        {
+          "key": "gs1_geo_class12_india_people_economy_ch02_migration",
+          "mcq_count": 10,
+          "kill_phrase_count": 0,
+          "missing_source_trace": 0,
+          "missing_mandatory_fields": 0,
+          "banned_pattern_count": 0,
+          "difficulty_counts": {
+            "1": 1,
+            "3": 3,
+            "4": 4,
+            "5": 2
+          },
+          "decode_status": "textbook_verified"
+        },
+        {
+          "key": "gs1_geo_class12_india_people_economy_ch03_human_development",
+          "mcq_count": 10,
+          "kill_phrase_count": 0,
+          "missing_source_trace": 0,
+          "missing_mandatory_fields": 0,
+          "banned_pattern_count": 0,
+          "difficulty_counts": {
+            "1": 1,
+            "3": 3,
+            "4": 4,
+            "5": 2
+          },
+          "decode_status": "textbook_verified"
+        },
+        {
+          "key": "gs1_geo_class12_india_people_economy_ch04_human_settlements",
+          "mcq_count": 10,
+          "kill_phrase_count": 0,
+          "missing_source_trace": 0,
+          "missing_mandatory_fields": 0,
+          "banned_pattern_count": 0,
+          "difficulty_counts": {
+            "1": 1,
+            "3": 3,
+            "4": 4,
+            "5": 2
+          },
+          "decode_status": "textbook_verified"
+        },
+        {
+          "key": "gs1_geo_class12_india_people_economy_ch05_land_resources_and_agriculture",
+          "mcq_count": 10,
+          "kill_phrase_count": 0,
+          "missing_source_trace": 0,
+          "missing_mandatory_fields": 0,
+          "banned_pattern_count": 0,
+          "difficulty_counts": {
+            "1": 1,
+            "3": 3,
+            "4": 4,
+            "5": 2
+          },
+          "decode_status": "textbook_verified"
+        },
+        {
+          "key": "gs1_geo_class12_india_people_economy_ch06_water_resources",
+          "mcq_count": 10,
+          "kill_phrase_count": 0,
+          "missing_source_trace": 0,
+          "missing_mandatory_fields": 0,
+          "banned_pattern_count": 0,
+          "difficulty_counts": {
+            "1": 1,
+            "3": 3,
+            "4": 4,
+            "5": 2
+          },
+          "decode_status": "textbook_verified"
+        },
+        {
+          "key": "gs1_geo_class12_india_people_economy_ch07_mineral_and_energy_resources",
+          "mcq_count": 10,
+          "kill_phrase_count": 0,
+          "missing_source_trace": 0,
+          "missing_mandatory_fields": 0,
+          "banned_pattern_count": 0,
+          "difficulty_counts": {
+            "1": 1,
+            "3": 3,
+            "4": 4,
+            "5": 2
+          },
+          "decode_status": "textbook_verified"
+        },
+        {
+          "key": "gs1_geo_class12_india_people_economy_ch08_manufacturing_industries",
+          "mcq_count": 10,
+          "kill_phrase_count": 0,
+          "missing_source_trace": 0,
+          "missing_mandatory_fields": 0,
+          "banned_pattern_count": 0,
+          "difficulty_counts": {
+            "1": 1,
+            "3": 3,
+            "4": 4,
+            "5": 2
+          },
+          "decode_status": "textbook_verified"
+        },
+        {
+          "key": "gs1_geo_class12_india_people_economy_ch09_planning_and_sustainable_development",
+          "mcq_count": 10,
+          "kill_phrase_count": 0,
+          "missing_source_trace": 0,
+          "missing_mandatory_fields": 0,
+          "banned_pattern_count": 0,
+          "difficulty_counts": {
+            "1": 1,
+            "3": 3,
+            "4": 4,
+            "5": 2
+          },
+          "decode_status": "textbook_verified"
+        },
+        {
+          "key": "gs1_geo_class7_our_environment_ch01_environment",
+          "mcq_count": 10,
+          "kill_phrase_count": 0,
+          "missing_source_trace": 0,
+          "missing_mandatory_fields": 0,
+          "banned_pattern_count": 0,
+          "difficulty_counts": {
+            "1": 1,
+            "3": 3,
+            "4": 4,
+            "5": 2
+          },
+          "decode_status": "textbook_verified"
+        },
+        {
+          "key": "gs1_geo_class7_our_environment_ch02_inside_our_earth",
+          "mcq_count": 10,
+          "kill_phrase_count": 0,
+          "missing_source_trace": 0,
+          "missing_mandatory_fields": 0,
+          "banned_pattern_count": 0,
+          "difficulty_counts": {
+            "1": 1,
+            "3": 3,
+            "4": 4,
+            "5": 2
+          },
+          "decode_status": "textbook_verified"
+        },
+        {
+          "key": "gs1_geo_class7_our_environment_ch03_our_changing_earth",
+          "mcq_count": 10,
+          "kill_phrase_count": 0,
+          "missing_source_trace": 0,
+          "missing_mandatory_fields": 0,
+          "banned_pattern_count": 0,
+          "difficulty_counts": {
+            "1": 1,
+            "3": 3,
+            "4": 4,
+            "5": 2
+          },
+          "decode_status": "textbook_verified"
+        },
+        {
+          "key": "gs1_geo_class7_our_environment_ch04_air",
+          "mcq_count": 10,
+          "kill_phrase_count": 0,
+          "missing_source_trace": 0,
+          "missing_mandatory_fields": 0,
+          "banned_pattern_count": 0,
+          "difficulty_counts": {
+            "1": 1,
+            "3": 3,
+            "4": 4,
+            "5": 2
+          },
+          "decode_status": "textbook_verified"
+        },
+        {
+          "key": "gs1_geo_class7_our_environment_ch05_water",
+          "mcq_count": 10,
+          "kill_phrase_count": 0,
+          "missing_source_trace": 0,
+          "missing_mandatory_fields": 0,
+          "banned_pattern_count": 0,
+          "difficulty_counts": {
+            "1": 1,
+            "3": 3,
+            "4": 4,
+            "5": 2
+          },
+          "decode_status": "textbook_verified"
+        },
+        {
+          "key": "gs1_geo_class7_our_environment_ch06_natural_vegetation_and_wildlife",
+          "mcq_count": 10,
+          "kill_phrase_count": 0,
+          "missing_source_trace": 0,
+          "missing_mandatory_fields": 0,
+          "banned_pattern_count": 0,
+          "difficulty_counts": {
+            "1": 1,
+            "3": 3,
+            "4": 4,
+            "5": 2
+          },
+          "decode_status": "textbook_verified"
+        },
+        {
+          "key": "gs1_geo_class7_our_environment_ch07_human_environment_settlement_transport_and_communication",
+          "mcq_count": 10,
+          "kill_phrase_count": 0,
+          "missing_source_trace": 0,
+          "missing_mandatory_fields": 0,
+          "banned_pattern_count": 0,
+          "difficulty_counts": {
+            "1": 1,
+            "3": 3,
+            "4": 4,
+            "5": 2
+          },
+          "decode_status": "textbook_verified"
+        },
+        {
+          "key": "gs1_geo_class8_resources_development_ch01_resources",
+          "mcq_count": 10,
+          "kill_phrase_count": 0,
+          "missing_source_trace": 0,
+          "missing_mandatory_fields": 0,
+          "banned_pattern_count": 0,
+          "difficulty_counts": {
+            "1": 1,
+            "3": 3,
+            "4": 4,
+            "5": 2
+          },
+          "decode_status": "textbook_verified"
+        },
+        {
+          "key": "gs1_geo_class8_resources_development_ch02_land_soil_water_natural_vegetation_and_wildlife_resources",
+          "mcq_count": 10,
+          "kill_phrase_count": 0,
+          "missing_source_trace": 0,
+          "missing_mandatory_fields": 0,
+          "banned_pattern_count": 0,
+          "difficulty_counts": {
+            "1": 1,
+            "3": 3,
+            "4": 4,
+            "5": 2
+          },
+          "decode_status": "textbook_verified"
+        },
+        {
+          "key": "gs1_geo_class8_resources_development_ch03_mineral_and_power_resources",
+          "mcq_count": 10,
+          "kill_phrase_count": 0,
+          "missing_source_trace": 0,
+          "missing_mandatory_fields": 0,
+          "banned_pattern_count": 0,
+          "difficulty_counts": {
+            "1": 1,
+            "3": 3,
+            "4": 4,
+            "5": 2
+          },
+          "decode_status": "textbook_verified"
+        },
+        {
+          "key": "gs1_geo_class8_resources_development_ch04_agriculture",
+          "mcq_count": 10,
+          "kill_phrase_count": 0,
+          "missing_source_trace": 0,
+          "missing_mandatory_fields": 0,
+          "banned_pattern_count": 0,
+          "difficulty_counts": {
+            "1": 1,
+            "3": 3,
+            "4": 4,
+            "5": 2
+          },
+          "decode_status": "textbook_verified"
+        },
+        {
+          "key": "gs1_geo_class8_resources_development_ch05_industries",
+          "mcq_count": 10,
+          "kill_phrase_count": 0,
+          "missing_source_trace": 0,
+          "missing_mandatory_fields": 0,
+          "banned_pattern_count": 0,
+          "difficulty_counts": {
+            "1": 1,
+            "3": 3,
+            "4": 4,
+            "5": 2
+          },
+          "decode_status": "textbook_verified"
+        },
+        {
+          "key": "gs1_geo_class8_resources_development_ch06_human_resources",
+          "mcq_count": 10,
+          "kill_phrase_count": 0,
+          "missing_source_trace": 0,
+          "missing_mandatory_fields": 0,
+          "banned_pattern_count": 0,
+          "difficulty_counts": {
+            "1": 1,
+            "3": 3,
+            "4": 4,
+            "5": 2
+          },
+          "decode_status": "textbook_verified"
+        },
+        {
+          "key": "gs1_hist_class10_contemporary_world_ii_ch01_rise_of_nationalism_in_europe",
+          "mcq_count": 10,
+          "kill_phrase_count": 0,
+          "missing_source_trace": 0,
+          "missing_mandatory_fields": 0,
+          "banned_pattern_count": 0,
+          "difficulty_counts": {
+            "1": 1,
+            "3": 3,
+            "4": 4,
+            "5": 2
+          },
+          "decode_status": "textbook_verified"
+        },
+        {
+          "key": "gs1_hist_class10_contemporary_world_ii_ch02_nationalism_in_india",
+          "mcq_count": 10,
+          "kill_phrase_count": 0,
+          "missing_source_trace": 0,
+          "missing_mandatory_fields": 0,
+          "banned_pattern_count": 0,
+          "difficulty_counts": {
+            "1": 1,
+            "3": 3,
+            "4": 4,
+            "5": 2
+          },
+          "decode_status": "textbook_verified"
+        },
+        {
+          "key": "gs1_hist_class10_contemporary_world_ii_ch03_the_making_of_a_global_world",
+          "mcq_count": 10,
+          "kill_phrase_count": 0,
+          "missing_source_trace": 0,
+          "missing_mandatory_fields": 0,
+          "banned_pattern_count": 0,
+          "difficulty_counts": {
+            "1": 1,
+            "3": 3,
+            "4": 4,
+            "5": 2
+          },
+          "decode_status": "textbook_verified"
+        },
+        {
+          "key": "gs1_hist_class10_contemporary_world_ii_ch04_the_age_of_industrialisation",
+          "mcq_count": 10,
+          "kill_phrase_count": 0,
+          "missing_source_trace": 0,
+          "missing_mandatory_fields": 0,
+          "banned_pattern_count": 0,
+          "difficulty_counts": {
+            "1": 1,
+            "3": 3,
+            "4": 4,
+            "5": 2
+          },
+          "decode_status": "textbook_verified"
+        },
+        {
+          "key": "gs1_hist_class10_contemporary_world_ii_ch05_print_culture_and_the_modern_world",
+          "mcq_count": 10,
+          "kill_phrase_count": 0,
+          "missing_source_trace": 0,
+          "missing_mandatory_fields": 0,
+          "banned_pattern_count": 0,
+          "difficulty_counts": {
+            "1": 1,
+            "3": 3,
+            "4": 4,
+            "5": 2
+          },
+          "decode_status": "textbook_verified"
+        },
+        {
+          "key": "gs1_hist_class11_themes_world_history_ch01_writing_and_city_life",
+          "mcq_count": 10,
+          "kill_phrase_count": 0,
+          "missing_source_trace": 0,
+          "missing_mandatory_fields": 0,
+          "banned_pattern_count": 0,
+          "difficulty_counts": {
+            "1": 1,
+            "3": 3,
+            "4": 4,
+            "5": 2
+          },
+          "decode_status": "textbook_verified"
+        },
+        {
+          "key": "gs1_hist_class11_themes_world_history_ch02_an_empire_across_three_continents",
+          "mcq_count": 10,
+          "kill_phrase_count": 0,
+          "missing_source_trace": 0,
+          "missing_mandatory_fields": 0,
+          "banned_pattern_count": 0,
+          "difficulty_counts": {
+            "1": 1,
+            "3": 3,
+            "4": 4,
+            "5": 2
+          },
+          "decode_status": "textbook_verified"
+        },
+        {
+          "key": "gs1_hist_class11_themes_world_history_ch03_nomadic_empires",
+          "mcq_count": 10,
+          "kill_phrase_count": 0,
+          "missing_source_trace": 0,
+          "missing_mandatory_fields": 0,
+          "banned_pattern_count": 0,
+          "difficulty_counts": {
+            "1": 1,
+            "3": 3,
+            "4": 4,
+            "5": 2
+          },
+          "decode_status": "textbook_verified"
+        },
+        {
+          "key": "gs1_hist_class11_themes_world_history_ch04_the_three_orders",
+          "mcq_count": 10,
+          "kill_phrase_count": 0,
+          "missing_source_trace": 0,
+          "missing_mandatory_fields": 0,
+          "banned_pattern_count": 0,
+          "difficulty_counts": {
+            "1": 1,
+            "3": 3,
+            "4": 4,
+            "5": 2
+          },
+          "decode_status": "textbook_verified"
+        },
+        {
+          "key": "gs1_hist_class11_themes_world_history_ch05_changing_cultural_traditions",
+          "mcq_count": 10,
+          "kill_phrase_count": 0,
+          "missing_source_trace": 0,
+          "missing_mandatory_fields": 0,
+          "banned_pattern_count": 0,
+          "difficulty_counts": {
+            "1": 1,
+            "3": 3,
+            "4": 4,
+            "5": 2
+          },
+          "decode_status": "textbook_verified"
+        },
+        {
+          "key": "gs1_hist_class11_themes_world_history_ch06_displacing_indigenous_peoples",
+          "mcq_count": 10,
+          "kill_phrase_count": 0,
+          "missing_source_trace": 0,
+          "missing_mandatory_fields": 0,
+          "banned_pattern_count": 0,
+          "difficulty_counts": {
+            "1": 1,
+            "3": 3,
+            "4": 4,
+            "5": 2
+          },
+          "decode_status": "textbook_verified"
+        },
+        {
+          "key": "gs1_hist_class11_themes_world_history_ch07_paths_to_modernisation",
+          "mcq_count": 10,
+          "kill_phrase_count": 0,
+          "missing_source_trace": 0,
+          "missing_mandatory_fields": 0,
+          "banned_pattern_count": 0,
+          "difficulty_counts": {
+            "1": 1,
+            "3": 3,
+            "4": 4,
+            "5": 2
+          },
+          "decode_status": "textbook_verified"
+        },
+        {
+          "key": "gs1_hist_class12_indian_history_i_ch01_bricks_beads_and_bones",
+          "mcq_count": 10,
+          "kill_phrase_count": 0,
+          "missing_source_trace": 0,
+          "missing_mandatory_fields": 0,
+          "banned_pattern_count": 0,
+          "difficulty_counts": {
+            "1": 1,
+            "3": 3,
+            "4": 4,
+            "5": 2
+          },
+          "decode_status": "textbook_verified"
+        },
+        {
+          "key": "gs1_hist_class12_indian_history_i_ch02_kings_farmers_and_towns",
+          "mcq_count": 10,
+          "kill_phrase_count": 0,
+          "missing_source_trace": 0,
+          "missing_mandatory_fields": 0,
+          "banned_pattern_count": 0,
+          "difficulty_counts": {
+            "1": 1,
+            "3": 3,
+            "4": 4,
+            "5": 2
+          },
+          "decode_status": "textbook_verified"
+        },
+        {
+          "key": "gs1_hist_class12_indian_history_i_ch03_kinship_caste_and_class",
+          "mcq_count": 10,
+          "kill_phrase_count": 0,
+          "missing_source_trace": 0,
+          "missing_mandatory_fields": 0,
+          "banned_pattern_count": 0,
+          "difficulty_counts": {
+            "1": 1,
+            "3": 3,
+            "4": 4,
+            "5": 2
+          },
+          "decode_status": "textbook_verified"
+        },
+        {
+          "key": "gs1_hist_class12_indian_history_i_ch04_thinkers_beliefs_and_buildings",
+          "mcq_count": 10,
+          "kill_phrase_count": 0,
+          "missing_source_trace": 0,
+          "missing_mandatory_fields": 0,
+          "banned_pattern_count": 0,
+          "difficulty_counts": {
+            "1": 1,
+            "3": 3,
+            "4": 4,
+            "5": 2
+          },
+          "decode_status": "textbook_verified"
+        },
+        {
+          "key": "gs1_hist_class12_indian_history_ii_ch01_through_the_eyes_of_travellers",
+          "mcq_count": 10,
+          "kill_phrase_count": 0,
+          "missing_source_trace": 0,
+          "missing_mandatory_fields": 0,
+          "banned_pattern_count": 0,
+          "difficulty_counts": {
+            "1": 1,
+            "3": 3,
+            "4": 4,
+            "5": 2
+          },
+          "decode_status": "textbook_verified"
+        },
+        {
+          "key": "gs1_hist_class12_indian_history_ii_ch02_bhakti_sufi_traditions",
+          "mcq_count": 10,
+          "kill_phrase_count": 0,
+          "missing_source_trace": 0,
+          "missing_mandatory_fields": 0,
+          "banned_pattern_count": 0,
+          "difficulty_counts": {
+            "1": 1,
+            "3": 3,
+            "4": 4,
+            "5": 2
+          },
+          "decode_status": "textbook_verified"
+        },
+        {
+          "key": "gs1_hist_class12_indian_history_ii_ch03_an_imperial_capital_vijayanagara",
+          "mcq_count": 10,
+          "kill_phrase_count": 0,
+          "missing_source_trace": 0,
+          "missing_mandatory_fields": 0,
+          "banned_pattern_count": 0,
+          "difficulty_counts": {
+            "1": 1,
+            "3": 3,
+            "4": 4,
+            "5": 2
+          },
+          "decode_status": "textbook_verified"
+        },
+        {
+          "key": "gs1_hist_class12_indian_history_ii_ch04_peasants_zamindars_and_the_state",
+          "mcq_count": 10,
+          "kill_phrase_count": 0,
+          "missing_source_trace": 0,
+          "missing_mandatory_fields": 0,
+          "banned_pattern_count": 0,
+          "difficulty_counts": {
+            "1": 1,
+            "3": 3,
+            "4": 4,
+            "5": 2
+          },
+          "decode_status": "textbook_verified"
+        },
+        {
+          "key": "gs1_hist_class12_indian_history_iii_ch01_colonialism_and_the_countryside",
+          "mcq_count": 10,
+          "kill_phrase_count": 0,
+          "missing_source_trace": 0,
+          "missing_mandatory_fields": 0,
+          "banned_pattern_count": 0,
+          "difficulty_counts": {
+            "1": 1,
+            "3": 3,
+            "4": 4,
+            "5": 2
+          },
+          "decode_status": "textbook_verified"
+        },
+        {
+          "key": "gs1_hist_class12_indian_history_iii_ch02_rebels_and_the_raj_1857",
+          "mcq_count": 10,
+          "kill_phrase_count": 0,
+          "missing_source_trace": 0,
+          "missing_mandatory_fields": 0,
+          "banned_pattern_count": 0,
+          "difficulty_counts": {
+            "1": 1,
+            "3": 3,
+            "4": 4,
+            "5": 2
+          },
+          "decode_status": "textbook_verified"
+        },
+        {
+          "key": "gs1_hist_class12_indian_history_iii_ch03_mahatma_gandhi_and_the_nationalist_movement",
+          "mcq_count": 10,
+          "kill_phrase_count": 0,
+          "missing_source_trace": 0,
+          "missing_mandatory_fields": 0,
+          "banned_pattern_count": 0,
+          "difficulty_counts": {
+            "1": 1,
+            "3": 3,
+            "4": 4,
+            "5": 2
+          },
+          "decode_status": "textbook_verified"
+        },
+        {
+          "key": "gs1_hist_class12_indian_history_iii_ch04_framing_the_constitution",
+          "mcq_count": 10,
+          "kill_phrase_count": 0,
+          "missing_source_trace": 0,
+          "missing_mandatory_fields": 0,
+          "banned_pattern_count": 0,
+          "difficulty_counts": {
+            "1": 1,
+            "3": 3,
+            "4": 4,
+            "5": 2
+          },
+          "decode_status": "textbook_verified"
+        },
+        {
+          "key": "gs1_hist_class7_our_pasts_ii_ch01_tracing_changes_through_a_thousand_years",
+          "mcq_count": 10,
+          "kill_phrase_count": 0,
+          "missing_source_trace": 0,
+          "missing_mandatory_fields": 0,
+          "banned_pattern_count": 0,
+          "difficulty_counts": {
+            "1": 1,
+            "3": 3,
+            "4": 4,
+            "5": 2
+          },
+          "decode_status": "textbook_verified"
+        },
+        {
+          "key": "gs1_hist_class7_our_pasts_ii_ch02_new_kings_and_kingdoms",
+          "mcq_count": 10,
+          "kill_phrase_count": 0,
+          "missing_source_trace": 0,
+          "missing_mandatory_fields": 0,
+          "banned_pattern_count": 0,
+          "difficulty_counts": {
+            "1": 1,
+            "3": 3,
+            "4": 4,
+            "5": 2
+          },
+          "decode_status": "textbook_verified"
+        },
+        {
+          "key": "gs1_hist_class7_our_pasts_ii_ch03_the_delhi_sultans",
+          "mcq_count": 10,
+          "kill_phrase_count": 0,
+          "missing_source_trace": 0,
+          "missing_mandatory_fields": 0,
+          "banned_pattern_count": 0,
+          "difficulty_counts": {
+            "1": 1,
+            "3": 3,
+            "4": 4,
+            "5": 2
+          },
+          "decode_status": "textbook_verified"
+        },
+        {
+          "key": "gs1_hist_class7_our_pasts_ii_ch04_the_mughal_empire",
+          "mcq_count": 10,
+          "kill_phrase_count": 0,
+          "missing_source_trace": 0,
+          "missing_mandatory_fields": 0,
+          "banned_pattern_count": 0,
+          "difficulty_counts": {
+            "1": 1,
+            "3": 3,
+            "4": 4,
+            "5": 2
+          },
+          "decode_status": "textbook_verified"
+        },
+        {
+          "key": "gs1_hist_class7_our_pasts_ii_ch05_rulers_and_buildings",
+          "mcq_count": 10,
+          "kill_phrase_count": 0,
+          "missing_source_trace": 0,
+          "missing_mandatory_fields": 0,
+          "banned_pattern_count": 0,
+          "difficulty_counts": {
+            "1": 1,
+            "3": 3,
+            "4": 4,
+            "5": 2
+          },
+          "decode_status": "textbook_verified"
+        },
+        {
+          "key": "gs1_hist_class7_our_pasts_ii_ch06_towns_traders_and_craftspersons",
+          "mcq_count": 10,
+          "kill_phrase_count": 0,
+          "missing_source_trace": 0,
+          "missing_mandatory_fields": 0,
+          "banned_pattern_count": 0,
+          "difficulty_counts": {
+            "1": 1,
+            "3": 3,
+            "4": 4,
+            "5": 2
+          },
+          "decode_status": "textbook_verified"
+        },
+        {
+          "key": "gs1_hist_class7_our_pasts_ii_ch07_tribes_nomads_and_settled_communities",
+          "mcq_count": 10,
+          "kill_phrase_count": 0,
+          "missing_source_trace": 0,
+          "missing_mandatory_fields": 0,
+          "banned_pattern_count": 0,
+          "difficulty_counts": {
+            "1": 1,
+            "3": 3,
+            "4": 4,
+            "5": 2
+          },
+          "decode_status": "textbook_verified"
+        },
+        {
+          "key": "gs1_hist_class7_our_pasts_ii_ch08_devotional_paths_to_the_divine",
+          "mcq_count": 10,
+          "kill_phrase_count": 0,
+          "missing_source_trace": 0,
+          "missing_mandatory_fields": 0,
+          "banned_pattern_count": 0,
+          "difficulty_counts": {
+            "1": 1,
+            "3": 3,
+            "4": 4,
+            "5": 2
+          },
+          "decode_status": "textbook_verified"
+        },
+        {
+          "key": "gs1_hist_class8_our_pasts_iii_ch01_how_when_and_where",
+          "mcq_count": 10,
+          "kill_phrase_count": 0,
+          "missing_source_trace": 0,
+          "missing_mandatory_fields": 0,
+          "banned_pattern_count": 0,
+          "difficulty_counts": {
+            "1": 1,
+            "3": 3,
+            "4": 4,
+            "5": 2
+          },
+          "decode_status": "textbook_verified"
+        },
+        {
+          "key": "gs1_hist_class8_our_pasts_iii_ch02_from_trade_to_territory",
+          "mcq_count": 10,
+          "kill_phrase_count": 0,
+          "missing_source_trace": 0,
+          "missing_mandatory_fields": 0,
+          "banned_pattern_count": 0,
+          "difficulty_counts": {
+            "1": 1,
+            "3": 3,
+            "4": 4,
+            "5": 2
+          },
+          "decode_status": "textbook_verified"
+        },
+        {
+          "key": "gs1_hist_class8_our_pasts_iii_ch03_ruling_the_countryside",
+          "mcq_count": 10,
+          "kill_phrase_count": 0,
+          "missing_source_trace": 0,
+          "missing_mandatory_fields": 0,
+          "banned_pattern_count": 0,
+          "difficulty_counts": {
+            "1": 1,
+            "3": 3,
+            "4": 4,
+            "5": 2
+          },
+          "decode_status": "textbook_verified"
+        },
+        {
+          "key": "gs1_hist_class8_our_pasts_iii_ch04_tribals_dikus_and_the_vision_of_a_golden_age",
+          "mcq_count": 10,
+          "kill_phrase_count": 0,
+          "missing_source_trace": 0,
+          "missing_mandatory_fields": 0,
+          "banned_pattern_count": 0,
+          "difficulty_counts": {
+            "1": 1,
+            "3": 3,
+            "4": 4,
+            "5": 2
+          },
+          "decode_status": "textbook_verified"
+        },
+        {
+          "key": "gs1_hist_class8_our_pasts_iii_ch05_when_people_rebel_1857",
+          "mcq_count": 10,
+          "kill_phrase_count": 0,
+          "missing_source_trace": 0,
+          "missing_mandatory_fields": 0,
+          "banned_pattern_count": 0,
+          "difficulty_counts": {
+            "1": 1,
+            "3": 3,
+            "4": 4,
+            "5": 2
+          },
+          "decode_status": "textbook_verified"
+        },
+        {
+          "key": "gs1_hist_class8_our_pasts_iii_ch06_weavers_iron_smelters_and_factory_owners",
+          "mcq_count": 10,
+          "kill_phrase_count": 0,
+          "missing_source_trace": 0,
+          "missing_mandatory_fields": 0,
+          "banned_pattern_count": 0,
+          "difficulty_counts": {
+            "1": 1,
+            "3": 3,
+            "4": 4,
+            "5": 2
+          },
+          "decode_status": "textbook_verified"
+        },
+        {
+          "key": "gs1_hist_class8_our_pasts_iii_ch07_civilising_the_native_educating_the_nation",
+          "mcq_count": 10,
+          "kill_phrase_count": 0,
+          "missing_source_trace": 0,
+          "missing_mandatory_fields": 0,
+          "banned_pattern_count": 0,
+          "difficulty_counts": {
+            "1": 1,
+            "3": 3,
+            "4": 4,
+            "5": 2
+          },
+          "decode_status": "textbook_verified"
+        },
+        {
+          "key": "gs1_hist_class8_our_pasts_iii_ch08_women_caste_and_reform",
+          "mcq_count": 10,
+          "kill_phrase_count": 0,
+          "missing_source_trace": 0,
+          "missing_mandatory_fields": 0,
+          "banned_pattern_count": 0,
+          "difficulty_counts": {
+            "1": 1,
+            "3": 3,
+            "4": 4,
+            "5": 2
+          },
+          "decode_status": "textbook_verified"
+        },
+        {
+          "key": "gs1_post_independence_class12_politics_india_ch01_challenges_of_nation_building",
+          "mcq_count": 10,
+          "kill_phrase_count": 0,
+          "missing_source_trace": 0,
+          "missing_mandatory_fields": 0,
+          "banned_pattern_count": 0,
+          "difficulty_counts": {
+            "1": 1,
+            "3": 3,
+            "4": 4,
+            "5": 2
+          },
+          "decode_status": "textbook_verified"
+        },
+        {
+          "key": "gs1_post_independence_class12_politics_india_ch02_era_of_one_party_dominance",
+          "mcq_count": 10,
+          "kill_phrase_count": 0,
+          "missing_source_trace": 0,
+          "missing_mandatory_fields": 0,
+          "banned_pattern_count": 0,
+          "difficulty_counts": {
+            "1": 1,
+            "3": 3,
+            "4": 4,
+            "5": 2
+          },
+          "decode_status": "textbook_verified"
+        },
+        {
+          "key": "gs1_post_independence_class12_politics_india_ch03_politics_of_planned_development",
+          "mcq_count": 10,
+          "kill_phrase_count": 0,
+          "missing_source_trace": 0,
+          "missing_mandatory_fields": 0,
+          "banned_pattern_count": 0,
+          "difficulty_counts": {
+            "1": 1,
+            "3": 3,
+            "4": 4,
+            "5": 2
+          },
+          "decode_status": "textbook_verified"
+        },
+        {
+          "key": "gs1_post_independence_class12_politics_india_ch04_india_s_external_relations",
+          "mcq_count": 10,
+          "kill_phrase_count": 0,
+          "missing_source_trace": 0,
+          "missing_mandatory_fields": 0,
+          "banned_pattern_count": 0,
+          "difficulty_counts": {
+            "1": 1,
+            "3": 3,
+            "4": 4,
+            "5": 2
+          },
+          "decode_status": "textbook_verified"
+        },
+        {
+          "key": "gs1_post_independence_class12_politics_india_ch05_challenges_to_and_restoration_of_congress_system",
+          "mcq_count": 10,
+          "kill_phrase_count": 0,
+          "missing_source_trace": 0,
+          "missing_mandatory_fields": 0,
+          "banned_pattern_count": 0,
+          "difficulty_counts": {
+            "1": 1,
+            "3": 3,
+            "4": 4,
+            "5": 2
+          },
+          "decode_status": "textbook_verified"
+        },
+        {
+          "key": "gs1_post_independence_class12_politics_india_ch06_rise_of_popular_movements",
+          "mcq_count": 10,
+          "kill_phrase_count": 0,
+          "missing_source_trace": 0,
+          "missing_mandatory_fields": 0,
+          "banned_pattern_count": 0,
+          "difficulty_counts": {
+            "1": 1,
+            "3": 3,
+            "4": 4,
+            "5": 2
+          },
+          "decode_status": "textbook_verified"
+        },
+        {
+          "key": "gs1_post_independence_class12_politics_india_ch07_regional_aspirations",
+          "mcq_count": 10,
+          "kill_phrase_count": 0,
+          "missing_source_trace": 0,
+          "missing_mandatory_fields": 0,
+          "banned_pattern_count": 0,
+          "difficulty_counts": {
+            "1": 1,
+            "3": 3,
+            "4": 4,
+            "5": 2
+          },
+          "decode_status": "textbook_verified"
+        },
+        {
+          "key": "gs1_post_independence_class12_politics_india_ch08_recent_developments_in_indian_politics",
+          "mcq_count": 10,
+          "kill_phrase_count": 0,
+          "missing_source_trace": 0,
+          "missing_mandatory_fields": 0,
+          "banned_pattern_count": 0,
+          "difficulty_counts": {
+            "1": 1,
+            "3": 3,
+            "4": 4,
+            "5": 2
+          },
+          "decode_status": "textbook_verified"
+        },
+        {
+          "key": "gs1_society_class11_introducing_sociology_ch01_sociology_and_society",
+          "mcq_count": 10,
+          "kill_phrase_count": 0,
+          "missing_source_trace": 0,
+          "missing_mandatory_fields": 0,
+          "banned_pattern_count": 0,
+          "difficulty_counts": {
+            "1": 1,
+            "3": 3,
+            "4": 4,
+            "5": 2
+          },
+          "decode_status": "textbook_verified"
+        },
+        {
+          "key": "gs1_society_class11_introducing_sociology_ch02_terms_concepts_and_their_use_in_sociology",
+          "mcq_count": 10,
+          "kill_phrase_count": 0,
+          "missing_source_trace": 0,
+          "missing_mandatory_fields": 0,
+          "banned_pattern_count": 0,
+          "difficulty_counts": {
+            "1": 1,
+            "3": 3,
+            "4": 4,
+            "5": 2
+          },
+          "decode_status": "textbook_verified"
+        },
+        {
+          "key": "gs1_society_class11_introducing_sociology_ch03_understanding_social_institutions",
+          "mcq_count": 10,
+          "kill_phrase_count": 0,
+          "missing_source_trace": 0,
+          "missing_mandatory_fields": 0,
+          "banned_pattern_count": 0,
+          "difficulty_counts": {
+            "1": 1,
+            "3": 3,
+            "4": 4,
+            "5": 2
+          },
+          "decode_status": "textbook_verified"
+        },
+        {
+          "key": "gs1_society_class11_introducing_sociology_ch04_culture_and_socialisation",
+          "mcq_count": 10,
+          "kill_phrase_count": 0,
+          "missing_source_trace": 0,
+          "missing_mandatory_fields": 0,
+          "banned_pattern_count": 0,
+          "difficulty_counts": {
+            "1": 1,
+            "3": 3,
+            "4": 4,
+            "5": 2
+          },
+          "decode_status": "textbook_verified"
+        },
+        {
+          "key": "gs1_society_class11_introducing_sociology_ch05_doing_sociology_research_methods",
+          "mcq_count": 10,
+          "kill_phrase_count": 0,
+          "missing_source_trace": 0,
+          "missing_mandatory_fields": 0,
+          "banned_pattern_count": 0,
+          "difficulty_counts": {
+            "1": 1,
+            "3": 3,
+            "4": 4,
+            "5": 2
+          },
+          "decode_status": "textbook_verified"
+        },
+        {
+          "key": "gs1_society_class11_understanding_society_ch01_social_structure_stratification_and_social_processes",
+          "mcq_count": 10,
+          "kill_phrase_count": 0,
+          "missing_source_trace": 0,
+          "missing_mandatory_fields": 0,
+          "banned_pattern_count": 0,
+          "difficulty_counts": {
+            "1": 1,
+            "3": 3,
+            "4": 4,
+            "5": 2
+          },
+          "decode_status": "textbook_verified"
+        },
+        {
+          "key": "gs1_society_class11_understanding_society_ch02_social_change_and_social_order_in_rural_and_urban_society",
+          "mcq_count": 10,
+          "kill_phrase_count": 0,
+          "missing_source_trace": 0,
+          "missing_mandatory_fields": 0,
+          "banned_pattern_count": 0,
+          "difficulty_counts": {
+            "1": 1,
+            "3": 3,
+            "4": 4,
+            "5": 2
+          },
+          "decode_status": "textbook_verified"
+        },
+        {
+          "key": "gs1_society_class11_understanding_society_ch03_environment_and_society",
+          "mcq_count": 10,
+          "kill_phrase_count": 0,
+          "missing_source_trace": 0,
+          "missing_mandatory_fields": 0,
+          "banned_pattern_count": 0,
+          "difficulty_counts": {
+            "1": 1,
+            "3": 3,
+            "4": 4,
+            "5": 2
+          },
+          "decode_status": "textbook_verified"
+        },
+        {
+          "key": "gs1_society_class11_understanding_society_ch04_introducing_western_sociologists",
+          "mcq_count": 10,
+          "kill_phrase_count": 0,
+          "missing_source_trace": 0,
+          "missing_mandatory_fields": 0,
+          "banned_pattern_count": 0,
+          "difficulty_counts": {
+            "1": 1,
+            "3": 3,
+            "4": 4,
+            "5": 2
+          },
+          "decode_status": "textbook_verified"
+        },
+        {
+          "key": "gs1_society_class11_understanding_society_ch05_indian_sociologists",
+          "mcq_count": 10,
+          "kill_phrase_count": 0,
+          "missing_source_trace": 0,
+          "missing_mandatory_fields": 0,
+          "banned_pattern_count": 0,
+          "difficulty_counts": {
+            "1": 1,
+            "3": 3,
+            "4": 4,
+            "5": 2
+          },
+          "decode_status": "textbook_verified"
+        },
+        {
+          "key": "gs1_society_class12_indian_society_ch01_introducing_indian_society",
+          "mcq_count": 10,
+          "kill_phrase_count": 0,
+          "missing_source_trace": 0,
+          "missing_mandatory_fields": 0,
+          "banned_pattern_count": 0,
+          "difficulty_counts": {
+            "1": 1,
+            "3": 3,
+            "4": 4,
+            "5": 2
+          },
+          "decode_status": "textbook_verified"
+        },
+        {
+          "key": "gs1_society_class12_indian_society_ch02_the_demographic_structure",
+          "mcq_count": 10,
+          "kill_phrase_count": 0,
+          "missing_source_trace": 0,
+          "missing_mandatory_fields": 0,
+          "banned_pattern_count": 0,
+          "difficulty_counts": {
+            "1": 1,
+            "3": 3,
+            "4": 4,
+            "5": 2
+          },
+          "decode_status": "textbook_verified"
+        },
+        {
+          "key": "gs1_society_class12_indian_society_ch03_social_institutions_continuity_and_change",
+          "mcq_count": 10,
+          "kill_phrase_count": 0,
+          "missing_source_trace": 0,
+          "missing_mandatory_fields": 0,
+          "banned_pattern_count": 0,
+          "difficulty_counts": {
+            "1": 1,
+            "3": 3,
+            "4": 4,
+            "5": 2
+          },
+          "decode_status": "textbook_verified"
+        },
+        {
+          "key": "gs1_society_class12_indian_society_ch04_the_market_as_a_social_institution",
+          "mcq_count": 10,
+          "kill_phrase_count": 0,
+          "missing_source_trace": 0,
+          "missing_mandatory_fields": 0,
+          "banned_pattern_count": 0,
+          "difficulty_counts": {
+            "1": 1,
+            "3": 3,
+            "4": 4,
+            "5": 2
+          },
+          "decode_status": "textbook_verified"
+        },
+        {
+          "key": "gs1_society_class12_indian_society_ch05_patterns_of_social_inequality_and_exclusion",
+          "mcq_count": 10,
+          "kill_phrase_count": 0,
+          "missing_source_trace": 0,
+          "missing_mandatory_fields": 0,
+          "banned_pattern_count": 0,
+          "difficulty_counts": {
+            "1": 1,
+            "3": 3,
+            "4": 4,
+            "5": 2
+          },
+          "decode_status": "textbook_verified"
+        },
+        {
+          "key": "gs1_society_class12_indian_society_ch06_the_challenges_of_cultural_diversity",
+          "mcq_count": 10,
+          "kill_phrase_count": 0,
+          "missing_source_trace": 0,
+          "missing_mandatory_fields": 0,
+          "banned_pattern_count": 0,
+          "difficulty_counts": {
+            "1": 1,
+            "3": 3,
+            "4": 4,
+            "5": 2
+          },
+          "decode_status": "textbook_verified"
+        },
+        {
+          "key": "gs1_society_class12_indian_society_ch07_suggestions_for_project_work",
+          "mcq_count": 10,
+          "kill_phrase_count": 0,
+          "missing_source_trace": 0,
+          "missing_mandatory_fields": 0,
+          "banned_pattern_count": 0,
+          "difficulty_counts": {
+            "1": 1,
+            "3": 3,
+            "4": 4,
+            "5": 2
+          },
+          "decode_status": "textbook_verified"
+        },
+        {
+          "key": "gs1_society_class12_social_change_ch01_structural_change",
+          "mcq_count": 10,
+          "kill_phrase_count": 0,
+          "missing_source_trace": 0,
+          "missing_mandatory_fields": 0,
+          "banned_pattern_count": 0,
+          "difficulty_counts": {
+            "1": 1,
+            "3": 3,
+            "4": 4,
+            "5": 2
+          },
+          "decode_status": "textbook_verified"
+        },
+        {
+          "key": "gs1_society_class12_social_change_ch02_cultural_change",
+          "mcq_count": 10,
+          "kill_phrase_count": 0,
+          "missing_source_trace": 0,
+          "missing_mandatory_fields": 0,
+          "banned_pattern_count": 0,
+          "difficulty_counts": {
+            "1": 1,
+            "3": 3,
+            "4": 4,
+            "5": 2
+          },
+          "decode_status": "textbook_verified"
+        },
+        {
+          "key": "gs1_society_class12_social_change_ch03_the_story_of_indian_democracy",
+          "mcq_count": 10,
+          "kill_phrase_count": 0,
+          "missing_source_trace": 0,
+          "missing_mandatory_fields": 0,
+          "banned_pattern_count": 0,
+          "difficulty_counts": {
+            "1": 1,
+            "3": 3,
+            "4": 4,
+            "5": 2
+          },
+          "decode_status": "textbook_verified"
+        },
+        {
+          "key": "gs1_society_class12_social_change_ch04_change_and_development_in_rural_society",
+          "mcq_count": 10,
+          "kill_phrase_count": 0,
+          "missing_source_trace": 0,
+          "missing_mandatory_fields": 0,
+          "banned_pattern_count": 0,
+          "difficulty_counts": {
+            "1": 1,
+            "3": 3,
+            "4": 4,
+            "5": 2
+          },
+          "decode_status": "textbook_verified"
+        },
+        {
+          "key": "gs1_society_class12_social_change_ch05_change_and_development_in_industrial_society",
+          "mcq_count": 10,
+          "kill_phrase_count": 0,
+          "missing_source_trace": 0,
+          "missing_mandatory_fields": 0,
+          "banned_pattern_count": 0,
+          "difficulty_counts": {
+            "1": 1,
+            "3": 3,
+            "4": 4,
+            "5": 2
+          },
+          "decode_status": "textbook_verified"
+        },
+        {
+          "key": "gs1_society_class12_social_change_ch06_globalisation_and_social_change",
+          "mcq_count": 10,
+          "kill_phrase_count": 0,
+          "missing_source_trace": 0,
+          "missing_mandatory_fields": 0,
+          "banned_pattern_count": 0,
+          "difficulty_counts": {
+            "1": 1,
+            "3": 3,
+            "4": 4,
+            "5": 2
+          },
+          "decode_status": "textbook_verified"
+        },
+        {
+          "key": "gs1_society_class12_social_change_ch07_mass_media_and_communications",
+          "mcq_count": 10,
+          "kill_phrase_count": 0,
+          "missing_source_trace": 0,
+          "missing_mandatory_fields": 0,
+          "banned_pattern_count": 0,
+          "difficulty_counts": {
+            "1": 1,
+            "3": 3,
+            "4": 4,
+            "5": 2
+          },
+          "decode_status": "textbook_verified"
+        },
+        {
+          "key": "gs1_society_class12_social_change_ch08_social_movements",
+          "mcq_count": 10,
+          "kill_phrase_count": 0,
+          "missing_source_trace": 0,
+          "missing_mandatory_fields": 0,
+          "banned_pattern_count": 0,
+          "difficulty_counts": {
+            "1": 1,
+            "3": 3,
+            "4": 4,
+            "5": 2
+          },
+          "decode_status": "textbook_verified"
+        },
+        {
+          "key": "gs2_ir_class12_world_politics_ch01_cold_war_era",
+          "mcq_count": 10,
+          "kill_phrase_count": 0,
+          "missing_source_trace": 0,
+          "missing_mandatory_fields": 0,
+          "banned_pattern_count": 0,
+          "difficulty_counts": {
+            "1": 1,
+            "3": 3,
+            "4": 4,
+            "5": 2
+          },
+          "decode_status": "textbook_verified"
+        },
+        {
+          "key": "gs2_ir_class12_world_politics_ch02_disintegration_of_ussr",
+          "mcq_count": 10,
+          "kill_phrase_count": 0,
+          "missing_source_trace": 0,
+          "missing_mandatory_fields": 0,
+          "banned_pattern_count": 0,
+          "difficulty_counts": {
+            "1": 1,
+            "3": 3,
+            "4": 4,
+            "5": 2
+          },
+          "decode_status": "textbook_verified"
+        },
+        {
+          "key": "gs2_ir_class12_world_politics_ch03_us_hegemony",
+          "mcq_count": 10,
+          "kill_phrase_count": 0,
+          "missing_source_trace": 0,
+          "missing_mandatory_fields": 0,
+          "banned_pattern_count": 0,
+          "difficulty_counts": {
+            "1": 1,
+            "3": 3,
+            "4": 4,
+            "5": 2
+          },
+          "decode_status": "textbook_verified"
+        },
+        {
+          "key": "gs2_ir_class12_world_politics_ch04_alternative_centres_of_power",
+          "mcq_count": 10,
+          "kill_phrase_count": 0,
+          "missing_source_trace": 0,
+          "missing_mandatory_fields": 0,
+          "banned_pattern_count": 0,
+          "difficulty_counts": {
+            "1": 1,
+            "3": 3,
+            "4": 4,
+            "5": 2
+          },
+          "decode_status": "textbook_verified"
+        },
+        {
+          "key": "gs2_ir_class12_world_politics_ch05_south_asia",
+          "mcq_count": 10,
+          "kill_phrase_count": 0,
+          "missing_source_trace": 0,
+          "missing_mandatory_fields": 0,
+          "banned_pattern_count": 0,
+          "difficulty_counts": {
+            "1": 1,
+            "3": 3,
+            "4": 4,
+            "5": 2
+          },
+          "decode_status": "textbook_verified"
+        },
+        {
+          "key": "gs2_ir_class12_world_politics_ch06_international_organisations",
+          "mcq_count": 10,
+          "kill_phrase_count": 0,
+          "missing_source_trace": 0,
+          "missing_mandatory_fields": 0,
+          "banned_pattern_count": 0,
+          "difficulty_counts": {
+            "1": 1,
+            "3": 3,
+            "4": 4,
+            "5": 2
+          },
+          "decode_status": "textbook_verified"
+        },
+        {
+          "key": "gs2_ir_class12_world_politics_ch07_security_in_the_contemporary_world",
+          "mcq_count": 10,
+          "kill_phrase_count": 0,
+          "missing_source_trace": 0,
+          "missing_mandatory_fields": 0,
+          "banned_pattern_count": 0,
+          "difficulty_counts": {
+            "1": 1,
+            "3": 3,
+            "4": 4,
+            "5": 2
+          },
+          "decode_status": "textbook_verified"
+        },
+        {
+          "key": "gs2_polity_class10_democratic_politics_ii_ch01_power_sharing",
+          "mcq_count": 10,
+          "kill_phrase_count": 0,
+          "missing_source_trace": 0,
+          "missing_mandatory_fields": 0,
+          "banned_pattern_count": 0,
+          "difficulty_counts": {
+            "1": 1,
+            "3": 3,
+            "4": 4,
+            "5": 2
+          },
+          "decode_status": "textbook_verified"
+        },
+        {
+          "key": "gs2_polity_class10_democratic_politics_ii_ch02_federalism",
+          "mcq_count": 10,
+          "kill_phrase_count": 0,
+          "missing_source_trace": 0,
+          "missing_mandatory_fields": 0,
+          "banned_pattern_count": 0,
+          "difficulty_counts": {
+            "1": 1,
+            "3": 3,
+            "4": 4,
+            "5": 2
+          },
+          "decode_status": "textbook_verified"
+        },
+        {
+          "key": "gs2_polity_class10_democratic_politics_ii_ch03_democracy_and_diversity",
+          "mcq_count": 10,
+          "kill_phrase_count": 0,
+          "missing_source_trace": 0,
+          "missing_mandatory_fields": 0,
+          "banned_pattern_count": 0,
+          "difficulty_counts": {
+            "1": 1,
+            "3": 3,
+            "4": 4,
+            "5": 2
+          },
+          "decode_status": "textbook_verified"
+        },
+        {
+          "key": "gs2_polity_class10_democratic_politics_ii_ch04_gender_religion_and_caste",
+          "mcq_count": 10,
+          "kill_phrase_count": 0,
+          "missing_source_trace": 0,
+          "missing_mandatory_fields": 0,
+          "banned_pattern_count": 0,
+          "difficulty_counts": {
+            "1": 1,
+            "3": 3,
+            "4": 4,
+            "5": 2
+          },
+          "decode_status": "textbook_verified"
+        },
+        {
+          "key": "gs2_polity_class10_democratic_politics_ii_ch05_popular_struggles_and_movements",
+          "mcq_count": 10,
+          "kill_phrase_count": 0,
+          "missing_source_trace": 0,
+          "missing_mandatory_fields": 0,
+          "banned_pattern_count": 0,
+          "difficulty_counts": {
+            "1": 1,
+            "3": 3,
+            "4": 4,
+            "5": 2
+          },
+          "decode_status": "textbook_verified"
+        },
+        {
+          "key": "gs2_polity_class11_constitution_ch01_why_and_how",
+          "mcq_count": 10,
+          "kill_phrase_count": 0,
+          "missing_source_trace": 0,
+          "missing_mandatory_fields": 0,
+          "banned_pattern_count": 0,
+          "difficulty_counts": {
+            "1": 1,
+            "3": 3,
+            "4": 4,
+            "5": 2
+          },
+          "decode_status": "textbook_verified"
+        },
+        {
+          "key": "gs2_polity_class11_constitution_ch02_rights",
+          "mcq_count": 10,
+          "kill_phrase_count": 0,
+          "missing_source_trace": 0,
+          "missing_mandatory_fields": 0,
+          "banned_pattern_count": 0,
+          "difficulty_counts": {
+            "1": 1,
+            "3": 3,
+            "4": 4,
+            "5": 2
+          },
+          "decode_status": "textbook_verified"
+        },
+        {
+          "key": "gs2_polity_class11_constitution_ch03_election_and_representation",
+          "mcq_count": 10,
+          "kill_phrase_count": 0,
+          "missing_source_trace": 0,
+          "missing_mandatory_fields": 0,
+          "banned_pattern_count": 0,
+          "difficulty_counts": {
+            "1": 1,
+            "3": 3,
+            "4": 4,
+            "5": 2
+          },
+          "decode_status": "textbook_verified"
+        },
+        {
+          "key": "gs2_polity_class11_constitution_ch04_executive",
+          "mcq_count": 10,
+          "kill_phrase_count": 0,
+          "missing_source_trace": 0,
+          "missing_mandatory_fields": 0,
+          "banned_pattern_count": 0,
+          "difficulty_counts": {
+            "1": 1,
+            "3": 3,
+            "4": 4,
+            "5": 2
+          },
+          "decode_status": "textbook_verified"
+        },
+        {
+          "key": "gs2_polity_class11_constitution_ch05_legislature",
+          "mcq_count": 10,
+          "kill_phrase_count": 0,
+          "missing_source_trace": 0,
+          "missing_mandatory_fields": 0,
+          "banned_pattern_count": 0,
+          "difficulty_counts": {
+            "1": 1,
+            "3": 3,
+            "4": 4,
+            "5": 2
+          },
+          "decode_status": "textbook_verified"
+        },
+        {
+          "key": "gs2_polity_class11_constitution_ch06_judiciary",
+          "mcq_count": 10,
+          "kill_phrase_count": 0,
+          "missing_source_trace": 0,
+          "missing_mandatory_fields": 0,
+          "banned_pattern_count": 0,
+          "difficulty_counts": {
+            "1": 1,
+            "3": 3,
+            "4": 4,
+            "5": 2
+          },
+          "decode_status": "textbook_verified"
+        },
+        {
+          "key": "gs2_polity_class11_constitution_ch07_federalism",
+          "mcq_count": 10,
+          "kill_phrase_count": 0,
+          "missing_source_trace": 0,
+          "missing_mandatory_fields": 0,
+          "banned_pattern_count": 0,
+          "difficulty_counts": {
+            "1": 1,
+            "3": 3,
+            "4": 4,
+            "5": 2
+          },
+          "decode_status": "textbook_verified"
+        },
+        {
+          "key": "gs2_polity_class11_constitution_ch08_local_governments",
+          "mcq_count": 10,
+          "kill_phrase_count": 0,
+          "missing_source_trace": 0,
+          "missing_mandatory_fields": 0,
+          "banned_pattern_count": 0,
+          "difficulty_counts": {
+            "1": 1,
+            "3": 3,
+            "4": 4,
+            "5": 2
+          },
+          "decode_status": "textbook_verified"
+        },
+        {
+          "key": "gs2_polity_class11_constitution_ch09_constitution_as_a_living_document",
+          "mcq_count": 10,
+          "kill_phrase_count": 0,
+          "missing_source_trace": 0,
+          "missing_mandatory_fields": 0,
+          "banned_pattern_count": 0,
+          "difficulty_counts": {
+            "1": 1,
+            "3": 3,
+            "4": 4,
+            "5": 2
+          },
+          "decode_status": "textbook_verified"
+        },
+        {
+          "key": "gs2_polity_class11_constitution_ch10_the_philosophy_of_the_constitution",
+          "mcq_count": 10,
+          "kill_phrase_count": 0,
+          "missing_source_trace": 0,
+          "missing_mandatory_fields": 0,
+          "banned_pattern_count": 0,
+          "difficulty_counts": {
+            "1": 1,
+            "3": 3,
+            "4": 4,
+            "5": 2
+          },
+          "decode_status": "textbook_verified"
+        },
+        {
+          "key": "gs2_polity_class11_theory_ch01_political_theory_an_introduction",
+          "mcq_count": 10,
+          "kill_phrase_count": 0,
+          "missing_source_trace": 0,
+          "missing_mandatory_fields": 0,
+          "banned_pattern_count": 0,
+          "difficulty_counts": {
+            "1": 1,
+            "3": 3,
+            "4": 4,
+            "5": 2
+          },
+          "decode_status": "textbook_verified"
+        },
+        {
+          "key": "gs2_polity_class11_theory_ch02_freedom",
+          "mcq_count": 10,
+          "kill_phrase_count": 0,
+          "missing_source_trace": 0,
+          "missing_mandatory_fields": 0,
+          "banned_pattern_count": 0,
+          "difficulty_counts": {
+            "1": 1,
+            "3": 3,
+            "4": 4,
+            "5": 2
+          },
+          "decode_status": "textbook_verified"
+        },
+        {
+          "key": "gs2_polity_class11_theory_ch03_equality",
+          "mcq_count": 10,
+          "kill_phrase_count": 0,
+          "missing_source_trace": 0,
+          "missing_mandatory_fields": 0,
+          "banned_pattern_count": 0,
+          "difficulty_counts": {
+            "1": 1,
+            "3": 3,
+            "4": 4,
+            "5": 2
+          },
+          "decode_status": "textbook_verified"
+        },
+        {
+          "key": "gs2_polity_class11_theory_ch04_social_justice",
+          "mcq_count": 10,
+          "kill_phrase_count": 0,
+          "missing_source_trace": 0,
+          "missing_mandatory_fields": 0,
+          "banned_pattern_count": 0,
+          "difficulty_counts": {
+            "1": 1,
+            "3": 3,
+            "4": 4,
+            "5": 2
+          },
+          "decode_status": "textbook_verified"
+        },
+        {
+          "key": "gs2_polity_class11_theory_ch05_rights",
+          "mcq_count": 10,
+          "kill_phrase_count": 0,
+          "missing_source_trace": 0,
+          "missing_mandatory_fields": 0,
+          "banned_pattern_count": 0,
+          "difficulty_counts": {
+            "1": 1,
+            "3": 3,
+            "4": 4,
+            "5": 2
+          },
+          "decode_status": "textbook_verified"
+        },
+        {
+          "key": "gs2_polity_class11_theory_ch06_citizenship",
+          "mcq_count": 10,
+          "kill_phrase_count": 0,
+          "missing_source_trace": 0,
+          "missing_mandatory_fields": 0,
+          "banned_pattern_count": 0,
+          "difficulty_counts": {
+            "1": 1,
+            "3": 3,
+            "4": 4,
+            "5": 2
+          },
+          "decode_status": "textbook_verified"
+        },
+        {
+          "key": "gs2_polity_class11_theory_ch07_nationalism",
+          "mcq_count": 10,
+          "kill_phrase_count": 0,
+          "missing_source_trace": 0,
+          "missing_mandatory_fields": 0,
+          "banned_pattern_count": 0,
+          "difficulty_counts": {
+            "1": 1,
+            "3": 3,
+            "4": 4,
+            "5": 2
+          },
+          "decode_status": "textbook_verified"
+        },
+        {
+          "key": "gs2_polity_class11_theory_ch08_secularism",
+          "mcq_count": 10,
+          "kill_phrase_count": 0,
+          "missing_source_trace": 0,
+          "missing_mandatory_fields": 0,
+          "banned_pattern_count": 0,
+          "difficulty_counts": {
+            "1": 1,
+            "3": 3,
+            "4": 4,
+            "5": 2
+          },
+          "decode_status": "textbook_verified"
+        },
+        {
+          "key": "gs2_polity_class7_social_political_life_ii_ch01_on_equality",
+          "mcq_count": 10,
+          "kill_phrase_count": 0,
+          "missing_source_trace": 0,
+          "missing_mandatory_fields": 0,
+          "banned_pattern_count": 0,
+          "difficulty_counts": {
+            "1": 1,
+            "3": 3,
+            "4": 4,
+            "5": 2
+          },
+          "decode_status": "textbook_verified"
+        },
+        {
+          "key": "gs2_polity_class7_social_political_life_ii_ch02_role_of_the_government_in_health",
+          "mcq_count": 10,
+          "kill_phrase_count": 0,
+          "missing_source_trace": 0,
+          "missing_mandatory_fields": 0,
+          "banned_pattern_count": 0,
+          "difficulty_counts": {
+            "1": 1,
+            "3": 3,
+            "4": 4,
+            "5": 2
+          },
+          "decode_status": "textbook_verified"
+        },
+        {
+          "key": "gs2_polity_class7_social_political_life_ii_ch03_how_the_state_government_works",
+          "mcq_count": 10,
+          "kill_phrase_count": 0,
+          "missing_source_trace": 0,
+          "missing_mandatory_fields": 0,
+          "banned_pattern_count": 0,
+          "difficulty_counts": {
+            "1": 1,
+            "3": 3,
+            "4": 4,
+            "5": 2
+          },
+          "decode_status": "textbook_verified"
+        },
+        {
+          "key": "gs2_polity_class7_social_political_life_ii_ch04_growing_up_as_boys_and_girls",
+          "mcq_count": 10,
+          "kill_phrase_count": 0,
+          "missing_source_trace": 0,
+          "missing_mandatory_fields": 0,
+          "banned_pattern_count": 0,
+          "difficulty_counts": {
+            "1": 1,
+            "3": 3,
+            "4": 4,
+            "5": 2
+          },
+          "decode_status": "textbook_verified"
+        },
+        {
+          "key": "gs2_polity_class7_social_political_life_ii_ch05_women_change_the_world",
+          "mcq_count": 10,
+          "kill_phrase_count": 0,
+          "missing_source_trace": 0,
+          "missing_mandatory_fields": 0,
+          "banned_pattern_count": 0,
+          "difficulty_counts": {
+            "1": 1,
+            "3": 3,
+            "4": 4,
+            "5": 2
+          },
+          "decode_status": "textbook_verified"
+        },
+        {
+          "key": "gs2_polity_class7_social_political_life_ii_ch06_understanding_media",
+          "mcq_count": 10,
+          "kill_phrase_count": 0,
+          "missing_source_trace": 0,
+          "missing_mandatory_fields": 0,
+          "banned_pattern_count": 0,
+          "difficulty_counts": {
+            "1": 1,
+            "3": 3,
+            "4": 4,
+            "5": 2
+          },
+          "decode_status": "textbook_verified"
+        },
+        {
+          "key": "gs2_polity_class7_social_political_life_ii_ch07_markets_around_us",
+          "mcq_count": 10,
+          "kill_phrase_count": 0,
+          "missing_source_trace": 0,
+          "missing_mandatory_fields": 0,
+          "banned_pattern_count": 0,
+          "difficulty_counts": {
+            "1": 1,
+            "3": 3,
+            "4": 4,
+            "5": 2
+          },
+          "decode_status": "textbook_verified"
+        },
+        {
+          "key": "gs2_polity_class7_social_political_life_ii_ch08_a_shirt_in_the_market",
+          "mcq_count": 10,
+          "kill_phrase_count": 0,
+          "missing_source_trace": 0,
+          "missing_mandatory_fields": 0,
+          "banned_pattern_count": 0,
+          "difficulty_counts": {
+            "1": 1,
+            "3": 3,
+            "4": 4,
+            "5": 2
+          },
+          "decode_status": "textbook_verified"
+        },
+        {
+          "key": "gs2_polity_class8_social_political_life_iii_ch01_the_indian_constitution",
+          "mcq_count": 10,
+          "kill_phrase_count": 0,
+          "missing_source_trace": 0,
+          "missing_mandatory_fields": 0,
+          "banned_pattern_count": 0,
+          "difficulty_counts": {
+            "1": 1,
+            "3": 3,
+            "4": 4,
+            "5": 2
+          },
+          "decode_status": "textbook_verified"
+        },
+        {
+          "key": "gs2_polity_class8_social_political_life_iii_ch02_understanding_secularism",
+          "mcq_count": 10,
+          "kill_phrase_count": 0,
+          "missing_source_trace": 0,
+          "missing_mandatory_fields": 0,
+          "banned_pattern_count": 0,
+          "difficulty_counts": {
+            "1": 1,
+            "3": 3,
+            "4": 4,
+            "5": 2
+          },
+          "decode_status": "textbook_verified"
+        },
+        {
+          "key": "gs2_polity_class8_social_political_life_iii_ch03_parliament_and_the_making_of_laws",
+          "mcq_count": 10,
+          "kill_phrase_count": 0,
+          "missing_source_trace": 0,
+          "missing_mandatory_fields": 0,
+          "banned_pattern_count": 0,
+          "difficulty_counts": {
+            "1": 1,
+            "3": 3,
+            "4": 4,
+            "5": 2
+          },
+          "decode_status": "textbook_verified"
+        },
+        {
+          "key": "gs2_polity_class8_social_political_life_iii_ch04_judiciary",
+          "mcq_count": 10,
+          "kill_phrase_count": 0,
+          "missing_source_trace": 0,
+          "missing_mandatory_fields": 0,
+          "banned_pattern_count": 0,
+          "difficulty_counts": {
+            "1": 1,
+            "3": 3,
+            "4": 4,
+            "5": 2
+          },
+          "decode_status": "textbook_verified"
+        },
+        {
+          "key": "gs2_polity_class8_social_political_life_iii_ch05_understanding_marginalisation",
+          "mcq_count": 10,
+          "kill_phrase_count": 0,
+          "missing_source_trace": 0,
+          "missing_mandatory_fields": 0,
+          "banned_pattern_count": 0,
+          "difficulty_counts": {
+            "1": 1,
+            "3": 3,
+            "4": 4,
+            "5": 2
+          },
+          "decode_status": "textbook_verified"
+        },
+        {
+          "key": "gs2_polity_class8_social_political_life_iii_ch06_confronting_marginalisation",
+          "mcq_count": 10,
+          "kill_phrase_count": 0,
+          "missing_source_trace": 0,
+          "missing_mandatory_fields": 0,
+          "banned_pattern_count": 0,
+          "difficulty_counts": {
+            "1": 1,
+            "3": 3,
+            "4": 4,
+            "5": 2
+          },
+          "decode_status": "textbook_verified"
+        },
+        {
+          "key": "gs2_polity_class8_social_political_life_iii_ch07_public_facilities",
+          "mcq_count": 10,
+          "kill_phrase_count": 0,
+          "missing_source_trace": 0,
+          "missing_mandatory_fields": 0,
+          "banned_pattern_count": 0,
+          "difficulty_counts": {
+            "1": 1,
+            "3": 3,
+            "4": 4,
+            "5": 2
+          },
+          "decode_status": "textbook_verified"
+        },
+        {
+          "key": "gs2_polity_class8_social_political_life_iii_ch08_law_and_social_justice",
+          "mcq_count": 10,
+          "kill_phrase_count": 0,
+          "missing_source_trace": 0,
+          "missing_mandatory_fields": 0,
+          "banned_pattern_count": 0,
+          "difficulty_counts": {
+            "1": 1,
+            "3": 3,
+            "4": 4,
+            "5": 2
+          },
+          "decode_status": "textbook_verified"
+        },
+        {
+          "key": "gs3_economy_class10_development_ch01_development",
+          "mcq_count": 10,
+          "kill_phrase_count": 0,
+          "missing_source_trace": 0,
+          "missing_mandatory_fields": 0,
+          "banned_pattern_count": 0,
+          "difficulty_counts": {
+            "1": 1,
+            "3": 3,
+            "4": 4,
+            "5": 2
+          },
+          "decode_status": "textbook_verified"
+        },
+        {
+          "key": "gs3_economy_class10_development_ch02_sectors_of_the_indian_economy",
+          "mcq_count": 10,
+          "kill_phrase_count": 0,
+          "missing_source_trace": 0,
+          "missing_mandatory_fields": 0,
+          "banned_pattern_count": 0,
+          "difficulty_counts": {
+            "1": 1,
+            "3": 3,
+            "4": 4,
+            "5": 2
+          },
+          "decode_status": "textbook_verified"
+        },
+        {
+          "key": "gs3_economy_class10_development_ch03_money_and_credit",
+          "mcq_count": 10,
+          "kill_phrase_count": 0,
+          "missing_source_trace": 0,
+          "missing_mandatory_fields": 0,
+          "banned_pattern_count": 0,
+          "difficulty_counts": {
+            "1": 1,
+            "3": 3,
+            "4": 4,
+            "5": 2
+          },
+          "decode_status": "textbook_verified"
+        },
+        {
+          "key": "gs3_economy_class10_development_ch04_globalisation_and_the_indian_economy",
+          "mcq_count": 10,
+          "kill_phrase_count": 0,
+          "missing_source_trace": 0,
+          "missing_mandatory_fields": 0,
+          "banned_pattern_count": 0,
+          "difficulty_counts": {
+            "1": 1,
+            "3": 3,
+            "4": 4,
+            "5": 2
+          },
+          "decode_status": "textbook_verified"
+        },
+        {
+          "key": "gs3_economy_class10_development_ch05_consumer_rights",
+          "mcq_count": 10,
+          "kill_phrase_count": 0,
+          "missing_source_trace": 0,
+          "missing_mandatory_fields": 0,
+          "banned_pattern_count": 0,
+          "difficulty_counts": {
+            "1": 1,
+            "3": 3,
+            "4": 4,
+            "5": 2
+          },
+          "decode_status": "textbook_verified"
+        },
+        {
+          "key": "gs3_economy_class11_indian_development_ch01_indian_economy_on_the_eve_of_independence",
+          "mcq_count": 10,
+          "kill_phrase_count": 0,
+          "missing_source_trace": 0,
+          "missing_mandatory_fields": 0,
+          "banned_pattern_count": 0,
+          "difficulty_counts": {
+            "1": 1,
+            "3": 3,
+            "4": 4,
+            "5": 2
+          },
+          "decode_status": "textbook_verified"
+        },
+        {
+          "key": "gs3_economy_class11_indian_development_ch02_indian_economy_1950_1990",
+          "mcq_count": 10,
+          "kill_phrase_count": 0,
+          "missing_source_trace": 0,
+          "missing_mandatory_fields": 0,
+          "banned_pattern_count": 0,
+          "difficulty_counts": {
+            "1": 1,
+            "3": 3,
+            "4": 4,
+            "5": 2
+          },
+          "decode_status": "textbook_verified"
+        },
+        {
+          "key": "gs3_economy_class11_indian_development_ch03_liberalisation_privatisation_and_globalisation",
+          "mcq_count": 10,
+          "kill_phrase_count": 0,
+          "missing_source_trace": 0,
+          "missing_mandatory_fields": 0,
+          "banned_pattern_count": 0,
+          "difficulty_counts": {
+            "1": 1,
+            "3": 3,
+            "4": 4,
+            "5": 2
+          },
+          "decode_status": "textbook_verified"
+        },
+        {
+          "key": "gs3_economy_class11_indian_development_ch04_poverty",
+          "mcq_count": 10,
+          "kill_phrase_count": 0,
+          "missing_source_trace": 0,
+          "missing_mandatory_fields": 0,
+          "banned_pattern_count": 0,
+          "difficulty_counts": {
+            "1": 1,
+            "3": 3,
+            "4": 4,
+            "5": 2
+          },
+          "decode_status": "textbook_verified"
+        },
+        {
+          "key": "gs3_economy_class11_indian_development_ch05_human_capital_formation",
+          "mcq_count": 10,
+          "kill_phrase_count": 0,
+          "missing_source_trace": 0,
+          "missing_mandatory_fields": 0,
+          "banned_pattern_count": 0,
+          "difficulty_counts": {
+            "1": 1,
+            "3": 3,
+            "4": 4,
+            "5": 2
+          },
+          "decode_status": "textbook_verified"
+        },
+        {
+          "key": "gs3_economy_class11_indian_development_ch06_rural_development",
+          "mcq_count": 10,
+          "kill_phrase_count": 0,
+          "missing_source_trace": 0,
+          "missing_mandatory_fields": 0,
+          "banned_pattern_count": 0,
+          "difficulty_counts": {
+            "1": 1,
+            "3": 3,
+            "4": 4,
+            "5": 2
+          },
+          "decode_status": "textbook_verified"
+        },
+        {
+          "key": "gs3_economy_class11_indian_development_ch07_employment",
+          "mcq_count": 10,
+          "kill_phrase_count": 0,
+          "missing_source_trace": 0,
+          "missing_mandatory_fields": 0,
+          "banned_pattern_count": 0,
+          "difficulty_counts": {
+            "1": 1,
+            "3": 3,
+            "4": 4,
+            "5": 2
+          },
+          "decode_status": "textbook_verified"
+        },
+        {
+          "key": "gs3_economy_class11_indian_development_ch08_infrastructure",
+          "mcq_count": 10,
+          "kill_phrase_count": 0,
+          "missing_source_trace": 0,
+          "missing_mandatory_fields": 0,
+          "banned_pattern_count": 0,
+          "difficulty_counts": {
+            "1": 1,
+            "3": 3,
+            "4": 4,
+            "5": 2
+          },
+          "decode_status": "textbook_verified"
+        },
+        {
+          "key": "gs3_economy_class12_macro_ch01_national_income_accounting",
+          "mcq_count": 10,
+          "kill_phrase_count": 0,
+          "missing_source_trace": 0,
+          "missing_mandatory_fields": 0,
+          "banned_pattern_count": 0,
+          "difficulty_counts": {
+            "1": 1,
+            "3": 3,
+            "4": 4,
+            "5": 2
+          },
+          "decode_status": "textbook_verified"
+        },
+        {
+          "key": "gs3_economy_class12_macro_ch02_money_and_banking",
+          "mcq_count": 10,
+          "kill_phrase_count": 0,
+          "missing_source_trace": 0,
+          "missing_mandatory_fields": 0,
+          "banned_pattern_count": 0,
+          "difficulty_counts": {
+            "1": 1,
+            "3": 3,
+            "4": 4,
+            "5": 2
+          },
+          "decode_status": "textbook_verified"
+        },
+        {
+          "key": "gs3_economy_class12_macro_ch03_determination_of_income_and_employment",
+          "mcq_count": 10,
+          "kill_phrase_count": 0,
+          "missing_source_trace": 0,
+          "missing_mandatory_fields": 0,
+          "banned_pattern_count": 0,
+          "difficulty_counts": {
+            "1": 1,
+            "3": 3,
+            "4": 4,
+            "5": 2
+          },
+          "decode_status": "textbook_verified"
+        },
+        {
+          "key": "gs3_economy_class12_macro_ch04_government_budget_and_the_economy",
+          "mcq_count": 10,
+          "kill_phrase_count": 0,
+          "missing_source_trace": 0,
+          "missing_mandatory_fields": 0,
+          "banned_pattern_count": 0,
+          "difficulty_counts": {
+            "1": 1,
+            "3": 3,
+            "4": 4,
+            "5": 2
+          },
+          "decode_status": "textbook_verified"
+        },
+        {
+          "key": "gs3_economy_class12_macro_ch05_balance_of_payments",
+          "mcq_count": 10,
+          "kill_phrase_count": 0,
+          "missing_source_trace": 0,
+          "missing_mandatory_fields": 0,
+          "banned_pattern_count": 0,
+          "difficulty_counts": {
+            "1": 1,
+            "3": 3,
+            "4": 4,
+            "5": 2
+          },
+          "decode_status": "textbook_verified"
+        },
+        {
+          "key": "gs3_economy_class12_micro_ch01_introduction",
+          "mcq_count": 10,
+          "kill_phrase_count": 0,
+          "missing_source_trace": 0,
+          "missing_mandatory_fields": 0,
+          "banned_pattern_count": 0,
+          "difficulty_counts": {
+            "1": 1,
+            "3": 3,
+            "4": 4,
+            "5": 2
+          },
+          "decode_status": "textbook_verified"
+        },
+        {
+          "key": "gs3_economy_class12_micro_ch02_consumer_behaviour",
+          "mcq_count": 10,
+          "kill_phrase_count": 0,
+          "missing_source_trace": 0,
+          "missing_mandatory_fields": 0,
+          "banned_pattern_count": 0,
+          "difficulty_counts": {
+            "1": 1,
+            "3": 3,
+            "4": 4,
+            "5": 2
+          },
+          "decode_status": "textbook_verified"
+        },
+        {
+          "key": "gs3_economy_class12_micro_ch03_production_and_costs",
+          "mcq_count": 10,
+          "kill_phrase_count": 0,
+          "missing_source_trace": 0,
+          "missing_mandatory_fields": 0,
+          "banned_pattern_count": 0,
+          "difficulty_counts": {
+            "1": 1,
+            "3": 3,
+            "4": 4,
+            "5": 2
+          },
+          "decode_status": "textbook_verified"
+        },
+        {
+          "key": "gs3_economy_class12_micro_ch04_theory_of_the_firm",
+          "mcq_count": 10,
+          "kill_phrase_count": 0,
+          "missing_source_trace": 0,
+          "missing_mandatory_fields": 0,
+          "banned_pattern_count": 0,
+          "difficulty_counts": {
+            "1": 1,
+            "3": 3,
+            "4": 4,
+            "5": 2
+          },
+          "decode_status": "textbook_verified"
+        },
+        {
+          "key": "gs3_economy_class12_micro_ch05_market_equilibrium",
+          "mcq_count": 10,
+          "kill_phrase_count": 0,
+          "missing_source_trace": 0,
+          "missing_mandatory_fields": 0,
+          "banned_pattern_count": 0,
+          "difficulty_counts": {
+            "1": 1,
+            "3": 3,
+            "4": 4,
+            "5": 2
+          },
+          "decode_status": "textbook_verified"
+        },
+        {
+          "key": "gs3_env_class11_biology_ch01_the_living_world",
+          "mcq_count": 10,
+          "kill_phrase_count": 0,
+          "missing_source_trace": 0,
+          "missing_mandatory_fields": 0,
+          "banned_pattern_count": 0,
+          "difficulty_counts": {
+            "1": 1,
+            "3": 3,
+            "4": 4,
+            "5": 2
+          },
+          "decode_status": "textbook_verified"
+        },
+        {
+          "key": "gs3_env_class11_biology_ch02_biological_classification",
+          "mcq_count": 10,
+          "kill_phrase_count": 0,
+          "missing_source_trace": 0,
+          "missing_mandatory_fields": 0,
+          "banned_pattern_count": 0,
+          "difficulty_counts": {
+            "1": 1,
+            "3": 3,
+            "4": 4,
+            "5": 2
+          },
+          "decode_status": "textbook_verified"
+        },
+        {
+          "key": "gs3_env_class11_biology_ch03_plant_kingdom",
+          "mcq_count": 10,
+          "kill_phrase_count": 0,
+          "missing_source_trace": 0,
+          "missing_mandatory_fields": 0,
+          "banned_pattern_count": 0,
+          "difficulty_counts": {
+            "1": 1,
+            "3": 3,
+            "4": 4,
+            "5": 2
+          },
+          "decode_status": "textbook_verified"
+        },
+        {
+          "key": "gs3_env_class11_biology_ch04_animal_kingdom",
+          "mcq_count": 10,
+          "kill_phrase_count": 0,
+          "missing_source_trace": 0,
+          "missing_mandatory_fields": 0,
+          "banned_pattern_count": 0,
+          "difficulty_counts": {
+            "1": 1,
+            "3": 3,
+            "4": 4,
+            "5": 2
+          },
+          "decode_status": "textbook_verified"
+        },
+        {
+          "key": "gs3_env_class11_biology_ch05_morphology_of_flowering_plants",
+          "mcq_count": 10,
+          "kill_phrase_count": 0,
+          "missing_source_trace": 0,
+          "missing_mandatory_fields": 0,
+          "banned_pattern_count": 0,
+          "difficulty_counts": {
+            "1": 1,
+            "3": 3,
+            "4": 4,
+            "5": 2
+          },
+          "decode_status": "textbook_verified"
+        },
+        {
+          "key": "gs3_env_class11_biology_ch06_anatomy_of_flowering_plants",
+          "mcq_count": 10,
+          "kill_phrase_count": 0,
+          "missing_source_trace": 0,
+          "missing_mandatory_fields": 0,
+          "banned_pattern_count": 0,
+          "difficulty_counts": {
+            "1": 1,
+            "3": 3,
+            "4": 4,
+            "5": 2
+          },
+          "decode_status": "textbook_verified"
+        },
+        {
+          "key": "gs3_env_class11_biology_ch07_structural_organisation_in_animals",
+          "mcq_count": 10,
+          "kill_phrase_count": 0,
+          "missing_source_trace": 0,
+          "missing_mandatory_fields": 0,
+          "banned_pattern_count": 0,
+          "difficulty_counts": {
+            "1": 1,
+            "3": 3,
+            "4": 4,
+            "5": 2
+          },
+          "decode_status": "textbook_verified"
+        },
+        {
+          "key": "gs3_env_class11_biology_ch08_cell_the_unit_of_life",
+          "mcq_count": 10,
+          "kill_phrase_count": 0,
+          "missing_source_trace": 0,
+          "missing_mandatory_fields": 0,
+          "banned_pattern_count": 0,
+          "difficulty_counts": {
+            "1": 1,
+            "3": 3,
+            "4": 4,
+            "5": 2
+          },
+          "decode_status": "textbook_verified"
+        },
+        {
+          "key": "gs3_env_class11_biology_ch09_biomolecules",
+          "mcq_count": 10,
+          "kill_phrase_count": 0,
+          "missing_source_trace": 0,
+          "missing_mandatory_fields": 0,
+          "banned_pattern_count": 0,
+          "difficulty_counts": {
+            "1": 1,
+            "3": 3,
+            "4": 4,
+            "5": 2
+          },
+          "decode_status": "textbook_verified"
+        },
+        {
+          "key": "gs3_env_class11_biology_ch10_cell_cycle_and_cell_division",
+          "mcq_count": 10,
+          "kill_phrase_count": 0,
+          "missing_source_trace": 0,
+          "missing_mandatory_fields": 0,
+          "banned_pattern_count": 0,
+          "difficulty_counts": {
+            "1": 1,
+            "3": 3,
+            "4": 4,
+            "5": 2
+          },
+          "decode_status": "textbook_verified"
+        },
+        {
+          "key": "gs3_env_class11_biology_ch11_transport_in_plants",
+          "mcq_count": 10,
+          "kill_phrase_count": 0,
+          "missing_source_trace": 0,
+          "missing_mandatory_fields": 0,
+          "banned_pattern_count": 0,
+          "difficulty_counts": {
+            "1": 1,
+            "3": 3,
+            "4": 4,
+            "5": 2
+          },
+          "decode_status": "textbook_verified"
+        },
+        {
+          "key": "gs3_env_class11_biology_ch12_mineral_nutrition",
+          "mcq_count": 10,
+          "kill_phrase_count": 0,
+          "missing_source_trace": 0,
+          "missing_mandatory_fields": 0,
+          "banned_pattern_count": 0,
+          "difficulty_counts": {
+            "1": 1,
+            "3": 3,
+            "4": 4,
+            "5": 2
+          },
+          "decode_status": "textbook_verified"
+        },
+        {
+          "key": "gs3_env_class11_biology_ch13_photosynthesis_in_higher_plants",
+          "mcq_count": 10,
+          "kill_phrase_count": 0,
+          "missing_source_trace": 0,
+          "missing_mandatory_fields": 0,
+          "banned_pattern_count": 0,
+          "difficulty_counts": {
+            "1": 1,
+            "3": 3,
+            "4": 4,
+            "5": 2
+          },
+          "decode_status": "textbook_verified"
+        },
+        {
+          "key": "gs3_env_class11_biology_ch14_respiration_in_plants",
+          "mcq_count": 10,
+          "kill_phrase_count": 0,
+          "missing_source_trace": 0,
+          "missing_mandatory_fields": 0,
+          "banned_pattern_count": 0,
+          "difficulty_counts": {
+            "1": 1,
+            "3": 3,
+            "4": 4,
+            "5": 2
+          },
+          "decode_status": "textbook_verified"
+        },
+        {
+          "key": "gs3_env_class11_biology_ch15_plant_growth_and_development",
+          "mcq_count": 10,
+          "kill_phrase_count": 0,
+          "missing_source_trace": 0,
+          "missing_mandatory_fields": 0,
+          "banned_pattern_count": 0,
+          "difficulty_counts": {
+            "1": 1,
+            "3": 3,
+            "4": 4,
+            "5": 2
+          },
+          "decode_status": "textbook_verified"
+        },
+        {
+          "key": "gs3_env_class11_biology_ch16_digestion_and_absorption",
+          "mcq_count": 10,
+          "kill_phrase_count": 0,
+          "missing_source_trace": 0,
+          "missing_mandatory_fields": 0,
+          "banned_pattern_count": 0,
+          "difficulty_counts": {
+            "1": 1,
+            "3": 3,
+            "4": 4,
+            "5": 2
+          },
+          "decode_status": "textbook_verified"
+        },
+        {
+          "key": "gs3_env_class11_biology_ch17_breathing_and_exchange_of_gases",
+          "mcq_count": 10,
+          "kill_phrase_count": 0,
+          "missing_source_trace": 0,
+          "missing_mandatory_fields": 0,
+          "banned_pattern_count": 0,
+          "difficulty_counts": {
+            "1": 1,
+            "3": 3,
+            "4": 4,
+            "5": 2
+          },
+          "decode_status": "textbook_verified"
+        },
+        {
+          "key": "gs3_env_class11_biology_ch18_body_fluids_and_circulation",
+          "mcq_count": 10,
+          "kill_phrase_count": 0,
+          "missing_source_trace": 0,
+          "missing_mandatory_fields": 0,
+          "banned_pattern_count": 0,
+          "difficulty_counts": {
+            "1": 1,
+            "3": 3,
+            "4": 4,
+            "5": 2
+          },
+          "decode_status": "textbook_verified"
+        },
+        {
+          "key": "gs3_env_class11_biology_ch19_excretory_products_and_their_elimination",
+          "mcq_count": 10,
+          "kill_phrase_count": 0,
+          "missing_source_trace": 0,
+          "missing_mandatory_fields": 0,
+          "banned_pattern_count": 0,
+          "difficulty_counts": {
+            "1": 1,
+            "3": 3,
+            "4": 4,
+            "5": 2
+          },
+          "decode_status": "textbook_verified"
+        },
+        {
+          "key": "gs3_env_class12_biology_ch01_reproduction_in_organisms",
+          "mcq_count": 10,
+          "kill_phrase_count": 0,
+          "missing_source_trace": 0,
+          "missing_mandatory_fields": 0,
+          "banned_pattern_count": 0,
+          "difficulty_counts": {
+            "1": 1,
+            "3": 3,
+            "4": 4,
+            "5": 2
+          },
+          "decode_status": "textbook_verified"
+        },
+        {
+          "key": "gs3_env_class12_biology_ch02_sexual_reproduction_in_plants",
+          "mcq_count": 10,
+          "kill_phrase_count": 0,
+          "missing_source_trace": 0,
+          "missing_mandatory_fields": 0,
+          "banned_pattern_count": 0,
+          "difficulty_counts": {
+            "1": 1,
+            "3": 3,
+            "4": 4,
+            "5": 2
+          },
+          "decode_status": "textbook_verified"
+        },
+        {
+          "key": "gs3_env_class12_biology_ch03_human_reproduction",
+          "mcq_count": 10,
+          "kill_phrase_count": 0,
+          "missing_source_trace": 0,
+          "missing_mandatory_fields": 0,
+          "banned_pattern_count": 0,
+          "difficulty_counts": {
+            "1": 1,
+            "3": 3,
+            "4": 4,
+            "5": 2
+          },
+          "decode_status": "textbook_verified"
+        },
+        {
+          "key": "gs3_env_class12_biology_ch04_reproductive_health",
+          "mcq_count": 10,
+          "kill_phrase_count": 0,
+          "missing_source_trace": 0,
+          "missing_mandatory_fields": 0,
+          "banned_pattern_count": 0,
+          "difficulty_counts": {
+            "1": 1,
+            "3": 3,
+            "4": 4,
+            "5": 2
+          },
+          "decode_status": "textbook_verified"
+        },
+        {
+          "key": "gs3_env_class12_biology_ch05_principles_of_inheritance",
+          "mcq_count": 10,
+          "kill_phrase_count": 0,
+          "missing_source_trace": 0,
+          "missing_mandatory_fields": 0,
+          "banned_pattern_count": 0,
+          "difficulty_counts": {
+            "1": 1,
+            "3": 3,
+            "4": 4,
+            "5": 2
+          },
+          "decode_status": "textbook_verified"
+        },
+        {
+          "key": "gs3_env_class12_biology_ch06_molecular_basis_of_inheritance",
+          "mcq_count": 10,
+          "kill_phrase_count": 0,
+          "missing_source_trace": 0,
+          "missing_mandatory_fields": 0,
+          "banned_pattern_count": 0,
+          "difficulty_counts": {
+            "1": 1,
+            "3": 3,
+            "4": 4,
+            "5": 2
+          },
+          "decode_status": "textbook_verified"
+        },
+        {
+          "key": "gs3_env_class12_biology_ch07_human_health_and_disease",
+          "mcq_count": 10,
+          "kill_phrase_count": 0,
+          "missing_source_trace": 0,
+          "missing_mandatory_fields": 0,
+          "banned_pattern_count": 0,
+          "difficulty_counts": {
+            "1": 1,
+            "3": 3,
+            "4": 4,
+            "5": 2
+          },
+          "decode_status": "textbook_verified"
+        },
+        {
+          "key": "gs3_env_class12_biology_ch08_microbes_in_human_welfare",
+          "mcq_count": 10,
+          "kill_phrase_count": 0,
+          "missing_source_trace": 0,
+          "missing_mandatory_fields": 0,
+          "banned_pattern_count": 0,
+          "difficulty_counts": {
+            "1": 1,
+            "3": 3,
+            "4": 4,
+            "5": 2
+          },
+          "decode_status": "textbook_verified"
+        },
+        {
+          "key": "gs3_env_class12_biology_ch09_biotechnology_principles_and_processes",
+          "mcq_count": 10,
+          "kill_phrase_count": 0,
+          "missing_source_trace": 0,
+          "missing_mandatory_fields": 0,
+          "banned_pattern_count": 0,
+          "difficulty_counts": {
+            "1": 1,
+            "3": 3,
+            "4": 4,
+            "5": 2
+          },
+          "decode_status": "textbook_verified"
+        },
+        {
+          "key": "gs3_env_class12_biology_ch10_biotechnology_and_its_applications",
+          "mcq_count": 10,
+          "kill_phrase_count": 0,
+          "missing_source_trace": 0,
+          "missing_mandatory_fields": 0,
+          "banned_pattern_count": 0,
+          "difficulty_counts": {
+            "1": 1,
+            "3": 3,
+            "4": 4,
+            "5": 2
+          },
+          "decode_status": "textbook_verified"
+        },
+        {
+          "key": "gs3_env_class12_biology_ch11_organisms_and_populations",
+          "mcq_count": 10,
+          "kill_phrase_count": 0,
+          "missing_source_trace": 0,
+          "missing_mandatory_fields": 0,
+          "banned_pattern_count": 0,
+          "difficulty_counts": {
+            "1": 1,
+            "3": 3,
+            "4": 4,
+            "5": 2
+          },
+          "decode_status": "textbook_verified"
+        },
+        {
+          "key": "gs3_env_class12_biology_ch12_ecosystem",
+          "mcq_count": 10,
+          "kill_phrase_count": 0,
+          "missing_source_trace": 0,
+          "missing_mandatory_fields": 0,
+          "banned_pattern_count": 0,
+          "difficulty_counts": {
+            "1": 1,
+            "3": 3,
+            "4": 4,
+            "5": 2
+          },
+          "decode_status": "textbook_verified"
+        },
+        {
+          "key": "gs3_env_class12_biology_ch13_biodiversity_and_conservation",
+          "mcq_count": 10,
+          "kill_phrase_count": 0,
+          "missing_source_trace": 0,
+          "missing_mandatory_fields": 0,
+          "banned_pattern_count": 0,
+          "difficulty_counts": {
+            "1": 1,
+            "3": 3,
+            "4": 4,
+            "5": 2
+          },
+          "decode_status": "textbook_verified"
+        },
+        {
+          "key": "gs3_sci_class10_science_ch01_chemical_reactions_and_equations",
+          "mcq_count": 10,
+          "kill_phrase_count": 0,
+          "missing_source_trace": 0,
+          "missing_mandatory_fields": 0,
+          "banned_pattern_count": 0,
+          "difficulty_counts": {
+            "1": 1,
+            "3": 3,
+            "4": 4,
+            "5": 2
+          },
+          "decode_status": "textbook_verified"
+        },
+        {
+          "key": "gs3_sci_class10_science_ch02_acids_bases_and_salts",
+          "mcq_count": 10,
+          "kill_phrase_count": 0,
+          "missing_source_trace": 0,
+          "missing_mandatory_fields": 0,
+          "banned_pattern_count": 0,
+          "difficulty_counts": {
+            "1": 1,
+            "3": 3,
+            "4": 4,
+            "5": 2
+          },
+          "decode_status": "textbook_verified"
+        },
+        {
+          "key": "gs3_sci_class10_science_ch03_metals_and_non_metals",
+          "mcq_count": 10,
+          "kill_phrase_count": 0,
+          "missing_source_trace": 0,
+          "missing_mandatory_fields": 0,
+          "banned_pattern_count": 0,
+          "difficulty_counts": {
+            "1": 1,
+            "3": 3,
+            "4": 4,
+            "5": 2
+          },
+          "decode_status": "textbook_verified"
+        },
+        {
+          "key": "gs3_sci_class10_science_ch04_carbon_and_its_compounds",
+          "mcq_count": 10,
+          "kill_phrase_count": 0,
+          "missing_source_trace": 0,
+          "missing_mandatory_fields": 0,
+          "banned_pattern_count": 0,
+          "difficulty_counts": {
+            "1": 1,
+            "3": 3,
+            "4": 4,
+            "5": 2
+          },
+          "decode_status": "textbook_verified"
+        },
+        {
+          "key": "gs3_sci_class10_science_ch05_periodic_classification_of_elements",
+          "mcq_count": 10,
+          "kill_phrase_count": 0,
+          "missing_source_trace": 0,
+          "missing_mandatory_fields": 0,
+          "banned_pattern_count": 0,
+          "difficulty_counts": {
+            "1": 1,
+            "3": 3,
+            "4": 4,
+            "5": 2
+          },
+          "decode_status": "textbook_verified"
+        },
+        {
+          "key": "gs3_sci_class10_science_ch06_life_processes",
+          "mcq_count": 10,
+          "kill_phrase_count": 0,
+          "missing_source_trace": 0,
+          "missing_mandatory_fields": 0,
+          "banned_pattern_count": 0,
+          "difficulty_counts": {
+            "1": 1,
+            "3": 3,
+            "4": 4,
+            "5": 2
+          },
+          "decode_status": "textbook_verified"
+        },
+        {
+          "key": "gs3_sci_class10_science_ch07_control_and_coordination",
+          "mcq_count": 10,
+          "kill_phrase_count": 0,
+          "missing_source_trace": 0,
+          "missing_mandatory_fields": 0,
+          "banned_pattern_count": 0,
+          "difficulty_counts": {
+            "1": 1,
+            "3": 3,
+            "4": 4,
+            "5": 2
+          },
+          "decode_status": "textbook_verified"
+        },
+        {
+          "key": "gs3_sci_class10_science_ch08_how_do_organisms_reproduce",
+          "mcq_count": 10,
+          "kill_phrase_count": 0,
+          "missing_source_trace": 0,
+          "missing_mandatory_fields": 0,
+          "banned_pattern_count": 0,
+          "difficulty_counts": {
+            "1": 1,
+            "3": 3,
+            "4": 4,
+            "5": 2
+          },
+          "decode_status": "textbook_verified"
+        },
+        {
+          "key": "gs3_sci_class10_science_ch09_heredity_and_evolution",
+          "mcq_count": 10,
+          "kill_phrase_count": 0,
+          "missing_source_trace": 0,
+          "missing_mandatory_fields": 0,
+          "banned_pattern_count": 0,
+          "difficulty_counts": {
+            "1": 1,
+            "3": 3,
+            "4": 4,
+            "5": 2
+          },
+          "decode_status": "textbook_verified"
+        },
+        {
+          "key": "gs3_sci_class10_science_ch10_light_reflection_and_refraction",
+          "mcq_count": 10,
+          "kill_phrase_count": 0,
+          "missing_source_trace": 0,
+          "missing_mandatory_fields": 0,
+          "banned_pattern_count": 0,
+          "difficulty_counts": {
+            "1": 1,
+            "3": 3,
+            "4": 4,
+            "5": 2
+          },
+          "decode_status": "textbook_verified"
+        },
+        {
+          "key": "gs3_sci_class10_science_ch11_the_human_eye_and_the_colourful_world",
+          "mcq_count": 10,
+          "kill_phrase_count": 0,
+          "missing_source_trace": 0,
+          "missing_mandatory_fields": 0,
+          "banned_pattern_count": 0,
+          "difficulty_counts": {
+            "1": 1,
+            "3": 3,
+            "4": 4,
+            "5": 2
+          },
+          "decode_status": "textbook_verified"
+        },
+        {
+          "key": "gs3_sci_class10_science_ch12_electricity",
+          "mcq_count": 10,
+          "kill_phrase_count": 0,
+          "missing_source_trace": 0,
+          "missing_mandatory_fields": 0,
+          "banned_pattern_count": 0,
+          "difficulty_counts": {
+            "1": 1,
+            "3": 3,
+            "4": 4,
+            "5": 2
+          },
+          "decode_status": "textbook_verified"
+        },
+        {
+          "key": "gs3_sci_class10_science_ch13_magnetic_effects_of_electric_current",
+          "mcq_count": 10,
+          "kill_phrase_count": 0,
+          "missing_source_trace": 0,
+          "missing_mandatory_fields": 0,
+          "banned_pattern_count": 0,
+          "difficulty_counts": {
+            "1": 1,
+            "3": 3,
+            "4": 4,
+            "5": 2
+          },
+          "decode_status": "textbook_verified"
+        },
+        {
+          "key": "gs3_sci_class11_chemistry_ch01_some_basic_concepts_of_chemistry",
+          "mcq_count": 10,
+          "kill_phrase_count": 0,
+          "missing_source_trace": 0,
+          "missing_mandatory_fields": 0,
+          "banned_pattern_count": 0,
+          "difficulty_counts": {
+            "1": 1,
+            "3": 3,
+            "4": 4,
+            "5": 2
+          },
+          "decode_status": "textbook_verified"
+        },
+        {
+          "key": "gs3_sci_class11_chemistry_ch02_structure_of_atom",
+          "mcq_count": 10,
+          "kill_phrase_count": 0,
+          "missing_source_trace": 0,
+          "missing_mandatory_fields": 0,
+          "banned_pattern_count": 0,
+          "difficulty_counts": {
+            "1": 1,
+            "3": 3,
+            "4": 4,
+            "5": 2
+          },
+          "decode_status": "textbook_verified"
+        },
+        {
+          "key": "gs3_sci_class11_chemistry_ch03_classification_of_elements_and_periodicity_in_properties",
+          "mcq_count": 10,
+          "kill_phrase_count": 0,
+          "missing_source_trace": 0,
+          "missing_mandatory_fields": 0,
+          "banned_pattern_count": 0,
+          "difficulty_counts": {
+            "1": 1,
+            "3": 3,
+            "4": 4,
+            "5": 2
+          },
+          "decode_status": "textbook_verified"
+        },
+        {
+          "key": "gs3_sci_class11_chemistry_ch04_chemical_bonding_and_molecular_structure",
+          "mcq_count": 10,
+          "kill_phrase_count": 0,
+          "missing_source_trace": 0,
+          "missing_mandatory_fields": 0,
+          "banned_pattern_count": 0,
+          "difficulty_counts": {
+            "1": 1,
+            "3": 3,
+            "4": 4,
+            "5": 2
+          },
+          "decode_status": "textbook_verified"
+        },
+        {
+          "key": "gs3_sci_class11_chemistry_ch05_states_of_matter",
+          "mcq_count": 10,
+          "kill_phrase_count": 0,
+          "missing_source_trace": 0,
+          "missing_mandatory_fields": 0,
+          "banned_pattern_count": 0,
+          "difficulty_counts": {
+            "1": 1,
+            "3": 3,
+            "4": 4,
+            "5": 2
+          },
+          "decode_status": "textbook_verified"
+        },
+        {
+          "key": "gs3_sci_class11_chemistry_ch06_thermodynamics",
+          "mcq_count": 10,
+          "kill_phrase_count": 0,
+          "missing_source_trace": 0,
+          "missing_mandatory_fields": 0,
+          "banned_pattern_count": 0,
+          "difficulty_counts": {
+            "1": 1,
+            "3": 3,
+            "4": 4,
+            "5": 2
+          },
+          "decode_status": "textbook_verified"
+        },
+        {
+          "key": "gs3_sci_class11_physics_ch01_physical_world",
+          "mcq_count": 10,
+          "kill_phrase_count": 0,
+          "missing_source_trace": 0,
+          "missing_mandatory_fields": 0,
+          "banned_pattern_count": 0,
+          "difficulty_counts": {
+            "1": 1,
+            "3": 3,
+            "4": 4,
+            "5": 2
+          },
+          "decode_status": "textbook_verified"
+        },
+        {
+          "key": "gs3_sci_class11_physics_ch02_units_and_measurements",
+          "mcq_count": 10,
+          "kill_phrase_count": 0,
+          "missing_source_trace": 0,
+          "missing_mandatory_fields": 0,
+          "banned_pattern_count": 0,
+          "difficulty_counts": {
+            "1": 1,
+            "3": 3,
+            "4": 4,
+            "5": 2
+          },
+          "decode_status": "textbook_verified"
+        },
+        {
+          "key": "gs3_sci_class11_physics_ch03_motion_in_a_straight_line",
+          "mcq_count": 10,
+          "kill_phrase_count": 0,
+          "missing_source_trace": 0,
+          "missing_mandatory_fields": 0,
+          "banned_pattern_count": 0,
+          "difficulty_counts": {
+            "1": 1,
+            "3": 3,
+            "4": 4,
+            "5": 2
+          },
+          "decode_status": "textbook_verified"
+        },
+        {
+          "key": "gs3_sci_class11_physics_ch04_motion_in_a_plane",
+          "mcq_count": 10,
+          "kill_phrase_count": 0,
+          "missing_source_trace": 0,
+          "missing_mandatory_fields": 0,
+          "banned_pattern_count": 0,
+          "difficulty_counts": {
+            "1": 1,
+            "3": 3,
+            "4": 4,
+            "5": 2
+          },
+          "decode_status": "textbook_verified"
+        },
+        {
+          "key": "gs3_sci_class11_physics_ch05_laws_of_motion",
+          "mcq_count": 10,
+          "kill_phrase_count": 0,
+          "missing_source_trace": 0,
+          "missing_mandatory_fields": 0,
+          "banned_pattern_count": 0,
+          "difficulty_counts": {
+            "1": 1,
+            "3": 3,
+            "4": 4,
+            "5": 2
+          },
+          "decode_status": "textbook_verified"
+        },
+        {
+          "key": "gs3_sci_class11_physics_ch06_work_energy_and_power",
+          "mcq_count": 10,
+          "kill_phrase_count": 0,
+          "missing_source_trace": 0,
+          "missing_mandatory_fields": 0,
+          "banned_pattern_count": 0,
+          "difficulty_counts": {
+            "1": 1,
+            "3": 3,
+            "4": 4,
+            "5": 2
+          },
+          "decode_status": "textbook_verified"
+        },
+        {
+          "key": "gs3_sci_class11_physics_ch07_system_of_particles_and_rotational_motion",
+          "mcq_count": 10,
+          "kill_phrase_count": 0,
+          "missing_source_trace": 0,
+          "missing_mandatory_fields": 0,
+          "banned_pattern_count": 0,
+          "difficulty_counts": {
+            "1": 1,
+            "3": 3,
+            "4": 4,
+            "5": 2
+          },
+          "decode_status": "textbook_verified"
+        },
+        {
+          "key": "gs3_sci_class12_chemistry_ch01_solutions",
+          "mcq_count": 10,
+          "kill_phrase_count": 0,
+          "missing_source_trace": 0,
+          "missing_mandatory_fields": 0,
+          "banned_pattern_count": 0,
+          "difficulty_counts": {
+            "1": 1,
+            "3": 3,
+            "4": 4,
+            "5": 2
+          },
+          "decode_status": "textbook_verified"
+        },
+        {
+          "key": "gs3_sci_class12_chemistry_ch02_electrochemistry",
+          "mcq_count": 10,
+          "kill_phrase_count": 0,
+          "missing_source_trace": 0,
+          "missing_mandatory_fields": 0,
+          "banned_pattern_count": 0,
+          "difficulty_counts": {
+            "1": 1,
+            "3": 3,
+            "4": 4,
+            "5": 2
+          },
+          "decode_status": "textbook_verified"
+        },
+        {
+          "key": "gs3_sci_class12_chemistry_ch03_chemical_kinetics",
+          "mcq_count": 10,
+          "kill_phrase_count": 0,
+          "missing_source_trace": 0,
+          "missing_mandatory_fields": 0,
+          "banned_pattern_count": 0,
+          "difficulty_counts": {
+            "1": 1,
+            "3": 3,
+            "4": 4,
+            "5": 2
+          },
+          "decode_status": "textbook_verified"
+        },
+        {
+          "key": "gs3_sci_class12_chemistry_ch04_the_d_and_f_block_elements",
+          "mcq_count": 10,
+          "kill_phrase_count": 0,
+          "missing_source_trace": 0,
+          "missing_mandatory_fields": 0,
+          "banned_pattern_count": 0,
+          "difficulty_counts": {
+            "1": 1,
+            "3": 3,
+            "4": 4,
+            "5": 2
+          },
+          "decode_status": "textbook_verified"
+        },
+        {
+          "key": "gs3_sci_class12_chemistry_ch05_coordination_compounds",
+          "mcq_count": 10,
+          "kill_phrase_count": 0,
+          "missing_source_trace": 0,
+          "missing_mandatory_fields": 0,
+          "banned_pattern_count": 0,
+          "difficulty_counts": {
+            "1": 1,
+            "3": 3,
+            "4": 4,
+            "5": 2
+          },
+          "decode_status": "textbook_verified"
+        },
+        {
+          "key": "gs3_sci_class12_physics_ch01_electric_charges_and_fields",
+          "mcq_count": 10,
+          "kill_phrase_count": 0,
+          "missing_source_trace": 0,
+          "missing_mandatory_fields": 0,
+          "banned_pattern_count": 0,
+          "difficulty_counts": {
+            "1": 1,
+            "3": 3,
+            "4": 4,
+            "5": 2
+          },
+          "decode_status": "textbook_verified"
+        },
+        {
+          "key": "gs3_sci_class12_physics_ch02_electrostatic_potential_and_capacitance",
+          "mcq_count": 10,
+          "kill_phrase_count": 0,
+          "missing_source_trace": 0,
+          "missing_mandatory_fields": 0,
+          "banned_pattern_count": 0,
+          "difficulty_counts": {
+            "1": 1,
+            "3": 3,
+            "4": 4,
+            "5": 2
+          },
+          "decode_status": "textbook_verified"
+        },
+        {
+          "key": "gs3_sci_class12_physics_ch03_current_electricity",
+          "mcq_count": 10,
+          "kill_phrase_count": 0,
+          "missing_source_trace": 0,
+          "missing_mandatory_fields": 0,
+          "banned_pattern_count": 0,
+          "difficulty_counts": {
+            "1": 1,
+            "3": 3,
+            "4": 4,
+            "5": 2
+          },
+          "decode_status": "textbook_verified"
+        },
+        {
+          "key": "gs3_sci_class12_physics_ch04_moving_charges_and_magnetism",
+          "mcq_count": 10,
+          "kill_phrase_count": 0,
+          "missing_source_trace": 0,
+          "missing_mandatory_fields": 0,
+          "banned_pattern_count": 0,
+          "difficulty_counts": {
+            "1": 1,
+            "3": 3,
+            "4": 4,
+            "5": 2
+          },
+          "decode_status": "textbook_verified"
+        },
+        {
+          "key": "gs3_sci_class12_physics_ch05_magnetism_and_matter",
+          "mcq_count": 10,
+          "kill_phrase_count": 0,
+          "missing_source_trace": 0,
+          "missing_mandatory_fields": 0,
+          "banned_pattern_count": 0,
+          "difficulty_counts": {
+            "1": 1,
+            "3": 3,
+            "4": 4,
+            "5": 2
+          },
+          "decode_status": "textbook_verified"
+        },
+        {
+          "key": "gs3_sci_class12_physics_ch06_electromagnetic_induction",
+          "mcq_count": 10,
+          "kill_phrase_count": 0,
+          "missing_source_trace": 0,
+          "missing_mandatory_fields": 0,
+          "banned_pattern_count": 0,
+          "difficulty_counts": {
+            "1": 1,
+            "3": 3,
+            "4": 4,
+            "5": 2
+          },
+          "decode_status": "textbook_verified"
+        },
+        {
+          "key": "gs3_sci_class12_physics_ch07_alternating_current",
+          "mcq_count": 10,
+          "kill_phrase_count": 0,
+          "missing_source_trace": 0,
+          "missing_mandatory_fields": 0,
+          "banned_pattern_count": 0,
+          "difficulty_counts": {
+            "1": 1,
+            "3": 3,
+            "4": 4,
+            "5": 2
+          },
+          "decode_status": "textbook_verified"
+        },
+        {
+          "key": "gs3_sci_class12_physics_ch08_electromagnetic_waves",
+          "mcq_count": 10,
+          "kill_phrase_count": 0,
+          "missing_source_trace": 0,
+          "missing_mandatory_fields": 0,
+          "banned_pattern_count": 0,
+          "difficulty_counts": {
+            "1": 1,
+            "3": 3,
+            "4": 4,
+            "5": 2
+          },
+          "decode_status": "textbook_verified"
+        },
+        {
+          "key": "gs3_sci_class7_science_ch01_nutrition_in_plants",
+          "mcq_count": 10,
+          "kill_phrase_count": 0,
+          "missing_source_trace": 0,
+          "missing_mandatory_fields": 0,
+          "banned_pattern_count": 0,
+          "difficulty_counts": {
+            "1": 1,
+            "3": 3,
+            "4": 4,
+            "5": 2
+          },
+          "decode_status": "textbook_verified"
+        },
+        {
+          "key": "gs3_sci_class7_science_ch02_nutrition_in_animals",
+          "mcq_count": 10,
+          "kill_phrase_count": 0,
+          "missing_source_trace": 0,
+          "missing_mandatory_fields": 0,
+          "banned_pattern_count": 0,
+          "difficulty_counts": {
+            "1": 1,
+            "3": 3,
+            "4": 4,
+            "5": 2
+          },
+          "decode_status": "textbook_verified"
+        },
+        {
+          "key": "gs3_sci_class7_science_ch03_fibre_to_fabric",
+          "mcq_count": 10,
+          "kill_phrase_count": 0,
+          "missing_source_trace": 0,
+          "missing_mandatory_fields": 0,
+          "banned_pattern_count": 0,
+          "difficulty_counts": {
+            "1": 1,
+            "3": 3,
+            "4": 4,
+            "5": 2
+          },
+          "decode_status": "textbook_verified"
+        },
+        {
+          "key": "gs3_sci_class7_science_ch04_heat",
+          "mcq_count": 10,
+          "kill_phrase_count": 0,
+          "missing_source_trace": 0,
+          "missing_mandatory_fields": 0,
+          "banned_pattern_count": 0,
+          "difficulty_counts": {
+            "1": 1,
+            "3": 3,
+            "4": 4,
+            "5": 2
+          },
+          "decode_status": "textbook_verified"
+        },
+        {
+          "key": "gs3_sci_class7_science_ch05_acids_bases_and_salts",
+          "mcq_count": 10,
+          "kill_phrase_count": 0,
+          "missing_source_trace": 0,
+          "missing_mandatory_fields": 0,
+          "banned_pattern_count": 0,
+          "difficulty_counts": {
+            "1": 1,
+            "3": 3,
+            "4": 4,
+            "5": 2
+          },
+          "decode_status": "textbook_verified"
+        },
+        {
+          "key": "gs3_sci_class7_science_ch06_physical_and_chemical_changes",
+          "mcq_count": 10,
+          "kill_phrase_count": 0,
+          "missing_source_trace": 0,
+          "missing_mandatory_fields": 0,
+          "banned_pattern_count": 0,
+          "difficulty_counts": {
+            "1": 1,
+            "3": 3,
+            "4": 4,
+            "5": 2
+          },
+          "decode_status": "textbook_verified"
+        },
+        {
+          "key": "gs3_sci_class7_science_ch07_weather_climate_and_adaptations_of_animals_to_climate",
+          "mcq_count": 10,
+          "kill_phrase_count": 0,
+          "missing_source_trace": 0,
+          "missing_mandatory_fields": 0,
+          "banned_pattern_count": 0,
+          "difficulty_counts": {
+            "1": 1,
+            "3": 3,
+            "4": 4,
+            "5": 2
+          },
+          "decode_status": "textbook_verified"
+        },
+        {
+          "key": "gs3_sci_class7_science_ch08_winds_storms_and_cyclones",
+          "mcq_count": 10,
+          "kill_phrase_count": 0,
+          "missing_source_trace": 0,
+          "missing_mandatory_fields": 0,
+          "banned_pattern_count": 0,
+          "difficulty_counts": {
+            "1": 1,
+            "3": 3,
+            "4": 4,
+            "5": 2
+          },
+          "decode_status": "textbook_verified"
+        },
+        {
+          "key": "gs3_sci_class7_science_ch09_soil",
+          "mcq_count": 10,
+          "kill_phrase_count": 0,
+          "missing_source_trace": 0,
+          "missing_mandatory_fields": 0,
+          "banned_pattern_count": 0,
+          "difficulty_counts": {
+            "1": 1,
+            "3": 3,
+            "4": 4,
+            "5": 2
+          },
+          "decode_status": "textbook_verified"
+        },
+        {
+          "key": "gs3_sci_class7_science_ch10_respiration_in_organisms",
+          "mcq_count": 10,
+          "kill_phrase_count": 0,
+          "missing_source_trace": 0,
+          "missing_mandatory_fields": 0,
+          "banned_pattern_count": 0,
+          "difficulty_counts": {
+            "1": 1,
+            "3": 3,
+            "4": 4,
+            "5": 2
+          },
+          "decode_status": "textbook_verified"
+        },
+        {
+          "key": "gs3_sci_class7_science_ch11_transportation_in_animals_and_plants",
+          "mcq_count": 10,
+          "kill_phrase_count": 0,
+          "missing_source_trace": 0,
+          "missing_mandatory_fields": 0,
+          "banned_pattern_count": 0,
+          "difficulty_counts": {
+            "1": 1,
+            "3": 3,
+            "4": 4,
+            "5": 2
+          },
+          "decode_status": "textbook_verified"
+        },
+        {
+          "key": "gs3_sci_class7_science_ch12_reproduction_in_plants",
+          "mcq_count": 10,
+          "kill_phrase_count": 0,
+          "missing_source_trace": 0,
+          "missing_mandatory_fields": 0,
+          "banned_pattern_count": 0,
+          "difficulty_counts": {
+            "1": 1,
+            "3": 3,
+            "4": 4,
+            "5": 2
+          },
+          "decode_status": "textbook_verified"
+        },
+        {
+          "key": "gs3_sci_class7_science_ch13_motion_and_time",
+          "mcq_count": 10,
+          "kill_phrase_count": 0,
+          "missing_source_trace": 0,
+          "missing_mandatory_fields": 0,
+          "banned_pattern_count": 0,
+          "difficulty_counts": {
+            "1": 1,
+            "3": 3,
+            "4": 4,
+            "5": 2
+          },
+          "decode_status": "textbook_verified"
+        },
+        {
+          "key": "gs3_sci_class8_science_ch01_crop_production_and_management",
+          "mcq_count": 10,
+          "kill_phrase_count": 0,
+          "missing_source_trace": 0,
+          "missing_mandatory_fields": 0,
+          "banned_pattern_count": 0,
+          "difficulty_counts": {
+            "1": 1,
+            "3": 3,
+            "4": 4,
+            "5": 2
+          },
+          "decode_status": "textbook_verified"
+        },
+        {
+          "key": "gs3_sci_class8_science_ch02_microorganisms_friend_and_foe",
+          "mcq_count": 10,
+          "kill_phrase_count": 0,
+          "missing_source_trace": 0,
+          "missing_mandatory_fields": 0,
+          "banned_pattern_count": 0,
+          "difficulty_counts": {
+            "1": 1,
+            "3": 3,
+            "4": 4,
+            "5": 2
+          },
+          "decode_status": "textbook_verified"
+        },
+        {
+          "key": "gs3_sci_class8_science_ch03_synthetic_fibres_and_plastics",
+          "mcq_count": 10,
+          "kill_phrase_count": 0,
+          "missing_source_trace": 0,
+          "missing_mandatory_fields": 0,
+          "banned_pattern_count": 0,
+          "difficulty_counts": {
+            "1": 1,
+            "3": 3,
+            "4": 4,
+            "5": 2
+          },
+          "decode_status": "textbook_verified"
+        },
+        {
+          "key": "gs3_sci_class8_science_ch04_materials_metals_and_non_metals",
+          "mcq_count": 10,
+          "kill_phrase_count": 0,
+          "missing_source_trace": 0,
+          "missing_mandatory_fields": 0,
+          "banned_pattern_count": 0,
+          "difficulty_counts": {
+            "1": 1,
+            "3": 3,
+            "4": 4,
+            "5": 2
+          },
+          "decode_status": "textbook_verified"
+        },
+        {
+          "key": "gs3_sci_class8_science_ch05_coal_and_petroleum",
+          "mcq_count": 10,
+          "kill_phrase_count": 0,
+          "missing_source_trace": 0,
+          "missing_mandatory_fields": 0,
+          "banned_pattern_count": 0,
+          "difficulty_counts": {
+            "1": 1,
+            "3": 3,
+            "4": 4,
+            "5": 2
+          },
+          "decode_status": "textbook_verified"
+        },
+        {
+          "key": "gs3_sci_class8_science_ch06_combustion_and_flame",
+          "mcq_count": 10,
+          "kill_phrase_count": 0,
+          "missing_source_trace": 0,
+          "missing_mandatory_fields": 0,
+          "banned_pattern_count": 0,
+          "difficulty_counts": {
+            "1": 1,
+            "3": 3,
+            "4": 4,
+            "5": 2
+          },
+          "decode_status": "textbook_verified"
+        },
+        {
+          "key": "gs3_sci_class8_science_ch07_conservation_of_plants_and_animals",
+          "mcq_count": 10,
+          "kill_phrase_count": 0,
+          "missing_source_trace": 0,
+          "missing_mandatory_fields": 0,
+          "banned_pattern_count": 0,
+          "difficulty_counts": {
+            "1": 1,
+            "3": 3,
+            "4": 4,
+            "5": 2
+          },
+          "decode_status": "textbook_verified"
+        },
+        {
+          "key": "gs3_sci_class8_science_ch08_cell_structure_and_functions",
+          "mcq_count": 10,
+          "kill_phrase_count": 0,
+          "missing_source_trace": 0,
+          "missing_mandatory_fields": 0,
+          "banned_pattern_count": 0,
+          "difficulty_counts": {
+            "1": 1,
+            "3": 3,
+            "4": 4,
+            "5": 2
+          },
+          "decode_status": "textbook_verified"
+        },
+        {
+          "key": "gs3_sci_class8_science_ch09_reproduction_in_animals",
+          "mcq_count": 10,
+          "kill_phrase_count": 0,
+          "missing_source_trace": 0,
+          "missing_mandatory_fields": 0,
+          "banned_pattern_count": 0,
+          "difficulty_counts": {
+            "1": 1,
+            "3": 3,
+            "4": 4,
+            "5": 2
+          },
+          "decode_status": "textbook_verified"
+        },
+        {
+          "key": "gs3_sci_class8_science_ch10_reaching_the_age_of_adolescence",
+          "mcq_count": 10,
+          "kill_phrase_count": 0,
+          "missing_source_trace": 0,
+          "missing_mandatory_fields": 0,
+          "banned_pattern_count": 0,
+          "difficulty_counts": {
+            "1": 1,
+            "3": 3,
+            "4": 4,
+            "5": 2
+          },
+          "decode_status": "textbook_verified"
+        },
+        {
+          "key": "gs3_sci_class8_science_ch11_force_and_pressure",
+          "mcq_count": 10,
+          "kill_phrase_count": 0,
+          "missing_source_trace": 0,
+          "missing_mandatory_fields": 0,
+          "banned_pattern_count": 0,
+          "difficulty_counts": {
+            "1": 1,
+            "3": 3,
+            "4": 4,
+            "5": 2
+          },
+          "decode_status": "textbook_verified"
+        },
+        {
+          "key": "gs3_sci_class8_science_ch12_friction",
+          "mcq_count": 10,
+          "kill_phrase_count": 0,
+          "missing_source_trace": 0,
+          "missing_mandatory_fields": 0,
+          "banned_pattern_count": 0,
+          "difficulty_counts": {
+            "1": 1,
+            "3": 3,
+            "4": 4,
+            "5": 2
+          },
+          "decode_status": "textbook_verified"
+        },
+        {
+          "key": "gs3_sci_class8_science_ch13_sound",
+          "mcq_count": 10,
+          "kill_phrase_count": 0,
+          "missing_source_trace": 0,
+          "missing_mandatory_fields": 0,
+          "banned_pattern_count": 0,
+          "difficulty_counts": {
+            "1": 1,
+            "3": 3,
+            "4": 4,
+            "5": 2
+          },
+          "decode_status": "textbook_verified"
+        },
+        {
+          "key": "gs3_sci_class9_science_ch01_matter_in_our_surroundings",
+          "mcq_count": 10,
+          "kill_phrase_count": 0,
+          "missing_source_trace": 0,
+          "missing_mandatory_fields": 0,
+          "banned_pattern_count": 0,
+          "difficulty_counts": {
+            "1": 1,
+            "3": 3,
+            "4": 4,
+            "5": 2
+          },
+          "decode_status": "textbook_verified"
+        },
+        {
+          "key": "gs3_sci_class9_science_ch02_is_matter_around_us_pure",
+          "mcq_count": 10,
+          "kill_phrase_count": 0,
+          "missing_source_trace": 0,
+          "missing_mandatory_fields": 0,
+          "banned_pattern_count": 0,
+          "difficulty_counts": {
+            "1": 1,
+            "3": 3,
+            "4": 4,
+            "5": 2
+          },
+          "decode_status": "textbook_verified"
+        },
+        {
+          "key": "gs3_sci_class9_science_ch03_atoms_and_molecules",
+          "mcq_count": 10,
+          "kill_phrase_count": 0,
+          "missing_source_trace": 0,
+          "missing_mandatory_fields": 0,
+          "banned_pattern_count": 0,
+          "difficulty_counts": {
+            "1": 1,
+            "3": 3,
+            "4": 4,
+            "5": 2
+          },
+          "decode_status": "textbook_verified"
+        },
+        {
+          "key": "gs3_sci_class9_science_ch04_structure_of_the_atom",
+          "mcq_count": 10,
+          "kill_phrase_count": 0,
+          "missing_source_trace": 0,
+          "missing_mandatory_fields": 0,
+          "banned_pattern_count": 0,
+          "difficulty_counts": {
+            "1": 1,
+            "3": 3,
+            "4": 4,
+            "5": 2
+          },
+          "decode_status": "textbook_verified"
+        },
+        {
+          "key": "gs3_sci_class9_science_ch05_the_fundamental_unit_of_life",
+          "mcq_count": 10,
+          "kill_phrase_count": 0,
+          "missing_source_trace": 0,
+          "missing_mandatory_fields": 0,
+          "banned_pattern_count": 0,
+          "difficulty_counts": {
+            "1": 1,
+            "3": 3,
+            "4": 4,
+            "5": 2
+          },
+          "decode_status": "textbook_verified"
+        },
+        {
+          "key": "gs3_sci_class9_science_ch06_tissues",
+          "mcq_count": 10,
+          "kill_phrase_count": 0,
+          "missing_source_trace": 0,
+          "missing_mandatory_fields": 0,
+          "banned_pattern_count": 0,
+          "difficulty_counts": {
+            "1": 1,
+            "3": 3,
+            "4": 4,
+            "5": 2
+          },
+          "decode_status": "textbook_verified"
+        },
+        {
+          "key": "gs3_sci_class9_science_ch07_diversity_in_living_organisms",
+          "mcq_count": 10,
+          "kill_phrase_count": 0,
+          "missing_source_trace": 0,
+          "missing_mandatory_fields": 0,
+          "banned_pattern_count": 0,
+          "difficulty_counts": {
+            "1": 1,
+            "3": 3,
+            "4": 4,
+            "5": 2
+          },
+          "decode_status": "textbook_verified"
+        },
+        {
+          "key": "gs3_sci_class9_science_ch08_motion",
+          "mcq_count": 10,
+          "kill_phrase_count": 0,
+          "missing_source_trace": 0,
+          "missing_mandatory_fields": 0,
+          "banned_pattern_count": 0,
+          "difficulty_counts": {
+            "1": 1,
+            "3": 3,
+            "4": 4,
+            "5": 2
+          },
+          "decode_status": "textbook_verified"
+        },
+        {
+          "key": "gs3_sci_class9_science_ch09_force_and_laws_of_motion",
+          "mcq_count": 10,
+          "kill_phrase_count": 0,
+          "missing_source_trace": 0,
+          "missing_mandatory_fields": 0,
+          "banned_pattern_count": 0,
+          "difficulty_counts": {
+            "1": 1,
+            "3": 3,
+            "4": 4,
+            "5": 2
+          },
+          "decode_status": "textbook_verified"
+        },
+        {
+          "key": "gs3_sci_class9_science_ch10_gravitation",
+          "mcq_count": 10,
+          "kill_phrase_count": 0,
+          "missing_source_trace": 0,
+          "missing_mandatory_fields": 0,
+          "banned_pattern_count": 0,
+          "difficulty_counts": {
+            "1": 1,
+            "3": 3,
+            "4": 4,
+            "5": 2
+          },
+          "decode_status": "textbook_verified"
+        },
+        {
+          "key": "gs3_sci_class9_science_ch11_work_and_energy",
+          "mcq_count": 10,
+          "kill_phrase_count": 0,
+          "missing_source_trace": 0,
+          "missing_mandatory_fields": 0,
+          "banned_pattern_count": 0,
+          "difficulty_counts": {
+            "1": 1,
+            "3": 3,
+            "4": 4,
+            "5": 2
+          },
+          "decode_status": "textbook_verified"
+        },
+        {
+          "key": "gs3_sci_class9_science_ch12_sound",
+          "mcq_count": 10,
+          "kill_phrase_count": 0,
+          "missing_source_trace": 0,
+          "missing_mandatory_fields": 0,
+          "banned_pattern_count": 0,
+          "difficulty_counts": {
+            "1": 1,
+            "3": 3,
+            "4": 4,
+            "5": 2
+          },
+          "decode_status": "textbook_verified"
+        },
+        {
+          "key": "gs3_sci_class9_science_ch13_why_do_we_fall_ill",
+          "mcq_count": 10,
+          "kill_phrase_count": 0,
+          "missing_source_trace": 0,
+          "missing_mandatory_fields": 0,
+          "banned_pattern_count": 0,
+          "difficulty_counts": {
+            "1": 1,
+            "3": 3,
+            "4": 4,
+            "5": 2
+          },
+          "decode_status": "textbook_verified"
+        }
+      ],
+      "errors": []
     }
   },
   "summary": {

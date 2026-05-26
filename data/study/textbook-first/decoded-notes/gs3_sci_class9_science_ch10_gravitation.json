@@ -120,7 +120,7 @@
       "source_trace": "NCERT Class 9 Science Ch10 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
-      "difficulty_level": 3,
+      "difficulty_level": 1,
       "concepts_tested": [
         "10.1 Production of Sound"
       ]
@@ -134,7 +134,7 @@
         "10.1: Taal a musical instrument Grade 7 Curiosity Chapter 4 Think It Over y Two astronauts are repairing the arm of a space station..."
       ],
       "correct_answer": 0,
-      "pattern": "statement",
+      "pattern": "match",
       "source_trace": "NCERT Class 9 Science Ch10 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
@@ -188,13 +188,103 @@
         "Likewise, when you blow through a bansuri (flute), vibration of the air inside the hollow pipe produces sound."
       ],
       "correct_answer": 0,
+      "pattern": "match",
+      "source_trace": "NCERT Class 9 Science Ch10 pg 1",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "10.2.1 Sound needs a medium to propagate"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Gravitation, which statement is supported by the source text about 188 Exploration|Grade 9?",
+      "options": [
+        "You have learnt earlier that some of these methods are used in a variety of musical instruments.",
+        "Sound can be produced by vibrating strings membranes, air columns, and many other vibrating objects.",
+        "In most musical instruments, more than one vibrating part is involved in producing sound.",
+        "The object that produces sound is called the ‘source’ of the sound."
+      ],
+      "correct_answer": 0,
+      "pattern": "not_type",
+      "source_trace": "NCERT Class 9 Science Ch10 pg 1",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "188 Exploration|Grade 9"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Gravitation, which statement is supported by the source text about 10.3 Sound Waves?",
+      "options": [
+        "In humans and some other animals, sound is produced by the vibration of vocal cords, which are tightly stretched muscular flaps located inside the...",
+        "The tongue, lips, mouth and nasal cavity in humans help in converting sound into speech or music.",
+        "Some animals produce sound by striking or rubbing certain body parts.",
+        "For example, grasshoppers and crickets rub their wings or legs to produce sound."
+      ],
+      "correct_answer": 0,
       "pattern": "statement",
       "source_trace": "NCERT Class 9 Science Ch10 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
-      "difficulty_level": 3,
+      "difficulty_level": 4,
       "concepts_tested": [
-        "10.2.1 Sound needs a medium to propagate"
+        "10.3 Sound Waves"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Gravitation, which statement is supported by the source text about C C R R?",
+      "options": [
+        "10.3: Vocal cords in humans Vocal cords Larynx Vocal cords open Vocal cords closed Fig.",
+        "10.2: Vibrating rubber band produces sound Grade 4 Bansuri Chapter 13",
+        "186 Exploration|Grade 9 10.1.1 Tuning fork An instrument that is often used for experiments with sound is a tuning fork.",
+        "Strike one of the prongs of the tuning fork gently against the rubber pad (Fig."
+      ],
+      "correct_answer": 0,
+      "pattern": "match",
+      "source_trace": "NCERT Class 9 Science Ch10 pg 1",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "C C R R"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Gravitation, which statement is supported by the source text about 190 Exploration|Grade 9?",
+      "options": [
+        "(Take care not to strike the tuning fork against a hard surface).",
+        "Now, gently touch a water surface with one of the vibrating prongs of the tuning fork.",
+        "Repeat step 3 a few times while bringing the prongs of the tuning fork near your ear in different orientations.",
+        "When you bring a vibrating tuning fork near your ear you hear the sound that is produced."
+      ],
+      "correct_answer": 0,
+      "pattern": "not_type",
+      "source_trace": "NCERT Class 9 Science Ch10 pg 2",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 5,
+      "concepts_tested": [
+        "190 Exploration|Grade 9"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Gravitation, which statement is supported by the source text about 10.4 Energy of Sound Waves?",
+      "options": [
+        "When the prong touches the surface of water, waves form on the surface of water, indicating that the prongs of the tuning fork are...",
+        "These observations support the idea that sound is produced by vibrating objects.",
+        "Make a list of different types of musical instruments and identify their vibrating parts which produce sound.",
+        "Pause and Ponder What if your name were a tune instead of a word?"
+      ],
+      "correct_answer": 0,
+      "pattern": "statement",
+      "source_trace": "NCERT Class 9 Science Ch10 pg 2",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 5,
+      "concepts_tested": [
+        "10.4 Energy of Sound Waves"
       ]
     }
   ],
@@ -204,7 +294,7 @@
     "generation_method": "local_source_only_extractive_decode"
   },
   "content_model": "clearupsc_textbook_decoded_from_source_v1",
-  "decode_status": "textbook_decoded",
+  "decode_status": "textbook_verified",
   "source": {
     "book": "NCERT Class 9 Science",
     "chapter": 10,
@@ -216,5 +306,5 @@
   "source_trace": "NCERT Class 9 Science | Chapter 10: Gravitation | https://ncert.nic.in/textbook/pdf/iesc110.pdf | sha256:0ac97e4f2c0a983147f3d5a4e34df5f776f26de88fa8f4ec4e4eda2272e5f49e",
   "raw_text_path": "data/study/textbook-first/raw-text/gs3_sci_class9_science_ch10_gravitation.txt",
   "generated_by": "local_source_only_extractive_decode",
-  "generated_at": "2026-05-26T19:54:42.232Z"
+  "generated_at": "2026-05-26T20:27:50.956Z"
 }

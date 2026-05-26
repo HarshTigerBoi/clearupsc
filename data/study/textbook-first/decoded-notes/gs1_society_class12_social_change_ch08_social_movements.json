@@ -136,7 +136,7 @@
       "source_trace": "NCERT Class 12 Social Change and Development in India Ch8 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
-      "difficulty_level": 3,
+      "difficulty_level": 1,
       "concepts_tested": [
         "8.1 Features oF a Social Movement"
       ]
@@ -150,7 +150,7 @@
         "You are familiar also with the many nationalist movements around the world in Asia, Africa and Americas that put an end to colonial rule."
       ],
       "correct_answer": 0,
-      "pattern": "statement",
+      "pattern": "match",
       "source_trace": "NCERT Class 12 Social Change and Development in India Ch8 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
@@ -204,13 +204,103 @@
         "only change societies; they also inspire other social movements."
       ],
       "correct_answer": 0,
-      "pattern": "statement",
+      "pattern": "match",
       "source_trace": "NCERT Class 12 Social Change and Development in India Ch8 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
-      "difficulty_level": 3,
+      "difficulty_level": 4,
       "concepts_tested": [
         "Movements"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Social Movements, which statement is supported by the source text about That the?",
+      "options": [
+        "You saw in Chapter 3 how the I n d i a n n a t i o n a l m o v...",
+        "And how in turn the Indian Constitution played a major role in bringing about social change.",
+        "8.1 Features oF a Social Movement A social movement requires sustained collective action over time.",
+        "Such action is often directed against the state and takes the form of demanding changes in state policy or practice."
+      ],
+      "correct_answer": 0,
+      "pattern": "not_type",
+      "source_trace": "NCERT Class 12 Social Change and Development in India Ch8 pg 2",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "That the"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Social Movements, which statement is supported by the source text about Africa and Americas?",
+      "options": [
+        "Spontaneous, disorganised protest cannot be called a social movement either.",
+        "Collective action must be marked by some degree of organisation.",
+        "This organisation may include a leadership and a structure that defines how members relate to each other, make decisions and carry them out.",
+        "Those participating in a social movement also have shared objectives and ideologies."
+      ],
+      "correct_answer": 0,
+      "pattern": "statement",
+      "source_trace": "NCERT Class 12 Social Change and Development in India Ch8 pg 2",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "Africa and Americas"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Social Movements, which statement is supported by the source text about United States in the?",
+      "options": [
+        "A social movement has a general orientation or way of approaching to bring about (or to prevent) change.",
+        "They may change over the course of a social movement’s life.",
+        "Social movements often arise with the aim of bringing about changes on a public issue, such as ensuring the right of the tribal population...",
+        "Think of other issues that social movements have taken up in the past and present."
+      ],
+      "correct_answer": 0,
+      "pattern": "match",
+      "source_trace": "NCERT Class 12 Social Change and Development in India Ch8 pg 2",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "United States in the"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Social Movements, which statement is supported by the source text about South Africa?",
+      "options": [
+        "While social movements seek to bring in social change, counter movements sometimes arise in defence of status quo.",
+        "When Raja Rammohun Roy campaigned against sati and formed the Brahmo Samaj, defenders of sati formed Dharma Sabha and petitioned the British not to...",
+        "When reformers demanded education for girls, many protested that this would be disastrous for society.",
+        "When reformers campaigned for widow remarriage, they were socially boycotted."
+      ],
+      "correct_answer": 0,
+      "pattern": "not_type",
+      "source_trace": "NCERT Class 12 Social Change and Development in India Ch8 pg 2",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 5,
+      "concepts_tested": [
+        "South Africa"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Social Movements, which statement is supported by the source text about The Right?",
+      "options": [
+        "When the so called ‘lower caste’ children enrolled in schools, some so called ‘upper caste’ children were withdrawn from the schools by their families.",
+        "More recently the social movements of erstwhile excluded groups, like the Dalits, have often invoked retaliatory action.",
+        "Likewise proposals for extending reservation in educational institutions have led to counter movements opposing them.",
+        "Since it goes against both entrenched interests and values, there is bound to be opposition and resistance."
+      ],
+      "correct_answer": 0,
+      "pattern": "statement",
+      "source_trace": "NCERT Class 12 Social Change and Development in India Ch8 pg 2",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 5,
+      "concepts_tested": [
+        "The Right"
       ]
     }
   ],
@@ -220,7 +310,7 @@
     "generation_method": "local_source_only_extractive_decode"
   },
   "content_model": "clearupsc_textbook_decoded_from_source_v1",
-  "decode_status": "textbook_decoded",
+  "decode_status": "textbook_verified",
   "source": {
     "book": "NCERT Class 12 Social Change and Development in India",
     "chapter": 8,
@@ -232,5 +322,5 @@
   "source_trace": "NCERT Class 12 Social Change and Development in India | Chapter 8: Social Movements | https://ncert.nic.in/textbook/pdf/lesy208.pdf | sha256:4308832ded9cfefde27934d05b1920f7fd7d4e3944833b598cb89bd3add43154",
   "raw_text_path": "data/study/textbook-first/raw-text/gs1_society_class12_social_change_ch08_social_movements.txt",
   "generated_by": "local_source_only_extractive_decode",
-  "generated_at": "2026-05-26T19:54:00.392Z"
+  "generated_at": "2026-05-26T20:27:07.237Z"
 }

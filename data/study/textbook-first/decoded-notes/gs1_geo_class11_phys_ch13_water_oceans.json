@@ -115,7 +115,7 @@
       "source_trace": "NCERT Class 11 Phys Geo Ch13 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
-      "difficulty_level": 3,
+      "difficulty_level": 1,
       "concepts_tested": [
         "MOVEMENTS OF OCEAN WATER"
       ]
@@ -129,7 +129,7 @@
         "The upwelling of cold water from subsurface and the sinking of surface water are also forms of vertical motion of ocean water."
       ],
       "correct_answer": 0,
-      "pattern": "statement",
+      "pattern": "match",
       "source_trace": "NCERT Class 11 Phys Geo Ch13 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
@@ -183,13 +183,103 @@
         "Slow and steady waves originate from far away places, possibly from another hemisphere."
       ],
       "correct_answer": 0,
+      "pattern": "match",
+      "source_trace": "NCERT Class 11 Phys Geo Ch13 pg 1",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "MOVEMENTS OF OCEAN WATER 111"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Water Oceans, which statement is supported by the source text about OCEAN CURRENTS?",
+      "options": [
+        "The maximum wave height is determined by the strength of the wind, i.e. how long it blows and the area over which it blows...",
+        "Waves travel because wind pushes the water body in its course while gravity pulls the crests of the waves downward.",
+        "The falling water pushes the former troughs upward, and the Figure13.1 : Motion of waves and water molecules C H A P T E...",
+        "MOVEMENTS OF OCEAN WATER 109 wave moves to a new position (Figure 13.1)."
+      ],
+      "correct_answer": 0,
+      "pattern": "not_type",
+      "source_trace": "NCERT Class 11 Phys Geo Ch13 pg 1",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "OCEAN CURRENTS"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Water Oceans, which statement is supported by the source text about MOVEMENTS OF OCEAN WATER 113?",
+      "options": [
+        "The actual motion of the water beneath the waves is circular.",
+        "It indicates that things are carried up and forward as the wave approaches, and down and back as it passes.",
+        "Characteristics of Waves Wave crest and trough : The highest and lowest points of a wave are called the crest and trough respectively.",
+        "Wave height : It is the vertical distance from the bottom of a trough to the top of a crest of a wave."
+      ],
+      "correct_answer": 0,
       "pattern": "statement",
       "source_trace": "NCERT Class 11 Phys Geo Ch13 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
-      "difficulty_level": 3,
+      "difficulty_level": 4,
       "concepts_tested": [
-        "MOVEMENTS OF OCEAN WATER 111"
+        "MOVEMENTS OF OCEAN WATER 113"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Water Oceans, which statement is supported by the source text about Water Oceans?",
+      "options": [
+        "Wave period : It is merely the time interval between two successive wave crests or troughs as they pass a fixed point.",
+        "Wavelength : It is the horizontal distance between two successive crests.",
+        "Wave speed : It is the rate at which the wave moves through the water, and is measured in knots.",
+        "Wave frequency : It is the number of waves passing a given point during a one- second time interval."
+      ],
+      "correct_answer": 0,
+      "pattern": "match",
+      "source_trace": "NCERT Class 11 Phys Geo Ch13 pg 1",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "Water Oceans"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Water Oceans, which statement is supported by the source text about Water?",
+      "options": [
+        "TIDES The periodical rise and fall of the sea level, once or twice a day, mainly due to the attraction of the sun and...",
+        "Movement of water caused by meteorological effects (winds and atmospheric pressure changes) are called surges.",
+        "The study of tides is very complex, spatially and temporally, as it has great variations in frequency, magnitude and height.",
+        "The moon’s gravitational pull to a great extent and to a lesser extent the sun’s gravitational pull, are the major causes for the occurrence..."
+      ],
+      "correct_answer": 0,
+      "pattern": "not_type",
+      "source_trace": "NCERT Class 11 Phys Geo Ch13 pg 1",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 5,
+      "concepts_tested": [
+        "Water"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Water Oceans, which statement is supported by the source text about Oceans?",
+      "options": [
+        "Another factor is centrifugal force, which is the force that acts to counter balance the gravity.",
+        "Together, the gravitational pull and the centrifugal force are responsible for creating the two major tidal bulges on the earth.",
+        "On the side of the earth facing the moon, a tidal bulge occurs while on the opposite side though the gravitational attraction of the...",
+        "The ‘tide-generating’ force is the difference between these two forces; i.e. the gravitational attraction of the moon and the centrifugal force."
+      ],
+      "correct_answer": 0,
+      "pattern": "statement",
+      "source_trace": "NCERT Class 11 Phys Geo Ch13 pg 1",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 5,
+      "concepts_tested": [
+        "Oceans"
       ]
     }
   ],
@@ -199,7 +289,7 @@
     "generation_method": "local_source_only_extractive_decode"
   },
   "content_model": "clearupsc_textbook_decoded_from_source_v1",
-  "decode_status": "textbook_decoded",
+  "decode_status": "textbook_verified",
   "source": {
     "book": "NCERT Class 11 Fundamentals of Physical Geography",
     "chapter": 13,
@@ -211,5 +301,5 @@
   "source_trace": "NCERT Class 11 Fundamentals of Physical Geography | Chapter 13: Water Oceans | https://ncert.nic.in/textbook/pdf/kegy213.pdf | sha256:218cff4f32fd25d437dd1457e6c62a94bcd7395087888a9a7ff4a9cb7727c52e",
   "raw_text_path": "data/study/textbook-first/raw-text/gs1_geo_class11_phys_ch13_water_oceans.txt",
   "generated_by": "local_source_only_extractive_decode",
-  "generated_at": "2026-05-26T19:53:31.381Z"
+  "generated_at": "2026-05-26T20:26:37.111Z"
 }

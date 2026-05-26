@@ -128,7 +128,7 @@
       "source_trace": "NCERT Class 12 Themes in Indian History II Ch2 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
-      "difficulty_level": 3,
+      "difficulty_level": 1,
       "concepts_tested": [
         "THEMES IN INDIAN HISTORY – PART II 140"
       ]
@@ -142,7 +142,7 @@
         "These may not be literally accurate, but allow a glimpse into the ways in which devotees perceived the lives of these path- breaking women..."
       ],
       "correct_answer": 0,
-      "pattern": "statement",
+      "pattern": "match",
       "source_trace": "NCERT Class 12 Themes in Indian History II Ch2 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
@@ -196,13 +196,103 @@
         "At one level, this indicates the continued and even extended worship of the major deities – Vishnu, Shiva and the goddess – each of..."
       ],
       "correct_answer": 0,
+      "pattern": "match",
+      "source_trace": "NCERT Class 12 Themes in Indian History II Ch2 pg 1",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "THEMES IN INDIAN HISTORY – PART II 142"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Bhakti Sufi Traditions, which statement is supported by the source text about 1.2 Difference and conflict?",
+      "options": [
+        "1.1 The integration of cults Historians who have tried to understand these developments suggest that there were at least two processes at work.",
+        "This is exemplified by the composition, compilation and preservation of Puranic texts in simple Sanskrit verse, explicitly meant to be accessible to women and...",
+        "At the same time, there was a second process at work – that of the Brahmanas accepting and reworking the beliefs and practices of...",
+        "In fact, many beliefs and practices were shaped through a continuous dialogue between what sociologists have described as “great” Sanskritic Puranic traditions and “little”..."
+      ],
+      "correct_answer": 0,
+      "pattern": "not_type",
+      "source_trace": "NCERT Class 12 Themes in Indian History II Ch2 pg 1",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "1.2 Difference and conflict"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Bhakti Sufi Traditions, which statement is supported by the source text about 2.1 The Alvars and Nayanars of Tamil Nadu?",
+      "options": [
+        "One of the most striking examples of this process is evident at Puri, Orissa, where the principal deity was identified, by the twelfth century,...",
+        "6.2 Jagannatha (extreme right) with his sister Subhadra (centre) and his brother Balarama (left) BHAKTI-SUFI TRADITIONS",
+        "THEMES IN INDIAN HISTORY – PART II 142 If you compare Fig.",
+        "4.26 (Chapter 4) you will notice that the deity is represented in a very different way."
+      ],
+      "correct_answer": 0,
       "pattern": "statement",
       "source_trace": "NCERT Class 12 Themes in Indian History II Ch2 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
-      "difficulty_level": 3,
+      "difficulty_level": 4,
       "concepts_tested": [
-        "THEMES IN INDIAN HISTORY – PART II 142"
+        "2.1 The Alvars and Nayanars of Tamil Nadu"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Bhakti Sufi Traditions, which statement is supported by the source text about THEMES IN INDIAN HISTORY – PART II 144?",
+      "options": [
+        "In this instance, a local deity, whose image was and continues to be made of wood by local tribal specialists, was recognised as a...",
+        "At the same time, Vishnu was visualised in a way that was very different from that in other parts of the country.",
+        "Such instances of integration are evident amongst goddess cults as well.",
+        "Worship of the goddess, often simply in the form of a stone smeared with ochre, was evidently widespread."
+      ],
+      "correct_answer": 0,
+      "pattern": "match",
+      "source_trace": "NCERT Class 12 Themes in Indian History II Ch2 pg 2",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "THEMES IN INDIAN HISTORY – PART II 144"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Bhakti Sufi Traditions, which statement is supported by the source text about 2.2 Attitudes towards caste?",
+      "options": [
+        "These local deities were often incorporated within the Puranic framework by providing them with an identity as a wife of the principal male deities...",
+        "1.2 Difference and conflict Often associated with the goddess were forms of worship that were classified as Tantric.",
+        "Tantric practices were widespread in several parts of the subcontinent – they were open to women and men, and practitioners often ignored differences of...",
+        "Many of these ideas influenced Shaivism as well as Buddhism, especially in the eastern, northern and southern parts of the subcontinent."
+      ],
+      "correct_answer": 0,
+      "pattern": "not_type",
+      "source_trace": "NCERT Class 12 Themes in Indian History II Ch2 pg 2",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 5,
+      "concepts_tested": [
+        "2.2 Attitudes towards caste"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Bhakti Sufi Traditions, which statement is supported by the source text about 2.3 Women devotees?",
+      "options": [
+        "All of these somewhat divergent and even disparate beliefs and practices would come to be classified as Hindu over the course of the next...",
+        "The divergence is perhaps most stark if we compare Vedic and Puranic traditions.",
+        "The principal deities of the Vedic pantheon, Agni, Indra and Soma, become marginal figures, rarely visible in textual or visual representations.",
+        "And while we can catch a glimpse of Vishnu, Shiva and the goddess in Vedic mantras, these have little in common with the elaborate..."
+      ],
+      "correct_answer": 0,
+      "pattern": "statement",
+      "source_trace": "NCERT Class 12 Themes in Indian History II Ch2 pg 2",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 5,
+      "concepts_tested": [
+        "2.3 Women devotees"
       ]
     }
   ],
@@ -212,7 +302,7 @@
     "generation_method": "local_source_only_extractive_decode"
   },
   "content_model": "clearupsc_textbook_decoded_from_source_v1",
-  "decode_status": "textbook_decoded",
+  "decode_status": "textbook_verified",
   "source": {
     "book": "NCERT Class 12 Themes in Indian History II",
     "chapter": 2,
@@ -224,5 +314,5 @@
   "source_trace": "NCERT Class 12 Themes in Indian History II | Chapter 2: Bhakti Sufi Traditions | https://ncert.nic.in/textbook/pdf/lehs202.pdf | sha256:40306b8534e4322837150a1fdd33ca6fbcc2b63a7abf616c0d4d73985356dfd5",
   "raw_text_path": "data/study/textbook-first/raw-text/gs1_hist_class12_indian_history_ii_ch02_bhakti_sufi_traditions.txt",
   "generated_by": "local_source_only_extractive_decode",
-  "generated_at": "2026-05-26T19:53:56.182Z"
+  "generated_at": "2026-05-26T20:27:02.785Z"
 }

@@ -136,7 +136,7 @@
       "source_trace": "NCERT Class 9 Science Ch6 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
-      "difficulty_level": 3,
+      "difficulty_level": 1,
       "concepts_tested": [
         "6.1 The Concept of Force"
       ]
@@ -150,7 +150,7 @@
         "6.3: (a) Pushing a box kept on table or floor Force by hand Force of friction Fig."
       ],
       "correct_answer": 0,
-      "pattern": "statement",
+      "pattern": "match",
       "source_trace": "NCERT Class 9 Science Ch6 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
@@ -204,13 +204,103 @@
         "Scientists, however, can measure forces far smaller than this, down to yoctonewtons (10–24 N) in specialised experiments (as of 2026)."
       ],
       "correct_answer": 0,
+      "pattern": "match",
+      "source_trace": "NCERT Class 9 Science Ch6 pg 1",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "6.3 The Force of Friction: Often"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Tissues, which statement is supported by the source text about 98 Exploration|Grade 9?",
+      "options": [
+        "Threads of Curiosity 6.2 Balanced and Unbalanced Forces In real life, situations seldom exist where only one force acts on an object.",
+        "Usually, there is more than one force acting on an object.",
+        "For example, when you are pushing a box placed on a surface then, apart from the force with which you are pushing it, the...",
+        "Two forces are acting upon it — gravitational force by the Earth acting downwards and buoyant force applied by the liquid acting upwards."
+      ],
+      "correct_answer": 0,
+      "pattern": "not_type",
+      "source_trace": "NCERT Class 9 Science Ch6 pg 1",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "98 Exploration|Grade 9"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Tissues, which statement is supported by the source text about A A B B?",
+      "options": [
+        "In such cases, what is the effect of forces when more than one force is acting on an object at rest or in motion?",
+        "Have you ever played a game of tug of war where two teams pull at a rope in opposite directions?",
+        "If both the teams pull the rope with equal Grade 8 Curiosity Chapter 5 Fig.",
+        "6.3: (b) A ball floating on water Buoyant force Grade 6 Curiosity Chapter 4 Grade 8 Curiosity Chapter 5 Gravitational force"
+      ],
+      "correct_answer": 0,
       "pattern": "statement",
       "source_trace": "NCERT Class 9 Science Ch6 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
-      "difficulty_level": 3,
+      "difficulty_level": 4,
       "concepts_tested": [
-        "6.3 The Force of Friction: Often"
+        "A A B B"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Tissues, which statement is supported by the source text about 100 Exploration|Grade 9?",
+      "options": [
+        "96 Exploration|Grade 9 force, the rope does not move (Fig.",
+        "Such two forces, which are equal in magnitude but opposite in direction are called balanced forces.",
+        "However, if one team pulls harder, i.e., it applies a force of larger magnitude, the forces are no longer balanced and the rope moves...",
+        "The rope does not move if the forces applied on it are balanced but moves if the forces are unbalanced."
+      ],
+      "correct_answer": 0,
+      "pattern": "match",
+      "source_trace": "NCERT Class 9 Science Ch6 pg 2",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "100 Exploration|Grade 9"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Tissues, which statement is supported by the source text about 6.4 Newton’s First Law of Motion?",
+      "options": [
+        "If the forces applied on an object are not balanced, a non-zero net force acts on the object.",
+        "When two forces are opposite in direction but unequal in magnitude (Fig.",
+        "6.4b), the magnitude of net force is equal to the difference between the magnitudes of two forces and the direction is along the force...",
+        "Now, think of a situation where two people are applying forces in the same direction on a stalled car to make it move (Fig."
+      ],
+      "correct_answer": 0,
+      "pattern": "not_type",
+      "source_trace": "NCERT Class 9 Science Ch6 pg 2",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 5,
+      "concepts_tested": [
+        "6.4 Newton’s First Law of Motion"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Tissues, which statement is supported by the source text about 102 Exploration|Grade 9?",
+      "options": [
+        "In this case, the magnitude of the net force applied by them on the car is the sum of the magnitudes of two forces.",
+        "The direction of the net force is in the same direction as the two individual forces.",
+        "Example 6.1: Two forces of 10 N and 6 N are acting on a block lying on the table as shown in Fig.",
+        "What is the magnitude and the direction of the net force acting on the block in each case?"
+      ],
+      "correct_answer": 0,
+      "pattern": "statement",
+      "source_trace": "NCERT Class 9 Science Ch6 pg 2",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 5,
+      "concepts_tested": [
+        "102 Exploration|Grade 9"
       ]
     }
   ],
@@ -220,7 +310,7 @@
     "generation_method": "local_source_only_extractive_decode"
   },
   "content_model": "clearupsc_textbook_decoded_from_source_v1",
-  "decode_status": "textbook_decoded",
+  "decode_status": "textbook_verified",
   "source": {
     "book": "NCERT Class 9 Science",
     "chapter": 6,
@@ -232,5 +322,5 @@
   "source_trace": "NCERT Class 9 Science | Chapter 6: Tissues | https://ncert.nic.in/textbook/pdf/iesc106.pdf | sha256:29b329c7508ffa12ef5114ebe0c9f5602414981aacb7075de37a7869c12351b9",
   "raw_text_path": "data/study/textbook-first/raw-text/gs3_sci_class9_science_ch06_tissues.txt",
   "generated_by": "local_source_only_extractive_decode",
-  "generated_at": "2026-05-26T19:54:41.276Z"
+  "generated_at": "2026-05-26T20:27:49.993Z"
 }

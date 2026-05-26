@@ -136,7 +136,7 @@
       "source_trace": "NCERT Class 12 India People and Economy Ch6 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
-      "difficulty_level": 3,
+      "difficulty_level": 1,
       "concepts_tested": [
         "PLANNING AND"
       ]
@@ -150,7 +150,7 @@
         "Though it is a very broad term, in this chapter, it has been used with reference to the process of economic development."
       ],
       "correct_answer": 0,
-      "pattern": "statement",
+      "pattern": "match",
       "source_trace": "NCERT Class 12 India People and Economy Ch6 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
@@ -204,13 +204,103 @@
         "Since growing population pressure is forcing the society to utilise the marginal lands for agriculture, and, thereby causing ecological degradation, there is a need..."
       ],
       "correct_answer": 0,
+      "pattern": "match",
+      "source_trace": "NCERT Class 12 India People and Economy Ch6 pg 1",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "68 India : People and Economy"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Water Resources, which statement is supported by the source text about 21 November 1975. Bharmaur is inhabited by?",
+      "options": [
+        "The other strategies of development of these areas include adoption of integrated watershed development approach at the micro-level.",
+        "The restoration of ecological balance between water, soil, plants, and human and animal population should be a basic consideration in the strategy of development...",
+        "The Planning Commission of India (1967) identified 67 districts (entire or partly) of the country prone to drought.",
+        "The Irrigation Commission (1972) introduced the criterion of 30 per cent irrigated area and demarcated the drought-prone areas."
+      ],
+      "correct_answer": 0,
+      "pattern": "not_type",
+      "source_trace": "NCERT Class 12 India People and Economy Ch6 pg 1",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "21 November 1975. Bharmaur is inhabited by"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Water Resources, which statement is supported by the source text about 70 India : People and Economy?",
+      "options": [
+        "Broadly, the drought- prone area in India spread over semi-arid and arid tract of Rajasthan, Gujarat, Western Madhya Pradesh, Marathwada region of Maharashtra, Rayalseema...",
+        "The drought-prone areas of Punjab, Haryana and north-Rajasthan are largely protected due to spread of irrigation in these regions.",
+        "Planning and Sustainable Development in Indian Context 67 Target Area Planning The planning process has to take special care of those areas which have...",
+        "As you know, the economic development of a region depends upon its resource base."
+      ],
+      "correct_answer": 0,
       "pattern": "statement",
       "source_trace": "NCERT Class 12 India People and Economy Ch6 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
-      "difficulty_level": 3,
+      "difficulty_level": 4,
       "concepts_tested": [
-        "68 India : People and Economy"
+        "70 India : People and Economy"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Water Resources, which statement is supported by the source text about 72 India : People and Economy?",
+      "options": [
+        "But sometimes resource-rich region also remain backward.",
+        "Economic development requires technology, as well as, investment besides resources.",
+        "With the planning experience of about one-and-a-half decades, it was realised that regional imbalances in economic development were getting accentuated.",
+        "In order to arrest the accentuation of regional and social disparties, the Planning Commission introduced the ‘target area’ and target group approaches to planning."
+      ],
+      "correct_answer": 0,
+      "pattern": "match",
+      "source_trace": "NCERT Class 12 India People and Economy Ch6 pg 1",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "72 India : People and Economy"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Water Resources, which statement is supported by the source text about 74 India : People and Economy?",
+      "options": [
+        "Some of the examples of programmes directed towards the development of target areas are Command Area Development Programme, Drought Prone Area Development Programme, Desert...",
+        "The Small Farmers Development Agency (SFDA) and Marginal Farmers Development Agency (MFDA) which are the examples of target group programme.",
+        "In the 8th Five Year Plan special area programmes were designed to develop infrastructure in hill areas, north-eastern states, tribal areas and backward areas.",
+        "Hill Area Development Programme Hill Area Development Programmes were initiated during the Fifth Five Year Plan covering 15 districts comprising all the hilly districts..."
+      ],
+      "correct_answer": 0,
+      "pattern": "not_type",
+      "source_trace": "NCERT Class 12 India People and Economy Ch6 pg 1",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 5,
+      "concepts_tested": [
+        "74 India : People and Economy"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Water Resources, which statement is supported by the source text about Water Resources?",
+      "options": [
+        "The National Committee on the Development of Backward Area in 1981 recommended that all the hill areas in the country having height above 600...",
+        "The detailed plans for the development of hill areas were drawn keeping in view their topographical, ecological, social and economic conditions.",
+        "These programmes aimed at harnessing the indigenous resources of the hill areas through development of horticulture,",
+        "68 India : People and Economy Case Study – Integrated Tribal Development Project in Bharmaur* Region Bharmaur tribal area comprises Bharmaur and Holi tehsils..."
+      ],
+      "correct_answer": 0,
+      "pattern": "statement",
+      "source_trace": "NCERT Class 12 India People and Economy Ch6 pg 1",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 5,
+      "concepts_tested": [
+        "Water Resources"
       ]
     }
   ],
@@ -220,7 +310,7 @@
     "generation_method": "local_source_only_extractive_decode"
   },
   "content_model": "clearupsc_textbook_decoded_from_source_v1",
-  "decode_status": "textbook_decoded",
+  "decode_status": "textbook_verified",
   "source": {
     "book": "NCERT Class 12 India People and Economy",
     "chapter": 6,
@@ -232,5 +322,5 @@
   "source_trace": "NCERT Class 12 India People and Economy | Chapter 6: Water Resources | https://ncert.nic.in/textbook/pdf/legy206.pdf | sha256:08004ea58983a556f3e9637aa03a51b0de3a1d4b852910fb2570e5f693aa7e2e",
   "raw_text_path": "data/study/textbook-first/raw-text/gs1_geo_class12_india_people_economy_ch06_water_resources.txt",
   "generated_by": "local_source_only_extractive_decode",
-  "generated_at": "2026-05-26T19:53:41.777Z"
+  "generated_at": "2026-05-26T20:26:48.033Z"
 }

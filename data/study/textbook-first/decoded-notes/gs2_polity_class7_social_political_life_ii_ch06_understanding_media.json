@@ -136,7 +136,7 @@
       "source_trace": "NCERT Class 7 Social and Political Life II Ch6 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
-      "difficulty_level": 3,
+      "difficulty_level": 1,
       "concepts_tested": [
         "64 Social and Political Life"
       ]
@@ -150,7 +150,7 @@
         "Ask older members of your family about what they used to listen to on the radio when there was no TV around."
       ],
       "correct_answer": 0,
-      "pattern": "statement",
+      "pattern": "match",
       "source_trace": "NCERT Class 7 Social and Political Life II Ch6 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
@@ -204,13 +204,103 @@
         "As you read further, you will find that this naming is related to the different technologies that these media use."
       ],
       "correct_answer": 0,
+      "pattern": "match",
+      "source_trace": "NCERT Class 7 Social and Political Life II Ch6 pg 1",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "68 Social and Political Life"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Understanding Media, which statement is supported by the source text about 70 Social and Political Life?",
+      "options": [
+        "The following photographs will give you a sense of the ways in which technology that mass media uses has changed over the years and...",
+        "Changing technology, or machines, and making technology more modern, helps media to reach more people.",
+        "It also improves the quality of sound and the images that you see.",
+        "It also changes the ways in which we think about our lives."
+      ],
+      "correct_answer": 0,
+      "pattern": "not_type",
+      "source_trace": "NCERT Class 7 Social and Political Life II Ch6 pg 1",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "70 Social and Political Life"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Understanding Media, which statement is supported by the source text about 72 Social and Political Life?",
+      "options": [
+        "For example, today it is quite difficult for us to think of our lives without television.",
+        "Television has enabled us to think of ourselves as members of a larger global world.",
+        "Television images travel huge 65 Chapter 6: Understanding Media",
+        "66 Social and Political Life Can you list three different products that are advertised during your favourite TV programme?"
+      ],
+      "correct_answer": 0,
       "pattern": "statement",
       "source_trace": "NCERT Class 7 Social and Political Life II Ch6 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
-      "difficulty_level": 3,
+      "difficulty_level": 4,
       "concepts_tested": [
-        "68 Social and Political Life"
+        "72 Social and Political Life"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Understanding Media, which statement is supported by the source text about BIG BUSINESS HOUSES?",
+      "options": [
+        "Take a newspaper and count the number of advertisements in it.",
+        "Some people say that newspapers have too many advertisements.",
+        "Baird sits in front of the apparatus with which he demonstrated to the Royal Institute, his invention, the televisor, an early television.",
+        "With electronic typerwriters, journalism underwent a sea-change in the 1940s. distances through satellites and cables."
+      ],
+      "correct_answer": 0,
+      "pattern": "match",
+      "source_trace": "NCERT Class 7 Social and Political Life II Ch6 pg 2",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "BIG BUSINESS HOUSES"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Understanding Media, which statement is supported by the source text about READERS,?",
+      "options": [
+        "This allows us to view news and entertainment channels from other parts of the world.",
+        "Most of the cartoons that you see on television are mostly from Japan or the United States.",
+        "We can now be sitting in Chennai or Jammu and can see images of a storm that has hit the coast of Florida in...",
+        "Media and money The different technologies that mass media use are expensive."
+      ],
+      "correct_answer": 0,
+      "pattern": "not_type",
+      "source_trace": "NCERT Class 7 Social and Political Life II Ch6 pg 2",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 5,
+      "concepts_tested": [
+        "READERS,"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Understanding Media, which statement is supported by the source text about VIEWERS,?",
+      "options": [
+        "Just think about the TV studio in which the newsreader sits  it has lights, cameras, sound recorders, transmission satellites, etc., all of which...",
+        "In a news studio, it is not only the newsreader who needs to be paid but also a number of other people who help...",
+        "This includes those who look after the cameras and lights.",
+        "Also, as you read earlier the technologies that mass media use keep changing and so a lot of money is spent on getting the..."
+      ],
+      "correct_answer": 0,
+      "pattern": "statement",
+      "source_trace": "NCERT Class 7 Social and Political Life II Ch6 pg 2",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 5,
+      "concepts_tested": [
+        "VIEWERS,"
       ]
     }
   ],
@@ -220,7 +310,7 @@
     "generation_method": "local_source_only_extractive_decode"
   },
   "content_model": "clearupsc_textbook_decoded_from_source_v1",
-  "decode_status": "textbook_decoded",
+  "decode_status": "textbook_verified",
   "source": {
     "book": "NCERT Class 7 Social and Political Life II",
     "chapter": 6,
@@ -232,5 +322,5 @@
   "source_trace": "NCERT Class 7 Social and Political Life II | Chapter 6: Understanding Media | https://ncert.nic.in/textbook/pdf/gess306.pdf | sha256:6cd614075466b759f97130422a70dc4681b108d79eb54cffa9ae1a04fca514b9",
   "raw_text_path": "data/study/textbook-first/raw-text/gs2_polity_class7_social_political_life_ii_ch06_understanding_media.txt",
   "generated_by": "local_source_only_extractive_decode",
-  "generated_at": "2026-05-26T19:54:15.040Z"
+  "generated_at": "2026-05-26T20:27:22.630Z"
 }

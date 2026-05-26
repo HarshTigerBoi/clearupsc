@@ -128,7 +128,7 @@
       "source_trace": "NCERT Class 9 Science Ch5 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
-      "difficulty_level": 3,
+      "difficulty_level": 1,
       "concepts_tested": [
         "5.1 How Can We Classify Mixtures?"
       ]
@@ -142,7 +142,7 @@
         "Exploring Mixtures and their Separation 73 5.1 How Can We Classify Mixtures?"
       ],
       "correct_answer": 0,
-      "pattern": "statement",
+      "pattern": "match",
       "source_trace": "NCERT Class 9 Science Ch5 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
@@ -196,13 +196,103 @@
         "5.3) and observe it from the side of the beaker in a direction perpendicular to the laser beam."
       ],
       "correct_answer": 0,
-      "pattern": "statement",
+      "pattern": "match",
       "source_trace": "NCERT Class 9 Science Ch5 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
-      "difficulty_level": 3,
+      "difficulty_level": 4,
       "concepts_tested": [
         "5.2.3 Solubility of substances"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of The Fundamental Unit of Life, which statement is supported by the source text about 5.3 Methods of Separation of Homogeneous Mixtures?",
+      "options": [
+        "Safety first: Do not look directly into the laser beam.",
+        "Predict what you would observe in each of the beakers if you leave them undisturbed for a few minutes.",
+        "5.2: Heterogeneous mixture Grade 8 Curiosity Chapter 9 (a) (b) (c) Fig.",
+        "5.3: Passing laser light through various mixtures (a) salt and water, (b) chalk powder and water, and (c) milk and water A B C"
+      ],
+      "correct_answer": 0,
+      "pattern": "not_type",
+      "source_trace": "NCERT Class 9 Science Ch5 pg 1",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "5.3 Methods of Separation of Homogeneous Mixtures"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of The Fundamental Unit of Life, which statement is supported by the source text about 5.3.1 Crystallization?",
+      "options": [
+        "Set up a filtration apparatus and filter each mixture separately.",
+        "Based on your observations, do you think these are the same types of mixtures or are they different?",
+        "5.2 Solutions You have learnt that solutions are homogeneous mixtures.",
+        "You have also learnt that solutions are prepared when a solute (the substance that gets dissolved) is mixed with a solvent (the substance that..."
+      ],
+      "correct_answer": 0,
+      "pattern": "statement",
+      "source_trace": "NCERT Class 9 Science Ch5 pg 2",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "5.3.1 Crystallization"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of The Fundamental Unit of Life, which statement is supported by the source text about 5.3.2 Distillation?",
+      "options": [
+        "In the mixture of sugar and water, sugar is the solute, and water is the solvent.",
+        "In what proportion are a solute and a solvent present in a solution?",
+        "5.2.1 Concentration of a solution You have learnt how Oral Rehydration Solution (ORS) is prepared.",
+        "We add specified amounts of salt and sugar to a fixed amount of water to prepare ORS."
+      ],
+      "correct_answer": 0,
+      "pattern": "match",
+      "source_trace": "NCERT Class 9 Science Ch5 pg 2",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "5.3.2 Distillation"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of The Fundamental Unit of Life, which statement is supported by the source text about 5.3.3 Paper Chromatography?",
+      "options": [
+        "If we change the amount of salt or sugar added to the same volume of water, or change the volume of water for the...",
+        "In other words, we cannot freely add any amount of salt and sugar to a fixed amount of water to make ORS.",
+        "When farmers spray pesticides on their crops, they must mix the right amount of pesticide with a fixed amount of water to prepare a...",
+        "Too little pesticide may not protect crops, while too much can damage crops, soil and the environment."
+      ],
+      "correct_answer": 0,
+      "pattern": "not_type",
+      "source_trace": "NCERT Class 9 Science Ch5 pg 2",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 5,
+      "concepts_tested": [
+        "5.3.3 Paper Chromatography"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of The Fundamental Unit of Life, which statement is supported by the source text about 5.4 How Can We Separate the Components of?",
+      "options": [
+        "The right proportion is always essential when preparing a solution.",
+        "The amount of solute dissolved in a given amount of solvent or solution is termed as the concentration of the solution.",
+        "Understanding concentration is essential not only in science laboratories but also in everyday life, whether in medicine, agriculture, food, cosmetics, or even while making...",
+        "Let us now explore the different ways to express the concentration of a solution, and understand where and why each method is more suitable."
+      ],
+      "correct_answer": 0,
+      "pattern": "statement",
+      "source_trace": "NCERT Class 9 Science Ch5 pg 2",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 5,
+      "concepts_tested": [
+        "5.4 How Can We Separate the Components of"
       ]
     }
   ],
@@ -212,7 +302,7 @@
     "generation_method": "local_source_only_extractive_decode"
   },
   "content_model": "clearupsc_textbook_decoded_from_source_v1",
-  "decode_status": "textbook_decoded",
+  "decode_status": "textbook_verified",
   "source": {
     "book": "NCERT Class 9 Science",
     "chapter": 5,
@@ -224,5 +314,5 @@
   "source_trace": "NCERT Class 9 Science | Chapter 5: The Fundamental Unit of Life | https://ncert.nic.in/textbook/pdf/iesc105.pdf | sha256:aad4f4a0a9bcfd429f95454daebaba1ecd10c3e73ce2595250120af60b74b396",
   "raw_text_path": "data/study/textbook-first/raw-text/gs3_sci_class9_science_ch05_the_fundamental_unit_of_life.txt",
   "generated_by": "local_source_only_extractive_decode",
-  "generated_at": "2026-05-26T19:54:41.010Z"
+  "generated_at": "2026-05-26T20:27:49.752Z"
 }

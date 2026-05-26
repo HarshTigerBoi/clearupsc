@@ -115,7 +115,7 @@
       "source_trace": "NCERT Class 10 Science Ch11 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
-      "difficulty_level": 3,
+      "difficulty_level": 1,
       "concepts_tested": [
         "11 CHAPTER"
       ]
@@ -129,7 +129,7 @@
         "Similarly, if the electric charge flows through a conductor (for example, through a metallic wire), we say that there is an electric current in..."
       ],
       "correct_answer": 0,
-      "pattern": "statement",
+      "pattern": "match",
       "source_trace": "NCERT Class 10 Science Ch11 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
@@ -183,13 +183,103 @@
         "Science 172 If a net charge Q, flows across any cross-section of a conductor in time t, then the current I, through the cross-section..."
       ],
       "correct_answer": 0,
+      "pattern": "match",
+      "source_trace": "NCERT Class 10 Science Ch11 pg 1",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "2 A battery or a combination of cells"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of The Human Eye and the Colourful World, which statement is supported by the source text about 3 Plug key or switch (open)?",
+      "options": [
+        "(We know that an electron possesses a negative charge of 1.6 × 10–19 C.) The electric current is expressed by a unit called ampere...",
+        "One ampere is constituted by the flow of one coulomb of charge per second, that is, 1 A = 1 C/1 s.",
+        "Small quantities of current are expressed in milliampere (1 mA = 10–3 A) or in microampere (1 μA = 10–6 A).",
+        "An instrument called ammeter measures electric current in a circuit."
+      ],
+      "correct_answer": 0,
+      "pattern": "not_type",
+      "source_trace": "NCERT Class 10 Science Ch11 pg 1",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "3 Plug key or switch (open)"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of The Human Eye and the Colourful World, which statement is supported by the source text about 4 Plug key or switch (closed)?",
+      "options": [
+        "It is always connected in series in a circuit through which the current is to be measured.",
+        "Figure 11.1 shows the schematic diagram of a typical electric circuit comprising a cell, an electric bulb, an ammeter and a plug key.",
+        "Note that the electric current flows in the circuit from the positive terminal of the cell to the negative terminal of the cell through...",
+        "Figure 11.1 Figure 11.1 Figure 11.1 Figure 11.1 Figure 11.1 A schematic diagram of an electric circuit comprising – cell, electric bulb, ammeter and..."
+      ],
+      "correct_answer": 0,
       "pattern": "statement",
       "source_trace": "NCERT Class 10 Science Ch11 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
-      "difficulty_level": 3,
+      "difficulty_level": 4,
       "concepts_tested": [
-        "2 A battery or a combination of cells"
+        "4 Plug key or switch (closed)"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of The Human Eye and the Colourful World, which statement is supported by the source text about 5 A wire joint?",
+      "options": [
+        "Example 11.1 A current of 0.5 A is drawn by a filament of an electric bulb for 10 minutes.",
+        "Find the amount of electric charge that flows through the circuit.",
+        "Calculate the number of electrons constituting one coulomb of charge.",
+        "Electricity 173 11.2 ELECTRIC POTENTIAL AND POTENTIAL DIFFERENCE 11.2 ELECTRIC POTENTIAL AND POTENTIAL DIFFERENCE 11.2 ELECTRIC POTENTIAL AND POTENTIAL DIFFERENCE 11.2 ELECTRIC POTENTIAL AND..."
+      ],
+      "correct_answer": 0,
+      "pattern": "match",
+      "source_trace": "NCERT Class 10 Science Ch11 pg 1",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "5 A wire joint"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of The Human Eye and the Colourful World, which statement is supported by the source text about 6 Wires crossing without joining?",
+      "options": [
+        "Charges do not flow in a copper wire by themselves, just as water in a perfectly horizontal tube does not flow.",
+        "If one end of the tube is connected to a tank of water kept at a higher level, such that there is a pressure...",
+        "For flow of charges in a conducting metallic wire, the gravity, of course, has no role to play; the electrons move only if there...",
+        "This difference of potential may be produced by a battery, consisting of one or more electric cells."
+      ],
+      "correct_answer": 0,
+      "pattern": "not_type",
+      "source_trace": "NCERT Class 10 Science Ch11 pg 2",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 5,
+      "concepts_tested": [
+        "6 Wires crossing without joining"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of The Human Eye and the Colourful World, which statement is supported by the source text about 6 V battery??",
+      "options": [
+        "The chemical action within a cell generates the potential difference across the terminals of the cell, even when no current is drawn from it.",
+        "When the cell is connected to a conducting circuit element, the potential difference sets the charges in motion in the conductor and produces an...",
+        "In order to maintain the current in a given electric circuit, the cell has to expend its chemical energy stored in it.",
+        "We define the electric potential difference between two points in an electric circuit carrying some current as the work done to move a unit..."
+      ],
+      "correct_answer": 0,
+      "pattern": "statement",
+      "source_trace": "NCERT Class 10 Science Ch11 pg 2",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 5,
+      "concepts_tested": [
+        "6 V battery?"
       ]
     }
   ],
@@ -199,7 +289,7 @@
     "generation_method": "local_source_only_extractive_decode"
   },
   "content_model": "clearupsc_textbook_decoded_from_source_v1",
-  "decode_status": "textbook_decoded",
+  "decode_status": "textbook_verified",
   "source": {
     "book": "NCERT Class 10 Science",
     "chapter": 11,
@@ -211,5 +301,5 @@
   "source_trace": "NCERT Class 10 Science | Chapter 11: The Human Eye and the Colourful World | https://ncert.nic.in/textbook/pdf/jesc111.pdf | sha256:640a680a24070d4add6d580d03d5377768ee5a6b4f89f9bfb66b350d457ab52f",
   "raw_text_path": "data/study/textbook-first/raw-text/gs3_sci_class10_science_ch11_the_human_eye_and_the_colourful_world.txt",
   "generated_by": "local_source_only_extractive_decode",
-  "generated_at": "2026-05-26T19:54:26.770Z"
+  "generated_at": "2026-05-26T20:27:35.087Z"
 }

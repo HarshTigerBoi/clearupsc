@@ -120,7 +120,7 @@
       "source_trace": "NCERT Class 7 Our Pasts II Ch4 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
-      "difficulty_level": 3,
+      "difficulty_level": 1,
       "concepts_tested": [
         "39 THE MUGHALS"
       ]
@@ -134,7 +134,7 @@
         "The Mughals were descendants of two great lineages of rulers."
       ],
       "correct_answer": 0,
-      "pattern": "statement",
+      "pattern": "match",
       "source_trace": "NCERT Class 7 Our Pasts II Ch4 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
@@ -188,13 +188,103 @@
         "Mughal Relations with Other Rulers The Mughal rulers campaigned constantly against rulers who refused to accept their authority."
       ],
       "correct_answer": 0,
-      "pattern": "statement",
+      "pattern": "match",
       "source_trace": "NCERT Class 7 Our Pasts II Ch4 pg 2",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
-      "difficulty_level": 3,
+      "difficulty_level": 4,
       "concepts_tested": [
         "43 THE MUGHALS"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of The Mughal Empire, which statement is supported by the source text about 45 THE MUGHALS?",
+      "options": [
+        "But as the Mughals became powerful many other rulers also joined them voluntarily.",
+        "Many of them married their daughters into Mughal families and received high positions.",
+        "Mughal marriages with the Rajputs The mother of Jahangir was a Kachhwaha princess, daughter of the Rajput ruler of Amber (modern- day Jaipur).",
+        "The mother of Shah Jahan was a Rathor princess, daughter of the Rajput ruler of Marwar (Jodhpur)."
+      ],
+      "correct_answer": 0,
+      "pattern": "not_type",
+      "source_trace": "NCERT Class 7 Our Pasts II Ch4 pg 2",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "45 THE MUGHALS"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of The Mughal Empire, which statement is supported by the source text about 47 THE MUGHALS?",
+      "options": [
+        "42 Zat ranking Nobles with a zat of 5,000 were ranked higher than those of 1,000.",
+        "In Akbar’s reign there were 29 mansabdars with a rank of 5,000 zat; by Aurangzeb’s reign the number of mansabdars had increased to 79.",
+        "Once defeated, however, they were honourably treated by the Mughals, given their lands back as assignments .",
+        "The careful balance between defeating but not humiliating their opponents enabled the the time."
+      ],
+      "correct_answer": 0,
+      "pattern": "statement",
+      "source_trace": "NCERT Class 7 Our Pasts II Ch4 pg 3",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "47 THE MUGHALS"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of The Mughal Empire, which statement is supported by the source text about 4 What was the relationship between the and?",
+      "options": [
+        "Mansabdars and Jagirdars As the empire expanded to encompass different regions, the Mughals recruited diverse bodies of people.",
+        "From a small nucleus of Turkish nobles (Turanis) they expanded to include Iranians, Indian Muslims, Afghans, Rajputs, Marathas and other groups.",
+        "The term refers to an individual who holds a , meaning a position or rank.",
+        "It was and salary were determined by a numerical value called ."
+      ],
+      "correct_answer": 0,
+      "pattern": "match",
+      "source_trace": "NCERT Class 7 Our Pasts II Ch4 pg 3",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "4 What was the relationship between the and"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of The Mughal Empire, which statement is supported by the source text about KEYWORDS?",
+      "options": [
+        "The higher the , the more prestigious was the noble’s position in court and the larger his salary.",
+        "Th e military responsibilities required him to maintain a specified number of or cavalrymen.",
+        "The brought his cavalrymen for review, got them registered, their horses branded and then received money to pay them as salary. received their salaries...",
+        "But unlike , most did not actually reside in or administer their ."
+      ],
+      "correct_answer": 0,
+      "pattern": "not_type",
+      "source_trace": "NCERT Class 7 Our Pasts II Ch4 pg 3",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 5,
+      "concepts_tested": [
+        "KEYWORDS"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of The Mughal Empire, which statement is supported by the source text about The Mughal Empire?",
+      "options": [
+        "They only had rights to the revenue of their assignments which was collected for them by their servants while the themselves served in some...",
+        "43 THE MUGHALS In Akbar’s reign, these were carefully assessed so that their revenues were roughly equal to the salary o f t h...",
+        "B y Aurangzeb’s reign, this was no longer the case and the actual revenue collected was often less than the granted sum.",
+        "There was also a huge increase in the number of which meant a long wait before they received a ."
+      ],
+      "correct_answer": 0,
+      "pattern": "statement",
+      "source_trace": "NCERT Class 7 Our Pasts II Ch4 pg 3",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 5,
+      "concepts_tested": [
+        "The Mughal Empire"
       ]
     }
   ],
@@ -204,7 +294,7 @@
     "generation_method": "local_source_only_extractive_decode"
   },
   "content_model": "clearupsc_textbook_decoded_from_source_v1",
-  "decode_status": "textbook_decoded",
+  "decode_status": "textbook_verified",
   "source": {
     "book": "NCERT Class 7 Our Pasts II",
     "chapter": 4,
@@ -216,5 +306,5 @@
   "source_trace": "NCERT Class 7 Our Pasts II | Chapter 4: The Mughal Empire | https://ncert.nic.in/textbook/pdf/gess104.pdf | sha256:c50ba0c363586bddb4834f2883d378fa848e6c2239836a5f6057a376f97a7f0b",
   "raw_text_path": "data/study/textbook-first/raw-text/gs1_hist_class7_our_pasts_ii_ch04_the_mughal_empire.txt",
   "generated_by": "local_source_only_extractive_decode",
-  "generated_at": "2026-05-26T19:53:57.563Z"
+  "generated_at": "2026-05-26T20:27:04.253Z"
 }

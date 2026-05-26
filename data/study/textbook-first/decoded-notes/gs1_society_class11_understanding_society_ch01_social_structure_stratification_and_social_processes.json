@@ -136,7 +136,7 @@
       "source_trace": "NCERT Class 11 Understanding Society Ch1 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
-      "difficulty_level": 3,
+      "difficulty_level": 1,
       "concepts_tested": [
         "CHAPTER 1"
       ]
@@ -150,7 +150,7 @@
         "CHAPTER 1 SOCIAL STRUCTURE, STRATIFICATION AND SOCIAL PROCESSES IN SOCIETY INTRODUCTION You will recall that the earlier book Introducing Sociology, Class XI had begun..."
       ],
       "correct_answer": 0,
-      "pattern": "statement",
+      "pattern": "match",
       "source_trace": "NCERT Class 11 Understanding Society Ch1 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
@@ -204,13 +204,103 @@
         "Social structures are made up of human actions and relationships."
       ],
       "correct_answer": 0,
+      "pattern": "match",
+      "source_trace": "NCERT Class 11 Understanding Society Ch1 pg 1",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "2 UNDERSTANDING SOCIETY"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Social Structure Stratification and Social Processes, which statement is supported by the source text about SOCIAL STRUCTURE AND STRATIFICATION?",
+      "options": [
+        "What gives these their patterning is their repetition across periods of time and distances of space.",
+        "Thus, the ideas of social reproduction and social structure are very closely related to one another in sociological analysis.",
+        "In a school certain ways of behaving are repeated over the years and become institutions.",
+        "For instance admission procedures, codes of conduct, annual functions, daily assemblies and in some cases even school anthems."
+      ],
+      "correct_answer": 0,
+      "pattern": "not_type",
+      "source_trace": "NCERT Class 11 Understanding Society Ch1 pg 1",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "SOCIAL STRUCTURE AND STRATIFICATION"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Social Structure Stratification and Social Processes, which statement is supported by the source text about 3 SOCIAL STRUCTURE, STRATIFICATION AND SOCIAL PROCESSES IN SOCIETY?",
+      "options": [
+        "Likewise in families certain ways of behaving, marriage practices, notions of relationships, duties and expectations are set.",
+        "Even as old members of the family or school may pass away and new members enter, the institution goes on.",
+        "Yet we also know that changes do take place within the family and in schools.",
+        "The above discussion and activity should help us understand human societies as buildings that are at every moment being reconstructed by the very bricks..."
+      ],
+      "correct_answer": 0,
       "pattern": "statement",
       "source_trace": "NCERT Class 11 Understanding Society Ch1 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
-      "difficulty_level": 3,
+      "difficulty_level": 4,
       "concepts_tested": [
-        "2 UNDERSTANDING SOCIETY"
+        "3 SOCIAL STRUCTURE, STRATIFICATION AND SOCIAL PROCESSES IN SOCIETY"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Social Structure Stratification and Social Processes, which statement is supported by the source text about 4 UNDERSTANDING SOCIETY?",
+      "options": [
+        "For as we saw for ourselves human beings in schools or families do bring changes The central question that this chapter seeks to discuss...",
+        "To what extent does one’s position in society or location in the stratification system gover n individual choice?",
+        "Do social structure and social stratification influence the manner people act?",
+        "Do they shape the way individuals cooperate, compete and conflict with each other?"
+      ],
+      "correct_answer": 0,
+      "pattern": "match",
+      "source_trace": "NCERT Class 11 Understanding Society Ch1 pg 1",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "4 UNDERSTANDING SOCIETY"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Social Structure Stratification and Social Processes, which statement is supported by the source text about 5 SOCIAL STRUCTURE, STRATIFICATION AND SOCIAL PROCESSES IN SOCIETY?",
+      "options": [
+        "In this chapter we deal briefly with the terms ‘social structure’ and ‘social stratification’.",
+        "You have already discussed social stratification in some detail in Chapter 2 of the earlier book Introducing Sociology, Class XI (NCERT, 2006).",
+        "We then move on to focus on three social processes namely; cooperation, competition and conflict.",
+        "In dealing with each of these processes we shall try and see how social structure and stratification impinge themselves on the social processes."
+      ],
+      "correct_answer": 0,
+      "pattern": "not_type",
+      "source_trace": "NCERT Class 11 Understanding Society Ch1 pg 1",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 5,
+      "concepts_tested": [
+        "5 SOCIAL STRUCTURE, STRATIFICATION AND SOCIAL PROCESSES IN SOCIETY"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Social Structure Stratification and Social Processes, which statement is supported by the source text about 6 UNDERSTANDING SOCIETY?",
+      "options": [
+        "In other words how individuals and groups cooperate, compete and conflict depending upon their position within the social structure and stratification system.",
+        "SOCIAL STRUCTURE AND STRATIFICATION The term social structure points to the fact that society is structured — i.e., organised or arranged — in particular...",
+        "The social environments in which we exist do not just consist of random assortments of events or actions.",
+        "There are underlying regularities, or patterns, in how people behave and in the relationships they have with one another."
+      ],
+      "correct_answer": 0,
+      "pattern": "statement",
+      "source_trace": "NCERT Class 11 Understanding Society Ch1 pg 1",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 5,
+      "concepts_tested": [
+        "6 UNDERSTANDING SOCIETY"
       ]
     }
   ],
@@ -220,7 +310,7 @@
     "generation_method": "local_source_only_extractive_decode"
   },
   "content_model": "clearupsc_textbook_decoded_from_source_v1",
-  "decode_status": "textbook_decoded",
+  "decode_status": "textbook_verified",
   "source": {
     "book": "NCERT Class 11 Understanding Society",
     "chapter": 1,
@@ -232,5 +322,5 @@
   "source_trace": "NCERT Class 11 Understanding Society | Chapter 1: Social Structure Stratification and Social Processes | https://ncert.nic.in/textbook/pdf/kesy201.pdf | sha256:2ecaf0b4e2d3a0d20b63f26368d2c4071792d23dafb0905b2136b48c85f1b8d5",
   "raw_text_path": "data/study/textbook-first/raw-text/gs1_society_class11_understanding_society_ch01_social_structure_stratification_and_social_processes.txt",
   "generated_by": "local_source_only_extractive_decode",
-  "generated_at": "2026-05-26T19:54:11.323Z"
+  "generated_at": "2026-05-26T20:27:18.877Z"
 }

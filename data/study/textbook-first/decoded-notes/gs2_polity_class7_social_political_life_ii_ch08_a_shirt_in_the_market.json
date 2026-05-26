@@ -136,7 +136,7 @@
       "source_trace": "NCERT Class 7 Social and Political Life II Ch8 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
-      "difficulty_level": 3,
+      "difficulty_level": 1,
       "concepts_tested": [
         "86 Social and Political Life"
       ]
@@ -150,7 +150,7 @@
         "The bolls, which carry the cotton in them, do not burst open all at once so it takes several days to harvest the cotton."
       ],
       "correct_answer": 0,
-      "pattern": "statement",
+      "pattern": "match",
       "source_trace": "NCERT Class 7 Social and Political Life II Ch8 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
@@ -204,13 +204,103 @@
         "I had only hoped that we would earn enough from the cotton crop to last us a few months."
       ],
       "correct_answer": 0,
-      "pattern": "statement",
+      "pattern": "match",
       "source_trace": "NCERT Class 7 Social and Political Life II Ch8 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
-      "difficulty_level": 3,
+      "difficulty_level": 4,
       "concepts_tested": [
         "92 Social and Political Life"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of A Shirt in the Market, which statement is supported by the source text about 94 Social and Political Life?",
+      "options": [
+        "Though Swapna knows that cotton will sell for at least ` 1,800 per quintal, she doesnt argue further.",
+        "The trader is a powerful man in the village and the farmers have to depend on him for loans not only for cultivation, but...",
+        "Also, there are times in the year when there is no work and no income for the farmers, so borrowing money is the only...",
+        "Swapnas earning from cotton cultivation is barely more than what she might have earned as a wage labourer."
+      ],
+      "correct_answer": 0,
+      "pattern": "not_type",
+      "source_trace": "NCERT Class 7 Social and Political Life II Ch8 pg 2",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "94 Social and Political Life"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of A Shirt in the Market, which statement is supported by the source text about 96 Social and Political Life?",
+      "options": [
+        "The cloth market of Erode Erodes bi-weekly cloth market in Tamil Nadu is one of the largest cloth markets in the world.",
+        "Cloth that is made by weavers in the villages around is also brought here for sale.",
+        "Around the market are offices of cloth merchants who buy this cloth.",
+        "Other traders from many south Indian towns also come and purchase cloth in this market."
+      ],
+      "correct_answer": 0,
+      "pattern": "statement",
+      "source_trace": "NCERT Class 7 Social and Political Life II Ch8 pg 2",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "96 Social and Political Life"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of A Shirt in the Market, which statement is supported by the source text about A Shirt in the Market?",
+      "options": [
+        "On market days, you would also find weavers bringing cloth that has been made on order from the merchant.",
+        "These merchants supply cloth on order to garment manufacturers and exporters around the country.",
+        "They purchase the yarn and give instructions to the weavers about the kind of cloth that is to be made.",
+        "Over the years, these traders have developed extensive contacts with garment firms around the country from whom they get orders."
+      ],
+      "correct_answer": 0,
+      "pattern": "match",
+      "source_trace": "NCERT Class 7 Social and Political Life II Ch8 pg 2",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "A Shirt in the Market"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of A Shirt in the Market, which statement is supported by the source text about Shirt?",
+      "options": [
+        "The weavers live in villages around and take the yarn supplied by these traders to their homes where the looms are located in sheds...",
+        "The weavers and their families spend long hours working on these looms.",
+        "Most weaving units have about 28 powerlooms on which the yarn is woven into cloth.",
+        "A variety of sarees, towels, shirting, ladies dress material and bedsheets are produced in these looms."
+      ],
+      "correct_answer": 0,
+      "pattern": "not_type",
+      "source_trace": "NCERT Class 7 Social and Political Life II Ch8 pg 3",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 5,
+      "concepts_tested": [
+        "Shirt"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of A Shirt in the Market, which statement is supported by the source text about Market?",
+      "options": [
+        "They then bring back the finished cloth to the traders.",
+        "Here, they can be seen getting ready to go to the merchant in the town.",
+        "The trader keeps an account of the yarn given and pays them money for weaving this into cloth.",
+        "1 2 3 What are the following people doing at the Erode cloth market  merchants, weavers, exporters?"
+      ],
+      "correct_answer": 0,
+      "pattern": "statement",
+      "source_trace": "NCERT Class 7 Social and Political Life II Ch8 pg 3",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 5,
+      "concepts_tested": [
+        "Market"
       ]
     }
   ],
@@ -220,7 +310,7 @@
     "generation_method": "local_source_only_extractive_decode"
   },
   "content_model": "clearupsc_textbook_decoded_from_source_v1",
-  "decode_status": "textbook_decoded",
+  "decode_status": "textbook_verified",
   "source": {
     "book": "NCERT Class 7 Social and Political Life II",
     "chapter": 8,
@@ -232,5 +322,5 @@
   "source_trace": "NCERT Class 7 Social and Political Life II | Chapter 8: A Shirt in the Market | https://ncert.nic.in/textbook/pdf/gess308.pdf | sha256:37b0a83f6725679b9beae5d2c1455f367723bb53c144b30cf285e0d5f3ab2c7f",
   "raw_text_path": "data/study/textbook-first/raw-text/gs2_polity_class7_social_political_life_ii_ch08_a_shirt_in_the_market.txt",
   "generated_by": "local_source_only_extractive_decode",
-  "generated_at": "2026-05-26T19:54:15.512Z"
+  "generated_at": "2026-05-26T20:27:23.094Z"
 }

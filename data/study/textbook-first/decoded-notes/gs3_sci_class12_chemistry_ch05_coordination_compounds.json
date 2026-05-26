@@ -115,7 +115,7 @@
       "source_trace": "NCERT Class 12 Chemistry Ch5 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
-      "difficulty_level": 3,
+      "difficulty_level": 1,
       "concepts_tested": [
         "118 Chemistry"
       ]
@@ -129,7 +129,7 @@
         "Coordination CompoundsAfter studying this Unit, you will be able to • appreciate the postulates of Werner’s theory of coordination compounds; • know the meaning..."
       ],
       "correct_answer": 0,
-      "pattern": "statement",
+      "pattern": "match",
       "source_trace": "NCERT Class 12 Chemistry Ch5 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
@@ -183,13 +183,103 @@
         "In coordination compounds metals show two types of linkages (valences)-primary and secondary."
       ],
       "correct_answer": 0,
+      "pattern": "match",
+      "source_trace": "NCERT Class 12 Chemistry Ch5 pg 1",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "122 Chemistry"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Coordination Compounds, which statement is supported by the source text about 123 Coordination Compounds?",
+      "options": [
+        "The primary valences are normally ionisable and are satisfied by negative ions.",
+        "These are satisfied by neutral molecules or negative ions.",
+        "The secondary valence is equal to the coordination number and is fixed for a metal.",
+        "The ions/groups bound by the secondary linkages to the metal have characteristic spatial arrangements corresponding to different coordination numbers."
+      ],
+      "correct_answer": 0,
+      "pattern": "not_type",
+      "source_trace": "NCERT Class 12 Chemistry Ch5 pg 1",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "123 Coordination Compounds"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Coordination Compounds, which statement is supported by the source text about 4 Co SCN ?",
+      "options": [
+        "In modern formulations, such spatial arrangements are called coordination polyhedra.",
+        "The species within the square bracket are coordination entities or complexes and the ions outside the square bracket are called counter ions.",
+        "He further postulated that octahedral, tetrahedral and square planar geometrical shapes are more common in coordination compounds of transition metals.",
+        "Thus, [Co(NH3)6]3+, [CoCl(NH3)5]2+ and [CoCl2(NH3)4]+ are octahedral entities, while [Ni(CO)4] and [PtCl4]2– are tetrahedral and square planar, respectively."
+      ],
+      "correct_answer": 0,
       "pattern": "statement",
       "source_trace": "NCERT Class 12 Chemistry Ch5 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
-      "difficulty_level": 3,
+      "difficulty_level": 4,
       "concepts_tested": [
-        "122 Chemistry"
+        "4 Co SCN "
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Coordination Compounds, which statement is supported by the source text about 5.3.2 Naming of?",
+      "options": [
+        "Colour Formula Solution conductivity corresponds to Table 5.1: Formulation of Cobalt(III) Chloride-Ammonia Complexes Yellow [Co(NH3)6]3+3Cl– 1:3 electrolyte Purple [CoCl(NH3)5]2+2Cl– 1:2 electrolyte Green [CoCl2(NH3)4]+Cl– 1:1...",
+        "120 Chemistry (i) Secondary 4 (ii) Secondary 6 (iii) Secondary 6 (iv) Secondary 6 (v) Secondary 4 On the basis of the following observations...",
+        "However, they differ in the fact that double salts such as carnallite, KCl.MgCl2.6H2O, Mohr’s salt, FeSO4.(NH4)2SO4.6H2O, potash alum, KAl(SO4)2.12H2O, etc. dissociate into simple ions...",
+        "However, complex ions such as [Fe(CN)6]4– of K4 [Fe(CN)6] do not dissociate into Fe2+ and CN– ions."
+      ],
+      "correct_answer": 0,
+      "pattern": "match",
+      "source_trace": "NCERT Class 12 Chemistry Ch5 pg 1",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "5.3.2 Naming of"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Coordination Compounds, which statement is supported by the source text about 5.3.1 Formulas of?",
+      "options": [
+        "Formula Moles of AgCl precipitated per mole of the compounds with excess AgNO3 (i) PdCl2.4NH3 2 (ii) NiCl2.6H2O 2 (iii) PtCl4.2HCl 0 (iv) CoCl3.4NH3...",
+        "His study of chemistry began in Karlsruhe (Germany) and continued in Zurich (Switzerland), where in his doctoral thesis in 1890, he explained the difference...",
+        "He extended vant Hoff’s theory of tetrahedral carbon atom and modified it for nitrogen.",
+        "Werner showed optical and electrical differences between complex compounds based on physical measurements."
+      ],
+      "correct_answer": 0,
+      "pattern": "not_type",
+      "source_trace": "NCERT Class 12 Chemistry Ch5 pg 2",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 5,
+      "concepts_tested": [
+        "5.3.1 Formulas of"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Coordination Compounds, which statement is supported by the source text about 124 Chemistry?",
+      "options": [
+        "In fact, Werner was the first to discover optical activity in certain coordination compounds.",
+        "He, at the age of 29 years became a full professor at Technische Hochschule in Zurich in 1895.",
+        "His accomplishments included the development of the theory of coordination compounds.",
+        "This theory, in which Werner proposed revolutionary ideas about how atoms and molecules are linked together, was formulated in a span of only three..."
+      ],
+      "correct_answer": 0,
+      "pattern": "statement",
+      "source_trace": "NCERT Class 12 Chemistry Ch5 pg 2",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 5,
+      "concepts_tested": [
+        "124 Chemistry"
       ]
     }
   ],
@@ -199,7 +289,7 @@
     "generation_method": "local_source_only_extractive_decode"
   },
   "content_model": "clearupsc_textbook_decoded_from_source_v1",
-  "decode_status": "textbook_decoded",
+  "decode_status": "textbook_verified",
   "source": {
     "book": "NCERT Class 12 Chemistry",
     "chapter": 5,
@@ -211,5 +301,5 @@
   "source_trace": "NCERT Class 12 Chemistry | Chapter 5: Coordination Compounds | https://ncert.nic.in/textbook/pdf/lech105.pdf | sha256:9cca0d995461bb4ba9e02dd4c40b9c3ba40fccfdc132f4a8a0959a82cea209b3",
   "raw_text_path": "data/study/textbook-first/raw-text/gs3_sci_class12_chemistry_ch05_coordination_compounds.txt",
   "generated_by": "local_source_only_extractive_decode",
-  "generated_at": "2026-05-26T19:54:31.868Z"
+  "generated_at": "2026-05-26T20:27:40.299Z"
 }

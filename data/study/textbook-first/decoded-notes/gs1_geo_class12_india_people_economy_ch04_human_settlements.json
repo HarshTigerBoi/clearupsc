@@ -136,7 +136,7 @@
       "source_trace": "NCERT Class 12 India People and Economy Ch4 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
-      "difficulty_level": 3,
+      "difficulty_level": 1,
       "concepts_tested": [
         "WATER RESOURCES"
       ]
@@ -150,7 +150,7 @@
         "The tensions and disputes on sharing and control of this scarce resource are becoming contested issues among communities, regions, and states."
       ],
       "correct_answer": 0,
-      "pattern": "statement",
+      "pattern": "match",
       "source_trace": "NCERT Class 12 India People and Economy Ch4 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
@@ -204,13 +204,103 @@
         "Although, water is generally brackish in these water bodies, it is used for fishing and irrigating certain varieties of paddy crops, coconut, etc."
       ],
       "correct_answer": 0,
+      "pattern": "match",
+      "source_trace": "NCERT Class 12 India People and Economy Ch4 pg 1",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "Human Settlements"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Human Settlements, which statement is supported by the source text about Human?",
+      "options": [
+        "Water Demand and Utilisation India has traditionally been an agrarian economy, and about two-third of its population have been dependent on agriculture.",
+        "Hence, development of irrigation to increase agricultural production has been assigned a very high priority in the Five Year Plans, and multipurpose river valleys...",
+        "In fact, India’s water demand at present is dominated by irrigational needs.",
+        "Agriculture accounts for most of the surface and groundwater utilisation, it accounts for 89 per cent of the surface water and 92 per cent..."
+      ],
+      "correct_answer": 0,
+      "pattern": "not_type",
+      "source_trace": "NCERT Class 12 India People and Economy Ch4 pg 1",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "Human"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Human Settlements, which statement is supported by the source text about Settlements?",
+      "options": [
+        "While the share of industrial sector is limited to 2 per cent of the surface water utilisation and 5 per cent of the ground-water,...",
+        "The share of agricultural sector in total water utilisation is much higher than other sectors.",
+        "However, in future, with development, the shares of industrial and domestic sectors in the country are likely to increase.",
+        "Demand of Water for Irrigation In agriculture, water is mainly used for irrigation."
+      ],
+      "correct_answer": 0,
       "pattern": "statement",
       "source_trace": "NCERT Class 12 India People and Economy Ch4 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
-      "difficulty_level": 3,
+      "difficulty_level": 4,
       "concepts_tested": [
-        "Human Settlements"
+        "Settlements"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Human Settlements, which statement is supported by the source text about Unit III Unit III Unit III?",
+      "options": [
+        "Irrigation is needed because of spatio-temporal variability in rainfall in the country.",
+        "The large tracts of the country are deficient in rainfall and are drought prone.",
+        "North-western India and Deccan plateau constitute such areas.",
+        "Winter and summer seasons are more or less dry in most part of the country."
+      ],
+      "correct_answer": 0,
+      "pattern": "match",
+      "source_trace": "NCERT Class 12 India People and Economy Ch4 pg 1",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "Unit III Unit III Unit III"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Human Settlements, which statement is supported by the source text about Unit III Unit III Chapter?",
+      "options": [
+        "Hence, it is difficult to practise agriculture without assured in India is estimated to be 1,869 cubic km.",
+        "However, due to topographical, hydrological and other constraints, only about 690 cubic km (32 per cent) of the available surface water can be utilised.",
+        "Water flow in a river depends on size of its catchment area or river basin and rainfall within its catchment area.",
+        "You have studied in your Class XI textbook “India : Physical Environment” that precipitation in India has very high spatial variation, and it is..."
+      ],
+      "correct_answer": 0,
+      "pattern": "not_type",
+      "source_trace": "NCERT Class 12 India People and Economy Ch4 pg 1",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 5,
+      "concepts_tested": [
+        "Unit III Unit III Chapter"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Human Settlements, which statement is supported by the source text about WATER RESOURCES Do?",
+      "options": [
+        "You also have studied in the textbook that some of the rivers in the country like the Ganga, the Brahmaputra, and the Indus have...",
+        "Given that precipitation is relatively high in the catchment areas of the Ganga, the Brahmaputra and the Barak rivers, these rivers, although account for...",
+        "Much of the annual water flow in south Indian rivers like the Godavari, the Krishna, and the Kaveri has been harnessed, but it is...",
+        "Groundwater Resources The total replenishable groundwater resources in the country are about 432 cubic km."
+      ],
+      "correct_answer": 0,
+      "pattern": "statement",
+      "source_trace": "NCERT Class 12 India People and Economy Ch4 pg 1",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 5,
+      "concepts_tested": [
+        "WATER RESOURCES Do"
       ]
     }
   ],
@@ -220,7 +310,7 @@
     "generation_method": "local_source_only_extractive_decode"
   },
   "content_model": "clearupsc_textbook_decoded_from_source_v1",
-  "decode_status": "textbook_decoded",
+  "decode_status": "textbook_verified",
   "source": {
     "book": "NCERT Class 12 India People and Economy",
     "chapter": 4,
@@ -232,5 +322,5 @@
   "source_trace": "NCERT Class 12 India People and Economy | Chapter 4: Human Settlements | https://ncert.nic.in/textbook/pdf/legy204.pdf | sha256:4665c011f481a2d749feb35c89f7d957cb29554c1de31704947e70a1be2ca9d1",
   "raw_text_path": "data/study/textbook-first/raw-text/gs1_geo_class12_india_people_economy_ch04_human_settlements.txt",
   "generated_by": "local_source_only_extractive_decode",
-  "generated_at": "2026-05-26T19:53:41.304Z"
+  "generated_at": "2026-05-26T20:26:47.494Z"
 }

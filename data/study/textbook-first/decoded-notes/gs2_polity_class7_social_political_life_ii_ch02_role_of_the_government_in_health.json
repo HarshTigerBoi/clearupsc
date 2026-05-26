@@ -136,7 +136,7 @@
       "source_trace": "NCERT Class 7 Social and Political Life II Ch2 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
-      "difficulty_level": 3,
+      "difficulty_level": 1,
       "concepts_tested": [
         "10 Social and Political Life Chapter 1: On Equality"
       ]
@@ -150,7 +150,7 @@
         "Some ways in which this situation can be changed are also discussed."
       ],
       "correct_answer": 0,
-      "pattern": "statement",
+      "pattern": "match",
       "source_trace": "NCERT Class 7 Social and Political Life II Ch2 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
@@ -204,13 +204,103 @@
         "Health means our ability to remain free of illness and injuries."
       ],
       "correct_answer": 0,
-      "pattern": "statement",
+      "pattern": "match",
       "source_trace": "NCERT Class 7 Social and Political Life II Ch2 pg 2",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
-      "difficulty_level": 3,
+      "difficulty_level": 4,
       "concepts_tested": [
         "18 Social and Political Life"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Role of the Government in Health, which statement is supported by the source text about 20 Social and Political Life?",
+      "options": [
+        "You may have associated only some of the situations in the above collage with health.",
+        "What we often ignore is the fact that each of the above situations is related to health.",
+        "Apart from disease, we need to think of other factors that affect our health.",
+        "For example, if people get clean drinking water or a pollution free environment they are likely to be healthy."
+      ],
+      "correct_answer": 0,
+      "pattern": "not_type",
+      "source_trace": "NCERT Class 7 Social and Political Life II Ch2 pg 3",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "20 Social and Political Life"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Role of the Government in Health, which statement is supported by the source text about 22 Social and Political Life?",
+      "options": [
+        "On the other hand, if people do not get adequate food to eat or have to live in cramped conditions, they will be prone...",
+        "All of us would like to be active and in good spirits in whatever we may be doing.",
+        "It isnt healthy to be dull, inactive, anxious or scared for long stretches of time.",
+        "All of these various aspects of our lives are a part of health."
+      ],
+      "correct_answer": 0,
+      "pattern": "statement",
+      "source_trace": "NCERT Class 7 Social and Political Life II Ch2 pg 3",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "22 Social and Political Life"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Role of the Government in Health, which statement is supported by the source text about 23 Chapter 2: Role of the Government in Health?",
+      "options": [
+        "Pick two situations from the above collage that are not related to illness and write two sentences on how they are related to health.",
+        "Would you associate all or some of these pictures with health ?",
+        "15 Patients usually have to wait in long queues in government hospitals, like this one.",
+        "India has a large number of doctors, clinics and hospitals."
+      ],
+      "correct_answer": 0,
+      "pattern": "match",
+      "source_trace": "NCERT Class 7 Social and Political Life II Ch2 pg 3",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "23 Chapter 2: Role of the Government in Health"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Role of the Government in Health, which statement is supported by the source text about Role of the Government in Health?",
+      "options": [
+        "The country also has considerable experience and knowledge in running a public healthcare system.",
+        "This is a system of hospitals and health centres run by the government.",
+        "It has the ability to look after the health of a large section of its population scattered over hundreds of thousands of villages.",
+        "Moreover, there has been a phenomenal advancement in medical sciences whereby many new technologies and treatment procedures are available in the country."
+      ],
+      "correct_answer": 0,
+      "pattern": "not_type",
+      "source_trace": "NCERT Class 7 Social and Political Life II Ch2 pg 5",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 5,
+      "concepts_tested": [
+        "Role of the Government in Health"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Role of the Government in Health, which statement is supported by the source text about Role?",
+      "options": [
+        "However, the second column points out how poor the health situation in our country is.",
+        "With all the above positive developments we are not able to provide proper healthcare facilities to people.",
+        "This is the paradox  something that is contrary to what we would expect.",
+        "Our country has the money, knowledge and people with experience but cannot make the necessary healthcare available to all."
+      ],
+      "correct_answer": 0,
+      "pattern": "statement",
+      "source_trace": "NCERT Class 7 Social and Political Life II Ch2 pg 5",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 5,
+      "concepts_tested": [
+        "Role"
       ]
     }
   ],
@@ -220,7 +310,7 @@
     "generation_method": "local_source_only_extractive_decode"
   },
   "content_model": "clearupsc_textbook_decoded_from_source_v1",
-  "decode_status": "textbook_decoded",
+  "decode_status": "textbook_verified",
   "source": {
     "book": "NCERT Class 7 Social and Political Life II",
     "chapter": 2,
@@ -232,5 +322,5 @@
   "source_trace": "NCERT Class 7 Social and Political Life II | Chapter 2: Role of the Government in Health | https://ncert.nic.in/textbook/pdf/gess302.pdf | sha256:2a1c6f49007feb460c4583b3fbd0eba17a4d4edc4b81abb7dfa7254cc60d4b34",
   "raw_text_path": "data/study/textbook-first/raw-text/gs2_polity_class7_social_political_life_ii_ch02_role_of_the_government_in_health.txt",
   "generated_by": "local_source_only_extractive_decode",
-  "generated_at": "2026-05-26T19:54:14.119Z"
+  "generated_at": "2026-05-26T20:27:21.627Z"
 }

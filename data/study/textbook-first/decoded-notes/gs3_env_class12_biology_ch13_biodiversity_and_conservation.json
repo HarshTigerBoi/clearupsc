@@ -128,7 +128,7 @@
       "source_trace": "NCERT Class 12 Biology Ch13 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
-      "difficulty_level": 3,
+      "difficulty_level": 1,
       "concepts_tested": [
         "13.1 BIODIVERSITY"
       ]
@@ -142,7 +142,7 @@
         "13.1 BIODIVERSITY In our biosphere immense diversity (or heterogeneity) exists not only at the species level but at all levels of biological organisation ranging..."
       ],
       "correct_answer": 0,
-      "pattern": "statement",
+      "pattern": "match",
       "source_trace": "NCERT Class 12 Biology Ch13 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
@@ -196,13 +196,103 @@
         "According to the International Union for Conservation of Nature and Natural Resources (IUCN) (2004), the total number of plant and animal species described so..."
       ],
       "correct_answer": 0,
-      "pattern": "statement",
+      "pattern": "match",
       "source_trace": "NCERT Class 12 Biology Ch13 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
-      "difficulty_level": 3,
+      "difficulty_level": 4,
       "concepts_tested": [
         "13.2 Biodiversity Conservation"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Biodiversity and Conservation, which statement is supported by the source text about BIODIVERSITY AND CONSERVATION?",
+      "options": [
+        "Estimates vary widely and many of them are only educated guesses.",
+        "For many taxonomic groups, species inventories are more complete in temperate than in tropical countries.",
+        "Considering that an overwhelmingly large proportion of the species waiting to be discovered are in the tropics, biologists make a statistical comparison of the...",
+        "Some extreme estimates range from 20 to 50 million, but a more conservative and scientifically sound estimate made by Robert May places the global..."
+      ],
+      "correct_answer": 0,
+      "pattern": "not_type",
+      "source_trace": "NCERT Class 12 Biology Ch13 pg 1",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "BIODIVERSITY AND CONSERVATION"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Biodiversity and Conservation, which statement is supported by the source text about 13.1.1 How Many Species are there on Earth and How Many?",
+      "options": [
+        "218 BIOLOGY Let us look at some interesting aspects about earth’s biodiversity based on the currently available species inventories.",
+        "More than 70 per cent of all the species recorded are animals, while plants (including algae, fungi, bryophytes, gymnosperms and angiosperms) comprise no more...",
+        "Among animals, insects are the most species-rich taxonomic group, making up more than 70 per cent of the total.",
+        "That means, out of every 10 animals on this planet, 7 are insects."
+      ],
+      "correct_answer": 0,
+      "pattern": "statement",
+      "source_trace": "NCERT Class 12 Biology Ch13 pg 2",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "13.1.1 How Many Species are there on Earth and How Many"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Biodiversity and Conservation, which statement is supported by the source text about BIOLOGY?",
+      "options": [
+        "Again, how do we explain this enormous diversification of insects?",
+        "The number of fungi species in the world is more than the combined total of the species of fishes, amphibians, reptiles and mammals.",
+        "In Figure 13.1, biodiversity is depicted showing species number of major taxa.",
+        "Figure 13.1 Representing global biodiversity: proportionate number of species of major taxa of plants, invertebrates and vertebrates It should be noted that these estimates..."
+      ],
+      "correct_answer": 0,
+      "pattern": "match",
+      "source_trace": "NCERT Class 12 Biology Ch13 pg 2",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "BIOLOGY"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Biodiversity and Conservation, which statement is supported by the source text about 13.1.2 Patterns of Biodiversity?",
+      "options": [
+        "Biologists are not sure about how many prokaryotic species there might be.",
+        "The problem is that conventional taxonomic methods are not suitable for identifying microbial species and many species are simply not culturable under laboratory conditions.",
+        "If we accept biochemical or molecular criteria for delineating species for this group, then their diversity alone might run into millions.",
+        "219 BIODIVERSITY AND CONSERVATION Although India has only 2.4 per cent of the world’s land area, its share of the global species diversity is..."
+      ],
+      "correct_answer": 0,
+      "pattern": "not_type",
+      "source_trace": "NCERT Class 12 Biology Ch13 pg 2",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 5,
+      "concepts_tested": [
+        "13.1.2 Patterns of Biodiversity"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Biodiversity and Conservation, which statement is supported by the source text about 13.1.3 The importance of Species Diversity to the Ecosystem?",
+      "options": [
+        "That is what makes our country one of the 12 mega diversity countries of the world.",
+        "Nearly 45,000 species of plants and twice as many of animals have been recorded from India.",
+        "How many living species are actually there waiting to be discovered and named?",
+        "If we accept May’s global estimates, only 22 per cent of the total species have been recorded so far."
+      ],
+      "correct_answer": 0,
+      "pattern": "statement",
+      "source_trace": "NCERT Class 12 Biology Ch13 pg 3",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 5,
+      "concepts_tested": [
+        "13.1.3 The importance of Species Diversity to the Ecosystem"
       ]
     }
   ],
@@ -212,7 +302,7 @@
     "generation_method": "local_source_only_extractive_decode"
   },
   "content_model": "clearupsc_textbook_decoded_from_source_v1",
-  "decode_status": "textbook_decoded",
+  "decode_status": "textbook_verified",
   "source": {
     "book": "NCERT Class 12 Biology",
     "chapter": 13,
@@ -224,5 +314,5 @@
   "source_trace": "NCERT Class 12 Biology | Chapter 13: Biodiversity and Conservation | https://ncert.nic.in/textbook/pdf/lebo113.pdf | sha256:d4587f07dd122d19493a66fb2aae6f11ae02ef9124dea92634b524f078f20faa",
   "raw_text_path": "data/study/textbook-first/raw-text/gs3_env_class12_biology_ch13_biodiversity_and_conservation.txt",
   "generated_by": "local_source_only_extractive_decode",
-  "generated_at": "2026-05-26T19:53:40.353Z"
+  "generated_at": "2026-05-26T20:26:46.521Z"
 }

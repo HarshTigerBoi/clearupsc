@@ -132,7 +132,7 @@
       "source_trace": "NCERT Class 12 Biology Ch1 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
-      "difficulty_level": 3,
+      "difficulty_level": 1,
       "concepts_tested": [
         "PANCHANAN MAHESHWARI"
       ]
@@ -146,7 +146,7 @@
         "PANCHANAN MAHESHWARI (1904-1966) Born in November 1904 in Jaipur (Rajasthan) Panchanan Maheshwari rose to become one of the most distinguished botanists not only of..."
       ],
       "correct_answer": 0,
-      "pattern": "statement",
+      "pattern": "match",
       "source_trace": "NCERT Class 12 Biology Ch1 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
@@ -200,13 +200,103 @@
         "The myriads of flowers that we enjoy gazing at, the scents and the perfumes that we swoon over, the rich colours that attract us,..."
       ],
       "correct_answer": 0,
-      "pattern": "statement",
+      "pattern": "match",
       "source_trace": "NCERT Class 12 Biology Ch1 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
-      "difficulty_level": 3,
+      "difficulty_level": 4,
       "concepts_tested": [
         "1.2 Pre-fertilisation : Structures"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Reproduction in Organisms, which statement is supported by the source text about 1.3 Double Fertilisation?",
+      "options": [
+        "Flowers do not exist only for us to be used for our own selfishness.",
+        "A look at the diversity of structures of the inflorescences, flowers and floral parts, shows an amazing range of adaptations to ensure formation of...",
+        "In this chapter, let us understand the morphology, structure and the processes of sexual reproduction in flowering plants (angiosperms).",
+        "1.1 FLOWER – A FASCINATING ORGAN OF ANGIOSPERMS Human beings have had an intimate relationship with flowers since time immemorial."
+      ],
+      "correct_answer": 0,
+      "pattern": "not_type",
+      "source_trace": "NCERT Class 12 Biology Ch1 pg 2",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "1.3 Double Fertilisation"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Reproduction in Organisms, which statement is supported by the source text about 1.4 Post-fertilisation: Structures?",
+      "options": [
+        "Flowers are objects of aesthetic, ornamental, social, religious and cultural value – they have always been used as symbols for conveying important human feelings...",
+        "List at least five flowers of ornamental value that are commonly cultivated at 1.1 Flower – A Fascinating Organ of Angiosperms 1.2 Pre-fertilisation :...",
+        "Find out the names of five more flowers that are used in social and cultural celebrations in your family.",
+        "Have you heard of floriculture – what does it refer to?"
+      ],
+      "correct_answer": 0,
+      "pattern": "statement",
+      "source_trace": "NCERT Class 12 Biology Ch1 pg 2",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "1.4 Post-fertilisation: Structures"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Reproduction in Organisms, which statement is supported by the source text about 1.5 Apomixis and?",
+      "options": [
+        "To a biologist, flowers are morphological and embryological marvels and the sites of sexual reproduction.",
+        "In earlier classes, you have read the various parts of a flower.",
+        "Figure 1.1 will help you recall the parts of a typical flower.",
+        "Can you name the two parts in a flower in which the two most important units of sexual reproduction develop?"
+      ],
+      "correct_answer": 0,
+      "pattern": "match",
+      "source_trace": "NCERT Class 12 Biology Ch1 pg 3",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "1.5 Apomixis and"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Reproduction in Organisms, which statement is supported by the source text about CHAPTER 1?",
+      "options": [
+        "1.2 PRE-FERTILISATION: STRUCTURES AND EVENTS Much before the actual flower is seen on a plant, the decision that the plant is going to flower...",
+        "Several hormonal and structural changes are initiated which lead to the differentiation and further development of the floral primordium.",
+        "Inflorescences are formed which bear the floral buds and then the flowers.",
+        "In the flower the male and female reproductive structures, the androecium and the gynoecium differentiate and develop."
+      ],
+      "correct_answer": 0,
+      "pattern": "not_type",
+      "source_trace": "NCERT Class 12 Biology Ch1 pg 3",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 5,
+      "concepts_tested": [
+        "CHAPTER 1"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Reproduction in Organisms, which statement is supported by the source text about SEXUAL REPRODUCTION IN?",
+      "options": [
+        "You would recollect that the androecium consists of a whorl of stamens representing the male reproductive organ and the gynoecium represents the female reproductive...",
+        "Figure 1.1 A diagrammatic representation of L.S. of a flower",
+        "5 HUMAN REPRODUCTION SEXUAL REPRODUCTION IN FLOWERING PLANTS 1.2.1 Stamen, Microsporangium and Pollen Grain Figure 1.2a shows the two parts of a typical stamen...",
+        "The proximal end of the filament is attached to the thalamus or the petal of the flower."
+      ],
+      "correct_answer": 0,
+      "pattern": "statement",
+      "source_trace": "NCERT Class 12 Biology Ch1 pg 3",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 5,
+      "concepts_tested": [
+        "SEXUAL REPRODUCTION IN"
       ]
     }
   ],
@@ -216,7 +306,7 @@
     "generation_method": "local_source_only_extractive_decode"
   },
   "content_model": "clearupsc_textbook_decoded_from_source_v1",
-  "decode_status": "textbook_decoded",
+  "decode_status": "textbook_verified",
   "source": {
     "book": "NCERT Class 12 Biology",
     "chapter": 1,
@@ -228,5 +318,5 @@
   "source_trace": "NCERT Class 12 Biology | Chapter 1: Reproduction in Organisms | https://ncert.nic.in/textbook/pdf/lebo101.pdf | sha256:039bad8cf195a93b90fa7857eda95f39bdd4fd278b3c8bced235f3b6cd71c25c",
   "raw_text_path": "data/study/textbook-first/raw-text/gs3_env_class12_biology_ch01_reproduction_in_organisms.txt",
   "generated_by": "local_source_only_extractive_decode",
-  "generated_at": "2026-05-26T19:53:37.427Z"
+  "generated_at": "2026-05-26T20:26:43.451Z"
 }

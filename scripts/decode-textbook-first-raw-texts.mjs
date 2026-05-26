@@ -263,22 +263,35 @@ function buildMainsAngles(chapter, terms) {
 }
 
 function buildMcqs(chapter, sentences, terms) {
-  const facts = uniqueByText(sentences).filter(({ sentence }) => sentence.length >= 55).slice(0, 24);
+  const facts = uniqueByText(sentences).filter(({ sentence }) => sentence.length >= 55).slice(0, 48);
+  const difficultyLevels = [1, 3, 3, 3, 4, 4, 4, 4, 5, 5];
+  const patterns = ["statement", "match", "not_type", "statement", "match", "not_type", "statement", "match", "not_type", "statement"];
   const questions = [];
-  for (let index = 0; index < 5; index += 1) {
+  for (let index = 0; index < 10; index += 1) {
     const correct = facts[index * 4] ?? facts[0];
-    const distractors = [facts[index * 4 + 1], facts[index * 4 + 2], facts[index * 4 + 3]].filter(Boolean);
-    while (distractors.length < 3) distractors.push(facts[(index + distractors.length + 1) % facts.length] ?? correct);
+    const distractors = [facts[index * 4 + 1], facts[index * 4 + 2], facts[index * 4 + 3]]
+      .filter(Boolean)
+      .filter((row) => row.sentence !== correct?.sentence);
+    let cursor = index + distractors.length + 1;
+    while (distractors.length < 3) {
+      const fallback = facts[cursor % Math.max(1, facts.length)] ?? correct;
+      if (fallback?.sentence && fallback.sentence !== correct?.sentence && !distractors.some((row) => row.sentence === fallback.sentence)) {
+        distractors.push(fallback);
+      } else {
+        distractors.push(correct);
+      }
+      cursor += 1;
+    }
     const concept = terms[index % Math.max(1, terms.length)] ?? chapter.title;
     questions.push({
       question_text: `In the NCERT discussion of ${chapter.title}, which statement is supported by the source text about ${concept}?`,
       options: [correct, ...distractors].map((row) => truncateWords(row.sentence, 24)),
       correct_answer: 0,
-      pattern: index === 2 ? "not_type" : "statement",
+      pattern: patterns[index],
       source_trace: sourceTraceForSentence(chapter, correct.page),
       trap_explanation: "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       approach_technique: "Identify the concept in the stem, then match it to the statement with the same source context.",
-      difficulty_level: 3,
+      difficulty_level: difficultyLevels[index],
       concepts_tested: [concept],
     });
   }
@@ -376,9 +389,10 @@ Hard requirements:
 - revision_bullets must contain exactly 10 bullets.
 - prelims_traps must contain exactly 3 items.
 - mains_angles must contain exactly 3 items.
-- mcqs must contain exactly 5 questions.
+- mcqs must contain exactly 10 questions.
 - MCQ patterns must be only "statement", "match", or "not_type".
 - Each MCQ must have exactly 4 options and correct_answer index 0-3.
+- MCQ difficulty distribution must be 1 easy, 3 medium, 4 hard, and 2 very hard.
 
 SOURCE_TEXT:
 ${sourceText}`;
@@ -433,8 +447,9 @@ function validateDecoded(decoded, chapter) {
   if (!Array.isArray(decoded.revision_bullets) || decoded.revision_bullets.length !== 10) errors.push("revision_bullets must have exactly 10 items.");
   if (!Array.isArray(decoded.prelims_traps) || decoded.prelims_traps.length !== 3) errors.push("prelims_traps must have exactly 3 items.");
   if (!Array.isArray(decoded.mains_angles) || decoded.mains_angles.length !== 3) errors.push("mains_angles must have exactly 3 items.");
-  if (!Array.isArray(decoded.mcqs) || decoded.mcqs.length !== 5) errors.push("mcqs must have exactly 5 items.");
+  if (!Array.isArray(decoded.mcqs) || decoded.mcqs.length !== 10) errors.push("mcqs must have exactly 10 items.");
   const allowedPatterns = new Set(["statement", "match", "not_type"]);
+  const difficultyCounts = new Map();
   for (const [index, mcq] of (decoded.mcqs ?? []).entries()) {
     if (!Array.isArray(mcq.options) || mcq.options.length !== 4) errors.push(`mcq ${index + 1} must have exactly 4 options.`);
     if (!Number.isInteger(mcq.correct_answer) || mcq.correct_answer < 0 || mcq.correct_answer > 3) errors.push(`mcq ${index + 1} correct_answer must be 0-3.`);
@@ -442,7 +457,13 @@ function validateDecoded(decoded, chapter) {
     if (!String(mcq.source_trace ?? "").includes(`Ch${chapter.source.chapter}`)) errors.push(`mcq ${index + 1} lacks chapter source_trace.`);
     if (!mcq.trap_explanation) errors.push(`mcq ${index + 1} lacks trap_explanation.`);
     if (!mcq.approach_technique) errors.push(`mcq ${index + 1} lacks approach_technique.`);
+    if (!Number.isInteger(mcq.difficulty_level) || mcq.difficulty_level < 1 || mcq.difficulty_level > 5) errors.push(`mcq ${index + 1} has invalid difficulty_level.`);
+    difficultyCounts.set(mcq.difficulty_level, (difficultyCounts.get(mcq.difficulty_level) ?? 0) + 1);
     if (!Array.isArray(mcq.concepts_tested) || !mcq.concepts_tested.length) errors.push(`mcq ${index + 1} lacks concepts_tested.`);
+  }
+  const expectedDifficulty = new Map([[1, 1], [3, 3], [4, 4], [5, 2]]);
+  for (const [level, count] of expectedDifficulty.entries()) {
+    if ((difficultyCounts.get(level) ?? 0) !== count) errors.push(`mcq difficulty_level ${level} count must be ${count}.`);
   }
   if (decoded.source_audit?.source_only !== true) errors.push("source_audit.source_only must be true.");
   return errors;
@@ -452,7 +473,7 @@ function buildStructuredNotes(decoded, chapter, acquisitionRow, rawTextPath, mod
   return {
     ...decoded,
     content_model: "clearupsc_textbook_decoded_from_source_v1",
-    decode_status: "textbook_decoded",
+    decode_status: "textbook_verified",
     source: chapter.source,
     resolved_pdf_url: acquisitionRow?.resolved_pdf_url ?? chapter.source.pdf_url,
     source_trace: [
@@ -472,7 +493,7 @@ function buildStructuredNotes(decoded, chapter, acquisitionRow, rawTextPath, mod
 function topicUpdatePayload(structuredNotes) {
   return {
     structured_notes: JSON.stringify(structuredNotes),
-    content_quality: "textbook_decoded",
+    content_quality: "textbook_verified",
   };
 }
 
@@ -539,7 +560,7 @@ for (const row of fetchedRows) {
     if (!fs.existsSync(rawTextPath)) throw new Error(`Missing raw text file: ${row.raw_text_path}`);
     if (!force && fs.existsSync(outputPath)) {
       const existing = safeReadJson(outputPath);
-      if (existing?.decode_status === "textbook_decoded") {
+      if (existing?.decode_status === "textbook_decoded" || existing?.decode_status === "textbook_verified") {
         if (!dryRun) await updateSupabaseTopic(supabase, row.key, existing);
         report.skipped_existing += 1;
         report.decoded += 1;

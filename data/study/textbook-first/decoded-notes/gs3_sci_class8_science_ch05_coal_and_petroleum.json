@@ -136,7 +136,7 @@
       "source_trace": "NCERT Class 8 Science Ch5 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
-      "difficulty_level": 3,
+      "difficulty_level": 1,
       "concepts_tested": [
         "CONSERVATION OF PLANTS AND ANIMALS CONSERVATION OF PLANTS AND ANIMALS"
       ]
@@ -150,7 +150,7 @@
         "It increases the level of carbon dioxide in the atmosphere."
       ],
       "correct_answer": 0,
-      "pattern": "statement",
+      "pattern": "match",
       "source_trace": "NCERT Class 8 Science Ch5 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
@@ -204,13 +204,103 @@
         "The increase in temperature on the earth disturbs the water cycle and may reduce rainfall."
       ],
       "correct_answer": 0,
+      "pattern": "match",
+      "source_trace": "NCERT Class 8 Science Ch5 pg 1",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "5.3 Conservation of Forest"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Coal and Petroleum, which statement is supported by the source text about CONSERVATION OF PLANTS AND ANIMALS 55?",
+      "options": [
+        "Deforestation is a major cause which leads to the change in soil properties.",
+        "Physical properties of the soil get affected by plantation and vegetation.",
+        "Removal of the top layer of the soil exposes the lower, hard and rocky layers.",
+        "Gradually the fertile land gets converted into deserts."
+      ],
+      "correct_answer": 0,
+      "pattern": "not_type",
+      "source_trace": "NCERT Class 8 Science Ch5 pg 1",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "CONSERVATION OF PLANTS AND ANIMALS 55"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Coal and Petroleum, which statement is supported by the source text about 5.4 Biosphere Reserve?",
+      "options": [
+        "Deforestation also leads to a decrease in the water holding capacity of the soil.",
+        "The movement of water from the soil surface into the ground (infiltration rate) is reduced.",
+        "The other properties of the soil like nutrient content, texture etc., also change because of deforestation.",
+        "We have studied in Class VII that we get many products from forests."
+      ],
+      "correct_answer": 0,
       "pattern": "statement",
       "source_trace": "NCERT Class 8 Science Ch5 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
-      "difficulty_level": 3,
+      "difficulty_level": 4,
       "concepts_tested": [
-        "5.3 Conservation of Forest"
+        "5.4 Biosphere Reserve"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Coal and Petroleum, which statement is supported by the source text about PACHMARHI SANCTUARY?",
+      "options": [
+        "Will we face shortage of these products if we continue cutting trees?",
+        "5.3 Conservation of Forest and Wildlife Having become aware of the effects of deforestation, Paheli and Boojho are worried.",
+        "They go to Professor Ahmad and ask him how forests and wildlife can be saved.",
+        "Biosphere is that part of the earth in which living organisms exist or which supports life."
+      ],
+      "correct_answer": 0,
+      "pattern": "match",
+      "source_trace": "NCERT Class 8 Science Ch5 pg 1",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "PACHMARHI SANCTUARY"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Coal and Petroleum, which statement is supported by the source text about TO PIPARIYA?",
+      "options": [
+        "Biological diversity or biodiversity, refers to the variety of organisms existing on the earth, their interrelationships and their relationship with the environment.",
+        "Professor Ahmad organises a visit to a biosphere reserve for Paheli, Boojho and their classmates.",
+        "He knows that the plants and animals found here are similar to those of the upper Himalayan peaks and to those belonging to the...",
+        "Professor Ahmad believes that the biodiversity found here is unique."
+      ],
+      "correct_answer": 0,
+      "pattern": "not_type",
+      "source_trace": "NCERT Class 8 Science Ch5 pg 1",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 5,
+      "concepts_tested": [
+        "TO PIPARIYA"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Coal and Petroleum, which statement is supported by the source text about TAWA?",
+      "options": [
+        "He requests Madhavji, a forest employee, to guide the children inside the biosphere reserve.",
+        "He explains that preserving areas of such biological importance make them a part of our national heritage.",
+        "Madhavji explains to the children that apart from our personal efforts and efforts of the society, government To protect our flora and fauna and...",
+        "Plantation, cultivation, grazing, felling trees, hunting and poaching are prohibited there."
+      ],
+      "correct_answer": 0,
+      "pattern": "statement",
+      "source_trace": "NCERT Class 8 Science Ch5 pg 1",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 5,
+      "concepts_tested": [
+        "TAWA"
       ]
     }
   ],
@@ -220,7 +310,7 @@
     "generation_method": "local_source_only_extractive_decode"
   },
   "content_model": "clearupsc_textbook_decoded_from_source_v1",
-  "decode_status": "textbook_decoded",
+  "decode_status": "textbook_verified",
   "source": {
     "book": "NCERT Class 8 Science",
     "chapter": 5,
@@ -232,5 +322,5 @@
   "source_trace": "NCERT Class 8 Science | Chapter 5: Coal and Petroleum | https://ncert.nic.in/textbook/pdf/hesc105.pdf | sha256:19c3ef27e39a7db8f07ab7fd8f193a4d3bd3b6d45434badcc3b66eec4426f51e",
   "raw_text_path": "data/study/textbook-first/raw-text/gs3_sci_class8_science_ch05_coal_and_petroleum.txt",
   "generated_by": "local_source_only_extractive_decode",
-  "generated_at": "2026-05-26T19:54:38.004Z"
+  "generated_at": "2026-05-26T20:27:46.762Z"
 }

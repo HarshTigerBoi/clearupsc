@@ -120,7 +120,7 @@
       "source_trace": "NCERT Class 12 Fundamentals of Human Geography Ch5 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
-      "difficulty_level": 3,
+      "difficulty_level": 1,
       "concepts_tested": [
         "MANUF MANUF MANUF MANUF MANUFA A A A ACTURING CTURING CTURING CTURING CTURING"
       ]
@@ -134,7 +134,7 @@
         "In each of these processes, the common characteristics are the application of power, mass production of identical products and specialised labour in factory settings..."
       ],
       "correct_answer": 0,
-      "pattern": "statement",
+      "pattern": "match",
       "source_trace": "NCERT Class 12 Fundamentals of Human Geography Ch5 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
@@ -188,13 +188,103 @@
         "Mechanisation Mechanisation Mechanisation Mechanisation Mechanisation Mechanisation refers to using gadgets which accomplish tasks."
       ],
       "correct_answer": 0,
+      "pattern": "match",
+      "source_trace": "NCERT Class 12 Fundamentals of Human Geography Ch5 pg 1",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "Fundamentals of Human Geography"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Primary Activities, which statement is supported by the source text about III Chapter?",
+      "options": [
+        "Automation (without aid of human thinking during the manufacturing process) is the advanced stage of mechanisation.",
+        "Automatic factories with feedback and closed- loop computer control systems where machines are developed to ‘think’, have sprung up all over the world.",
+        "Technological Innovation Technological Innovation Technological Innovation Technological Innovation Technological Innovation Technological innovations through research and development strategy are an important aspect of modern manufacturing...",
+        "Organisational Structure and Stratification Organisational Structure and Stratification Organisational Structure and Stratification Organisational Structure and Stratification Organisational Structure and Stratification Modern manufacturing is characterised..."
+      ],
+      "correct_answer": 0,
+      "pattern": "not_type",
+      "source_trace": "NCERT Class 12 Fundamentals of Human Geography Ch5 pg 1",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "III Chapter"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Primary Activities, which statement is supported by the source text about Secondary Activities All?",
+      "options": [
+        "It also requires vast capital, large organisations and executive bureaucracy for a large scale manufacturing industry.",
+        "Uneven Geographic Distribution Uneven Geographic Distribution Uneven Geographic Distribution Uneven Geographic Distribution Uneven Geographic Distribution Major concentrations of modern manufacturing have flourished in a...",
+        "These cover less than 10 per cent of the world’s land area.",
+        "These nations have become the centres of economic and political power."
+      ],
+      "correct_answer": 0,
       "pattern": "statement",
       "source_trace": "NCERT Class 12 Fundamentals of Human Geography Ch5 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
-      "difficulty_level": 3,
+      "difficulty_level": 4,
       "concepts_tested": [
-        "Fundamentals of Human Geography"
+        "Secondary Activities All"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Primary Activities, which statement is supported by the source text about Cotton in the?",
+      "options": [
+        "However, in terms of the total area covered, manufacturing sites are much less conspicuous and concentrated on much smaller areas than that of agriculture...",
+        "For example, 2.5 sq km of the American corn belt usually includes about four large farms employing about 10-20 workers supporting 50-100 persons.",
+        "But this same area could contain several large integrated factories and employ thousands of workers.",
+        "Why do Large-scale Industries choose different locations?"
+      ],
+      "correct_answer": 0,
+      "pattern": "match",
+      "source_trace": "NCERT Class 12 Fundamentals of Human Geography Ch5 pg 1",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "Cotton in the"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Primary Activities, which statement is supported by the source text about MANUF MANUF MANUF MANUF MANUFA?",
+      "options": [
+        "Therefore, industries should be located at points where the production costs are minimum.",
+        "Some of the factors influencing industrial locations are as under: Access to Market Access to Market Access to Market Access to Market Access to...",
+        "Remote areas inhabited by a few people offer small markets.",
+        "The developed regions of Europe, North America, Japan and Australia provide large global markets as the purchasing power of the people is very high."
+      ],
+      "correct_answer": 0,
+      "pattern": "not_type",
+      "source_trace": "NCERT Class 12 Fundamentals of Human Geography Ch5 pg 1",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 5,
+      "concepts_tested": [
+        "MANUF MANUF MANUF MANUF MANUFA"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Primary Activities, which statement is supported by the source text about ACTURING CTURING CTURING CTURING CTURING Manufacturing?",
+      "options": [
+        "The densely populated regions of South and South-east Asia also",
+        "Fundamentals of Human Geography 38 provide large markets.",
+        "Some industries, such as aircraft manufacturing, have a global market.",
+        "Access to Raw Material Raw material used by industries should be cheap and easy to transport."
+      ],
+      "correct_answer": 0,
+      "pattern": "statement",
+      "source_trace": "NCERT Class 12 Fundamentals of Human Geography Ch5 pg 1",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 5,
+      "concepts_tested": [
+        "ACTURING CTURING CTURING CTURING CTURING Manufacturing"
       ]
     }
   ],
@@ -204,7 +294,7 @@
     "generation_method": "local_source_only_extractive_decode"
   },
   "content_model": "clearupsc_textbook_decoded_from_source_v1",
-  "decode_status": "textbook_decoded",
+  "decode_status": "textbook_verified",
   "source": {
     "book": "NCERT Class 12 Fundamentals of Human Geography",
     "chapter": 5,
@@ -216,5 +306,5 @@
   "source_trace": "NCERT Class 12 Fundamentals of Human Geography | Chapter 5: Primary Activities | https://ncert.nic.in/textbook/pdf/legy105.pdf | sha256:c6335f23fa1ff55552829ceda73586d277347b7e189978115152b04be2faa4b0",
   "raw_text_path": "data/study/textbook-first/raw-text/gs1_geo_class12_human_ch05_primary_activities.txt",
   "generated_by": "local_source_only_extractive_decode",
-  "generated_at": "2026-05-26T19:53:52.109Z"
+  "generated_at": "2026-05-26T20:26:58.594Z"
 }

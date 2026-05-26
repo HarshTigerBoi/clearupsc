@@ -136,7 +136,7 @@
       "source_trace": "NCERT Class 9 Science Ch11 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
-      "difficulty_level": 3,
+      "difficulty_level": 1,
       "concepts_tested": [
         "209 Reproduction: How Life Continues"
       ]
@@ -150,7 +150,7 @@
         "Accumulated over many generations, such differences help living beings adapt to changing environments, and sometimes even give rise to new kinds of Think It..."
       ],
       "correct_answer": 0,
-      "pattern": "statement",
+      "pattern": "match",
       "source_trace": "NCERT Class 9 Science Ch11 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
@@ -204,13 +204,103 @@
         "These methods are widely used to efficiently propagate plants, and have significantly improved agricultural and horticultural practices."
       ],
       "correct_answer": 0,
+      "pattern": "match",
+      "source_trace": "NCERT Class 9 Science Ch11 pg 1",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "11.2 Sexual Reproduction"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Work and Energy, which statement is supported by the source text about 213 Reproduction: How Life Continues?",
+      "options": [
+        "Such methods enable farmers to cultivate desirable crops on a large scale.",
+        "Interact with gardeners working in your school garden or farmers working in a field.",
+        "Observe the techniques of cutting, grafting and layering followed by them.",
+        "Discuss these techniques with them and record your observations in your notebook."
+      ],
+      "correct_answer": 0,
+      "pattern": "not_type",
+      "source_trace": "NCERT Class 9 Science Ch11 pg 1",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "213 Reproduction: How Life Continues"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Work and Energy, which statement is supported by the source text about 11.2.1 How does meiosis help create variations in sexual?",
+      "options": [
+        "Note the following points while observing the technique of cutting in the field.",
+        "(i) Does the gardener, scientist or horticulturist cut the overgrown branches of a plant at the end of its growing season?",
+        "(ii) Observe them prepare the cuttings from a plant for the purpose of growing new plants.",
+        "(iii) Count the number of nodes and internodes on the cuttings."
+      ],
+      "correct_answer": 0,
       "pattern": "statement",
       "source_trace": "NCERT Class 9 Science Ch11 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
-      "difficulty_level": 3,
+      "difficulty_level": 4,
       "concepts_tested": [
-        "11.2 Sexual Reproduction"
+        "11.2.1 How does meiosis help create variations in sexual"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Work and Energy, which statement is supported by the source text about 11.2.2 Sexual reproduction in flowering plants?",
+      "options": [
+        "Collect the cuttings of the shoots in the morning for planting.",
+        "Insert the cuttings up to approximately half of their length in the soil mixed with compost at an angle of about 45– 60° from...",
+        "For grafting, take a healthy rooted plant (Plant A) (Fig.",
+        "11.3a) (for example, a wild rose variety) and a healthy stem piece from another plant (Plant B) of other varieties (for example, a yellow..."
+      ],
+      "correct_answer": 0,
+      "pattern": "match",
+      "source_trace": "NCERT Class 9 Science Ch11 pg 1",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "11.2.2 Sexual reproduction in flowering plants"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Work and Energy, which statement is supported by the source text about A B C D?",
+      "options": [
+        "Insert and fit the cutting of stem of Plant B into the slit of stem of Plant A (Fig.",
+        "Protect the wound or slit by using a cotton cloth or by wrapping film to avoid pests entering the graft until it heals (Fig.",
+        "Water the plant regularly and observe the growth of Plant B along with Plant A.",
+        "For layering, select a flexible, thin twig of a tree or a shrub, such as a lemon and bury the middle part of the..."
+      ],
+      "correct_answer": 0,
+      "pattern": "not_type",
+      "source_trace": "NCERT Class 9 Science Ch11 pg 2",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 5,
+      "concepts_tested": [
+        "A B C D"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Work and Energy, which statement is supported by the source text about 215 Reproduction: How Life Continues?",
+      "options": [
+        "Water it regularly and observe the growth of new leaves on the twig buried in the soil.",
+        "After 10 – 15 days, the roots will develop from the area of the twig buried in the soil.",
+        "Once roots have developed, cut the twig from the parent plant, so that it can grow as a new plant.",
+        "These are some of the methods of asexual reproduction through which different varieties of plants can be propagated."
+      ],
+      "correct_answer": 0,
+      "pattern": "statement",
+      "source_trace": "NCERT Class 9 Science Ch11 pg 2",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 5,
+      "concepts_tested": [
+        "215 Reproduction: How Life Continues"
       ]
     }
   ],
@@ -220,7 +310,7 @@
     "generation_method": "local_source_only_extractive_decode"
   },
   "content_model": "clearupsc_textbook_decoded_from_source_v1",
-  "decode_status": "textbook_decoded",
+  "decode_status": "textbook_verified",
   "source": {
     "book": "NCERT Class 9 Science",
     "chapter": 11,
@@ -232,5 +322,5 @@
   "source_trace": "NCERT Class 9 Science | Chapter 11: Work and Energy | https://ncert.nic.in/textbook/pdf/iesc111.pdf | sha256:e00c130dbb0b415c435ffc1be89da297057c4a5a5b01d04c4773440d7ca1748d",
   "raw_text_path": "data/study/textbook-first/raw-text/gs3_sci_class9_science_ch11_work_and_energy.txt",
   "generated_by": "local_source_only_extractive_decode",
-  "generated_at": "2026-05-26T19:54:42.471Z"
+  "generated_at": "2026-05-26T20:27:51.215Z"
 }

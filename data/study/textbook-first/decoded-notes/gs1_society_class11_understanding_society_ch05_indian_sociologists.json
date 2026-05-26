@@ -136,7 +136,7 @@
       "source_trace": "NCERT Class 11 Understanding Society Ch5 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
-      "difficulty_level": 3,
+      "difficulty_level": 1,
       "concepts_tested": [
         "82 UNDERSTANDING SOCIETY"
       ]
@@ -150,7 +150,7 @@
         "In this chapter, you are going to be introduced to some of the founding figures of Indian sociology."
       ],
       "correct_answer": 0,
-      "pattern": "statement",
+      "pattern": "match",
       "source_trace": "NCERT Class 11 Understanding Society Ch5 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
@@ -204,13 +204,103 @@
         "Ananthakrishna Iyer (1861-1937), began his career as a clerk, moved on to become a school teacher and later a college teacher in Cochin state..."
       ],
       "correct_answer": 0,
+      "pattern": "match",
+      "source_trace": "NCERT Class 11 Understanding Society Ch5 pg 1",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "84 UNDERSTANDING SOCIETY"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Indian Sociologists, which statement is supported by the source text about 8 5 INDIAN SOCIOLOGISTS?",
+      "options": [
+        "In 1902, he was asked by the Dewan of Cochin to assist with an ethnographic survey of the state.",
+        "The British government wanted similar surveys done in all the princely states as well as the presidency areas directly under its control.",
+        "Ananthakrishna Iyer did this work on a purely voluntary basis, working as a college teacher in the Maharajah’s College at Ernakulam during the week,...",
+        "His work was much appreciated by British anthropologists and administrators of the time, and later he was also invited to help with a similar..."
+      ],
+      "correct_answer": 0,
+      "pattern": "not_type",
+      "source_trace": "NCERT Class 11 Understanding Society Ch5 pg 1",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "8 5 INDIAN SOCIOLOGISTS"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Indian Sociologists, which statement is supported by the source text about 86 UNDERSTANDING SOCIETY?",
+      "options": [
+        "Ananthakrishna Iyer was probably the first self-taught anthropologist to receive national and international recognition as a scholar and an academician.",
+        "He was invited to lecture at the University of Madras, and was appointed as Reader at the University of Calcutta, where he helped set...",
+        "He remained at the University of Calcutta from 1917 to 1932.",
+        "Though he had no formal qualifications in anthropology, he was elected President of the Ethnology section of the Indian Science Congress."
+      ],
+      "correct_answer": 0,
       "pattern": "statement",
       "source_trace": "NCERT Class 11 Understanding Society Ch5 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
-      "difficulty_level": 3,
+      "difficulty_level": 4,
       "concepts_tested": [
-        "84 UNDERSTANDING SOCIETY"
+        "86 UNDERSTANDING SOCIETY"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Indian Sociologists, which statement is supported by the source text about 8 7 INDIAN SOCIOLOGISTS?",
+      "options": [
+        "He was awarded an honorary doctorate by a German university during his lecture tour of European universities.",
+        "He was also conferred the titles of Rao Bahadur and Dewan Bahadur by Cochin state.",
+        "The lawyer Sarat Chandra Roy (1871-1942) was another ‘accidental anthropologist’ and pioneer of the discipline in India.",
+        "Before taking his law degree in Calcutta’s Ripon College, Roy had done graduate and post- graduate degrees in English."
+      ],
+      "correct_answer": 0,
+      "pattern": "match",
+      "source_trace": "NCERT Class 11 Understanding Society Ch5 pg 1",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "8 7 INDIAN SOCIOLOGISTS"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Indian Sociologists, which statement is supported by the source text about 88 UNDERSTANDING SOCIETY?",
+      "options": [
+        "Soon after he had begun practising law, he decided to go to Ranchi in 1898 to take up a job as an English teacher...",
+        "This decision was to change his life, for he remained in Ranchi for the next forty- four years and became the leading authority on...",
+        "Roy’s interest in anthropological matters began when he gave up his school job and began practising law at the Ranchi courts, eventually being appointed...",
+        "Roy became deeply interested in tribal society as a byproduct of his"
+      ],
+      "correct_answer": 0,
+      "pattern": "not_type",
+      "source_trace": "NCERT Class 11 Understanding Society Ch5 pg 1",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 5,
+      "concepts_tested": [
+        "88 UNDERSTANDING SOCIETY"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Indian Sociologists, which statement is supported by the source text about 8 9 INDIAN SOCIOLOGISTS?",
+      "options": [
+        "84 UNDERSTANDING SOCIETY professional need to interpret tribal customs and laws to the court.",
+        "He travelled extensively among tribal communities and did intensive fieldwork among them.",
+        "All of this was done on an ‘amateur’ basis, but Roy’s diligence and keen eye for detail resulted in valuable monographs and research articles.",
+        "During his entire career, Roy published more than one hundred articles in leading Indian and British academic journals in addition to his famous monographs..."
+      ],
+      "correct_answer": 0,
+      "pattern": "statement",
+      "source_trace": "NCERT Class 11 Understanding Society Ch5 pg 2",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 5,
+      "concepts_tested": [
+        "8 9 INDIAN SOCIOLOGISTS"
       ]
     }
   ],
@@ -220,7 +310,7 @@
     "generation_method": "local_source_only_extractive_decode"
   },
   "content_model": "clearupsc_textbook_decoded_from_source_v1",
-  "decode_status": "textbook_decoded",
+  "decode_status": "textbook_verified",
   "source": {
     "book": "NCERT Class 11 Understanding Society",
     "chapter": 5,
@@ -232,5 +322,5 @@
   "source_trace": "NCERT Class 11 Understanding Society | Chapter 5: Indian Sociologists | https://ncert.nic.in/textbook/pdf/kesy205.pdf | sha256:d015394f2e8bbcd4e7cfb21392663dacbd6ac6613f6e9b3447076dc88ddabf9f",
   "raw_text_path": "data/study/textbook-first/raw-text/gs1_society_class11_understanding_society_ch05_indian_sociologists.txt",
   "generated_by": "local_source_only_extractive_decode",
-  "generated_at": "2026-05-26T19:54:12.369Z"
+  "generated_at": "2026-05-26T20:27:19.878Z"
 }

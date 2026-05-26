@@ -136,7 +136,7 @@
       "source_trace": "NCERT Class 12 Themes in Indian History II Ch4 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
-      "difficulty_level": 3,
+      "difficulty_level": 1,
       "concepts_tested": [
         "THEMES IN INDIAN HISTORY – PART II 196"
       ]
@@ -150,7 +150,7 @@
         "Since many crops were grown for sale, trade, money and markets entered the villages and linked the agricultural areas with the towns."
       ],
       "correct_answer": 0,
-      "pattern": "statement",
+      "pattern": "match",
       "source_trace": "NCERT Class 12 Themes in Indian History II Ch4 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
@@ -204,13 +204,103 @@
         "The central purpose of the Ain was to present a vision of Akbar’s empire where social harmony was provided by a strong ruling class."
       ],
       "correct_answer": 0,
+      "pattern": "match",
+      "source_trace": "NCERT Class 12 Themes in Indian History II Ch4 pg 1",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "1.2 Peasants and their lands"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Peasants Zamindars and the State, which statement is supported by the source text about PEASANTS, ZAMINDARS AND THE STATE?",
+      "options": [
+        "Any revolt or assertion of autonomous power against the Mughal state was, in the eyes of the author of the Ain, predestined to fail.",
+        "In other words, whatever we learn from the Ain about peasants remains a view from the top.",
+        "Fortunately, however, the account of the Ain can be supplemented by descriptions contained in sources emanating from regions away from the Mughal capital.",
+        "These include detailed revenue records from Gujarat, Maharashtra and Rajasthan dating from the seventeenth and eighteenth centuries."
+      ],
+      "correct_answer": 0,
+      "pattern": "not_type",
+      "source_trace": "NCERT Class 12 Themes in Indian History II Ch4 pg 1",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "PEASANTS, ZAMINDARS AND THE STATE"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Peasants Zamindars and the State, which statement is supported by the source text about THEMES IN INDIAN HISTORY – PART II 198?",
+      "options": [
+        "Further, the extensive records of the East India Company (see also Chapter 10) provide us with useful descriptions of agrarian relations in eastern India.",
+        "All these sources record instances of conflicts between peasants, zamindars and the state.",
+        "In the process they give us an insight into peasants’ perception of and their expectations of fairness from the state.",
+        "1.2 Peasants and their lands The term which Indo-Persian sources of the Mughal period most frequently used to denote a peasant was raiyat (plural,..."
+      ],
+      "correct_answer": 0,
       "pattern": "statement",
       "source_trace": "NCERT Class 12 Themes in Indian History II Ch4 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
-      "difficulty_level": 3,
+      "difficulty_level": 4,
       "concepts_tested": [
-        "1.2 Peasants and their lands"
+        "THEMES IN INDIAN HISTORY – PART II 198"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Peasants Zamindars and the State, which statement is supported by the source text about 1.3 Irrigation and technology?",
+      "options": [
+        "In addition, we also encounter the terms kisan or asami.",
+        "Sources of the seventeenth century refer to two kinds of peasants – khud-kashta and pahi-kashta.",
+        "THEMES IN INDIAN HISTORY – PART II 198 were residents of the village in which they held their lands.",
+        "The latter were non-resident cultivators who belonged to some other village, but cultivated lands elsewhere on a contractual basis."
+      ],
+      "correct_answer": 0,
+      "pattern": "match",
+      "source_trace": "NCERT Class 12 Themes in Indian History II Ch4 pg 1",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "1.3 Irrigation and technology"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Peasants Zamindars and the State, which statement is supported by the source text about THEMES IN INDIAN HISTORY – PART II 200?",
+      "options": [
+        "People became pahi-kashta either out of choice – for example, when terms of revenue in a distant village were more favourable – or out...",
+        "Seldom did the average peasant of north India possess more than a pair of bullocks and two ploughs; most possessed even less.",
+        "In Gujarat peasants possessing about six acres of land were considered to be affluent; in Bengal, on the other hand, five acres was the...",
+        "Cultivation was based on the principle of individual ownership."
+      ],
+      "correct_answer": 0,
+      "pattern": "not_type",
+      "source_trace": "NCERT Class 12 Themes in Indian History II Ch4 pg 2",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 5,
+      "concepts_tested": [
+        "THEMES IN INDIAN HISTORY – PART II 200"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Peasants Zamindars and the State, which statement is supported by the source text about 1.4 An abundance of crops?",
+      "options": [
+        "Peasant lands were bought and sold in the same way as the lands of other property owners.",
+        "This nineteenth-century description of peasant holdings in the Delhi-Agra region would apply equally to the seventeenth century: The cultivating peasants (asamis), who plough up...",
+        "1.3 Irrigation and technology The abundance of land, available labour and the mobility of peasants were three factors that accounted for the constant expansion...",
+        "Since the primary purpose of agriculture is to feed people, basic staples such as rice, wheat or millets were the most frequently cultivated crops."
+      ],
+      "correct_answer": 0,
+      "pattern": "statement",
+      "source_trace": "NCERT Class 12 Themes in Indian History II Ch4 pg 2",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 5,
+      "concepts_tested": [
+        "1.4 An abundance of crops"
       ]
     }
   ],
@@ -220,7 +310,7 @@
     "generation_method": "local_source_only_extractive_decode"
   },
   "content_model": "clearupsc_textbook_decoded_from_source_v1",
-  "decode_status": "textbook_decoded",
+  "decode_status": "textbook_verified",
   "source": {
     "book": "NCERT Class 12 Themes in Indian History II",
     "chapter": 4,
@@ -232,5 +322,5 @@
   "source_trace": "NCERT Class 12 Themes in Indian History II | Chapter 4: Peasants Zamindars and the State | https://ncert.nic.in/textbook/pdf/lehs204.pdf | sha256:bd4bae7e11ae7f1f063504a75f148a5799724a880eeb92d1437b6503460230ed",
   "raw_text_path": "data/study/textbook-first/raw-text/gs1_hist_class12_indian_history_ii_ch04_peasants_zamindars_and_the_state.txt",
   "generated_by": "local_source_only_extractive_decode",
-  "generated_at": "2026-05-26T19:53:56.664Z"
+  "generated_at": "2026-05-26T20:27:03.298Z"
 }

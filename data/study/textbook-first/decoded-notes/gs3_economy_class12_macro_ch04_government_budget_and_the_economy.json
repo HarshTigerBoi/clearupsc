@@ -136,7 +136,7 @@
       "source_trace": "NCERT Class 12 Macro Ch4 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
-      "difficulty_level": 3,
+      "difficulty_level": 1,
       "concepts_tested": [
         "4.1 AGGREGATE DEMAND AND ITS COMPONENTS"
       ]
@@ -150,7 +150,7 @@
         "We apply the same method in the analysis of the macroeconomic system."
       ],
       "correct_answer": 0,
-      "pattern": "statement",
+      "pattern": "match",
       "source_trace": "NCERT Class 12 Macro Ch4 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
@@ -204,13 +204,103 @@
         "However, due to an unforeseen upsurge of demand for her goods in the market the volume of her sales exceeds what she had planned..."
       ],
       "correct_answer": 0,
+      "pattern": "match",
+      "source_trace": "NCERT Class 12 Macro Ch4 pg 1",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "4.2 DETERMINATION OF INCOME IN TWO-SECTOR MODEL"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Government Budget and the Economy, which statement is supported by the source text about AD = C + I + c.Y?",
+      "options": [
+        "Therefore, at the end of the year, her inventory goes up by Rs (100 – 30) = Rs 70 only.",
+        "Her planned investment is Rs 100 whereas her actual, or ex post, investment is Rs 70 only.",
+        "We call the planned values of the variables – consumption, investment or output of final goods – their ex ante measures.",
+        "In simple words, ex-ante depicts what has been planned, and ex-post depicts what has actually happened."
+      ],
+      "correct_answer": 0,
+      "pattern": "not_type",
+      "source_trace": "NCERT Class 12 Macro Ch4 pg 1",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "AD = C + I + c.Y"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Government Budget and the Economy, which statement is supported by the source text about Y = C + I + c.Y?",
+      "options": [
+        "In order to understand the determination of income, we need to know the planned values of different components of aggregate demand.",
+        "Consumption The most important determinant of consumption demand is household income.",
+        "A consumption function describes the relation between consumption and income.",
+        "The simplest consumption function assumes that consumption changes at a constant rate as income changes."
+      ],
+      "correct_answer": 0,
       "pattern": "statement",
       "source_trace": "NCERT Class 12 Macro Ch4 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
-      "difficulty_level": 3,
+      "difficulty_level": 4,
       "concepts_tested": [
-        "4.2 DETERMINATION OF INCOME IN TWO-SECTOR MODEL"
+        "Y = C + I + c.Y"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Government Budget and the Economy, which statement is supported by the source text about Y = A + c.Y (4.3)?",
+      "options": [
+        "Of course, even if income is zero, some consumption still takes place.",
+        "Since this level of consumption is independent of income, it is called autonomous consumption.",
+        "We can describe this function as: C C cY = + (4.1) The above equation is called the consumption function.",
+        "This consists of two components autonomous consumption and induced consumption ( cY )."
+      ],
+      "correct_answer": 0,
+      "pattern": "match",
+      "source_trace": "NCERT Class 12 Macro Ch4 pg 1",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "Y = A + c.Y (4.3)"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Government Budget and the Economy, which statement is supported by the source text about Y = C + I + G + c (Y – T )?",
+      "options": [
+        "Autonomous consumption is denoted by C and shows the consumption which is independent of income.",
+        "If consumption takes place even when income is zero, it is because of autonomous consumption.",
+        "The induced component of consumption, cY shows the dependence of consumption on income.",
+        "When income rises by Re 1. induced consumption rises by MPC i.e. c or the marginal propensity to consume."
+      ],
+      "correct_answer": 0,
+      "pattern": "not_type",
+      "source_trace": "NCERT Class 12 Macro Ch4 pg 1",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 5,
+      "concepts_tested": [
+        "Y = C + I + G + c (Y – T )"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Government Budget and the Economy, which statement is supported by the source text about C C cY  ?",
+      "options": [
+        "It may be explained as a rate of change of consumption as income changes.",
+        "C MPC c Y ∆ = = ∆ Now, let us look at the value that MPC can take.",
+        "When income changes, change in consumption ( ) C ∆ can never exceed the change in income ( Y) ∆ .",
+        "On the other hand consumer may choose not to change consumption even when income has changed."
+      ],
+      "correct_answer": 0,
+      "pattern": "statement",
+      "source_trace": "NCERT Class 12 Macro Ch4 pg 1",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 5,
+      "concepts_tested": [
+        "C C cY  "
       ]
     }
   ],
@@ -220,7 +310,7 @@
     "generation_method": "local_source_only_extractive_decode"
   },
   "content_model": "clearupsc_textbook_decoded_from_source_v1",
-  "decode_status": "textbook_decoded",
+  "decode_status": "textbook_verified",
   "source": {
     "book": "NCERT Class 12 Introductory Macroeconomics",
     "chapter": 4,
@@ -232,5 +322,5 @@
   "source_trace": "NCERT Class 12 Introductory Macroeconomics | Chapter 4: Government Budget and the Economy | https://ncert.nic.in/textbook/pdf/leec104.pdf | sha256:b1ffed1daa89c998a2fa204e1fe4fbae58fc71131c8ee3dfefc07b1b3f12291c",
   "raw_text_path": "data/study/textbook-first/raw-text/gs3_economy_class12_macro_ch04_government_budget_and_the_economy.txt",
   "generated_by": "local_source_only_extractive_decode",
-  "generated_at": "2026-05-26T19:53:36.937Z"
+  "generated_at": "2026-05-26T20:26:42.949Z"
 }

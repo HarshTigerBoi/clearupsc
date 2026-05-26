@@ -128,7 +128,7 @@
       "source_trace": "NCERT Class 12 Fundamentals of Human Geography Ch6 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
-      "difficulty_level": 3,
+      "difficulty_level": 1,
       "concepts_tested": [
         "TYPES OF TERTIARY ACTIVITIES"
       ]
@@ -142,7 +142,7 @@
         "Manpower is an important component of the service sector as most of the tertiary activities are performed by skilled labour, professionally trained experts and..."
       ],
       "correct_answer": 0,
-      "pattern": "statement",
+      "pattern": "match",
       "source_trace": "NCERT Class 12 Fundamentals of Human Geography Ch6 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
@@ -196,13 +196,103 @@
         "Tertiary and Quaternary Activities 47 bus or rail, send letters, talk on telephone and obtain services of teachers for studies and doctors at the..."
       ],
       "correct_answer": 0,
-      "pattern": "statement",
+      "pattern": "match",
       "source_trace": "NCERT Class 12 Fundamentals of Human Geography Ch6 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
-      "difficulty_level": 3,
+      "difficulty_level": 4,
       "concepts_tested": [
         "III Chapter"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Secondary Activities, which statement is supported by the source text about Tertiary and Quaternary Activities When?",
+      "options": [
+        "Thus, trade, transport, communication and services are some of the tertiary activities discussed in this section.",
+        "The chart provides the basis for classifying the tertiary activities.",
+        "Trade and commerce Trade is essentially buying and selling of items produced elsewhere.",
+        "All the services in retail and wholesale trading or commerce are specifically intended for profit."
+      ],
+      "correct_answer": 0,
+      "pattern": "not_type",
+      "source_trace": "NCERT Class 12 Fundamentals of Human Geography Ch6 pg 2",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "Tertiary and Quaternary Activities When"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Secondary Activities, which statement is supported by the source text about While in?",
+      "options": [
+        "The towns and cities where all these works take place are known us trading centres.",
+        "The rise of trading from barter at the local level to money-exchange of international scale has produced many centres and institutions such as trading...",
+        "Trading centres may be divided into rural and urban marketing centres.",
+        "They serve as trading centres of the most rudimentary type."
+      ],
+      "correct_answer": 0,
+      "pattern": "statement",
+      "source_trace": "NCERT Class 12 Fundamentals of Human Geography Ch6 pg 2",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "While in"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Secondary Activities, which statement is supported by the source text about In the?",
+      "options": [
+        "Here personal and professional services are not well-developed.",
+        "Most of these have mandis (wholesale markets) and also retailing areas.",
+        "They are not urban centres per se but are significant centres for making available goods and services which are most frequently demanded by rural...",
+        "6.2: A Wholesale Vegetable Market Periodic markets in rural areas are found where there are no regular markets and local periodic markets are organised..."
+      ],
+      "correct_answer": 0,
+      "pattern": "match",
+      "source_trace": "NCERT Class 12 Fundamentals of Human Geography Ch6 pg 2",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "In the"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Secondary Activities, which statement is supported by the source text about TYPES OF TERTIARY ACTIVITIES By?",
+      "options": [
+        "These may be weekly, bi- weekly markets from where people from the surrounding areas meet their temporally accumulated demand.",
+        "These markets are held on specified dates and move from one place to another.",
+        "The shopkeepers thus, remain busy on all the days while a large area is served by them.",
+        "Urban marketing centres have more widely specialised urban services."
+      ],
+      "correct_answer": 0,
+      "pattern": "not_type",
+      "source_trace": "NCERT Class 12 Fundamentals of Human Geography Ch6 pg 2",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 5,
+      "concepts_tested": [
+        "TYPES OF TERTIARY ACTIVITIES By"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Secondary Activities, which statement is supported by the source text about Tertiary and Quaternary Activities?",
+      "options": [
+        "They provide ordinary goods and services as well as many of the specialised goods and services required by people.",
+        "Urban centres, therefore, offer manufactured goods as well as many specialised markets develop, e.g. markets for labour, housing, semi or finished products.",
+        "Services of educational institutions and professionals such as teachers, lawyers, consultants, physicians, dentists and veterinary doctors are available.",
+        "Retail Trading This is the business activity concerned with the sale of goods directly to the consumers."
+      ],
+      "correct_answer": 0,
+      "pattern": "statement",
+      "source_trace": "NCERT Class 12 Fundamentals of Human Geography Ch6 pg 2",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 5,
+      "concepts_tested": [
+        "Tertiary and Quaternary Activities"
       ]
     }
   ],
@@ -212,7 +302,7 @@
     "generation_method": "local_source_only_extractive_decode"
   },
   "content_model": "clearupsc_textbook_decoded_from_source_v1",
-  "decode_status": "textbook_decoded",
+  "decode_status": "textbook_verified",
   "source": {
     "book": "NCERT Class 12 Fundamentals of Human Geography",
     "chapter": 6,
@@ -224,5 +314,5 @@
   "source_trace": "NCERT Class 12 Fundamentals of Human Geography | Chapter 6: Secondary Activities | https://ncert.nic.in/textbook/pdf/legy106.pdf | sha256:92c7e1e1537366cb22ea009e5c7810a24b92bdb8b27560a018dac52c35702a19",
   "raw_text_path": "data/study/textbook-first/raw-text/gs1_geo_class12_human_ch06_secondary_activities.txt",
   "generated_by": "local_source_only_extractive_decode",
-  "generated_at": "2026-05-26T19:53:52.343Z"
+  "generated_at": "2026-05-26T20:26:58.869Z"
 }

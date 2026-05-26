@@ -104,6 +104,10 @@ function chapterTopicToListItem(topic: (typeof NCERT_CHAPTER_TOPICS)[number], co
   };
 }
 
+function isTextbookSourceQuality(value?: string | null) {
+  return value === "textbook_decoded" || value === "textbook_verified";
+}
+
 export async function ensureTodayPlan(userId: string) {
   const supabase = await createClient();
   const today = new Date().toISOString().slice(0, 10);
@@ -912,7 +916,7 @@ function buildNextAction(
   const hasStudiedDecodedChapter = progress.some((item) => {
     if (item.status === "not_started") return false;
     const topic = topics.find((candidate) => candidate.key === item.topic_key);
-    return topic?.textbookFirst && topic.contentQuality === "textbook_decoded";
+    return topic?.textbookFirst && isTextbookSourceQuality(topic.contentQuality);
   });
 
   if (!hasStudiedDecodedChapter && decodedChapter) {
@@ -991,7 +995,7 @@ function buildNextAction(
 
 function firstUnstudiedDecodedChapter(topics: Awaited<ReturnType<typeof getTopicsFromDb>>, progress: TopicProgressRecord[]) {
   const studied = new Set(progress.filter((item) => item.status !== "not_started").map((item) => item.topic_key));
-  return topics.find((topic) => topic.textbookFirst && topic.contentQuality === "textbook_decoded" && !studied.has(topic.key));
+  return topics.find((topic) => topic.textbookFirst && isTextbookSourceQuality(topic.contentQuality) && !studied.has(topic.key));
 }
 
 export async function completeOnboarding(userId: string, profile: UserProfile) {

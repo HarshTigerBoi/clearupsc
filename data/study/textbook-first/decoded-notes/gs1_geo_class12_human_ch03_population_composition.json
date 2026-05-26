@@ -136,7 +136,7 @@
       "source_trace": "NCERT Class 12 Fundamentals of Human Geography Ch3 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
-      "difficulty_level": 3,
+      "difficulty_level": 1,
       "concepts_tested": [
         "GROWTH AND DEVELOPMENT"
       ]
@@ -150,7 +150,7 @@
         "Development means a qualitative change which is always value positive."
       ],
       "correct_answer": 0,
-      "pattern": "statement",
+      "pattern": "match",
       "source_trace": "NCERT Class 12 Fundamentals of Human Geography Ch3 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
@@ -204,13 +204,103 @@
         "The works of two South Asian economists, Mahbub-ul-Haq and Amartya Sen are important in this regard."
       ],
       "correct_answer": 0,
+      "pattern": "match",
+      "source_trace": "NCERT Class 12 Fundamentals of Human Geography Ch3 pg 1",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "MEASURING HUMAN DEVELOPMENT"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Population Composition, which statement is supported by the source text about INTERNATIONAL COMPARISONS?",
+      "options": [
+        "The concept of human development was introduced by Dr Mahbub-ul-Haq.",
+        "Dr Haq has described human development as development that enlarges people’s choices and improves their lives.",
+        "People are central to all development under this concept.",
+        "The basic goal of development is to create conditions where people can live meaningful lives."
+      ],
+      "correct_answer": 0,
+      "pattern": "not_type",
+      "source_trace": "NCERT Class 12 Fundamentals of Human Geography Ch3 pg 1",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "INTERNATIONAL COMPARISONS"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Population Composition, which statement is supported by the source text about E X E R C I S E S?",
+      "options": [
+        "This means that people must be healthy, be able to develop their talents, participate in society and be free to achieve their goals.",
+        "Are natural disasters the only reasons for negative growth in a city’s size?",
+        "Band Aceh, June, 2004 Band Aceh, December, 2004 Dr Mahbub-ul-Haq and Prof Amartya Sen were close friends and have worked together under the leadership...",
+        "Both these South Asian economists have been able to provide an alternative view of development."
+      ],
+      "correct_answer": 0,
       "pattern": "statement",
       "source_trace": "NCERT Class 12 Fundamentals of Human Geography Ch3 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
-      "difficulty_level": 3,
+      "difficulty_level": 4,
       "concepts_tested": [
-        "MEASURING HUMAN DEVELOPMENT"
+        "E X E R C I S E S"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Population Composition, which statement is supported by the source text about Population Composition?",
+      "options": [
+        "A man of vision and compassion, Pakistani economist Dr Mahbub-ul-Haq created the Human Development Index in 1990.",
+        "According to him, development is all about enlarging people’s choices in order to lead long, healthy lives with dignity.",
+        "The United Nations Development Programme has used his concept of human development to publish the Human Development Report annually since 1990.",
+        "Dr Haq’s flexibility of mind and ability to think out of the box can be illustrated from one of his speeches where he quoted..."
+      ],
+      "correct_answer": 0,
+      "pattern": "match",
+      "source_trace": "NCERT Class 12 Fundamentals of Human Geography Ch3 pg 1",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "Population Composition"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Population Composition, which statement is supported by the source text about Population?",
+      "options": [
+        "I dream of things that never were, and ask why not?’ Nobel Laureate Prof Amartya Sen saw an increase in freedom (or decrease in...",
+        "Interestingly, increasing freedoms is also one of the most effective ways of bringing about development.",
+        "His work explores the role of social and political institutions and processes in increasing freedom.",
+        "The works of these economists are path breaking and have succeeded in bringing people to the centre of any discussion on development."
+      ],
+      "correct_answer": 0,
+      "pattern": "not_type",
+      "source_trace": "NCERT Class 12 Fundamentals of Human Geography Ch3 pg 1",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 5,
+      "concepts_tested": [
+        "Population"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Population Composition, which statement is supported by the source text about Composition?",
+      "options": [
+        "What makes one of these more meaningful than the other?",
+        "The Government of India has introduced Beti Bachao Beti Padhao programme to address the issue of decline in child sex ratio.",
+        "Discuss with your peers how it will lead to more meaningful life for girls.",
+        "Fundamentals of Human Geography 16 Leading a long and healthy life, being able to gain knowledge and having enough means to be able to..."
+      ],
+      "correct_answer": 0,
+      "pattern": "statement",
+      "source_trace": "NCERT Class 12 Fundamentals of Human Geography Ch3 pg 2",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 5,
+      "concepts_tested": [
+        "Composition"
       ]
     }
   ],
@@ -220,7 +310,7 @@
     "generation_method": "local_source_only_extractive_decode"
   },
   "content_model": "clearupsc_textbook_decoded_from_source_v1",
-  "decode_status": "textbook_decoded",
+  "decode_status": "textbook_verified",
   "source": {
     "book": "NCERT Class 12 Fundamentals of Human Geography",
     "chapter": 3,
@@ -232,5 +322,5 @@
   "source_trace": "NCERT Class 12 Fundamentals of Human Geography | Chapter 3: Population Composition | https://ncert.nic.in/textbook/pdf/legy103.pdf | sha256:5632702074b161a701f8dff987af50bc9c74348038205c31a9bc7a8e310822dc",
   "raw_text_path": "data/study/textbook-first/raw-text/gs1_geo_class12_human_ch03_population_composition.txt",
   "generated_by": "local_source_only_extractive_decode",
-  "generated_at": "2026-05-26T19:53:51.603Z"
+  "generated_at": "2026-05-26T20:26:58.027Z"
 }

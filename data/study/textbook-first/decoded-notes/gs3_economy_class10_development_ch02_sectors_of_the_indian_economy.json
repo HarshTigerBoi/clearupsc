@@ -136,7 +136,7 @@
       "source_trace": "NCERT Class 10 Understanding Economic Development Ch2 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
-      "difficulty_level": 3,
+      "difficulty_level": 1,
       "concepts_tested": [
         "NOTES FOR THE TEACHER"
       ]
@@ -150,7 +150,7 @@
         "Since the students may find this difficult to understand, it is necessary to explain to them through examples."
       ],
       "correct_answer": 0,
-      "pattern": "statement",
+      "pattern": "match",
       "source_trace": "NCERT Class 10 Understanding Economic Development Ch2 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
@@ -204,13 +204,103 @@
         "It is a valuable source of GVA and other information relating to the Indian economy."
       ],
       "correct_answer": 0,
+      "pattern": "match",
+      "source_trace": "NCERT Class 10 Understanding Economic Development Ch2 pg 1",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "CHAPTER 2"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Sectors of the Indian Economy, which statement is supported by the source text about SECTORS OF ECONOMIC ACTIVITIES?",
+      "options": [
+        "For evaluation purposes, particularly to develop the analytical ability of learners, teachers can refer to this report through the Internet to get data for...",
+        "Due to change in methodology, latest data is not used in the chapter.",
+        "The employment figures are based on data taken from the five-yearly surveys on employment and unemployment conducted by the National Sample Survey Organisation (NSSO)...",
+        "NSO is an organisation under the Ministry of Statistics and Programme Implementation, Government of India."
+      ],
+      "correct_answer": 0,
+      "pattern": "not_type",
+      "source_trace": "NCERT Class 10 Understanding Economic Development Ch2 pg 1",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "SECTORS OF ECONOMIC ACTIVITIES"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Sectors of the Indian Economy, which statement is supported by the source text about EXAMPLE?",
+      "options": [
+        "Employment data is also available from other sources such as Census of India.",
+        "U U U U UNDERST NDERST NDERST NDERST NDERSTANDING ANDING ANDING ANDING ANDING E E E E ECONOMIC CONOMIC CONOMIC CONOMIC CONOMIC D D...",
+        "SECTORS OF THE INDIAN ECONOMY CHAPTER 2 SECTORS OF ECONOMIC ACTIVITIES Let us look at these pictures.",
+        "You will find that people are engaged in various economic activities."
+      ],
+      "correct_answer": 0,
       "pattern": "statement",
       "source_trace": "NCERT Class 10 Understanding Economic Development Ch2 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
-      "difficulty_level": 3,
+      "difficulty_level": 4,
       "concepts_tested": [
-        "CHAPTER 2"
+        "EXAMPLE"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Sectors of the Indian Economy, which statement is supported by the source text about LET’S WORK THESE OUT?",
+      "options": [
+        "These activities are happening around us every minute even as we speak.",
+        "One way of doing this is to group them (classify them) using some important criterion.",
+        "U U U U UNDERST NDERST NDERST NDERST NDERSTANDING ANDING ANDING ANDING ANDING E E E E ECONOMIC CONOMIC CONOMIC CONOMIC CONOMIC D D...",
+        "For the growth of the cotton plant, we depend mainly, but not entirely, on natural factors like rainfall, sunshine and climate."
+      ],
+      "correct_answer": 0,
+      "pattern": "match",
+      "source_trace": "NCERT Class 10 Understanding Economic Development Ch2 pg 1",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "LET’S WORK THESE OUT"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Sectors of the Indian Economy, which statement is supported by the source text about WHAT DOES THIS SHOW??",
+      "options": [
+        "The product of this activity, cotton, is a natural product.",
+        "Similarly, in the case of an activity like dairy, we are dependent on the biological process of the animals and availability of fodder etc.",
+        "Similarly, minerals and ores are also natural products.",
+        "When we produce a good by exploiting natural resources, it is an activity of the primary sector."
+      ],
+      "correct_answer": 0,
+      "pattern": "not_type",
+      "source_trace": "NCERT Class 10 Understanding Economic Development Ch2 pg 2",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 5,
+      "concepts_tested": [
+        "WHAT DOES THIS SHOW?"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Sectors of the Indian Economy, which statement is supported by the source text about TABLE 2.1 EXAMPLES OF ECONOMIC ACTIVITIES?",
+      "options": [
+        "This is because it forms the base for all other products that we subsequently make.",
+        "Since most of the natural products we get are from agriculture, dairy, fishing, forestry, this sector is also called agriculture and related sector.",
+        "The secondary sector covers activities in which natural products are changed into other forms through ways of manufacturing that we associate with industrial activity.",
+        "The product is not produced by nature but has to be made and therefore some process of manufacturing is essential."
+      ],
+      "correct_answer": 0,
+      "pattern": "statement",
+      "source_trace": "NCERT Class 10 Understanding Economic Development Ch2 pg 2",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 5,
+      "concepts_tested": [
+        "TABLE 2.1 EXAMPLES OF ECONOMIC ACTIVITIES"
       ]
     }
   ],
@@ -220,7 +310,7 @@
     "generation_method": "local_source_only_extractive_decode"
   },
   "content_model": "clearupsc_textbook_decoded_from_source_v1",
-  "decode_status": "textbook_decoded",
+  "decode_status": "textbook_verified",
   "source": {
     "book": "NCERT Class 10 Understanding Economic Development",
     "chapter": 2,
@@ -232,5 +322,5 @@
   "source_trace": "NCERT Class 10 Understanding Economic Development | Chapter 2: Sectors of the Indian Economy | https://ncert.nic.in/textbook/pdf/jess202.pdf | sha256:255acd3c637a2392f9bf6a042123d7447160a75306c5533a7be387069cca8e9f",
   "raw_text_path": "data/study/textbook-first/raw-text/gs3_economy_class10_development_ch02_sectors_of_the_indian_economy.txt",
   "generated_by": "local_source_only_extractive_decode",
-  "generated_at": "2026-05-26T19:54:17.949Z"
+  "generated_at": "2026-05-26T20:27:25.624Z"
 }

@@ -434,7 +434,7 @@ function CompleteAndContinue({ nextTopic, pending, onComplete }: { nextTopic: To
 
 function Hero({ data }: { data: TopicPayload }) {
   const paperLabel = data.topic.subject.replace("GS", "GS-");
-  const isTextbookDecoded = data.topic.content_quality === "textbook_decoded";
+  const isTextbookDecoded = data.topic.content_quality === "textbook_decoded" || data.topic.content_quality === "textbook_verified";
   return (
     <section className="border-b border-slate-200 bg-white">
       <div className="mx-auto max-w-7xl px-4 py-6 sm:px-6 lg:px-8">

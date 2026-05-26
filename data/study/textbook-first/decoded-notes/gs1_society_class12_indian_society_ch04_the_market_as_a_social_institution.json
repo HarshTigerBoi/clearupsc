@@ -136,7 +136,7 @@
       "source_trace": "NCERT Class 12 Indian Society Ch4 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
-      "difficulty_level": 3,
+      "difficulty_level": 1,
       "concepts_tested": [
         "4.1 Sociological PerSPectiveS on MarketS"
       ]
@@ -150,7 +150,7 @@
         "But what does it mean to speak of ‘the market’ in a general way without refering to any particular place, gathering of people, or..."
       ],
       "correct_answer": 0,
-      "pattern": "statement",
+      "pattern": "match",
       "source_trace": "NCERT Class 12 Indian Society Ch4 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
@@ -204,13 +204,103 @@
         "part of society that operates according to its own laws, leaving out the larger social or political context in which markets operate."
       ],
       "correct_answer": 0,
-      "pattern": "statement",
+      "pattern": "match",
       "source_trace": "NCERT Class 12 Indian Society Ch4 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
-      "difficulty_level": 3,
+      "difficulty_level": 4,
       "concepts_tested": [
         "ACTIVITY 4.3"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of The Market as a Social Institution, which statement is supported by the source text about The Market as a Social Institution?",
+      "options": [
+        "In contrast to this approach, sociologists have attempted to develop an alternative way of studying economic institutions and processes within the larger social framework.",
+        "Sociologists view markets as social institutions that are constructed in culturally specific ways.",
+        "For example, markets are often controlled or organised by particular social groups or classes, and have specific connections to other institutions, social processes and...",
+        "Sociologists often express this idea by saying that economies are socially ‘embedded’."
+      ],
+      "correct_answer": 0,
+      "pattern": "not_type",
+      "source_trace": "NCERT Class 12 Indian Society Ch4 pg 2",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "The Market as a Social Institution"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of The Market as a Social Institution, which statement is supported by the source text about Market?",
+      "options": [
+        "This is illustrated by two examples, one of a weekly tribal haat, and the other of a ‘traditional business community’ and its trading networks...",
+        "A weekly ‘tribAl mArket ’ in DhorAi villAge , bAstAr , ChAttisgArh In most agrarian or ‘peasant’ societies around the world, periodic markets are...",
+        "Weekly markets bring together people from surrounding villages, who come to sell their agricultural or other produce and to buy manufactured goods and other...",
+        "They attract traders from outside the local area, as well as moneylenders, entertainers, astrologers, and a host of other specialists offering their services and..."
+      ],
+      "correct_answer": 0,
+      "pattern": "statement",
+      "source_trace": "NCERT Class 12 Indian Society Ch4 pg 2",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "Market"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of The Market as a Social Institution, which statement is supported by the source text about Social?",
+      "options": [
+        "In rural India there are also specialised markets that take place at less frequent intervals, for instance, cattle markets.",
+        "These periodic markets link different regional and local economies together, and link them to the wider national economy and to towns and metropolitan centres.",
+        "The weekly haat is a common sight in rural and even urban India.",
+        "In hilly and forested areas (especially those inhabited by adivasis), where settlements are far-flung, roads and communications poor, and the economy relatively undeveloped, the..."
+      ],
+      "correct_answer": 0,
+      "pattern": "match",
+      "source_trace": "NCERT Class 12 Indian Society Ch4 pg 2",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "Social"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of The Market as a Social Institution, which statement is supported by the source text about Institution?",
+      "options": [
+        "Local people come to the market to sell their agricultural or forest produce to traders, who carry it to the towns for resale, and...",
+        "But for many visitors, the primary reason to come to the market is social – to meet kin, to arrange marriages, exchange gossip, and...",
+        "While the weekly market in tribal areas may be a very old institution, its character has changed over time.",
+        "After these remote areas were brought Adam Smith is known as the fountainhead of contem- porary economic thought."
+      ],
+      "correct_answer": 0,
+      "pattern": "not_type",
+      "source_trace": "NCERT Class 12 Indian Society Ch4 pg 2",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 5,
+      "concepts_tested": [
+        "Institution"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of The Market as a Social Institution, which statement is supported by the source text about Sociological PerSPectiveS?",
+      "options": [
+        "Smith’s reputation rests on his five-book series ‘The Wealth of Nations’ which explained how rational self-interest in a free-market economy leads to economic well...",
+        "Adam Smith (1723-90) The Market as a Social Institution 55",
+        "under the control of the colonial state, they were gradually incorporated into the wider regional and national economies.",
+        "Tribal areas were ‘opened up’ by building roads and ‘pacifying’ the local people (many of whom resisted colonial rule through their so-called ‘tribal rebellions’),..."
+      ],
+      "correct_answer": 0,
+      "pattern": "statement",
+      "source_trace": "NCERT Class 12 Indian Society Ch4 pg 2",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 5,
+      "concepts_tested": [
+        "Sociological PerSPectiveS"
       ]
     }
   ],
@@ -220,7 +310,7 @@
     "generation_method": "local_source_only_extractive_decode"
   },
   "content_model": "clearupsc_textbook_decoded_from_source_v1",
-  "decode_status": "textbook_decoded",
+  "decode_status": "textbook_verified",
   "source": {
     "book": "NCERT Class 12 Indian Society",
     "chapter": 4,
@@ -232,5 +322,5 @@
   "source_trace": "NCERT Class 12 Indian Society | Chapter 4: The Market as a Social Institution | https://ncert.nic.in/textbook/pdf/lesy104.pdf | sha256:0d000d6e677601a70ca715049716dce09fa7a8b7593c42a438cd3735e2601e2f",
   "raw_text_path": "data/study/textbook-first/raw-text/gs1_society_class12_indian_society_ch04_the_market_as_a_social_institution.txt",
   "generated_by": "local_source_only_extractive_decode",
-  "generated_at": "2026-05-26T19:53:48.336Z"
+  "generated_at": "2026-05-26T20:26:54.553Z"
 }

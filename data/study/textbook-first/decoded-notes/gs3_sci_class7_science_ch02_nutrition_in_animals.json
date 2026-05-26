@@ -132,7 +132,7 @@
       "source_trace": "NCERT Class 7 Science Ch2 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
-      "difficulty_level": 3,
+      "difficulty_level": 1,
       "concepts_tested": [
         "2.1 DIFFERENT WAYS OF TAKING FOOD"
       ]
@@ -146,7 +146,7 @@
         "2.1 DIFFERENT WAYS OF TAKING FOOD The mode of taking food into the body varies in different organisms."
       ],
       "correct_answer": 0,
-      "pattern": "statement",
+      "pattern": "match",
       "source_trace": "NCERT Class 7 Science Ch2 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
@@ -200,13 +200,103 @@
         "These parts together form the alimentary canal (digestive tract)."
       ],
       "correct_answer": 0,
+      "pattern": "match",
+      "source_trace": "NCERT Class 7 Science Ch2 pg 1",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "SCIENCE 14"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Nutrition in Animals, which statement is supported by the source text about N UTRITION IN ANIMALS 15?",
+      "options": [
+        "The food components gradually get digested as food travels through the various compartments.",
+        "The inner walls of the stomach and the small intestine, and the various glands associated with the canal such as salivary glands, the liver...",
+        "The digestive juices convert complex substances of food into simpler ones.",
+        "The digestive tract and the associated glands together constitute the digestive system."
+      ],
+      "correct_answer": 0,
+      "pattern": "not_type",
+      "source_trace": "NCERT Class 7 Science Ch2 pg 1",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "N UTRITION IN ANIMALS 15"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Nutrition in Animals, which statement is supported by the source text about SCIENCE 16?",
+      "options": [
+        "Now, let us know what happens to the food in different parts of the digestive tract.",
+        "The mouth and buccal cavity Food is taken into the body through the mouth.",
+        "2.2 Human digestive system Buccal cavity Salivary gland Stomach Pancreas Small intestine Large intestine Rectum Anus Gall bladder Liver Oesophagus",
+        "2.3 Arrangement of teeth and different type of teeth Milk teeth and permanent teeth Do you remember about falling of your teeth some years..."
+      ],
+      "correct_answer": 0,
       "pattern": "statement",
       "source_trace": "NCERT Class 7 Science Ch2 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
-      "difficulty_level": 3,
+      "difficulty_level": 4,
       "concepts_tested": [
-        "SCIENCE 14"
+        "SCIENCE 16"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Nutrition in Animals, which statement is supported by the source text about N UTRITION IN ANIMALS 17?",
+      "options": [
+        "The first set of teeth grows during infancy and they fall off at the age between six to eight years.",
+        "The second set that replaces them are the permanent teeth.",
+        "The permanent teeth may last throughout life or fall off during old age or due to some dental disease. the body is called ingestion.",
+        "We chew the food with the teeth and break it down mechanically into small pieces."
+      ],
+      "correct_answer": 0,
+      "pattern": "match",
+      "source_trace": "NCERT Class 7 Science Ch2 pg 2",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "N UTRITION IN ANIMALS 17"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Nutrition in Animals, which statement is supported by the source text about 2.3 DIGESTION IN GRASS-EATING?",
+      "options": [
+        "Each tooth is rooted in a separate socket in the gums (Fig.",
+        "Our teeth vary in appearance and perform different functions.",
+        "Which teeth do you use for biting and cutting, and which ones for piercing and tearing?",
+        "Also find out the ones that are used for chewing and grinding?"
+      ],
+      "correct_answer": 0,
+      "pattern": "not_type",
+      "source_trace": "NCERT Class 7 Science Ch2 pg 2",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 5,
+      "concepts_tested": [
+        "2.3 DIGESTION IN GRASS-EATING"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Nutrition in Animals, which statement is supported by the source text about ANIMALS?",
+      "options": [
+        "Record your observations in Table 2.2 Boojho is fascinated by the highly coiled small intestine seen in Fig.",
+        "Just imagine how such a long structure is accommodated in a small space within our body!",
+        "Type of teeth Number of teeth Total Lower jaw Upper jaw Cutting and biting teeth Piercing and tearing teeth Chewing and grinding teeth Table...",
+        "2.4 Effect of saliva on starch Iodine solution Water Boiled rice Boiled and chewed rice Sweets and tooth decay Normally bacteria are present in..."
+      ],
+      "correct_answer": 0,
+      "pattern": "statement",
+      "source_trace": "NCERT Class 7 Science Ch2 pg 2",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 5,
+      "concepts_tested": [
+        "ANIMALS"
       ]
     }
   ],
@@ -216,7 +306,7 @@
     "generation_method": "local_source_only_extractive_decode"
   },
   "content_model": "clearupsc_textbook_decoded_from_source_v1",
-  "decode_status": "textbook_decoded",
+  "decode_status": "textbook_verified",
   "source": {
     "book": "NCERT Class 7 Science",
     "chapter": 2,
@@ -228,5 +318,5 @@
   "source_trace": "NCERT Class 7 Science | Chapter 2: Nutrition in Animals | https://ncert.nic.in/textbook/pdf/gesc102.pdf | sha256:b9d652112d15f07e13c66eed446447d82f22544bb58d0a6a1d62b513ee43ebcd",
   "raw_text_path": "data/study/textbook-first/raw-text/gs3_sci_class7_science_ch02_nutrition_in_animals.txt",
   "generated_by": "local_source_only_extractive_decode",
-  "generated_at": "2026-05-26T19:54:34.335Z"
+  "generated_at": "2026-05-26T20:27:42.805Z"
 }

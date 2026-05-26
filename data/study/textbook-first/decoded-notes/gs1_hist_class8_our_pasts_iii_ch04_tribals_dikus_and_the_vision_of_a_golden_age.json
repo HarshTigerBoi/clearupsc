@@ -132,7 +132,7 @@
       "source_trace": "NCERT Class 8 Our Pasts III Ch4 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
-      "difficulty_level": 3,
+      "difficulty_level": 1,
       "concepts_tested": [
         "40 OUR PASTS – III"
       ]
@@ -146,7 +146,7 @@
         "Their familiar ways of life seemed to be disappearing, their livelihoods were under threat, and their religion appeared to be in danger."
       ],
       "correct_answer": 0,
-      "pattern": "statement",
+      "pattern": "match",
       "source_trace": "NCERT Class 8 Our Pasts III Ch4 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
@@ -200,13 +200,103 @@
         "The cultivators cut the treetops to allow sunlight to reach the ground, and burnt the vegetation on the land to clear it for cultivation."
       ],
       "correct_answer": 0,
+      "pattern": "match",
+      "source_trace": "NCERT Class 8 Our Pasts III Ch4 pg 1",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "44 OUR PASTS – III"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Tribals Dikus and the Vision of a Golden Age, which statement is supported by the source text about TRIBALS, DIKUS AND THE VISION OF A GOLDEN AGE 45?",
+      "options": [
+        "They spread the ash from the firing, which contained potash, to fertilise the soil.",
+        "They used the axe to cut trees and the hoe to scratch the soil in order to prepare it for cultivation.",
+        "They broadcast the seeds, that is, scattered the seeds on the field instead of ploughing the land and sowing the seeds.",
+        "Once the crop was ready and harvested, they moved to another field."
+      ],
+      "correct_answer": 0,
+      "pattern": "not_type",
+      "source_trace": "NCERT Class 8 Our Pasts III Ch4 pg 1",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "TRIBALS, DIKUS AND THE VISION OF A GOLDEN AGE 45"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Tribals Dikus and the Vision of a Golden Age, which statement is supported by the source text about 46 OUR PASTS – III?",
+      "options": [
+        "A field that had been cultivated once was left fallow for several years, Shifting cultivators were found in the hilly and forested tracts of...",
+        "The lives of these tribal people depended on free movement within forests and on being able to use the land and forests for growing...",
+        "That is the only way they could practise shifting cultivation.",
+        "Some were hunters and gatherers In many regions, tribal groups lived by hunting animals and gathering forest produce."
+      ],
+      "correct_answer": 0,
       "pattern": "statement",
       "source_trace": "NCERT Class 8 Our Pasts III Ch4 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
-      "difficulty_level": 3,
+      "difficulty_level": 4,
       "concepts_tested": [
-        "44 OUR PASTS – III"
+        "46 OUR PASTS – III"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Tribals Dikus and the Vision of a Golden Age, which statement is supported by the source text about TRIBALS, DIKUS AND THE VISION OF A GOLDEN AGE 47?",
+      "options": [
+        "The Khonds were such a community living in the forests of Orissa.",
+        "They regularly went out on collective hunts and then divided the meat a m o n g s t t h e m s...",
+        "They ate fruits and roots collected from the forest and cooked food with the oil they extracted from the seeds of the sal and...",
+        "They used many forest shrubs and herbs for medicinal purposes, and sold forest produce in the local markets."
+      ],
+      "correct_answer": 0,
+      "pattern": "match",
+      "source_trace": "NCERT Class 8 Our Pasts III Ch4 pg 1",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "TRIBALS, DIKUS AND THE VISION OF A GOLDEN AGE 47"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Tribals Dikus and the Vision of a Golden Age, which statement is supported by the source text about 48 OUR PASTS – III?",
+      "options": [
+        "The local weavers and leather workers tur ned to the Khonds when they needed supplies of kusum and palash flowers to colour their clothes...",
+        "Fallow – A field left uncultivated for a while so that the soil recovers fertility Sal – A tree Mahua – A flower that...",
+        "2 – Dongria Kandha women in Orissa take home pandanus leaves from the forest to make plates",
+        "TRIBALS, DIKUS AND THE VISION OF A GOLDEN AGE 41 From where did these forest people get their supplies of rice and other grains?"
+      ],
+      "correct_answer": 0,
+      "pattern": "not_type",
+      "source_trace": "NCERT Class 8 Our Pasts III Ch4 pg 1",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 5,
+      "concepts_tested": [
+        "48 OUR PASTS – III"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Tribals Dikus and the Vision of a Golden Age, which statement is supported by the source text about 50 OUR PASTS – III?",
+      "options": [
+        "At times they exchanged goods – getting what they needed in return for their valuable forest produce.",
+        "At other times, they bought goods with the small amount of earnings they had.",
+        "Some of them did odd jobs in the villages, carrying loads or building roads, while others laboured in the fields of peasants and farmers.",
+        "When supplies of forest produce shrank, tribal people had to increasingly wander around in search of work as labourers."
+      ],
+      "correct_answer": 0,
+      "pattern": "statement",
+      "source_trace": "NCERT Class 8 Our Pasts III Ch4 pg 2",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 5,
+      "concepts_tested": [
+        "50 OUR PASTS – III"
       ]
     }
   ],
@@ -216,7 +306,7 @@
     "generation_method": "local_source_only_extractive_decode"
   },
   "content_model": "clearupsc_textbook_decoded_from_source_v1",
-  "decode_status": "textbook_decoded",
+  "decode_status": "textbook_verified",
   "source": {
     "book": "NCERT Class 8 Our Pasts III",
     "chapter": 4,
@@ -228,5 +318,5 @@
   "source_trace": "NCERT Class 8 Our Pasts III | Chapter 4: Tribals Dikus and the Vision of a Golden Age | https://ncert.nic.in/textbook/pdf/hess204.pdf | sha256:a860464406de1cc06e73228ea73e59b32d7e050118d4d86f21089e6043b83f6e",
   "raw_text_path": "data/study/textbook-first/raw-text/gs1_hist_class8_our_pasts_iii_ch04_tribals_dikus_and_the_vision_of_a_golden_age.txt",
   "generated_by": "local_source_only_extractive_decode",
-  "generated_at": "2026-05-26T19:53:44.435Z"
+  "generated_at": "2026-05-26T20:26:50.610Z"
 }

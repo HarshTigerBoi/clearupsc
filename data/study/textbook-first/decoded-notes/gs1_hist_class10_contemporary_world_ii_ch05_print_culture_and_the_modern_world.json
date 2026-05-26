@@ -136,7 +136,7 @@
       "source_trace": "NCERT Class 10 India and the Contemporary World II Ch5 pg 2",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
-      "difficulty_level": 3,
+      "difficulty_level": 1,
       "concepts_tested": [
         "SECTION III"
       ]
@@ -150,7 +150,7 @@
         "P r i n t C u l t u r e a n d t h e M o d e r n..."
       ],
       "correct_answer": 0,
-      "pattern": "statement",
+      "pattern": "match",
       "source_trace": "NCERT Class 10 India and the Contemporary World II Ch5 pg 2",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
@@ -204,13 +204,103 @@
         "China possessed a huge bureaucratic system which recruited its personnel through civil service examinations."
       ],
       "correct_answer": 0,
+      "pattern": "match",
+      "source_trace": "NCERT Class 10 India and the Contemporary World II Ch5 pg 3",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "2 Print Comes to Europe"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Print Culture and the Modern World, which statement is supported by the source text about 2.1 Gutenberg and the Printing Press?",
+      "options": [
+        "Textbooks for this examination were printed in vast numbers under the sponsorship of the imperial state.",
+        "From the sixteenth century, the number of examination candidates went up and that increased the volume of print.",
+        "By the seventeenth century, as urban culture bloomed in China, the uses of print diversified.",
+        "Merchants used print in their everyday life, as they collected trade information."
+      ],
+      "correct_answer": 0,
+      "pattern": "not_type",
+      "source_trace": "NCERT Class 10 India and the Contemporary World II Ch5 pg 3",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "2.1 Gutenberg and the Printing Press"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Print Culture and the Modern World, which statement is supported by the source text about 3 The Print Revolution and Its Impact?",
+      "options": [
+        "The new readership preferred fictional narratives, poetry, autobiographies, anthologies of literary masterpieces, and romantic plays.",
+        "Rich women began to read, and many women began publishing their poetry and plays.",
+        "Wives of scholar-officials published their works and courtesans wrote about their lives.",
+        "This new reading culture was accompanied by a new technology."
+      ],
+      "correct_answer": 0,
       "pattern": "statement",
       "source_trace": "NCERT Class 10 India and the Contemporary World II Ch5 pg 3",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
-      "difficulty_level": 3,
+      "difficulty_level": 4,
       "concepts_tested": [
-        "2 Print Comes to Europe"
+        "3 The Print Revolution and Its Impact"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Print Culture and the Modern World, which statement is supported by the source text about 3.1 A New Reading Public?",
+      "options": [
+        "Western printing techniques and mechanical presses were imported in the late nineteenth century as Western powers established their outposts in China.",
+        "Shanghai became the hub of the new print culture, catering to the Western-style schools.",
+        "From hand printing there was now a gradual shift to mechanical printing.",
+        "1.1 Print in Japan Buddhist missionaries from China introduced hand-printing technology into Japan around AD 768-770."
+      ],
+      "correct_answer": 0,
+      "pattern": "match",
+      "source_trace": "NCERT Class 10 India and the Contemporary World II Ch5 pg 3",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "3.1 A New Reading Public"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Print Culture and the Modern World, which statement is supported by the source text about 3.2 Religious Debates and the Fear of Print?",
+      "options": [
+        "The oldest Chinese book, printed in AD 868, is the Buddhist Diamond Sutra, containing six sheets of text and woodcut illustrations.",
+        "Pictures were printed on textiles, New words Calligraphy – The art of beautiful and stylised writing",
+        "In medieval Japan, poets and prose writers were regularly published, and books were cheap and abundant.",
+        "Printing of visual material led to interesting publishing practices."
+      ],
+      "correct_answer": 0,
+      "pattern": "not_type",
+      "source_trace": "NCERT Class 10 India and the Contemporary World II Ch5 pg 3",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 5,
+      "concepts_tested": [
+        "3.2 Religious Debates and the Fear of Print"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Print Culture and the Modern World, which statement is supported by the source text about 3.3 Print and Dissent?",
+      "options": [
+        "In the late eighteenth century, in the flourishing urban circles at Edo (later to be known as Tokyo), illustrated collections of paintings depicted an...",
+        "Libraries and bookstores were packed with hand-printed material of various types – books on women, musical instruments, calculations, tea ceremony, flower arrangements, proper etiquette,...",
+        "Box 1 Kitagawa Utamaro, born in Edo in 1753, was widely known for his contributions to an art form called ukiyo (‘pictures of the...",
+        "These prints travelled to contemporary US and Europe and influenced artists like Manet, Monet and Van Gogh."
+      ],
+      "correct_answer": 0,
+      "pattern": "statement",
+      "source_trace": "NCERT Class 10 India and the Contemporary World II Ch5 pg 4",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 5,
+      "concepts_tested": [
+        "3.3 Print and Dissent"
       ]
     }
   ],
@@ -220,7 +310,7 @@
     "generation_method": "local_source_only_extractive_decode"
   },
   "content_model": "clearupsc_textbook_decoded_from_source_v1",
-  "decode_status": "textbook_decoded",
+  "decode_status": "textbook_verified",
   "source": {
     "book": "NCERT Class 10 India and the Contemporary World II",
     "chapter": 5,
@@ -232,5 +322,5 @@
   "source_trace": "NCERT Class 10 India and the Contemporary World II | Chapter 5: Print Culture and the Modern World | https://ncert.nic.in/textbook/pdf/jess305.pdf | sha256:b51d5a431f0624a7a7a68242dd02f150c3d6ebf2c6b3645f4270103bdc497f89",
   "raw_text_path": "data/study/textbook-first/raw-text/gs1_hist_class10_contemporary_world_ii_ch05_print_culture_and_the_modern_world.txt",
   "generated_by": "local_source_only_extractive_decode",
-  "generated_at": "2026-05-26T19:54:09.924Z"
+  "generated_at": "2026-05-26T20:27:17.373Z"
 }

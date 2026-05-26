@@ -136,7 +136,7 @@
       "source_trace": "NCERT Class 8 Social and Political Life III Ch5 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
-      "difficulty_level": 3,
+      "difficulty_level": 1,
       "concepts_tested": [
         "52 OUR PASTS – III"
       ]
@@ -150,7 +150,7 @@
         "1 – Sepoys and peasants gather forces for the revolt that spread across the plains of north India in 1857"
       ],
       "correct_answer": 0,
-      "pattern": "statement",
+      "pattern": "match",
       "source_trace": "NCERT Class 8 Social and Political Life III Ch5 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
@@ -204,13 +204,103 @@
         "They were unhappy about their pay, allowances and conditions of service."
       ],
       "correct_answer": 0,
+      "pattern": "match",
+      "source_trace": "NCERT Class 8 Social and Political Life III Ch5 pg 1",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "62 OUR PASTS – III"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Understanding Marginalisation, which statement is supported by the source text about 64 OUR PASTS – III?",
+      "options": [
+        "Some of the new rules, moreover, violated their religious sensibilities and beliefs.",
+        "Did you know that in those days many people in the country believed that if they crossed the sea they would lose their religion...",
+        "So when in 1824, the sepoys were told to go to Burma by the sea route to fight for the Company, they refused to...",
+        "They were severely punished, and since the issue did not die down, in 1856 the Company passed a new law which stated that every..."
+      ],
+      "correct_answer": 0,
+      "pattern": "not_type",
+      "source_trace": "NCERT Class 8 Social and Political Life III Ch5 pg 1",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "64 OUR PASTS – III"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Understanding Marginalisation, which statement is supported by the source text about Understanding Marginalisation?",
+      "options": [
+        "Sepoys also reacted to what was happening in the countryside.",
+        "Many of them were peasants and had families living in the villages.",
+        "So the anger of the peasants quickly spread among the sepoys.",
+        "when PeOPle RevOlT 53 Source 1 Responses to reforms The British believed that Indian society had to be reformed."
+      ],
+      "correct_answer": 0,
       "pattern": "statement",
       "source_trace": "NCERT Class 8 Social and Political Life III Ch5 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
-      "difficulty_level": 3,
+      "difficulty_level": 4,
       "concepts_tested": [
-        "62 OUR PASTS – III"
+        "Understanding Marginalisation"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Understanding Marginalisation, which statement is supported by the source text about Understanding?",
+      "options": [
+        "Laws were passed to stop the practice of sati and to encourage the remarriage of widows.",
+        "After 1830, the Company allowed Christian missionaries to function freely in its domain and even own land and property.",
+        "In 1850, a new law was passed to make conversion to Christianity easier.",
+        "This law allowed an Indian who had converted to Christianity to inherit the property of his ancestors."
+      ],
+      "correct_answer": 0,
+      "pattern": "match",
+      "source_trace": "NCERT Class 8 Social and Political Life III Ch5 pg 2",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "Understanding"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Understanding Marginalisation, which statement is supported by the source text about Marginalisation?",
+      "options": [
+        "Many Indians began to feel that the British were destroying their religion, their social customs and their traditional way of life.",
+        "There were of course other Indians who wanted to change existing social practices.",
+        "You will read about these reformers and reform movements in Chapter 6.",
+        "Through the Eyes of the People To get a glimpse of what people were thinking those days about British rule, study Sources 1 and..."
+      ],
+      "correct_answer": 0,
+      "pattern": "not_type",
+      "source_trace": "NCERT Class 8 Social and Political Life III Ch5 pg 2",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 5,
+      "concepts_tested": [
+        "Marginalisation"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Understanding Marginalisation, which statement is supported by the source text about When People Revolt?",
+      "options": [
+        "The list of eighty-four rules Given here are excerpts from the book Majha Pravaas, written by Vishnubhatt Godse, a Brahman from a village in...",
+        "He and his uncle had set out to attend a yajna being organised in Mathura.",
+        "Vishnubhatt writes that they met some sepoys on the way who told them that they should not proceed on the journey because a massive...",
+        "The sepoys said: the English were determined to wipe out the religions of the Hindus and the Muslims … they had made a list..."
+      ],
+      "correct_answer": 0,
+      "pattern": "statement",
+      "source_trace": "NCERT Class 8 Social and Political Life III Ch5 pg 2",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 5,
+      "concepts_tested": [
+        "When People Revolt"
       ]
     }
   ],
@@ -220,7 +310,7 @@
     "generation_method": "local_source_only_extractive_decode"
   },
   "content_model": "clearupsc_textbook_decoded_from_source_v1",
-  "decode_status": "textbook_decoded",
+  "decode_status": "textbook_verified",
   "source": {
     "book": "NCERT Class 8 Social and Political Life III",
     "chapter": 5,
@@ -232,5 +322,5 @@
   "source_trace": "NCERT Class 8 Social and Political Life III | Chapter 5: Understanding Marginalisation | https://ncert.nic.in/textbook/pdf/hess205.pdf | sha256:f2ec0cbe7abd0ff8a9ff9a0e35e67cb362d76c6c148de78494cfcb74dfd220cb",
   "raw_text_path": "data/study/textbook-first/raw-text/gs2_polity_class8_social_political_life_iii_ch05_understanding_marginalisation.txt",
   "generated_by": "local_source_only_extractive_decode",
-  "generated_at": "2026-05-26T19:54:16.713Z"
+  "generated_at": "2026-05-26T20:27:24.337Z"
 }

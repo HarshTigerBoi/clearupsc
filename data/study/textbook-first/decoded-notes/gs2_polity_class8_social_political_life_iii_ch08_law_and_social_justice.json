@@ -136,7 +136,7 @@
       "source_trace": "NCERT Class 8 Social and Political Life III Ch8 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
-      "difficulty_level": 3,
+      "difficulty_level": 1,
       "concepts_tested": [
         "94 OUR PASTS – III"
       ]
@@ -150,7 +150,7 @@
         "This consciousness began to be clearly stated by the political associations formed after 1850, especially those that came into being in the 1870s and..."
       ],
       "correct_answer": 0,
-      "pattern": "statement",
+      "pattern": "match",
       "source_trace": "NCERT Class 8 Social and Political Life III Ch8 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
@@ -204,13 +204,103 @@
         "The bill provided for the trial of British or European persons by Indians, and sought equality between British and Indian judges in the country."
       ],
       "correct_answer": 0,
-      "pattern": "statement",
+      "pattern": "match",
       "source_trace": "NCERT Class 8 Social and Political Life III Ch8 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
-      "difficulty_level": 3,
+      "difficulty_level": 4,
       "concepts_tested": [
         "98 OUR PASTS – III"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Law and Social Justice, which statement is supported by the source text about THE MAKING OF THE NATIONAL MOVEMENT: 1870s –1947 99?",
+      "options": [
+        "But when white opposition forced the government to withdraw the bill, Indians were enraged.",
+        "The event highlighted the racial attitudes of the British in India.",
+        "Sovereign – The capacity to act independently without outside interference",
+        "THE MAKING OF THE NATIONAL MOVEMENT: 1870s –1947 95 The need for an all-India organisation of educated Indians had been felt since 1880, but..."
+      ],
+      "correct_answer": 0,
+      "pattern": "not_type",
+      "source_trace": "NCERT Class 8 Social and Political Life III Ch8 pg 1",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "THE MAKING OF THE NATIONAL MOVEMENT: 1870s –1947 99"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Law and Social Justice, which statement is supported by the source text about 100 OUR PASTS – III?",
+      "options": [
+        "The Indian National Congress was established when 72 delegates from all over the country met at Bombay in December 1885.",
+        "The early leadership – Dadabhai Naoroji, Pherozeshah Mehta, Badruddin Tyabji, W.C.",
+        "Bonnerji, Surendranath Banerji, Romesh Chandra Dutt, S.",
+        "Subramania Iyer, among others – was largely from Bombay and Calcutta."
+      ],
+      "correct_answer": 0,
+      "pattern": "statement",
+      "source_trace": "NCERT Class 8 Social and Political Life III Ch8 pg 2",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "100 OUR PASTS – III"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Law and Social Justice, which statement is supported by the source text about THE MAKING OF THE NATIONAL MOVEMENT: 1870s –1947 101?",
+      "options": [
+        "Naoroji, a businessman and publicist settled in London, and for a time member of the British Parliament, guided the younger nationalists.",
+        "Hume, also played a part in bringing Indians from the various regions together.",
+        "Publicist – Someone who publicises an idea by circulating information, writing reports, speaking at meetings A nation in the making It has often been...",
+        "During this period, it demanded a greater voice for Indians in the government and in administration."
+      ],
+      "correct_answer": 0,
+      "pattern": "match",
+      "source_trace": "NCERT Class 8 Social and Political Life III Ch8 pg 2",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "THE MAKING OF THE NATIONAL MOVEMENT: 1870s –1947 101"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Law and Social Justice, which statement is supported by the source text about 12 March 1938?",
+      "options": [
+        "It wanted the Legislative Councils to be made more representative, given more power, and introduced in provinces where none existed.",
+        "It demanded that Indians be placed in high positions in the government.",
+        "For this purpose, it called for civil service examinations to be held in India as well, not just in London.",
+        "The demand for Indianisation of the administration was part of a movement against racism, since most important jobs at the time were monopolised by..."
+      ],
+      "correct_answer": 0,
+      "pattern": "not_type",
+      "source_trace": "NCERT Class 8 Social and Political Life III Ch8 pg 2",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 5,
+      "concepts_tested": [
+        "12 March 1938"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Law and Social Justice, which statement is supported by the source text about 102 OUR PASTS – III?",
+      "options": [
+        "2 – Dadabhai Naoroji Naoroji’s book Poverty and Un-British Rule in India offered a scathing criticism of the economic impact of British rule.",
+        "A newspaper, The Indian Mirror, wrote in January 1886: The First National Congress at Bombay … is the nucleus of a future Parliament for...",
+        "Badruddin Tyabji addressed the Congress as President in 1887 thus: this Congress is composed of the representatives, not of any one class or community...",
+        "96 OUR PASTS – III officials, and the British generally assumed that Indians could not be given positions of responsibility."
+      ],
+      "correct_answer": 0,
+      "pattern": "statement",
+      "source_trace": "NCERT Class 8 Social and Political Life III Ch8 pg 2",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 5,
+      "concepts_tested": [
+        "102 OUR PASTS – III"
       ]
     }
   ],
@@ -220,7 +310,7 @@
     "generation_method": "local_source_only_extractive_decode"
   },
   "content_model": "clearupsc_textbook_decoded_from_source_v1",
-  "decode_status": "textbook_decoded",
+  "decode_status": "textbook_verified",
   "source": {
     "book": "NCERT Class 8 Social and Political Life III",
     "chapter": 8,
@@ -232,5 +322,5 @@
   "source_trace": "NCERT Class 8 Social and Political Life III | Chapter 8: Law and Social Justice | https://ncert.nic.in/textbook/pdf/hess208.pdf | sha256:59ee8e69ea74cbb4ee04277d8e759e5e180f3aaf0921f013bd441b304868f970",
   "raw_text_path": "data/study/textbook-first/raw-text/gs2_polity_class8_social_political_life_iii_ch08_law_and_social_justice.txt",
   "generated_by": "local_source_only_extractive_decode",
-  "generated_at": "2026-05-26T19:54:17.455Z"
+  "generated_at": "2026-05-26T20:27:25.131Z"
 }

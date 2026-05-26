@@ -115,7 +115,7 @@
       "source_trace": "NCERT Class 8 Science Ch11 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
-      "difficulty_level": 3,
+      "difficulty_level": 1,
       "concepts_tested": [
         "CHEMICAL EFFECTS OF"
       ]
@@ -129,7 +129,7 @@
         "However, so far we have used our tester to test materials which were in solid state."
       ],
       "correct_answer": 0,
-      "pattern": "statement",
+      "pattern": "match",
       "source_trace": "NCERT Class 8 Science Ch11 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
@@ -183,13 +183,103 @@
         "Bring your tester over this cap and let the ends of the tester dip into lemon juice or vinegar as shown in Fig.11.2."
       ],
       "correct_answer": 0,
+      "pattern": "match",
+      "source_trace": "NCERT Class 8 Science Ch11 pg 1",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "SCIENCE 140"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Force and Pressure, which statement is supported by the source text about CHEMICAL EFFECTS OF ELECTRIC CURRENT 141?",
+      "options": [
+        "Take care that the ends are not more than 1 cm apart but at the same time do not touch each other.",
+        "11.2 : Testing conduction of electricity in lemon juice or vinegar of the tester glow?",
+        "How would you classify lemon juice or vinegar— a good conductor or a poor conductor?",
+        "When the liquid between the two ends of the tester allows the electric current to pass, the circuit of the tester becomes complete."
+      ],
+      "correct_answer": 0,
+      "pattern": "not_type",
+      "source_trace": "NCERT Class 8 Science Ch11 pg 1",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "CHEMICAL EFFECTS OF ELECTRIC CURRENT 141"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Force and Pressure, which statement is supported by the source text about SCIENCE 142?",
+      "options": [
+        "When the liquid does not allow the electric current to pass, the circuit of the tester is not complete and the bulb does not...",
+        "In some situations even though the liquid is conducting, the bulb may not g l o w .",
+        "Do you remember why the bulb glows when the electric current passes through it?",
+        "Due to the heating effect of current, the filament of the bulb gets heated to a high temperature and it starts glowing."
+      ],
+      "correct_answer": 0,
       "pattern": "statement",
       "source_trace": "NCERT Class 8 Science Ch11 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
-      "difficulty_level": 3,
+      "difficulty_level": 4,
       "concepts_tested": [
-        "SCIENCE 140"
+        "SCIENCE 142"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Force and Pressure, which statement is supported by the source text about 11.2 Chemical Effects of?",
+      "options": [
+        "However, if the current through a circuit is too weak, the filament does not get heated CHEMICAL EFFECTS OF ELECTRIC CURRENT 139 2024-25",
+        "SCIENCE 140 Activity 11.3 Take the tray from inside a discarded matchbox.",
+        "Now connect one free end of the wire to the terminal of a battery.",
+        "Take another piece of wire and connect it to the other terminal of the battery (Fig."
+      ],
+      "correct_answer": 0,
+      "pattern": "match",
+      "source_trace": "NCERT Class 8 Science Ch11 pg 1",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "11.2 Chemical Effects of"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Force and Pressure, which statement is supported by the source text about CHEMICAL EFFECTS OF ELECTRIC CURRENT 143?",
+      "options": [
+        "Fig 11.4 : Another tester sufficiently and it does not glow.",
+        "Well, though a material may conduct electricity, it may not conduct it as easily as a metal.",
+        "As a result, the circuit of the tester may be complete and yet the current through it may be too weak to make the...",
+        "Can we make another tester which can detect a weak current?"
+      ],
+      "correct_answer": 0,
+      "pattern": "not_type",
+      "source_trace": "NCERT Class 8 Science Ch11 pg 2",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 5,
+      "concepts_tested": [
+        "CHEMICAL EFFECTS OF ELECTRIC CURRENT 143"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Force and Pressure, which statement is supported by the source text about SCIENCE 144?",
+      "options": [
+        "We can use another effect of an electric current to make another kind of tester.",
+        "Do you recall that electric current produces a magnetic effect?",
+        "What happens to a compass needle kept nearby when current flows in a wire?",
+        "Even if the current is small, the deflection of the magnetic needle can be seen."
+      ],
+      "correct_answer": 0,
+      "pattern": "statement",
+      "source_trace": "NCERT Class 8 Science Ch11 pg 2",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 5,
+      "concepts_tested": [
+        "SCIENCE 144"
       ]
     }
   ],
@@ -199,7 +289,7 @@
     "generation_method": "local_source_only_extractive_decode"
   },
   "content_model": "clearupsc_textbook_decoded_from_source_v1",
-  "decode_status": "textbook_decoded",
+  "decode_status": "textbook_verified",
   "source": {
     "book": "NCERT Class 8 Science",
     "chapter": 11,
@@ -211,5 +301,5 @@
   "source_trace": "NCERT Class 8 Science | Chapter 11: Force and Pressure | https://ncert.nic.in/textbook/pdf/hesc111.pdf | sha256:6565e0f88fa371b9b4ccbdaf7c99280935357f5a854f0ba73e9ddbaa3e845251",
   "raw_text_path": "data/study/textbook-first/raw-text/gs3_sci_class8_science_ch11_force_and_pressure.txt",
   "generated_by": "local_source_only_extractive_decode",
-  "generated_at": "2026-05-26T19:54:39.408Z"
+  "generated_at": "2026-05-26T20:27:48.136Z"
 }

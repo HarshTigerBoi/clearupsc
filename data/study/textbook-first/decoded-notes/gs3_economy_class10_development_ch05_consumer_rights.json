@@ -136,7 +136,7 @@
       "source_trace": "NCERT Class 10 Understanding Economic Development Ch5 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
-      "difficulty_level": 3,
+      "difficulty_level": 1,
       "concepts_tested": [
         "NOTES FOR THE TEACHER"
       ]
@@ -150,7 +150,7 @@
         "Finally, it ends with some critical issues of the consumer movement in India."
       ],
       "correct_answer": 0,
-      "pattern": "statement",
+      "pattern": "match",
       "source_trace": "NCERT Class 10 Understanding Economic Development Ch5 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
@@ -204,13 +204,103 @@
         "For example, https://consumer affairs.nic.in is a website of Central Government Ministry of Consumer Affairs, Food & Public Distribution."
       ],
       "correct_answer": 0,
+      "pattern": "match",
+      "source_trace": "NCERT Class 10 Understanding Economic Development Ch5 pg 1",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "THE CONSUMER IN THE MARKETPLACE"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Consumer Rights, which statement is supported by the source text about THEY PURPOSELY MADE IT?",
+      "options": [
+        "Another website www.cuts- international.org is the website of a consumer organisation working in India for 40 years.",
+        "It publishes a variety of material to create consumer awareness in India.",
+        "They need to be shared among learners so that they can also collect material as part of their activities.",
+        "For example, case histories were taken from newspaper clippings and consumers who fought in Consumer Disputes Redressal Commissions."
+      ],
+      "correct_answer": 0,
+      "pattern": "not_type",
+      "source_trace": "NCERT Class 10 Understanding Economic Development Ch5 pg 1",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "THEY PURPOSELY MADE IT"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Consumer Rights, which statement is supported by the source text about SO IT WOULD FALL APART?",
+      "options": [
+        "Let learners collect and read such material from different sources: consumer protection councils, Consumer Disputes Redressal Commissions and internet.",
+        "CONSUMER RIGHTS CONSUMER RIGHTS CONSUMER RIGHTS CONSUMER RIGHTS CONSUMER RIGHTS CHAPTER 5 The collage you see below contains some news clippings of Consumer Disputes...",
+        "Why did the people go to these organisations in these cases?",
+        "These verdicts came about because some people persisted and struggled to get justice."
+      ],
+      "correct_answer": 0,
       "pattern": "statement",
       "source_trace": "NCERT Class 10 Understanding Economic Development Ch5 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
-      "difficulty_level": 3,
+      "difficulty_level": 4,
       "concepts_tested": [
-        "THE CONSUMER IN THE MARKETPLACE"
+        "SO IT WOULD FALL APART"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Consumer Rights, which statement is supported by the source text about AFTER A FEW MONTHS SO?",
+      "options": [
+        "More importantly, what are the ways in which they can exercise their rights as consumers to get a fair deal from the sellers when...",
+        "We participate in the market both as producers and consumers.",
+        "As producers of goods and services we could be working in any of the sectors discussed earlier such as agriculture, industry, or services.",
+        "Consumers participate in the market when they purchase goods and services that they need."
+      ],
+      "correct_answer": 0,
+      "pattern": "match",
+      "source_trace": "NCERT Class 10 Understanding Economic Development Ch5 pg 1",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "AFTER A FEW MONTHS SO"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Consumer Rights, which statement is supported by the source text about THAT I WILL BUY A NEW ONE!?",
+      "options": [
+        "These are the final goods that people as consumers use.",
+        "In the preceding chapters we discussed the need for rules and regulations or steps that would promote development.",
+        "These could be for the protection of workers in the unorganised sector or to protect people from high interest rates charged by moneylenders in...",
+        "Similarly, rules and regulations are also required for protecting the environment."
+      ],
+      "correct_answer": 0,
+      "pattern": "not_type",
+      "source_trace": "NCERT Class 10 Understanding Economic Development Ch5 pg 2",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 5,
+      "concepts_tested": [
+        "THAT I WILL BUY A NEW ONE!"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Consumer Rights, which statement is supported by the source text about LET’S WORK THESE OUT?",
+      "options": [
+        "For example, moneylenders in the informal sector that you read about in Chapter 3 adopt various tricks to bind the borrower: they could make...",
+        "Similarly, many people who work in the unorganised sector have to work at a low wage and accept conditions that are not fair and...",
+        "To prevent such exploitation, we have talked of rules and regulations for their protection.",
+        "There are organisations that have struggled for long to ensure that these rules are followed."
+      ],
+      "correct_answer": 0,
+      "pattern": "statement",
+      "source_trace": "NCERT Class 10 Understanding Economic Development Ch5 pg 2",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 5,
+      "concepts_tested": [
+        "LET’S WORK THESE OUT"
       ]
     }
   ],
@@ -220,7 +310,7 @@
     "generation_method": "local_source_only_extractive_decode"
   },
   "content_model": "clearupsc_textbook_decoded_from_source_v1",
-  "decode_status": "textbook_decoded",
+  "decode_status": "textbook_verified",
   "source": {
     "book": "NCERT Class 10 Understanding Economic Development",
     "chapter": 5,
@@ -232,5 +322,5 @@
   "source_trace": "NCERT Class 10 Understanding Economic Development | Chapter 5: Consumer Rights | https://ncert.nic.in/textbook/pdf/jess205.pdf | sha256:d1c546bbf35a4133ff1d3837f719335e33858166353e07e2345cf840585971fe",
   "raw_text_path": "data/study/textbook-first/raw-text/gs3_economy_class10_development_ch05_consumer_rights.txt",
   "generated_by": "local_source_only_extractive_decode",
-  "generated_at": "2026-05-26T19:54:18.636Z"
+  "generated_at": "2026-05-26T20:27:26.532Z"
 }

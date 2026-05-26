@@ -115,7 +115,7 @@
       "source_trace": "NCERT Class 8 Science Ch10 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
-      "difficulty_level": 3,
+      "difficulty_level": 1,
       "concepts_tested": [
         "SOUND SOUND"
       ]
@@ -129,7 +129,7 @@
         "SCIENCE 124 10.1 Sound is Produced by a Vibrating Body Touch the school bell when not in use."
       ],
       "correct_answer": 0,
-      "pattern": "statement",
+      "pattern": "match",
       "source_trace": "NCERT Class 8 Science Ch10 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
@@ -183,13 +183,103 @@
         "Many of you might have seen the manjira (cymbals), the ghatam, and the noot (mudpots) and the kartal."
       ],
       "correct_answer": 0,
-      "pattern": "statement",
+      "pattern": "match",
       "source_trace": "NCERT Class 8 Science Ch10 pg 2",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
-      "difficulty_level": 3,
+      "difficulty_level": 4,
       "concepts_tested": [
         "SCIENCE 126"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Reaching the Age of Adolescence, which statement is supported by the source text about 10.2 Sound Produced by?",
+      "options": [
+        "These musical instruments are commonly used in many parts of our country.",
+        "Can you name a few other musical instruments of this type?",
+        "10.6 : A few more musical instruments Ghatam Make a list of familiar musical instruments and identify their vibrating parts.",
+        "SCIENCE 126 10.2 Sound Produced by Humans Speak loudly for a while or sing a song, or buzz like a bee."
+      ],
+      "correct_answer": 0,
+      "pattern": "not_type",
+      "source_trace": "NCERT Class 8 Science Ch10 pg 2",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "10.2 Sound Produced by"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Reaching the Age of Adolescence, which statement is supported by the source text about SOUND 127?",
+      "options": [
+        "In humans, the sound is produced by the voice box or the larynx.",
+        "Put your fingers on the throat and find a hard bump that seems to move when you swallow.",
+        "Two vocal cords, are stretched across the voice box or larynx in such a way that it leaves a narrow slit between them for...",
+        "10.7 : Jaltrang When we pluck the string of an instrument, like the sitar, the sound that we hear is not only that of..."
+      ],
+      "correct_answer": 0,
+      "pattern": "statement",
+      "source_trace": "NCERT Class 8 Science Ch10 pg 3",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "SOUND 127"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Reaching the Age of Adolescence, which statement is supported by the source text about 10.3 Sound Needs a Medium?",
+      "options": [
+        "The whole instrument is forced to vibrate, and it is the sound of the vibration of the instrument that we hear.",
+        "Similarly, when we strike the membrane of a mridangam, the sound that we hear is not only that of the membrane but of the...",
+        "Muscles attached to the vocal cords can make the cords tight or loose.",
+        "When the vocal cords are tight and thin, the type or quality of voice is different Activity 10.5 Take 6-8 bowls or tumblers."
+      ],
+      "correct_answer": 0,
+      "pattern": "match",
+      "source_trace": "NCERT Class 8 Science Ch10 pg 3",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "10.3 Sound Needs a Medium"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Reaching the Age of Adolescence, which statement is supported by the source text about SCIENCE 128?",
+      "options": [
+        "Fill them with water up to different levels, increasing gradually from one end to the other.",
+        "Place these two pieces one above the other and stretch them tight.",
+        "As the air blows through the stretched rubber strips, a sound is produced.",
+        "You can also take a piece of paper with a narrow slit and hold it between your fingers as shown in Fig."
+      ],
+      "correct_answer": 0,
+      "pattern": "not_type",
+      "source_trace": "NCERT Class 8 Science Ch10 pg 3",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 5,
+      "concepts_tested": [
+        "SCIENCE 128"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Reaching the Age of Adolescence, which statement is supported by the source text about SOUND 129?",
+      "options": [
+        "10.9 (a), (b) : Working of vocal cords The vocal cords in men are about 20 mm long.",
+        "This is the reason why the voices of men, women and children are different.",
+        "10.3 Sound Needs a Medium for Propagation When you call up your friend who is standing at a distance, your friend is able to...",
+        "(Remember that the cell phone must not be kept in water.) Ask your friend to give a ring on this cell phone from another..."
+      ],
+      "correct_answer": 0,
+      "pattern": "statement",
+      "source_trace": "NCERT Class 8 Science Ch10 pg 4",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 5,
+      "concepts_tested": [
+        "SOUND 129"
       ]
     }
   ],
@@ -199,7 +289,7 @@
     "generation_method": "local_source_only_extractive_decode"
   },
   "content_model": "clearupsc_textbook_decoded_from_source_v1",
-  "decode_status": "textbook_decoded",
+  "decode_status": "textbook_verified",
   "source": {
     "book": "NCERT Class 8 Science",
     "chapter": 10,
@@ -211,5 +301,5 @@
   "source_trace": "NCERT Class 8 Science | Chapter 10: Reaching the Age of Adolescence | https://ncert.nic.in/textbook/pdf/hesc110.pdf | sha256:67d164b95714d7d6f3737796c345f7c47abfe0fa5739ea276e40a6c05647daff",
   "raw_text_path": "data/study/textbook-first/raw-text/gs3_sci_class8_science_ch10_reaching_the_age_of_adolescence.txt",
   "generated_by": "local_source_only_extractive_decode",
-  "generated_at": "2026-05-26T19:54:39.187Z"
+  "generated_at": "2026-05-26T20:27:47.905Z"
 }

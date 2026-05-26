@@ -132,7 +132,7 @@
       "source_trace": "NCERT Class 7 Social and Political Life II Ch5 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
-      "difficulty_level": 3,
+      "difficulty_level": 1,
       "concepts_tested": [
         "48 Social and Political Life"
       ]
@@ -146,7 +146,7 @@
         "In what kinds of jobs were there more images of men than women?"
       ],
       "correct_answer": 0,
-      "pattern": "statement",
+      "pattern": "match",
       "source_trace": "NCERT Class 7 Social and Political Life II Ch5 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
@@ -200,13 +200,103 @@
         "She studied hard and did well and then went on to get a diploma in electronics."
       ],
       "correct_answer": 0,
+      "pattern": "match",
+      "source_trace": "NCERT Class 7 Social and Political Life II Ch5 pg 3",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "52 Social and Political Life"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Women Change the World, which statement is supported by the source text about 54 Social and Political Life?",
+      "options": [
+        "She then took the railway board exam and passed it on her first attempt.",
+        "Laxmi says,I love challenges and the moment somebody says it is not for girls, I make sure I go ahead and do it. Laxmi...",
+        "Her philosophy is simple  As long as I am having fun without harming anyone, as long as I am doing well and helping...",
+        "The reason they did this is because they feel that outside the home too, women are good at only certain jobs."
+      ],
+      "correct_answer": 0,
+      "pattern": "not_type",
+      "source_trace": "NCERT Class 7 Social and Political Life II Ch5 pg 3",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "54 Social and Political Life"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Women Change the World, which statement is supported by the source text about 56 Social and Political Life?",
+      "options": [
+        "For example, many people believe that women make better nurses because they are more patient and gentle.",
+        "Similarly, it is believed that science requires a technical mind and girls and women are not capable of dealing with technical things.",
+        "Because so many people believe in these stereotypes, many girls do not get the same support that boys do to study and train to...",
+        "In most families, once girls finish school, they are encouraged by their families to see marriage as their main aim in life."
+      ],
+      "correct_answer": 0,
       "pattern": "statement",
       "source_trace": "NCERT Class 7 Social and Political Life II Ch5 pg 3",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
-      "difficulty_level": 3,
+      "difficulty_level": 4,
       "concepts_tested": [
-        "52 Social and Political Life"
+        "56 Social and Political Life"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Women Change the World, which statement is supported by the source text about 60 Social and Political Life?",
+      "options": [
+        "52 Social and Political Life Read the story below and answer the questions  If you were Xavier, what subject would you choose and...",
+        "In your experience, what are some of the other pressures that boys experience?",
+        "Xavier was happy with the results of his Class X board exams.Though his marks in Science and Maths were not high, he had done...",
+        "When his parents saw his report card, however, they did not look pleased at all..."
+      ],
+      "correct_answer": 0,
+      "pattern": "match",
+      "source_trace": "NCERT Class 7 Social and Political Life II Ch5 pg 4",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "60 Social and Political Life"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Women Change the World, which statement is supported by the source text about 14 August, several thousand people?",
+      "options": [
+        "I know Mama, but its okay, because I dont want to take Maths or Science.",
+        "It is important to understand that we live in a society in which all children face pressures from the world around them.",
+        "Sometimes, these come in the form of demands from adults.",
+        "At other times, they can just be because of unfair teasing by our own friends."
+      ],
+      "correct_answer": 0,
+      "pattern": "not_type",
+      "source_trace": "NCERT Class 7 Social and Political Life II Ch5 pg 4",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 5,
+      "concepts_tested": [
+        "14 August, several thousand people"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Women Change the World, which statement is supported by the source text about FOUR?",
+      "options": [
+        "Boys are pressurised to think about getting a job that will pay a good salary.",
+        "They are also teased and bullied if they do not behave like other boys.",
+        "You may remember that in your Class VI book you read about how boys at an early age are encouraged not to cry in...",
+        "53 Ramabai (18581922), shown above with her daughter, championed the cause of womens education."
+      ],
+      "correct_answer": 0,
+      "pattern": "statement",
+      "source_trace": "NCERT Class 7 Social and Political Life II Ch5 pg 4",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 5,
+      "concepts_tested": [
+        "FOUR"
       ]
     }
   ],
@@ -216,7 +306,7 @@
     "generation_method": "local_source_only_extractive_decode"
   },
   "content_model": "clearupsc_textbook_decoded_from_source_v1",
-  "decode_status": "textbook_decoded",
+  "decode_status": "textbook_verified",
   "source": {
     "book": "NCERT Class 7 Social and Political Life II",
     "chapter": 5,
@@ -228,5 +318,5 @@
   "source_trace": "NCERT Class 7 Social and Political Life II | Chapter 5: Women Change the World | https://ncert.nic.in/textbook/pdf/gess305.pdf | sha256:39e129e36622b2199d6f4ba3b7a2c30e319a20297dde3a3208eb6063e4bc744f",
   "raw_text_path": "data/study/textbook-first/raw-text/gs2_polity_class7_social_political_life_ii_ch05_women_change_the_world.txt",
   "generated_by": "local_source_only_extractive_decode",
-  "generated_at": "2026-05-26T19:54:14.799Z"
+  "generated_at": "2026-05-26T20:27:22.408Z"
 }

@@ -136,7 +136,7 @@
       "source_trace": "NCERT Class 12 Contemporary World Politics Ch1 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
-      "difficulty_level": 3,
+      "difficulty_level": 1,
       "concepts_tested": [
         "LEADERS OF THE"
       ]
@@ -150,7 +150,7 @@
         "Chapter 1 The End of Bipolarity The Berlin Wall symbolised the division between the capitalist and the communist world."
       ],
       "correct_answer": 0,
-      "pattern": "statement",
+      "pattern": "match",
       "source_trace": "NCERT Class 12 Contemporary World Politics Ch1 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
@@ -204,13 +204,103 @@
         "The party refused to recognise the urge of people in the fifteen different republics that formed the Soviet Union to manage their own affairs..."
       ],
       "correct_answer": 0,
+      "pattern": "match",
+      "source_trace": "NCERT Class 12 Contemporary World Politics Ch1 pg 1",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "1985 March: Mikhail Gorbachev elected as the General Secretary of the"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Cold War Era, which statement is supported by the source text about 1988 June: Independence movement begins in Lithuania; later spreads to?",
+      "options": [
+        "Although, on paper, Russia was only one of the fifteen republics that together constituted the USSR, in reality Russia dominated everything, and people from...",
+        "The Union of Soviet Socialist Republics (USSR) came into being after the socialist revolution in Russia in 1917.",
+        "The revolution was inspired by the ideals of socialism, as opposed to capitalism, and the need for an egalitarian society.",
+        "This was perhaps the biggest attempt in human history to abolish the institution of private property and consciously design a society based on principles..."
+      ],
+      "correct_answer": 0,
+      "pattern": "not_type",
+      "source_trace": "NCERT Class 12 Contemporary World Politics Ch1 pg 1",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "1988 June: Independence movement begins in Lithuania; later spreads to"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Cold War Era, which statement is supported by the source text about 1989 October: Soviet Union declares that the Warsaw Pact members are free?",
+      "options": [
+        "In doing so, the makers of the Soviet system gave primacy to the state and the institution of the party.",
+        "The Soviet political system centred around the communist party, and no other political party or opposition was allowed.",
+        "After the Second World War, the east European countries that the Soviet army had liberated from the fascist forces came under the control of...",
+        "The political and the economic systems of all these countries were modelled after the USSR."
+      ],
+      "correct_answer": 0,
       "pattern": "statement",
       "source_trace": "NCERT Class 12 Contemporary World Politics Ch1 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
-      "difficulty_level": 3,
+      "difficulty_level": 4,
       "concepts_tested": [
-        "1985 March: Mikhail Gorbachev elected as the General Secretary of the"
+        "1989 October: Soviet Union declares that the Warsaw Pact members are free"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Cold War Era, which statement is supported by the source text about 1990 February: Gorbachev strips the Soviet Communist Party of its 72-year-long?",
+      "options": [
+        "This group of countries was called the Second World or the ‘socialist bloc’.",
+        "The Warsaw Pact, a military alliance, held them together.",
+        "The Soviet Union became a great power after the Second World War.",
+        "The Soviet economy was then more developed than the rest of the world except for the US."
+      ],
+      "correct_answer": 0,
+      "pattern": "match",
+      "source_trace": "NCERT Class 12 Contemporary World Politics Ch1 pg 1",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "1990 February: Gorbachev strips the Soviet Communist Party of its 72-year-long"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Cold War Era, which statement is supported by the source text about 1990 March: Lithuania becomes the first of the 15 Soviet republics to declare?",
+      "options": [
+        "It had a complex communications network, vast energy resources including oil, iron and steel, Vladimir Lenin (1870-1924) Founder of the Bolshevik Communist party; leader...",
+        "The End of Bipolarity 3 Joseph Stalin (1879-1953) Successor to Lenin and led the Soviet Union during its consolidation (1924-53); began rapid industrialisation and...",
+        "LEADERS OF THE SOVIET UNION Gorbachev, did not intervene when the disturbances occurred, and the communist regimes collapsed one after another.",
+        "These developments were a c c o m p a n i e d b y a r a p i d l y..."
+      ],
+      "correct_answer": 0,
+      "pattern": "not_type",
+      "source_trace": "NCERT Class 12 Contemporary World Politics Ch1 pg 1",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 5,
+      "concepts_tested": [
+        "1990 March: Lithuania becomes the first of the 15 Soviet republics to declare"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Cold War Era, which statement is supported by the source text about 1990 June: Russian parliament declares its independence from the Soviet Union?",
+      "options": [
+        "Gorbachev initiated the policies of economic and political reform and democratisation within the country.",
+        "The reforms were opposed by leaders within the Communist Party.",
+        "A coup took place in 1991 that was encouraged by Communist Party hardliners.",
+        "The people had tasted freedom by then and did not want the old-style rule of the Communist Party."
+      ],
+      "correct_answer": 0,
+      "pattern": "statement",
+      "source_trace": "NCERT Class 12 Contemporary World Politics Ch1 pg 2",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 5,
+      "concepts_tested": [
+        "1990 June: Russian parliament declares its independence from the Soviet Union"
       ]
     }
   ],
@@ -220,7 +310,7 @@
     "generation_method": "local_source_only_extractive_decode"
   },
   "content_model": "clearupsc_textbook_decoded_from_source_v1",
-  "decode_status": "textbook_decoded",
+  "decode_status": "textbook_verified",
   "source": {
     "book": "NCERT Class 12 Contemporary World Politics",
     "chapter": 1,
@@ -232,5 +322,5 @@
   "source_trace": "NCERT Class 12 Contemporary World Politics | Chapter 1: Cold War Era | https://ncert.nic.in/textbook/pdf/leps101.pdf | sha256:f2e02e851eca851a79d0a4794a84576c3f3c45050dd84a930443e2c7828ea0c1",
   "raw_text_path": "data/study/textbook-first/raw-text/gs2_ir_class12_world_politics_ch01_cold_war_era.txt",
   "generated_by": "local_source_only_extractive_decode",
-  "generated_at": "2026-05-26T19:54:00.627Z"
+  "generated_at": "2026-05-26T20:27:07.468Z"
 }

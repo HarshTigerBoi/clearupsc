@@ -136,7 +136,7 @@
       "source_trace": "NCERT Class 12 Themes in Indian History III Ch4 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
-      "difficulty_level": 3,
+      "difficulty_level": 1,
       "concepts_tested": [
         "THEME"
       ]
@@ -150,7 +150,7 @@
         "The Constitution of India was framed between December 1946 and November 1949."
       ],
       "correct_answer": 0,
-      "pattern": "statement",
+      "pattern": "match",
       "source_trace": "NCERT Class 12 Themes in Indian History III Ch4 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
@@ -204,13 +204,103 @@
         "On Independence Day, 15 August 1947, there was an outburst of joy and hope, unforgettable for those who lived through that time."
       ],
       "correct_answer": 0,
+      "pattern": "match",
+      "source_trace": "NCERT Class 12 Themes in Indian History III Ch4 pg 1",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "1.1 The making of the Constituent Assembly"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Framing the Constitution, which statement is supported by the source text about 319 FRAMING THE CONSTITUTION?",
+      "options": [
+        "But innumerable Muslims in India, and Hindus and Sikhs in Pakistan, were now faced with a cruel choice – the threat of held eleven...",
+        "In between the sessions, the work of revising and refining the drafts was carried out by various committees and sub-committees.",
+        "From your political science textbooks you know what the Constitution of India is, and you have seen how it has worked over the decades...",
+        "This chapter will introduce you to the history that lies behind the Constitution, and the intense debates that were part of its making."
+      ],
+      "correct_answer": 0,
+      "pattern": "not_type",
+      "source_trace": "NCERT Class 12 Themes in Indian History III Ch4 pg 1",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "319 FRAMING THE CONSTITUTION"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Framing the Constitution, which statement is supported by the source text about THEMES IN INDIAN HISTORY – PART III 320?",
+      "options": [
+        "If we try and hear the voices within the Constituent Assembly, we get an idea of the process through which the Constitution was framed...",
+        "12.2 Images of desolation and destruction continued to haunt members of the Constituent Assembly.",
+        "THEMES IN INDIAN HISTORY – PART III 318 sudden death or the squeezing of opportunities on the one side, and a forcible tearing away...",
+        "Millions of refugees were on the move, Muslims into East and West Pakistan, Hindus and Sikhs into West Bengal and the eastern half of..."
+      ],
+      "correct_answer": 0,
       "pattern": "statement",
       "source_trace": "NCERT Class 12 Themes in Indian History III Ch4 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
-      "difficulty_level": 3,
+      "difficulty_level": 4,
       "concepts_tested": [
-        "1.1 The making of the Constituent Assembly"
+        "THEMES IN INDIAN HISTORY – PART III 320"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Framing the Constitution, which statement is supported by the source text about 1.2 The dominant voices?",
+      "options": [
+        "Another, and scarcely less serious, problem faced by the new nation was that of the princely states.",
+        "During the period of the Raj, approximately one-third of the area of the subcontinent was under the control of nawabs and maharajas who owed...",
+        "When the British left India, the constitutional status of these princes remained ambiguous.",
+        "As one contemporary observer remarked, some maharajas now began “to luxuriate in wild dreams of independent power in an India of many partitions”."
+      ],
+      "correct_answer": 0,
+      "pattern": "match",
+      "source_trace": "NCERT Class 12 Themes in Indian History III Ch4 pg 2",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "1.2 The dominant voices"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Framing the Constitution, which statement is supported by the source text about 321 FRAMING THE CONSTITUTION?",
+      "options": [
+        "T h i s w a s t h e b a c k g r o u n d i n w h...",
+        "How could the debates within the Assembly remain insulated from what was happening outside?",
+        "1.1 The making of the Constituent Assembly The members of the Constituent Assembly were not elected on the basis of universal franchise.",
+        "In the winter of 1945-46 provincial elections were held in India."
+      ],
+      "correct_answer": 0,
+      "pattern": "not_type",
+      "source_trace": "NCERT Class 12 Themes in Indian History III Ch4 pg 2",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 5,
+      "concepts_tested": [
+        "321 FRAMING THE CONSTITUTION"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Framing the Constitution, which statement is supported by the source text about THEMES IN INDIAN HISTORY – PART III 322?",
+      "options": [
+        "The Provincial Legislatures then chose the representatives to the Constituent Assembly.",
+        "The Constituent Assembly that came into being was dominated by one party: the Congress.",
+        "12.3 Jawaharlal Nehru speaking in the Constituent Assembly at midnight on14 August 1947 It was on this day that Nehru gave his famous speech...",
+        "At the stroke of the midnight hour, when the world sleeps, India will awake to life and freedom.”"
+      ],
+      "correct_answer": 0,
+      "pattern": "statement",
+      "source_trace": "NCERT Class 12 Themes in Indian History III Ch4 pg 2",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 5,
+      "concepts_tested": [
+        "THEMES IN INDIAN HISTORY – PART III 322"
       ]
     }
   ],
@@ -220,7 +310,7 @@
     "generation_method": "local_source_only_extractive_decode"
   },
   "content_model": "clearupsc_textbook_decoded_from_source_v1",
-  "decode_status": "textbook_decoded",
+  "decode_status": "textbook_verified",
   "source": {
     "book": "NCERT Class 12 Themes in Indian History III",
     "chapter": 4,
@@ -232,5 +322,5 @@
   "source_trace": "NCERT Class 12 Themes in Indian History III | Chapter 4: Framing the Constitution | https://ncert.nic.in/textbook/pdf/lehs304.pdf | sha256:6e00dbc64d67c38fc6042163d82ded8c4811899e210c159f36e25bbe220a820d",
   "raw_text_path": "data/study/textbook-first/raw-text/gs1_hist_class12_indian_history_iii_ch04_framing_the_constitution.txt",
   "generated_by": "local_source_only_extractive_decode",
-  "generated_at": "2026-05-26T19:53:43.521Z"
+  "generated_at": "2026-05-26T20:26:49.680Z"
 }

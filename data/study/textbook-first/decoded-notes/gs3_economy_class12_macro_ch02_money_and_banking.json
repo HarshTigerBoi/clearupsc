@@ -136,7 +136,7 @@
       "source_trace": "NCERT Class 12 Macro Ch2 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
-      "difficulty_level": 3,
+      "difficulty_level": 1,
       "concepts_tested": [
         "2.1 SOME BASIC CONCEPTS OF MACROECONOMICS"
       ]
@@ -150,7 +150,7 @@
         "It is not that countries which are endowed with a bounty of natural wealth – minerals or forests or the most fertile lands –..."
       ],
       "correct_answer": 0,
-      "pattern": "statement",
+      "pattern": "match",
       "source_trace": "NCERT Class 12 Macro Ch2 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
@@ -204,13 +204,103 @@
         "Thus a farmer producing cotton sells it to a spinning mill where the raw cotton undergoes transformation to yarn; the yarn is, in turn,..."
       ],
       "correct_answer": 0,
+      "pattern": "match",
+      "source_trace": "NCERT Class 12 Macro Ch2 pg 1",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "≡ GVA1 + GVA2 + ..... + GVAN"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Money and Banking, which statement is supported by the source text about 2.2.2 Expenditure Method?",
+      "options": [
+        "Such an item that is meant for final use and will not pass through any more stages of production or transformations is called a...",
+        "Because once it has been sold it passes out of the active economic flow.",
+        "It will not undergo any further transformation at the hands of any producer.",
+        "It may, however, undergo transformation by the action of the ultimate purchaser."
+      ],
+      "correct_answer": 0,
+      "pattern": "not_type",
+      "source_trace": "NCERT Class 12 Macro Ch2 pg 1",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "2.2.2 Expenditure Method"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Money and Banking, which statement is supported by the source text about ≡ C + I + G + X – M?",
+      "options": [
+        "In fact many such final goods are transformed during their consumption.",
+        "Thus the tea leaves purchased by the consumer are not consumed in that form – they are used to make drinkable tea, which is...",
+        "Similarly most of the items that enter our kitchen are transformed through the process of cooking.",
+        "But cooking at home is not an economic activity, even though the product involved undergoes transformation."
+      ],
+      "correct_answer": 0,
       "pattern": "statement",
       "source_trace": "NCERT Class 12 Macro Ch2 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
-      "difficulty_level": 3,
+      "difficulty_level": 4,
       "concepts_tested": [
-        "≡ GVA1 + GVA2 + ..... + GVAN"
+        "≡ C + I + G + X – M"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Money and Banking, which statement is supported by the source text about 2.2.3 Income Method?",
+      "options": [
+        "However, if the same cooking or tea brewing was done in a restaurant where the cooked product would be sold to customers, then the...",
+        "Thus it is not in the nature of the good but in the economic nature of its use that a good becomes a final...",
+        "Of the final goods, we can distinguish between consumption goods and capital goods.",
+        "Goods like food and clothing, and services like recreation that are consumed when purchased by their ultimate consumers are called consumption goods or consumer..."
+      ],
+      "correct_answer": 0,
+      "pattern": "match",
+      "source_trace": "NCERT Class 12 Macro Ch2 pg 1",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "2.2.3 Income Method"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Money and Banking, which statement is supported by the source text about i i GV A ≡ C + I + G + X – M ≡ W + P + In + R (2.6)?",
+      "options": [
+        "(This also includes services which are consumed but for convenience we may refer to them as consumer goods.) Then there are other goods that...",
+        "While they make production of other commodities feasible, they themselves don’t get transformed in the production process.",
+        "They are also final goods yet they are not final goods to be ultimately consumed.",
+        "Unlike the final goods that we have considered above, they are the crucial backbone of any production process, in aiding and enabling the production..."
+      ],
+      "correct_answer": 0,
+      "pattern": "not_type",
+      "source_trace": "NCERT Class 12 Macro Ch2 pg 1",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 5,
+      "concepts_tested": [
+        "i i GV A ≡ C + I + G + X – M ≡ W + P + In + R (2.6)"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Money and Banking, which statement is supported by the source text about GDP = VAA + VAB = 200.?",
+      "options": [
+        "These goods form a part of capital, one of the crucial factors of production in which a productive enterprise has invested, and they continue...",
+        "These are capital goods and they gradually undergo wear and tear, and thus are repaired or gradually replaced over time.",
+        "The stock of capital that an economy possesses is thus preserved, maintained and renewed partially or wholly over time and this is of some...",
+        "11 11 11 11 11 National Income Accounting We may note here that some commodities like television sets, automobiles or home computers, although they..."
+      ],
+      "correct_answer": 0,
+      "pattern": "statement",
+      "source_trace": "NCERT Class 12 Macro Ch2 pg 1",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 5,
+      "concepts_tested": [
+        "GDP = VAA + VAB = 200."
       ]
     }
   ],
@@ -220,7 +310,7 @@
     "generation_method": "local_source_only_extractive_decode"
   },
   "content_model": "clearupsc_textbook_decoded_from_source_v1",
-  "decode_status": "textbook_decoded",
+  "decode_status": "textbook_verified",
   "source": {
     "book": "NCERT Class 12 Introductory Macroeconomics",
     "chapter": 2,
@@ -232,5 +322,5 @@
   "source_trace": "NCERT Class 12 Introductory Macroeconomics | Chapter 2: Money and Banking | https://ncert.nic.in/textbook/pdf/leec102.pdf | sha256:89f1eea66614cbcab4057897828bba25f7e27192aeaa612bb8450ebcc37ebc0f",
   "raw_text_path": "data/study/textbook-first/raw-text/gs3_economy_class12_macro_ch02_money_and_banking.txt",
   "generated_by": "local_source_only_extractive_decode",
-  "generated_at": "2026-05-26T19:53:36.451Z"
+  "generated_at": "2026-05-26T20:26:42.438Z"
 }

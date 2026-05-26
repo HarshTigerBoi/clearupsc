@@ -120,7 +120,7 @@
       "source_trace": "NCERT Class 9 Science Ch2 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
-      "difficulty_level": 3,
+      "difficulty_level": 1,
       "concepts_tested": [
         "2.1 How to Study Cells?"
       ]
@@ -134,7 +134,7 @@
         "The cell represents the basic level at which life exists."
       ],
       "correct_answer": 0,
-      "pattern": "statement",
+      "pattern": "match",
       "source_trace": "NCERT Class 9 Science Ch2 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
@@ -188,13 +188,103 @@
         "This is called the limit of resolution of the human eye, which is 0.1 mm."
       ],
       "correct_answer": 0,
+      "pattern": "match",
+      "source_trace": "NCERT Class 9 Science Ch2 pg 1",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "12 Exploration|Grade 9"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Is Matter Around Us Pure, which statement is supported by the source text about 2.2.2 Cell wall — The outer covering of cells?",
+      "options": [
+        "A cell is usually too small to be seen by the unaided eye (Fig.",
+        "This raises an important question — how have cell biologists studied the structure and function of cells that are much smaller than the limit...",
+        "A convex lens or a combination of lenses, i.e., an objective lens and an eyepiece are used for the magnification of an object (Fig.",
+        "Robert Hooke was the first person to observe a cell in 1665 using a self-designed microscope (capable of about 200–300X magnification)."
+      ],
+      "correct_answer": 0,
+      "pattern": "not_type",
+      "source_trace": "NCERT Class 9 Science Ch2 pg 1",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "2.2.2 Cell wall — The outer covering of cells"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Is Matter Around Us Pure, which statement is supported by the source text about 14 Exploration|Grade 9?",
+      "options": [
+        "While examining a thin slice of cork, he observed small box-like compartments and named them ‘cells’.",
+        "In school laboratories, light microscopes are used to observe objects using Grade 8 Curiosity Chapter 10 1 km 100 m Human height Rocket Chicken...",
+        "2.1: Size of the objects and its visibility through unaided to aided eye Grade 8 Curiosity Chapter 2",
+        "10 Exploration|Grade 9 different objective lenses (e.g., 10X, 40X) to achieve better magnification and resolution under visible light."
+      ],
+      "correct_answer": 0,
       "pattern": "statement",
       "source_trace": "NCERT Class 9 Science Ch2 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
-      "difficulty_level": 3,
+      "difficulty_level": 4,
       "concepts_tested": [
-        "12 Exploration|Grade 9"
+        "14 Exploration|Grade 9"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Is Matter Around Us Pure, which statement is supported by the source text about 2.3 The Cell Interior — A Coordinated Working System?",
+      "options": [
+        "2.2) in your school laboratory and use it to observe fine structures of various materials.",
+        "Under the microscope, you will see a magnified image of an object.",
+        "Take a transparent ruler with millimetre (mm) markings.",
+        "Place the ruler on the stage of microscope, focus on it using the adjustment knob and observe the diameter of the circular field of..."
+      ],
+      "correct_answer": 0,
+      "pattern": "match",
+      "source_trace": "NCERT Class 9 Science Ch2 pg 2",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "2.3 The Cell Interior — A Coordinated Working System"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Is Matter Around Us Pure, which statement is supported by the source text about 16 Exploration|Grade 9?",
+      "options": [
+        "Suppose the diameter of the visible field is 5 mm, meaning 5 × 1000 = 5000 μm.",
+        "Remove the ruler and place an onion peel slide on the stage of the microscope.",
+        "Focus on the slide and count the number of cells present along the diameter of the field of view in one straight line.",
+        "Estimate the real size of the cell using the formula: Unit conversion: 1 millimetre (mm) = 1000 micrometre (μm) Estimated size of the onion..."
+      ],
+      "correct_answer": 0,
+      "pattern": "not_type",
+      "source_trace": "NCERT Class 9 Science Ch2 pg 2",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 5,
+      "concepts_tested": [
+        "16 Exploration|Grade 9"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Is Matter Around Us Pure, which statement is supported by the source text about 2.3.1 Why do eukaryotic cells need these organelles??",
+      "options": [
+        "2.2: Structure of a light microscope Eye piece Body tube Objective lens Stage Mirror Course adjustment knob Fine adjustment knob Handle Base Suppose, 25...",
+        "In that case, the size of one onion cell would be 5000 μm/25 = 200 μm.",
+        "If the estimated size of an onion peel cell is 200 μm, how much does a light microscope magnify this cell?",
+        "The total magnification of a microscope depends on its magnifying power of the eyepiece and the objective lens."
+      ],
+      "correct_answer": 0,
+      "pattern": "statement",
+      "source_trace": "NCERT Class 9 Science Ch2 pg 2",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 5,
+      "concepts_tested": [
+        "2.3.1 Why do eukaryotic cells need these organelles?"
       ]
     }
   ],
@@ -204,7 +294,7 @@
     "generation_method": "local_source_only_extractive_decode"
   },
   "content_model": "clearupsc_textbook_decoded_from_source_v1",
-  "decode_status": "textbook_decoded",
+  "decode_status": "textbook_verified",
   "source": {
     "book": "NCERT Class 9 Science",
     "chapter": 2,
@@ -216,5 +306,5 @@
   "source_trace": "NCERT Class 9 Science | Chapter 2: Is Matter Around Us Pure | https://ncert.nic.in/textbook/pdf/iesc102.pdf | sha256:f50bf0b4d8a7fb0c7b9adffd335acd0d29d807336c0e011cce0ce898aac22a5c",
   "raw_text_path": "data/study/textbook-first/raw-text/gs3_sci_class9_science_ch02_is_matter_around_us_pure.txt",
   "generated_by": "local_source_only_extractive_decode",
-  "generated_at": "2026-05-26T19:54:40.287Z"
+  "generated_at": "2026-05-26T20:27:49.053Z"
 }

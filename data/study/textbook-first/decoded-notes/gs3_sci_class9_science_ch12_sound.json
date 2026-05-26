@@ -136,7 +136,7 @@
       "source_trace": "NCERT Class 9 Science Ch12 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
-      "difficulty_level": 3,
+      "difficulty_level": 1,
       "concepts_tested": [
         "229 Patterns in Life: Diversity and Classification"
       ]
@@ -150,7 +150,7 @@
         "Fungi and bacteria decompose fallen leaves, and convert waste into manure, making the soil fertile."
       ],
       "correct_answer": 0,
-      "pattern": "statement",
+      "pattern": "match",
       "source_trace": "NCERT Class 9 Science Ch12 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
@@ -204,13 +204,103 @@
         "These diverse habitats together support a wide variety of species."
       ],
       "correct_answer": 0,
+      "pattern": "match",
+      "source_trace": "NCERT Class 9 Science Ch12 pg 1",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "231 Patterns in Life: Diversity and Classification"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Sound, which statement is supported by the source text about 12.3.1 Some criteria to classify living organisms?",
+      "options": [
+        "Some of these species are restricted to particular regions of the world and are not found naturally anywhere else.",
+        "12.1b), Indian variety of the pitcher plant — Nepenthes khasiana (Fig.",
+        "Regions that support a large number of endemic species and have undergone significant habitat loss are known as biodiversity hotspots.",
+        "These areas are particularly important for biodiversity conservation."
+      ],
+      "correct_answer": 0,
+      "pattern": "not_type",
+      "source_trace": "NCERT Class 9 Science Ch12 pg 1",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "12.3.1 Some criteria to classify living organisms"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Sound, which statement is supported by the source text about 12.4 The Need for Classification?",
+      "options": [
+        "Regions, such as the Western Ghats, Indo-Burma (including North East India), the Himalayas, Sundaland (including the Nicobar Islands), are some examples of global biodiversity...",
+        "These areas are especially rich in number and in the diversity of organisms.",
+        "Protecting these regions is equally important, as they support food webs and help ecosystems remain healthy.",
+        "The biodiversity that we see today on the Earth was not always the same."
+      ],
+      "correct_answer": 0,
       "pattern": "statement",
       "source_trace": "NCERT Class 9 Science Ch12 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
-      "difficulty_level": 3,
+      "difficulty_level": 4,
       "concepts_tested": [
-        "231 Patterns in Life: Diversity and Classification"
+        "12.4 The Need for Classification"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Sound, which statement is supported by the source text about 233 Patterns in Life: Diversity and Classification?",
+      "options": [
+        "Small differences among individuals affected their chances of survival and reproduction by helping them adapt to changed conditions.",
+        "These differences accumulated over many generations and gave rise to new forms of life.",
+        "The diversity we see today is therefore, an outcome of continuous changes occurring over a vast span of time, shaped by interactions between Fig.",
+        "12.1: (a) Nilgiri tahr, (b) Lion-tailed macaque, (c) Nepenthes khasiana, and (d) Neelakurinji (a) (c) (b) (d)"
+      ],
+      "correct_answer": 0,
+      "pattern": "match",
+      "source_trace": "NCERT Class 9 Science Ch12 pg 1",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "233 Patterns in Life: Diversity and Classification"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Sound, which statement is supported by the source text about 12.5 Biological Classification Systems Over Time?",
+      "options": [
+        "Textbook of Science for Grade 9 230 organisms and their surroundings.",
+        "The study of this biological diversity is possible through a systematic framework that is provided by classification.",
+        "India’s Scientific Contributions Some ancient Indian traditions, such as the Sangam Tinai classification of landscapes and the protection of sacred groves, demonstrate a sophisticated...",
+        "These customs effectively preserved locally diverse habitats, aligning with contemporary ecological principles, even if it is not articulated as a formal ecological theory."
+      ],
+      "correct_answer": 0,
+      "pattern": "not_type",
+      "source_trace": "NCERT Class 9 Science Ch12 pg 2",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 5,
+      "concepts_tested": [
+        "12.5 Biological Classification Systems Over Time"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Sound, which statement is supported by the source text about 12.6 Five Kingdom Classification?",
+      "options": [
+        "Can you guess how the organisms are grouped in the image?",
+        "Ponder on the questions given below: y Which animals can you identify in the given picture? y Where are they seen? y Which animals...",
+        "231 Patterns in Life: Diversity and Classification Table 12.1: Observation table for recording the data Organism (draw or write name) Where do you see...",
+        "(flying high in air/flying near the ground/tree/water/ forest floor) When does it appear to be active?"
+      ],
+      "correct_answer": 0,
+      "pattern": "statement",
+      "source_trace": "NCERT Class 9 Science Ch12 pg 2",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 5,
+      "concepts_tested": [
+        "12.6 Five Kingdom Classification"
       ]
     }
   ],
@@ -220,7 +310,7 @@
     "generation_method": "local_source_only_extractive_decode"
   },
   "content_model": "clearupsc_textbook_decoded_from_source_v1",
-  "decode_status": "textbook_decoded",
+  "decode_status": "textbook_verified",
   "source": {
     "book": "NCERT Class 9 Science",
     "chapter": 12,
@@ -232,5 +322,5 @@
   "source_trace": "NCERT Class 9 Science | Chapter 12: Sound | https://ncert.nic.in/textbook/pdf/iesc112.pdf | sha256:c3cfe38c7345eb1a9062a9f4d79b236a51b15eba07fb42005e9f4b427402120a",
   "raw_text_path": "data/study/textbook-first/raw-text/gs3_sci_class9_science_ch12_sound.txt",
   "generated_by": "local_source_only_extractive_decode",
-  "generated_at": "2026-05-26T19:54:42.714Z"
+  "generated_at": "2026-05-26T20:27:51.539Z"
 }

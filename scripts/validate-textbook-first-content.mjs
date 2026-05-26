@@ -9,6 +9,7 @@ const repoRoot = process.cwd();
 const indexPath = path.join(repoRoot, "src", "lib", "study", "ncert-master-index.ts");
 const reportPath = path.join(repoRoot, "data", "content-reports", "textbook-first-validation.json");
 const overlayDir = path.join(repoRoot, "data", "study", "textbook-first", "chapters");
+const decodedNotesDir = path.join(repoRoot, "data", "study", "textbook-first", "decoded-notes");
 const sourceAcquisitionPath = path.join(repoRoot, "data", "content-reports", "textbook-first-source-acquisition.json");
 
 function loadMasterIndex() {
@@ -306,6 +307,94 @@ function runSourceAcquisitionTest(chapters) {
   };
 }
 
+function runDecodedNotesQualityTest() {
+  if (!fs.existsSync(decodedNotesDir)) {
+    return {
+      status: "gap",
+      decoded_files: 0,
+      gap: "No decoded notes directory found. Run npm run content:textbook-decode-all after source acquisition.",
+    };
+  }
+  const expectedDifficulty = { 1: 1, 3: 3, 4: 4, 5: 2 };
+  const files = fs.readdirSync(decodedNotesDir).filter((file) => file.endsWith(".json")).sort();
+  const rows = [];
+  const errors = [];
+
+  for (const file of files) {
+    const filePath = path.join(decodedNotesDir, file);
+    const rel = relative(filePath);
+    const text = fs.readFileSync(filePath, "utf8");
+    let decoded;
+    try {
+      decoded = JSON.parse(text);
+    } catch {
+      errors.push({ file: rel, issue: "Decoded notes JSON could not be parsed." });
+      continue;
+    }
+
+    const mcqs = Array.isArray(decoded.mcqs) ? decoded.mcqs : [];
+    const killPhraseMatches = KILL_PHRASES.filter((phrase) => text.includes(phrase));
+    for (const phrase of killPhraseMatches) errors.push({ file: rel, issue: "Decoded notes contain kill phrase.", phrase });
+    if (mcqs.length < 10) errors.push({ file: rel, key: decoded.key ?? file.replace(/\.json$/, ""), issue: "Decoded chapter has fewer than 10 MCQs.", mcq_count: mcqs.length });
+    if (decoded.decode_status !== "textbook_verified") errors.push({ file: rel, issue: "Decoded chapter is not marked textbook_verified.", decode_status: decoded.decode_status ?? null });
+
+    const difficultyCounts = {};
+    let missingSourceTrace = 0;
+    let missingMandatoryFields = 0;
+    let bannedPatternCount = 0;
+    for (const [index, mcq] of mcqs.entries()) {
+      const safeMcq = {
+        question_text: String(mcq?.question_text ?? ""),
+        options: Array.isArray(mcq?.options) ? mcq.options : [],
+        correct_answer: Number.isInteger(mcq?.correct_answer) ? mcq.correct_answer : -1,
+        pattern: String(mcq?.pattern ?? ""),
+        source_trace: String(mcq?.source_trace ?? ""),
+        trap_explanation: String(mcq?.trap_explanation ?? ""),
+        approach_technique: String(mcq?.approach_technique ?? ""),
+        difficulty_level: mcq?.difficulty_level,
+        concepts_tested: Array.isArray(mcq?.concepts_tested) ? mcq.concepts_tested : [],
+      };
+      const mcqErrors = validateMcq(safeMcq);
+      for (const issue of mcqErrors) errors.push({ file: rel, mcq: index + 1, question_text: mcq?.question_text ?? null, issue });
+      if (!String(mcq?.source_trace ?? "").trim()) missingSourceTrace += 1;
+      if (!mcq?.trap_explanation || !mcq?.approach_technique || !mcq?.difficulty_level || !mcq?.pattern || !Array.isArray(mcq?.concepts_tested) || !mcq.concepts_tested.length) {
+        missingMandatoryFields += 1;
+      }
+      if (bannedMcqPatterns.some((pattern) => pattern.test(String(mcq?.question_text ?? "")))) bannedPatternCount += 1;
+      difficultyCounts[mcq?.difficulty_level] = (difficultyCounts[mcq?.difficulty_level] ?? 0) + 1;
+    }
+    for (const [level, count] of Object.entries(expectedDifficulty)) {
+      if ((difficultyCounts[level] ?? 0) !== count) {
+        errors.push({ file: rel, issue: `MCQ difficulty_level ${level} count must be ${count}.`, difficulty_counts: difficultyCounts });
+      }
+    }
+
+    rows.push({
+      key: file.replace(/\.json$/, ""),
+      mcq_count: mcqs.length,
+      kill_phrase_count: killPhraseMatches.length,
+      missing_source_trace: missingSourceTrace,
+      missing_mandatory_fields: missingMandatoryFields,
+      banned_pattern_count: bannedPatternCount,
+      difficulty_counts: difficultyCounts,
+      decode_status: decoded.decode_status ?? null,
+    });
+  }
+
+  return {
+    status: errors.length ? "fail" : "pass",
+    decoded_files: files.length,
+    chapters_with_kill_phrases: rows.filter((row) => row.kill_phrase_count > 0).length,
+    chapters_with_fewer_than_10_mcqs: rows.filter((row) => row.mcq_count < 10).length,
+    chapters_missing_mcq_source_trace: rows.filter((row) => row.missing_source_trace > 0).length,
+    chapters_with_missing_mandatory_mcq_fields: rows.filter((row) => row.missing_mandatory_fields > 0).length,
+    chapters_with_banned_mcq_patterns: rows.filter((row) => row.banned_pattern_count > 0).length,
+    textbook_verified_count: rows.filter((row) => row.decode_status === "textbook_verified").length,
+    rows,
+    errors,
+  };
+}
+
 fs.mkdirSync(path.dirname(reportPath), { recursive: true });
 
 const report = {
@@ -321,6 +410,7 @@ const report = {
     student_answer_readiness: runStudentAnswerReadinessTest(NCERT_CHAPTER_TOPICS),
     overlay_publication: runOverlayPublicationTest(NCERT_CHAPTER_TOPICS),
     source_acquisition: runSourceAcquisitionTest(NCERT_CHAPTER_TOPICS),
+    decoded_notes_quality: runDecodedNotesQualityTest(),
   },
 };
 
@@ -336,3 +426,7 @@ console.log(`Report: ${relative(reportPath)}`);
 console.log(`Chapters checked: ${report.chapter_count}`);
 console.log(`Template findings: ${report.tests.template_detector.findings.length}`);
 console.log(`Verification errors: ${report.tests.verification.errors.length}`);
+console.log(`Decoded files checked: ${report.tests.decoded_notes_quality.decoded_files}`);
+console.log(`Decoded kill-phrase chapters: ${report.tests.decoded_notes_quality.chapters_with_kill_phrases ?? 0}`);
+console.log(`Decoded chapters with fewer than 10 MCQs: ${report.tests.decoded_notes_quality.chapters_with_fewer_than_10_mcqs ?? 0}`);
+console.log(`Decoded chapters missing MCQ source_trace: ${report.tests.decoded_notes_quality.chapters_missing_mcq_source_trace ?? 0}`);

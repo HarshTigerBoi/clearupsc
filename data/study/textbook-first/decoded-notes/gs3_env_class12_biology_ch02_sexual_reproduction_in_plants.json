@@ -111,7 +111,7 @@
       "source_trace": "NCERT Class 12 Biology Ch2 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
-      "difficulty_level": 3,
+      "difficulty_level": 1,
       "concepts_tested": [
         "2.1 THE MALE REPRODUCTIVE SYSTEM"
       ]
@@ -125,7 +125,7 @@
         "It includes a pair of testes alongwith accessory ducts, glands and the external genitalia."
       ],
       "correct_answer": 0,
-      "pattern": "statement",
+      "pattern": "match",
       "source_trace": "NCERT Class 12 Biology Ch2 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
@@ -179,13 +179,103 @@
         "The male sex accessory ducts include rete testis, vasa efferentia, epididymis and vas deferens (Figure 2.1b)."
       ],
       "correct_answer": 0,
+      "pattern": "match",
+      "source_trace": "NCERT Class 12 Biology Ch2 pg 1",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "2.2 The Female Reproductive"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Sexual Reproduction in Plants, which statement is supported by the source text about 2.3 Gametogenesis?",
+      "options": [
+        "The seminiferous tubules of the testis open into the vasa efferentia through rete testis.",
+        "The vasa efferentia leave the testis and open into epididymis located along the posterior surface of each testis.",
+        "The epididymis leads to vas deferens that ascends to the abdomen and loops over the urinary bladder.",
+        "It receives a duct from seminal vesicle and opens into urethra as the ejaculatory duct (Figure 2.1a)."
+      ],
+      "correct_answer": 0,
+      "pattern": "not_type",
+      "source_trace": "NCERT Class 12 Biology Ch2 pg 1",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "2.3 Gametogenesis"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Sexual Reproduction in Plants, which statement is supported by the source text about 2.4 Menstrual Cycle?",
+      "options": [
+        "These ducts store and transport the sperms from the testis to the outside through urethra.",
+        "The urethra originates from the urinary bladder and extends through the penis to its external opening called urethral meatus.",
+        "Figure 2.1(a) Diagrammatic sectional view of male pelvis showing reproductive system Figure 2.1(b) Diagrammatic view of male reproductive system (part of testis is open...",
+        "28 BIOLOGY The penis is the male external genitalia (Figure 2.1a, b)."
+      ],
+      "correct_answer": 0,
       "pattern": "statement",
       "source_trace": "NCERT Class 12 Biology Ch2 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
-      "difficulty_level": 3,
+      "difficulty_level": 4,
       "concepts_tested": [
-        "2.2 The Female Reproductive"
+        "2.4 Menstrual Cycle"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Sexual Reproduction in Plants, which statement is supported by the source text about 2.5 Fertilisation and?",
+      "options": [
+        "It is made up of special tissue that helps in erection of the penis to facilitate insemination.",
+        "The enlarged end of penis called the glans penis is covered by a loose fold of skin called foreskin.",
+        "The male accessory glands (Figure 2.1a, b) include paired seminal vesicles, a prostate and paired bulbourethral glands.",
+        "Secretions of these glands constitute the seminal plasma which is rich in fructose, calcium and certain enzymes."
+      ],
+      "correct_answer": 0,
+      "pattern": "match",
+      "source_trace": "NCERT Class 12 Biology Ch2 pg 2",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "2.5 Fertilisation and"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Sexual Reproduction in Plants, which statement is supported by the source text about 2.6 Pregnancy and Embryonic?",
+      "options": [
+        "The secretions of bulbourethral glands also helps in the lubrication of the penis.",
+        "2.2 THE FEMALE REPRODUCTIVE SYSTEM The female reproductive system consists of a pair of ovaries alongwith a pair of oviducts, uterus, cervix, vagina and...",
+        "These parts of the system alongwith a pair of the mammary glands are integrated structurally and functionally to support the processes of ovulation, fertilisation,...",
+        "Ovaries are the primary female sex organs that produce the female gamete (ovum) and several steroid hormones (ovarian hormones)."
+      ],
+      "correct_answer": 0,
+      "pattern": "not_type",
+      "source_trace": "NCERT Class 12 Biology Ch2 pg 2",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 5,
+      "concepts_tested": [
+        "2.6 Pregnancy and Embryonic"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Sexual Reproduction in Plants, which statement is supported by the source text about 2.7 Parturition and Lactation?",
+      "options": [
+        "The ovaries are located one on each side of the lower abdomen (Figure 2.3b).",
+        "Each ovary is about 2 to 4 cm in length and is connected to the pelvic wall and uterus by ligaments.",
+        "Each ovary is covered by a thin epithelium which encloses the ovarian stroma.",
+        "The stroma is divided into two zones – a peripheral cortex and an inner medulla."
+      ],
+      "correct_answer": 0,
+      "pattern": "statement",
+      "source_trace": "NCERT Class 12 Biology Ch2 pg 2",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 5,
+      "concepts_tested": [
+        "2.7 Parturition and Lactation"
       ]
     }
   ],
@@ -195,7 +285,7 @@
     "generation_method": "local_source_only_extractive_decode"
   },
   "content_model": "clearupsc_textbook_decoded_from_source_v1",
-  "decode_status": "textbook_decoded",
+  "decode_status": "textbook_verified",
   "source": {
     "book": "NCERT Class 12 Biology",
     "chapter": 2,
@@ -207,5 +297,5 @@
   "source_trace": "NCERT Class 12 Biology | Chapter 2: Sexual Reproduction in Plants | https://ncert.nic.in/textbook/pdf/lebo102.pdf | sha256:af54d04d912114053befb30adf8e56580fe9ddb49c461160dba150a0d19a07a8",
   "raw_text_path": "data/study/textbook-first/raw-text/gs3_env_class12_biology_ch02_sexual_reproduction_in_plants.txt",
   "generated_by": "local_source_only_extractive_decode",
-  "generated_at": "2026-05-26T19:53:37.758Z"
+  "generated_at": "2026-05-26T20:26:43.710Z"
 }

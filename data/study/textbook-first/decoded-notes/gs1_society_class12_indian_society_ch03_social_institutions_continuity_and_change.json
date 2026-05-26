@@ -136,7 +136,7 @@
       "source_trace": "NCERT Class 12 Indian Society Ch3 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
-      "difficulty_level": 3,
+      "difficulty_level": 1,
       "concepts_tested": [
         "3.1 C aste and the Caste system"
       ]
@@ -150,7 +150,7 @@
         "This is the question that we will try to answer in this section."
       ],
       "correct_answer": 0,
-      "pattern": "statement",
+      "pattern": "match",
       "source_trace": "NCERT Class 12 Indian Society Ch3 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
@@ -204,13 +204,103 @@
         "Social Institutions: Continuity and Change 37 consisting of hundreds or even thousands of castes and sub-castes."
       ],
       "correct_answer": 0,
-      "pattern": "statement",
+      "pattern": "match",
       "source_trace": "NCERT Class 12 Indian Society Ch3 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
-      "difficulty_level": 3,
+      "difficulty_level": 4,
       "concepts_tested": [
         "Social"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Social Institutions Continuity and Change, which statement is supported by the source text about Institutions?",
+      "options": [
+        "This means that while the four varna classification is common to all of India, the jati hierarchy has more local classifications that vary from...",
+        "Opinions also differ on the exact age of the caste system.",
+        "It is generally agreed though, that the four varna classification is roughly three thousand years old.",
+        "However, the ‘caste system’ stood for different things in different time periods, so that it is misleading to think of the same system continuing..."
+      ],
+      "correct_answer": 0,
+      "pattern": "not_type",
+      "source_trace": "NCERT Class 12 Indian Society Ch3 pg 2",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "Institutions"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Social Institutions Continuity and Change, which statement is supported by the source text about Continuity?",
+      "options": [
+        "In its earliest phase, in the late Vedic period roughly between 900 — 500 BC, the caste system was really a varna system and...",
+        "These divisions were not very elaborate or very rigid, and they were not determined by birth.",
+        "Movement across the categories seems to have been not only possible but quite common.",
+        "It is only in the post- Vedic period that caste became the rigid institution that is familiar to us from well known definitions."
+      ],
+      "correct_answer": 0,
+      "pattern": "statement",
+      "source_trace": "NCERT Class 12 Indian Society Ch3 pg 2",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "Continuity"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Social Institutions Continuity and Change, which statement is supported by the source text about Change?",
+      "options": [
+        "The most commonly cited defining features of caste are the following: 1.",
+        "Caste is determined by birth – a child is “born into” the caste of its parents.",
+        "One can never change one’s caste, leave it, or choose not to join it, although there are instances where a person may be expelled...",
+        "Membership in a caste involves strict rules about marriage."
+      ],
+      "correct_answer": 0,
+      "pattern": "match",
+      "source_trace": "NCERT Class 12 Indian Society Ch3 pg 2",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "Change"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Social Institutions Continuity and Change, which statement is supported by the source text about Social Institutions?",
+      "options": [
+        "Caste groups are “endogamous”, i.e. marriage is restricted to members of the group.",
+        "Caste membership also involves rules about food and food-sharing.",
+        "What kinds of food may or may not be eaten is prescribed and who one may share food with is also specified.",
+        "Caste involves a system consisting of many castes arranged in a hierarchy of rank and status."
+      ],
+      "correct_answer": 0,
+      "pattern": "not_type",
+      "source_trace": "NCERT Class 12 Indian Society Ch3 pg 2",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 5,
+      "concepts_tested": [
+        "Social Institutions"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Social Institutions Continuity and Change, which statement is supported by the source text about Continuity and Change?",
+      "options": [
+        "In theory, every person has a caste, and every caste has a specified place in the hierarchy of all castes.",
+        "While the hierarchical position of many castes, particularly in the middle ranks, may vary from region to region, there is always a hierarchy.",
+        "Castes also involve sub-divisions within themselves, i.e., castes almost always have sub-castes and sometimes sub-castes may also have sub-castes.",
+        "A person born into a caste could only practice the occupation associated with that caste, so that occupations were hereditary, i.e. passed on from..."
+      ],
+      "correct_answer": 0,
+      "pattern": "statement",
+      "source_trace": "NCERT Class 12 Indian Society Ch3 pg 2",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 5,
+      "concepts_tested": [
+        "Continuity and Change"
       ]
     }
   ],
@@ -220,7 +310,7 @@
     "generation_method": "local_source_only_extractive_decode"
   },
   "content_model": "clearupsc_textbook_decoded_from_source_v1",
-  "decode_status": "textbook_decoded",
+  "decode_status": "textbook_verified",
   "source": {
     "book": "NCERT Class 12 Indian Society",
     "chapter": 3,
@@ -232,5 +322,5 @@
   "source_trace": "NCERT Class 12 Indian Society | Chapter 3: Social Institutions Continuity and Change | https://ncert.nic.in/textbook/pdf/lesy103.pdf | sha256:b80673be82716585ae01ee526fd608591bcdb427b59f203fb324ea06685c1fe9",
   "raw_text_path": "data/study/textbook-first/raw-text/gs1_society_class12_indian_society_ch03_social_institutions_continuity_and_change.txt",
   "generated_by": "local_source_only_extractive_decode",
-  "generated_at": "2026-05-26T19:53:48.113Z"
+  "generated_at": "2026-05-26T20:26:54.310Z"
 }

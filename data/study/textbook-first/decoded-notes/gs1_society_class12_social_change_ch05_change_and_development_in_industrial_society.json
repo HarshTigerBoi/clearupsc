@@ -136,7 +136,7 @@
       "source_trace": "NCERT Class 12 Social Change and Development in India Ch5 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
-      "difficulty_level": 3,
+      "difficulty_level": 1,
       "concepts_tested": [
         "5.1 Images of IndustrIal socIety"
       ]
@@ -150,7 +150,7 @@
         "The residents of Mumbai are divided by where they live, what they eat and how much their clothes cost."
       ],
       "correct_answer": 0,
-      "pattern": "statement",
+      "pattern": "match",
       "source_trace": "NCERT Class 12 Social Change and Development in India Ch5 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
@@ -204,13 +204,103 @@
         "These are not individual choices, but outcomes of social patterns."
       ],
       "correct_answer": 0,
-      "pattern": "statement",
+      "pattern": "match",
       "source_trace": "NCERT Class 12 Social Change and Development in India Ch5 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
-      "difficulty_level": 3,
+      "difficulty_level": 4,
       "concepts_tested": [
         "5.5 Working conditions"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Change and Development in Industrial Society, which statement is supported by the source text about 5.6 Home - based work?",
+      "options": [
+        "In turn, the choices that people make influences how society works.",
+        "5.1 Images of IndustrIal socIety Many of the great works of sociology were written at a time when industrialisation was new and machinery was...",
+        "Thinkers like Karl Marx, Max Weber and Emile Durkheim associated a number of social features with industry, such as urbanisation, the loss of face-to-face...",
+        "Change and Development in Industrial Society 61 for a landlord they knew, and their substitution by anonymous professional relationships in modern factories and workplaces."
+      ],
+      "correct_answer": 0,
+      "pattern": "not_type",
+      "source_trace": "NCERT Class 12 Social Change and Development in India Ch5 pg 1",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "5.6 Home - based work"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Change and Development in Industrial Society, which statement is supported by the source text about Change and Development in Industrial Society?",
+      "options": [
+        "Industrialisation involves a detailed division of labour.",
+        "People often do not see the end result of their work because they are producing only one small part of a product.",
+        "Yet, even this is better than having no work at all, i.e., being unemployed.",
+        "Marx called this situation alienation, when people do not enjoy work, and see it as something they have to do only in order to..."
+      ],
+      "correct_answer": 0,
+      "pattern": "statement",
+      "source_trace": "NCERT Class 12 Social Change and Development in India Ch5 pg 2",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "Change and Development in Industrial Society"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Change and Development in Industrial Society, which statement is supported by the source text about Change?",
+      "options": [
+        "Industrialisation leads to greater equality, at least in some spheres.",
+        "For example, caste distinctions do not matter any more on trains, buses or in cyber cafes.",
+        "On the other hand, older forms of discrimination may persist even in new factory or workplace settings.",
+        "And even as social inequalities are reducing, economic or income inequality is growing in the world."
+      ],
+      "correct_answer": 0,
+      "pattern": "match",
+      "source_trace": "NCERT Class 12 Social Change and Development in India Ch5 pg 2",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "Change"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Change and Development in Industrial Society, which statement is supported by the source text about Development?",
+      "options": [
+        "Often social inequality and income inequality overlap, for example, in the domination of upper caste men in well-paying professions like medicine, law or journalism.",
+        "5.2 IndustrIalIsatIon In IndIa The SpecificiTy of indian induSTrialiSaTion The experience of industrialisation in India is in many ways similar to the western model...",
+        "Comparative analysis of different countries suggests that there is no standard model of industrial capitalism.",
+        "Let us start with one point of difference, relating to what kind of work people are doing."
+      ],
+      "correct_answer": 0,
+      "pattern": "not_type",
+      "source_trace": "NCERT Class 12 Social Change and Development in India Ch5 pg 2",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 5,
+      "concepts_tested": [
+        "Development"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Change and Development in Industrial Society, which statement is supported by the source text about Industrial?",
+      "options": [
+        "In developed countries, the majority of people are in the services sector, followed by industry and less than 10% are in agriculture (ILO figures).",
+        "In India, in 2018–19, nearly 43% were employed in the primary sector (agriculture and mining), 17% in the secondary sector (manufacturing, construction and utilities),...",
+        "This is a very serious situation because it means that the sector where the maximum people are employed is not able to generate much...",
+        "In India, in 2018–19 the share of employment in agriculture was 42.5%, in mining and quarrying 0.4%, in manufacturing it was 12.1%, in trade,..."
+      ],
+      "correct_answer": 0,
+      "pattern": "statement",
+      "source_trace": "NCERT Class 12 Social Change and Development in India Ch5 pg 2",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 5,
+      "concepts_tested": [
+        "Industrial"
       ]
     }
   ],
@@ -220,7 +310,7 @@
     "generation_method": "local_source_only_extractive_decode"
   },
   "content_model": "clearupsc_textbook_decoded_from_source_v1",
-  "decode_status": "textbook_decoded",
+  "decode_status": "textbook_verified",
   "source": {
     "book": "NCERT Class 12 Social Change and Development in India",
     "chapter": 5,
@@ -232,5 +322,5 @@
   "source_trace": "NCERT Class 12 Social Change and Development in India | Chapter 5: Change and Development in Industrial Society | https://ncert.nic.in/textbook/pdf/lesy205.pdf | sha256:e7aaadfc26caa44af60d4cdfc3d06f42801984720e3fd6ded445074181235356",
   "raw_text_path": "data/study/textbook-first/raw-text/gs1_society_class12_social_change_ch05_change_and_development_in_industrial_society.txt",
   "generated_by": "local_source_only_extractive_decode",
-  "generated_at": "2026-05-26T19:53:59.659Z"
+  "generated_at": "2026-05-26T20:27:06.465Z"
 }

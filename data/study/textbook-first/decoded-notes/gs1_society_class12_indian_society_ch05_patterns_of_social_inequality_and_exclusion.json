@@ -136,7 +136,7 @@
       "source_trace": "NCERT Class 12 Indian Society Ch5 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
-      "difficulty_level": 3,
+      "difficulty_level": 1,
       "concepts_tested": [
         "5.1 What Is S ocial about socIal"
       ]
@@ -150,7 +150,7 @@
         "It does not immediately strike us as unjust that some children are denied schooling."
       ],
       "correct_answer": 0,
-      "pattern": "statement",
+      "pattern": "match",
       "source_trace": "NCERT Class 12 Indian Society Ch5 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
@@ -204,13 +204,103 @@
         "(For instance a rickshawpuller or a porter or a domestic worker and a cinema hall owner or a construction contractor or hotel owner, or..."
       ],
       "correct_answer": 0,
-      "pattern": "statement",
+      "pattern": "match",
       "source_trace": "NCERT Class 12 Indian Society Ch5 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
-      "difficulty_level": 3,
+      "difficulty_level": 4,
       "concepts_tested": [
         "OBCs 22.7 15.4"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Patterns of Social Inequality and Exclusion, which statement is supported by the source text about ALL GROUPS 25.4 13.7?",
+      "options": [
+        "Try to talk to one person from each group to find out about their daily routines.",
+        "For each person, organise the information in the form of an imaginary diary detailing the activities of the person from the time they get...",
+        "It is true that hard work matters, and so does individual ability.",
+        "If all other things were equal, then personal effort, talent and luck would surely account for all the differences between individuals."
+      ],
+      "correct_answer": 0,
+      "pattern": "not_type",
+      "source_trace": "NCERT Class 12 Indian Society Ch5 pg 1",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "ALL GROUPS 25.4 13.7"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Patterns of Social Inequality and Exclusion, which statement is supported by the source text about COMMUNITY?",
+      "options": [
+        "But, as is almost always the case, all other things are not equal.",
+        "It is these non-individual or group differences that explain social inequality and exclusion.",
+        "5.1 What Is S ocial about socIal InequalIty and exclusIon?",
+        "The question being asked in this section has three broad answers which may be stated briefly as follows."
+      ],
+      "correct_answer": 0,
+      "pattern": "statement",
+      "source_trace": "NCERT Class 12 Indian Society Ch5 pg 2",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "COMMUNITY"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Patterns of Social Inequality and Exclusion, which statement is supported by the source text about GROUPS?",
+      "options": [
+        "First, social inequality and exclusion are social because they are not about individuals but about groups.",
+        "Second, they are social in the sense that they are not economic, although there is usually a strong link between social and economic inequality.",
+        "Third, they are systematic and structured – there is a definite pattern to social inqualities.",
+        "These three broad senses of the ‘social’ will be explored briefly below."
+      ],
+      "correct_answer": 0,
+      "pattern": "match",
+      "source_trace": "NCERT Class 12 Indian Society Ch5 pg 2",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "GROUPS"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Patterns of Social Inequality and Exclusion, which statement is supported by the source text about OBCs 3.3 2.0?",
+      "options": [
+        "S ociAl InequAlity In every society, some people have a greater share of valued resources – money, property, education, health, and power – than...",
+        "These social resources can be divided into three forms of capital – economic capital in the form of material assets and income; cultural capital...",
+        "Often, these three forms of capital overlap and one can be converted into the other.",
+        "For example, a person from a well-off  How many hours a day do each of these persons spend at work?"
+      ],
+      "correct_answer": 0,
+      "pattern": "not_type",
+      "source_trace": "NCERT Class 12 Indian Society Ch5 pg 2",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 5,
+      "concepts_tested": [
+        "OBCs 3.3 2.0"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Patterns of Social Inequality and Exclusion, which statement is supported by the source text about ALL GROUPS 4.3 4.5?",
+      "options": [
+        "What kind of work do they do – in what ways is their work tiring, stressful, pleasant or unpleasant?",
+        "What kinds of relationship does it involve with other people – do they have to take orders, give orders, seek cooperation, enforce discipline….?",
+        "Are they treated with respect by the people they have to deal with in their work, or do they themselves have to show respect...",
+        "It may be that the poorest, and in some cases even the richest, person you know actually has no real ‘job’ or is currently..."
+      ],
+      "correct_answer": 0,
+      "pattern": "statement",
+      "source_trace": "NCERT Class 12 Indian Society Ch5 pg 2",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 5,
+      "concepts_tested": [
+        "ALL GROUPS 4.3 4.5"
       ]
     }
   ],
@@ -220,7 +310,7 @@
     "generation_method": "local_source_only_extractive_decode"
   },
   "content_model": "clearupsc_textbook_decoded_from_source_v1",
-  "decode_status": "textbook_decoded",
+  "decode_status": "textbook_verified",
   "source": {
     "book": "NCERT Class 12 Indian Society",
     "chapter": 5,
@@ -232,5 +322,5 @@
   "source_trace": "NCERT Class 12 Indian Society | Chapter 5: Patterns of Social Inequality and Exclusion | https://ncert.nic.in/textbook/pdf/lesy105.pdf | sha256:f8627a204d7958e7bd428009c8bf79337e897bdc5dc87c807c9a82d6c2d248e5",
   "raw_text_path": "data/study/textbook-first/raw-text/gs1_society_class12_indian_society_ch05_patterns_of_social_inequality_and_exclusion.txt",
   "generated_by": "local_source_only_extractive_decode",
-  "generated_at": "2026-05-26T19:53:48.606Z"
+  "generated_at": "2026-05-26T20:26:54.864Z"
 }

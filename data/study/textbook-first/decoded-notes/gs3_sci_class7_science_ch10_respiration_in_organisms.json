@@ -115,7 +115,7 @@
       "source_trace": "NCERT Class 7 Science Ch10 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
-      "difficulty_level": 3,
+      "difficulty_level": 1,
       "concepts_tested": [
         "10.1 SYMBOLS OF ELECTRIC"
       ]
@@ -129,7 +129,7 @@
         "10.1 SYMBOLS OF ELECTRIC COMPONENTS Some common electric components can be represented by symbols."
       ],
       "correct_answer": 0,
-      "pattern": "statement",
+      "pattern": "match",
       "source_trace": "NCERT Class 7 Science Ch10 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
@@ -183,13 +183,103 @@
         "SCIENCE 110 Many devices such as torches, transistors, toys, TV remote controls, use batteries."
       ],
       "correct_answer": 0,
+      "pattern": "match",
+      "source_trace": "NCERT Class 7 Science Ch10 pg 1",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "SCIENCE 112"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Respiration in Organisms, which statement is supported by the source text about 10.2 HEATING EFFECT OF ELECTRIC?",
+      "options": [
+        "However, in some of these devices the electric cells are not always placed one after the other as shown in Fig.",
+        "Look carefully inside the battery compartment of any device.",
+        "There is usually a thick wire or a metal strip connecting the positive terminal of one cell to the negative terminal of the next...",
+        "In order to help you to place the cells correctly in the battery compartment, ‘+’ and ‘–’ symbols are usually printed there."
+      ],
+      "correct_answer": 0,
+      "pattern": "not_type",
+      "source_trace": "NCERT Class 7 Science Ch10 pg 1",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "10.2 HEATING EFFECT OF ELECTRIC"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Respiration in Organisms, which statement is supported by the source text about CURRENT?",
+      "options": [
+        "How can we connect the cells to prepare batteries for our activities?",
+        "You may make a cell holder, as shown in Fig.10.4, using a wooden block, two iron strips and rubber bands.",
+        "10.3 Connecting two cells together to make a battery Fig.",
+        "10.2 (a) A battery of two cells (b) A battery of four cells (a) (b) Table 10.1 Symbols for some electric circuit components S.No."
+      ],
+      "correct_answer": 0,
       "pattern": "statement",
       "source_trace": "NCERT Class 7 Science Ch10 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
-      "difficulty_level": 3,
+      "difficulty_level": 4,
       "concepts_tested": [
-        "SCIENCE 112"
+        "CURRENT"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Respiration in Organisms, which statement is supported by the source text about CAUTION?",
+      "options": [
+        "Wire that the positive terminal of one cell is connected to the negative terminal of the next cell.",
+        "Such a combination of two or more cells is called a battery.",
+        "ELECTRIC CURRENT AND ITS EFFECTS 111 that the rubber bands hold the metal strips tightly.",
+        "You could also buy cell holders from the market for making batteries of two or more electric cells."
+      ],
+      "correct_answer": 0,
+      "pattern": "match",
+      "source_trace": "NCERT Class 7 Science Ch10 pg 1",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "CAUTION"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Respiration in Organisms, which statement is supported by the source text about ELECTRIC CURRENT AND ITS EFFECTS 113?",
+      "options": [
+        "Place the cells in them properly, such that the positive terminal of one cell is connected to the negative terminal of the next cell.",
+        "Connect a piece of wire each to the two metal clips on the cell holder as shown in Fig.10.5.",
+        "The symbol used for representing a battery is shown in Table.10.1.",
+        "Let us now draw a circuit diagram of an electric circuit using symbols shown in Table 10.1."
+      ],
+      "correct_answer": 0,
+      "pattern": "not_type",
+      "source_trace": "NCERT Class 7 Science Ch10 pg 2",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 5,
+      "concepts_tested": [
+        "ELECTRIC CURRENT AND ITS EFFECTS 113"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Respiration in Organisms, which statement is supported by the source text about SCIENCE 114?",
+      "options": [
+        "You used a similar circuit in Class VI to make an electric bulb glow.",
+        "Do you remember that the bulb glows only when the switch is in the ‘ON’ position?",
+        "The bulb glows as soon as the switch is moved to the ‘ON’ position.",
+        "Make also a circuit diagram of this circuit using symbols for the various electric components."
+      ],
+      "correct_answer": 0,
+      "pattern": "statement",
+      "source_trace": "NCERT Class 7 Science Ch10 pg 2",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 5,
+      "concepts_tested": [
+        "SCIENCE 114"
       ]
     }
   ],
@@ -199,7 +289,7 @@
     "generation_method": "local_source_only_extractive_decode"
   },
   "content_model": "clearupsc_textbook_decoded_from_source_v1",
-  "decode_status": "textbook_decoded",
+  "decode_status": "textbook_verified",
   "source": {
     "book": "NCERT Class 7 Science",
     "chapter": 10,
@@ -211,5 +301,5 @@
   "source_trace": "NCERT Class 7 Science | Chapter 10: Respiration in Organisms | https://ncert.nic.in/textbook/pdf/gesc110.pdf | sha256:59c142a62b79399cf7e26ca391ae3d45f130dba004e262cbc390caa0dd2c7f97",
   "raw_text_path": "data/study/textbook-first/raw-text/gs3_sci_class7_science_ch10_respiration_in_organisms.txt",
   "generated_by": "local_source_only_extractive_decode",
-  "generated_at": "2026-05-26T19:54:36.225Z"
+  "generated_at": "2026-05-26T20:27:44.735Z"
 }

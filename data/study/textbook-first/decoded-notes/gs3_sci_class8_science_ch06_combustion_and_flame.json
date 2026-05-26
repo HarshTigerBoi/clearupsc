@@ -120,7 +120,7 @@
       "source_trace": "NCERT Class 8 Science Ch6 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
-      "difficulty_level": 3,
+      "difficulty_level": 1,
       "concepts_tested": [
         "REPRODUCTION IN ANIMALS REPRODUCTION IN ANIMALS"
       ]
@@ -134,7 +134,7 @@
         "In this chapter, we shall learn how reproduction takes place in animals."
       ],
       "correct_answer": 0,
-      "pattern": "statement",
+      "pattern": "match",
       "source_trace": "NCERT Class 8 Science Ch6 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
@@ -188,13 +188,103 @@
         "in humans and study the process of reproduction in them."
       ],
       "correct_answer": 0,
+      "pattern": "match",
+      "source_trace": "NCERT Class 8 Science Ch6 pg 1",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "SCIENCE 68"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Combustion and Flame, which statement is supported by the source text about REPRODUCTION IN ANIMALS 69?",
+      "options": [
+        "Male Reproductive Organs The male reproductive organs include a pair of testes (singular, testis), two sperm ducts and a penis (Fig.",
+        "Though sperms are very small in size, each has a head, a middle piece and a tail.",
+        "Indeed, each sperm is a single cell with all the usual cell components.",
+        "6.1: Male reproductive organs in humans What purpose does the tail in a sperm serve?"
+      ],
+      "correct_answer": 0,
+      "pattern": "not_type",
+      "source_trace": "NCERT Class 8 Science Ch6 pg 1",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "REPRODUCTION IN ANIMALS 69"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Combustion and Flame, which statement is supported by the source text about SCIENCE 70?",
+      "options": [
+        "6.3 : Female reproductive organs in humans Female Reproductive Organs The female reproductive organs are a pair of ovaries, oviducts (fallopian tubes) and the...",
+        "The ovary produces Oviduct Ovary Uterus Head Middle piece Tail Fig.",
+        "6.2 : Human sperm REPRODUCTION IN ANIMALS 67 Sperm duct Testis Penis 2024-25",
+        "SCIENCE 68 Boojho recalls that the size of eggs in animals varies."
+      ],
+      "correct_answer": 0,
       "pattern": "statement",
       "source_trace": "NCERT Class 8 Science Ch6 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
-      "difficulty_level": 3,
+      "difficulty_level": 4,
       "concepts_tested": [
-        "SCIENCE 68"
+        "SCIENCE 70"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Combustion and Flame, which statement is supported by the source text about REPRODUCTION IN ANIMALS 71?",
+      "options": [
+        "The egg may be very small as in humans, much larger as in hens.",
+        "Fertilisation The first step in the process of reproduction is the fusion of a sperm and an ovum.",
+        "When sperms come in contact with an egg, one of the sperms may fuse with the egg.",
+        "Such fusion of the egg and the sperm is called fertilisation (Fig."
+      ],
+      "correct_answer": 0,
+      "pattern": "match",
+      "source_trace": "NCERT Class 8 Science Ch6 pg 2",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "REPRODUCTION IN ANIMALS 71"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Combustion and Flame, which statement is supported by the source text about SCIENCE 72?",
+      "options": [
+        "During fertilisation, the nuclei of the sperm and the egg fuse to form a single nucleus.",
+        "This results in the formation of a fertilised egg or zygote (Fig.",
+        "6.4 : Human Ovum Nucleus Sperms Ovum Fusing nuclei The process of fertilisation is the meeting of an egg cell from the mother and...",
+        "So, the new individual inherits some characteristics from the mother and some from the father."
+      ],
+      "correct_answer": 0,
+      "pattern": "not_type",
+      "source_trace": "NCERT Class 8 Science Ch6 pg 2",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 5,
+      "concepts_tested": [
+        "SCIENCE 72"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Combustion and Flame, which statement is supported by the source text about 6.3 Asexual Reproduction?",
+      "options": [
+        "See if you can recognise some characters in them similar to those of your mother or your father.",
+        "Fertilisation which takes place inside the female body is called internal fertilisation.",
+        "Internal fertilisation occurs in many animals including humans, cows, dogs and hens.",
+        "In human beings, a single matured egg is released into the oviduct by one of the ovaries every month."
+      ],
+      "correct_answer": 0,
+      "pattern": "statement",
+      "source_trace": "NCERT Class 8 Science Ch6 pg 2",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 5,
+      "concepts_tested": [
+        "6.3 Asexual Reproduction"
       ]
     }
   ],
@@ -204,7 +294,7 @@
     "generation_method": "local_source_only_extractive_decode"
   },
   "content_model": "clearupsc_textbook_decoded_from_source_v1",
-  "decode_status": "textbook_decoded",
+  "decode_status": "textbook_verified",
   "source": {
     "book": "NCERT Class 8 Science",
     "chapter": 6,
@@ -216,5 +306,5 @@
   "source_trace": "NCERT Class 8 Science | Chapter 6: Combustion and Flame | https://ncert.nic.in/textbook/pdf/hesc106.pdf | sha256:3b72321468f309ebe8e84ed449bc9bf8833ff2693f4892fcc23190117e0182b7",
   "raw_text_path": "data/study/textbook-first/raw-text/gs3_sci_class8_science_ch06_combustion_and_flame.txt",
   "generated_by": "local_source_only_extractive_decode",
-  "generated_at": "2026-05-26T19:54:38.229Z"
+  "generated_at": "2026-05-26T20:27:46.975Z"
 }

@@ -115,7 +115,7 @@
       "source_trace": "NCERT Class 7 Our Environment Ch7 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
-      "difficulty_level": 3,
+      "difficulty_level": 1,
       "concepts_tested": [
         "THE HOT DESERT – SAHARA"
       ]
@@ -129,7 +129,7 @@
         "Locate the Sahara desert covering a large part of North Africa."
       ],
       "correct_answer": 0,
-      "pattern": "statement",
+      "pattern": "match",
       "source_trace": "NCERT Class 7 Our Environment Ch7 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
@@ -183,13 +183,103 @@
         "Flora and Fauna Vegetation in the Sahara desert includes cactus, date palms and acacia."
       ],
       "correct_answer": 0,
+      "pattern": "match",
+      "source_trace": "NCERT Class 7 Our Environment Ch7 pg 1",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "THE COLD DESERT - LADAKH"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Human Environment Settlement Transport and Communication, which statement is supported by the source text about LIFE IN THE DESERTS 53?",
+      "options": [
+        "In some places there are oasis – green islands with date palms surrounding them.",
+        "Camels, hyenas, jackals, foxes, scorpions, many varieties of Do you know?",
+        "You will be surprised to know that present day Sahara once used to be a lush green plain.",
+        "Cave paintings in Sahara desert show that there used to be rivers with crocodiles."
+      ],
+      "correct_answer": 0,
+      "pattern": "not_type",
+      "source_trace": "NCERT Class 7 Our Environment Ch7 pg 1",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "LIFE IN THE DESERTS 53"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Human Environment Settlement Transport and Communication, which statement is supported by the source text about 54 OUR ENVIRONMENT?",
+      "options": [
+        "Elephants, lions, giraffes, ostriches, sheep, cattle and goats were common animals.",
+        "But the change in climate has changed it to a very hot and dry region.",
+        "Depressions are formed when the wind blows away the sands.",
+        "In the depressions where underground water reaches the surface, an oasis is formed."
+      ],
+      "correct_answer": 0,
       "pattern": "statement",
       "source_trace": "NCERT Class 7 Our Environment Ch7 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
-      "difficulty_level": 3,
+      "difficulty_level": 4,
       "concepts_tested": [
-        "THE COLD DESERT - LADAKH"
+        "54 OUR ENVIRONMENT"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Human Environment Settlement Transport and Communication, which statement is supported by the source text about LIFE IN THE DESERTS 55?",
+      "options": [
+        "People may settle around these water bodies and grow date palms and other crops.",
+        "Tafilalet Oasis in Morocco is a large oasis with an area of about 13,000 sq.km.",
+        "7.3: Oasis in the Sahara Desert People The Sahara desert despite its harsh climate has been inhabited by various groups of people, who pursue...",
+        "These groups are nomadic tribes rearing livestock such as goats, sheep, camels and horses."
+      ],
+      "correct_answer": 0,
+      "pattern": "match",
+      "source_trace": "NCERT Class 7 Our Environment Ch7 pg 2",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "LIFE IN THE DESERTS 55"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Human Environment Settlement Transport and Communication, which statement is supported by the source text about 56 OUR ENVIRONMENT?",
+      "options": [
+        "These animals provide them with milk, hides from which they make leather for belts, slippers, water bottles; hair is used for mats, carpets, clothes...",
+        "They wear heavy robes as protection against dust storms and hot winds.",
+        "The oasis in the Sahara and the Nile Valley in Egypt supports settled population.",
+        "Crops such as rice, wheat, barley and beans are also grown."
+      ],
+      "correct_answer": 0,
+      "pattern": "not_type",
+      "source_trace": "NCERT Class 7 Our Environment Ch7 pg 2",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 5,
+      "concepts_tested": [
+        "56 OUR ENVIRONMENT"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Human Environment Settlement Transport and Communication, which statement is supported by the source text about APPENDIX?",
+      "options": [
+        "The discovery of oil – a product in great demand throughout the world, in Algeria, Libya and Egypt is constantly transforming the Sahara desert.",
+        "Other minerals of importance that are found in the area include iron, phosphorus, manganese and uranium.",
+        "The cultural landscape of the Sahara is undergoing change.",
+        "Gleaming glass cased office buildings tower over mosques and superhighways crisscross the ancient camel paths."
+      ],
+      "correct_answer": 0,
+      "pattern": "statement",
+      "source_trace": "NCERT Class 7 Our Environment Ch7 pg 2",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 5,
+      "concepts_tested": [
+        "APPENDIX"
       ]
     }
   ],
@@ -199,7 +289,7 @@
     "generation_method": "local_source_only_extractive_decode"
   },
   "content_model": "clearupsc_textbook_decoded_from_source_v1",
-  "decode_status": "textbook_decoded",
+  "decode_status": "textbook_verified",
   "source": {
     "book": "NCERT Class 7 Our Environment",
     "chapter": 7,
@@ -211,5 +301,5 @@
   "source_trace": "NCERT Class 7 Our Environment | Chapter 7: Human Environment Settlement Transport and Communication | https://ncert.nic.in/textbook/pdf/gess207.pdf | sha256:4485a424f236ed53f75d8ca76ebdc93161c9d7f9b5489e035ddbd0c1a3942630",
   "raw_text_path": "data/study/textbook-first/raw-text/gs1_geo_class7_our_environment_ch07_human_environment_settlement_transport_and_communication.txt",
   "generated_by": "local_source_only_extractive_decode",
-  "generated_at": "2026-05-26T19:54:07.302Z"
+  "generated_at": "2026-05-26T20:27:14.528Z"
 }

@@ -120,7 +120,7 @@
       "source_trace": "NCERT Class 8 Science Ch13 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
-      "difficulty_level": 3,
+      "difficulty_level": 1,
       "concepts_tested": [
         "LIGHT LIGHT"
       ]
@@ -134,7 +134,7 @@
         "The light may have been emitted by the object, or may have been reflected by it."
       ],
       "correct_answer": 0,
-      "pattern": "statement",
+      "pattern": "match",
       "source_trace": "NCERT Class 8 Science Ch13 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
@@ -188,13 +188,103 @@
         "In reality, we have a narrow beam of light which is made up of several rays."
       ],
       "correct_answer": 0,
+      "pattern": "match",
+      "source_trace": "NCERT Class 8 Science Ch13 pg 1",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "LIGHT 167"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Sound, which statement is supported by the source text about SCIENCE 168?",
+      "options": [
+        "For simplicity, we use the term ray for a narrow beam of light.",
+        "Draw lines showing the position of the plane mirror, the incident ray and the reflected ray on the paper with the help of your...",
+        "Draw a line making an angle of 90º to the line representing the mirror at the point where the incident ray strikes the mirror.",
+        "This line is known as the normal to the reflecting surface at that point (Fig."
+      ],
+      "correct_answer": 0,
+      "pattern": "not_type",
+      "source_trace": "NCERT Class 8 Science Ch13 pg 1",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "SCIENCE 168"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Sound, which statement is supported by the source text about 13.3 Regular and Diffused?",
+      "options": [
+        "The angle Table 13.1 : Angles of Incidence and Reflection S.",
+        "Do you see any relation between the angle of incidence and the angle of reflection.",
+        "If the experiment is carried out carefully, it is seen that the angle of incidence is always equal to the angle of reflection.",
+        "What would happen if I threw the light on the mirror along the normal."
+      ],
+      "correct_answer": 0,
       "pattern": "statement",
       "source_trace": "NCERT Class 8 Science Ch13 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
-      "difficulty_level": 3,
+      "difficulty_level": 4,
       "concepts_tested": [
-        "LIGHT 167"
+        "13.3 Regular and Diffused"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Sound, which statement is supported by the source text about LIGHT 169?",
+      "options": [
+        "Let the sheet project a little beyond the edge of the Table (Fig.",
+        "Make sure that the reflected ray extends to the projected portion of the paper.",
+        "Bend that part of the projected portion on which the reflected ray falls.",
+        "13.3 : Angle of incidence and angle of reflection Reflected ray Normal Incident ray between the normal and incident ray is called the angle..."
+      ],
+      "correct_answer": 0,
+      "pattern": "match",
+      "source_trace": "NCERT Class 8 Science Ch13 pg 1",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "LIGHT 169"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Sound, which statement is supported by the source text about 13.4 Reflected Light Can be?",
+      "options": [
+        "The angle between the normal and the reflected ray is known as the angle of reflection (∠ ∠ ∠ ∠ ∠r) (Fig.",
+        "Measure the angle of incidence and the angle of reflection.",
+        "Repeat the activity several times by changing the angle of incidence.",
+        "What do you infer? with the Sun as the source of light instead of a torch."
+      ],
+      "correct_answer": 0,
+      "pattern": "not_type",
+      "source_trace": "NCERT Class 8 Science Ch13 pg 1",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 5,
+      "concepts_tested": [
+        "13.4 Reflected Light Can be"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Sound, which statement is supported by the source text about 13.5 Multiple Images?",
+      "options": [
+        "These activities can also be performed by making use of the Ray Streak Apparatus (available in the kit prepared by NCERT).",
+        "Boojho remembered that in Class VII, he had studied some features of the image of an object formed by a plane mirror.",
+        "Paheli asked him to recall those features: (i) Was the image erect or upside down?",
+        "(iii) Did the image appear at the same distance behind the mirror as the object was in front of it?"
+      ],
+      "correct_answer": 0,
+      "pattern": "statement",
+      "source_trace": "NCERT Class 8 Science Ch13 pg 2",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 5,
+      "concepts_tested": [
+        "13.5 Multiple Images"
       ]
     }
   ],
@@ -204,7 +294,7 @@
     "generation_method": "local_source_only_extractive_decode"
   },
   "content_model": "clearupsc_textbook_decoded_from_source_v1",
-  "decode_status": "textbook_decoded",
+  "decode_status": "textbook_verified",
   "source": {
     "book": "NCERT Class 8 Science",
     "chapter": 13,
@@ -216,5 +306,5 @@
   "source_trace": "NCERT Class 8 Science | Chapter 13: Sound | https://ncert.nic.in/textbook/pdf/hesc113.pdf | sha256:2834f664306768c3092d0e3962b00214b6c32597ec7a7a1fda0e0e9f478011f8",
   "raw_text_path": "data/study/textbook-first/raw-text/gs3_sci_class8_science_ch13_sound.txt",
   "generated_by": "local_source_only_extractive_decode",
-  "generated_at": "2026-05-26T19:54:39.829Z"
+  "generated_at": "2026-05-26T20:27:48.585Z"
 }

@@ -120,7 +120,7 @@
       "source_trace": "NCERT Class 11 Biology Ch14 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
-      "difficulty_level": 3,
+      "difficulty_level": 1,
       "concepts_tested": [
         "HUMAN PHYSIOLOGY"
       ]
@@ -134,7 +134,7 @@
         "In the chapters under this unit, major human physiological processes like, exchange of gases, blood circulation, locomotion and movement are described in cellular and..."
       ],
       "correct_answer": 0,
-      "pattern": "statement",
+      "pattern": "match",
       "source_trace": "NCERT Class 11 Biology Ch14 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
@@ -188,13 +188,103 @@
         "14.1 RESPIRATORY ORGANS Mechanisms of breathing vary among different groups of animals depending mainly on their habitats and levels of organisation."
       ],
       "correct_answer": 0,
+      "pattern": "match",
+      "source_trace": "NCERT Class 11 Biology Ch14 pg 2",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "CHAPTER 14"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Respiration in Plants, which statement is supported by the source text about 14.1 Respiratory?",
+      "options": [
+        "Lower invertebrates like sponges, coelenterates, flatworms, etc., exchange O2 with CO2 by simple diffusion over their entire body surface.",
+        "Earthworms use their moist cuticle and insects have a network of tubes (tracheal tubes) to transport atmospheric air within the body.",
+        "Special vascularised structures called gills (branchial respiration) are used by most of the aquatic arthropods and molluscs whereas vascularised bags called lungs (pulmonary respiration)...",
+        "Among vertebrates, fishes use gills whereas amphibians, reptiles, birds and mammals respire through lungs."
+      ],
+      "correct_answer": 0,
+      "pattern": "not_type",
+      "source_trace": "NCERT Class 11 Biology Ch14 pg 2",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "14.1 Respiratory"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Respiration in Plants, which statement is supported by the source text about 14.2 Mechanism of?",
+      "options": [
+        "Amphibians like frogs can respire through their moist skin (cutaneous respiration) also.",
+        "BREATHING AND EXCHANGE OF GASES CHAPTER 14 14.1 Respiratory Organs 14.2 Mechanism of Breathing 14.3 Exchange of Gases 14.4 Transport of Gases 14.5 Regulation...",
+        "184 BIOLOGY 14.1.1 Human Respiratory System We have a pair of external nostrils opening out above the upper lips.",
+        "The nasal chamber opens into the pharynx, a portion of which is the common passage for food and air."
+      ],
+      "correct_answer": 0,
       "pattern": "statement",
       "source_trace": "NCERT Class 11 Biology Ch14 pg 2",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
-      "difficulty_level": 3,
+      "difficulty_level": 4,
       "concepts_tested": [
-        "CHAPTER 14"
+        "14.2 Mechanism of"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Respiration in Plants, which statement is supported by the source text about 14.3 Exchange of?",
+      "options": [
+        "The pharynx opens through the larynx region into the trachea.",
+        "Larynx is a cartilaginous box which helps in sound production and hence called the sound box.",
+        "During swallowing glottis can be covered by a thin elastic cartilaginous flap called epiglottis to prevent the entry of food into the larynx.",
+        "Trachea is a straight tube extending up to the mid-thoracic cavity, which divides at the level of 5th thoracic vertebra into a right and..."
+      ],
+      "correct_answer": 0,
+      "pattern": "match",
+      "source_trace": "NCERT Class 11 Biology Ch14 pg 3",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "14.3 Exchange of"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Respiration in Plants, which statement is supported by the source text about 14.4 Transport of?",
+      "options": [
+        "Each bronchi undergoes repeated divisions to form the secondary and tertiary bronchi and bronchioles ending up in very thin terminal bronchioles.",
+        "The tracheae, primary, secondary and tertiary bronchi, and initial bronchioles are supported by incomplete cartilaginous rings.",
+        "Each terminal bronchiole gives rise to a number of very thin, irregular-walled and vascularised bag-like structures called alveoli.",
+        "The branching network of bronchi, bronchioles and alveoli comprise the lungs (Figure 14.1)."
+      ],
+      "correct_answer": 0,
+      "pattern": "not_type",
+      "source_trace": "NCERT Class 11 Biology Ch14 pg 3",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 5,
+      "concepts_tested": [
+        "14.4 Transport of"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Respiration in Plants, which statement is supported by the source text about 14.5 Regulation of?",
+      "options": [
+        "We have two lungs which are covered by a double layered pleura, with pleural fluid between them.",
+        "The outer pleural membrane is in close contact with the thoracic Bronchus Lung heart Diaphragm Epiglottis Larynx Trachea Cut end of rib Pleural membranes...",
+        "185 BREATHING AND EXCHANGE OF GASES lining whereas the inner pleural membrane is in contact with the lung surface.",
+        "The part starting with the external nostrils up to the terminal bronchioles constitute the conducting part whereas the alveoli and their ducts form the..."
+      ],
+      "correct_answer": 0,
+      "pattern": "statement",
+      "source_trace": "NCERT Class 11 Biology Ch14 pg 3",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 5,
+      "concepts_tested": [
+        "14.5 Regulation of"
       ]
     }
   ],
@@ -204,7 +294,7 @@
     "generation_method": "local_source_only_extractive_decode"
   },
   "content_model": "clearupsc_textbook_decoded_from_source_v1",
-  "decode_status": "textbook_decoded",
+  "decode_status": "textbook_verified",
   "source": {
     "book": "NCERT Class 11 Biology",
     "chapter": 14,
@@ -216,5 +306,5 @@
   "source_trace": "NCERT Class 11 Biology | Chapter 14: Respiration in Plants | https://ncert.nic.in/textbook/pdf/kebo114.pdf | sha256:67cbf04d59739585ea139446ba30a097e5d7a8a58d39d30cff4154f55686d7e1",
   "raw_text_path": "data/study/textbook-first/raw-text/gs3_env_class11_biology_ch14_respiration_in_plants.txt",
   "generated_by": "local_source_only_extractive_decode",
-  "generated_at": "2026-05-26T19:54:22.997Z"
+  "generated_at": "2026-05-26T20:27:31.123Z"
 }

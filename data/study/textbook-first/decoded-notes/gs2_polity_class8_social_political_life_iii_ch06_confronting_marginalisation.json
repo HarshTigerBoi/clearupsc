@@ -136,7 +136,7 @@
       "source_trace": "NCERT Class 8 Social and Political Life III Ch6 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
-      "difficulty_level": 3,
+      "difficulty_level": 1,
       "concepts_tested": [
         "66 OUR PASTS – III"
       ]
@@ -150,7 +150,7 @@
         "In the process of this enquiry, we will also see how Indians reacted to British ideas, and how they developed their own views about..."
       ],
       "correct_answer": 0,
-      "pattern": "statement",
+      "pattern": "match",
       "source_trace": "NCERT Class 8 Social and Political Life III Ch6 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
@@ -204,13 +204,103 @@
         "Jones and Colebrooke came to represent a particular attitude towards India."
       ],
       "correct_answer": 0,
+      "pattern": "match",
+      "source_trace": "NCERT Class 8 Social and Political Life III Ch6 pg 1",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "70 OUR PASTS – III"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Confronting Marginalisation, which statement is supported by the source text about CIVILISING THE “NATIVE”, EDUCATING THE NATION 71?",
+      "options": [
+        "They shared a deep respect for ancient cultures, both of India and the West.",
+        "Indian civilisation, they felt, had attained its glory in the ancient past, but had subsequently declined.",
+        "In order to understand India, it was necessary to discover the sacred and legal texts that were produced in the ancient period.",
+        "For only those texts could reveal the real ideas and laws of the Hindus and Muslims, and only a new study of these texts..."
+      ],
+      "correct_answer": 0,
+      "pattern": "not_type",
+      "source_trace": "NCERT Class 8 Social and Political Life III Ch6 pg 1",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "CIVILISING THE “NATIVE”, EDUCATING THE NATION 71"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Confronting Marginalisation, which statement is supported by the source text about 72 OUR PASTS – III?",
+      "options": [
+        "So Jones and Colebrooke went about discovering ancient texts, understanding their meaning, translating them, and making their findings known to others.",
+        "This project, they believed, would not only help the British learn from Indian culture, but it would also help Indians rediscover their own heritage,...",
+        "In this process, the British would become the guardians of Indian culture as well as its masters.",
+        "Influenced by such ideas, many Company officials argued that the British ought to promote Indian rather than Western learning."
+      ],
+      "correct_answer": 0,
       "pattern": "statement",
       "source_trace": "NCERT Class 8 Social and Political Life III Ch6 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
-      "difficulty_level": 3,
+      "difficulty_level": 4,
       "concepts_tested": [
-        "70 OUR PASTS – III"
+        "72 OUR PASTS – III"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Confronting Marginalisation, which statement is supported by the source text about CIVILISING THE “NATIVE”, EDUCATING THE NATION 73?",
+      "options": [
+        "They felt that institutions should be set up to encourage the study of ancient Indian texts and teach Sanskrit and Persian literature and poetry.",
+        "The officials also thought that Hindus and Muslims ought to be taught what they were already familiar with, and what they valued and treasured,...",
+        "Only then, they believed, could the British hope to win a place in the hearts of the “natives”; only then could the alien rulers...",
+        "With this object in view, a madrasa was set up in Calcutta in 1781 to promote the study of Arabic, Persian and Islamic law;..."
+      ],
+      "correct_answer": 0,
+      "pattern": "match",
+      "source_trace": "NCERT Class 8 Social and Political Life III Ch6 pg 1",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "CIVILISING THE “NATIVE”, EDUCATING THE NATION 73"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Confronting Marginalisation, which statement is supported by the source text about 74 OUR PASTS – III?",
+      "options": [
+        "2 – Henry Thomas Colebrooke He was a scholar of Sanskrit and ancient sacred writings of Hinduism.",
+        "CIVILISING THE “NATIVE”, EDUCATING THE NATION 67 Not all officials shared these views.",
+        "Many were very strong in their criticism of the Orientalists. “Grave errors of the East” From the early nineteenth century, many British officials began...",
+        "They said that knowledge of the East was full of errors and unscientific thought; Eastern literature was non-serious and light-hearted."
+      ],
+      "correct_answer": 0,
+      "pattern": "not_type",
+      "source_trace": "NCERT Class 8 Social and Political Life III Ch6 pg 1",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 5,
+      "concepts_tested": [
+        "74 OUR PASTS – III"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Confronting Marginalisation, which statement is supported by the source text about CIVILISING THE “NATIVE”, EDUCATING THE NATION 75?",
+      "options": [
+        "So they argued that it was wrong on the part of the British to spend so much effort in encouraging the study of Arabic...",
+        "James Mill was one of those who attacked the Orientalists.",
+        "The British effort, he declared, should not be to teach what the natives wanted, or what they respected, in order to please them and...",
+        "The aim of education ought to be to teach what was useful and practical."
+      ],
+      "correct_answer": 0,
+      "pattern": "statement",
+      "source_trace": "NCERT Class 8 Social and Political Life III Ch6 pg 2",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 5,
+      "concepts_tested": [
+        "CIVILISING THE “NATIVE”, EDUCATING THE NATION 75"
       ]
     }
   ],
@@ -220,7 +310,7 @@
     "generation_method": "local_source_only_extractive_decode"
   },
   "content_model": "clearupsc_textbook_decoded_from_source_v1",
-  "decode_status": "textbook_decoded",
+  "decode_status": "textbook_verified",
   "source": {
     "book": "NCERT Class 8 Social and Political Life III",
     "chapter": 6,
@@ -232,5 +322,5 @@
   "source_trace": "NCERT Class 8 Social and Political Life III | Chapter 6: Confronting Marginalisation | https://ncert.nic.in/textbook/pdf/hess206.pdf | sha256:0f3f1c8df84e1437e607e51cefd76b795ad3c96bfc56c3d81f2b07b651378925",
   "raw_text_path": "data/study/textbook-first/raw-text/gs2_polity_class8_social_political_life_iii_ch06_confronting_marginalisation.txt",
   "generated_by": "local_source_only_extractive_decode",
-  "generated_at": "2026-05-26T19:54:16.945Z"
+  "generated_at": "2026-05-26T20:27:24.575Z"
 }

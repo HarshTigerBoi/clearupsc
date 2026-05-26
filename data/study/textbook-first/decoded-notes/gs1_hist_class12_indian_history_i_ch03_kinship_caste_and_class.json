@@ -124,7 +124,7 @@
       "source_trace": "NCERT Class 12 Themes in Indian History I Ch3 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
-      "difficulty_level": 3,
+      "difficulty_level": 1,
       "concepts_tested": [
         "THEME"
       ]
@@ -138,7 +138,7 @@
         "We also need to consider the language used, and the ways in which the text circulated."
       ],
       "correct_answer": 0,
-      "pattern": "statement",
+      "pattern": "match",
       "source_trace": "NCERT Class 12 Themes in Indian History I Ch3 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
@@ -192,13 +192,103 @@
         "A team comprising dozens of scholars initiated the task of preparing a critical edition of the Mahabharata."
       ],
       "correct_answer": 0,
+      "pattern": "match",
+      "source_trace": "NCERT Class 12 Themes in Indian History I Ch3 pg 1",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "2.2 The ideal of patriliny"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Kinship Caste and Class, which statement is supported by the source text about KINSHIP, CASTE AND CLASS?",
+      "options": [
+        "Initially, it meant collecting Sanskrit manuscripts of the text, written in a variety of scripts, from different parts of the country.",
+        "The team worked out a method of comparing verses from each manuscript.",
+        "Ultimately, they selected the verses that appeared common to most versions and published these in several volumes, running into over 13,000 pages.",
+        "Two things became apparent: there were several common elements in the Sanskrit versions of the story, evident in manuscripts found all over the subcontinent,..."
+      ],
+      "correct_answer": 0,
+      "pattern": "not_type",
+      "source_trace": "NCERT Class 12 Themes in Indian History I Ch3 pg 1",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "KINSHIP, CASTE AND CLASS"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Kinship Caste and Class, which statement is supported by the source text about THEMES IN INDIAN HISTORY 56?",
+      "options": [
+        "Also evident were enormous regional variations in the ways in which the text had been transmitted over the centuries.",
+        "These variations were documented in footnotes and appendices to the main text.",
+        "Taken together, more than half the 13,000 pages are devoted to these variations.",
+        "In a sense, these variations are reflective of the complex processes that shaped early (and later) social histories – through dialogues between dominant traditions..."
+      ],
+      "correct_answer": 0,
       "pattern": "statement",
       "source_trace": "NCERT Class 12 Themes in Indian History I Ch3 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
-      "difficulty_level": 3,
+      "difficulty_level": 4,
       "concepts_tested": [
-        "2.2 The ideal of patriliny"
+        "THEMES IN INDIAN HISTORY 56"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Kinship Caste and Class, which statement is supported by the source text about KURU?",
+      "options": [
+        "These dialogues are characterised by moments of conflict as well as consensus.",
+        "Our understanding of these processes is derived primarily from texts written in Sanskrit by and for Brahmanas.",
+        "When issues of social history were explored for the first time by historians in the nineteenth and twentieth centuries, they tended to take these...",
+        "Subsequently, scholars began studying other traditions, from works in Pali, Prakrit and Tamil."
+      ],
+      "correct_answer": 0,
+      "pattern": "match",
+      "source_trace": "NCERT Class 12 Themes in Indian History I Ch3 pg 1",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "KURU"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Kinship Caste and Class, which statement is supported by the source text about SHURASENA?",
+      "options": [
+        "These studies indicated that the ideas contained in normative Sanskrit texts were on the whole recognised as authoritative: they were also questioned and occasionally...",
+        "It is important to keep this in mind as we examine how historians reconstruct social histories.",
+        "3.2 A section of a page from the Critical Edition The section printed in large bold letters is part of the main text.",
+        "The smaller print lists variations in different manuscripts, which were carefully catalogued."
+      ],
+      "correct_answer": 0,
+      "pattern": "not_type",
+      "source_trace": "NCERT Class 12 Themes in Indian History I Ch3 pg 1",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 5,
+      "concepts_tested": [
+        "SHURASENA"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Kinship Caste and Class, which statement is supported by the source text about MATSYA?",
+      "options": [
+        "Kinship and Marriage Many Rules and Varied Practices 2.1 Finding out about families We often take family life for granted.",
+        "However, you may have noticed that not all families are identical: they vary in terms of numbers of members, their relationship with one another...",
+        "Often people belonging to the same family share food and other resources, and live, work and perform rituals together.",
+        "Families are usually parts of larger networks of people defined as relatives, or to use a more technical term, kinfolk."
+      ],
+      "correct_answer": 0,
+      "pattern": "statement",
+      "source_trace": "NCERT Class 12 Themes in Indian History I Ch3 pg 2",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 5,
+      "concepts_tested": [
+        "MATSYA"
       ]
     }
   ],
@@ -208,7 +298,7 @@
     "generation_method": "local_source_only_extractive_decode"
   },
   "content_model": "clearupsc_textbook_decoded_from_source_v1",
-  "decode_status": "textbook_decoded",
+  "decode_status": "textbook_verified",
   "source": {
     "book": "NCERT Class 12 Themes in Indian History I",
     "chapter": 3,
@@ -220,5 +310,5 @@
   "source_trace": "NCERT Class 12 Themes in Indian History I | Chapter 3: Kinship Caste and Class | https://ncert.nic.in/textbook/pdf/lehs103.pdf | sha256:81be169e7c9f197d79c21826e5ca4b0ce5b186a880261039a05d434763b5da08",
   "raw_text_path": "data/study/textbook-first/raw-text/gs1_hist_class12_indian_history_i_ch03_kinship_caste_and_class.txt",
   "generated_by": "local_source_only_extractive_decode",
-  "generated_at": "2026-05-26T19:53:55.433Z"
+  "generated_at": "2026-05-26T20:27:02.004Z"
 }

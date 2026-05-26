@@ -115,7 +115,7 @@
       "source_trace": "NCERT Class 7 Our Pasts II Ch7 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
-      "difficulty_level": 3,
+      "difficulty_level": 1,
       "concepts_tested": [
         "79 THE MAKING OF"
       ]
@@ -129,7 +129,7 @@
         "As regions, others seem to be similar across regions, and yet others derive from older practices in a particular area, but take a new..."
       ],
       "correct_answer": 0,
-      "pattern": "statement",
+      "pattern": "match",
       "source_trace": "NCERT Class 7 Our Pasts II Ch7 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
@@ -183,13 +183,103 @@
         "In the twelfth century, one of the most important rulers of the Ganga dynasty, Anantavarman, decided to erect a temple for Purushottama Jagannatha at..."
       ],
       "correct_answer": 0,
-      "pattern": "statement",
+      "pattern": "match",
       "source_trace": "NCERT Class 7 Our Pasts II Ch7 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
-      "difficulty_level": 3,
+      "difficulty_level": 4,
       "concepts_tested": [
         "83 THE MAKING OF"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Tribes Nomads and Settled Communities, which statement is supported by the source text about CLASSICAL?",
+      "options": [
+        "Subsequently, in 1230, king Anangabhima III dedicated his kingdom to the deity and proclaimed himself as the “deputy” of the god.",
+        "2 The icons of Balabhadra, Subhadra and Jagannatha, palm-leaf manuscript, Orissa.",
+        "81 THE MAKING OF REGIONAL CULTURES As the temple gained in importance as a centre of pilgrimage, its authority in social and political matters...",
+        "All those who conquered Orissa, such as the Mughals, the Marathas and the English East India Company, attempted to gain control over the temple."
+      ],
+      "correct_answer": 0,
+      "pattern": "not_type",
+      "source_trace": "NCERT Class 7 Our Pasts II Ch7 pg 1",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "CLASSICAL"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Tribes Nomads and Settled Communities, which statement is supported by the source text about 85 THE MAKING OF?",
+      "options": [
+        "They felt that this would make their rule acceptable to the local people.",
+        "The Rajputs and Traditions of Heroism In the nineteenth century, the region that constitutes most of present-day Rajasthan, was called Rajputana by the British.",
+        "While this may suggest that this was an area that was inhabited only or mainly by Rajputs, this is only partly true.",
+        "There were (and are) several groups who identify themselves as Rajputs in many areas of northern and central India."
+      ],
+      "correct_answer": 0,
+      "pattern": "statement",
+      "source_trace": "NCERT Class 7 Our Pasts II Ch7 pg 2",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "85 THE MAKING OF"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Tribes Nomads and Settled Communities, which statement is supported by the source text about 87 THE MAKING OF?",
+      "options": [
+        "And of course, there are several peoples other than Rajputs who live in Rajasthan.",
+        "However, the Rajputs are often recognised as contributing to the distinctive culture of Rajasthan.",
+        "These cultural traditions were closely linked with the ideals and aspirations of rulers.",
+        "From about the eighth century, most of the present-day state of Rajasthan was ruled by various Rajput families."
+      ],
+      "correct_answer": 0,
+      "pattern": "match",
+      "source_trace": "NCERT Class 7 Our Pasts II Ch7 pg 2",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "87 THE MAKING OF"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Tribes Nomads and Settled Communities, which statement is supported by the source text about 89 THE MAKING OF?",
+      "options": [
+        "These rulers cherished the ideal of the hero who fought valiantly, than face defeat.",
+        "Stories about Rajput heroes were recorded in poems and songs, which were recited by specially trained minstrels.",
+        "82 These preserved the memories of heroes and were expected to inspire others to follow their example.",
+        "Ordinary people were also attracted by these stories – which often depicted dramatic situations, and a range of strong emotions – loyalty, friendship, love,..."
+      ],
+      "correct_answer": 0,
+      "pattern": "not_type",
+      "source_trace": "NCERT Class 7 Our Pasts II Ch7 pg 2",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 5,
+      "concepts_tested": [
+        "89 THE MAKING OF"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Tribes Nomads and Settled Communities, which statement is supported by the source text about 91 THE MAKING OF?",
+      "options": [
+        "Sometimes women are depicted as following their heroic husbands in both life and death – there are stories about the practice of or the...",
+        "So those who followed the heroic ideal often had to pay for it with their lives.",
+        "83 THE MAKING OF REGIONAL CULTURES Beyond Regional Frontiers: The Story of Kathak If heroic traditions can be found in different regions in different...",
+        "Let us look at the history of one dance form, Kathak now associated with several parts of north India."
+      ],
+      "correct_answer": 0,
+      "pattern": "statement",
+      "source_trace": "NCERT Class 7 Our Pasts II Ch7 pg 3",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 5,
+      "concepts_tested": [
+        "91 THE MAKING OF"
       ]
     }
   ],
@@ -199,7 +289,7 @@
     "generation_method": "local_source_only_extractive_decode"
   },
   "content_model": "clearupsc_textbook_decoded_from_source_v1",
-  "decode_status": "textbook_decoded",
+  "decode_status": "textbook_verified",
   "source": {
     "book": "NCERT Class 7 Our Pasts II",
     "chapter": 7,
@@ -211,5 +301,5 @@
   "source_trace": "NCERT Class 7 Our Pasts II | Chapter 7: Tribes Nomads and Settled Communities | https://ncert.nic.in/textbook/pdf/gess107.pdf | sha256:8854c13897b7de009980dead3952a5c627d9b01c62d57d2d68e0051f7fe69cac",
   "raw_text_path": "data/study/textbook-first/raw-text/gs1_hist_class7_our_pasts_ii_ch07_tribes_nomads_and_settled_communities.txt",
   "generated_by": "local_source_only_extractive_decode",
-  "generated_at": "2026-05-26T19:53:58.264Z"
+  "generated_at": "2026-05-26T20:27:05.000Z"
 }

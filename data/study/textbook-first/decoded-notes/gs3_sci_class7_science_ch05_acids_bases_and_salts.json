@@ -115,7 +115,7 @@
       "source_trace": "NCERT Class 7 Science Ch5 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
-      "difficulty_level": 3,
+      "difficulty_level": 1,
       "concepts_tested": [
         "5.1 P HYSICAL C HANGES"
       ]
@@ -129,7 +129,7 @@
         "Obviously, you cannot join the pieces back to make the original piece, but is there a change in the property of the paper?"
       ],
       "correct_answer": 0,
-      "pattern": "statement",
+      "pattern": "match",
       "source_trace": "NCERT Class 7 Science Ch5 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
@@ -183,13 +183,103 @@
         "Hold an inverted pan by its handle over the steam at some distance from the boiling water."
       ],
       "correct_answer": 0,
-      "pattern": "statement",
+      "pattern": "match",
       "source_trace": "NCERT Class 7 Science Ch5 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
-      "difficulty_level": 3,
+      "difficulty_level": 4,
       "concepts_tested": [
         "PHYSICAL AND CHEMICAL CHANGES 49"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Acids Bases and Salts, which statement is supported by the source text about SCIENCE 50?",
+      "options": [
+        "5.2 Rusting iron CAUTION Be careful while handling a flame.",
+        "Keep the tip of the free end of the blade on the gas stove.",
+        "In Activities 5.1 and 5.2 above, you saw that paper and a piece of chalk underwent changes in size.",
+        "When it is completely burnt it leaves behind a powdery ash."
+      ],
+      "correct_answer": 0,
+      "pattern": "not_type",
+      "source_trace": "NCERT Class 7 Science Ch5 pg 1",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "SCIENCE 50"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Acids Bases and Salts, which statement is supported by the source text about PHYSICAL AND CHEMICAL CHANGES 51?",
+      "options": [
+        "The change can be represented by the following equation: Magnesium (Mg) + Oxygen (O 2 )  Magnesium oxide (MgO) Fig.",
+        "In the kitchen, a wet iron pan (tawa) often gets rusted if left in that state for some time.",
+        "Let us consider a few more changes where new substances are formed.",
+        "The teachers should advise children not to stare at the burning ribbon."
+      ],
+      "correct_answer": 0,
+      "pattern": "statement",
+      "source_trace": "NCERT Class 7 Science Ch5 pg 2",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "PHYSICAL AND CHEMICAL CHANGES 51"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Acids Bases and Salts, which statement is supported by the source text about (CaCO 3?",
+      "options": [
+        "Get a small piece of a thin strip or ribbon of magnesium.",
+        "It burns with a brilliant white Collect the ash and mix it with a small amount of water.",
+        "On the basis of this test, how do you classify the aqueous solution — acidic or basic?",
+        "On dissolving the ash in water it forms a new substance."
+      ],
+      "correct_answer": 0,
+      "pattern": "match",
+      "source_trace": "NCERT Class 7 Science Ch5 pg 2",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "(CaCO 3"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Acids Bases and Salts, which statement is supported by the source text about SCIENCE 52?",
+      "options": [
+        "This change can be written in the form of the following equation: Magnesium oxide (MgO) + Water (H2 O) Magnesium hydroxide [Mg(OH)2 ] As...",
+        "So, magnesium oxide is a new substance formed on burning of magnesium.",
+        "Magnesium hydroxide is another new The equations here are different from those in mathematics.",
+        "In equations of this kind, the arrow implies ‘becomes’."
+      ],
+      "correct_answer": 0,
+      "pattern": "not_type",
+      "source_trace": "NCERT Class 7 Science Ch5 pg 2",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 5,
+      "concepts_tested": [
+        "SCIENCE 52"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Acids Bases and Salts, which statement is supported by the source text about 5.3 RUSTING OF IRON?",
+      "options": [
+        "No attempt should be made to balance chemical equations at this stage.",
+        "SCIENCE 50 substance formed by mixing magnesium oxide with water.",
+        "Add a few drops of dilute sulphuric acid to the solution.",
+        "Save a small sample of the solution in a test tube or a small glass bottle."
+      ],
+      "correct_answer": 0,
+      "pattern": "statement",
+      "source_trace": "NCERT Class 7 Science Ch5 pg 2",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 5,
+      "concepts_tested": [
+        "5.3 RUSTING OF IRON"
       ]
     }
   ],
@@ -199,7 +289,7 @@
     "generation_method": "local_source_only_extractive_decode"
   },
   "content_model": "clearupsc_textbook_decoded_from_source_v1",
-  "decode_status": "textbook_decoded",
+  "decode_status": "textbook_verified",
   "source": {
     "book": "NCERT Class 7 Science",
     "chapter": 5,
@@ -211,5 +301,5 @@
   "source_trace": "NCERT Class 7 Science | Chapter 5: Acids Bases and Salts | https://ncert.nic.in/textbook/pdf/gesc105.pdf | sha256:a54ae650918b487514dd999eee721924c270714d3f8c42686c080ccf5dd46a98",
   "raw_text_path": "data/study/textbook-first/raw-text/gs3_sci_class7_science_ch05_acids_bases_and_salts.txt",
   "generated_by": "local_source_only_extractive_decode",
-  "generated_at": "2026-05-26T19:54:35.073Z"
+  "generated_at": "2026-05-26T20:27:43.583Z"
 }

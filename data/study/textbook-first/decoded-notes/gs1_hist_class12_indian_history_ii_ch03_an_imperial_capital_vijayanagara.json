@@ -128,7 +128,7 @@
       "source_trace": "NCERT Class 12 Themes in Indian History II Ch3 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
-      "difficulty_level": 3,
+      "difficulty_level": 1,
       "concepts_tested": [
         "THEMES IN INDIAN HISTORY – PART II 170"
       ]
@@ -142,7 +142,7 @@
         "Much of the initial information he received was based on the memories of priests of the Virupaksha temple and the shrine of Pampadevi."
       ],
       "correct_answer": 0,
-      "pattern": "statement",
+      "pattern": "match",
       "source_trace": "NCERT Class 12 Themes in Indian History II Ch3 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
@@ -196,13 +196,103 @@
         "On their northern frontier, the Vijayanagara kings competed with contemporary rulers – including the Sultans of the Deccan and the Gajapati rulers of Orissa..."
       ],
       "correct_answer": 0,
+      "pattern": "match",
+      "source_trace": "NCERT Class 12 Themes in Indian History II Ch3 pg 1",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "THEMES IN INDIAN HISTORY – PART II 172"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of An Imperial Capital Vijayanagara, which statement is supported by the source text about 2.1 Kings and traders?",
+      "options": [
+        "At the same time, interaction between these states led to sharing of ideas, especially in the field of architecture.",
+        "The rulers of Vijayanagara borrowed concepts and building techniques which they then developed further.",
+        "7.2 Mackenzie and his assistants This is a copy by an unknown artist of an oil painting by the portrait painter Thomas Hickey.",
+        "It dates to c.1825 and belongs to the collection of the Royal Asiatic Society of Britain and Ireland."
+      ],
+      "correct_answer": 0,
+      "pattern": "not_type",
+      "source_trace": "NCERT Class 12 Themes in Indian History II Ch3 pg 1",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "2.1 Kings and traders"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of An Imperial Capital Vijayanagara, which statement is supported by the source text about 2.2 The apogee and decline of the empire?",
+      "options": [
+        "On Mackenzie’s left is his peon Kistnaji holding a telescope, on his right are Brahmana assistants – a Jaina pandit (right) and behind him...",
+        "Karnataka samrajyamu While historians use the term Vijayanagara Empire, contemporaries described it as the karnataka samrajyamu. Ü How has the artist portrayed Mackenzie and...",
+        "What ideas about him and his informants are sought to be impressed upon the viewers?",
+        "THEMES IN INDIAN HISTORY – PART II 172 Some of the areas that were incorporated within the empire had witnessed the development of powerful..."
+      ],
+      "correct_answer": 0,
       "pattern": "statement",
       "source_trace": "NCERT Class 12 Themes in Indian History II Ch3 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
-      "difficulty_level": 3,
+      "difficulty_level": 4,
       "concepts_tested": [
-        "THEMES IN INDIAN HISTORY – PART II 172"
+        "2.2 The apogee and decline of the empire"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of An Imperial Capital Vijayanagara, which statement is supported by the source text about THEMES IN INDIAN HISTORY – PART II 174?",
+      "options": [
+        "Ruling elites in these areas had extended patronage to elaborate temples such as the Brihadishvara temple at Thanjavur and the Chennakeshava temple at Belur.",
+        "The rulers of Vijayanagara, who called themselves rayas, built on these traditions and carried them, as we will see, literally to new heights.",
+        "2.1 Kings and traders As warfare during these times depended upon effective cavalry, the import of horses from Arabia and Central Asia was very...",
+        "Local communities of merchants known as kudirai chettis or horse merchants also participated in these exchanges."
+      ],
+      "correct_answer": 0,
+      "pattern": "match",
+      "source_trace": "NCERT Class 12 Themes in Indian History II Ch3 pg 2",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "THEMES IN INDIAN HISTORY – PART II 174"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of An Imperial Capital Vijayanagara, which statement is supported by the source text about 2.3 The rayas and the nayakas?",
+      "options": [
+        "These were the Portuguese, who arrived on the west coast of the subcontinent and attempted to establish trading and military stations.",
+        "Their superior military technology, especially the use of muskets, enabled them to become important players in the tangled politics of the period.",
+        "In fact, Vijayanagara was also noted for its markets dealing in spices, textiles and precious stones.",
+        "Trade was often regarded as a status symbol for such cities, which boasted of a wealthy population that demanded high-value exotic goods, especially precious..."
+      ],
+      "correct_answer": 0,
+      "pattern": "not_type",
+      "source_trace": "NCERT Class 12 Themes in Indian History II Ch3 pg 2",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 5,
+      "concepts_tested": [
+        "2.3 The rayas and the nayakas"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of An Imperial Capital Vijayanagara, which statement is supported by the source text about THEMES IN INDIAN HISTORY – PART II 176?",
+      "options": [
+        "7.3 The gopuram or gateway of the Brihadishvara temple at Thanjavur Elephants, horses and men Gajapati literally means lord of elephants.",
+        "This was the name of a ruling lineage that was very powerful in Orissa in the fifteenth century.",
+        "In the popular traditions of Vijayanagara the Deccan Sultans are termed as ashvapati or lord of horses and the rayas are called narapati or...",
+        "173 Kings and traders Krishnadeva Raya (ruled 1509-29), the most famous ruler of Vijayanagara, composed a work on statecraft in Telugu known as the..."
+      ],
+      "correct_answer": 0,
+      "pattern": "statement",
+      "source_trace": "NCERT Class 12 Themes in Indian History II Ch3 pg 2",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 5,
+      "concepts_tested": [
+        "THEMES IN INDIAN HISTORY – PART II 176"
       ]
     }
   ],
@@ -212,7 +302,7 @@
     "generation_method": "local_source_only_extractive_decode"
   },
   "content_model": "clearupsc_textbook_decoded_from_source_v1",
-  "decode_status": "textbook_decoded",
+  "decode_status": "textbook_verified",
   "source": {
     "book": "NCERT Class 12 Themes in Indian History II",
     "chapter": 3,
@@ -224,5 +314,5 @@
   "source_trace": "NCERT Class 12 Themes in Indian History II | Chapter 3: An Imperial Capital Vijayanagara | https://ncert.nic.in/textbook/pdf/lehs203.pdf | sha256:0f00755922acc8ddfa26b3366cb67aa3be67c6f1e7f8cc53acf1c1cce67bc817",
   "raw_text_path": "data/study/textbook-first/raw-text/gs1_hist_class12_indian_history_ii_ch03_an_imperial_capital_vijayanagara.txt",
   "generated_by": "local_source_only_extractive_decode",
-  "generated_at": "2026-05-26T19:53:56.438Z"
+  "generated_at": "2026-05-26T20:27:03.026Z"
 }

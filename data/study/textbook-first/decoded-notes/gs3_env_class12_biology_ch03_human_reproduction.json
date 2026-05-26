@@ -136,7 +136,7 @@
       "source_trace": "NCERT Class 12 Biology Ch3 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
-      "difficulty_level": 3,
+      "difficulty_level": 1,
       "concepts_tested": [
         "3.1 REPRODUCTIVE HEALTH – PROBLEMS AND"
       ]
@@ -150,7 +150,7 @@
         "3.1 REPRODUCTIVE HEALTH – PROBLEMS AND STRATEGIES India was amongst the first countries in the world to initiate action plans and programmes at a..."
       ],
       "correct_answer": 0,
-      "pattern": "statement",
+      "pattern": "match",
       "source_trace": "NCERT Class 12 Biology Ch3 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
@@ -204,13 +204,103 @@
         "These are essential to provide medical assistance and care to people in reproduction-related problems like pregnancy, delivery, STDs, abortions, contraception, menstrual problems, infertility, etc."
       ],
       "correct_answer": 0,
+      "pattern": "match",
+      "source_trace": "NCERT Class 12 Biology Ch3 pg 1",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "3.1 Reproductive Health –"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Human Reproduction, which statement is supported by the source text about 3.2 Population Explosion and?",
+      "options": [
+        "Implementation of better techniques and new strategies from time to time are also required to provide more efficient care and assistance to people.",
+        "Statutory ban on amniocentesis for sex-determination to legally check increasing menace of female foeticides, massive child immunisation, etc., are some programmes that merit mention...",
+        "In aminocentesis some of the amniotic fluid of the developing foetus is taken to analyse the fetal cells and dissolved substances.",
+        "This procedure is used to test for the presence of certain genetic disorders such as, down syndrome, haemoplilia, sickle-cell anemia, etc., determine the survivability..."
+      ],
+      "correct_answer": 0,
+      "pattern": "not_type",
+      "source_trace": "NCERT Class 12 Biology Ch3 pg 1",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "3.2 Population Explosion and"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Human Reproduction, which statement is supported by the source text about 3.3 Medical Termination of?",
+      "options": [
+        "Research on various reproduction-related areas are encouraged and supported by governmental and non-governmental agencies to find out new methods and/or to improve upon the...",
+        "Do you know that ‘Saheli’–a new oral contraceptive for the females–was developed",
+        "43 REPRODUCTIVE HEALTH by scientists at Central Drug Research Institute (CDRI) in Lucknow, India?",
+        "Better awareness about sex related matters, increased number of medically assisted deliveries and better post-natal care leading to decreased maternal and infant mortality rates,..."
+      ],
+      "correct_answer": 0,
       "pattern": "statement",
       "source_trace": "NCERT Class 12 Biology Ch3 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
-      "difficulty_level": 3,
+      "difficulty_level": 4,
       "concepts_tested": [
-        "3.1 Reproductive Health –"
+        "3.3 Medical Termination of"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Human Reproduction, which statement is supported by the source text about 3.4 Sexually Transmitted?",
+      "options": [
+        "3.2 POPULATION STABILISATION AND BIRTH CONTROL In the last century an all-round development in various fields significantly improved the quality of life of the...",
+        "However, increased health facilities along with better living conditions had an explosive impact on the growth of population.",
+        "The world population which was around 2 billion (2000 million) in 1900 rocketed to about 6 billion by 2000 and 7.2 billion in 2011.",
+        "Our population which was approximately 350 million at the time of our independence reached close to the billion mark by 2000 and crossed 1.2..."
+      ],
+      "correct_answer": 0,
+      "pattern": "match",
+      "source_trace": "NCERT Class 12 Biology Ch3 pg 2",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "3.4 Sexually Transmitted"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Human Reproduction, which statement is supported by the source text about 3.5 Infertility?",
+      "options": [
+        "A rapid decline in death rate, maternal mortality rate (MMR) and infant mortality rate (IMR) as well as an increase in number of people...",
+        "Through our Reproductive Child Health (RCH) programme, though we could bring down the population growth rate, it was only marginal.",
+        "According to the 2011 census report, the population growth rate was less than 2 per cent, i.e., 20/1000/year, a rate at which our population...",
+        "Such an alarming growth rate could lead to an absolute scarcity of even the basic requirements, i.e., food, shelter and clothing, in spite of..."
+      ],
+      "correct_answer": 0,
+      "pattern": "not_type",
+      "source_trace": "NCERT Class 12 Biology Ch3 pg 2",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 5,
+      "concepts_tested": [
+        "3.5 Infertility"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Human Reproduction, which statement is supported by the source text about BIOLOGY?",
+      "options": [
+        "Therefore, the government was forced to take up serious measures to check this population growth rate.",
+        "The most important step to overcome this problem is to motivate smaller families by using various contraceptive methods.",
+        "You might have seen advertisements in the media as well as posters/bills, etc., showing a happy couple with two children with a slogan Hum...",
+        "Many couples, mostly the young, urban, working ones have even adopted an ‘one child norm’."
+      ],
+      "correct_answer": 0,
+      "pattern": "statement",
+      "source_trace": "NCERT Class 12 Biology Ch3 pg 2",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 5,
+      "concepts_tested": [
+        "BIOLOGY"
       ]
     }
   ],
@@ -220,7 +310,7 @@
     "generation_method": "local_source_only_extractive_decode"
   },
   "content_model": "clearupsc_textbook_decoded_from_source_v1",
-  "decode_status": "textbook_decoded",
+  "decode_status": "textbook_verified",
   "source": {
     "book": "NCERT Class 12 Biology",
     "chapter": 3,
@@ -232,5 +322,5 @@
   "source_trace": "NCERT Class 12 Biology | Chapter 3: Human Reproduction | https://ncert.nic.in/textbook/pdf/lebo103.pdf | sha256:ef03cc524d286eb3ffc225a00422ce28f3fe18ab8e622424f0b1c748b45bf9f3",
   "raw_text_path": "data/study/textbook-first/raw-text/gs3_env_class12_biology_ch03_human_reproduction.txt",
   "generated_by": "local_source_only_extractive_decode",
-  "generated_at": "2026-05-26T19:53:38.025Z"
+  "generated_at": "2026-05-26T20:26:43.954Z"
 }

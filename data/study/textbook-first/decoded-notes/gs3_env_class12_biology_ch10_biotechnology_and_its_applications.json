@@ -124,7 +124,7 @@
       "source_trace": "NCERT Class 12 Biology Ch10 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
-      "difficulty_level": 3,
+      "difficulty_level": 1,
       "concepts_tested": [
         "10.1 BIOTECHNOLOGICAL APPLICATIONS IN"
       ]
@@ -138,7 +138,7 @@
         "The Green Revolution succeeded in tripling the food supply but yet it was not enough to feed the growing human population."
       ],
       "correct_answer": 0,
-      "pattern": "statement",
+      "pattern": "match",
       "source_trace": "NCERT Class 12 Biology Ch10 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
@@ -192,13 +192,103 @@
         "Try to visit a tissue culture laboratory with your teacher to better understand and appreciate the process."
       ],
       "correct_answer": 0,
+      "pattern": "match",
+      "source_trace": "NCERT Class 12 Biology Ch10 pg 1",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "APPLICATIONS"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Biotechnology and its Applications, which statement is supported by the source text about 10.1 Biotechnological?",
+      "options": [
+        "Another important application of the method is the recovery of healthy plants from diseased plants.",
+        "Even if the plant is infected with a virus, the meristem (apical and axillary) is free of virus.",
+        "Hence, one can remove the meristem and grow it in vitro to obtain virus-free plants.",
+        "Scientists have succeeded in culturing meristems of banana, sugarcane, potato, etc."
+      ],
+      "correct_answer": 0,
+      "pattern": "not_type",
+      "source_trace": "NCERT Class 12 Biology Ch10 pg 1",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "10.1 Biotechnological"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Biotechnology and its Applications, which statement is supported by the source text about 10.2 Biotechnological?",
+      "options": [
+        "Scientists have even isolated single cells from plants and after digesting their cell walls have been able to isolate naked protoplasts (surrounded by plasma...",
+        "Isolated protoplasts from two different varieties of plants – each having a desirable character – can be fused to get hybrid protoplasts, which can...",
+        "These hybrids are called somatic hybrids while the process",
+        "179 BIOTECHNOLOGY AND ITS APPLICATIONS is called somatic hybridisation."
+      ],
+      "correct_answer": 0,
       "pattern": "statement",
       "source_trace": "NCERT Class 12 Biology Ch10 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
-      "difficulty_level": 3,
+      "difficulty_level": 4,
       "concepts_tested": [
-        "APPLICATIONS"
+        "10.2 Biotechnological"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Biotechnology and its Applications, which statement is supported by the source text about 10.3 Transgenic Animals?",
+      "options": [
+        "Imagine a situation when a protoplast of tomato is fused with that of potato, and then they are grown – to form new hybrid...",
+        "Well, this has been achieved – resulting in formation of pomato; unfortunately this plant did not have all the desired combination of characteristics for...",
+        "Is there any alternative path that our understanding of genetics can show so that farmers may obtain maximum yield from their fields?",
+        "Is there a way to minimise the use of fertilisers and chemicals so that their harmful effects on the environment are reduced?"
+      ],
+      "correct_answer": 0,
+      "pattern": "match",
+      "source_trace": "NCERT Class 12 Biology Ch10 pg 2",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "10.3 Transgenic Animals"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Biotechnology and its Applications, which statement is supported by the source text about 10.4 Ethical Issues?",
+      "options": [
+        "Use of genetically modified crops is a possible solution.",
+        "Plants, bacteria, fungi and animals whose genes have been altered by manipulation are called Genetically Modified Organisms (GMO).",
+        "Genetic modification has: (i) made crops more tolerant to abiotic stresses (cold, drought, salt, heat).",
+        "(ii) reduced reliance on chemical pesticides (pest-resistant crops)."
+      ],
+      "correct_answer": 0,
+      "pattern": "not_type",
+      "source_trace": "NCERT Class 12 Biology Ch10 pg 2",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 5,
+      "concepts_tested": [
+        "10.4 Ethical Issues"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Biotechnology and its Applications, which statement is supported by the source text about BIOLOGY?",
+      "options": [
+        "(iv) increased efficiency of mineral usage by plants (this prevents early exhaustion of fertility of soil).",
+        "(v) enhanced nutritional value of food, e.g., golden rice, i.e., Vitamin ‘A’ enriched rice.",
+        "In addition to these uses, GM has been used to create tailor-made plants to supply alternative resources to industries, in the form of starches,...",
+        "Some of the applications of biotechnology in agriculture that you will study in detail are the production of pest resistant plants, which could decrease..."
+      ],
+      "correct_answer": 0,
+      "pattern": "statement",
+      "source_trace": "NCERT Class 12 Biology Ch10 pg 2",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 5,
+      "concepts_tested": [
+        "BIOLOGY"
       ]
     }
   ],
@@ -208,7 +298,7 @@
     "generation_method": "local_source_only_extractive_decode"
   },
   "content_model": "clearupsc_textbook_decoded_from_source_v1",
-  "decode_status": "textbook_decoded",
+  "decode_status": "textbook_verified",
   "source": {
     "book": "NCERT Class 12 Biology",
     "chapter": 10,
@@ -220,5 +310,5 @@
   "source_trace": "NCERT Class 12 Biology | Chapter 10: Biotechnology and its Applications | https://ncert.nic.in/textbook/pdf/lebo110.pdf | sha256:4da2923c699b97a1930ae6b1072bf75fb5b0429d724ead7ba06510f98730b826",
   "raw_text_path": "data/study/textbook-first/raw-text/gs3_env_class12_biology_ch10_biotechnology_and_its_applications.txt",
   "generated_by": "local_source_only_extractive_decode",
-  "generated_at": "2026-05-26T19:53:39.628Z"
+  "generated_at": "2026-05-26T20:26:45.723Z"
 }

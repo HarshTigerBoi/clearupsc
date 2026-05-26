@@ -115,7 +115,7 @@
       "source_trace": "NCERT Class 7 Science Ch1 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
-      "difficulty_level": 3,
+      "difficulty_level": 1,
       "concepts_tested": [
         "1.1 M ODE OF NUTRITION IN PLANTS"
       ]
@@ -129,7 +129,7 @@
         "Nutrition is the mode of taking food by an organism and its utilisation by the body."
       ],
       "correct_answer": 0,
-      "pattern": "statement",
+      "pattern": "match",
       "source_trace": "NCERT Class 7 Science Ch1 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
@@ -183,13 +183,103 @@
         "Water and minerals are transported to the leaves by the vessels which run like pipes throughout the root, the stem, the branches and the..."
       ],
       "correct_answer": 0,
+      "pattern": "match",
+      "source_trace": "NCERT Class 7 Science Ch1 pg 1",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "N UTRITION IN PLANTS 3"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Nutrition in Plants, which statement is supported by the source text about SCIENCE 4?",
+      "options": [
+        "They form a continuous path or passage for the nutrients to reach the leaf.",
+        "You will learn more about transport of materials in plants in Chapter 7.",
+        "This energy is used to synthesise (prepare) food from carbon dioxide and water.",
+        "Since the synthesis of food occurs in the presence of sunlight, it is called photosynthesis (Photo: light; synthesis : to combine)."
+      ],
+      "correct_answer": 0,
+      "pattern": "not_type",
+      "source_trace": "NCERT Class 7 Science Ch1 pg 1",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "SCIENCE 4"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Nutrition in Plants, which statement is supported by the source text about 1.3 OTHER M ODES OF NUTRITION IN?",
+      "options": [
+        "So we find that chlorophyll, sunlight, carbon dioxide and water are necessary to carry out the process of photosynthesis.",
+        "The solar energy is captured by the leaves and stored in the plant in the form of food.",
+        "Thus, sun is the ultimate source of energy for all living organisms.",
+        "Can you imagine life on earth in the absence of photosynthesis!"
+      ],
+      "correct_answer": 0,
       "pattern": "statement",
       "source_trace": "NCERT Class 7 Science Ch1 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
-      "difficulty_level": 3,
+      "difficulty_level": 4,
       "concepts_tested": [
-        "N UTRITION IN PLANTS 3"
+        "1.3 OTHER M ODES OF NUTRITION IN"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Nutrition in Plants, which statement is supported by the source text about P LANTS?",
+      "options": [
+        "In the absence of photosynthesis there would not be any food.",
+        "The survival of almost all living organisms directly or indirectly depends upon the food made by the plants.",
+        "Besides, oxygen which is essential for the survival You have seen that buildings are made of bricks.",
+        "Similarly, the bodies of living organisms are made of tiny units called cells."
+      ],
+      "correct_answer": 0,
+      "pattern": "match",
+      "source_trace": "NCERT Class 7 Science Ch1 pg 1",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "P LANTS"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Nutrition in Plants, which statement is supported by the source text about N UTRITION IN PLANTS 5?",
+      "options": [
+        "The cell is enclosed by a thin outer boundary, called the cell membrane.",
+        "Most cells have a distinct, centrally located spherical structure called the nucleus (Fig.",
+        "The nucleus is surrounded by a jelly-like substance called cytoplasm.",
+        "1.1 Cell Boojho wants to know how water and minerals absorbed by roots reach the leaves."
+      ],
+      "correct_answer": 0,
+      "pattern": "not_type",
+      "source_trace": "NCERT Class 7 Science Ch1 pg 1",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 5,
+      "concepts_tested": [
+        "N UTRITION IN PLANTS 5"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Nutrition in Plants, which statement is supported by the source text about 1.4 SAPROTROPHS?",
+      "options": [
+        "N UTRITION IN PLANTS 3 Besides leaves, photosynthesis also takes place in other green parts of the plant — in green stems and green...",
+        "The desert plants have scale- or spine-like leaves to reduce loss of water by transpiration.",
+        "These plants have green stems which carry out photosynthesis. of all organisms is produced during photosynthesis.",
+        "In the absence of photosynthesis, life would be impossible on the earth."
+      ],
+      "correct_answer": 0,
+      "pattern": "statement",
+      "source_trace": "NCERT Class 7 Science Ch1 pg 2",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 5,
+      "concepts_tested": [
+        "1.4 SAPROTROPHS"
       ]
     }
   ],
@@ -199,7 +289,7 @@
     "generation_method": "local_source_only_extractive_decode"
   },
   "content_model": "clearupsc_textbook_decoded_from_source_v1",
-  "decode_status": "textbook_decoded",
+  "decode_status": "textbook_verified",
   "source": {
     "book": "NCERT Class 7 Science",
     "chapter": 1,
@@ -211,5 +301,5 @@
   "source_trace": "NCERT Class 7 Science | Chapter 1: Nutrition in Plants | https://ncert.nic.in/textbook/pdf/gesc101.pdf | sha256:c91426864c93c8b901ef0c9d6f80fdd02b38011a83ee4821b20bee1d3bee9f15",
   "raw_text_path": "data/study/textbook-first/raw-text/gs3_sci_class7_science_ch01_nutrition_in_plants.txt",
   "generated_by": "local_source_only_extractive_decode",
-  "generated_at": "2026-05-26T19:54:34.092Z"
+  "generated_at": "2026-05-26T20:27:42.581Z"
 }

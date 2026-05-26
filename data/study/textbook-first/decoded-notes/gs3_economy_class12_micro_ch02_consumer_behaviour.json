@@ -115,7 +115,7 @@
       "source_trace": "NCERT Class 12 Micro Ch2 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
-      "difficulty_level": 3,
+      "difficulty_level": 1,
       "concepts_tested": [
         "2.1 UTILITY"
       ]
@@ -129,7 +129,7 @@
         "Preliminary Notations and Assumptions A consumer, in general, consumes many goods; but for simplicity, we shall consider the consumer’s choice problem in a situation..."
       ],
       "correct_answer": 0,
-      "pattern": "statement",
+      "pattern": "match",
       "source_trace": "NCERT Class 12 Micro Ch2 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
@@ -183,13 +183,103 @@
         "likes chocolates will get much higher utility from a chocolate than some one who is not so fond of chocolates, Also, utility that one..."
       ],
       "correct_answer": 0,
+      "pattern": "match",
+      "source_trace": "NCERT Class 12 Micro Ch2 pg 1",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "9 Theory of Consumer"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Consumer Behaviour, which statement is supported by the source text about 11 Theory of Consumer?",
+      "options": [
+        "For example, utility from the use of a room heater will depend upon whether the individual is in Ladakh or Chennai (place) or whether...",
+        "2.1.1 Cardinal Utility Analysis Cardinal utility analysis assumes that level of utility can be expressed in numbers.",
+        "For example, we can measure the utility derived from a shirt and say, this shirt gives me 50 units of utility.",
+        "Before discussing further, it will be useful to have a look at two important measures of utility."
+      ],
+      "correct_answer": 0,
+      "pattern": "not_type",
+      "source_trace": "NCERT Class 12 Micro Ch2 pg 1",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "11 Theory of Consumer"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Consumer Behaviour, which statement is supported by the source text about 2.1.2 Ordinal Utility Analysis?",
+      "options": [
+        "Measures of Utility Total Utility: Total utility of a fixed quantity of a commodity (TU) is the total satisfaction derived from consuming the given...",
+        "More of commodity x provides more satisfaction to the consumer.",
+        "Therefore, TUn refers to total utility derived from consuming n units of a commodity x.",
+        "Marginal Utility: Marginal utility (MU) is the change in total utility due to consumption of one additional unit of a commodity."
+      ],
+      "correct_answer": 0,
       "pattern": "statement",
       "source_trace": "NCERT Class 12 Micro Ch2 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
-      "difficulty_level": 3,
+      "difficulty_level": 4,
       "concepts_tested": [
-        "9 Theory of Consumer"
+        "2.1.2 Ordinal Utility Analysis"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Consumer Behaviour, which statement is supported by the source text about 3 / / ( / ) 0 Y X Y X if Y X | ∆ ∆ |= ∆ ∆ ∆ ∆ ≥?",
+      "options": [
+        "For example, suppose 4 bananas give us 28 units of total utility and 5 bananas give us 30 units of total utility.",
+        "Clearly, consumption of the 5th banana has caused total utility to increase by 2 units (30 units minus 28 units).",
+        "Therefore, marginal utility of the 5th banana is 2 units.",
+        "MU5 = TU5 – TU4 = 30 – 28 = 2 In general, MUn = TUn – TUn-1, where subscript n refers to the..."
+      ],
+      "correct_answer": 0,
+      "pattern": "match",
+      "source_trace": "NCERT Class 12 Micro Ch2 pg 1",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "3 / / ( / ) 0 Y X Y X if Y X | ∆ ∆ |= ∆ ∆ ∆ ∆ ≥"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Consumer Behaviour, which statement is supported by the source text about / ( / ) 0 Y X if Y X = −∆ ∆ ∆ ∆ <?",
+      "options": [
+        "TUn = MU1 + MU2 + … + MUn-1 + MUn This simply means that TU derived from consuming n units of bananas is...",
+        "2.1 and Figure 2.1 show an imaginary example of the values of marginal and total utility derived from consumption of various amounts of a...",
+        "Usually, it is seen that the marginal utility diminishes with increase in consumption of the commodity.",
+        "This happens because having obtained some amount of the commodity, the desire of the consumer to have still more of it becomes weaker."
+      ],
+      "correct_answer": 0,
+      "pattern": "not_type",
+      "source_trace": "NCERT Class 12 Micro Ch2 pg 1",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 5,
+      "concepts_tested": [
+        "/ ( / ) 0 Y X if Y X = −∆ ∆ ∆ ∆ <"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Consumer Behaviour, which statement is supported by the source text about 13 Theory of Consumer?",
+      "options": [
+        "10 Introductory Microeconomics Notice that MU3 is less than MU2.",
+        "You may also notice that total utility increases but at a diminishing rate: The rate of change in total utility due to change in...",
+        "This marginal utility diminishes with increase in consumption of the commodity from 12 to 6, 6 to 4 and so on.",
+        "This follows from the law of diminishing marginal utility."
+      ],
+      "correct_answer": 0,
+      "pattern": "statement",
+      "source_trace": "NCERT Class 12 Micro Ch2 pg 2",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 5,
+      "concepts_tested": [
+        "13 Theory of Consumer"
       ]
     }
   ],
@@ -199,7 +289,7 @@
     "generation_method": "local_source_only_extractive_decode"
   },
   "content_model": "clearupsc_textbook_decoded_from_source_v1",
-  "decode_status": "textbook_decoded",
+  "decode_status": "textbook_verified",
   "source": {
     "book": "NCERT Class 12 Introductory Microeconomics",
     "chapter": 2,
@@ -211,5 +301,5 @@
   "source_trace": "NCERT Class 12 Introductory Microeconomics | Chapter 2: Consumer Behaviour | https://ncert.nic.in/textbook/pdf/leec202.pdf | sha256:e1a7970d94fa2dc88df3a9fae8f7408e3e2367fc017341d5f2fc30d3462ba0b4",
   "raw_text_path": "data/study/textbook-first/raw-text/gs3_economy_class12_micro_ch02_consumer_behaviour.txt",
   "generated_by": "local_source_only_extractive_decode",
-  "generated_at": "2026-05-26T19:54:19.103Z"
+  "generated_at": "2026-05-26T20:27:26.996Z"
 }

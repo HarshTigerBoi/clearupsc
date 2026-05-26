@@ -120,7 +120,7 @@
       "source_trace": "NCERT Class 7 Our Pasts II Ch1 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
-      "difficulty_level": 3,
+      "difficulty_level": 1,
       "concepts_tested": [
         "1 INTRODUCTION: TRA..."
       ]
@@ -134,7 +134,7 @@
         "Map 2 was made nearly 600 years after Map 1, during this period, information about the subcontinent had changed considerably."
       ],
       "correct_answer": 0,
-      "pattern": "statement",
+      "pattern": "match",
       "source_trace": "NCERT Class 7 Our Pasts II Ch1 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
@@ -188,13 +188,103 @@
         "The difference is not just with regard to grammar and vocabulary; the meanings of words also change over time."
       ],
       "correct_answer": 0,
+      "pattern": "match",
+      "source_trace": "NCERT Class 7 Our Pasts II Ch1 pg 2",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "3 INTRODUCTION: TRA..."
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Tracing Changes Through a Thousand Years, which statement is supported by the source text about 5 INTRODUCTION: TRA...?",
+      "options": [
+        "When the term was used in the thirteenth century by meant the areas of Punjab, Haryana and the lands between the Ganga and Yamuna.",
+        "He used the term in a political sense for lands that were a part of the the term never included south India.",
+        "By contrast, in the early sixteenth century, Babur used Hindustan to describe the geography, the fauna and the culture of the inhabitants of the...",
+        "As we will see later in the chapter, this was somewhat similar to the way the fourteenth-century poet Amir Khusrau used the word “Hind”."
+      ],
+      "correct_answer": 0,
+      "pattern": "not_type",
+      "source_trace": "NCERT Class 7 Our Pasts II Ch1 pg 2",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "5 INTRODUCTION: TRA..."
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Tracing Changes Through a Thousand Years, which statement is supported by the source text about 7 INTRODUCTION: TRA...?",
+      "options": [
+        "While the idea of a geographical and cultural entity like “India” did exist, the term “Hindustan” did not carry the political and national meanings...",
+        "Historians today have to be careful about the terms they use because they meant different things in the past.",
+        "Can you think of any other words whose meanings change in different contexts? ?",
+        "4 In the medieval period, a “foreigner” was any stranger who appeared say in a given village, someone who was not a part of..."
+      ],
+      "correct_answer": 0,
       "pattern": "statement",
       "source_trace": "NCERT Class 7 Our Pasts II Ch1 pg 2",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
-      "difficulty_level": 3,
+      "difficulty_level": 4,
       "concepts_tested": [
-        "3 INTRODUCTION: TRA..."
+        "7 INTRODUCTION: TRA..."
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Tracing Changes Through a Thousand Years, which statement is supported by the source text about 9 INTRODUCTION: TRA...?",
+      "options": [
+        "(In Hindi the term might be used to describe such a person and in Persian, .) A city-dweller, therefore, might have regarded a forest-dweller...",
+        "Historians and their Sources Historians use different types of sources to learn about the past depending upon the period of their study example, you...",
+        "In this book we will read about the following thousand years, from roughly 700 to 1750.",
+        "You will notice some continuity in the sources used by historians for the study of this period."
+      ],
+      "correct_answer": 0,
+      "pattern": "match",
+      "source_trace": "NCERT Class 7 Our Pasts II Ch1 pg 3",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "9 INTRODUCTION: TRA..."
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Tracing Changes Through a Thousand Years, which statement is supported by the source text about 11 INTRODUCTION: TRA...?",
+      "options": [
+        "They still rely on coins, inscriptions, architecture and textual records for information.",
+        "The number and variety of textual records increased dramatically during this period.",
+        "They slowly displaced other types of available information.",
+        "Through this period, paper gradually became cheaper and more The value of paper Compare the following: (1) In the middle of the thirteenth century..."
+      ],
+      "correct_answer": 0,
+      "pattern": "not_type",
+      "source_trace": "NCERT Class 7 Our Pasts II Ch1 pg 3",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 5,
+      "concepts_tested": [
+        "11 INTRODUCTION: TRA..."
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Tracing Changes Through a Thousand Years, which statement is supported by the source text about 13 INTRODUCTION: TRA...?",
+      "options": [
+        "So he washed the writing off a manuscript he did not want, dried the paper and used it.",
+        "(2) A century later, if you bought some food in the market you could be lucky and have the shopkeeper wrap it for you...",
+        "When was paper more expensive and easily available – in the thirteenth or the fourteenth century? ?",
+        "People used it to write holy texts, chronicles of rulers, letters and teachings of saints, petitions and judicial records, and for registers of accounts..."
+      ],
+      "correct_answer": 0,
+      "pattern": "statement",
+      "source_trace": "NCERT Class 7 Our Pasts II Ch1 pg 3",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 5,
+      "concepts_tested": [
+        "13 INTRODUCTION: TRA..."
       ]
     }
   ],
@@ -204,7 +294,7 @@
     "generation_method": "local_source_only_extractive_decode"
   },
   "content_model": "clearupsc_textbook_decoded_from_source_v1",
-  "decode_status": "textbook_decoded",
+  "decode_status": "textbook_verified",
   "source": {
     "book": "NCERT Class 7 Our Pasts II",
     "chapter": 1,
@@ -216,5 +306,5 @@
   "source_trace": "NCERT Class 7 Our Pasts II | Chapter 1: Tracing Changes Through a Thousand Years | https://ncert.nic.in/textbook/pdf/gess101.pdf | sha256:88dec9a2756429d259333c06e5a91b0cb1b31c21c8da9d5074797c8022a0e770",
   "raw_text_path": "data/study/textbook-first/raw-text/gs1_hist_class7_our_pasts_ii_ch01_tracing_changes_through_a_thousand_years.txt",
   "generated_by": "local_source_only_extractive_decode",
-  "generated_at": "2026-05-26T19:53:56.898Z"
+  "generated_at": "2026-05-26T20:27:03.551Z"
 }

@@ -136,7 +136,7 @@
       "source_trace": "NCERT Class 12 Politics in India since Independence Ch8 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
-      "difficulty_level": 3,
+      "difficulty_level": 1,
       "concepts_tested": [
         "138 Politics in India since Independence"
       ]
@@ -150,7 +150,7 @@
         "We cannot avoid asking these questions just because they are politically sensitive, for the whole point of studying the history of politics in India..."
       ],
       "correct_answer": 0,
-      "pattern": "statement",
+      "pattern": "match",
       "source_trace": "NCERT Class 12 Politics in India since Independence Ch8 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
@@ -204,13 +204,103 @@
         "This followed the decision by the new National Front government in 1990, to implement the recommendation of the Mandal Commission that jobs in central..."
       ],
       "correct_answer": 0,
-      "pattern": "statement",
+      "pattern": "match",
       "source_trace": "NCERT Class 12 Politics in India since Independence Ch8 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
-      "difficulty_level": 3,
+      "difficulty_level": 4,
       "concepts_tested": [
         "CENTRAL GOVERNMENTS SINCE 1989"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Recent Developments in Indian Politics, which statement is supported by the source text about 144 Politics in India since Independence?",
+      "options": [
+        "This led to violent ‘anti- Mandal’ protests in different parts of the country.",
+        "This dispute between the supporters and opponents of OBC reservations was known as the ‘Mandal issue’ and was to play an important role in...",
+        "I wish to find out if the Congress can still bounce back to its old glory.",
+        "Congress leader Sitaram Kesri withdrew the crutches of support from Deve Gowda’s United Front Government."
+      ],
+      "correct_answer": 0,
+      "pattern": "not_type",
+      "source_trace": "NCERT Class 12 Politics in India since Independence Ch8 pg 1",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "144 Politics in India since Independence"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Recent Developments in Indian Politics, which statement is supported by the source text about 146 Politics in India since Independence?",
+      "options": [
+        "138 Politics in India since Independence Third, the economic policy followed by the various governments took a radically different turn.",
+        "This is known as the initiation of the structural adjustment programme or the new economic reforms.",
+        "Started by Rajiv Gandhi, these changes first became very visible in 1991 and radically changed the direction that the Indian economy had pursued since...",
+        "These policies have been widely criticised by various movements and organisations."
+      ],
+      "correct_answer": 0,
+      "pattern": "statement",
+      "source_trace": "NCERT Class 12 Politics in India since Independence Ch8 pg 2",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "146 Politics in India since Independence"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Recent Developments in Indian Politics, which statement is supported by the source text about BAMCEF, DS-4?",
+      "options": [
+        "But the various governments that came to power in this period have continued to follow these.",
+        "I wish to be sure if this phenomenon would have a long-term effect.",
+        "I am not clear if this will make a difference to politics, especially if everyone has the same policy.",
+        "Manmohan Singh, the then Finance Minister, with Prime Minister Narsimha Rao, in the initial phase of the ‘New Economic Policy’."
+      ],
+      "correct_answer": 0,
+      "pattern": "match",
+      "source_trace": "NCERT Class 12 Politics in India since Independence Ch8 pg 2",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "BAMCEF, DS-4"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Recent Developments in Indian Politics, which statement is supported by the source text about 148 Politics in India since Independence?",
+      "options": [
+        "Recent Developments in Indian Politics 139 F ourth, the centuries old legal and political dispute over the Ram Janmabhoomi Temple in Ayodhya started influencing...",
+        "The Ram Janmabhoomi Temple Movement, becoming the central issue, transformed the direction of the discourse on secularism and democracy.",
+        "These changes culminated in the construction of the Ram Temple at Ayodhya following the decision of the constitutional bench of the Supreme Court (which...",
+        "F inally, the assassination of Rajiv Gandhi in May 1991 led to a change in leadership of the Congress party."
+      ],
+      "correct_answer": 0,
+      "pattern": "not_type",
+      "source_trace": "NCERT Class 12 Politics in India since Independence Ch8 pg 3",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 5,
+      "concepts_tested": [
+        "148 Politics in India since Independence"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Recent Developments in Indian Politics, which statement is supported by the source text about 150 Politics in India since Independence?",
+      "options": [
+        "He was assassinated by a Sri Lankan Tamil linked to the LTTE when he was on an election campaign tour in Tamil Nadu.",
+        "In the elections of 1991, Congress emerged as the single largest party.",
+        "Following Rajiv Gandhi’s death, the party chose Narsimha Rao as the Prime Minister.",
+        "Message of Harmony Leadership in Congress made many headlines."
+      ],
+      "correct_answer": 0,
+      "pattern": "statement",
+      "source_trace": "NCERT Class 12 Politics in India since Independence Ch8 pg 3",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 5,
+      "concepts_tested": [
+        "150 Politics in India since Independence"
       ]
     }
   ],
@@ -220,7 +310,7 @@
     "generation_method": "local_source_only_extractive_decode"
   },
   "content_model": "clearupsc_textbook_decoded_from_source_v1",
-  "decode_status": "textbook_decoded",
+  "decode_status": "textbook_verified",
   "source": {
     "book": "NCERT Class 12 Politics in India since Independence",
     "chapter": 8,
@@ -232,5 +322,5 @@
   "source_trace": "NCERT Class 12 Politics in India since Independence | Chapter 8: Recent Developments in Indian Politics | https://ncert.nic.in/textbook/pdf/leps208.pdf | sha256:5a22cb228b65586caf6e8caa7d45e8f892e216f7030c9d46796302fd0bc51c36",
   "raw_text_path": "data/study/textbook-first/raw-text/gs1_post_independence_class12_politics_india_ch08_recent_developments_in_indian_politics.txt",
   "generated_by": "local_source_only_extractive_decode",
-  "generated_at": "2026-05-26T19:53:47.410Z"
+  "generated_at": "2026-05-26T20:26:53.597Z"
 }

@@ -115,7 +115,7 @@
       "source_trace": "NCERT Class 8 Science Ch3 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
-      "difficulty_level": 3,
+      "difficulty_level": 1,
       "concepts_tested": [
         "COAL AND PETROLEUM COAL AND PETROLEUM"
       ]
@@ -129,7 +129,7 @@
         "Natural Man-made Can we use all our natural resources forever ?"
       ],
       "correct_answer": 0,
-      "pattern": "statement",
+      "pattern": "match",
       "source_trace": "NCERT Class 8 Science Ch3 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
@@ -183,13 +183,103 @@
         "These were formed from the dead remains of living organisms (fossils)."
       ],
       "correct_answer": 0,
+      "pattern": "match",
+      "source_trace": "NCERT Class 8 Science Ch3 pg 1",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "COAL AND PETROLEUM 35"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Synthetic Fibres and Plastics, which statement is supported by the source text about 3.2 Petroleum?",
+      "options": [
+        "3.1 Coal You may have seen coal or heard about it (Fig.",
+        "Earlier, it was used in railway engines to produce steam to run the engine.",
+        "It is also used in thermal power plants to produce electricity.",
+        "Story of Coal Where do we get coal from and how is it formed?"
+      ],
+      "correct_answer": 0,
+      "pattern": "not_type",
+      "source_trace": "NCERT Class 8 Science Ch3 pg 1",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "3.2 Petroleum"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Synthetic Fibres and Plastics, which statement is supported by the source text about SCIENCE 36?",
+      "options": [
+        "About 300 million years ago the earth had dense forests in low lying wetland areas.",
+        "Due to natural processes, like flooding, these forests got buried under the soil.",
+        "As more soil deposited over them, they were compressed.",
+        "The temperature also rose as they sank deeper and deeper."
+      ],
+      "correct_answer": 0,
       "pattern": "statement",
       "source_trace": "NCERT Class 8 Science Ch3 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
-      "difficulty_level": 3,
+      "difficulty_level": 4,
       "concepts_tested": [
-        "COAL AND PETROLEUM 35"
+        "SCIENCE 36"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Synthetic Fibres and Plastics, which statement is supported by the source text about 3.3 Natural Gas?",
+      "options": [
+        "Under high pressure and high temperature, dead plants got slowly converted to coal.",
+        "As coal contains mainly carbon, the slow process of conversion of dead vegetation into coal is called carbonisation.",
+        "Since it was formed from the remains of vegetation, coal is also called a fossil fuel.",
+        "3.2: A coal mine Coal Gas Coal gas is obtained during the processing of coal to get coke."
+      ],
+      "correct_answer": 0,
+      "pattern": "match",
+      "source_trace": "NCERT Class 8 Science Ch3 pg 1",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "3.3 Natural Gas"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Synthetic Fibres and Plastics, which statement is supported by the source text about COAL AND PETROLEUM 37?",
+      "options": [
+        "It is used Coal gas was used for street lighting for the first time in London in 1810 and in New York around 1820.",
+        "Now a days, it is used as a source of heat rather than light.",
+        "These days, bitumen, a petroleum product, is used in place of coal-tar for metalling the roads.",
+        "3.3: Coal tar When heated in air, coal burns and produces mainly carbon dioxide gas."
+      ],
+      "correct_answer": 0,
+      "pattern": "not_type",
+      "source_trace": "NCERT Class 8 Science Ch3 pg 2",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 5,
+      "concepts_tested": [
+        "COAL AND PETROLEUM 37"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Synthetic Fibres and Plastics, which statement is supported by the source text about 3.4 Some Natural Resources?",
+      "options": [
+        "Coal is processed in industry to get some useful products such as coke, coal tar and coal gas.",
+        "Coke is used in the manufacture of steel and in the extraction of many metals.",
+        "Products obtained from coal tar are used as starting materials for manufacturing various substances used in everyday life and in industry, like synthetic dyes,...",
+        "Interestingly, naphthalene balls used to repel moths and other insects are also obtained from coal tar."
+      ],
+      "correct_answer": 0,
+      "pattern": "statement",
+      "source_trace": "NCERT Class 8 Science Ch3 pg 2",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 5,
+      "concepts_tested": [
+        "3.4 Some Natural Resources"
       ]
     }
   ],
@@ -199,7 +289,7 @@
     "generation_method": "local_source_only_extractive_decode"
   },
   "content_model": "clearupsc_textbook_decoded_from_source_v1",
-  "decode_status": "textbook_decoded",
+  "decode_status": "textbook_verified",
   "source": {
     "book": "NCERT Class 8 Science",
     "chapter": 3,
@@ -211,5 +301,5 @@
   "source_trace": "NCERT Class 8 Science | Chapter 3: Synthetic Fibres and Plastics | https://ncert.nic.in/textbook/pdf/hesc103.pdf | sha256:0b2ed5cca40343287a51dfc177aeb0bb0a0c5732f852970a8752ee6a8ca8f134",
   "raw_text_path": "data/study/textbook-first/raw-text/gs3_sci_class8_science_ch03_synthetic_fibres_and_plastics.txt",
   "generated_by": "local_source_only_extractive_decode",
-  "generated_at": "2026-05-26T19:54:37.587Z"
+  "generated_at": "2026-05-26T20:27:46.231Z"
 }

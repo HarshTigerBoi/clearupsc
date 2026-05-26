@@ -136,7 +136,7 @@
       "source_trace": "NCERT Class 10 Democratic Politics II Ch4 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
-      "difficulty_level": 3,
+      "difficulty_level": 1,
       "concepts_tested": [
         "1 Parties contest elections. In most"
       ]
@@ -150,7 +150,7 @@
         "Political parties are easily one of the most visible institutions in a democracy."
       ],
       "correct_answer": 0,
-      "pattern": "statement",
+      "pattern": "match",
       "source_trace": "NCERT Class 10 Democratic Politics II Ch4 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
@@ -204,13 +204,103 @@
         "Meaning A political party is a group of people who come together to contest elections and hold power in the government."
       ],
       "correct_answer": 0,
+      "pattern": "match",
+      "source_trace": "NCERT Class 10 Democratic Politics II Ch4 pg 1",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "5 Those parties that lose in the"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Gender Religion and Caste, which statement is supported by the source text about 6 Parties shape public opinion.?",
+      "options": [
+        "They agree on some policies and programmes for the society with a view to promote the collective good.",
+        "Since there can be different views on what is good for So, you agree with me.",
+        "Election Commission has officially banned wall writing by parties during election times.",
+        "Most political parties argue that was the cheapest way for their campaign."
+      ],
+      "correct_answer": 0,
+      "pattern": "not_type",
+      "source_trace": "NCERT Class 10 Democratic Politics II Ch4 pg 1",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "6 Parties shape public opinion."
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Gender Religion and Caste, which statement is supported by the source text about 7 Parties provide people access?",
+      "options": [
+        "These election times used to create amazing graffiti on the walls.",
+        "(1) (2) (3) (4) © (1) M Govarthan (2) A Muralidharan (3) M Moorthy (4) T Singaravelou, The Hindu",
+        "48 D e m o c r a t i c P o l i t i c s Partisan: A person who is...",
+        "Partisanship is marked by a tendency to take a side and inability to take a balanced view on an issue. © RK Laxman -..."
+      ],
+      "correct_answer": 0,
       "pattern": "statement",
       "source_trace": "NCERT Class 10 Democratic Politics II Ch4 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
-      "difficulty_level": 3,
+      "difficulty_level": 4,
       "concepts_tested": [
-        "5 Those parties that lose in the"
+        "7 Parties provide people access"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Gender Religion and Caste, which statement is supported by the source text about 26 November 2012,?",
+      "options": [
+        "They seek to implement these policies by winning popular support through elections.",
+        "Thus, parties reflect fundamental political divisions in a society.",
+        "Parties are about a part of the society and thus, involve partisanship.",
+        "Thus, a party is known by which part it stands for, which policies it supports and whose interests it upholds."
+      ],
+      "correct_answer": 0,
+      "pattern": "match",
+      "source_trace": "NCERT Class 10 Democratic Politics II Ch4 pg 2",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "26 November 2012,"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Gender Religion and Caste, which statement is supported by the source text about 2019 Lok Sabha election, it won 19.5%?",
+      "options": [
+        "A political party has three components:  the leaders,  the active members and  the followers Functions What does a political party do?",
+        "Basically, political parties fill political offices and exercise political power.",
+        "Parties do so by performing a series of functions: 1 Parties contest elections.",
+        "In most democracies, elections are fought mainly among the candidates put up by political parties."
+      ],
+      "correct_answer": 0,
+      "pattern": "not_type",
+      "source_trace": "NCERT Class 10 Democratic Politics II Ch4 pg 2",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 5,
+      "concepts_tested": [
+        "2019 Lok Sabha election, it won 19.5%"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Gender Religion and Caste, which statement is supported by the source text about (a) C A B D?",
+      "options": [
+        "In some countries, such as the USA, members and supporters of a party choose its candidates.",
+        "In other countries like India, top party leaders choose candidates for contesting elections.",
+        "2 Parties put forward different policies and programmes and the voters choose from them.",
+        "Each of us may have different opinions and views on what policies are suitable for the society."
+      ],
+      "correct_answer": 0,
+      "pattern": "statement",
+      "source_trace": "NCERT Class 10 Democratic Politics II Ch4 pg 2",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 5,
+      "concepts_tested": [
+        "(a) C A B D"
       ]
     }
   ],
@@ -220,7 +310,7 @@
     "generation_method": "local_source_only_extractive_decode"
   },
   "content_model": "clearupsc_textbook_decoded_from_source_v1",
-  "decode_status": "textbook_decoded",
+  "decode_status": "textbook_verified",
   "source": {
     "book": "NCERT Class 10 Democratic Politics II",
     "chapter": 4,
@@ -232,5 +322,5 @@
   "source_trace": "NCERT Class 10 Democratic Politics II | Chapter 4: Gender Religion and Caste | https://ncert.nic.in/textbook/pdf/jess404.pdf | sha256:848863f8ebe983fe81ffff0e19462c8059f35af97788ce6ff7393287699bf7c9",
   "raw_text_path": "data/study/textbook-first/raw-text/gs2_polity_class10_democratic_politics_ii_ch04_gender_religion_and_caste.txt",
   "generated_by": "local_source_only_extractive_decode",
-  "generated_at": "2026-05-26T19:54:13.283Z"
+  "generated_at": "2026-05-26T20:27:20.876Z"
 }

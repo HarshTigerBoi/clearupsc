@@ -115,7 +115,7 @@
       "source_trace": "NCERT Class 7 Our Environment Ch2 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
-      "difficulty_level": 3,
+      "difficulty_level": 1,
       "concepts_tested": [
         "INTERIOR OF THE EARTH"
       ]
@@ -129,7 +129,7 @@
         "Just beneath the crust is the mantle which extends up to a depth of 2900 km. below the crust."
       ],
       "correct_answer": 0,
-      "pattern": "statement",
+      "pattern": "match",
       "source_trace": "NCERT Class 7 Our Environment Ch2 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
@@ -183,13 +183,103 @@
         "Lava is actually fiery red molten magma coming out from the interior of the earth on its surface."
       ],
       "correct_answer": 0,
+      "pattern": "match",
+      "source_trace": "NCERT Class 7 Our Environment Ch2 pg 1",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "10 OUR ENVIRONMENT"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Inside Our Earth, which statement is supported by the source text about INSIDE OUR EARTH 11?",
+      "options": [
+        "When this molten lava comes on the earth’s surface, it rapidly cools down and becomes solid.",
+        "Rocks formed in such a way on the crust are called extrusive igneous rocks.",
+        "Sometimes the molten magma cools down deep inside the earth’s crust.",
+        "Solid rocks so formed are called intrusive igneous rocks."
+      ],
+      "correct_answer": 0,
+      "pattern": "not_type",
+      "source_trace": "NCERT Class 7 Our Environment Ch2 pg 1",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "INSIDE OUR EARTH 11"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Inside Our Earth, which statement is supported by the source text about Inside Our Earth?",
+      "options": [
+        "Grinding stones used to prepare paste/powder of spices and grains are made of granite.",
+        "Rocks roll down, crack, and hit each other and are broken down into small fragments.",
+        "These sediments are transported and deposited by wind, water, etc.",
+        "These loose sediments are compressed and hardened to form layers of rocks."
+      ],
+      "correct_answer": 0,
       "pattern": "statement",
       "source_trace": "NCERT Class 7 Our Environment Ch2 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
-      "difficulty_level": 3,
+      "difficulty_level": 4,
       "concepts_tested": [
-        "10 OUR ENVIRONMENT"
+        "Inside Our Earth"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Inside Our Earth, which statement is supported by the source text about Inside?",
+      "options": [
+        "These rocks may also contain fossils of plants, animals and other micro- organisms that once lived on them.",
+        "Igneous and sedimentary rocks can change into metamorphic rocks under great heat and pressure (Fig.",
+        "For example, clay changes into slate and limestone into marble.",
+        "2.3: Sedimentary rock turned into a Metamorphic rock Fossils: The remains of the dead plants and animals trapped in the layers of rocks are..."
+      ],
+      "correct_answer": 0,
+      "pattern": "match",
+      "source_trace": "NCERT Class 7 Our Environment Ch2 pg 1",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "Inside"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Inside Our Earth, which statement is supported by the source text about Earth?",
+      "options": [
+        "Sedimentary: Latin word sedimentum meaning settle down.",
+        "Metamorphic: Greek word metamorphose meaning change of form.",
+        "Do you know? • The crust forms only 1 per cent of the volume of the earth, 84 per cent consists of the mantle...",
+        "INSIDE OUR EARTH 9 Let’s do The Taj Mahal is made of white marble The Red Fort is made of red sandstone Collect pictures..."
+      ],
+      "correct_answer": 0,
+      "pattern": "not_type",
+      "source_trace": "NCERT Class 7 Our Environment Ch2 pg 1",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 5,
+      "concepts_tested": [
+        "Earth"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Inside Our Earth, which statement is supported by the source text about INTERIOR OF THE EARTH Just?",
+      "options": [
+        "The hard rocks are used for making roads, houses and buildings.",
+        "For example, seven stones (pitthoo), hop- scotch (stapu/kit kit), five stones (gitti).",
+        "Find out some more such games by asking your grand parents, parents, neighbours, etc.",
+        "You will be surprised to know that one type of rock changes to another type under certain conditions in a cyclic manner."
+      ],
+      "correct_answer": 0,
+      "pattern": "statement",
+      "source_trace": "NCERT Class 7 Our Environment Ch2 pg 2",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 5,
+      "concepts_tested": [
+        "INTERIOR OF THE EARTH Just"
       ]
     }
   ],
@@ -199,7 +289,7 @@
     "generation_method": "local_source_only_extractive_decode"
   },
   "content_model": "clearupsc_textbook_decoded_from_source_v1",
-  "decode_status": "textbook_decoded",
+  "decode_status": "textbook_verified",
   "source": {
     "book": "NCERT Class 7 Our Environment",
     "chapter": 2,
@@ -211,5 +301,5 @@
   "source_trace": "NCERT Class 7 Our Environment | Chapter 2: Inside Our Earth | https://ncert.nic.in/textbook/pdf/gess202.pdf | sha256:cac176f4996ae79fb5d3df619524d24bc3a675368d62a13f6351f9c70ea699e8",
   "raw_text_path": "data/study/textbook-first/raw-text/gs1_geo_class7_our_environment_ch02_inside_our_earth.txt",
   "generated_by": "local_source_only_extractive_decode",
-  "generated_at": "2026-05-26T19:54:06.207Z"
+  "generated_at": "2026-05-26T20:27:13.400Z"
 }

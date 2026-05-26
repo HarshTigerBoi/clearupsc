@@ -128,7 +128,7 @@
       "source_trace": "NCERT Class 12 Indian Society Ch1 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
-      "difficulty_level": 3,
+      "difficulty_level": 1,
       "concepts_tested": [
         "1.2 A Preview of this B ook"
       ]
@@ -142,7 +142,7 @@
         "This prior knowledge or familiarity with society is both an advantage and a disadvantage for sociology, the discipline that studies society."
       ],
       "correct_answer": 0,
-      "pattern": "statement",
+      "pattern": "match",
       "source_trace": "NCERT Class 12 Indian Society Ch1 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
@@ -196,13 +196,103 @@
         "This is the ability to reflect upon yourself, to turn back your gaze (which is usually directed outward) back towards yourself."
       ],
       "correct_answer": 0,
+      "pattern": "match",
+      "source_trace": "NCERT Class 12 Indian Society Ch1 pg 1",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "Society"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Introducing Indian Society, which statement is supported by the source text about Indian Society?",
+      "options": [
+        "But this self-inspection must be critical – i.e., it should be quick to criticise and slow to praise oneself.",
+        "A comparable social map would tell you where you are located in society.",
+        "For example, as a seventeen or eighteen year old, you belong to the social group called “young people”.",
+        "People your age or younger account for about forty per cent of India’s population."
+      ],
+      "correct_answer": 0,
+      "pattern": "not_type",
+      "source_trace": "NCERT Class 12 Indian Society Ch1 pg 1",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "Indian Society"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Introducing Indian Society, which statement is supported by the source text about Andhra Pradesh?",
+      "options": [
+        "You might belong to a particular regional or linguistic community, such as a Gujarati speaker from Gujarat or a Telugu speaker from Andhra Pradesh.",
+        "Depending on your parent’s occupation and your family income, you would also be a member of an economic class, such as lower middle class...",
+        "You could be a member of a particular religious community, a caste or tribe, or other such social group.",
+        "Introducing Indian Society 3 these identities would locate you on a social map, and among a web of social relationships."
+      ],
+      "correct_answer": 0,
       "pattern": "statement",
       "source_trace": "NCERT Class 12 Indian Society Ch1 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
-      "difficulty_level": 3,
+      "difficulty_level": 4,
       "concepts_tested": [
-        "Society"
+        "Andhra Pradesh"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Introducing Indian Society, which statement is supported by the source text about Wright Mills?",
+      "options": [
+        "Sociology tells you about what kinds of groups or groupings there are in society, what their relationships are to each other, and what this...",
+        "But sociology can do more than simply help to locate you or others in this simple sense of describing the places of different social...",
+        "As C.Wright Mills, a well-known American sociologist has written, sociology can help you to map the links and connections between “personal troubles” and “social...",
+        "By personal troubles Mills means the kinds of individual worries, problems or concerns that everyone has."
+      ],
+      "correct_answer": 0,
+      "pattern": "match",
+      "source_trace": "NCERT Class 12 Indian Society Ch1 pg 2",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "Wright Mills"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Introducing Indian Society, which statement is supported by the source text about Preview of?",
+      "options": [
+        "So, for example, you may be unhappy about the way elders in your family treat you or how your brothers, sisters or friends treat...",
+        "You may be worried about your future and what sort of job you might get.",
+        "Other aspects of your individual identity may be sources of pride, tension, confidence or embarrassment in different ways.",
+        "But all of these are about one person and derive meaning from this personalised perspective."
+      ],
+      "correct_answer": 0,
+      "pattern": "not_type",
+      "source_trace": "NCERT Class 12 Indian Society Ch1 pg 2",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 5,
+      "concepts_tested": [
+        "Preview of"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Introducing Indian Society, which statement is supported by the source text about China and?",
+      "options": [
+        "A social issue, on the other hand, is about large groups and not about the individuals who make them up.",
+        "This entire book is meant to introduce you to Indian society from a sociological rather than common sense point of view.",
+        "What can be said by way of an introduction to this introduction?",
+        "Perhaps it would be appropriate at this point to indicate in advance the larger processes that were at work in shaping Indian society, processes..."
+      ],
+      "correct_answer": 0,
+      "pattern": "statement",
+      "source_trace": "NCERT Class 12 Indian Society Ch1 pg 2",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 5,
+      "concepts_tested": [
+        "China and"
       ]
     }
   ],
@@ -212,7 +302,7 @@
     "generation_method": "local_source_only_extractive_decode"
   },
   "content_model": "clearupsc_textbook_decoded_from_source_v1",
-  "decode_status": "textbook_decoded",
+  "decode_status": "textbook_verified",
   "source": {
     "book": "NCERT Class 12 Indian Society",
     "chapter": 1,
@@ -224,5 +314,5 @@
   "source_trace": "NCERT Class 12 Indian Society | Chapter 1: Introducing Indian Society | https://ncert.nic.in/textbook/pdf/lesy101.pdf | sha256:3e7e9a0e59bea4b5ff5eecf81a888ce30fc59682441338d71e9bf5b8d3a92d79",
   "raw_text_path": "data/study/textbook-first/raw-text/gs1_society_class12_indian_society_ch01_introducing_indian_society.txt",
   "generated_by": "local_source_only_extractive_decode",
-  "generated_at": "2026-05-26T19:53:47.620Z"
+  "generated_at": "2026-05-26T20:26:53.833Z"
 }

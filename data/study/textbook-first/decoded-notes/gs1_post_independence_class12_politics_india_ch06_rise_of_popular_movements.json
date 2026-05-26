@@ -136,7 +136,7 @@
       "source_trace": "NCERT Class 12 Politics in India since Independence Ch6 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
-      "difficulty_level": 3,
+      "difficulty_level": 1,
       "concepts_tested": [
         "94 Politics in India since Independence"
       ]
@@ -150,7 +150,7 @@
         "Was it necessary? • What did the imposition of Emergency mean in practice? • What were the consequences of Emergency on party politics? •..."
       ],
       "correct_answer": 0,
-      "pattern": "statement",
+      "pattern": "match",
       "source_trace": "NCERT Class 12 Politics in India since Independence Ch6 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
@@ -204,13 +204,103 @@
         "Economic context In the elections of 1971, Congress had given the slogan of garibi hatao (remove poverty)."
       ],
       "correct_answer": 0,
+      "pattern": "match",
+      "source_trace": "NCERT Class 12 Politics in India since Independence Ch6 pg 1",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "100 Politics in India since Independence 100"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Rise of Popular Movements, which statement is supported by the source text about 102 Politics in India since Independence?",
+      "options": [
+        "However, the social and economic condition in the country did not improve much after 1971-72.",
+        "The Bangladesh crisis had put a heavy strain on India’s economy.",
+        "About eight million people crossed over the East Pakistan border into India.",
+        "After the war the U.S government stopped all aid to India."
+      ],
+      "correct_answer": 0,
+      "pattern": "not_type",
+      "source_trace": "NCERT Class 12 Politics in India since Independence Ch6 pg 1",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "102 Politics in India since Independence"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Rise of Popular Movements, which statement is supported by the source text about 15 August 1975 by?",
+      "options": [
+        "In the international market, oil prices increased manifold during this period.",
+        "This led to an all-round increase in prices of commodities.",
+        "Prices increased by 23 per cent in 1973 and 30 per cent in 1974.",
+        "Such a high level of inflation caused much hardship to the people."
+      ],
+      "correct_answer": 0,
       "pattern": "statement",
       "source_trace": "NCERT Class 12 Politics in India since Independence Ch6 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
-      "difficulty_level": 3,
+      "difficulty_level": 4,
       "concepts_tested": [
-        "100 Politics in India since Independence 100"
+        "15 August 1975 by"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Rise of Popular Movements, which statement is supported by the source text about 104 Politics in India since Independence?",
+      "options": [
+        "Industrial growth was low and unemployment was very high, particularly in the rural areas.",
+        "In order to reduce expenditure the government froze the salaries of its employees.",
+        "This caused further dissatisfaction among government employees.",
+        "This resulted in a sharp decline in agricultural productivity."
+      ],
+      "correct_answer": 0,
+      "pattern": "match",
+      "source_trace": "NCERT Class 12 Politics in India since Independence Ch6 pg 1",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "104 Politics in India since Independence"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Rise of Popular Movements, which statement is supported by the source text about 29 March 1977?",
+      "options": [
+        "Credit: Abu PM says 6chapter the crisis of Democratic orDer",
+        "94 Politics in India since Independence There was a general atmosphere of dissatisfaction with the prevailing economic situation all over the country.",
+        "In such a context non- Congress opposition parties were able to organise popular protests effectively.",
+        "Instances of students’ unrests that had persisted from the late 1960s became more pronounced in this period."
+      ],
+      "correct_answer": 0,
+      "pattern": "not_type",
+      "source_trace": "NCERT Class 12 Politics in India since Independence Ch6 pg 1",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 5,
+      "concepts_tested": [
+        "29 March 1977"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Rise of Popular Movements, which statement is supported by the source text about 106 Politics in India since Independence?",
+      "options": [
+        "There was also an increase in the activities of Marxist groups who did not believe in parliamentary politics.",
+        "These groups had taken to arms and insurgent techniques for the overthrow of the capitalist order and the established political system.",
+        "Known as the Marxist-Leninist (now Maoist) groups or Naxalites, they were particularly strong in West Bengal, where the State government took stringent measures to...",
+        "Gujarat and Bihar movements Students’ protests in Gujarat and Bihar, both of which were Congress ruled States, had far reaching impact on the politics..."
+      ],
+      "correct_answer": 0,
+      "pattern": "statement",
+      "source_trace": "NCERT Class 12 Politics in India since Independence Ch6 pg 2",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 5,
+      "concepts_tested": [
+        "106 Politics in India since Independence"
       ]
     }
   ],
@@ -220,7 +310,7 @@
     "generation_method": "local_source_only_extractive_decode"
   },
   "content_model": "clearupsc_textbook_decoded_from_source_v1",
-  "decode_status": "textbook_decoded",
+  "decode_status": "textbook_verified",
   "source": {
     "book": "NCERT Class 12 Politics in India since Independence",
     "chapter": 6,
@@ -232,5 +322,5 @@
   "source_trace": "NCERT Class 12 Politics in India since Independence | Chapter 6: Rise of Popular Movements | https://ncert.nic.in/textbook/pdf/leps206.pdf | sha256:c8c4df225cdc5014b64cc50f3a4e7083b4bda95983ea9f6644662a07e30e1780",
   "raw_text_path": "data/study/textbook-first/raw-text/gs1_post_independence_class12_politics_india_ch06_rise_of_popular_movements.txt",
   "generated_by": "local_source_only_extractive_decode",
-  "generated_at": "2026-05-26T19:53:46.923Z"
+  "generated_at": "2026-05-26T20:26:53.092Z"
 }

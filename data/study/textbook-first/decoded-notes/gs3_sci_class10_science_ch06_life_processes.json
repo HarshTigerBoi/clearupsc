@@ -128,7 +128,7 @@
       "source_trace": "NCERT Class 10 Science Ch6 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
-      "difficulty_level": 3,
+      "difficulty_level": 1,
       "concepts_tested": [
         "6 CHAPTER"
       ]
@@ -142,7 +142,7 @@
         "A possible answer is that we think of movement as a response to a change in the environment of the organism."
       ],
       "correct_answer": 0,
-      "pattern": "statement",
+      "pattern": "match",
       "source_trace": "NCERT Class 10 Science Ch6 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
@@ -196,13 +196,103 @@
         "Control and Coordination 101 object is an urgent and dangerous situation for us."
       ],
       "correct_answer": 0,
+      "pattern": "match",
+      "source_trace": "NCERT Class 10 Science Ch6 pg 1",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "6.1.4 How does the Nervous Tissue cause Action?"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Life Processes, which statement is supported by the source text about Q U E S T I O N S?",
+      "options": [
+        "All information from our environment is detected by the specialised tips of some nerve cells.",
+        "These receptors are usually located in our sense organs, such as the inner ear, the nose, the tongue, and so on.",
+        "So gustatory receptors will detect taste while olfactory receptors will detect smell.",
+        "This information, acquired at the end of the dendritic tip of a nerve cell [Fig."
+      ],
+      "correct_answer": 0,
+      "pattern": "not_type",
+      "source_trace": "NCERT Class 10 Science Ch6 pg 1",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "Q U E S T I O N S"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Life Processes, which statement is supported by the source text about 6.2.1 Immediate Response to Stimulus?",
+      "options": [
+        "6.1 (a)], sets off a chemical reaction that creates an electrical impulse.",
+        "This impulse travels from the dendrite to the cell body, and then along the axon to its end.",
+        "At the end of the axon, the electrical impulse sets off the release of some chemicals.",
+        "These chemicals cross the gap, or synapse, and start a similar electrical impulse in a dendrite of the next neuron."
+      ],
+      "correct_answer": 0,
       "pattern": "statement",
       "source_trace": "NCERT Class 10 Science Ch6 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
-      "difficulty_level": 3,
+      "difficulty_level": 4,
       "concepts_tested": [
-        "6.1.4 How does the Nervous Tissue cause Action?"
+        "6.2.1 Immediate Response to Stimulus"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Life Processes, which statement is supported by the source text about 6.2.2 Movement Due to Growth?",
+      "options": [
+        "This is a general scheme of how nervous impulses travel in the body.",
+        "A similar synapse finally allows delivery of such impulses from neurons to other cells, such as muscles cells or gland [Fig.",
+        "It is thus no surprise that nervous tissue is made up of an organised network of nerve cells or neurons, and is specialised for...",
+        "6.1 (a) and identify the parts of a neuron (i) where information is acquired, (ii) through which information travels as an electrical impulse, and..."
+      ],
+      "correct_answer": 0,
+      "pattern": "match",
+      "source_trace": "NCERT Class 10 Science Ch6 pg 1",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "6.2.2 Movement Due to Growth"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Life Processes, which statement is supported by the source text about E X E R C I S E S?",
+      "options": [
+        "How does it taste? n Block your nose by pressing it between your thumb and index finger.",
+        "Is there any difference in its taste? n While eating lunch, block your nose in the same way and notice if you can fully...",
+        "Is there a difference in how sugar and food taste if your nose is blocked?",
+        "Read and talk about possible explanations for these kinds of differences."
+      ],
+      "correct_answer": 0,
+      "pattern": "not_type",
+      "source_trace": "NCERT Class 10 Science Ch6 pg 1",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 5,
+      "concepts_tested": [
+        "E X E R C I S E S"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Life Processes, which statement is supported by the source text about Life Processes?",
+      "options": [
+        "Do you come across a similar situation when you have a cold?",
+        "Figure 6.1 Figure 6.1 Figure 6.1 Figure 6.1 Figure 6.1 (a) Structure of neuron, (b) Neuromuscular junction (a) (b)",
+        "Science 102 6.1.1 What happens in Reflex Actions? ‘Reflex’ is a word we use very commonly when we talk about some sudden action in...",
+        "We say ‘I jumped out of the way of the bus reflexly’, or ‘I pulled my hand back from the flame reflexly’, or ‘I..."
+      ],
+      "correct_answer": 0,
+      "pattern": "statement",
+      "source_trace": "NCERT Class 10 Science Ch6 pg 1",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 5,
+      "concepts_tested": [
+        "Life Processes"
       ]
     }
   ],
@@ -212,7 +302,7 @@
     "generation_method": "local_source_only_extractive_decode"
   },
   "content_model": "clearupsc_textbook_decoded_from_source_v1",
-  "decode_status": "textbook_decoded",
+  "decode_status": "textbook_verified",
   "source": {
     "book": "NCERT Class 10 Science",
     "chapter": 6,
@@ -224,5 +314,5 @@
   "source_trace": "NCERT Class 10 Science | Chapter 6: Life Processes | https://ncert.nic.in/textbook/pdf/jesc106.pdf | sha256:bf4ddfa158e117a71a32b2f19c8fcd87140ef325e8672faad5d4a599d36ea913",
   "raw_text_path": "data/study/textbook-first/raw-text/gs3_sci_class10_science_ch06_life_processes.txt",
   "generated_by": "local_source_only_extractive_decode",
-  "generated_at": "2026-05-26T19:54:25.525Z"
+  "generated_at": "2026-05-26T20:27:33.873Z"
 }

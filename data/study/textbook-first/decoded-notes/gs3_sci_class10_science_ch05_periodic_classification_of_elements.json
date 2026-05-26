@@ -132,7 +132,7 @@
       "source_trace": "NCERT Class 10 Science Ch5 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
-      "difficulty_level": 3,
+      "difficulty_level": 1,
       "concepts_tested": [
         "5 CHAPTER"
       ]
@@ -146,7 +146,7 @@
         "But a plant that is not visibly growing is still alive, and some animals can breathe without visible movement."
       ],
       "correct_answer": 0,
-      "pattern": "statement",
+      "pattern": "match",
       "source_trace": "NCERT Class 10 Science Ch5 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
@@ -200,13 +200,103 @@
         "5.1 WHA 5.1 WHA 5.1 WHA 5.1 WHA 5.1 WHAT ARE LIFE PROCESSES?"
       ],
       "correct_answer": 0,
+      "pattern": "match",
+      "source_trace": "NCERT Class 10 Science Ch5 pg 1",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "5.2.2 Heterotrophic Nutrition"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Periodic Classification of Elements, which statement is supported by the source text about 5.2.3 How do Organisms obtain their Nutrition??",
+      "options": [
+        "The maintenance functions of living organisms must go on even when they are not doing anything particular.",
+        "Science 80 class, even if we are just asleep, this maintenance job has to go on.",
+        "The processes which together perform this maintenance job are life processes.",
+        "Since these maintenance processes are needed to prevent damage and break-down, energy is needed for them."
+      ],
+      "correct_answer": 0,
+      "pattern": "not_type",
+      "source_trace": "NCERT Class 10 Science Ch5 pg 1",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "5.2.3 How do Organisms obtain their Nutrition?"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Periodic Classification of Elements, which statement is supported by the source text about 5.2.4 Nutrition in Human Beings?",
+      "options": [
+        "This energy comes from outside the body of the individual organism.",
+        "So there must be a process to transfer a source of energy from outside the body of the organism, which we call food, to...",
+        "If the body size of the organisms is to grow, additional raw material will also be needed from outside.",
+        "Since life on earth depends on carbon- based molecules, most of these food sources are also carbon-based."
+      ],
+      "correct_answer": 0,
       "pattern": "statement",
       "source_trace": "NCERT Class 10 Science Ch5 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
-      "difficulty_level": 3,
+      "difficulty_level": 4,
       "concepts_tested": [
-        "5.2.2 Heterotrophic Nutrition"
+        "5.2.4 Nutrition in Human Beings"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Periodic Classification of Elements, which statement is supported by the source text about 5.3 RESPIR 5.3 RESPIR 5.3 RESPIR 5.3 RESPIR 5.3 RESPIRA A A A ATION TION TION TION TION?",
+      "options": [
+        "Depending on the complexity of these carbon sources, different organisms can then use different kinds of nutritional processes.",
+        "The outside sources of energy could be quite varied, since the environment is not under the control of the individual organism.",
+        "These sources of energy, therefore, need to be broken down or built up in the body, and must be finally converted to a uniform...",
+        "For this, a series of chemical reactions in the body are necessary."
+      ],
+      "correct_answer": 0,
+      "pattern": "match",
+      "source_trace": "NCERT Class 10 Science Ch5 pg 1",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "5.3 RESPIR 5.3 RESPIR 5.3 RESPIR 5.3 RESPIR 5.3 RESPIRA A A A ATION TION TION TION TION"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Periodic Classification of Elements, which statement is supported by the source text about 5.4.1 Transportation in Human Beings?",
+      "options": [
+        "Oxidising-reducing reactions are some of the most common chemical means to break-down molecules.",
+        "For this, many organisms use oxygen sourced from outside the body.",
+        "The process of acquiring oxygen from outside the body, and to use it in the process of break-down of food sources for cellular needs,...",
+        "In the case of a single-celled organism, no specific organs for taking in food, exchange of gases or removal of wastes may be needed..."
+      ],
+      "correct_answer": 0,
+      "pattern": "not_type",
+      "source_trace": "NCERT Class 10 Science Ch5 pg 1",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 5,
+      "concepts_tested": [
+        "5.4.1 Transportation in Human Beings"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Periodic Classification of Elements, which statement is supported by the source text about 5.4.2 Transportation in Plants?",
+      "options": [
+        "But what happens when the body size of the organism increases and the body design becomes more complex?",
+        "In multi-cellular organisms, all the cells may not be in direct contact with the surrounding environment.",
+        "Thus, simple diffusion will not meet the requirements of all the cells.",
+        "We have seen previously how, in multi-cellular organisms, various body parts have specialised in the functions they perform."
+      ],
+      "correct_answer": 0,
+      "pattern": "statement",
+      "source_trace": "NCERT Class 10 Science Ch5 pg 1",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 5,
+      "concepts_tested": [
+        "5.4.2 Transportation in Plants"
       ]
     }
   ],
@@ -216,7 +306,7 @@
     "generation_method": "local_source_only_extractive_decode"
   },
   "content_model": "clearupsc_textbook_decoded_from_source_v1",
-  "decode_status": "textbook_decoded",
+  "decode_status": "textbook_verified",
   "source": {
     "book": "NCERT Class 10 Science",
     "chapter": 5,
@@ -228,5 +318,5 @@
   "source_trace": "NCERT Class 10 Science | Chapter 5: Periodic Classification of Elements | https://ncert.nic.in/textbook/pdf/jesc105.pdf | sha256:685ec7228afeb79d7bc9b989648e381e5eb4b5a6d290d6a13374489c9284054f",
   "raw_text_path": "data/study/textbook-first/raw-text/gs3_sci_class10_science_ch05_periodic_classification_of_elements.txt",
   "generated_by": "local_source_only_extractive_decode",
-  "generated_at": "2026-05-26T19:54:25.303Z"
+  "generated_at": "2026-05-26T20:27:33.632Z"
 }

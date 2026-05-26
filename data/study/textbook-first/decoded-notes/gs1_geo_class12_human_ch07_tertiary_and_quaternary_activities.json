@@ -128,7 +128,7 @@
       "source_trace": "NCERT Class 12 Fundamentals of Human Geography Ch7 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
-      "difficulty_level": 3,
+      "difficulty_level": 1,
       "concepts_tested": [
         "TRANSPOR TRANSPOR TRANSPOR TRANSPOR TRANSPORT T T T T"
       ]
@@ -142,7 +142,7 @@
         "Transport provides the network of links and carriers through which trade takes place."
       ],
       "correct_answer": 0,
-      "pattern": "statement",
+      "pattern": "match",
       "source_trace": "NCERT Class 12 Fundamentals of Human Geography Ch7 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
@@ -196,13 +196,103 @@
         "International movement of goods is handled by ocean freighters."
       ],
       "correct_answer": 0,
+      "pattern": "match",
+      "source_trace": "NCERT Class 12 Fundamentals of Human Geography Ch7 pg 1",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "AIR TRANSPORT"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Tertiary and Quaternary Activities, which statement is supported by the source text about COMMUNICATIONS?",
+      "options": [
+        "Road transport is cheaper and faster over short distances and for door-to- door services.",
+        "Railways are most suited for large volumes of bulky materials over long distances within a country.",
+        "High-value, light and perishable goods are best moved by airways.",
+        "In a well-managed transport system, these various modes complement each other."
+      ],
+      "correct_answer": 0,
+      "pattern": "not_type",
+      "source_trace": "NCERT Class 12 Fundamentals of Human Geography Ch7 pg 1",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "COMMUNICATIONS"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Tertiary and Quaternary Activities, which statement is supported by the source text about Tertiary and Quaternary Activities?",
+      "options": [
+        "Land Transport Most of the movement of goods and services takes place over land.",
+        "Have you ever seen a bride being carried on a palanquin (palki/doli) by four persons (Kahars in north India).",
+        "Have you seen mules, horses and camels, carrying loads of cargo in rural areas?",
+        "With the invention of the wheel, the use of carts and wagons became important."
+      ],
+      "correct_answer": 0,
       "pattern": "statement",
       "source_trace": "NCERT Class 12 Fundamentals of Human Geography Ch7 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
-      "difficulty_level": 3,
+      "difficulty_level": 4,
       "concepts_tested": [
-        "AIR TRANSPORT"
+        "Tertiary and Quaternary Activities"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Tertiary and Quaternary Activities, which statement is supported by the source text about Tertiary?",
+      "options": [
+        "The revolution in transport came about only after the invention of the steam engine in the eighteenth century.",
+        "Perhaps the first public railway line was opened in 1825 between Stockton and Darlington in northern England and then onwards, railways became the most...",
+        "It opened up continental interiors for commercial grain farming, mining and manufacturing in U.S.A.",
+        "The invention of the internal combustion engine revolutionised road transport in terms of road quality and vehicles (motor cars and trucks) plying over them."
+      ],
+      "correct_answer": 0,
+      "pattern": "match",
+      "source_trace": "NCERT Class 12 Fundamentals of Human Geography Ch7 pg 1",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "Tertiary"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Tertiary and Quaternary Activities, which statement is supported by the source text about Quaternary?",
+      "options": [
+        "Among the newer developments in land transportation are pipelines, ropeways and cableways.",
+        "Liquids like mineral oil, water, sludge and sewers are transported by pipelines.",
+        "The great freight carriers are the railways, ocean vessels, barges, boats and motor trucks and pipelines.",
+        "In general, the old and elementary forms like the human porter, pack animal, cart or wagon are the most expensive means of transportation and..."
+      ],
+      "correct_answer": 0,
+      "pattern": "not_type",
+      "source_trace": "NCERT Class 12 Fundamentals of Human Geography Ch7 pg 1",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 5,
+      "concepts_tested": [
+        "Quaternary"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Tertiary and Quaternary Activities, which statement is supported by the source text about Activities?",
+      "options": [
+        "They are important in supplementing modern channels and carriers which penetrate the interiors in large countries.",
+        "In the densely populated districts of India and China, overland transport still takes place by human porters or carts drawn or pushed by humans.",
+        "Pack Animals Horses are used as a draught animal even in the Western countries.",
+        "Dogs and reindeer are used in North America, North Europe and Siberia to draw sledges over snow-covered ground."
+      ],
+      "correct_answer": 0,
+      "pattern": "statement",
+      "source_trace": "NCERT Class 12 Fundamentals of Human Geography Ch7 pg 1",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 5,
+      "concepts_tested": [
+        "Activities"
       ]
     }
   ],
@@ -212,7 +302,7 @@
     "generation_method": "local_source_only_extractive_decode"
   },
   "content_model": "clearupsc_textbook_decoded_from_source_v1",
-  "decode_status": "textbook_decoded",
+  "decode_status": "textbook_verified",
   "source": {
     "book": "NCERT Class 12 Fundamentals of Human Geography",
     "chapter": 7,
@@ -224,5 +314,5 @@
   "source_trace": "NCERT Class 12 Fundamentals of Human Geography | Chapter 7: Tertiary and Quaternary Activities | https://ncert.nic.in/textbook/pdf/legy107.pdf | sha256:6101b8c1f2c809c4e54cb19b7978e0fe851e294f535355790cdb6b2456108a25",
   "raw_text_path": "data/study/textbook-first/raw-text/gs1_geo_class12_human_ch07_tertiary_and_quaternary_activities.txt",
   "generated_by": "local_source_only_extractive_decode",
-  "generated_at": "2026-05-26T19:53:52.558Z"
+  "generated_at": "2026-05-26T20:26:59.120Z"
 }

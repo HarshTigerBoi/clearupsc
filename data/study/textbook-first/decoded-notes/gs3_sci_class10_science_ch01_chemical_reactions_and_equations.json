@@ -115,7 +115,7 @@
       "source_trace": "NCERT Class 10 Science Ch1 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
-      "difficulty_level": 3,
+      "difficulty_level": 1,
       "concepts_tested": [
         "1 CHAPTER"
       ]
@@ -129,7 +129,7 @@
         "Figure 1.1 Burning of a magnesium ribbon in air and collection of magnesium oxide in a watch-glass Activity 1.1 Activity 1.1 Activity 1.1 Activity..."
       ],
       "correct_answer": 0,
-      "pattern": "statement",
+      "pattern": "match",
       "source_trace": "NCERT Class 10 Science Ch1 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
@@ -183,13 +183,103 @@
         "The word-equation for the above reaction would be – Magnesium + Oxygen → Magnesium oxide (1.1) (Reactants) (Product) The substances that undergo chemical change..."
       ],
       "correct_answer": 0,
+      "pattern": "match",
+      "source_trace": "NCERT Class 10 Science Ch1 pg 1",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "Zn + H2SO4 → ZnSO4 + H2 (1.3)"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Chemical Reactions and Equations, which statement is supported by the source text about Fe + H2O → Fe3O4 + H2 (1.4)?",
+      "options": [
+        "The new substance is magnesium oxide, formed during the reaction, as a product.",
+        "A word-equation shows change of reactants to products through an arrow placed between them.",
+        "The reactants are written on the left-hand side (LHS) with a plus sign (+) between them.",
+        "Similarly, products are written on the right-hand side (RHS) with a plus sign (+) between them."
+      ],
+      "correct_answer": 0,
+      "pattern": "not_type",
+      "source_trace": "NCERT Class 10 Science Ch1 pg 1",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "Fe + H2O → Fe3O4 + H2 (1.4)"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Chemical Reactions and Equations, which statement is supported by the source text about Fe + H2O → Fe3O4 + H2 (1.5)?",
+      "options": [
+        "The arrowhead points towards the products, and shows the direction of the reaction.",
+        "You must have observed that magnesium ribbon burns with a dazzling white flame and changes into a white powder.",
+        "It is formed due to the reaction between magnesium and oxygen present in the air.",
+        "Chemical Reactions and Equations 3 1.1.1 Writing a Chemical Equation Is there any other shorter way for representing chemical equations?"
+      ],
+      "correct_answer": 0,
       "pattern": "statement",
       "source_trace": "NCERT Class 10 Science Ch1 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
-      "difficulty_level": 3,
+      "difficulty_level": 4,
       "concepts_tested": [
-        "Zn + H2SO4 → ZnSO4 + H2 (1.3)"
+        "Fe + H2O → Fe3O4 + H2 (1.5)"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Chemical Reactions and Equations, which statement is supported by the source text about Fe + 4 H2O → Fe3O4 + H2?",
+      "options": [
+        "Chemical equations can be made more concise and useful if we use chemical formulae instead of words.",
+        "If you recall formulae of magnesium, oxygen and magnesium oxide, the above word-equation can be written as – Mg + O2 → MgO (1.2)...",
+        "Is the number of atoms of each element the same on both the sides?",
+        "If not, then the equation is unbalanced because the mass is not the same on both sides of the equation."
+      ],
+      "correct_answer": 0,
+      "pattern": "match",
+      "source_trace": "NCERT Class 10 Science Ch1 pg 2",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "Fe + 4 H2O → Fe3O4 + H2"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Chemical Reactions and Equations, which statement is supported by the source text about Fe + 4 H2O → Fe3O4 + 4 H2?",
+      "options": [
+        "Such a chemical equation is a skeletal chemical equation for a reaction.",
+        "Equation (1.2) is a skeletal chemical equation for the burning of magnesium in air.",
+        "1.1.2 Balanced Chemical Equations Recall the law of conservation of mass that you studied in Class IX; mass can neither be created nor destroyed...",
+        "That is, the total mass of the elements present in the products of a chemical reaction has to be equal to the total mass..."
+      ],
+      "correct_answer": 0,
+      "pattern": "not_type",
+      "source_trace": "NCERT Class 10 Science Ch1 pg 2",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 5,
+      "concepts_tested": [
+        "Fe + 4 H2O → Fe3O4 + 4 H2"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Chemical Reactions and Equations, which statement is supported by the source text about 3 Fe + 4 H2O → Fe3O4 + 4 H2 (1.8)?",
+      "options": [
+        "In other words, the number of atoms of each element remains the same, before and after a chemical reaction.",
+        "Hence, we need to balance a skeletal chemical equation.",
+        "Let us learn about balancing a chemical equation step by step.",
+        "The word-equation for Activity 1.3 may be represented as – Zinc + Sulphuric acid → Zinc sulphate + Hydrogen The above word-equation may be..."
+      ],
+      "correct_answer": 0,
+      "pattern": "statement",
+      "source_trace": "NCERT Class 10 Science Ch1 pg 2",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 5,
+      "concepts_tested": [
+        "3 Fe + 4 H2O → Fe3O4 + 4 H2 (1.8)"
       ]
     }
   ],
@@ -199,7 +289,7 @@
     "generation_method": "local_source_only_extractive_decode"
   },
   "content_model": "clearupsc_textbook_decoded_from_source_v1",
-  "decode_status": "textbook_decoded",
+  "decode_status": "textbook_verified",
   "source": {
     "book": "NCERT Class 10 Science",
     "chapter": 1,
@@ -211,5 +301,5 @@
   "source_trace": "NCERT Class 10 Science | Chapter 1: Chemical Reactions and Equations | https://ncert.nic.in/textbook/pdf/jesc101.pdf | sha256:9d58fa614b2d1064f4ef13423eaf85155b0efc5e74bdf3e8c5e6f15f1b742d36",
   "raw_text_path": "data/study/textbook-first/raw-text/gs3_sci_class10_science_ch01_chemical_reactions_and_equations.txt",
   "generated_by": "local_source_only_extractive_decode",
-  "generated_at": "2026-05-26T19:54:24.395Z"
+  "generated_at": "2026-05-26T20:27:32.584Z"
 }

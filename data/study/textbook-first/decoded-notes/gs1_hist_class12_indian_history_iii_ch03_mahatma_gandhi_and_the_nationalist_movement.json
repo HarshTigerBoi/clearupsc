@@ -136,7 +136,7 @@
       "source_trace": "NCERT Class 12 Themes in Indian History III Ch3 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
-      "difficulty_level": 3,
+      "difficulty_level": 1,
       "concepts_tested": [
         "THEMES IN INDIAN HISTORY – PART III 286"
       ]
@@ -150,7 +150,7 @@
         "This chapter analyses Gandhiji’s activities in India during the crucial period 1915-1948."
       ],
       "correct_answer": 0,
-      "pattern": "statement",
+      "pattern": "match",
       "source_trace": "NCERT Class 12 Themes in Indian History III Ch3 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
@@ -204,13 +204,103 @@
         "The three were known as “Lal, Bal and Pal”, the alliteration conveying the all-India character of their struggle, since their native provinces were very..."
       ],
       "correct_answer": 0,
+      "pattern": "match",
+      "source_trace": "NCERT Class 12 Themes in Indian History III Ch3 pg 1",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "THEMES IN INDIAN HISTORY – PART III 288"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Mahatma Gandhi and the Nationalist Movement, which statement is supported by the source text about THEMES IN INDIAN HISTORY – PART III 290?",
+      "options": [
+        "Where these leaders advocated militant opposition to colonial rule, there was a group of “Moderates” who preferred a more gradual and persuasive approach.",
+        "Among these Moderates was Gandhiji’s acknowledged political mentor, Gopal Krishna Gokhale, as well as Mohammad Ali Jinnah, who, like Gandhiji, was a lawyer of...",
+        "On Gokhale’s advice, Gandhiji spent a year travelling around British India, getting to know the land and its peoples.",
+        "His first major public appearance was at the opening of the Banaras Hindu University (BHU) in February 1916."
+      ],
+      "correct_answer": 0,
+      "pattern": "not_type",
+      "source_trace": "NCERT Class 12 Themes in Indian History III Ch3 pg 1",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "THEMES IN INDIAN HISTORY – PART III 290"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Mahatma Gandhi and the Nationalist Movement, which statement is supported by the source text about 2.1 Knitting a popular movement?",
+      "options": [
+        "11.2 Mahatma Gandhi in Johannesburg, South Africa, February 1908 MAHATMA GANDHI AND THE NATIONALIST MOVEMENT",
+        "THEMES IN INDIAN HISTORY – PART III 288 this event were the princes and philanthropists whose donations had contributed to the founding of the...",
+        "Also present were important leaders of the Congress, such as Annie Besant.",
+        "Compared to these dignitaries, Gandhiji was relatively unknown."
+      ],
+      "correct_answer": 0,
       "pattern": "statement",
       "source_trace": "NCERT Class 12 Themes in Indian History III Ch3 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
-      "difficulty_level": 3,
+      "difficulty_level": 4,
       "concepts_tested": [
-        "THEMES IN INDIAN HISTORY – PART III 288"
+        "2.1 Knitting a popular movement"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Mahatma Gandhi and the Nationalist Movement, which statement is supported by the source text about 2.2 A people’s leader?",
+      "options": [
+        "He had been invited on account of his work in South Africa, rather than his status within India.",
+        "When his turn came to speak, Gandhiji charged the Indian elite with a lack of concern for the labouring poor.",
+        "The opening of the BHU, he said, was “certainly a most gorgeous show”.",
+        "But he worried about the contrast between the “richly bedecked noblemen” present and “millions of the poor” Indians who were absent."
+      ],
+      "correct_answer": 0,
+      "pattern": "match",
+      "source_trace": "NCERT Class 12 Themes in Indian History III Ch3 pg 2",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "2.2 A people’s leader"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Mahatma Gandhi and the Nationalist Movement, which statement is supported by the source text about THEMES IN INDIAN HISTORY – PART III 292?",
+      "options": [
+        "Gandhiji told the privileged invitees that “there is no salvation for India unless you strip yourself of this jewellery and hold it in trust...",
+        "Neither the lawyers, nor the doctors, nor the rich landlords are going to secure it.” The opening of the BHU was an occasion for...",
+        "But rather than adopt a tone of self-congratulation, Gandhiji chose instead to remind those present of the peasants and workers who constituted a majority...",
+        "Gandhiji’s speech at Banaras in February 1916 was, at one level, merely a statement of fact – namely, that Indian nationalism was an elite..."
+      ],
+      "correct_answer": 0,
+      "pattern": "not_type",
+      "source_trace": "NCERT Class 12 Themes in Indian History III Ch3 pg 2",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 5,
+      "concepts_tested": [
+        "THEMES IN INDIAN HISTORY – PART III 292"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Mahatma Gandhi and the Nationalist Movement, which statement is supported by the source text about YOUNG INDIA, I3 NOVEMBER 1924?",
+      "options": [
+        "But, at another level, it was also a statement of intent – the first public announcement of Gandhiji’s own desire to make Indian nationalism...",
+        "In the last month of that year, Gandhiji was presented with an opportunity to put his precepts into practice.",
+        "At the annual Congress, held in Lucknow in December 1916, he was approached by a peasant from Champaran in Bihar, who told him about...",
+        "The Making and Unmaking of Non-cooperation Mahatma Gandhi was to spend much of 1917 in Champaran, seeking to obtain for the peasants security of..."
+      ],
+      "correct_answer": 0,
+      "pattern": "statement",
+      "source_trace": "NCERT Class 12 Themes in Indian History III Ch3 pg 2",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 5,
+      "concepts_tested": [
+        "YOUNG INDIA, I3 NOVEMBER 1924"
       ]
     }
   ],
@@ -220,7 +310,7 @@
     "generation_method": "local_source_only_extractive_decode"
   },
   "content_model": "clearupsc_textbook_decoded_from_source_v1",
-  "decode_status": "textbook_decoded",
+  "decode_status": "textbook_verified",
   "source": {
     "book": "NCERT Class 12 Themes in Indian History III",
     "chapter": 3,
@@ -232,5 +322,5 @@
   "source_trace": "NCERT Class 12 Themes in Indian History III | Chapter 3: Mahatma Gandhi and the Nationalist Movement | https://ncert.nic.in/textbook/pdf/lehs303.pdf | sha256:d5fb571408672dd946d8067d8c8f6053e5553a5dc156ae20cfb7c21365b9d72d",
   "raw_text_path": "data/study/textbook-first/raw-text/gs1_hist_class12_indian_history_iii_ch03_mahatma_gandhi_and_the_nationalist_movement.txt",
   "generated_by": "local_source_only_extractive_decode",
-  "generated_at": "2026-05-26T19:53:43.273Z"
+  "generated_at": "2026-05-26T20:26:49.438Z"
 }

@@ -136,7 +136,7 @@
       "source_trace": "NCERT Class 10 Democratic Politics II Ch3 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
-      "difficulty_level": 3,
+      "difficulty_level": 1,
       "concepts_tested": [
         "(a) B C A D"
       ]
@@ -150,7 +150,7 @@
         "30 D e m o c r a t i c P o l i t i c s Gender and politics Let us..."
       ],
       "correct_answer": 0,
-      "pattern": "statement",
+      "pattern": "match",
       "source_trace": "NCERT Class 10 Democratic Politics II Ch3 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
@@ -204,13 +204,103 @@
         "But their work is not valued and does not get recognition."
       ],
       "correct_answer": 0,
+      "pattern": "match",
+      "source_trace": "NCERT Class 10 Democratic Politics II Ch3 pg 1",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "Democracy and Diversity"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Democracy and Diversity, which statement is supported by the source text about Democracy?",
+      "options": [
+        "The result of this division of labour is that although women constitute half of the humanity, their role in public life, especially politics, is...",
+        "Earlier, only men were allowed to participate in public affairs, vote and contest for public offices.",
+        "Women in different parts of the world organised and agitated for equal rights.",
+        "There were agitations in different countries for the extension of voting rights to women."
+      ],
+      "correct_answer": 0,
+      "pattern": "not_type",
+      "source_trace": "NCERT Class 10 Democratic Politics II Ch3 pg 1",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "Democracy"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Democracy and Diversity, which statement is supported by the source text about Diversity?",
+      "options": [
+        "Sexual division of labour: A system in which all work inside the home is either done by the women of the family, or organised...",
+        "If politics is about power, then surely male dominance in the household should be considered political.",
+        "Why are we discussing things like household work in this textbook on Political Science?",
+        "G e n d e r , R e l i g i o n a n d C a s t e 31..."
+      ],
+      "correct_answer": 0,
       "pattern": "statement",
       "source_trace": "NCERT Class 10 Democratic Politics II Ch3 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
-      "difficulty_level": 3,
+      "difficulty_level": 4,
       "concepts_tested": [
-        "Democracy and Diversity"
+        "Diversity"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Democracy and Diversity, which statement is supported by the source text about Religion and Caste Overview The?",
+      "options": [
+        "More radical women’s movements aimed at equality in personal and family life as well.",
+        "Political expression of gender division and political mobilisation Discuss all these perceptions of an ideal woman that prevail in our society.",
+        "Feminist: A woman or a man who believes in equal rights and opportunities for women and men. © Zuban on this question helped to...",
+        "We now find women working as scientists, d o c t o r s , e n g i n e e r s..."
+      ],
+      "correct_answer": 0,
+      "pattern": "match",
+      "source_trace": "NCERT Class 10 Democratic Politics II Ch3 pg 2",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "Religion and Caste Overview The"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Democracy and Diversity, which statement is supported by the source text about India and?",
+      "options": [
+        "In some parts of the world, for example in Scandinavian countries, such as Sweden, Norway and Finland, the",
+        "32 D e m o c r a t i c P o l i t i c s Patriarchy: Literally, rule by father,...",
+        "Activities Men Women Income generating work 6:00 2:40 Household and related work 0:30 5:00 Talking, Gossip 1:25 1:20 No work/ Leisure 3:40 3:50 Sleep,...",
+        "12:25 11:10 Daily time use (hours: minutes) Source: Government of India, Time Use Survey, 1998-99. + A ‘time use survey’ was conducted in six..."
+      ],
+      "correct_answer": 0,
+      "pattern": "not_type",
+      "source_trace": "NCERT Class 10 Democratic Politics II Ch3 pg 2",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 5,
+      "concepts_tested": [
+        "India and"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Democracy and Diversity, which statement is supported by the source text about Gender and?",
+      "options": [
+        "It shows that an average woman works every day for a little over seven and half hours while an average man works for six...",
+        "Yet the work done by men is more visible because most of their work leads to generation of income.",
+        "Women also do a lot of direct income generating work, but the bulk of their work is household related.",
+        "This work remains unpaid and invisible. participation of women in public life is very high."
+      ],
+      "correct_answer": 0,
+      "pattern": "statement",
+      "source_trace": "NCERT Class 10 Democratic Politics II Ch3 pg 3",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 5,
+      "concepts_tested": [
+        "Gender and"
       ]
     }
   ],
@@ -220,7 +310,7 @@
     "generation_method": "local_source_only_extractive_decode"
   },
   "content_model": "clearupsc_textbook_decoded_from_source_v1",
-  "decode_status": "textbook_decoded",
+  "decode_status": "textbook_verified",
   "source": {
     "book": "NCERT Class 10 Democratic Politics II",
     "chapter": 3,
@@ -232,5 +322,5 @@
   "source_trace": "NCERT Class 10 Democratic Politics II | Chapter 3: Democracy and Diversity | https://ncert.nic.in/textbook/pdf/jess403.pdf | sha256:29742b10357d4a0787a4a97ce5a4521d732c47ff2a0df6d6909d75b53a692106",
   "raw_text_path": "data/study/textbook-first/raw-text/gs2_polity_class10_democratic_politics_ii_ch03_democracy_and_diversity.txt",
   "generated_by": "local_source_only_extractive_decode",
-  "generated_at": "2026-05-26T19:54:13.051Z"
+  "generated_at": "2026-05-26T20:27:20.623Z"
 }

@@ -124,7 +124,7 @@
       "source_trace": "NCERT Class 9 Science Ch8 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
-      "difficulty_level": 3,
+      "difficulty_level": 1,
       "concepts_tested": [
         "141 Journey I nside the Atom"
       ]
@@ -138,7 +138,7 @@
         "Let us examine how the concept of atoms emerged and how it has been evolved since then."
       ],
       "correct_answer": 0,
-      "pattern": "statement",
+      "pattern": "match",
       "source_trace": "NCERT Class 9 Science Ch8 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
@@ -192,13 +192,103 @@
         "You must remember that the concept of ‘atom’ originated as an imaginary idea rather than from experimental observations."
       ],
       "correct_answer": 0,
+      "pattern": "match",
+      "source_trace": "NCERT Class 9 Science Ch8 pg 1",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "143 Journey Inside the Atom"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Motion, which statement is supported by the source text about 8.2.2 Testing Thomson’s model: The gold foil experiment?",
+      "options": [
+        "Many centuries later, in 1808, John Dalton proposed his atomic theory.",
+        "He proposed that all matter is composed of indivisible particles called atoms.",
+        "That is, the atoms are the fundamental building blocks of matter that cannot be broken down into smaller parts.",
+        "Dalton’s atomic theory was the first scientific description of how matter is made."
+      ],
+      "correct_answer": 0,
+      "pattern": "not_type",
+      "source_trace": "NCERT Class 9 Science Ch8 pg 1",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "8.2.2 Testing Thomson’s model: The gold foil experiment"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Motion, which statement is supported by the source text about 145 Journey Inside the Atom?",
+      "options": [
+        "It became the starting point for the current understanding of atomic structure.",
+        "You may be wondering how Dalton’s idea evolved into a model for the structure of the atom.",
+        "Following Dalton’s theory, scientists were curious to know the answers of the questions: y What are atoms made up of ? y What would...",
+        "8.2 A Short Historical Journey Through Atomic Models More than a hundred years ago, scientists tried to imagine what atoms might look like by..."
+      ],
+      "correct_answer": 0,
       "pattern": "statement",
       "source_trace": "NCERT Class 9 Science Ch8 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
-      "difficulty_level": 3,
+      "difficulty_level": 4,
       "concepts_tested": [
-        "143 Journey Inside the Atom"
+        "145 Journey Inside the Atom"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Motion, which statement is supported by the source text about 8.2.3 Bohr’s model of the atom?",
+      "options": [
+        "As new experiments were performed and new evidence came to light, these models were changed and improved.",
+        "Although we now know that the early models were not fully correct, they are still important because they show how science moves forward —...",
+        "Until the late 19th century, atoms were thought to be the smallest, indivisible units of matter.",
+        "However, scientists discovered that certain elements emit invisible energy and particles called radiation,"
+      ],
+      "correct_answer": 0,
+      "pattern": "match",
+      "source_trace": "NCERT Class 9 Science Ch8 pg 1",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "8.2.3 Bohr’s model of the atom"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Motion, which statement is supported by the source text about 147 Journey Inside the Atom?",
+      "options": [
+        "8.1: A line diagram of cathode ray tube High voltage power supply Vacuum pump Cathode (–) Anode (+) – + It was found that...",
+        "It showed that electrons are a fundamental component of all atoms, present in every element.",
+        "The charge of an electron (–1.602 × 10–19 C) is taken as –1 as a matter of convention and convenience.",
+        "Thomson discovered tiny negatively charged particles called electrons, he faced a puzzle — atoms are neutral, so where is the positive charge present?"
+      ],
+      "correct_answer": 0,
+      "pattern": "not_type",
+      "source_trace": "NCERT Class 9 Science Ch8 pg 2",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 5,
+      "concepts_tested": [
+        "147 Journey Inside the Atom"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Motion, which statement is supported by the source text about 8.3 What Components Contribute to the?",
+      "options": [
+        "To solve this, Thomson proposed the atom to be a sphere of positive charge with electrons distributed throughout it (Fig.",
+        "This model was compared to a pudding with plums embedded in it, called the plum pudding model.",
+        "A more familiar picture would be that of a watermelon (Fig.",
+        "8.3), where the red pulp represents the positively charged matter, and the seeds represent electrons distributed throughout the atom."
+      ],
+      "correct_answer": 0,
+      "pattern": "statement",
+      "source_trace": "NCERT Class 9 Science Ch8 pg 2",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 5,
+      "concepts_tested": [
+        "8.3 What Components Contribute to the"
       ]
     }
   ],
@@ -208,7 +298,7 @@
     "generation_method": "local_source_only_extractive_decode"
   },
   "content_model": "clearupsc_textbook_decoded_from_source_v1",
-  "decode_status": "textbook_decoded",
+  "decode_status": "textbook_verified",
   "source": {
     "book": "NCERT Class 9 Science",
     "chapter": 8,
@@ -220,5 +310,5 @@
   "source_trace": "NCERT Class 9 Science | Chapter 8: Motion | https://ncert.nic.in/textbook/pdf/iesc108.pdf | sha256:b400e01b4d4f045c97c2bfee4508cc1dd1d1f43fa455dc0758e6f21b42d10124",
   "raw_text_path": "data/study/textbook-first/raw-text/gs3_sci_class9_science_ch08_motion.txt",
   "generated_by": "local_source_only_extractive_decode",
-  "generated_at": "2026-05-26T19:54:41.732Z"
+  "generated_at": "2026-05-26T20:27:50.488Z"
 }

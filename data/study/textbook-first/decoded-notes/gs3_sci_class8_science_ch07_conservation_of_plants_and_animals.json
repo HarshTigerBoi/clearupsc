@@ -115,7 +115,7 @@
       "source_trace": "NCERT Class 8 Science Ch7 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
-      "difficulty_level": 3,
+      "difficulty_level": 1,
       "concepts_tested": [
         "7.1 Adolescence and Puberty"
       ]
@@ -129,7 +129,7 @@
         "She remarked that many of Boojho’s school friends, whom she met after a year, had suddenly shot up in height."
       ],
       "correct_answer": 0,
-      "pattern": "statement",
+      "pattern": "match",
       "source_trace": "NCERT Class 8 Science Ch7 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
@@ -183,13 +183,103 @@
         "The human body undergoes several changes during adolescence."
       ],
       "correct_answer": 0,
+      "pattern": "match",
+      "source_trace": "NCERT Class 8 Science Ch7 pg 1",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "REACHING THE AGE OF ADOLESCENCE 81"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Conservation of Plants and Animals, which statement is supported by the source text about SCIENCE 82?",
+      "options": [
+        "The most important change which marks puberty is that boys and girls become capable of reproduction.",
+        "Puberty ends when an adolescent reaches reproductive maturity.",
+        "REACHING THE AGE OF ADOLESCENCE REACHING THE AGE OF ADOLESCENCE 2024-25",
+        "SCIENCE 80 % of full height Boys Girls 8 72% 77% 9 75% 81% 10 78% 84% 11 81% 88% 12 84% 91% 13..."
+      ],
+      "correct_answer": 0,
+      "pattern": "not_type",
+      "source_trace": "NCERT Class 8 Science Ch7 pg 1",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "SCIENCE 82"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Conservation of Plants and Animals, which statement is supported by the source text about 7.3 Secondary Sexual?",
+      "options": [
+        "They wanted to know more about other changes at puberty.",
+        "7.2 Changes at Puberty Increase in Height The most conspicuous change during puberty is the sudden increase in height.",
+        "At this time the long bones, that is, the bones of the arms and the legs elongate and make a person tall.",
+        "The figures in columns 2 and 3, give the percentage of the height a person has reached at the age given in column 1."
+      ],
+      "correct_answer": 0,
       "pattern": "statement",
       "source_trace": "NCERT Class 8 Science Ch7 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
-      "difficulty_level": 3,
+      "difficulty_level": 4,
       "concepts_tested": [
-        "REACHING THE AGE OF ADOLESCENCE 81"
+        "7.3 Secondary Sexual"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Conservation of Plants and Animals, which statement is supported by the source text about REACHING THE AGE OF ADOLESCENCE 83?",
+      "options": [
+        "For example, by the age 11, a boy has reached 81% of his probable full height, while a girl has reached 88% of her...",
+        "These figures are only representative and there may be individual variations.",
+        "Use the Table for your friends and work out how tall they are likely to be.",
+        "Find out who is likely to be Calculation for full height (cm) ( ) 100 Present height cm % of full height at this..."
+      ],
+      "correct_answer": 0,
+      "pattern": "match",
+      "source_trace": "NCERT Class 8 Science Ch7 pg 1",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "REACHING THE AGE OF ADOLESCENCE 83"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Conservation of Plants and Animals, which statement is supported by the source text about 7.4 Role of Hormones in?",
+      "options": [
+        "At the end of the growth period he is likely to be × 120 100 75 cm = 160 cm tall the tallest and...",
+        "REACHING THE AGE OF ADOLESCENCE 81 There is no need for Paheli to worry.",
+        "Sometimes the arms and legs or hands and feet of adolescents look oversized and out of proportion with the body.",
+        "But soon the other parts catch up and result in a proportionate body."
+      ],
+      "correct_answer": 0,
+      "pattern": "not_type",
+      "source_trace": "NCERT Class 8 Science Ch7 pg 1",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 5,
+      "concepts_tested": [
+        "7.4 Role of Hormones in"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Conservation of Plants and Animals, which statement is supported by the source text about SCIENCE 84?",
+      "options": [
+        "You must have noticed that height of an individual is more or less similar to that of some family member.",
+        "This is because height depends on the genes inherited from parents.",
+        "It is, however, very important to eat the right kind of food during these growing years.",
+        "This helps the bones, muscles and other parts of the body get adequate nourishment for growth."
+      ],
+      "correct_answer": 0,
+      "pattern": "statement",
+      "source_trace": "NCERT Class 8 Science Ch7 pg 2",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 5,
+      "concepts_tested": [
+        "SCIENCE 84"
       ]
     }
   ],
@@ -199,7 +289,7 @@
     "generation_method": "local_source_only_extractive_decode"
   },
   "content_model": "clearupsc_textbook_decoded_from_source_v1",
-  "decode_status": "textbook_decoded",
+  "decode_status": "textbook_verified",
   "source": {
     "book": "NCERT Class 8 Science",
     "chapter": 7,
@@ -211,5 +301,5 @@
   "source_trace": "NCERT Class 8 Science | Chapter 7: Conservation of Plants and Animals | https://ncert.nic.in/textbook/pdf/hesc107.pdf | sha256:cc9a4fdd497105a7e49d28aeb08d77179c8527e2a0817273374a2a328eaac39e",
   "raw_text_path": "data/study/textbook-first/raw-text/gs3_sci_class8_science_ch07_conservation_of_plants_and_animals.txt",
   "generated_by": "local_source_only_extractive_decode",
-  "generated_at": "2026-05-26T19:54:38.450Z"
+  "generated_at": "2026-05-26T20:27:47.196Z"
 }

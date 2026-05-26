@@ -136,7 +136,7 @@
       "source_trace": "NCERT Class 12 Fundamentals of Human Geography Ch8 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
-      "difficulty_level": 3,
+      "difficulty_level": 1,
       "concepts_tested": [
         "GATEWAYS OF INTERNATIONAL TRADE"
       ]
@@ -150,7 +150,7 @@
         "8.1: Two women practising barter system in Jon Beel Mela Every January after the harvest season Jon Beel Mela takes place in Jagiroad, 35..."
       ],
       "correct_answer": 0,
-      "pattern": "statement",
+      "pattern": "match",
       "source_trace": "NCERT Class 12 Fundamentals of Human Geography Ch8 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
@@ -204,13 +204,103 @@
         "Fifteenth century onwards, the European colonialism began and along with trade of exotic commodities, a new form of trade emerged which was called slave..."
       ],
       "correct_answer": 0,
+      "pattern": "match",
+      "source_trace": "NCERT Class 12 Fundamentals of Human Geography Ch8 pg 1",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "Fundamentals of Human Geography"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Transport and Communication, which statement is supported by the source text about III Chapter?",
+      "options": [
+        "The Portuguese, Dutch, Spaniards, and British captured African natives and forcefully transported them to the newly discovered Americas for their labour in the plantations.",
+        "Slave trade was a lucrative business for more than two hundred years till it was abolished in Denmark in 1792, Great Britain in 1807...",
+        "Figure 8.2 : Advertisement for Slave Auction, 1829 This American slave auction advertised slaves for sale or temporary hire by their owners.",
+        "Buyers often paid as much as $2,000 for a skilled, healthy slave."
+      ],
+      "correct_answer": 0,
+      "pattern": "not_type",
+      "source_trace": "NCERT Class 12 Fundamentals of Human Geography Ch8 pg 1",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "III Chapter"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Transport and Communication, which statement is supported by the source text about International Trade You?",
+      "options": [
+        "Such auc- tions often separated family members from one another, many of whom never saw their loved ones again.",
+        "After the Industrial Revolution the demand for raw materials like grains, meat, wool also expanded, but their monetary value declined in relation to the...",
+        "The industrialised nations imported primary products as raw materials and exported the value added finished products back to the non-industrialised nations.",
+        "In the later half of the nineteenth century, regions producing primary goods were no more important, and industrial nations became each other’s principle customers."
+      ],
+      "correct_answer": 0,
       "pattern": "statement",
       "source_trace": "NCERT Class 12 Fundamentals of Human Geography Ch8 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
-      "difficulty_level": 3,
+      "difficulty_level": 4,
       "concepts_tested": [
-        "Fundamentals of Human Geography"
+        "International Trade You"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Transport and Communication, which statement is supported by the source text about Jon Beel Mela Every January?",
+      "options": [
+        "During the World Wars I and II, countries imposed trade taxes and quantitative restrictions for the first time.",
+        "During the post- war period, organisations like General Agreement for Tariffs and Trade (which later became the World Trade Organisation), helped in reducing tariff.",
+        "International trade is the result of specialisation in production.",
+        "Fundamentals of Human Geography 72 different countries practise specialisation and division of labour in the production of commodities or provision of services."
+      ],
+      "correct_answer": 0,
+      "pattern": "match",
+      "source_trace": "NCERT Class 12 Fundamentals of Human Geography Ch8 pg 1",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "Jon Beel Mela Every January"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Transport and Communication, which statement is supported by the source text about Jon Beel Mela?",
+      "options": [
+        "Thus, international trade is based on the principle of comparative advantage, complimentarity and transferability of goods and services and in principle, should be mutually...",
+        "In modern times, trade is the basis of the world’s economic organisation and is related to the foreign policy of nations.",
+        "With well- developed transportation and communication systems, no country is willing to forego the benefits derived from participation in international trade.",
+        "Basis of International Trade (i) Difference in national resources: The world’s national resources are unevenly distributed because of differences in their physical make up..."
+      ],
+      "correct_answer": 0,
+      "pattern": "not_type",
+      "source_trace": "NCERT Class 12 Fundamentals of Human Geography Ch8 pg 2",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 5,
+      "concepts_tested": [
+        "Jon Beel Mela"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Transport and Communication, which statement is supported by the source text about Guwahati and?",
+      "options": [
+        "(a) Geological structure: It determines the mineral resource base and topographical differences ensure diversity of crops and animals raised.",
+        "(b) Mineral resources: They are unevenly distributed the world over.",
+        "The availability of mineral resources provides the basis for industrial development.",
+        "(c) Climate: It influences the type of flora and fauna that can survive in a given region."
+      ],
+      "correct_answer": 0,
+      "pattern": "statement",
+      "source_trace": "NCERT Class 12 Fundamentals of Human Geography Ch8 pg 2",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 5,
+      "concepts_tested": [
+        "Guwahati and"
       ]
     }
   ],
@@ -220,7 +310,7 @@
     "generation_method": "local_source_only_extractive_decode"
   },
   "content_model": "clearupsc_textbook_decoded_from_source_v1",
-  "decode_status": "textbook_decoded",
+  "decode_status": "textbook_verified",
   "source": {
     "book": "NCERT Class 12 Fundamentals of Human Geography",
     "chapter": 8,
@@ -232,5 +322,5 @@
   "source_trace": "NCERT Class 12 Fundamentals of Human Geography | Chapter 8: Transport and Communication | https://ncert.nic.in/textbook/pdf/legy108.pdf | sha256:a940c0afe1f6eef0f8dd52fe25f98570382fa863e45737d487ec488bccf0eccf",
   "raw_text_path": "data/study/textbook-first/raw-text/gs1_geo_class12_human_ch08_transport_and_communication.txt",
   "generated_by": "local_source_only_extractive_decode",
-  "generated_at": "2026-05-26T19:53:52.827Z"
+  "generated_at": "2026-05-26T20:26:59.373Z"
 }

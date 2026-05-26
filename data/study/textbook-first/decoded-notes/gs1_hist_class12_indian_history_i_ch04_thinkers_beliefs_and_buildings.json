@@ -136,7 +136,7 @@
       "source_trace": "NCERT Class 12 Themes in Indian History I Ch4 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
-      "difficulty_level": 3,
+      "difficulty_level": 1,
       "concepts_tested": [
         "THEMES IN INDIAN HISTORY 82"
       ]
@@ -150,7 +150,7 @@
         "We inspected the stone sculptures and statues of the Buddha and an ancient gateway … The ruins appear to be the object of great..."
       ],
       "correct_answer": 0,
-      "pattern": "statement",
+      "pattern": "match",
       "source_trace": "NCERT Class 12 Themes in Indian History I Ch4 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
@@ -204,13 +204,103 @@
         "So if the stupa complex has survived, it is in no small measure due to wise decisions, and to good luck in escaping the..."
       ],
       "correct_answer": 0,
+      "pattern": "match",
+      "source_trace": "NCERT Class 12 Themes in Indian History I Ch4 pg 1",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "FOUR"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Thinkers Beliefs and Buildings, which statement is supported by the source text about THINKERS, BELIEFS AND BUILDINGS?",
+      "options": [
+        "One of the most important Buddhist centres, the discovery of Sanchi has vastly transformed our understanding of early Buddhism.",
+        "Today it stands testimony to the successful restoration and preservation of a key archaeological site by the Archaeological Survey of India.",
+        "4.3 The Great Stupa at Sanchi If you travel from Delhi to Bhopal by train, you will see the majestic stupa complex on top...",
+        "If you request the guard he will stop the train at the little station of Sanchi for two minutes – enough time for you..."
+      ],
+      "correct_answer": 0,
+      "pattern": "not_type",
+      "source_trace": "NCERT Class 12 Themes in Indian History I Ch4 pg 1",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "THINKERS, BELIEFS AND BUILDINGS"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Thinkers Beliefs and Buildings, which statement is supported by the source text about THEMES IN INDIAN HISTORY 84?",
+      "options": [
+        "As you climb up the hill you can see the complex of structures: a large mound and other monuments including a temple built in...",
+        "THEMES IN INDIAN HISTORY 84 But what is the significance of this monument?",
+        "There is a fascinating story that we can uncover at Sanchi for which we must combine information from texts, sculpture, architecture and inscriptions.",
+        "Let us begin by exploring the background of the early Buddhist tradition."
+      ],
+      "correct_answer": 0,
       "pattern": "statement",
       "source_trace": "NCERT Class 12 Themes in Indian History I Ch4 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
-      "difficulty_level": 3,
+      "difficulty_level": 4,
       "concepts_tested": [
-        "FOUR"
+        "THEMES IN INDIAN HISTORY 84"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Thinkers Beliefs and Buildings, which statement is supported by the source text about 2.1 The sacrificial tradition?",
+      "options": [
+        "The Background: Sacrifices and Debates The mid-first millennium BCE is often regarded as a turning point in world history: it saw the emergence of...",
+        "They tried to understand the mysteries of existence and the relationship between human beings and the cosmic order.",
+        "This was also the time when new kingdoms and cities were developing and social and economic life was changing in a variety of ways...",
+        "These thinkers attempted to understand these developments as well."
+      ],
+      "correct_answer": 0,
+      "pattern": "match",
+      "source_trace": "NCERT Class 12 Themes in Indian History I Ch4 pg 2",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "2.1 The sacrificial tradition"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Thinkers Beliefs and Buildings, which statement is supported by the source text about 2.2 New questions?",
+      "options": [
+        "2.1 The sacrificial tradition There were several pre-existing traditions of thought, religious belief and practice, including the early Vedic tradition, known from the Rigveda,...",
+        "The Rigveda consists of hymns in praise of a variety of deities, especially Agni, Indra and Soma.",
+        "Many of these hymns were chanted when sacrifices were performed, where people prayed for cattle, sons, good health, long life, etc.",
+        "1000 BCE-500 BCE onwards) some were performed by the heads of households for the well- being of the domestic unit."
+      ],
+      "correct_answer": 0,
+      "pattern": "not_type",
+      "source_trace": "NCERT Class 12 Themes in Indian History I Ch4 pg 2",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 5,
+      "concepts_tested": [
+        "2.2 New questions"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Thinkers Beliefs and Buildings, which statement is supported by the source text about 2.3 Debates and discussions?",
+      "options": [
+        "More elaborate sacrifices, such as the rajasuya and ashvamedha, were performed by chiefs and kings who depended on Brahmana priests to conduct the ritual.",
+        "2.2 New questions Many ideas found in the Upanishads (c. sixth century BCE onwards) show that people were curious about the meaning of life,...",
+        "Procure, O Agni, for ever to him who prays to you (the gift of) nourishment, the wonderful cow.",
+        "May a son be ours, offspring that continues our line … Verses such as these were composed in a special kind of Sanskrit, known..."
+      ],
+      "correct_answer": 0,
+      "pattern": "statement",
+      "source_trace": "NCERT Class 12 Themes in Indian History I Ch4 pg 2",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 5,
+      "concepts_tested": [
+        "2.3 Debates and discussions"
       ]
     }
   ],
@@ -220,7 +310,7 @@
     "generation_method": "local_source_only_extractive_decode"
   },
   "content_model": "clearupsc_textbook_decoded_from_source_v1",
-  "decode_status": "textbook_decoded",
+  "decode_status": "textbook_verified",
   "source": {
     "book": "NCERT Class 12 Themes in Indian History I",
     "chapter": 4,
@@ -232,5 +322,5 @@
   "source_trace": "NCERT Class 12 Themes in Indian History I | Chapter 4: Thinkers Beliefs and Buildings | https://ncert.nic.in/textbook/pdf/lehs104.pdf | sha256:97ed69285c95d0d6c89c57c3d0ef5f44881ccdaa28a874094c0d185dd59cc0bb",
   "raw_text_path": "data/study/textbook-first/raw-text/gs1_hist_class12_indian_history_i_ch04_thinkers_beliefs_and_buildings.txt",
   "generated_by": "local_source_only_extractive_decode",
-  "generated_at": "2026-05-26T19:53:55.690Z"
+  "generated_at": "2026-05-26T20:27:02.274Z"
 }

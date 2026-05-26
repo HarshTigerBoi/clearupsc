@@ -136,7 +136,7 @@
       "source_trace": "NCERT Class 12 Social Change and Development in India Ch3 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
-      "difficulty_level": 3,
+      "difficulty_level": 1,
       "concepts_tested": [
         "3.1 The PanchayaTi Raj and The challenges"
       ]
@@ -150,7 +150,7 @@
         "Law is law because it carries the means to coerce or force obedience."
       ],
       "correct_answer": 0,
-      "pattern": "statement",
+      "pattern": "match",
       "source_trace": "NCERT Class 12 Social Change and Development in India Ch3 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
@@ -204,13 +204,103 @@
         "In 1993 the Supreme Court held that Right to Information is a part of and incidental to the Right to Freedom of Speech and..."
       ],
       "correct_answer": 0,
-      "pattern": "statement",
+      "pattern": "match",
       "source_trace": "NCERT Class 12 Social Change and Development in India Ch3 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
-      "difficulty_level": 3,
+      "difficulty_level": 4,
       "concepts_tested": [
         "Indian"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of The Story of Indian Democracy, which statement is supported by the source text about Democracy?",
+      "options": [
+        "3.1 The PanchayaTi Raj and The challenges of RuRal social TRansfoRmaTion ideals of panChayati raJ Panchayati Raj translates literally to ‘Governance by five individuals’.",
+        "The idea is to ensure at the village or grass root level a functioning and vibrant democracy.",
+        "While the idea of grassroot democracy is not an alien import to our country, in a society where there are sharp inequalities, democratic participation...",
+        "Furthermore, as you shall see in the newspaper reports later in the chapter, traditionally there have been caste panchayats in villages."
+      ],
+      "correct_answer": 0,
+      "pattern": "not_type",
+      "source_trace": "NCERT Class 12 Social Change and Development in India Ch3 pg 2",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "Democracy"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of The Story of Indian Democracy, which statement is supported by the source text about Directive Principle?",
+      "options": [
+        "Furthermore, they often held conservative views and often have, and continue to take decisions that go against both democratic norms and procedures.",
+        "When the constitution was being drafted, panchayats did not find a mention in it.",
+        "At this juncture, a number of members expressed their sorrow, anger and disappointment over this issue.",
+        "At the same time, drawing on his own rural experience, Dr."
+      ],
+      "correct_answer": 0,
+      "pattern": "statement",
+      "source_trace": "NCERT Class 12 Social Change and Development in India Ch3 pg 2",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "Directive Principle"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of The Story of Indian Democracy, which statement is supported by the source text about Village Panchayats?",
+      "options": [
+        "Ambedkar argued that local elites and upper castes were so well entrenched in society that local self- government only meant a continuing exploitation of...",
+        "The upper castes would no doubt silence this segment of the population further.",
+        "The concept of local government was dear to Gandhiji too.",
+        "He envisaged each village as a self-sufficient unit conducting its own affairs and saw gram-swarajya to be an ideal model to be continued after..."
+      ],
+      "correct_answer": 0,
+      "pattern": "match",
+      "source_trace": "NCERT Class 12 Social Change and Development in India Ch3 pg 2",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "Village Panchayats"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of The Story of Indian Democracy, which statement is supported by the source text about Constituent Assembly?",
+      "options": [
+        "It was, however, only in 1992 that grassroot democracy or decentralised governance was ushered in by the 73rd Constitutional Amendment.",
+        "This act provided constitutional status to the Panchayati Raj Institutions (PRIs).",
+        "It is compulsory now for local self-government bodies in rural and municipal areas to be elected every five years.",
+        "More importantly, control of local resources is given to the elected local bodies."
+      ],
+      "correct_answer": 0,
+      "pattern": "not_type",
+      "source_trace": "NCERT Class 12 Social Change and Development in India Ch3 pg 2",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 5,
+      "concepts_tested": [
+        "Constituent Assembly"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of The Story of Indian Democracy, which statement is supported by the source text about Amendment in?",
+      "options": [
+        "33 The three-tier system of Panchayati Raj Institution  The structure is like a pyramid.",
+        "At the base of the structure stands the unit of democracy or Gram Sabha.",
+        "This consists of the entire body of citizens in a village or grama.",
+        "It is this general body that elects the local government and charges it with specific responsibilities."
+      ],
+      "correct_answer": 0,
+      "pattern": "statement",
+      "source_trace": "NCERT Class 12 Social Change and Development in India Ch3 pg 2",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 5,
+      "concepts_tested": [
+        "Amendment in"
       ]
     }
   ],
@@ -220,7 +310,7 @@
     "generation_method": "local_source_only_extractive_decode"
   },
   "content_model": "clearupsc_textbook_decoded_from_source_v1",
-  "decode_status": "textbook_decoded",
+  "decode_status": "textbook_verified",
   "source": {
     "book": "NCERT Class 12 Social Change and Development in India",
     "chapter": 3,
@@ -232,5 +322,5 @@
   "source_trace": "NCERT Class 12 Social Change and Development in India | Chapter 3: The Story of Indian Democracy | https://ncert.nic.in/textbook/pdf/lesy203.pdf | sha256:0f8b0caddfdabdabca1d30a0abdef1264333af10ed7b2a1c934ba81404365f6e",
   "raw_text_path": "data/study/textbook-first/raw-text/gs1_society_class12_social_change_ch03_the_story_of_indian_democracy.txt",
   "generated_by": "local_source_only_extractive_decode",
-  "generated_at": "2026-05-26T19:53:59.193Z"
+  "generated_at": "2026-05-26T20:27:06.003Z"
 }

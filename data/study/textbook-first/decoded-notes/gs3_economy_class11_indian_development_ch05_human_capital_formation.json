@@ -136,7 +136,7 @@
       "source_trace": "NCERT Class 11 Indian Economic Development Ch5 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
-      "difficulty_level": 3,
+      "difficulty_level": 1,
       "concepts_tested": [
         "75 RURAL DEVELOPMENT"
       ]
@@ -150,7 +150,7 @@
         "It is because more than two-third of India’s population depends on agriculture that is yet to become productive enough to provide for them; one-fourth..."
       ],
       "correct_answer": 0,
-      "pattern": "statement",
+      "pattern": "match",
       "source_trace": "NCERT Class 11 Indian Economic Development Ch5 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
@@ -204,13 +204,103 @@
         "They also argue that inadequate infrastructure, lack of alternate employment opportunities in the industry or service sector, increasing casualisation of employment etc., further impede..."
       ],
       "correct_answer": 0,
+      "pattern": "match",
+      "source_trace": "NCERT Class 11 Indian Economic Development Ch5 pg 2",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "5.1 INTRODUCTION"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Human Capital Formation, which statement is supported by the source text about 5.2 WHAT IS RURAL DEVELOPMENT??",
+      "options": [
+        "The impact of this phenomenon can be seen from the growing distress witnessed among farmers across different parts of India.",
+        "Against this background, we will critically look at some of the crucial aspects of rural India like credit and marketing systems, agricultural diversification and...",
+        "5.3 CREDIT AND MARKETING IN RURA L AREAS Credit: Growth of rural economy depends primarily on infusion of capital, from time to time, to...",
+        "As the time of gestation period between crop sowing and realisation of income after production is quite long, farmers borrow from various sources to..."
+      ],
+      "correct_answer": 0,
+      "pattern": "not_type",
+      "source_trace": "NCERT Class 11 Indian Economic Development Ch5 pg 2",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "5.2 WHAT IS RURAL DEVELOPMENT?"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Human Capital Formation, which statement is supported by the source text about 77 RURAL DEVELOPMENT?",
+      "options": [
+        "At the time of independence, moneylenders and traders exploited small and marginal farmers and landless labourers by lending to them on high interest rates...",
+        "A major change occurred after 1969 when India adopted social banking and multi- agency approach to adequately meet the needs of rural credit.",
+        "Later, the National Bank for Agriculture and Work These Out ÿ On a monthly basis, go through the newspapers of your region and identify...",
+        "You could also visit a nearby village and identify the problems faced by people there."
+      ],
+      "correct_answer": 0,
       "pattern": "statement",
       "source_trace": "NCERT Class 11 Indian Economic Development Ch5 pg 2",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
-      "difficulty_level": 3,
+      "difficulty_level": 4,
       "concepts_tested": [
-        "5.1 INTRODUCTION"
+        "77 RURAL DEVELOPMENT"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Human Capital Formation, which statement is supported by the source text about 5.3 CREDIT AND MARKETING IN RURA L?",
+      "options": [
+        "Discuss this in the classroom. ÿ Prepare a list of recent schemes and their objectives from the government website https:// www.rural.nic.in.",
+        "Collect the details of how anyone of these schemes implemented in your region/rural neighbourhood areas.",
+        "78 INDIAN ECONOMIC DEVELOPMENT Box 5.1: The Poor Women’s Bank ‘Kudumbashree’ is a women-oriented community-based poverty reduction programme being implemented in Kerala.",
+        "In 1995, a thrift and credit society was started as a small savings bank for poor women with the objective to encourage savings."
+      ],
+      "correct_answer": 0,
+      "pattern": "match",
+      "source_trace": "NCERT Class 11 Indian Economic Development Ch5 pg 2",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "5.3 CREDIT AND MARKETING IN RURA L"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Human Capital Formation, which statement is supported by the source text about AREAS?",
+      "options": [
+        "The thrift and credit society mobilised Rs 1 crore as thrift savings.",
+        "These societies have been acclaimed as the largest informal banks in Asia in terms of participation and savings mobilised.",
+        "Visit this website and explore various other initiatives undertaken by this organisation.",
+        "Identify some factors which contributed to their successes and discuss in the class."
+      ],
+      "correct_answer": 0,
+      "pattern": "not_type",
+      "source_trace": "NCERT Class 11 Indian Economic Development Ch5 pg 3",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 5,
+      "concepts_tested": [
+        "AREAS"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Human Capital Formation, which statement is supported by the source text about 78 INDIAN ECONOMIC DEVELOPMENT?",
+      "options": [
+        "National Bank for Agriculture and Rural Development (NABARD) was set up in 1982 as an apex body to coordinate the activities of all institutions...",
+        "The Green Revolution was a harbinger of major changes in the credit system as it led to the diversification of the portfolio of rural...",
+        "The institutional structure of rural banking today consists of a set of multi-agency institutions, namely, commercial banks, regional rural banks (RRBs), cooperatives and land...",
+        "They are expected to dispense adequate credit at cheaper rates."
+      ],
+      "correct_answer": 0,
+      "pattern": "statement",
+      "source_trace": "NCERT Class 11 Indian Economic Development Ch5 pg 3",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 5,
+      "concepts_tested": [
+        "78 INDIAN ECONOMIC DEVELOPMENT"
       ]
     }
   ],
@@ -220,7 +310,7 @@
     "generation_method": "local_source_only_extractive_decode"
   },
   "content_model": "clearupsc_textbook_decoded_from_source_v1",
-  "decode_status": "textbook_decoded",
+  "decode_status": "textbook_verified",
   "source": {
     "book": "NCERT Class 11 Indian Economic Development",
     "chapter": 5,
@@ -232,5 +322,5 @@
   "source_trace": "NCERT Class 11 Indian Economic Development | Chapter 5: Human Capital Formation | https://ncert.nic.in/textbook/pdf/keec105.pdf | sha256:c2665a11a8c492e384495cb312d839262eb1700be1900d6e655b3e955cd68195",
   "raw_text_path": "data/study/textbook-first/raw-text/gs3_economy_class11_indian_development_ch05_human_capital_formation.txt",
   "generated_by": "local_source_only_extractive_decode",
-  "generated_at": "2026-05-26T19:53:35.296Z"
+  "generated_at": "2026-05-26T20:26:41.230Z"
 }

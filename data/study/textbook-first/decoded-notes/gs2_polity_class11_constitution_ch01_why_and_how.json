@@ -136,7 +136,7 @@
       "source_trace": "NCERT Class 11 Indian Constitution at Work Ch1 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
-      "difficulty_level": 3,
+      "difficulty_level": 1,
       "concepts_tested": [
         "CONSTITUTION:"
       ]
@@ -150,7 +150,7 @@
         "Constitution allows coordination and assurance Imagine yourself to be a member of a reasonably large group."
       ],
       "correct_answer": 0,
-      "pattern": "statement",
+      "pattern": "match",
       "source_trace": "NCERT Class 11 Indian Constitution at Work Ch1 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
@@ -204,13 +204,103 @@
         "Think of what would happen in the absence of some basic rules."
       ],
       "correct_answer": 0,
-      "pattern": "statement",
+      "pattern": "match",
       "source_trace": "NCERT Class 11 Indian Constitution at Work Ch1 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
-      "difficulty_level": 3,
+      "difficulty_level": 4,
       "concepts_tested": [
         "READ A CARTOON"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Constitution: Why and How?, which statement is supported by the source text about 4 December 1949?",
+      "options": [
+        "Every individual would be insecure simply because they would not know what members of this group could do to each other, who could claim...",
+        "Any group will need some basic rules that are publicly promulgated and known to all members of that group to achieve a minimal degree...",
+        "But these rules must not only be known, they must also be enforceable.",
+        "If citizens have no assurance that others will follow these rules, they will themselves have no reason to follow these rules."
+      ],
+      "correct_answer": 0,
+      "pattern": "not_type",
+      "source_trace": "NCERT Class 11 Indian Constitution at Work Ch1 pg 2",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "4 December 1949"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Constitution: Why and How?, which statement is supported by the source text about THE AUTHORITY OF A CONSTITUTION?",
+      "options": [
+        "Saying that the rules are legally enforceable gives an assurance to everybody that others will follow these, for if they do not do so,...",
+        "The first function of a constitution is to provide a set of basic rules that allow for minimal coordination amongst members of a society.",
+        "The entire class should discuss and arrive at some decisions that would apply to everyone for this entire session.",
+        "The decision could be about: ± How would the class representatives be chosen? ± Which decisions will the representative be able to take on..."
+      ],
+      "correct_answer": 0,
+      "pattern": "statement",
+      "source_trace": "NCERT Class 11 Indian Constitution at Work Ch1 pg 2",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "THE AUTHORITY OF A CONSTITUTION"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Constitution: Why and How?, which statement is supported by the source text about 9 December1946 and reassembled as Constituent Assembly for divided?",
+      "options": [
+        "Make sure that you include those subjects that have led to any differences in the past. ± How to revise these decisions in case...",
+        "4 Indian Constitution at Work ± Write down all these decisions on a paper and put it up on the notice board.",
+        "Did the entire class gain something from this exercise?",
+        "Specification of decision making powers A constitution is a body of fundamental principles according to which a state is constituted or governed."
+      ],
+      "correct_answer": 0,
+      "pattern": "match",
+      "source_trace": "NCERT Class 11 Indian Constitution at Work Ch1 pg 2",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "9 December1946 and reassembled as Constituent Assembly for divided"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Constitution: Why and How?, which statement is supported by the source text about 3 June 1947 those members who were elected from?",
+      "options": [
+        "Well, the first question you will have to decide is who gets to decide what the laws governing the society should be?",
+        "How do we decide whose rules or preferences should govern us?",
+        "You may think the rules you want everyone to live by are the best; but others think that their rules are the best.",
+        "So even before you decide what rules should govern this group you have to decide: Who gets to decide?"
+      ],
+      "correct_answer": 0,
+      "pattern": "not_type",
+      "source_trace": "NCERT Class 11 Indian Constitution at Work Ch1 pg 3",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 5,
+      "concepts_tested": [
+        "3 June 1947 those members who were elected from"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Constitution: Why and How?, which statement is supported by the source text about Constitution: Why and How??",
+      "options": [
+        "The constitution has to provide an answer to this question.",
+        "It specifies the basic allocation of power in a society.",
+        "In principle, this question, who gets to decide, can be answered in many ways: in a monarchical constitution, a monarch decides; in some constitutions...",
+        "But in democratic constitutions, broadly speaking, the people get to decide."
+      ],
+      "correct_answer": 0,
+      "pattern": "statement",
+      "source_trace": "NCERT Class 11 Indian Constitution at Work Ch1 pg 3",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 5,
+      "concepts_tested": [
+        "Constitution: Why and How?"
       ]
     }
   ],
@@ -220,7 +310,7 @@
     "generation_method": "local_source_only_extractive_decode"
   },
   "content_model": "clearupsc_textbook_decoded_from_source_v1",
-  "decode_status": "textbook_decoded",
+  "decode_status": "textbook_verified",
   "source": {
     "book": "NCERT Class 11 Indian Constitution at Work",
     "chapter": 1,
@@ -232,5 +322,5 @@
   "source_trace": "NCERT Class 11 Indian Constitution at Work | Chapter 1: Constitution: Why and How? | https://ncert.nic.in/textbook/pdf/keps201.pdf | sha256:6f27328080595e7e4aa2af6ae5f4b6c59da65214a29d7346bee4cffbdb4e5166",
   "raw_text_path": "data/study/textbook-first/raw-text/gs2_polity_class11_constitution_ch01_why_and_how.txt",
   "generated_by": "local_source_only_extractive_decode",
-  "generated_at": "2026-05-26T19:53:31.841Z"
+  "generated_at": "2026-05-26T20:26:37.586Z"
 }

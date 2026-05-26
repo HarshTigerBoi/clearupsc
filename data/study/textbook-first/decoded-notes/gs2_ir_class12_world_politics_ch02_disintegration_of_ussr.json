@@ -136,7 +136,7 @@
       "source_trace": "NCERT Class 12 Contemporary World Politics Ch2 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
-      "difficulty_level": 3,
+      "difficulty_level": 1,
       "concepts_tested": [
         "17 Contemporary C entres of Power"
       ]
@@ -150,7 +150,7 @@
         "The photograph below is that of the city of Shanghai, the symbol of China’s new economic power."
       ],
       "correct_answer": 0,
-      "pattern": "statement",
+      "pattern": "match",
       "source_trace": "NCERT Class 12 Contemporary World Politics Ch2 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
@@ -204,13 +204,103 @@
         "This process acquired a political dimension with the creation of the European Parliament."
       ],
       "correct_answer": 0,
+      "pattern": "match",
+      "source_trace": "NCERT Class 12 Contemporary World Politics Ch2 pg 1",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "1957 March 25: These six countries sign the Treaties of Rome"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Disintegration of USSR, which statement is supported by the source text about 1973 January: Denmark, Ireland and the United Kingdom?",
+      "options": [
+        "The collapse of the Soviet bloc put Europe on a fast track and resulted in the establishment of the European Union in 1992.",
+        "The foundation was thus laid for a common foreign and security policy, cooperation on justice and home affairs, and the creation of a single...",
+        "The European Union has e v o l v e d o v e r t i m e f r o m a...",
+        "While the attempts to have a Constitution for the EU have failed, it has its own flag, anthem, founding date, and currency."
+      ],
+      "correct_answer": 0,
+      "pattern": "not_type",
+      "source_trace": "NCERT Class 12 Contemporary World Politics Ch2 pg 1",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "1973 January: Denmark, Ireland and the United Kingdom"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Disintegration of USSR, which statement is supported by the source text about 1979 June: First direct elections to the European Parliament?",
+      "options": [
+        "It also has some form of a common foreign and security policy in its dealings with other nations.",
+        "The European Union has tried to expand areas of cooperation while acquiring new The European Union Flag The circle of gold stars stands for...",
+        "It has twelve stars, as the number twelve is traditionally the symbol of perfection, completeness and unity.",
+        "Source: http://europa.eu/abc/symbols/emblem/index_en.htm"
+      ],
+      "correct_answer": 0,
       "pattern": "statement",
       "source_trace": "NCERT Class 12 Contemporary World Politics Ch2 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
-      "difficulty_level": 3,
+      "difficulty_level": 4,
       "concepts_tested": [
-        "1957 March 25: These six countries sign the Treaties of Rome"
+        "1979 June: First direct elections to the European Parliament"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Disintegration of USSR, which statement is supported by the source text about 1981 January: Greece joins the EEC.?",
+      "options": [
+        "17 Contemporary C entres of Power members, especially from the erstwhile Soviet bloc.",
+        "The process has not proved easy, for people in many countries are not very enthusiastic in giving the EU powers that were exercised by...",
+        "There are also reservations about including some new countries within the EU.",
+        "T h e E U h a s e c o n o m i c , political and diplomatic, and military influence."
+      ],
+      "correct_answer": 0,
+      "pattern": "match",
+      "source_trace": "NCERT Class 12 Contemporary World Politics Ch2 pg 2",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "1981 January: Greece joins the EEC."
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Disintegration of USSR, which statement is supported by the source text about 1985 June: The Schengen Agreement abolishes border?",
+      "options": [
+        "The European Union’s GDP is projected to be approximately $19.35 trillion in the year 2024.",
+        "Its currency, the euro, can pose a threat to the dominance of the US dollar.",
+        "Its share of world trade is much larger than that of the United States allowing it to be more assertive in trade disputes with...",
+        "Its economic power gives it influence over its closest neighbours as well as in Asia and Africa."
+      ],
+      "correct_answer": 0,
+      "pattern": "not_type",
+      "source_trace": "NCERT Class 12 Contemporary World Politics Ch2 pg 2",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 5,
+      "concepts_tested": [
+        "1985 June: The Schengen Agreement abolishes border"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Disintegration of USSR, which statement is supported by the source text about 1986 January: Spain and Portugal join the EEC.?",
+      "options": [
+        "It also functions as an important bloc in international Oh, now I know what a Schengen visa means!",
+        "Under the Schengen agreement, you have to get a visa from just one of the EU countries and that allows you entry in most...",
+        "E uropEan union Map Ireland United Kingdom Portugal Spain France Luxembourg Belgium Germany Italy Netherlands Denmark Sweden Finland Estonia Latvia Lithuania Poland Czech Republic...",
+        "Contemporary World Politics 18 of the EU, France, holds permanent seat on the UN Security Council."
+      ],
+      "correct_answer": 0,
+      "pattern": "statement",
+      "source_trace": "NCERT Class 12 Contemporary World Politics Ch2 pg 2",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 5,
+      "concepts_tested": [
+        "1986 January: Spain and Portugal join the EEC."
       ]
     }
   ],
@@ -220,7 +310,7 @@
     "generation_method": "local_source_only_extractive_decode"
   },
   "content_model": "clearupsc_textbook_decoded_from_source_v1",
-  "decode_status": "textbook_decoded",
+  "decode_status": "textbook_verified",
   "source": {
     "book": "NCERT Class 12 Contemporary World Politics",
     "chapter": 2,
@@ -232,5 +322,5 @@
   "source_trace": "NCERT Class 12 Contemporary World Politics | Chapter 2: Disintegration of USSR | https://ncert.nic.in/textbook/pdf/leps102.pdf | sha256:87c5546fbe5d7d7930580ce9c84164eadf2242a7bb7b4e2973335b0f43ffd578",
   "raw_text_path": "data/study/textbook-first/raw-text/gs2_ir_class12_world_politics_ch02_disintegration_of_ussr.txt",
   "generated_by": "local_source_only_extractive_decode",
-  "generated_at": "2026-05-26T19:54:00.856Z"
+  "generated_at": "2026-05-26T20:27:07.693Z"
 }

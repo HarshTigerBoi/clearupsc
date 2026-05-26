@@ -136,7 +136,7 @@
       "source_trace": "NCERT Class 12 Contemporary World Politics Ch3 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
-      "difficulty_level": 3,
+      "difficulty_level": 1,
       "concepts_tested": [
         "31 Contemporary South Asia"
       ]
@@ -150,7 +150,7 @@
         "Chapter 3 Contemporary South Asia Source: Subhas Rai’s adaptation of ‘Liberty Leading the People’, painted by Eugene Delacroix in 1830."
       ],
       "correct_answer": 0,
-      "pattern": "statement",
+      "pattern": "match",
       "source_trace": "NCERT Class 12 Contemporary World Politics Ch3 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
@@ -204,13 +204,103 @@
         "In this chapter, we shall use South Asia to mean the seven countries mentioned above."
       ],
       "correct_answer": 0,
+      "pattern": "match",
+      "source_trace": "NCERT Class 12 Contemporary World Politics Ch3 pg 1",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "1972 July: India and Pakistan sign the Simla Agreement"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of US Hegemony, which statement is supported by the source text about 1974 May: India conducts nuclear test?",
+      "options": [
+        "Thus defined, South Asia stands for diversity in every sense and yet constitutes one geo- political space.",
+        "The various countries in South Asia do not have the same kind of political systems.",
+        "Despite many problems and limitations, Sri Lanka and India have successfully operated a democratic system since their independence from the British.",
+        "You will study more about the evolution of democracy in India in the textbook that deals with politics in India since independence."
+      ],
+      "correct_answer": 0,
+      "pattern": "not_type",
+      "source_trace": "NCERT Class 12 Contemporary World Politics Ch3 pg 1",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "1974 May: India conducts nuclear test"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of US Hegemony, which statement is supported by the source text about 1985 December: South Asian leaders sign the SAARC Charter?",
+      "options": [
+        "It is, of course, possible to point out many limitations of India’s democracy; but we have to remember the fact that India has remained...",
+        "Pakistan and Bangladesh h a v e e x p e r i e n c e d b o t h civilian and...",
+        "Pakistan began the post- Cold War period with successive democratic governments under B e n a z i r B h u t t...",
+        "It has been run by a civilian government again since 2008."
+      ],
+      "correct_answer": 0,
       "pattern": "statement",
       "source_trace": "NCERT Class 12 Contemporary World Politics Ch3 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
-      "difficulty_level": 3,
+      "difficulty_level": 4,
       "concepts_tested": [
-        "1972 July: India and Pakistan sign the Simla Agreement"
+        "1985 December: South Asian leaders sign the SAARC Charter"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of US Hegemony, which statement is supported by the source text about 1996 December: India and Bangladesh sign the Farakka?",
+      "options": [
+        "Till 2006, Nepal was a constitutional monarchy with the danger of the king taking over executive powers.",
+        "In 2008, the monarchy was abolished and Nepal emerged as a democratic republic.",
+        "From the experience of Bangladesh and Nepal, we can say that democracy is becoming an accepted norm in the entire region of South Asia.",
+        "Identify some features common to all the South Asian countries but different from countries in West Asia or Southeast Asia."
+      ],
+      "correct_answer": 0,
+      "pattern": "match",
+      "source_trace": "NCERT Class 12 Contemporary World Politics Ch3 pg 1",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "1996 December: India and Bangladesh sign the Farakka"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of US Hegemony, which statement is supported by the source text about 1998 May: India and Pakistan conduct nuclear tests?",
+      "options": [
+        "31 Contemporary South Asia Similar changes are taking place in the two smallest countries of the region.",
+        "Under the leadership of the king, it emerged as a multi-party democracy.",
+        "The Maldives, the other island nation, was a Sultanate till 1968 when it was transformed into a republic with a presidential form of government.",
+        "In June 2005, the parliament of the Maldives voted unanimously to introduce a multi-party system."
+      ],
+      "correct_answer": 0,
+      "pattern": "not_type",
+      "source_trace": "NCERT Class 12 Contemporary World Politics Ch3 pg 2",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 5,
+      "concepts_tested": [
+        "1998 May: India and Pakistan conduct nuclear tests"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of US Hegemony, which statement is supported by the source text about 1999 February: Indian PM Vajpayee undertakes bus journey?",
+      "options": [
+        "The Maldivian Democratic Party (MDP) dominates the political affairs of the island.",
+        "Despite the mixed record of the democratic experience, the people in all these countries share the aspiration for democracy.",
+        "A recent survey of the attitudes of the people in the five big countries of the region showed that there is widespread support for...",
+        "Ordinary citizens, rich as well as poor and belonging to different religions, view the idea of democracy positively and support the institutions of representative..."
+      ],
+      "correct_answer": 0,
+      "pattern": "statement",
+      "source_trace": "NCERT Class 12 Contemporary World Politics Ch3 pg 2",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 5,
+      "concepts_tested": [
+        "1999 February: Indian PM Vajpayee undertakes bus journey"
       ]
     }
   ],
@@ -220,7 +310,7 @@
     "generation_method": "local_source_only_extractive_decode"
   },
   "content_model": "clearupsc_textbook_decoded_from_source_v1",
-  "decode_status": "textbook_decoded",
+  "decode_status": "textbook_verified",
   "source": {
     "book": "NCERT Class 12 Contemporary World Politics",
     "chapter": 3,
@@ -232,5 +322,5 @@
   "source_trace": "NCERT Class 12 Contemporary World Politics | Chapter 3: US Hegemony | https://ncert.nic.in/textbook/pdf/leps103.pdf | sha256:8b62f02becd783c084f87c33e6147f547fc5d9f113987654f6c0ed84f2f96cbe",
   "raw_text_path": "data/study/textbook-first/raw-text/gs2_ir_class12_world_politics_ch03_us_hegemony.txt",
   "generated_by": "local_source_only_extractive_decode",
-  "generated_at": "2026-05-26T19:54:01.081Z"
+  "generated_at": "2026-05-26T20:27:07.982Z"
 }

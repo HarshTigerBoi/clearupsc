@@ -115,7 +115,7 @@
       "source_trace": "NCERT Class 10 Science Ch9 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
-      "difficulty_level": 3,
+      "difficulty_level": 1,
       "concepts_tested": [
         "9 CHAPTER"
       ]
@@ -129,7 +129,7 @@
         "If an opaque object on the path of light becomes very small, light has a tendency to bend around it and not walk in..."
       ],
       "correct_answer": 0,
-      "pattern": "statement",
+      "pattern": "match",
       "source_trace": "NCERT Class 10 Science Ch9 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
@@ -183,13 +183,103 @@
         "You are familiar with the formation of image by a plane mirror."
       ],
       "correct_answer": 0,
+      "pattern": "match",
+      "source_trace": "NCERT Class 10 Science Ch9 pg 1",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "9.2.3 Sign Convention for Reflection by Spherical Mirrors"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Heredity and Evolution, which statement is supported by the source text about 9.2.4 Mirror Formula and Magnification?",
+      "options": [
+        "Image formed by a plane mirror is always virtual and erect.",
+        "The image formed is as far behind the mirror as the object is in front of it.",
+        "How would the images be when the reflecting surfaces are curved?",
+        "Try to view your face in its curved surface. n Do you get the image?"
+      ],
+      "correct_answer": 0,
+      "pattern": "not_type",
+      "source_trace": "NCERT Class 10 Science Ch9 pg 1",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "9.2.4 Mirror Formula and Magnification"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Heredity and Evolution, which statement is supported by the source text about 9.3.1 Refraction through a Rectangular Glass Slab?",
+      "options": [
+        "Is it smaller or larger? n Move the spoon slowly away from your face.",
+        "How does it change? n Reverse the spoon and repeat the Activity.",
+        "How does the image look like now? n Compare the characteristics of the image on the two surfaces.",
+        "The curved surface of a shining spoon could be considered as a curved mirror."
+      ],
+      "correct_answer": 0,
       "pattern": "statement",
       "source_trace": "NCERT Class 10 Science Ch9 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
-      "difficulty_level": 3,
+      "difficulty_level": 4,
       "concepts_tested": [
-        "9.2.3 Sign Convention for Reflection by Spherical Mirrors"
+        "9.3.1 Refraction through a Rectangular Glass Slab"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Heredity and Evolution, which statement is supported by the source text about as ABCD.?",
+      "options": [
+        "The most commonly used type of curved mirror is the spherical mirror.",
+        "The reflecting surface of such mirrors can be considered to form a part of the surface of a sphere.",
+        "Such mirrors, whose reflecting surfaces are spherical, are called spherical mirrors.",
+        "We shall now study about spherical mirrors in some detail."
+      ],
+      "correct_answer": 0,
+      "pattern": "match",
+      "source_trace": "NCERT Class 10 Science Ch9 pg 1",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "as ABCD."
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Heredity and Evolution, which statement is supported by the source text about 9.3.2 The Refractive Index?",
+      "options": [
+        "9.2 SPHERIC 9.2 SPHERIC 9.2 SPHERIC 9.2 SPHERIC 9.2 SPHERICAL MIRRORS AL MIRRORS AL MIRRORS AL MIRRORS AL MIRRORS The reflecting surface of a...",
+        "A spherical mirror, whose reflecting surface is curved inwards, that is, faces towards the centre of the sphere, is called a concave mirror.",
+        "A spherical mirror whose reflecting surface is curved outwards, is called a convex mirror.",
+        "The schematic representation of these mirrors is shown in Fig."
+      ],
+      "correct_answer": 0,
+      "pattern": "not_type",
+      "source_trace": "NCERT Class 10 Science Ch9 pg 1",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 5,
+      "concepts_tested": [
+        "9.3.2 The Refractive Index"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Heredity and Evolution, which statement is supported by the source text about 9.3.3 Refraction by Spherical Lenses?",
+      "options": [
+        "You may note in these diagrams that the back of the mirror is shaded.",
+        "You may now understand that the surface of the spoon curved inwards can be approximated to a concave mirror and the surface of the...",
+        "Before we move further on spherical mirrors, we need to recognise and understand the meaning of a few terms.",
+        "These terms are commonly used in discussions about spherical mirrors."
+      ],
+      "correct_answer": 0,
+      "pattern": "statement",
+      "source_trace": "NCERT Class 10 Science Ch9 pg 1",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 5,
+      "concepts_tested": [
+        "9.3.3 Refraction by Spherical Lenses"
       ]
     }
   ],
@@ -199,7 +289,7 @@
     "generation_method": "local_source_only_extractive_decode"
   },
   "content_model": "clearupsc_textbook_decoded_from_source_v1",
-  "decode_status": "textbook_decoded",
+  "decode_status": "textbook_verified",
   "source": {
     "book": "NCERT Class 10 Science",
     "chapter": 9,
@@ -211,5 +301,5 @@
   "source_trace": "NCERT Class 10 Science | Chapter 9: Heredity and Evolution | https://ncert.nic.in/textbook/pdf/jesc109.pdf | sha256:a647d66cd9dd9e767c1fea57baac3a7aeaf9cb7461f87dc3f619e6fee8947497",
   "raw_text_path": "data/study/textbook-first/raw-text/gs3_sci_class10_science_ch09_heredity_and_evolution.txt",
   "generated_by": "local_source_only_extractive_decode",
-  "generated_at": "2026-05-26T19:54:26.232Z"
+  "generated_at": "2026-05-26T20:27:34.602Z"
 }

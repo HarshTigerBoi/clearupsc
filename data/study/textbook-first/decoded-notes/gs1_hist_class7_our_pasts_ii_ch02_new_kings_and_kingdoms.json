@@ -136,7 +136,7 @@
       "source_trace": "NCERT Class 7 Our Pasts II Ch2 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
-      "difficulty_level": 3,
+      "difficulty_level": 1,
       "concepts_tested": [
         "2 KINGS AND"
       ]
@@ -150,7 +150,7 @@
         "One such instance was that of the Rashtrakutas in the Deccan."
       ],
       "correct_answer": 0,
-      "pattern": "statement",
+      "pattern": "match",
       "source_trace": "NCERT Class 7 Our Pasts II Ch2 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
@@ -204,13 +204,103 @@
         "The most frequently mentioned tax is vetti, taken not in cash but in the form of forced labour, and kadamai, or land revenue."
       ],
       "correct_answer": 0,
+      "pattern": "match",
+      "source_trace": "NCERT Class 7 Our Pasts II Ch2 pg 2",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "21 KINGS AND KINGDOMS"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of New Kings and Kingdoms, which statement is supported by the source text about 23 KINGS AND KINGDOMS?",
+      "options": [
+        "There were also taxes on thatching the house, the use of a ladder to climb palm trees, a cess on succession to family property,...",
+        "Are any such taxes collected today? establishment, as well as for the construction of temples turn expected to lead to the acquisition of wealth...",
+        "The functionaries for collecting revenue were generally recruited from influential families, and positions were often hereditary.",
+        "In many cases, close relatives of the king held these positions."
+      ],
+      "correct_answer": 0,
+      "pattern": "not_type",
+      "source_trace": "NCERT Class 7 Our Pasts II Ch2 pg 2",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "23 KINGS AND KINGDOMS"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of New Kings and Kingdoms, which statement is supported by the source text about 25 KINGS AND KINGDOMS?",
+      "options": [
+        "Prashastis and Land Grants contain details that may not be literally true.",
+        "But they tell us how rulers wanted to depict themselves – as valiant, victorious warriors, for example.",
+        "These were composed by learned Brahmanas, who occasionally helped in the administration. ?",
+        "In what ways was this form of administration different from the present-day system?"
+      ],
+      "correct_answer": 0,
       "pattern": "statement",
       "source_trace": "NCERT Class 7 Our Pasts II Ch2 pg 2",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
-      "difficulty_level": 3,
+      "difficulty_level": 4,
       "concepts_tested": [
-        "21 KINGS AND KINGDOMS"
+        "25 KINGS AND KINGDOMS"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of New Kings and Kingdoms, which statement is supported by the source text about 27 KINGS AND KINGDOMS?",
+      "options": [
+        "2 This is a set of copper plates recording a grant of land made by a ruler in the ninth century, written partly in...",
+        "The ring holding the plates together is secured with the royal seal, to indicate that this is an authentic document.",
+        "Also, see if you can find some of the areas mentioned in the inscription on Map 1.",
+        "The “achievements” of Nagabhata Many rulers described their achievements in prashastis (you read about the prashasti of the Gupta ruler Samudragupta last year)."
+      ],
+      "correct_answer": 0,
+      "pattern": "match",
+      "source_trace": "NCERT Class 7 Our Pasts II Ch2 pg 3",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "27 KINGS AND KINGDOMS"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of New Kings and Kingdoms, which statement is supported by the source text about 29 KINGS AND KINGDOMS?",
+      "options": [
+        "One prashasti, written in Sanskrit and found in Gwalior, Madhya Pradesh, describes the exploits of Nagabhata, a Pratihara king, as follows: The kings of...",
+        "These were recorded on copper plates, which were given to those who received the land.",
+        "What was given with the land This is a part of the Tamil section of a land grant given by the Cholas: We have...",
+        "This is what the land contains: fruit-bearing trees, water, land, gardens and orchards, trees, wells, open spaces, pasture-land, a village, anthills, platforms, canals, ditches,..."
+      ],
+      "correct_answer": 0,
+      "pattern": "not_type",
+      "source_trace": "NCERT Class 7 Our Pasts II Ch2 pg 3",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 5,
+      "concepts_tested": [
+        "29 KINGS AND KINGDOMS"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of New Kings and Kingdoms, which statement is supported by the source text about KEYWORDS?",
+      "options": [
+        "He can on betel-leaves, that on woven cloth, as well as on vehicles.",
+        "He can build large rooms, with upper stories made of baked bricks, he can get large and small wells dug, he can plant trees...",
+        "He should ensure that water is not wasted, and that embankments are built.",
+        "List all the possible sources of irrigation mentioned in the inscription, and discuss how these might have been used. poem containing the history of..."
+      ],
+      "correct_answer": 0,
+      "pattern": "statement",
+      "source_trace": "NCERT Class 7 Our Pasts II Ch2 pg 4",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 5,
+      "concepts_tested": [
+        "KEYWORDS"
       ]
     }
   ],
@@ -220,7 +310,7 @@
     "generation_method": "local_source_only_extractive_decode"
   },
   "content_model": "clearupsc_textbook_decoded_from_source_v1",
-  "decode_status": "textbook_decoded",
+  "decode_status": "textbook_verified",
   "source": {
     "book": "NCERT Class 7 Our Pasts II",
     "chapter": 2,
@@ -232,5 +322,5 @@
   "source_trace": "NCERT Class 7 Our Pasts II | Chapter 2: New Kings and Kingdoms | https://ncert.nic.in/textbook/pdf/gess102.pdf | sha256:68d1f68c586036816facbd301841aa42cc7351ac1bc824c7a96e18c3a3647acb",
   "raw_text_path": "data/study/textbook-first/raw-text/gs1_hist_class7_our_pasts_ii_ch02_new_kings_and_kingdoms.txt",
   "generated_by": "local_source_only_extractive_decode",
-  "generated_at": "2026-05-26T19:53:57.130Z"
+  "generated_at": "2026-05-26T20:27:03.788Z"
 }

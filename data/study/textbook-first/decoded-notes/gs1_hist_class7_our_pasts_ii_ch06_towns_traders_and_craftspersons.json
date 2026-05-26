@@ -120,7 +120,7 @@
       "source_trace": "NCERT Class 7 Our Pasts II Ch6 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
-      "difficulty_level": 3,
+      "difficulty_level": 1,
       "concepts_tested": [
         "61 DEVOTIONAL PATHS"
       ]
@@ -134,7 +134,7 @@
         "Many people were uneasy with such ideas and turned to the teachings of the Buddha or the Jainas according to which it was possible..."
       ],
       "correct_answer": 0,
-      "pattern": "statement",
+      "pattern": "match",
       "source_trace": "NCERT Class 7 Our Pasts II Ch6 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
@@ -188,13 +188,103 @@
         "Eventually the Puranas also laid down that it was possible for devotees to receive the grace of God regardless of their caste status."
       ],
       "correct_answer": 0,
+      "pattern": "match",
+      "source_trace": "NCERT Class 7 Our Pasts II Ch6 pg 1",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "65 DEVOTIONAL PATHS"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Towns Traders and Craftspersons, which statement is supported by the source text about 67 DEVOTIONAL PATHS?",
+      "options": [
+        "The idea of bhakti became so popular that even Buddhists and Jainas adopted these beliefs.",
+        "Bhakti in South India – Nayanars and Alvars The seventh to ninth centuries saw the emergence of new religious movements, led by the Nayanars...",
+        "They were sharply critical of the Buddhists and Jainas and preached ardent love of Shiva or Vishnu as the path to salvation.",
+        "They drew upon the ideals of love and heroism as found in the Sangam literature (the earliest example of Tamil literature, composed during the..."
+      ],
+      "correct_answer": 0,
+      "pattern": "not_type",
+      "source_trace": "NCERT Class 7 Our Pasts II Ch6 pg 1",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "67 DEVOTIONAL PATHS"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Towns Traders and Craftspersons, which statement is supported by the source text about 69 DEVOTIONAL PATHS?",
+      "options": [
+        "The Nayanars and Alvars went from place to place composing exquisite poems in praise of the deities enshrined in the villages they visited, and...",
+        "You can observe this process of local myths and legends receiving wider acceptance even today.",
+        "1 A page from a south Indian manuscript of the Bhagavad Gita. ?",
+        "63 DEVOTIONAL PATHS TO THE DIVINE Nayanars and Alvars There were 63 Nayanars, who belonged to different social backgrounds, such as potters, “untouchable” workers,..."
+      ],
+      "correct_answer": 0,
       "pattern": "statement",
       "source_trace": "NCERT Class 7 Our Pasts II Ch6 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
-      "difficulty_level": 3,
+      "difficulty_level": 4,
       "concepts_tested": [
-        "65 DEVOTIONAL PATHS"
+        "69 DEVOTIONAL PATHS"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Towns Traders and Craftspersons, which statement is supported by the source text about 71 DEVOTIONAL PATHS?",
+      "options": [
+        "The best known among them were Appar, Sambandar, Sundarar and Manikkavasagar.",
+        "There are two sets of compilations of their songs – Tevaram and Tiruvacakam.",
+        "There were 12 Alvars, who came from equally divergent backgrounds, the best known being Periyalvar, his daughter Andal, Tondaradippodi Alvar and Nammalvar.",
+        "Between the tenth and twelfth centuries, the Chola and Pandya kings built elaborate temples around many of the shrines visited by the saint-poets, strengthening..."
+      ],
+      "correct_answer": 0,
+      "pattern": "match",
+      "source_trace": "NCERT Class 7 Our Pasts II Ch6 pg 2",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "71 DEVOTIONAL PATHS"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Towns Traders and Craftspersons, which statement is supported by the source text about 73 DEVOTIONAL PATHS?",
+      "options": [
+        "Besides, hagiographies or religious biographies of the Alvars and Nayanars were also composed.",
+        "Today we use these texts as sources for writing histories of the bhakti tradition.",
+        "The devotee and the Lord This is a composition of Manikkavasagar: How does the poet describe his relationship with the deity?",
+        "Philosophy and Bhakti of India, was born in Kerala in the eighth century."
+      ],
+      "correct_answer": 0,
+      "pattern": "not_type",
+      "source_trace": "NCERT Class 7 Our Pasts II Ch6 pg 2",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 5,
+      "concepts_tested": [
+        "73 DEVOTIONAL PATHS"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Towns Traders and Craftspersons, which statement is supported by the source text about 75 DEVOTIONAL PATHS?",
+      "options": [
+        "He was an advocate of Advaita or the doctrine of the oneness of the individual soul and the Supreme God which is the Ultimate...",
+        "He taught that Brahman, the only or Ultimate Reality, was formless and without any attributes.",
+        "He considered the world around us to be an illusion or , and preached renunciation of the world and adoption of the path of...",
+        "Ramanuja, born in Tamil Nadu in the eleventh century, was deeply influenced by the Alvars."
+      ],
+      "correct_answer": 0,
+      "pattern": "statement",
+      "source_trace": "NCERT Class 7 Our Pasts II Ch6 pg 3",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 5,
+      "concepts_tested": [
+        "75 DEVOTIONAL PATHS"
       ]
     }
   ],
@@ -204,7 +294,7 @@
     "generation_method": "local_source_only_extractive_decode"
   },
   "content_model": "clearupsc_textbook_decoded_from_source_v1",
-  "decode_status": "textbook_decoded",
+  "decode_status": "textbook_verified",
   "source": {
     "book": "NCERT Class 7 Our Pasts II",
     "chapter": 6,
@@ -216,5 +306,5 @@
   "source_trace": "NCERT Class 7 Our Pasts II | Chapter 6: Towns Traders and Craftspersons | https://ncert.nic.in/textbook/pdf/gess106.pdf | sha256:79e362e3ad577c5b2405894ebbdd0b2bdd6f807b5e0608dcf11a6ec5231bce3f",
   "raw_text_path": "data/study/textbook-first/raw-text/gs1_hist_class7_our_pasts_ii_ch06_towns_traders_and_craftspersons.txt",
   "generated_by": "local_source_only_extractive_decode",
-  "generated_at": "2026-05-26T19:53:58.017Z"
+  "generated_at": "2026-05-26T20:27:04.773Z"
 }

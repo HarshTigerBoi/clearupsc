@@ -136,7 +136,7 @@
       "source_trace": "NCERT Class 12 Politics in India since Independence Ch7 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
-      "difficulty_level": 3,
+      "difficulty_level": 1,
       "concepts_tested": [
         "114 Politics in India since Independence"
       ]
@@ -150,7 +150,7 @@
         "This decade will be remembered for some major conflicts and accords in the various regions of the country, especially in Assam, the Punjab, Mizoram..."
       ],
       "correct_answer": 0,
-      "pattern": "statement",
+      "pattern": "match",
       "source_trace": "NCERT Class 12 Politics in India since Independence Ch7 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
@@ -204,13 +204,103 @@
         "In this sense the Indian approach was very different from the one adopted in many European countries where they saw cultural diversity as a..."
       ],
       "correct_answer": 0,
+      "pattern": "match",
+      "source_trace": "NCERT Class 12 Politics in India since Independence Ch7 pg 1",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "120 Politics in India since Independence"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Regional Aspirations, which statement is supported by the source text about 122 Politics in India since Independence?",
+      "options": [
+        "India adopted a democratic approach to the question of diversity.",
+        "Democracy allows the political expressions of regional aspirations and does not look upon them as anti-national.",
+        "Besides, democratic politics allows parties and groups to address the people on the basis of their regional identity, aspiration and specific regional problems.",
+        "Thus, in the course of democratic politics, regional aspirations get strengthened."
+      ],
+      "correct_answer": 0,
+      "pattern": "not_type",
+      "source_trace": "NCERT Class 12 Politics in India since Independence Ch7 pg 1",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "122 Politics in India since Independence"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Regional Aspirations, which statement is supported by the source text about 31 October 1984 outside her residence by her?",
+      "options": [
+        "At the same time, democratic politics also means that regional issues and problems will receive adequate attention and accommodation in the policy making process.",
+        "Such an arrangement may sometimes lead to tensions and problems.",
+        "Sometimes, the concern for national unity may overshadow the regional needs Does it mean that regionalism is not as dangerous as communalism?",
+        "114 Politics in India since Independence and aspirations."
+      ],
+      "correct_answer": 0,
       "pattern": "statement",
       "source_trace": "NCERT Class 12 Politics in India since Independence Ch7 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
-      "difficulty_level": 3,
+      "difficulty_level": 4,
       "concepts_tested": [
-        "120 Politics in India since Independence"
+        "31 October 1984 outside her residence by her"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Regional Aspirations, which statement is supported by the source text about 124 Politics in India since Independence?",
+      "options": [
+        "At other times a concern for region alone may blind us to the larger needs of the nation.",
+        "Therefore, political conflicts over issues of power of the regions, their rights and their separate existence are common to nations that want to respect...",
+        "Areas of tension In the first chapter you have seen how immediately after Independence our nation had to cope with many difficult issues like...",
+        "Many observers, both within the country and from outside, had predicted that India as one unified country cannot last long."
+      ],
+      "correct_answer": 0,
+      "pattern": "match",
+      "source_trace": "NCERT Class 12 Politics in India since Independence Ch7 pg 2",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "124 Politics in India since Independence"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Regional Aspirations, which statement is supported by the source text about 11 August 2005?",
+      "options": [
+        "Soon after Independence, the issue of Jammu and Kashmir came up.",
+        "More than that, it was a question of the political aspirations of the people of Kashmir valley.",
+        "Similarly, in some parts of the north-east, there was no consensus about being a part of India.",
+        "First Nagaland and then Mizoram witnessed strong movements demanding separation from India."
+      ],
+      "correct_answer": 0,
+      "pattern": "not_type",
+      "source_trace": "NCERT Class 12 Politics in India since Independence Ch7 pg 2",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 5,
+      "concepts_tested": [
+        "11 August 2005"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Regional Aspirations, which statement is supported by the source text about 126 Politics in India since Independence?",
+      "options": [
+        "In the south, some groups from the Dravid movement briefly toyed with the idea of a separate country.",
+        "These events were followed by mass agitations in many parts for the formation of linguistic States.",
+        "Today’s Andhra Pradesh, Karnataka, Maharashtra, and Gujarat were among the regions affected by these agitations.",
+        "In some parts of southern India, particularly Tamil Nadu, there were protests against making Hindi the official national language of the country."
+      ],
+      "correct_answer": 0,
+      "pattern": "statement",
+      "source_trace": "NCERT Class 12 Politics in India since Independence Ch7 pg 2",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 5,
+      "concepts_tested": [
+        "126 Politics in India since Independence"
       ]
     }
   ],
@@ -220,7 +310,7 @@
     "generation_method": "local_source_only_extractive_decode"
   },
   "content_model": "clearupsc_textbook_decoded_from_source_v1",
-  "decode_status": "textbook_decoded",
+  "decode_status": "textbook_verified",
   "source": {
     "book": "NCERT Class 12 Politics in India since Independence",
     "chapter": 7,
@@ -232,5 +322,5 @@
   "source_trace": "NCERT Class 12 Politics in India since Independence | Chapter 7: Regional Aspirations | https://ncert.nic.in/textbook/pdf/leps207.pdf | sha256:6b84d1e3989e241b1ec0eaac0cc785b32eaba2abd93b9624bbb851ff2bd31d29",
   "raw_text_path": "data/study/textbook-first/raw-text/gs1_post_independence_class12_politics_india_ch07_regional_aspirations.txt",
   "generated_by": "local_source_only_extractive_decode",
-  "generated_at": "2026-05-26T19:53:47.178Z"
+  "generated_at": "2026-05-26T20:26:53.327Z"
 }

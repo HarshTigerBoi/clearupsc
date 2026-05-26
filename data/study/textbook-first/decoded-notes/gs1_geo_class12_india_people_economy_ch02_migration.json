@@ -132,7 +132,7 @@
       "source_trace": "NCERT Class 12 India People and Economy Ch2 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
-      "difficulty_level": 3,
+      "difficulty_level": 1,
       "concepts_tested": [
         "HUMAN"
       ]
@@ -146,7 +146,7 @@
         "The basic differences between rural and urban settlements are as follows : • The rural settlements derive their life support or basic economic needs..."
       ],
       "correct_answer": 0,
-      "pattern": "statement",
+      "pattern": "match",
       "source_trace": "NCERT Class 12 India People and Economy Ch2 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
@@ -200,13 +200,103 @@
         "There are various factors and conditions responsible for having different types of rural settlements in India."
       ],
       "correct_answer": 0,
+      "pattern": "match",
+      "source_trace": "NCERT Class 12 India People and Economy Ch2 pg 1",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "Migration"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Migration, which statement is supported by the source text about Unit II Unit II Unit II?",
+      "options": [
+        "These include: (i) physical features – nature of terrain, altitude, climate and availability of water (ii) cultural and ethenic factors – social structure, caste...",
+        "Rural settlements in India can broadly be put into four types: • Clustered, agglomerated or nucleated, • Semi-clustered or fragmented, • Hamleted, and •...",
+        "Clustered Settlements The clustered rural settlement is a compact or closely built up area of houses.",
+        "In this type of village the general living area is distinct and separated from the surrounding farms, barns and pastures."
+      ],
+      "correct_answer": 0,
+      "pattern": "not_type",
+      "source_trace": "NCERT Class 12 India People and Economy Ch2 pg 1",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "Unit II Unit II Unit II"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Migration, which statement is supported by the source text about Unit II Unit II Chapter?",
+      "options": [
+        "The closely built-up area and its intervening streets present some recognisable pattern or geometric shape, such as rectangular, radial, linear, etc.",
+        "Such settlements are generally found in fertile alluvial plains and in the northeastern states.",
+        "Sometimes, people live in compact village for security or defence reasons, such as in the Bundelkhand region of central India and in Nagaland.",
+        "In Rajasthan, scarcity of water has necessitated compact settlement for maximum utilisation of available water resources."
+      ],
+      "correct_answer": 0,
       "pattern": "statement",
       "source_trace": "NCERT Class 12 India People and Economy Ch2 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
-      "difficulty_level": 3,
+      "difficulty_level": 4,
       "concepts_tested": [
-        "Migration"
+        "Unit II Unit II Chapter"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Migration, which statement is supported by the source text about HUMAN SETTLEMENTS Human Settlement?",
+      "options": [
+        "Hamleted Settlements Sometimes settlement is fragmented into several units physically separated from each other bearing a common name.",
+        "These units are locally called panna, para, palli, nagla, dhani, etc. in various parts of the country.",
+        "This segmentation of a large village is often motivated by social and ethnic factors.",
+        "Such villages are more frequently found in the middle and lower Ganga plain, Chhattisgarh and lower valleys of the Himalayas."
+      ],
+      "correct_answer": 0,
+      "pattern": "match",
+      "source_trace": "NCERT Class 12 India People and Economy Ch2 pg 1",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "HUMAN SETTLEMENTS Human Settlement"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Migration, which statement is supported by the source text about On the?",
+      "options": [
+        "Dispersed Settlements Dispersed or isolated settlement pattern in India appears in the form of isolated huts or hamlets of few huts in remote jungles,...",
+        "2.1 : Clustered Settlements in the North-eastern states Fig.",
+        "Human Settlements 17 evolution in different periods, Indian towns may be classified as: • Ancient towns, • Medieval towns, and • Modern towns.",
+        "Ancient Towns There are number of towns in India having historical background spanning over 2000 years."
+      ],
+      "correct_answer": 0,
+      "pattern": "not_type",
+      "source_trace": "NCERT Class 12 India People and Economy Ch2 pg 1",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 5,
+      "concepts_tested": [
+        "On the"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Migration, which statement is supported by the source text about Rural and?",
+      "options": [
+        "Most of them developed as religious and cultural centres.",
+        "Prayag (Prayagraj), Pataliputra (Patna), Madurai are some other examples of ancient towns in the country.",
+        "Medieval Towns About 100 of the existing towns have their roots in the medieval period.",
+        "Most of them developed as headquarters of principalities and kingdoms."
+      ],
+      "correct_answer": 0,
+      "pattern": "statement",
+      "source_trace": "NCERT Class 12 India People and Economy Ch2 pg 2",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 5,
+      "concepts_tested": [
+        "Rural and"
       ]
     }
   ],
@@ -216,7 +306,7 @@
     "generation_method": "local_source_only_extractive_decode"
   },
   "content_model": "clearupsc_textbook_decoded_from_source_v1",
-  "decode_status": "textbook_decoded",
+  "decode_status": "textbook_verified",
   "source": {
     "book": "NCERT Class 12 India People and Economy",
     "chapter": 2,
@@ -228,5 +318,5 @@
   "source_trace": "NCERT Class 12 India People and Economy | Chapter 2: Migration | https://ncert.nic.in/textbook/pdf/legy202.pdf | sha256:348f0fbd7fce5f14923c0fa145a64e1359ac5af7da5e1a38b9a8c34315442414",
   "raw_text_path": "data/study/textbook-first/raw-text/gs1_geo_class12_india_people_economy_ch02_migration.txt",
   "generated_by": "local_source_only_extractive_decode",
-  "generated_at": "2026-05-26T19:53:40.820Z"
+  "generated_at": "2026-05-26T20:26:47.017Z"
 }

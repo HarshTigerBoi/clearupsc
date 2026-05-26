@@ -115,7 +115,7 @@
       "source_trace": "NCERT Class 10 Science Ch12 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
-      "difficulty_level": 3,
+      "difficulty_level": 1,
       "concepts_tested": [
         "12 CHAPTER"
       ]
@@ -129,7 +129,7 @@
         "Then, what about the reverse possibility of an electric effect of moving magnets?"
       ],
       "correct_answer": 0,
-      "pattern": "statement",
+      "pattern": "match",
       "source_trace": "NCERT Class 10 Science Ch12 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
@@ -183,13 +183,103 @@
         "Through various activities we have observed that like poles repel, while unlike poles of magnets attract each other."
       ],
       "correct_answer": 0,
+      "pattern": "match",
+      "source_trace": "NCERT Class 10 Science Ch12 pg 1",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "12.2.2 Right-Hand Thumb Rule"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Electricity, which statement is supported by the source text about 12.2.3 Magnetic Field due to a Current through a?",
+      "options": [
+        "Why does a compass needle get deflected when brought near a bar magnet?",
+        "A salt-sprinkler may be used for this purpose. n Now tap the board gently. n What do you observe?",
+        "Figure 12.2 Figure 12.2 Figure 12.2 Figure 12.2 Figure 12.2 Iron filings near the bar magnet align themselves along the field lines.",
+        "The iron filings arrange themselves in a pattern as shown Fig."
+      ],
+      "correct_answer": 0,
+      "pattern": "not_type",
+      "source_trace": "NCERT Class 10 Science Ch12 pg 1",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "12.2.3 Magnetic Field due to a Current through a"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Electricity, which statement is supported by the source text about Q U E S T I O N S?",
+      "options": [
+        "The magnet exerts its influence in the region surrounding it.",
+        "The force thus exerted makes iron filings to arrange in a pattern.",
+        "The region surrounding a magnet, in which the force of the magnet can be detected, is said to have a magnetic field.",
+        "The lines along which the iron filings align themselves represent magnetic field lines."
+      ],
+      "correct_answer": 0,
       "pattern": "statement",
       "source_trace": "NCERT Class 10 Science Ch12 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
-      "difficulty_level": 3,
+      "difficulty_level": 4,
       "concepts_tested": [
-        "12.2.2 Right-Hand Thumb Rule"
+        "Q U E S T I O N S"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Electricity, which statement is supported by the source text about 12.2.4 Magnetic Field due to a Current in a Solenoid?",
+      "options": [
+        "Are there other ways of obtaining magnetic field lines around a bar magnet?",
+        "Yes, you can yourself draw the field lines of a bar magnet.",
+        "The south pole of the needle points towards the north pole of the magnet.",
+        "The north pole of the compass is directed away from the north pole of the magnet."
+      ],
+      "correct_answer": 0,
+      "pattern": "match",
+      "source_trace": "NCERT Class 10 Science Ch12 pg 1",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "12.2.4 Magnetic Field due to a Current in a Solenoid"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Electricity, which statement is supported by the source text about 15 A current rating for appliances with higher power ratings such as?",
+      "options": [
+        "Magnetic Effects of Electric Current 197 Magnetic field is a quantity that has both direction and magnitude.",
+        "The direction of the magnetic field is taken to be the direction in which a north pole of the compass needle moves inside it.",
+        "Therefore it is taken by convention that the field lines emerge from north pole and merge at the south pole (note the arrows marked...",
+        "Inside the magnet, the direction of field lines is from its south pole to its north pole."
+      ],
+      "correct_answer": 0,
+      "pattern": "not_type",
+      "source_trace": "NCERT Class 10 Science Ch12 pg 2",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 5,
+      "concepts_tested": [
+        "15 A current rating for appliances with higher power ratings such as"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Electricity, which statement is supported by the source text about E X E R C I S E S?",
+      "options": [
+        "The relative strength of the magnetic field is shown by the degree of closeness of the field lines.",
+        "The field is stronger, that is, the force acting on the pole of another magnet placed is greater where the field lines are crowded...",
+        "If they did, it would mean that at the point of intersection, the compass needle would point towards two directions, which is not possible.",
+        "2 MA MA MA MA MAGNETIC FIELD DUE TO A CURRENT GNETIC FIELD DUE TO A CURRENT GNETIC FIELD DUE TO A CURRENT GNETIC..."
+      ],
+      "correct_answer": 0,
+      "pattern": "statement",
+      "source_trace": "NCERT Class 10 Science Ch12 pg 2",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 5,
+      "concepts_tested": [
+        "E X E R C I S E S"
       ]
     }
   ],
@@ -199,7 +289,7 @@
     "generation_method": "local_source_only_extractive_decode"
   },
   "content_model": "clearupsc_textbook_decoded_from_source_v1",
-  "decode_status": "textbook_decoded",
+  "decode_status": "textbook_verified",
   "source": {
     "book": "NCERT Class 10 Science",
     "chapter": 12,
@@ -211,5 +301,5 @@
   "source_trace": "NCERT Class 10 Science | Chapter 12: Electricity | https://ncert.nic.in/textbook/pdf/jesc112.pdf | sha256:ab82bae095324b3854eed3db8513d201e01477154df902b9dfc166be3dfd0a42",
   "raw_text_path": "data/study/textbook-first/raw-text/gs3_sci_class10_science_ch12_electricity.txt",
   "generated_by": "local_source_only_extractive_decode",
-  "generated_at": "2026-05-26T19:54:26.992Z"
+  "generated_at": "2026-05-26T20:27:35.323Z"
 }

@@ -136,7 +136,7 @@
       "source_trace": "NCERT Class 10 Democratic Politics II Ch2 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
-      "difficulty_level": 3,
+      "difficulty_level": 1,
       "concepts_tested": [
         "7 The federal system thus has dual"
       ]
@@ -150,7 +150,7 @@
         "Most of the large countries of the world are federations."
       ],
       "correct_answer": 0,
-      "pattern": "statement",
+      "pattern": "match",
       "source_trace": "NCERT Class 10 Democratic Politics II Ch2 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
@@ -204,13 +204,103 @@
         "The others are governments at the level of provinces or states that look after much of the day- to-day administering of their state."
       ],
       "correct_answer": 0,
-      "pattern": "statement",
+      "pattern": "match",
       "source_trace": "NCERT Class 10 Democratic Politics II Ch2 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
-      "difficulty_level": 3,
+      "difficulty_level": 4,
       "concepts_tested": [
         "4 The fundamental provisions"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Federalism, which statement is supported by the source text about 5 Courts have the power to?",
+      "options": [
+        "Both these levels of governments enjoy their power independent of the other.",
+        "F e d e r a l i s m 15 7 The federal system thus has dual objectives: to safeguard and promote unity...",
+        "Therefore, two aspects are crucial for the institutions and practice of federalism.",
+        "Governments at different levels should agree to some rules of power-sharing."
+      ],
+      "correct_answer": 0,
+      "pattern": "not_type",
+      "source_trace": "NCERT Class 10 Democratic Politics II Ch2 pg 1",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "5 Courts have the power to"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Federalism, which statement is supported by the source text about 6 Sources of revenue for each level?",
+      "options": [
+        "They should also trust that each would abide by its part of the agreement.",
+        "An ideal federal system has both aspects : mutual trust and agreement to live together.",
+        "The exact balance of power between the central and the state government varies from one federation to another.",
+        "This balance depends mainly on the historical context in which the federation was formed."
+      ],
+      "correct_answer": 0,
+      "pattern": "statement",
+      "source_trace": "NCERT Class 10 Democratic Politics II Ch2 pg 2",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "6 Sources of revenue for each level"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Federalism, which statement is supported by the source text about (a) D A B C?",
+      "options": [
+        "There are two kinds of routes through which federations have been formed.",
+        "The first route involves independent States coming together on their own to form a bigger unit, so that by pooling sovereignty and retaining identity,...",
+        "This type of ‘ coming together’ federations include the USA, Switzerland and Australia.",
+        "In this first category of federations, all the constituent States usually have equal power and are strong vis-à-vis the federal government."
+      ],
+      "correct_answer": 0,
+      "pattern": "match",
+      "source_trace": "NCERT Class 10 Democratic Politics II Ch2 pg 2",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "(a) D A B C"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Federalism, which statement is supported by the source text about (b) B C D A?",
+      "options": [
+        "The second route is where a large country decides to divide its power between the constituent States and the national government.",
+        "India, Spain and Belgium are examples of this kind of ‘ holding together’ federations.",
+        "In this second category, the Central Government tends to be more powerful vis-à- vis the States.",
+        "Very often different constituent units of the federation have unequal powers."
+      ],
+      "correct_answer": 0,
+      "pattern": "not_type",
+      "source_trace": "NCERT Class 10 Democratic Politics II Ch2 pg 2",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 5,
+      "concepts_tested": [
+        "(b) B C D A"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Federalism, which statement is supported by the source text about (c) A C D B?",
+      "options": [
+        "If federalism works only in big countries, why did Belgium adopt it?",
+        "Jurisdiction: The area over which someone has legal authority.",
+        "The area may be defined in terms of geographical boundaries or in terms of certain kinds of subjects.",
+        "In this sense, federations are contrasted with unitary governments."
+      ],
+      "correct_answer": 0,
+      "pattern": "statement",
+      "source_trace": "NCERT Class 10 Democratic Politics II Ch2 pg 2",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 5,
+      "concepts_tested": [
+        "(c) A C D B"
       ]
     }
   ],
@@ -220,7 +310,7 @@
     "generation_method": "local_source_only_extractive_decode"
   },
   "content_model": "clearupsc_textbook_decoded_from_source_v1",
-  "decode_status": "textbook_decoded",
+  "decode_status": "textbook_verified",
   "source": {
     "book": "NCERT Class 10 Democratic Politics II",
     "chapter": 2,
@@ -232,5 +322,5 @@
   "source_trace": "NCERT Class 10 Democratic Politics II | Chapter 2: Federalism | https://ncert.nic.in/textbook/pdf/jess402.pdf | sha256:b8e30317fdd6085e679df31b00337119f638c78b9f8748d35f733b48a77623cb",
   "raw_text_path": "data/study/textbook-first/raw-text/gs2_polity_class10_democratic_politics_ii_ch02_federalism.txt",
   "generated_by": "local_source_only_extractive_decode",
-  "generated_at": "2026-05-26T19:54:12.837Z"
+  "generated_at": "2026-05-26T20:27:20.393Z"
 }

@@ -128,7 +128,7 @@
       "source_trace": "NCERT Class 12 Fundamentals of Human Geography Ch4 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
-      "difficulty_level": 3,
+      "difficulty_level": 1,
       "concepts_tested": [
         "HUNTING AND GATHERING"
       ]
@@ -142,7 +142,7 @@
         "HUNTING AND GATHERING The earliest human beings depended on their immediate environment for their sustenance."
       ],
       "correct_answer": 0,
-      "pattern": "statement",
+      "pattern": "match",
       "source_trace": "NCERT Class 12 Fundamentals of Human Geography Ch4 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
@@ -196,13 +196,103 @@
         "The yield per person is very low and little or no surplus is produced."
       ],
       "correct_answer": 0,
+      "pattern": "match",
+      "source_trace": "NCERT Class 12 Fundamentals of Human Geography Ch4 pg 1",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "SHAFT MINING"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Human Development, which statement is supported by the source text about OPEN-CAST OR?",
+      "options": [
+        "4.2: Areas of Subsistence Gathering Gathering is practised in: (i) high latitude zones which include northern Canada, northern Eurasia and southern Chile; (ii) Low...",
+        "In modern times some gathering is market- oriented and has become commercial.",
+        "Gatherers collect valuable plants such as leaves, barks of trees and medicinal plants and after simple processing sell the products in the market.",
+        "They use various parts of the plants, for example, the bark is used for quinine, tanin extract and cork— leaves supply materials for beverages,..."
+      ],
+      "correct_answer": 0,
+      "pattern": "not_type",
+      "source_trace": "NCERT Class 12 Fundamentals of Human Geography Ch4 pg 1",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "OPEN-CAST OR"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Human Development, which statement is supported by the source text about (STRIP MINING)?",
+      "options": [
+        "The name of the part of the chewing gum after the flavour is gone?",
+        "It is called Chicle — it is made from the milky juice of zapota tree.",
+        "Gathering has little chance of becoming important at the global level.",
+        "Fundamentals of Human Geography 24 activity cannot compete in the world market."
+      ],
+      "correct_answer": 0,
       "pattern": "statement",
       "source_trace": "NCERT Class 12 Fundamentals of Human Geography Ch4 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
-      "difficulty_level": 3,
+      "difficulty_level": 4,
       "concepts_tested": [
-        "SHAFT MINING"
+        "(STRIP MINING)"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Human Development, which statement is supported by the source text about Human Development?",
+      "options": [
+        "Moreover, synthetic products often of better quality and at lower prices, have replaced many items supplied by the gatherers in tropical forests.",
+        "PASTORALISM At some stage in history, with the realisation that hunting is an unsustainable activity, human beings might have thought of domestication of animals.",
+        "People living in different climatic conditions selected and domesticated animals found in those regions.",
+        "Depending on the geographical factors, and technological development, animal rearing today is practised either at the subsistence or at the commercial level."
+      ],
+      "correct_answer": 0,
+      "pattern": "match",
+      "source_trace": "NCERT Class 12 Fundamentals of Human Geography Ch4 pg 2",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "Human Development"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Human Development, which statement is supported by the source text about Human?",
+      "options": [
+        "Nomadic Herding Nomadic herding or pastoral nomadism is a primitive subsistence activity, in which the herders rely on animals for food, clothing, shelter, tools...",
+        "They move from one place to another along with their livestock, depending on the amount and quality of pastures and water.",
+        "Each nomadic community occupies a well-identified territory as a matter of tradition.",
+        "4.3: Nomads taking their sheep up to the Mountains at the onset of summer A wide variety of animals is kept in different regions."
+      ],
+      "correct_answer": 0,
+      "pattern": "not_type",
+      "source_trace": "NCERT Class 12 Fundamentals of Human Geography Ch4 pg 2",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 5,
+      "concepts_tested": [
+        "Human"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Human Development, which statement is supported by the source text about Development?",
+      "options": [
+        "In tropical Africa, cattle are the most important livestock, while in Sahara and Asiatic deserts, sheep, goats and camel are reared.",
+        "In the mountainous areas of Tibet and Andes, yak and llamas and in the Arctic and sub Arctic areas, reindeer are the most important...",
+        "Pastoral nomadism is associated with three important regions.",
+        "The core region extends from the Atlantic shores of North Africa eastwards across the Arabian peninsula into Mongolia and Central China."
+      ],
+      "correct_answer": 0,
+      "pattern": "statement",
+      "source_trace": "NCERT Class 12 Fundamentals of Human Geography Ch4 pg 2",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 5,
+      "concepts_tested": [
+        "Development"
       ]
     }
   ],
@@ -212,7 +302,7 @@
     "generation_method": "local_source_only_extractive_decode"
   },
   "content_model": "clearupsc_textbook_decoded_from_source_v1",
-  "decode_status": "textbook_decoded",
+  "decode_status": "textbook_verified",
   "source": {
     "book": "NCERT Class 12 Fundamentals of Human Geography",
     "chapter": 4,
@@ -224,5 +314,5 @@
   "source_trace": "NCERT Class 12 Fundamentals of Human Geography | Chapter 4: Human Development | https://ncert.nic.in/textbook/pdf/legy104.pdf | sha256:f82c4ed1df4288df2a59a230006e571f377030644fd479dae09bada8edcb4ad0",
   "raw_text_path": "data/study/textbook-first/raw-text/gs1_geo_class12_human_ch04_human_development.txt",
   "generated_by": "local_source_only_extractive_decode",
-  "generated_at": "2026-05-26T19:53:51.844Z"
+  "generated_at": "2026-05-26T20:26:58.315Z"
 }

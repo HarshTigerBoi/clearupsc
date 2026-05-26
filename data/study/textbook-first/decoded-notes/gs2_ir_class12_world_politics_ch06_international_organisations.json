@@ -136,7 +136,7 @@
       "source_trace": "NCERT Class 12 Contemporary World Politics Ch6 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
-      "difficulty_level": 3,
+      "difficulty_level": 1,
       "concepts_tested": [
         "83 Environment and N atural R esources"
       ]
@@ -150,7 +150,7 @@
         "Contemporary World Politics 82 E nvironmEntal ConCErns in Global PolitiCs In this book we have discussed ‘world politics’ in a fairly limited sense: wars..."
       ],
       "correct_answer": 0,
-      "pattern": "statement",
+      "pattern": "match",
       "source_trace": "NCERT Class 12 Contemporary World Politics Ch6 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
@@ -204,13 +204,103 @@
         "C o a s t a l p o l l u t i o n t o o i s increasing globally."
       ],
       "correct_answer": 0,
+      "pattern": "match",
+      "source_trace": "NCERT Class 12 Contemporary World Politics Ch6 pg 1",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "SACRED GROVES IN INDIA"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of International Organisations, which statement is supported by the source text about 89 Environment and N atural R esources?",
+      "options": [
+        "Although the open sea is relatively clean, the coastal waters are Politics in forests, politics in water, politics in atmosphere!",
+        "Around the Aral Sea, thousands of people have had to leave their homes as the toxic waters have totally destroyed the fishing industry.",
+        "The shipping industry and all related activities have collapsed.",
+        "Rising concentrations of salt in the soil have caused low crop yields."
+      ],
+      "correct_answer": 0,
+      "pattern": "not_type",
+      "source_trace": "NCERT Class 12 Contemporary World Politics Ch6 pg 1",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "89 Environment and N atural R esources"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of International Organisations, which statement is supported by the source text about 2 October 2016. And India has?",
+      "options": [
+        "In fact locals joke that if everyone who’d come to study the Aral had brought a bucket of water, the sea would be full...",
+        "83 Environment and N atural R esources becoming increasingly polluted largely due to land-based activities.",
+        "If unchecked, intensive human settlement of coastal zones across the globe will lead to further deterioration in the quality of marine environment.",
+        "You might ask are we not talking here about ‘natural phenomena’ that should be studied in geography rather than in political science."
+      ],
+      "correct_answer": 0,
       "pattern": "statement",
       "source_trace": "NCERT Class 12 Contemporary World Politics Ch6 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
-      "difficulty_level": 3,
+      "difficulty_level": 4,
       "concepts_tested": [
-        "SACRED GROVES IN INDIA"
+        "2 October 2016. And India has"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of International Organisations, which statement is supported by the source text about 91 Environment and N atural R esources?",
+      "options": [
+        "If the various governments take steps to check e n v i r o n m e n t a l d e g...",
+        "Most of them are such that no single government can address them fully.",
+        "Therefore they have to become part of ‘world politics’.",
+        "Issues of environment and natural resources are political in another deeper sense."
+      ],
+      "correct_answer": 0,
+      "pattern": "match",
+      "source_trace": "NCERT Class 12 Contemporary World Politics Ch6 pg 2",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "91 Environment and N atural R esources"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of International Organisations, which statement is supported by the source text about ARE FORESTS “WILDERNESS”??",
+      "options": [
+        "Who gets to use how much of the natural resources of the Earth?",
+        "All these raise the issue of who wields how much power.",
+        "A l t h o u g h e n v i r o n m e n t a l concerns have a...",
+        "The Club of Rome, a global think tank, published a book in 1972 entitled Limits to Growth, dramatising the potential depletion of the Earth’s..."
+      ],
+      "correct_answer": 0,
+      "pattern": "not_type",
+      "source_trace": "NCERT Class 12 Contemporary World Politics Ch6 pg 2",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 5,
+      "concepts_tested": [
+        "ARE FORESTS “WILDERNESS”?"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of International Organisations, which statement is supported by the source text about 93 Environment and N atural R esources?",
+      "options": [
+        "International agencies, including the United Nations Environment Programme (UNEP), began holding international conferences and promoting detailed studies to get a more coordinated and effective...",
+        "Since then, the environment has emerged as a significant issue of global politics.",
+        "T h e g r o w i n g f o c u s o n environmental issues within the arena of global...",
+        "The summit was Collect news clippings on reports linking environment and politics in your own locality."
+      ],
+      "correct_answer": 0,
+      "pattern": "statement",
+      "source_trace": "NCERT Class 12 Contemporary World Politics Ch6 pg 2",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 5,
+      "concepts_tested": [
+        "93 Environment and N atural R esources"
       ]
     }
   ],
@@ -220,7 +310,7 @@
     "generation_method": "local_source_only_extractive_decode"
   },
   "content_model": "clearupsc_textbook_decoded_from_source_v1",
-  "decode_status": "textbook_decoded",
+  "decode_status": "textbook_verified",
   "source": {
     "book": "NCERT Class 12 Contemporary World Politics",
     "chapter": 6,
@@ -232,5 +322,5 @@
   "source_trace": "NCERT Class 12 Contemporary World Politics | Chapter 6: International Organisations | https://ncert.nic.in/textbook/pdf/leps106.pdf | sha256:4a3fee6b7a6b2c230073ae167a0392e9c0b2234d49d725d9aeafff6a5ddcceda",
   "raw_text_path": "data/study/textbook-first/raw-text/gs2_ir_class12_world_politics_ch06_international_organisations.txt",
   "generated_by": "local_source_only_extractive_decode",
-  "generated_at": "2026-05-26T19:54:01.783Z"
+  "generated_at": "2026-05-26T20:27:08.752Z"
 }

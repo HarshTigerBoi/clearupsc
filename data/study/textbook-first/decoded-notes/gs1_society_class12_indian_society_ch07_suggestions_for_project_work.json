@@ -115,7 +115,7 @@
       "source_trace": "NCERT Class 12 Indian Society Ch7 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
-      "difficulty_level": 3,
+      "difficulty_level": 1,
       "concepts_tested": [
         "7.1 V ariety of Methods"
       ]
@@ -129,7 +129,7 @@
         "A “real” research project would obviously be more elaborate and involve much more time and effort than is possible in your setting."
       ],
       "correct_answer": 0,
-      "pattern": "statement",
+      "pattern": "match",
       "source_trace": "NCERT Class 12 Indian Society Ch7 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
@@ -183,13 +183,103 @@
         "Are children in single sex schools happier than children in co-educational schools, or some other such question."
       ],
       "correct_answer": 0,
+      "pattern": "match",
+      "source_trace": "NCERT Class 12 Indian Society Ch7 pg 1",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "TYPE OF RESEARCH METHOD / TECHNIQUE"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Suggestions for Project Work, which statement is supported by the source text about OBSERVATION SURVEY?",
+      "options": [
+        "Having decided on a specific question, the next step is to choose the appropriate method.",
+        "For the last question, ‘Are school children in single sex schools happier?’, for example, you could choose to interview students of different kinds of...",
+        "In the interview you could ask them directly how they felt about their school.",
+        "You could then analyse the answers you collect to see if there is any difference between those who attend different kinds of schools."
+      ],
+      "correct_answer": 0,
+      "pattern": "not_type",
+      "source_trace": "NCERT Class 12 Indian Society Ch7 pg 1",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "OBSERVATION SURVEY"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Suggestions for Project Work, which statement is supported by the source text about ARCHIVAL INTERVIEWS COMMENTS /?",
+      "options": [
+        "As an alternative, you could try to use a different method – say that of direct observation – to answer the research question.",
+        "This means that you would have to spend time in co-educational and boys/girls schools, observing how students behave.",
+        "You would have to decide on some criteria by which you could say if students are",
+        "Suggestions for Project Work 119 more or less happy with their school."
+      ],
+      "correct_answer": 0,
       "pattern": "statement",
       "source_trace": "NCERT Class 12 Indian Society Ch7 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
-      "difficulty_level": 3,
+      "difficulty_level": 4,
       "concepts_tested": [
-        "TYPE OF RESEARCH METHOD / TECHNIQUE"
+        "ARCHIVAL INTERVIEWS COMMENTS /"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Suggestions for Project Work, which statement is supported by the source text about SUGGESTIONS?",
+      "options": [
+        "So, after observing different kinds of schools for sufficient time, you could hope to answer your question.",
+        "This would involve preparing a questionnaire designed to get information on how students felt about their schools.",
+        "You would then distribute the questionnaire to an equal number of students in each kind of school.",
+        "You would then collect the filled-in questionnaires and analyse the results."
+      ],
+      "correct_answer": 0,
+      "pattern": "match",
+      "source_trace": "NCERT Class 12 Indian Society Ch7 pg 2",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "SUGGESTIONS"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Suggestions for Project Work, which statement is supported by the source text about Suggestions for Project Work?",
+      "options": [
+        "Here are some examples of some practical difficulties that you might face when doing research of this kind.",
+        "You must first make enough copies of the questionnaire.",
+        "Next, you may need permission from teachers to distribute the questionnaire to students in their classrooms.",
+        "You may not get permission the first time, or you may be asked to come back later….."
+      ],
+      "correct_answer": 0,
+      "pattern": "not_type",
+      "source_trace": "NCERT Class 12 Indian Society Ch7 pg 2",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 5,
+      "concepts_tested": [
+        "Suggestions for Project Work"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Suggestions for Project Work, which statement is supported by the source text about Suggestions?",
+      "options": [
+        "After you have distributed the questionnaire you may find that many people have not bothered to return it to you or have not answered...",
+        "You then have to decide how to deal with this – go back to your respondents and ask them to complete the questionnaires; or...",
+        "You must be prepared to deal with such problems during research work.",
+        "7.1 V ariety of Methods You may remember the discussion of research methods in Chapter 5 of the Class XI textbook, Introducing Sociology."
+      ],
+      "correct_answer": 0,
+      "pattern": "statement",
+      "source_trace": "NCERT Class 12 Indian Society Ch7 pg 2",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 5,
+      "concepts_tested": [
+        "Suggestions"
       ]
     }
   ],
@@ -199,7 +289,7 @@
     "generation_method": "local_source_only_extractive_decode"
   },
   "content_model": "clearupsc_textbook_decoded_from_source_v1",
-  "decode_status": "textbook_decoded",
+  "decode_status": "textbook_verified",
   "source": {
     "book": "NCERT Class 12 Indian Society",
     "chapter": 7,
@@ -211,5 +301,5 @@
   "source_trace": "NCERT Class 12 Indian Society | Chapter 7: Suggestions for Project Work | https://ncert.nic.in/textbook/pdf/lesy107.pdf | sha256:f6dfa5c68a4e0a6094949afbb9f8996e39703994c7905eb1ed4f66d4068a28bd",
   "raw_text_path": "data/study/textbook-first/raw-text/gs1_society_class12_indian_society_ch07_suggestions_for_project_work.txt",
   "generated_by": "local_source_only_extractive_decode",
-  "generated_at": "2026-05-26T19:53:49.066Z"
+  "generated_at": "2026-05-26T20:26:55.369Z"
 }

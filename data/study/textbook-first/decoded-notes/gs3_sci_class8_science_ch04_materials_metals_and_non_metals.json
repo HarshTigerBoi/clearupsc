@@ -115,7 +115,7 @@
       "source_trace": "NCERT Class 8 Science Ch4 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
-      "difficulty_level": 3,
+      "difficulty_level": 1,
       "concepts_tested": [
         "COMBUSTION AND FLAME COMBUSTION AND FLAME"
       ]
@@ -129,7 +129,7 @@
         "We learnt that magnesium burns to form magnesium oxide and produces heat and light (Fig."
       ],
       "correct_answer": 0,
-      "pattern": "statement",
+      "pattern": "match",
       "source_trace": "NCERT Class 8 Science Ch4 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
@@ -183,13 +183,103 @@
         "In our body food is broken down by reaction with oxygen and heat is produced."
       ],
       "correct_answer": 0,
+      "pattern": "match",
+      "source_trace": "NCERT Class 8 Science Ch4 pg 1",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "COMBUSTION AND FLAME 43"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Materials Metals and Non-Metals, which statement is supported by the source text about SCIENCE 44?",
+      "options": [
+        "Can you name some more substances which are combustible?",
+        "Let us investigate conditions under which combustion takes place.",
+        "Now remove the blocks and let the chimney rest on the table [Fig.",
+        "Can you infer anything at all about the role played by air in the process of burning?"
+      ],
+      "correct_answer": 0,
+      "pattern": "not_type",
+      "source_trace": "NCERT Class 8 Science Ch4 pg 1",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "SCIENCE 44"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Materials Metals and Non-Metals, which statement is supported by the source text about 4.2 How Do We Control Fire??",
+      "options": [
+        "The candle burns freely in case (a) when air can enter the chimney from below.",
+        "In case (b), when air does not enter the chimney from below, the flame flickers and produces smoke.",
+        "In case (c), the flame finally g o e s o f f b e c a u s e t h e a...",
+        "SCIENCE 42 Activity 4.3 Place a piece of burning wood or charcoal on an iron plate or Tawa."
+      ],
+      "correct_answer": 0,
       "pattern": "statement",
       "source_trace": "NCERT Class 8 Science Ch4 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
-      "difficulty_level": 3,
+      "difficulty_level": 4,
       "concepts_tested": [
-        "COMBUSTION AND FLAME 43"
+        "4.2 How Do We Control Fire?"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Materials Metals and Non-Metals, which statement is supported by the source text about COMBUSTION AND FLAME 45?",
+      "options": [
+        "Cover it with a glass jar or a tumbler, or a transparent plastic jar.",
+        "You might have heard that when the clothes of a person catch fire, the person We have read that the sun produces its own...",
+        "In the sun, heat and light are produced by nuclear reactions.",
+        "During extreme heat of summer, at some places dry grass catches fire."
+      ],
+      "correct_answer": 0,
+      "pattern": "match",
+      "source_trace": "NCERT Class 8 Science Ch4 pg 2",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "COMBUSTION AND FLAME 45"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Materials Metals and Non-Metals, which statement is supported by the source text about 4.3 Types of Combustion?",
+      "options": [
+        "From the grass, it spreads to trees, and very soon the whole forest is on fire (Fig.",
+        "4.3 : Blanket wrapped around a person whose clothes caught fire Now recall some of your experiences.",
+        "You must have had an experience of burning a piece of paper.",
+        "Does it burn when a burning matchstick is brought near it?"
+      ],
+      "correct_answer": 0,
+      "pattern": "not_type",
+      "source_trace": "NCERT Class 8 Science Ch4 pg 2",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 5,
+      "concepts_tested": [
+        "4.3 Types of Combustion"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Materials Metals and Non-Metals, which statement is supported by the source text about SCIENCE 46?",
+      "options": [
+        "Can you burn a piece of wood by bringing a lighted matchstick near it?",
+        "Why do you have to use paper or kerosene oil to start fire in wood or coal?",
+        "Have you heard of forest fires? is covered with a blanket to extinguish fire (Fig.",
+        "COMBUSTION AND FLAME 43 We find that a combustible substance cannot catch fire or burn as long as its temperature is lower than its..."
+      ],
+      "correct_answer": 0,
+      "pattern": "statement",
+      "source_trace": "NCERT Class 8 Science Ch4 pg 2",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 5,
+      "concepts_tested": [
+        "SCIENCE 46"
       ]
     }
   ],
@@ -199,7 +289,7 @@
     "generation_method": "local_source_only_extractive_decode"
   },
   "content_model": "clearupsc_textbook_decoded_from_source_v1",
-  "decode_status": "textbook_decoded",
+  "decode_status": "textbook_verified",
   "source": {
     "book": "NCERT Class 8 Science",
     "chapter": 4,
@@ -211,5 +301,5 @@
   "source_trace": "NCERT Class 8 Science | Chapter 4: Materials Metals and Non-Metals | https://ncert.nic.in/textbook/pdf/hesc104.pdf | sha256:d39c7be4c078f48b970f810af99d37c22e02b03fec4e6219752e38f2cea3f81f",
   "raw_text_path": "data/study/textbook-first/raw-text/gs3_sci_class8_science_ch04_materials_metals_and_non_metals.txt",
   "generated_by": "local_source_only_extractive_decode",
-  "generated_at": "2026-05-26T19:54:37.790Z"
+  "generated_at": "2026-05-26T20:27:46.502Z"
 }

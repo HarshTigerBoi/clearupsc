@@ -128,7 +128,7 @@
       "source_trace": "NCERT Class 11 Political Theory Ch7 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
-      "difficulty_level": 3,
+      "difficulty_level": 1,
       "concepts_tested": [
         "7.1 INTRODUCING NATIONALISM"
       ]
@@ -142,7 +142,7 @@
         "During the last two centuries or more, nationalism has emerged as one of the most compelling of political creeds which has helped to shape..."
       ],
       "correct_answer": 0,
-      "pattern": "statement",
+      "pattern": "match",
       "source_trace": "NCERT Class 11 Political Theory Ch7 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
@@ -196,13 +196,103 @@
         "But nationalism also accompanied and contributed to the break up of large empires such as the Austro-Hungarian and Russian"
       ],
       "correct_answer": 0,
-      "pattern": "statement",
+      "pattern": "match",
       "source_trace": "NCERT Class 11 Political Theory Ch7 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
-      "difficulty_level": 3,
+      "difficulty_level": 4,
       "concepts_tested": [
         "DEMAND FOR NATIONAL SELF-DETERMINATION IN BASQUE"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Nationalism, which statement is supported by the source text about 7.4 NATIONALISM AND PLURALISM?",
+      "options": [
+        "NationalismNationalismPolitical Theory 99 empires in the early twentieth century in Europe as well as the break-up of the British, French, Dutch and Portuguese empires...",
+        "The struggle for freedom from colonial rule by India and other former colonies were nationalist struggles, inspired by the desire to establish nation-states which...",
+        "The process of redrawing state boundaries continues to take place.",
+        "Since 1960, even apparently stable nation-states have been confronted by nationalist demands put forward by groups or regions and these may include demands for..."
+      ],
+      "correct_answer": 0,
+      "pattern": "not_type",
+      "source_trace": "NCERT Class 11 Political Theory Ch7 pg 2",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "7.4 NATIONALISM AND PLURALISM"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Nationalism, which statement is supported by the source text about TAGORE’S CRITIQUE OF NATIONALISM?",
+      "options": [
+        "Today, in many parts of the world we witness nationalist struggles that threaten to divide existing states.",
+        "Such separatist movements have developed among the Quebecois in Canada, the Basques in northern Spain, the Kurds in Turkey and Iraq, and the Tamils...",
+        "The language of nationalism is also used by some groups in India.",
+        "Arab nationalism today may hope to unite Arab countries in a pan Arab union but separatist movements like the Basques or Kurds struggle to..."
+      ],
+      "correct_answer": 0,
+      "pattern": "statement",
+      "source_trace": "NCERT Class 11 Political Theory Ch7 pg 2",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "TAGORE’S CRITIQUE OF NATIONALISM"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Nationalism, which statement is supported by the source text about Nationalism?",
+      "options": [
+        "We may all agree that nationalism is a powerful force in the world even today.",
+        "But it is more difficult to arrive at agreement regarding the definition of terms like nation or nationalism.",
+        "Why do people form nations and to what do nations aspire?",
+        "Why are people ready to sacrifice and even die for their nation?"
+      ],
+      "correct_answer": 0,
+      "pattern": "match",
+      "source_trace": "NCERT Class 11 Political Theory Ch7 pg 2",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "Nationalism"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Nationalism, which statement is supported by the source text about Nationalism Overview This?",
+      "options": [
+        "Why, and in what way, are claims to nationhood linked to claims to statehood?",
+        "Do nations have a right to statehood or national self-determination?",
+        "Or can the claims of nationalism be met without conceding separate statehood?",
+        "You can see this when Indian team goes out to play cricket."
+      ],
+      "correct_answer": 0,
+      "pattern": "not_type",
+      "source_trace": "NCERT Class 11 Political Theory Ch7 pg 2",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 5,
+      "concepts_tested": [
+        "Nationalism Overview This"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Nationalism, which statement is supported by the source text about NationalismNationalismPolitical Theory?",
+      "options": [
+        "Or when you discover that Indians living abroad still watch Bollywood films.",
+        "NationalismNationalismPolitical Theory 100 7.2 NATIONS AND NATIONALISM A nation is not any casual collection of people.",
+        "At the same time it is also different from other groups or communities found in human society.",
+        "It is different from the family which is based on face-to-face relationships with each member having direct personal knowledge of the identity and character..."
+      ],
+      "correct_answer": 0,
+      "pattern": "statement",
+      "source_trace": "NCERT Class 11 Political Theory Ch7 pg 2",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 5,
+      "concepts_tested": [
+        "NationalismNationalismPolitical Theory"
       ]
     }
   ],
@@ -212,7 +302,7 @@
     "generation_method": "local_source_only_extractive_decode"
   },
   "content_model": "clearupsc_textbook_decoded_from_source_v1",
-  "decode_status": "textbook_decoded",
+  "decode_status": "textbook_verified",
   "source": {
     "book": "NCERT Class 11 Political Theory",
     "chapter": 7,
@@ -224,5 +314,5 @@
   "source_trace": "NCERT Class 11 Political Theory | Chapter 7: Nationalism | https://ncert.nic.in/textbook/pdf/keps107.pdf | sha256:6b32a777a5f4a9f96026130a8f319c10a914a6090a5c39ddfa80f1b21d3391b4",
   "raw_text_path": "data/study/textbook-first/raw-text/gs2_polity_class11_theory_ch07_nationalism.txt",
   "generated_by": "local_source_only_extractive_decode",
-  "generated_at": "2026-05-26T19:54:03.682Z"
+  "generated_at": "2026-05-26T20:27:10.737Z"
 }

@@ -115,7 +115,7 @@
       "source_trace": "NCERT Class 7 Science Ch9 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
-      "difficulty_level": 3,
+      "difficulty_level": 1,
       "concepts_tested": [
         "9.1 SLOW OR FAST"
       ]
@@ -129,7 +129,7 @@
         "Let us look at the motion of vehicles moving on a road."
       ],
       "correct_answer": 0,
-      "pattern": "statement",
+      "pattern": "match",
       "source_trace": "NCERT Class 7 Science Ch9 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
@@ -183,13 +183,103 @@
         "In the examples given above, a higher speed seems to indicate that a given distance has been covered in a shorter time, or a..."
       ],
       "correct_answer": 0,
+      "pattern": "match",
+      "source_trace": "NCERT Class 7 Science Ch9 pg 1",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "9.3 M EASUREMENT OF TIME"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Soil, which statement is supported by the source text about M OTION AND T IME 95?",
+      "options": [
+        "The most convenient way to find out which of the two or more objects is moving faster is to compare the distances moved by...",
+        "Thus, if we know the distance covered by two buses in one hour, we can tell which one is faster.",
+        "We call the distance covered by an object in a unit time as the speed of the object.",
+        "When we say that a car is moving with a speed of 50 kilometres per hour, it implies that it will cover a distance..."
+      ],
+      "correct_answer": 0,
+      "pattern": "not_type",
+      "source_trace": "NCERT Class 7 Science Ch9 pg 1",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "M OTION AND T IME 95"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Soil, which statement is supported by the source text about SCIENCE 96?",
+      "options": [
+        "9.1 Vehicles moving in the same direction on a road 50 kilometres in one hour.",
+        "However, a car seldom moves with a constant speed for one hour.",
+        "In fact, it starts moving slowly and then picks up speed.",
+        "So, when we say that the car has a speed of 50 kilometres per hour, we usually consider only the total distance covered by..."
+      ],
+      "correct_answer": 0,
       "pattern": "statement",
       "source_trace": "NCERT Class 7 Science Ch9 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
-      "difficulty_level": 3,
+      "difficulty_level": 4,
       "concepts_tested": [
-        "9.3 M EASUREMENT OF TIME"
+        "SCIENCE 96"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Soil, which statement is supported by the source text about M OTION AND T IME 97?",
+      "options": [
+        "SCIENCE 94 We can determine the speed of a given object once we can measure the time taken by it to cover a certain...",
+        "9.3 M EASUREMENT OF TIME If you did not have a clock, how would you decide what time of the day it is?",
+        "Have you ever wondered how our elders could tell the approximate time of the day by just looking at shadows?",
+        "Our ancestors noticed that many events in nature repeat themselves after definite intervals of time."
+      ],
+      "correct_answer": 0,
+      "pattern": "match",
+      "source_trace": "NCERT Class 7 Science Ch9 pg 2",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "M OTION AND T IME 97"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Soil, which statement is supported by the source text about 9.4 M EASURING S PEED?",
+      "options": [
+        "For example, they found that the sun rises everyday in the morning.",
+        "The time between one sunrise and the next was called a day.",
+        "Similarly, a month was measured from one new moon to the next.",
+        "A year was fixed as the time taken by the earth to complete one revolution of the sun."
+      ],
+      "correct_answer": 0,
+      "pattern": "not_type",
+      "source_trace": "NCERT Class 7 Science Ch9 pg 2",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 5,
+      "concepts_tested": [
+        "9.4 M EASURING S PEED"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Soil, which statement is supported by the source text about SCIENCE 98?",
+      "options": [
+        "Often we need to measure intervals of time which are much shorter than a day.",
+        "Clocks or watches are perhaps the most common time measuring devices.",
+        "Have you ever wondered how clocks and watches measure time?",
+        "One of the most well-known periodic motions is that of a simple pendulum."
+      ],
+      "correct_answer": 0,
+      "pattern": "statement",
+      "source_trace": "NCERT Class 7 Science Ch9 pg 2",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 5,
+      "concepts_tested": [
+        "SCIENCE 98"
       ]
     }
   ],
@@ -199,7 +289,7 @@
     "generation_method": "local_source_only_extractive_decode"
   },
   "content_model": "clearupsc_textbook_decoded_from_source_v1",
-  "decode_status": "textbook_decoded",
+  "decode_status": "textbook_verified",
   "source": {
     "book": "NCERT Class 7 Science",
     "chapter": 9,
@@ -211,5 +301,5 @@
   "source_trace": "NCERT Class 7 Science | Chapter 9: Soil | https://ncert.nic.in/textbook/pdf/gesc109.pdf | sha256:de7cf65a61a60371a6425f56aa51396de3cf54acc895cfa6be27333702013d7c",
   "raw_text_path": "data/study/textbook-first/raw-text/gs3_sci_class7_science_ch09_soil.txt",
   "generated_by": "local_source_only_extractive_decode",
-  "generated_at": "2026-05-26T19:54:35.994Z"
+  "generated_at": "2026-05-26T20:27:44.503Z"
 }

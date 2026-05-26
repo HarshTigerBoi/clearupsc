@@ -136,7 +136,7 @@
       "source_trace": "NCERT Class 10 India and the Contemporary World II Ch1 pg 2",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
-      "difficulty_level": 3,
+      "difficulty_level": 1,
       "concepts_tested": [
         "EVENTS AND PROCESSES"
       ]
@@ -150,7 +150,7 @@
         "1 — The Dream of Worldwide Democratic and Social Republics – The Pact Between Nations, a print prepared by Frédéric Sorrieu, 1848."
       ],
       "correct_answer": 0,
-      "pattern": "statement",
+      "pattern": "match",
       "source_trace": "NCERT Class 10 India and the Contemporary World II Ch1 pg 2",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
@@ -204,13 +204,103 @@
         "The concept and practices of a modern state, in which a centralised power exercised sovereign control over a clearly defined territory, had been developing..."
       ],
       "correct_answer": 0,
+      "pattern": "match",
+      "source_trace": "NCERT Class 10 India and the Contemporary World II Ch1 pg 3",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "(DENMARK)"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Rise of Nationalism in Europe, which statement is supported by the source text about NORWAY?",
+      "options": [
+        "But a nation-state was one in which the majority of its citizens, and not only its rulers, came to develop a sense of common...",
+        "This commonness did not exist from time immemorial; it was forged through struggles, through the actions of leaders and the common people.",
+        "This chapter will look at the diverse processes through which nation-states and nationalism came into being in nineteenth-century Europe.",
+        "Ernst Renan, ‘What is a Nation?’ In a lecture delivered at the University of Sorbonne in 1882, the French philosopher Ernst Renan (1823-92) outlined..."
+      ],
+      "correct_answer": 0,
+      "pattern": "not_type",
+      "source_trace": "NCERT Class 10 India and the Contemporary World II Ch1 pg 3",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "NORWAY"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Rise of Nationalism in Europe, which statement is supported by the source text about (SWEDEN)?",
+      "options": [
+        "The lecture was subsequently published as a famous essay entitled ‘Qu’est-ce qu’une nation?’ (‘What is a Nation?’).",
+        "In this essay Renan criticises the notion suggested by others that a nation is formed by a common language, race, religion, or territory: ‘A...",
+        "A heroic past, great men, glory, that is the social capital upon which one bases a national idea.",
+        "To have common glories in the past, to have a common will in the present, to have performed great deeds together, to wish to..."
+      ],
+      "correct_answer": 0,
       "pattern": "statement",
       "source_trace": "NCERT Class 10 India and the Contemporary World II Ch1 pg 3",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
-      "difficulty_level": 3,
+      "difficulty_level": 4,
       "concepts_tested": [
-        "(DENMARK)"
+        "(SWEDEN)"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Rise of Nationalism in Europe, which statement is supported by the source text about SWEDEN?",
+      "options": [
+        "A nation is therefore a large-scale solidarity … Its existence is a daily plebiscite … A province is its inhabitants; if anyone has the...",
+        "A nation never has any real interest in annexing or holding on to a country against its will.",
+        "The existence of nations is a good thing, a necessity even.",
+        "Their existence is a guarantee of liberty, which would be lost if the world had only one law and only one master.’ Source Source..."
+      ],
+      "correct_answer": 0,
+      "pattern": "match",
+      "source_trace": "NCERT Class 10 India and the Contemporary World II Ch1 pg 3",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "SWEDEN"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Rise of Nationalism in Europe, which statement is supported by the source text about DENMARK?",
+      "options": [
+        "Discuss New words Plebiscite – A direct vote by which all the people of a region are asked to accept or reject a proposal",
+        "5 Nationalism in Europe 1 The French Revolution and the Idea of the Nation The first clear expression of nationalism came with the French...",
+        "France, as you would remember, was a full-fledged territorial state in 1789 under the rule of an absolute monarch.",
+        "The political and constitutional changes that came in the wake of the French Revolution led to the transfer of sovereignty from the monarchy to..."
+      ],
+      "correct_answer": 0,
+      "pattern": "not_type",
+      "source_trace": "NCERT Class 10 India and the Contemporary World II Ch1 pg 3",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 5,
+      "concepts_tested": [
+        "DENMARK"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Rise of Nationalism in Europe, which statement is supported by the source text about HABOVER?",
+      "options": [
+        "The revolution proclaimed that it was the people who would henceforth constitute the nation and shape its destiny.",
+        "From the very beginning, the French revolutionaries introduced various measures and practices that could create a sense of collective identity amongst the French people.",
+        "The ideas of la patrie (the fatherland) and le citoyen (the citizen) emphasised the notion of a united community enjoying equal rights under a...",
+        "A new French flag, the tricolour, was chosen to replace the former royal standard."
+      ],
+      "correct_answer": 0,
+      "pattern": "statement",
+      "source_trace": "NCERT Class 10 India and the Contemporary World II Ch1 pg 4",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 5,
+      "concepts_tested": [
+        "HABOVER"
       ]
     }
   ],
@@ -220,7 +310,7 @@
     "generation_method": "local_source_only_extractive_decode"
   },
   "content_model": "clearupsc_textbook_decoded_from_source_v1",
-  "decode_status": "textbook_decoded",
+  "decode_status": "textbook_verified",
   "source": {
     "book": "NCERT Class 10 India and the Contemporary World II",
     "chapter": 1,
@@ -232,5 +322,5 @@
   "source_trace": "NCERT Class 10 India and the Contemporary World II | Chapter 1: Rise of Nationalism in Europe | https://ncert.nic.in/textbook/pdf/jess301.pdf | sha256:b66dc3c971b610d0d56046450e23d494327f591fcc9afcf4ecdffc46b32252af",
   "raw_text_path": "data/study/textbook-first/raw-text/gs1_hist_class10_contemporary_world_ii_ch01_rise_of_nationalism_in_europe.txt",
   "generated_by": "local_source_only_extractive_decode",
-  "generated_at": "2026-05-26T19:54:08.966Z"
+  "generated_at": "2026-05-26T20:27:16.314Z"
 }

@@ -136,7 +136,7 @@
       "source_trace": "NCERT Class 12 India People and Economy Ch8 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
-      "difficulty_level": 3,
+      "difficulty_level": 1,
       "concepts_tested": [
         "INTERNATIONAL"
       ]
@@ -150,7 +150,7 @@
         "There are numerous reasons for this sharp rise in overseas trade, such as the momentum picked up by the manufacturing sectors, the liberal policies..."
       ],
       "correct_answer": 0,
-      "pattern": "statement",
+      "pattern": "match",
       "source_trace": "NCERT Class 12 India People and Economy Ch8 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
@@ -204,13 +204,103 @@
         "After 1970s, foodgrain import was discontinued due to the success of Green Draw bar diagram to show the trends of exports of all items..."
       ],
       "correct_answer": 0,
+      "pattern": "match",
+      "source_trace": "NCERT Class 12 India People and Economy Ch8 pg 1",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "Manufacturing"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Manufacturing Industries, which statement is supported by the source text about Industries?",
+      "options": [
+        "Commodities 2015-16 2016-17 2020-21 2021-22 Agriculture and allied products 12.6 12.3 14.3 11.9 Ore and Minerals 1.6 1.9 3.2 2.0 Manufactured goods 72.9 73.6...",
+        "In export the share of agriculture and allied products and manufactured goods have decreased, whereas, share from crude petroleum and products and other commodities...",
+        "The share of ore and minerals have largely remained constant over the years from 2015-16 to 2021-22.",
+        "The decline in traditional items is largely due to the tough international competition."
+      ],
+      "correct_answer": 0,
+      "pattern": "not_type",
+      "source_trace": "NCERT Class 12 India People and Economy Ch8 pg 1",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "Industries"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Manufacturing Industries, which statement is supported by the source text about People and Economy Unit IV Unit?",
+      "options": [
+        "Amongst the agriculture products, there is a decline in the export of traditional item, such as cashew, etc., though an increase has been registered...",
+        "Manufacturing sector alone accounted for 67.8 per cent of India’s total value of export in 2021-22.",
+        "Engineering goods have shown a Table 8.1 India’s Foreign Trade (Value in Rs.",
+        "Crore) Source : http://commerce.nic.in/publications/annual-report - 2010-11 and Economic Survey 2016-17, 2022-23 Year Exports Imports Trade Balance 2004-05 3,75,340 5,01,065 -1,25,725 2009-10 8,45,534 13,63,736 -5,18,202..."
+      ],
+      "correct_answer": 0,
       "pattern": "statement",
       "source_trace": "NCERT Class 12 India People and Economy Ch8 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
-      "difficulty_level": 3,
+      "difficulty_level": 4,
       "concepts_tested": [
-        "Manufacturing"
+        "People and Economy Unit IV Unit"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Manufacturing Industries, which statement is supported by the source text about IV Unit IV Unit IV Unit?",
+      "options": [
+        "88 India : People and Economy Commodities 2021-22 Agriculture and allied products 3,75,742 Ores and Minerals 63,754 Manufactured goods 21,32,296 Mineral fuels and Lubricants...",
+        "Foodgrain import was replaced by fertilisers and petroleum.",
+        "Machine and equipment, special steel, edible oil and chemicals largely make the import basket.",
+        "Examine the changing pattern of imports in Table 8.4 and try to comprehend the shifts."
+      ],
+      "correct_answer": 0,
+      "pattern": "match",
+      "source_trace": "NCERT Class 12 India People and Economy Ch8 pg 2",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "IV Unit IV Unit IV Unit"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Manufacturing Industries, which statement is supported by the source text about IV Chapter?",
+      "options": [
+        "It is used not only as a fuel but also as an industrial raw material.",
+        "It indicates the tempo of rising industrialisation and better standard of living, Sporadic price rise in the international market is another reason for the...",
+        "It is also noticed that the, import of capital goods maintained a steady decline.",
+        "Other major items of India’s import include pearls, precious and semi-precious stones, gold and silver, non-metal ferrous metals."
+      ],
+      "correct_answer": 0,
+      "pattern": "not_type",
+      "source_trace": "NCERT Class 12 India People and Economy Ch8 pg 2",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 5,
+      "concepts_tested": [
+        "IV Chapter"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Manufacturing Industries, which statement is supported by the source text about INTERNATIONAL TRADE You?",
+      "options": [
+        "The detail of Indian imports of some principal commodities during 2021-22 have been given in Table 8.5.",
+        "Based on Table 8.5, few activities may be undertaken: Arrange the items in ascending or descending order and write the names of the first...",
+        "Why does India import edible oil in spite of being an agriculturally rich country?",
+        "Select five most important and five least important items and represent them by bar diagram."
+      ],
+      "correct_answer": 0,
+      "pattern": "statement",
+      "source_trace": "NCERT Class 12 India People and Economy Ch8 pg 2",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 5,
+      "concepts_tested": [
+        "INTERNATIONAL TRADE You"
       ]
     }
   ],
@@ -220,7 +310,7 @@
     "generation_method": "local_source_only_extractive_decode"
   },
   "content_model": "clearupsc_textbook_decoded_from_source_v1",
-  "decode_status": "textbook_decoded",
+  "decode_status": "textbook_verified",
   "source": {
     "book": "NCERT Class 12 India People and Economy",
     "chapter": 8,
@@ -232,5 +322,5 @@
   "source_trace": "NCERT Class 12 India People and Economy | Chapter 8: Manufacturing Industries | https://ncert.nic.in/textbook/pdf/legy208.pdf | sha256:c80fd56dffbc53cdad4c9a2f3f5b28d4d3f7bb7191c0c66d2cd7f369b6cd92bd",
   "raw_text_path": "data/study/textbook-first/raw-text/gs1_geo_class12_india_people_economy_ch08_manufacturing_industries.txt",
   "generated_by": "local_source_only_extractive_decode",
-  "generated_at": "2026-05-26T19:53:42.331Z"
+  "generated_at": "2026-05-26T20:26:48.477Z"
 }

@@ -136,7 +136,7 @@
       "source_trace": "NCERT Class 12 Social Change and Development in India Ch1 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
-      "difficulty_level": 3,
+      "difficulty_level": 1,
       "concepts_tested": [
         "1.1 Understanding Colonialism"
       ]
@@ -150,7 +150,7 @@
         "It is contradictions of this kind that shaped many of the structural and cultural changes that Chapters 1 and 2 look at."
       ],
       "correct_answer": 0,
-      "pattern": "statement",
+      "pattern": "match",
       "source_trace": "NCERT Class 12 Social Change and Development in India Ch1 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
@@ -204,13 +204,103 @@
         "This knowledge of English has given Indians an edge in the global market."
       ],
       "correct_answer": 0,
+      "pattern": "match",
+      "source_trace": "NCERT Class 12 Social Change and Development in India Ch1 pg 2",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "Change"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Structural Change, which statement is supported by the source text about Social Change and Development in India?",
+      "options": [
+        "Not knowing English is a disadvantage that tells in the job market.",
+        "At the same time for those who were traditionally deprived of access to formal education such as the Dalits, knowledge of English may open...",
+        "In this chapter we focus on structural changes that colonialism brought in.",
+        "We, therefore, need to shift from this broad impressionistic view to a clearer understanding of colonialism as a structure and system."
+      ],
+      "correct_answer": 0,
+      "pattern": "not_type",
+      "source_trace": "NCERT Class 12 Social Change and Development in India Ch1 pg 2",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "Social Change and Development in India"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Structural Change, which statement is supported by the source text about Understanding the?",
+      "options": [
+        "Colonialism brought into being new political, economic and social structural changes.",
+        "In this chapter we look at only two of these structural changes namely industrialisation and urbanisation.",
+        "While the focus is on specific colonial context, we also briefly touch on developments after independence.",
+        "All these structural changes were accompanied by cultural changes which, we look at in the next chapter."
+      ],
+      "correct_answer": 0,
       "pattern": "statement",
       "source_trace": "NCERT Class 12 Social Change and Development in India Ch1 pg 2",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
-      "difficulty_level": 3,
+      "difficulty_level": 4,
       "concepts_tested": [
-        "Change"
+        "Understanding the"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Structural Change, which statement is supported by the source text about Indians in the?",
+      "options": [
+        "As you will see the structural changes are difficult to discuss without some mention of the cultural changes too.",
+        "Virtually English Housewives and college students who know English take up plum assignments as online scorers in BPOs, writes K.",
+        "Computer screens turn blackboards and housewives take over as teachers to evaluate English essays written by non-English speaking students in Asia.",
+        "The encouraging comments given by the evaluators here motivate students in Japan, Korea and China to learn English."
+      ],
+      "correct_answer": 0,
+      "pattern": "match",
+      "source_trace": "NCERT Class 12 Social Change and Development in India Ch1 pg 2",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "Indians in the"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Structural Change, which statement is supported by the source text about As the?",
+      "options": [
+        "Online education, the new wave in the BPO segment, is bringing cheer to those who want to earn a fast buck.",
+        "All you need is a flair for English, creative skills, basic computer knowledge, the drive to go that extra mile and willingness to learn.",
+        "Social Change and Development in India 4 1.1 Understanding Colonialism At one level, colonialism simply means the establishment of rule by one country over...",
+        "In the modern period western colonialism has had the greatest impact."
+      ],
+      "correct_answer": 0,
+      "pattern": "not_type",
+      "source_trace": "NCERT Class 12 Social Change and Development in India Ch1 pg 2",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 5,
+      "concepts_tested": [
+        "As the"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Structural Change, which statement is supported by the source text about Indians in English?",
+      "options": [
+        "India’s past has been marked by the entry of numerous groups of people at different times who have estab- lished their rule o v...",
+        "The impact of colonial rule is distinguishable from all other earlier rules because the changes it brought in were far-reaching and deep.",
+        "History is full of examples of the annexation of foreign territory and the domination of weaker by stronger powers.",
+        "Nevertheless, there is a vital difference between the empire building of pre-capitalist times and that of capitalist times."
+      ],
+      "correct_answer": 0,
+      "pattern": "statement",
+      "source_trace": "NCERT Class 12 Social Change and Development in India Ch1 pg 3",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 5,
+      "concepts_tested": [
+        "Indians in English"
       ]
     }
   ],
@@ -220,7 +310,7 @@
     "generation_method": "local_source_only_extractive_decode"
   },
   "content_model": "clearupsc_textbook_decoded_from_source_v1",
-  "decode_status": "textbook_decoded",
+  "decode_status": "textbook_verified",
   "source": {
     "book": "NCERT Class 12 Social Change and Development in India",
     "chapter": 1,
@@ -232,5 +322,5 @@
   "source_trace": "NCERT Class 12 Social Change and Development in India | Chapter 1: Structural Change | https://ncert.nic.in/textbook/pdf/lesy201.pdf | sha256:d7bbacc8a547f2279a0ab717573cff991c453460ca76a159ce4254acc265bdb7",
   "raw_text_path": "data/study/textbook-first/raw-text/gs1_society_class12_social_change_ch01_structural_change.txt",
   "generated_by": "local_source_only_extractive_decode",
-  "generated_at": "2026-05-26T19:53:58.721Z"
+  "generated_at": "2026-05-26T20:27:05.487Z"
 }

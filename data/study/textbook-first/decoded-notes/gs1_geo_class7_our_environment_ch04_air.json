@@ -115,7 +115,7 @@
       "source_trace": "NCERT Class 7 Our Environment Ch4 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
-      "difficulty_level": 3,
+      "difficulty_level": 1,
       "concepts_tested": [
         "COMPOSITION OF THE ATMOSPHERE"
       ]
@@ -129,7 +129,7 @@
         "Carbon dioxide, helium, ozone, argon and hydrogen are found in lesser quantities."
       ],
       "correct_answer": 0,
-      "pattern": "statement",
+      "pattern": "match",
       "source_trace": "NCERT Class 7 Our Environment Ch4 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
@@ -183,13 +183,103 @@
         "In this way oxygen content in the air remains constant."
       ],
       "correct_answer": 0,
+      "pattern": "match",
+      "source_trace": "NCERT Class 7 Our Environment Ch4 pg 1",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "24 OUR ENVIRONMENT"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Air, which statement is supported by the source text about CYCLONE – NATURE’S FURY?",
+      "options": [
+        "Green plants use carbon dioxide to make their food and release oxygen.",
+        "The amount of carbon dioxide released by humans or animals seems to be equal to the amount used by the plants which make a...",
+        "However, the balance is upset by burning of fuels, such as coal and oil.",
+        "They add billions of tons of carbon dioxide into the atmosphere each year."
+      ],
+      "correct_answer": 0,
+      "pattern": "not_type",
+      "source_trace": "NCERT Class 7 Our Environment Ch4 pg 1",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "CYCLONE – NATURE’S FURY"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Air, which statement is supported by the source text about 29 October 1999, that?",
+      "options": [
+        "As a result, the increased volume of carbon dioxide is affecting the earth’s weather and climate.",
+        "When air is heated, it expands, becomes lighter and goes up.",
+        "When hot air rises, cold air from surrounding area rushes there to fill in the gap.",
+        "22 OUR ENVIRONMENT STRUCTURE OF THE ATMOSPHERE Our atmosphere is divided into five layers starting from the earth’s sur face."
+      ],
+      "correct_answer": 0,
       "pattern": "statement",
       "source_trace": "NCERT Class 7 Our Environment Ch4 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
-      "difficulty_level": 3,
+      "difficulty_level": 4,
       "concepts_tested": [
-        "24 OUR ENVIRONMENT"
+        "29 October 1999, that"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Air, which statement is supported by the source text about 26 OUR ENVIRONMENT?",
+      "options": [
+        "These are T roposphere, Stratosphere, Mesosphere, Thermosphere and Exosphere (Fig.",
+        "Troposphere: This layer is the most important layer of the atmosphere.",
+        "Almost all the weather phenomena like rainfall, fog and hailstorm occur in this layer.",
+        "Stratosphere: Above the troposphere lies the stratosphere."
+      ],
+      "correct_answer": 0,
+      "pattern": "match",
+      "source_trace": "NCERT Class 7 Our Environment Ch4 pg 2",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "26 OUR ENVIRONMENT"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Air, which statement is supported by the source text about 28 OUR ENVIRONMENT?",
+      "options": [
+        "This layer is almost free from clouds and associated weather phenomenon, making conditions most ideal for flying aeroplanes.",
+        "One important feature of stratosphere is that it contains a layer of ozone gas.",
+        "We have just learnt how it protects us from the harmful effect of the sun rays.",
+        "Meteorites burn up in this layer on entering from the space."
+      ],
+      "correct_answer": 0,
+      "pattern": "not_type",
+      "source_trace": "NCERT Class 7 Our Environment Ch4 pg 2",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 5,
+      "concepts_tested": [
+        "28 OUR ENVIRONMENT"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Air, which statement is supported by the source text about COMPOSITION OF THE ATMOSPHERE Do?",
+      "options": [
+        "Thermosphere: In thermosphere temperature rises very rapidly with increasing height.",
+        "You will be surprised to know that the earth receives only 1 in 2,000,000,000 parts of the sun’s energy.",
+        "In fact, radio waves transmitted from the earth are reflected back to the earth by this layer.",
+        "Exosphere: The upper most layer of the atmosphere is known as exosphere."
+      ],
+      "correct_answer": 0,
+      "pattern": "statement",
+      "source_trace": "NCERT Class 7 Our Environment Ch4 pg 2",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 5,
+      "concepts_tested": [
+        "COMPOSITION OF THE ATMOSPHERE Do"
       ]
     }
   ],
@@ -199,7 +289,7 @@
     "generation_method": "local_source_only_extractive_decode"
   },
   "content_model": "clearupsc_textbook_decoded_from_source_v1",
-  "decode_status": "textbook_decoded",
+  "decode_status": "textbook_verified",
   "source": {
     "book": "NCERT Class 7 Our Environment",
     "chapter": 4,
@@ -211,5 +301,5 @@
   "source_trace": "NCERT Class 7 Our Environment | Chapter 4: Air | https://ncert.nic.in/textbook/pdf/gess204.pdf | sha256:7a63608df976542a533338281566b3b66821eb642e6c97f2be380ac654071403",
   "raw_text_path": "data/study/textbook-first/raw-text/gs1_geo_class7_our_environment_ch04_air.txt",
   "generated_by": "local_source_only_extractive_decode",
-  "generated_at": "2026-05-26T19:54:06.646Z"
+  "generated_at": "2026-05-26T20:27:13.834Z"
 }

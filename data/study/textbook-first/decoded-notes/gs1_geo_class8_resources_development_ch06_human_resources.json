@@ -136,7 +136,7 @@
       "source_trace": "NCERT Class 8 Resources and Development Ch6 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
-      "difficulty_level": 3,
+      "difficulty_level": 1,
       "concepts_tested": [
         "77 Chapter 6: Confronting Marginalisation"
       ]
@@ -150,7 +150,7 @@
         "Many among them look up to the Constitution to address their concerns."
       ],
       "correct_answer": 0,
-      "pattern": "statement",
+      "pattern": "match",
       "source_trace": "NCERT Class 8 Resources and Development Ch6 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
@@ -204,13 +204,103 @@
         "Invoking Fundamental Rights Chapter 6: Confronting Marginalisation 2024-25"
       ],
       "correct_answer": 0,
-      "pattern": "statement",
+      "pattern": "match",
       "source_trace": "NCERT Class 8 Resources and Development Ch6 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
-      "difficulty_level": 3,
+      "difficulty_level": 4,
       "concepts_tested": [
         "Resources"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Human Resources, which statement is supported by the source text about Social and Political Life?",
+      "options": [
+        "Social and Political Life 76 The poem below is written by Soyrabai, the wife of the well- known Bhakti poet Chokhamela from fourteenth century...",
+        "They belonged to the Mahar caste, which was at that time considered untouchable.",
+        "A body is unclean, they say Only the soul is untainted But the impurity of the body Is born within the body …By which...",
+        "The body is polluted from within, Be sure of it says the Mahari Chokha Quoted in Uma Chakravarti, Gendering Caste: Through a Feminist Lens,..."
+      ],
+      "correct_answer": 0,
+      "pattern": "not_type",
+      "source_trace": "NCERT Class 8 Resources and Development Ch6 pg 2",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "Social and Political Life"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Human Resources, which statement is supported by the source text about Confronting Marginalisation In the?",
+      "options": [
+        "99 Soyrabai is questioning the idea of purity and arguing that since every human is born in the same manner, there is nothing that...",
+        "She is possibly also trying to say that pollution, a key tool of the caste system to separate or deny people access to spaces,...",
+        "Therefore, Dalits can ‘invoke’ or ‘draw on’ a Fundamental Right (or Rights) in situations where they feel that they have been treated badly by...",
+        "They have drawn the attention of the government of India to the Constitution, demanding that the government abide by it and do justice to..."
+      ],
+      "correct_answer": 0,
+      "pattern": "statement",
+      "source_trace": "NCERT Class 8 Resources and Development Ch6 pg 2",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "Confronting Marginalisation In the"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Human Resources, which statement is supported by the source text about Constitution of India?",
+      "options": [
+        "Likewise, other minority groups have drawn on the Fundamental Rights section of our Constitution.",
+        "They have particularly drawn upon the right to freedom of religion and cultural and educational rights.",
+        "In the case of cultural and educational rights, distinct cultural and religious groups like the Muslims and Parsis have the right to be the...",
+        "Thus, by granting different forms of cultural rights, the Constitution tries to ensure cultural justice to such groups."
+      ],
+      "correct_answer": 0,
+      "pattern": "match",
+      "source_trace": "NCERT Class 8 Resources and Development Ch6 pg 2",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "Constitution of India"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Human Resources, which statement is supported by the source text about Confronting Marginalisation The Constitution?",
+      "options": [
+        "The Constitution does this so that the culture of these groups is not dominated nor wiped out by the culture of the majority community.",
+        "Laws for the Marginalised As you have read, the government makes laws to protect its citizens.",
+        "Yet, this is not the only way in which it takes action.",
+        "There are specific laws and policies for the marginalised in our country."
+      ],
+      "correct_answer": 0,
+      "pattern": "not_type",
+      "source_trace": "NCERT Class 8 Resources and Development Ch6 pg 2",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 5,
+      "concepts_tested": [
+        "Confronting Marginalisation The Constitution"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Human Resources, which statement is supported by the source text about Fundamental Rights?",
+      "options": [
+        "There are policies or schemes that emerge through other means like setting up a committee or by undertaking a survey etc.",
+        "The government then makes an effort to promote such policies in order to give opportunities to specific groups.",
+        "Promoting Social Justice As part of their effort to implement the Constitution, both state and central governments create specific schemes for implementation in tribal...",
+        "For example, the government provides for free or subsidised hostels for students of Dalit and Adivasi communities so that they can avail of education..."
+      ],
+      "correct_answer": 0,
+      "pattern": "statement",
+      "source_trace": "NCERT Class 8 Resources and Development Ch6 pg 2",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 5,
+      "concepts_tested": [
+        "Fundamental Rights"
       ]
     }
   ],
@@ -220,7 +310,7 @@
     "generation_method": "local_source_only_extractive_decode"
   },
   "content_model": "clearupsc_textbook_decoded_from_source_v1",
-  "decode_status": "textbook_decoded",
+  "decode_status": "textbook_verified",
   "source": {
     "book": "NCERT Class 8 Resources and Development",
     "chapter": 6,
@@ -232,5 +322,5 @@
   "source_trace": "NCERT Class 8 Resources and Development | Chapter 6: Human Resources | https://ncert.nic.in/textbook/pdf/hess306.pdf | sha256:38ad22705816585182357066b63a10dbfa60898eeec5d93df14894e1221a12bb",
   "raw_text_path": "data/study/textbook-first/raw-text/gs1_geo_class8_resources_development_ch06_human_resources.txt",
   "generated_by": "local_source_only_extractive_decode",
-  "generated_at": "2026-05-26T19:54:08.695Z"
+  "generated_at": "2026-05-26T20:27:16.089Z"
 }

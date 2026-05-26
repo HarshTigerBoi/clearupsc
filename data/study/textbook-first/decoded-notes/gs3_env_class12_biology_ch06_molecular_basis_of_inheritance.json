@@ -120,7 +120,7 @@
       "source_trace": "NCERT Class 12 Biology Ch6 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
-      "difficulty_level": 3,
+      "difficulty_level": 1,
       "concepts_tested": [
         "BIOLOGY"
       ]
@@ -134,7 +134,7 @@
         "Therefore, when we see stars we apparently are peeping into the past."
       ],
       "correct_answer": 0,
-      "pattern": "statement",
+      "pattern": "match",
       "source_trace": "NCERT Class 12 Biology Ch6 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
@@ -188,13 +188,103 @@
         "The UV rays from the sun brokeup water into Hydrogen and Oxygen and the lighter H2 escaped."
       ],
       "correct_answer": 0,
+      "pattern": "match",
+      "source_trace": "NCERT Class 12 Biology Ch6 pg 1",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "6.2 Evolution of Life Forms - A"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Molecular Basis of Inheritance, which statement is supported by the source text about 6.3 What are the Evidences?",
+      "options": [
+        "Oxygen combined with ammonia and methane to form water, CO2 and others.",
+        "As it cooled, the water vapor fell as rain, to fill all the depressions and form oceans.",
+        "Life appeared 500 million years after the formation of earth, i.e., almost four billion years back.",
+        "Early Greek thinkers thought units of life called spores were transferred to different planets including earth. ‘Panspermia’ is still a favourite idea for some..."
+      ],
+      "correct_answer": 0,
+      "pattern": "not_type",
+      "source_trace": "NCERT Class 12 Biology Ch6 pg 1",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "6.3 What are the Evidences"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Molecular Basis of Inheritance, which statement is supported by the source text about 6.4 What is Adaptive?",
+      "options": [
+        "For a long time it was also believed that life came out of decaying and rotting matter like straw, mud, etc.",
+        "Louis Pasteur by careful experimentation demonstrated that life comes only from pre-existing life.",
+        "He showed that in pre-sterilised flasks, life did not come from killed yeast while in another flask open to air, new living organisms arose...",
+        "Spontaneous generation theory was dismissed once and for all."
+      ],
+      "correct_answer": 0,
       "pattern": "statement",
       "source_trace": "NCERT Class 12 Biology Ch6 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
-      "difficulty_level": 3,
+      "difficulty_level": 4,
       "concepts_tested": [
-        "6.2 Evolution of Life Forms - A"
+        "6.4 What is Adaptive"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Molecular Basis of Inheritance, which statement is supported by the source text about 6.5 Biological Evolution?",
+      "options": [
+        "However, this did not answer how the first life form came on earth.",
+        "Oparin of Russia and Haldane of England proposed that the first form of life could have come from pre-existing non-living organic molecules (e.g.",
+        "RNA, protein, etc.) and that formation of life was preceded by chemical evolution, i.e., formation of diverse organic molecules from inorganic constituents.",
+        "The conditions on earth were – high temperature, volcanic storms, reducing atmosphere containing CH4, NH3, etc."
+      ],
+      "correct_answer": 0,
+      "pattern": "match",
+      "source_trace": "NCERT Class 12 Biology Ch6 pg 1",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "6.5 Biological Evolution"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Molecular Basis of Inheritance, which statement is supported by the source text about 6.6 Mechanism of Evolution?",
+      "options": [
+        "Miller, an American scientist created similar conditions in a laboratory scale (Figure 6.1).",
+        "He created electric discharge in a closed flask containing CH4, H2, NH3 and water vapour at 8000C.",
+        "In similar experiments others observed, formation of sugars, nitrogen bases, pigment and fats.",
+        "Analysis of meteorite content also revealed similar compounds indicating that similar processes are occurring elsewhere in space."
+      ],
+      "correct_answer": 0,
+      "pattern": "not_type",
+      "source_trace": "NCERT Class 12 Biology Ch6 pg 1",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 5,
+      "concepts_tested": [
+        "6.6 Mechanism of Evolution"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Molecular Basis of Inheritance, which statement is supported by the source text about 6.7 Hardy - Weinberg?",
+      "options": [
+        "With this limited evidence, the first part of the conjectured story, i.e., chemical evolution was more or less accepted.",
+        "We have no idea about how the first self replicating metabolic capsule of life arose.",
+        "The first non-cellular forms of life could have originated 3 billion years back.",
+        "The first cellular form of life did not possibly originate till about 2000 million years ago."
+      ],
+      "correct_answer": 0,
+      "pattern": "statement",
+      "source_trace": "NCERT Class 12 Biology Ch6 pg 1",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 5,
+      "concepts_tested": [
+        "6.7 Hardy - Weinberg"
       ]
     }
   ],
@@ -204,7 +294,7 @@
     "generation_method": "local_source_only_extractive_decode"
   },
   "content_model": "clearupsc_textbook_decoded_from_source_v1",
-  "decode_status": "textbook_decoded",
+  "decode_status": "textbook_verified",
   "source": {
     "book": "NCERT Class 12 Biology",
     "chapter": 6,
@@ -216,5 +306,5 @@
   "source_trace": "NCERT Class 12 Biology | Chapter 6: Molecular Basis of Inheritance | https://ncert.nic.in/textbook/pdf/lebo106.pdf | sha256:d2a181994b3d2a060226f4bf1b45ad581c6da69a8dd2a01e448704d6ce868071",
   "raw_text_path": "data/study/textbook-first/raw-text/gs3_env_class12_biology_ch06_molecular_basis_of_inheritance.txt",
   "generated_by": "local_source_only_extractive_decode",
-  "generated_at": "2026-05-26T19:53:38.721Z"
+  "generated_at": "2026-05-26T20:26:44.686Z"
 }

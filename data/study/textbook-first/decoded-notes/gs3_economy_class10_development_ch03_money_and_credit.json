@@ -136,7 +136,7 @@
       "source_trace": "NCERT Class 10 Understanding Economic Development Ch3 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
-      "difficulty_level": 3,
+      "difficulty_level": 1,
       "concepts_tested": [
         "NOTES FOR THE TEACHER"
       ]
@@ -150,7 +150,7 @@
         "We need not get into a formal discussion of the ‘functions of money’ but let it come up as questions."
       ],
       "correct_answer": 0,
-      "pattern": "statement",
+      "pattern": "match",
       "source_trace": "NCERT Class 10 Understanding Economic Development Ch3 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
@@ -204,13 +204,103 @@
         "It is also important to intimate students that different types of plastic cards are used in place of cash transactions but not all of..."
       ],
       "correct_answer": 0,
+      "pattern": "match",
+      "source_trace": "NCERT Class 10 Understanding Economic Development Ch3 pg 1",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "CHAPTER 3"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Money and Credit, which statement is supported by the source text about MONEY AS A MEDIUM OF EXCHANGE?",
+      "options": [
+        "Credit is a crucial element in economic life and it is, therefore, important to first understand this in a conceptual manner.",
+        "What are the aspects that one looks at in any credit arrangement and how this affects people is the main focus of the second...",
+        "The world around us offers a tremendous variety of such arrangements and it would be ideal to explain these aspects of credit from situations...",
+        "The other crucial issue of credit is its availability to all, especially the poor, and on reasonable terms."
+      ],
+      "correct_answer": 0,
+      "pattern": "not_type",
+      "source_trace": "NCERT Class 10 Understanding Economic Development Ch3 pg 1",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "MONEY AS A MEDIUM OF EXCHANGE"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Money and Credit, which statement is supported by the source text about I’LL GIVE?",
+      "options": [
+        "We need to emphasise that this is a right of the people and without which a large section of them would be kept out...",
+        "There are many innovative interventions, such as that of Grameen Bank, of which students may be made familiar with but it is important to...",
+        "We need to find new ways and this is one of the social challenges that developing countries face.",
+        "Sources for Information The data on formal and informal sector credit used in this chapter is drawn from the survey on rural debt by..."
+      ],
+      "correct_answer": 0,
       "pattern": "statement",
       "source_trace": "NCERT Class 10 Understanding Economic Development Ch3 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
-      "difficulty_level": 3,
+      "difficulty_level": 4,
       "concepts_tested": [
-        "CHAPTER 3"
+        "I’LL GIVE"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Money and Credit, which statement is supported by the source text about YOU SHOES?",
+      "options": [
+        "The information and data on Grameen Bank is taken from newspaper reports and websites.",
+        "In order to get the details of bank-related statistics or a particular detail of a bank, you can log on to the websites of...",
+        "Data on self-help groups is provided on the website of the National Bank for Agriculture and Rural Development (NABARD) (www.nabard.org).",
+        "38 38 38 38 38 U U U U UNDERST NDERST NDERST NDERST NDERSTANDING ANDING ANDING ANDING ANDING E E E E ECONOMIC CONOMIC..."
+      ],
+      "correct_answer": 0,
+      "pattern": "match",
+      "source_trace": "NCERT Class 10 Understanding Economic Development Ch3 pg 1",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "YOU SHOES"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Money and Credit, which statement is supported by the source text about FOR YOUR?",
+      "options": [
+        "M M M M MONEY ONEY ONEY ONEY ONEY AND AND AND AND AND C C C C CREDIT REDIT REDIT REDIT REDIT 39...",
+        "Look around you and you would easily be able to identify several transactions involving money in any single day.",
+        "In many of these transactions, goods are being bought and sold with the use of money.",
+        "In some of these transactions, services are being exchanged with money."
+      ],
+      "correct_answer": 0,
+      "pattern": "not_type",
+      "source_trace": "NCERT Class 10 Understanding Economic Development Ch3 pg 1",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 5,
+      "concepts_tested": [
+        "FOR YOUR"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Money and Credit, which statement is supported by the source text about WHEAT.?",
+      "options": [
+        "For some, there might not be any actual transfer of money taking place now but a promise to pay money later.",
+        "Have you ever wondered why transactions are made in money?",
+        "A person holding money can easily exchange it for any commodity or service that he or she might want.",
+        "Thus everyone prefers to receive payments in money and then exchange the money for things that they want."
+      ],
+      "correct_answer": 0,
+      "pattern": "statement",
+      "source_trace": "NCERT Class 10 Understanding Economic Development Ch3 pg 1",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 5,
+      "concepts_tested": [
+        "WHEAT."
       ]
     }
   ],
@@ -220,7 +310,7 @@
     "generation_method": "local_source_only_extractive_decode"
   },
   "content_model": "clearupsc_textbook_decoded_from_source_v1",
-  "decode_status": "textbook_decoded",
+  "decode_status": "textbook_verified",
   "source": {
     "book": "NCERT Class 10 Understanding Economic Development",
     "chapter": 3,
@@ -232,5 +322,5 @@
   "source_trace": "NCERT Class 10 Understanding Economic Development | Chapter 3: Money and Credit | https://ncert.nic.in/textbook/pdf/jess203.pdf | sha256:ec5383e7501501c231523ff9fc7cb8c7be37b8e8adbf8742ec666a190ae9bb36",
   "raw_text_path": "data/study/textbook-first/raw-text/gs3_economy_class10_development_ch03_money_and_credit.txt",
   "generated_by": "local_source_only_extractive_decode",
-  "generated_at": "2026-05-26T19:54:18.161Z"
+  "generated_at": "2026-05-26T20:27:25.857Z"
 }

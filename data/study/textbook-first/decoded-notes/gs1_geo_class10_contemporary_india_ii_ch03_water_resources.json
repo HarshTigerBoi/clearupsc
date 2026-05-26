@@ -132,7 +132,7 @@
       "source_trace": "NCERT Class 10 Contemporary India II Ch3 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
-      "difficulty_level": 3,
+      "difficulty_level": 1,
       "concepts_tested": [
         "WATER SCARCITY AND THE NEED FOR WATER"
       ]
@@ -146,7 +146,7 @@
         "We instantaneously visualise the deserts of Rajasthan and women balancing many ‘matkas’ (earthen pots) used for collecting and storing water and travelling long distances..."
       ],
       "correct_answer": 0,
-      "pattern": "statement",
+      "pattern": "match",
       "source_trace": "NCERT Class 10 Contemporary India II Ch3 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
@@ -200,13 +200,103 @@
         "Life in the city and its adjacent districts was paralysed as incessant overnight rain, meaning a record 180 mm, flooded vast area and disrupted..."
       ],
       "correct_answer": 0,
-      "pattern": "statement",
+      "pattern": "match",
       "source_trace": "NCERT Class 10 Contemporary India II Ch3 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
-      "difficulty_level": 3,
+      "difficulty_level": 4,
       "concepts_tested": [
         "22 CONTEMPORARY INDIA – II"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Water Resources, which statement is supported by the source text about 23 WATER RESOURCES?",
+      "options": [
+        "A Kashmiri earthquake survivor carries water in the snow in a devastated village.",
+        "21 WATER RESOURCES own wells and tube-wells in their farms for irrigation to increase their produce.",
+        "That it may lead to falling groundwater levels, adversely affecting water availability and food security of the people.",
+        "Post-independent India witnessed intensive industrialisation and urbanisation, creating vast opportunities for us."
+      ],
+      "correct_answer": 0,
+      "pattern": "not_type",
+      "source_trace": "NCERT Class 10 Contemporary India II Ch3 pg 1",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "23 WATER RESOURCES"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Water Resources, which statement is supported by the source text about 24 CONTEMPORARY INDIA – II?",
+      "options": [
+        "Today, large industrial houses are as commonplace as the industrial units of many MNCs (Multinational Corporations).",
+        "The ever-increasing number of industries has made matters worse by exerting pressure on existing freshwater resources.",
+        "Industries, apart from being heavy users of water, also require power to run them.",
+        "Moreover, multiplying urban centres with large and dense populations and urban lifestyles have not only added to water and energy requirements but have further..."
+      ],
+      "correct_answer": 0,
+      "pattern": "statement",
+      "source_trace": "NCERT Class 10 Contemporary India II Ch3 pg 2",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "24 CONTEMPORARY INDIA – II"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Water Resources, which statement is supported by the source text about 25 WATER RESOURCES?",
+      "options": [
+        "If you look into the housing societies or colonies in the cities, you would find that most of these have their own groundwater pumping...",
+        "Not surprisingly, we find that fragile water resources are being over- exploited and have caused their depletion in several of these cities.",
+        "M M M M MU L T I U L T I U L T I U L T I U L T I...",
+        "Archaeological and historical records show that from ancient times we have been constructing sophisticated hydraulic structures like dams built of stone rubble, reservoirs or..."
+      ],
+      "correct_answer": 0,
+      "pattern": "match",
+      "source_trace": "NCERT Class 10 Contemporary India II Ch3 pg 2",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "25 WATER RESOURCES"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Water Resources, which statement is supported by the source text about 26 CONTEMPORARY INDIA – II?",
+      "options": [
+        "Not surprisingly, we have continued this tradition in modern India by building dams in most of our river basins. available to meet the needs...",
+        "Lately, there has been a growing concern that even if there is ample water to meet the needs of the people, much of it...",
+        "Government of India has accorded highest priority to improve the quality of life and enhance ease of living of people especially those living in...",
+        "The Goal of JJM is to enable every rural household get assured supply of potable piped water at a service level of 55 litres..."
+      ],
+      "correct_answer": 0,
+      "pattern": "not_type",
+      "source_trace": "NCERT Class 10 Contemporary India II Ch3 pg 2",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 5,
+      "concepts_tested": [
+        "26 CONTEMPORARY INDIA – II"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Water Resources, which statement is supported by the source text about 27 WATER RESOURCES?",
+      "options": [
+        "(Source: Economic Survey 2020–21, p.357) You may have already realised that the need of the hour is to conserve and manage our water resources,...",
+        "Over exploitation and mismanagement of water resources will impoverish this resource and cause ecological crisis that may have profound impact on our lives.",
+        "From your everyday experiences, write a short proposal on how you can conserve water.",
+        "So far we have focused on the quantitative aspects of water scarcity."
+      ],
+      "correct_answer": 0,
+      "pattern": "statement",
+      "source_trace": "NCERT Class 10 Contemporary India II Ch3 pg 2",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 5,
+      "concepts_tested": [
+        "27 WATER RESOURCES"
       ]
     }
   ],
@@ -216,7 +306,7 @@
     "generation_method": "local_source_only_extractive_decode"
   },
   "content_model": "clearupsc_textbook_decoded_from_source_v1",
-  "decode_status": "textbook_decoded",
+  "decode_status": "textbook_verified",
   "source": {
     "book": "NCERT Class 10 Contemporary India II",
     "chapter": 3,
@@ -228,5 +318,5 @@
   "source_trace": "NCERT Class 10 Contemporary India II | Chapter 3: Water Resources | https://ncert.nic.in/textbook/pdf/jess103.pdf | sha256:ae54e2c551c4f5f2a84ca7b8f48d84daf4e9fdd4aac212a7dbf74372efd73523",
   "raw_text_path": "data/study/textbook-first/raw-text/gs1_geo_class10_contemporary_india_ii_ch03_water_resources.txt",
   "generated_by": "local_source_only_extractive_decode",
-  "generated_at": "2026-05-26T19:53:49.750Z"
+  "generated_at": "2026-05-26T20:26:56.082Z"
 }

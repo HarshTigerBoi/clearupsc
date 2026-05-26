@@ -120,7 +120,7 @@
       "source_trace": "NCERT Class 7 Our Environment Ch3 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
-      "difficulty_level": 3,
+      "difficulty_level": 1,
       "concepts_tested": [
         "3 Our Changing Earth"
       ]
@@ -134,7 +134,7 @@
         "The earth movements are divided on the basis of the forces which cause them."
       ],
       "correct_answer": 0,
-      "pattern": "statement",
+      "pattern": "match",
       "source_trace": "NCERT Class 7 Our Environment Ch3 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
@@ -188,13 +188,103 @@
         "Similarly, when the Lithospheric plates move, the surface of the earth vibrates."
       ],
       "correct_answer": 0,
+      "pattern": "match",
+      "source_trace": "NCERT Class 7 Our Environment Ch3 pg 1",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "EARTHQUAKE HITS BHUJ"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Our Changing Earth, which statement is supported by the source text about CM’S APPEAL TO THE CENTRE?",
+      "options": [
+        "The place in the crust where the movement starts is called the focus.",
+        "The place on the surface above the focus is called the epicentre.",
+        "Vibrations travel outwards from the epicentre as waves.",
+        "Greatest damage is usually closest to the epicentre and the strength of the earthquake decreases away from the centre."
+      ],
+      "correct_answer": 0,
+      "pattern": "not_type",
+      "source_trace": "NCERT Class 7 Our Environment Ch3 pg 1",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "CM’S APPEAL TO THE CENTRE"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Our Changing Earth, which statement is supported by the source text about BHUJ RELIEF EFFORT?",
+      "options": [
+        "Endo (inside) Exo (outside) Endogenic Exogenic + genic (origin) 13 OUR CHANGING EARTH .",
+        "An earthquake is measured with a machine called a seismograph.",
+        "The magnitude of the earthquake is measured on the Richter scale.",
+        "An earthquake of 2.0 or less can be felt only a little."
+      ],
+      "correct_answer": 0,
       "pattern": "statement",
       "source_trace": "NCERT Class 7 Our Environment Ch3 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
-      "difficulty_level": 3,
+      "difficulty_level": 4,
       "concepts_tested": [
-        "EARTHQUAKE HITS BHUJ"
+        "BHUJ RELIEF EFFORT"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Our Changing Earth, which statement is supported by the source text about BLIGHTED..?",
+      "options": [
+        "An earthquake over 5.0 can cause damage from things falling.",
+        "A 6.0 or higher magnitude is considered very strong and 7.0 is classified as a major earthquake.",
+        "A Seismograph EARTHQUAKE PREPAREDNESS Where to take shelter during an earthquake — Safe Spot – Under a kitchen counter, table or desk, against an...",
+        "Stay Away from – Fire places, areas around chimneys, windows that shatter including mirrors and picture frames."
+      ],
+      "correct_answer": 0,
+      "pattern": "match",
+      "source_trace": "NCERT Class 7 Our Environment Ch3 pg 2",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "BLIGHTED.."
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Our Changing Earth, which statement is supported by the source text about 15 OUR CHANGING EARTH?",
+      "options": [
+        "Be Prepared – Spread awareness amongst your friends and family members and face any disaster confidently.",
+        "3.3a: Destruction caused by an Earthquake in Gujarat 1.",
+        "Read the ‘Earthquake – A case study’ given in the form of headlines that appeared in the newspapers after the quake.",
+        "Arrange the events in the right sequence of their happening."
+      ],
+      "correct_answer": 0,
+      "pattern": "not_type",
+      "source_trace": "NCERT Class 7 Our Environment Ch3 pg 2",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 5,
+      "concepts_tested": [
+        "15 OUR CHANGING EARTH"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Our Changing Earth, which statement is supported by the source text about Do you know? MAJOR LAND FORMS?",
+      "options": [
+        "Imagine if a quake suddenly shook in the middle of the school day, where would you go for safety?",
+        "Although earthquakes cannot be predicted, the impact can certainly be minimised if we are prepared before-hand.",
+        "Some common earthquake prediction methods adopted locally by people include studying animal behaviour; fish in the ponds get agitated, snakes come to the surface.",
+        "EARTHQUAKE HITS BHUJ A massive earthquake measuring 6.9 on Richter scale hit Bhuj Town on 26th January 2001."
+      ],
+      "correct_answer": 0,
+      "pattern": "statement",
+      "source_trace": "NCERT Class 7 Our Environment Ch3 pg 2",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 5,
+      "concepts_tested": [
+        "Do you know? MAJOR LAND FORMS"
       ]
     }
   ],
@@ -204,7 +294,7 @@
     "generation_method": "local_source_only_extractive_decode"
   },
   "content_model": "clearupsc_textbook_decoded_from_source_v1",
-  "decode_status": "textbook_decoded",
+  "decode_status": "textbook_verified",
   "source": {
     "book": "NCERT Class 7 Our Environment",
     "chapter": 3,
@@ -216,5 +306,5 @@
   "source_trace": "NCERT Class 7 Our Environment | Chapter 3: Our Changing Earth | https://ncert.nic.in/textbook/pdf/gess203.pdf | sha256:111954b0e6e55afb23118663cfeca257b0da1ec9e46cc1a4dfb4c631de4f094a",
   "raw_text_path": "data/study/textbook-first/raw-text/gs1_geo_class7_our_environment_ch03_our_changing_earth.txt",
   "generated_by": "local_source_only_extractive_decode",
-  "generated_at": "2026-05-26T19:54:06.415Z"
+  "generated_at": "2026-05-26T20:27:13.607Z"
 }

@@ -128,7 +128,7 @@
       "source_trace": "NCERT Class 12 Biology Ch8 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
-      "difficulty_level": 3,
+      "difficulty_level": 1,
       "concepts_tested": [
         "CHAPTER 8"
       ]
@@ -142,7 +142,7 @@
         "Such cultures are useful in studies on micro-organisms."
       ],
       "correct_answer": 0,
-      "pattern": "statement",
+      "pattern": "match",
       "source_trace": "NCERT Class 12 Biology Ch8 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
@@ -196,13 +196,103 @@
         "The puffed-up appearance of dough is due to the production of CO2 gas."
       ],
       "correct_answer": 0,
+      "pattern": "match",
+      "source_trace": "NCERT Class 12 Biology Ch8 pg 2",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "8.3 Microbes in Sewage"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Microbes in Human Welfare, which statement is supported by the source text about 8.4 Microbes in Production of?",
+      "options": [
+        "Can you tell which metabolic pathway is taking place resulting in the formation of CO2?",
+        "Where do you think the bacteria for these fermentations come from?",
+        "Similarly the dough, which is used for making bread, is fermented using baker’s yeast (Saccharomyces cerevisiae).",
+        "A number of traditional drinks and foods are also made by fermentation by the microbes. ‘Toddy’, a traditional drink of some parts of southern..."
+      ],
+      "correct_answer": 0,
+      "pattern": "not_type",
+      "source_trace": "NCERT Class 12 Biology Ch8 pg 2",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "8.4 Microbes in Production of"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Microbes in Human Welfare, which statement is supported by the source text about 8.5 Microbes as Biocontrol?",
+      "options": [
+        "Microbes are also used to ferment fish, soyabean and bamboo- shoots to make foods.",
+        "Cheese, is one of the oldest food items in which microbes were used.",
+        "Different varieties of cheese are known by their characteristic texture, flavour and taste, the specificity coming from the microbes used.",
+        "For example, the large holes in ‘Swiss cheese’ are due to production of a large amount of CO2 by a bacterium named Propionibacterium sharmanii."
+      ],
+      "correct_answer": 0,
       "pattern": "statement",
       "source_trace": "NCERT Class 12 Biology Ch8 pg 2",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
-      "difficulty_level": 3,
+      "difficulty_level": 4,
       "concepts_tested": [
-        "8.3 Microbes in Sewage"
+        "8.5 Microbes as Biocontrol"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Microbes in Human Welfare, which statement is supported by the source text about 8.6 Microbes as Biofertilisers?",
+      "options": [
+        "The ‘Roquefort cheese’ are ripened by growing a specific fungi on them, which gives them a particular flavour.",
+        "8.2 MICROBES IN INDUSTRIAL PRODUCTS Even in industry, microbes are used to synthesise a number of products valuable to human beings.",
+        "Production on an industrial scale, requires growing microbes in very large vessels called fermentors (Figure 8.4).",
+        "152 BIOLOGY 8.2.1 Fermented Beverages Microbes especially yeasts have been used from time immemorial for the production of beverages like wine, beer, whisky, brandy..."
+      ],
+      "correct_answer": 0,
+      "pattern": "match",
+      "source_trace": "NCERT Class 12 Biology Ch8 pg 2",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "8.6 Microbes as Biofertilisers"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Microbes in Human Welfare, which statement is supported by the source text about BIOLOGY?",
+      "options": [
+        "For this purpose the same yeast Saccharomyces cerevisiae used for bread-making and commonly called brewer’s yeast, is used for fermenting malted cereals and fruit...",
+        "Do you recollect the metabolic reactions, which result in the production of ethanol by yeast?",
+        "Depending on the type of the raw material used for fermentation and the type of processing (with or without distillation) different types of alcoholic...",
+        "Wine and beer are produced without distillation whereas whisky, brandy and rum are produced by distillation of the fermented broth."
+      ],
+      "correct_answer": 0,
+      "pattern": "not_type",
+      "source_trace": "NCERT Class 12 Biology Ch8 pg 3",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 5,
+      "concepts_tested": [
+        "BIOLOGY"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Microbes in Human Welfare, which statement is supported by the source text about 8.1 MICROBES IN HOUSEHOLD PRODUCTS?",
+      "options": [
+        "The photograph of a fermentation plant is shown in Figure 8.5.",
+        "8.2.2 Antibiotics Antibiotics produced by microbes are regarded as one of the most significant discoveries of the twentieth century and have greatly contributed towards...",
+        "Anti is a Greek word that means ‘against’, and bio means ‘life’, together they mean ‘against life’ (in the context of disease causing organisms);...",
+        "Antibiotics are chemical substances, which are produced by some microbes and can kill or retard the growth of other (disease-causing) microbes."
+      ],
+      "correct_answer": 0,
+      "pattern": "statement",
+      "source_trace": "NCERT Class 12 Biology Ch8 pg 3",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 5,
+      "concepts_tested": [
+        "8.1 MICROBES IN HOUSEHOLD PRODUCTS"
       ]
     }
   ],
@@ -212,7 +302,7 @@
     "generation_method": "local_source_only_extractive_decode"
   },
   "content_model": "clearupsc_textbook_decoded_from_source_v1",
-  "decode_status": "textbook_decoded",
+  "decode_status": "textbook_verified",
   "source": {
     "book": "NCERT Class 12 Biology",
     "chapter": 8,
@@ -224,5 +314,5 @@
   "source_trace": "NCERT Class 12 Biology | Chapter 8: Microbes in Human Welfare | https://ncert.nic.in/textbook/pdf/lebo108.pdf | sha256:e96d234eab38ed70616c77101aedeaf4efa7d92ea8aececeb046d383061f63b7",
   "raw_text_path": "data/study/textbook-first/raw-text/gs3_env_class12_biology_ch08_microbes_in_human_welfare.txt",
   "generated_by": "local_source_only_extractive_decode",
-  "generated_at": "2026-05-26T19:53:39.182Z"
+  "generated_at": "2026-05-26T20:26:45.205Z"
 }

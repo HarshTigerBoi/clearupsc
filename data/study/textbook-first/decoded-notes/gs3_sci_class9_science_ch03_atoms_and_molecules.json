@@ -128,7 +128,7 @@
       "source_trace": "NCERT Class 9 Science Ch3 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
-      "difficulty_level": 3,
+      "difficulty_level": 1,
       "concepts_tested": [
         "3.1 Why are Plant and Animal Tissues Different?"
       ]
@@ -142,7 +142,7 @@
         "Many cells come together to form a multicellular organism."
       ],
       "correct_answer": 0,
-      "pattern": "statement",
+      "pattern": "match",
       "source_trace": "NCERT Class 9 Science Ch3 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
@@ -196,13 +196,103 @@
         "Plant cells have a cell wall that provides rigidity and strength."
       ],
       "correct_answer": 0,
+      "pattern": "match",
+      "source_trace": "NCERT Class 9 Science Ch3 pg 1",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "3.2.4 Permanent tissues"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Atoms and Molecules, which statement is supported by the source text about 3.3 Animal Tissues?",
+      "options": [
+        "In general, animals can move (although some, such as sponges, are immobile).",
+        "Without a rigid cell wall, animal cells can change shape easily.",
+        "This cellular flexibility eventually helps make their bodies suitable for locomotion.",
+        "Another major difference between plants and animals is their mode of nutrition."
+      ],
+      "correct_answer": 0,
+      "pattern": "not_type",
+      "source_trace": "NCERT Class 9 Science Ch3 pg 1",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "3.3 Animal Tissues"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Atoms and Molecules, which statement is supported by the source text about 3.3.1 Epithelial tissues — Structure and?",
+      "options": [
+        "Animals have tissues that help them digest food obtained from different food sources, while plants have tissues that help them utilise solar energy for...",
+        "Plants and animals have distinct tissues for transporting food and water to different parts of the body.",
+        "The growth patterns in plants and animals also vary because the tissues responsible for growth differ in structure and function.",
+        "In this chapter, we will learn how the structures of plant and animal tissues relate to their specific functions."
+      ],
+      "correct_answer": 0,
       "pattern": "statement",
       "source_trace": "NCERT Class 9 Science Ch3 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
-      "difficulty_level": 3,
+      "difficulty_level": 4,
       "concepts_tested": [
-        "3.2.4 Permanent tissues"
+        "3.3.1 Epithelial tissues — Structure and"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Atoms and Molecules, which statement is supported by the source text about 3.3.2 How are various parts?",
+      "options": [
+        "3.2 Tissues for Growth in Plants You must have observed that a small seedling grows into a tall tree, roots grow deep into the...",
+        "Plants grow in different ways — y increase in length (height of stem and depth of roots), y increase in girth (thickness of stem),...",
+        "This growth require actively dividing cells that together form a tissue called a meristematic tissue.",
+        "Let us explore different kinds of meristematic tissues."
+      ],
+      "correct_answer": 0,
+      "pattern": "match",
+      "source_trace": "NCERT Class 9 Science Ch3 pg 1",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "3.3.2 How are various parts"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Atoms and Molecules, which statement is supported by the source text about RBCs?",
+      "options": [
+        "Take two glass jars or couplin jars and fill them with water.",
+        "Now, take two onion bulbs and place one in each jar, as shown in Fig.",
+        "Observe the growth of roots in both bulbs for a few days.",
+        "On day 3, cut the root tips of the onion bulb in Jar B by about 1 cm."
+      ],
+      "correct_answer": 0,
+      "pattern": "not_type",
+      "source_trace": "NCERT Class 9 Science Ch3 pg 1",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 5,
+      "concepts_tested": [
+        "RBCs"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Atoms and Molecules, which statement is supported by the source text about 3.3.3 Can we control movement in our body??",
+      "options": [
+        "After this, observe the growth of roots in both the jars, measure their lengths Fig.",
+        "3.1: Experimental set-up to observe the growth of roots (a) Jar A (b) Jar B Meet a Scientist B.",
+        "Swamy was a renowned Indian botanist known for his contributions to the area of plant morphology and anatomy.",
+        "His book, Hasuru Honnu, is a popular book in Kannada language."
+      ],
+      "correct_answer": 0,
+      "pattern": "statement",
+      "source_trace": "NCERT Class 9 Science Ch3 pg 1",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 5,
+      "concepts_tested": [
+        "3.3.3 Can we control movement in our body?"
       ]
     }
   ],
@@ -212,7 +302,7 @@
     "generation_method": "local_source_only_extractive_decode"
   },
   "content_model": "clearupsc_textbook_decoded_from_source_v1",
-  "decode_status": "textbook_decoded",
+  "decode_status": "textbook_verified",
   "source": {
     "book": "NCERT Class 9 Science",
     "chapter": 3,
@@ -224,5 +314,5 @@
   "source_trace": "NCERT Class 9 Science | Chapter 3: Atoms and Molecules | https://ncert.nic.in/textbook/pdf/iesc103.pdf | sha256:a0d1f9b22e6bf084e6ce89d98fa60ec92b956a6f26f3cfdfe2354003d04192fe",
   "raw_text_path": "data/study/textbook-first/raw-text/gs3_sci_class9_science_ch03_atoms_and_molecules.txt",
   "generated_by": "local_source_only_extractive_decode",
-  "generated_at": "2026-05-26T19:54:40.525Z"
+  "generated_at": "2026-05-26T20:27:49.293Z"
 }

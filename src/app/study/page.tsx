@@ -26,10 +26,7 @@ export default function StudyHomePage() {
       return (paper === "All" || topic.subject === paper) && text.includes(search.toLowerCase());
     });
   }, [query.data, paper, search]);
-  const decodedChapters = useMemo(
-    () => topics.filter((topic) => topic.textbookFirst && topic.contentQuality === "textbook_decoded"),
-    [topics],
-  );
+  const decodedChapters = useMemo(() => topics.filter((topic) => topic.textbookFirst && isTextbookSourceQuality(topic.contentQuality)), [topics]);
   const syllabusTopics = useMemo(() => topics.filter((topic) => !topic.textbookFirst), [topics]);
 
   return (
@@ -108,4 +105,8 @@ export default function StudyHomePage() {
       </section>
     </ProductShell>
   );
+}
+
+function isTextbookSourceQuality(value?: string | null) {
+  return value === "textbook_decoded" || value === "textbook_verified";
 }

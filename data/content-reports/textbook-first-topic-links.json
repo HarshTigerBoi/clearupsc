@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-05-26T20:07:26.087Z",
+  "generated_at": "2026-05-26T20:28:34.803Z",
   "decoded_chapters_seen": 317,
   "decoded_chapters_linked": 317,
   "updated_existing_topics": 38,
-  "total_links_added": 30,
+  "total_links_added": 0,
   "rows": [
     {
       "key": "gs1_art_class11_indian_art_ch01_prehistoric_rock_paintings",
@@ -2823,49 +2823,49 @@
     {
       "key": "gs3_sci_class10_science_ch14_sources_of_energy",
       "title": "Sources of Energy",
-      "added_refs": 13,
+      "added_refs": 0,
       "total_refs": 14
     },
     {
       "key": "gs3_sci_class11_physics_ch08_gravitation",
       "title": "Gravitation",
-      "added_refs": 7,
+      "added_refs": 0,
       "total_refs": 8
     },
     {
       "key": "gs3_sci_class11_chemistry_ch07_equilibrium",
       "title": "Equilibrium",
-      "added_refs": 1,
+      "added_refs": 0,
       "total_refs": 2
     },
     {
       "key": "gs3_sci_class12_physics_ch09_ray_optics_and_optical_instruments",
       "title": "Ray Optics and Optical Instruments",
-      "added_refs": 3,
+      "added_refs": 0,
       "total_refs": 4
     },
     {
       "key": "gs3_science_and_tech_biotechnology_current_affairs_linkage",
       "title": "Biotechnology: current affairs linkage",
-      "added_refs": 2,
+      "added_refs": 0,
       "total_refs": 4
     },
     {
       "key": "gs3_science_and_tech_defence_tech_current_affairs_linkage",
       "title": "Defence tech: current affairs linkage",
-      "added_refs": 2,
+      "added_refs": 0,
       "total_refs": 4
     },
     {
       "key": "gs3_sci_class12_physics_ch11_dual_nature_of_radiation_and_matter",
       "title": "Dual Nature of Radiation and Matter",
-      "added_refs": 1,
+      "added_refs": 0,
       "total_refs": 2
     },
     {
       "key": "gs3_sci_class12_chemistry_ch06_haloalkanes_and_haloarenes",
       "title": "Haloalkanes and Haloarenes",
-      "added_refs": 1,
+      "added_refs": 0,
       "total_refs": 2
     }
   ]

@@ -136,7 +136,7 @@
       "source_trace": "NCERT Class 12 Politics in India since Independence Ch2 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
-      "difficulty_level": 3,
+      "difficulty_level": 1,
       "concepts_tested": [
         "26 November 1949 and signed on 24 January 1950 and it came into"
       ]
@@ -150,7 +150,7 @@
         "You have read about the serious challenge of nation-building that confronted the country right in the beginning."
       ],
       "correct_answer": 0,
-      "pattern": "statement",
+      "pattern": "match",
       "source_trace": "NCERT Class 12 Politics in India since Independence Ch2 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
@@ -204,13 +204,103 @@
         "There are always different policy alternatives to choose from."
       ],
       "correct_answer": 0,
+      "pattern": "match",
+      "source_trace": "NCERT Class 12 Politics in India since Independence Ch2 pg 1",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "30 Politics in India sinc Independence"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Era of One Party Dominance, which statement is supported by the source text about 32 Politics in India sinc Independence?",
+      "options": [
+        "There are different groups with different and conflicting aspirations.",
+        "While competition and power are the two most visible things about politics, the purpose of political activity is and should be deciding and pursuing...",
+        "Last year you studied how our Constitution was drafted.",
+        "You would remember that the Constitution was adopted on 26 November 1949 and signed on 24 January 1950 and it came into effect on..."
+      ],
+      "correct_answer": 0,
+      "pattern": "not_type",
+      "source_trace": "NCERT Class 12 Politics in India since Independence Ch2 pg 1",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "32 Politics in India sinc Independence"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Era of One Party Dominance, which statement is supported by the source text about 34 Politics in India sinc Independence?",
+      "options": [
+        "At that time the country was being ruled by an interim government.",
+        "It was now necessary to install the first democratically elected government of the country.",
+        "The Constitution had laid down the rules, now the machine had to be put in place.",
+        "Initially it was thought that this was only a matter of a few months."
+      ],
+      "correct_answer": 0,
       "pattern": "statement",
       "source_trace": "NCERT Class 12 Politics in India since Independence Ch2 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
-      "difficulty_level": 3,
+      "difficulty_level": 4,
       "concepts_tested": [
-        "30 Politics in India sinc Independence"
+        "34 Politics in India sinc Independence"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Era of One Party Dominance, which statement is supported by the source text about 34 Politics in India since Independence?",
+      "options": [
+        "The Election Commission of India was set up in January 1950.",
+        "Sukumar Sen became the first Chief Election Commissioner.",
+        "The country’s first general elections were expected sometime in 1950 itself.",
+        "Sooner or later every country has become a democracy, isn’t it?"
+      ],
+      "correct_answer": 0,
+      "pattern": "match",
+      "source_trace": "NCERT Class 12 Politics in India since Independence Ch2 pg 1",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "34 Politics in India since Independence"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Era of One Party Dominance, which statement is supported by the source text about 36 Politics in India sinc Independence?",
+      "options": [
+        "In India,…. …hero-worship, plays a part in its politics unequalled in magnitude by the part it plays in the politics of any other country….But...",
+        "Ambedkar Speech in Constituent Assembly 25 November 1949 “ “ 2chapter era of one-party dominance",
+        "28 Politics in India sinc Independence A cartoonist’s impression of the election committee formed by the Congress to choose party candidates in 1951.",
+        "On the committee, besides Nehru: Morarji Desai, Rafi Ahmed Kidwai, Dr B.C."
+      ],
+      "correct_answer": 0,
+      "pattern": "not_type",
+      "source_trace": "NCERT Class 12 Politics in India since Independence Ch2 pg 1",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 5,
+      "concepts_tested": [
+        "36 Politics in India sinc Independence"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Era of One Party Dominance, which statement is supported by the source text about 38 Politics in India sinc Independence?",
+      "options": [
+        "Roy, Kamaraj Nadar, Rajagopalachari, Jagjivan Ram, Maulana Azad, D.P.",
+        "But the Election Commission discovered that it was not going to be easy to hold a free and fair election in a country of...",
+        "Holding an election required delimitation or drawing the boundaries of the electoral constituencies.",
+        "It also required preparing the electoral rolls, or the list of all the citizens eligible to vote."
+      ],
+      "correct_answer": 0,
+      "pattern": "statement",
+      "source_trace": "NCERT Class 12 Politics in India since Independence Ch2 pg 2",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 5,
+      "concepts_tested": [
+        "38 Politics in India sinc Independence"
       ]
     }
   ],
@@ -220,7 +310,7 @@
     "generation_method": "local_source_only_extractive_decode"
   },
   "content_model": "clearupsc_textbook_decoded_from_source_v1",
-  "decode_status": "textbook_decoded",
+  "decode_status": "textbook_verified",
   "source": {
     "book": "NCERT Class 12 Politics in India since Independence",
     "chapter": 2,
@@ -232,5 +322,5 @@
   "source_trace": "NCERT Class 12 Politics in India since Independence | Chapter 2: Era of One Party Dominance | https://ncert.nic.in/textbook/pdf/leps202.pdf | sha256:b01912cdb66d3405ca1bd73df3b5a78693c66753b7db89392dbd5d486996cdc6",
   "raw_text_path": "data/study/textbook-first/raw-text/gs1_post_independence_class12_politics_india_ch02_era_of_one_party_dominance.txt",
   "generated_by": "local_source_only_extractive_decode",
-  "generated_at": "2026-05-26T19:53:45.942Z"
+  "generated_at": "2026-05-26T20:26:52.109Z"
 }

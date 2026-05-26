@@ -124,7 +124,7 @@
       "source_trace": "NCERT Class 12 Physics Ch1 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
-      "difficulty_level": 3,
+      "difficulty_level": 1,
       "concepts_tested": [
         "ELECTRIC CHARGES"
       ]
@@ -138,7 +138,7 @@
         "Static means anything that does not move or change with time."
       ],
       "correct_answer": 0,
-      "pattern": "statement",
+      "pattern": "match",
       "source_trace": "NCERT Class 12 Physics Ch1 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
@@ -192,13 +192,103 @@
         "There are two kinds of electrification and we find that (i) like charges repel and (ii) unlike charges attract each other."
       ],
       "correct_answer": 0,
+      "pattern": "match",
+      "source_trace": "NCERT Class 12 Physics Ch1 pg 1",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "1.3 CONDUCTORS AND INSULATORS"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Electric Charges and Fields, which statement is supported by the source text about 1.4 BASIC PROPERTIES OF ELECTRIC?",
+      "options": [
+        "The property which differentiates the two kinds of charges is called the polarity of charge.",
+        "When a glass rod is rubbed with silk, the rod acquires one kind of charge and the silk acquires the second kind of charge.",
+        "This is true for any pair of objects that are rubbed to be electrified.",
+        "Now if the electrified glass rod is brought in contact with silk, with which it was rubbed, they no longer attract each other."
+      ],
+      "correct_answer": 0,
+      "pattern": "not_type",
+      "source_trace": "NCERT Class 12 Physics Ch1 pg 1",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "1.4 BASIC PROPERTIES OF ELECTRIC"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Electric Charges and Fields, which statement is supported by the source text about CHARGE?",
+      "options": [
+        "They also do not attract or repel other light objects as they did on being electrified.",
+        "Thus, the charges acquired after rubbing are lost when the charged bodies are brought in contact.",
+        "It just tells us that unlike charges acquired by the objects neutralise or nullify each other’s effect.",
+        "Therefore, the charges were named as positive and negative by the American scientist Benjamin Franklin."
+      ],
+      "correct_answer": 0,
       "pattern": "statement",
       "source_trace": "NCERT Class 12 Physics Ch1 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
-      "difficulty_level": 3,
+      "difficulty_level": 4,
       "concepts_tested": [
-        "1.3 CONDUCTORS AND INSULATORS"
+        "CHARGE"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Electric Charges and Fields, which statement is supported by the source text about 1.4.1 Additivity of charges?",
+      "options": [
+        "By convention, the charge on glass rod or cat’s fur is called positive and that on plastic rod or silk is termed negative.",
+        "If an object possesses an electric charge, it is said to be electrified or charged.",
+        "When it has no charge it is said to be electrically neutral.",
+        "FIGURE 1.1 Rods: like charges repel and unlike charges attract each other."
+      ],
+      "correct_answer": 0,
+      "pattern": "match",
+      "source_trace": "NCERT Class 12 Physics Ch1 pg 1",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "1.4.1 Additivity of charges"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Electric Charges and Fields, which statement is supported by the source text about 1.4.2 Charge is conserved?",
+      "options": [
+        "Electric Charges and Fields 3 A simple apparatus to detect charge on a body is the gold-leaf electroscope [Fig.",
+        "It consists of a vertical metal rod housed in a box, with two thin gold leaves attached to its bottom end.",
+        "When a charged object touches the metal knob at the top of the rod, charge flows on to the leaves and they diverge.",
+        "The degree of divergance is an indicator of the amount of charge."
+      ],
+      "correct_answer": 0,
+      "pattern": "not_type",
+      "source_trace": "NCERT Class 12 Physics Ch1 pg 2",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 5,
+      "concepts_tested": [
+        "1.4.2 Charge is conserved"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Electric Charges and Fields, which statement is supported by the source text about 1.4.3 Quantisation of charge?",
+      "options": [
+        "You know that all matter is made up of atoms and/or molecules.",
+        "Although normally the materials are electrically neutral, they do contain charges; but their charges are exactly balanced.",
+        "Forces that hold the molecules together, forces that hold atoms together in a solid, the adhesive force of glue, forces associated with surface tension,...",
+        "Thus the electric force is all pervasive and it encompasses almost each and every field associated with our life."
+      ],
+      "correct_answer": 0,
+      "pattern": "statement",
+      "source_trace": "NCERT Class 12 Physics Ch1 pg 2",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 5,
+      "concepts_tested": [
+        "1.4.3 Quantisation of charge"
       ]
     }
   ],
@@ -208,7 +298,7 @@
     "generation_method": "local_source_only_extractive_decode"
   },
   "content_model": "clearupsc_textbook_decoded_from_source_v1",
-  "decode_status": "textbook_decoded",
+  "decode_status": "textbook_verified",
   "source": {
     "book": "NCERT Class 12 Physics",
     "chapter": 1,
@@ -220,5 +310,5 @@
   "source_trace": "NCERT Class 12 Physics | Chapter 1: Electric Charges and Fields | https://ncert.nic.in/textbook/pdf/leph101.pdf | sha256:ebfbdf8057d7e855385b1720c1771a89d807cb45f5f3b7b79d530f1e8880209f",
   "raw_text_path": "data/study/textbook-first/raw-text/gs3_sci_class12_physics_ch01_electric_charges_and_fields.txt",
   "generated_by": "local_source_only_extractive_decode",
-  "generated_at": "2026-05-26T19:54:32.143Z"
+  "generated_at": "2026-05-26T20:27:40.599Z"
 }

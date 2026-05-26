@@ -115,7 +115,7 @@
       "source_trace": "NCERT Class 11 Phys Geo Ch11 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
-      "difficulty_level": 3,
+      "difficulty_level": 1,
       "concepts_tested": [
         "C C C C CLIMATE LIMATE LIMATE LIMATE LIMATE C C C C CHANGE HANGE HANGE HANGE HANGE"
       ]
@@ -129,7 +129,7 @@
         "It is an empirical classification based on mean annual and mean monthly temperature and precipitation data."
       ],
       "correct_answer": 0,
-      "pattern": "statement",
+      "pattern": "match",
       "source_trace": "NCERT Class 11 Phys Geo Ch11 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
@@ -183,13 +183,103 @@
         "The sun being overhead throughout the year and the presence of Inter Tropical Convergence Zone (ITCZ) make the climate hot and humid."
       ],
       "correct_answer": 0,
+      "pattern": "match",
+      "source_trace": "NCERT Class 11 Phys Geo Ch11 pg 1",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "WORLD CLIMATE AND CLIMATE CHANGE 95"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Water in the Atmosphere, which statement is supported by the source text about C C C C CLIM LIM LIM LIM LIMATE ATE ATE ATE ATE C C C C CHANGE HANGE HANGE HANGE HANGE?",
+      "options": [
+        "Annual range of temperature is very low and annual rainfall is high.",
+        "The tropical group is divided into three types, namely (i) Af- Tropical wet climate; (ii) Am - Tropical monsoon climate; (iii) Aw- Tropical wet...",
+        "Tropical Wet Climate (Af) Tropical wet climate is found near the equator.",
+        "The major areas are the Amazon Basin in South America, western equatorial Africa and the islands of East Indies."
+      ],
+      "correct_answer": 0,
+      "pattern": "not_type",
+      "source_trace": "NCERT Class 11 Phys Geo Ch11 pg 1",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "C C C C CLIM LIM LIM LIM LIMATE ATE ATE ATE ATE C C C C CHANGE HANGE HANGE HANGE HANGE"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Water in the Atmosphere, which statement is supported by the source text about WORLD CLIMATE AND CLIMATE CHANGE 97?",
+      "options": [
+        "Significant amount of rainfall occurs in every month of the year as thunder showers in the afternoon.",
+        "The temperature is uniformly high and the annual range of temperature is negligible.",
+        "The maximum temperature on any day is around 30°C while the minimum temperature is around 20°C.",
+        "Tropical evergreen forests with dense canopy cover and large biodiversity are found in this climate."
+      ],
+      "correct_answer": 0,
       "pattern": "statement",
       "source_trace": "NCERT Class 11 Phys Geo Ch11 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
-      "difficulty_level": 3,
+      "difficulty_level": 4,
       "concepts_tested": [
-        "WORLD CLIMATE AND CLIMATE CHANGE 95"
+        "WORLD CLIMATE AND CLIMATE CHANGE 97"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Water in the Atmosphere, which statement is supported by the source text about (a) A—B—C—E?",
+      "options": [
+        "Tropical Monsoon Climate (Am) Tropical monsoon climate (Am) is found over the Indian sub-continent, North Eastern part of South America and Northern Australia.",
+        "The detailed climatic account of this climatic type is given in the book on India: Physical Environment.",
+        "Tropical Wet and Dry Climate (Aw) Tropical wet and dry climate occurs north and south of Af type climate regions.",
+        "It borders with dry climate on the western part of the continent and Cf or Cw on the eastern part."
+      ],
+      "correct_answer": 0,
+      "pattern": "match",
+      "source_trace": "NCERT Class 11 Phys Geo Ch11 pg 1",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "(a) A—B—C—E"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Water in the Atmosphere, which statement is supported by the source text about (b) A—C—D—E?",
+      "options": [
+        "Extensive Aw climate is found to the north and south of the Amazon forest in Brazil and adjoining parts Table 11.2 : Climatic Types...",
+        "WORLD CLIMATE AND CLIMATE CHANGE 93 of Bolivia and Paraguay in South America, Sudan and south of Central Africa.",
+        "The annual rainfall in this climate is considerably less than that in Af and Am climate types and is variable also.",
+        "The wet season is shorter and the dry season is longer with the drought being more severe."
+      ],
+      "correct_answer": 0,
+      "pattern": "not_type",
+      "source_trace": "NCERT Class 11 Phys Geo Ch11 pg 1",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 5,
+      "concepts_tested": [
+        "(b) A—C—D—E"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Water in the Atmosphere, which statement is supported by the source text about (c) B—C—D—E?",
+      "options": [
+        "Temperature is high throughout the year and diurnal ranges of temperature are the greatest in the dry season.",
+        "Deciduous forest and tree-shredded grasslands occur in this climate.",
+        "Dry Climates : B Dry climates are characterised by very low rainfall that is not adequate for the growth of plants.",
+        "These climates cover a very large area of the planet extending over large latitudes from 15° - 60° north and south of the equator."
+      ],
+      "correct_answer": 0,
+      "pattern": "statement",
+      "source_trace": "NCERT Class 11 Phys Geo Ch11 pg 2",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 5,
+      "concepts_tested": [
+        "(c) B—C—D—E"
       ]
     }
   ],
@@ -199,7 +289,7 @@
     "generation_method": "local_source_only_extractive_decode"
   },
   "content_model": "clearupsc_textbook_decoded_from_source_v1",
-  "decode_status": "textbook_decoded",
+  "decode_status": "textbook_verified",
   "source": {
     "book": "NCERT Class 11 Fundamentals of Physical Geography",
     "chapter": 11,
@@ -211,5 +301,5 @@
   "source_trace": "NCERT Class 11 Fundamentals of Physical Geography | Chapter 11: Water in the Atmosphere | https://ncert.nic.in/textbook/pdf/kegy211.pdf | sha256:20ac162c580faacbb73102120b03a51bea11c467f4fce5abf7ded36b299e5785",
   "raw_text_path": "data/study/textbook-first/raw-text/gs1_geo_class11_phys_ch11_water_in_the_atmosphere.txt",
   "generated_by": "local_source_only_extractive_decode",
-  "generated_at": "2026-05-26T19:53:30.930Z"
+  "generated_at": "2026-05-26T20:26:36.595Z"
 }

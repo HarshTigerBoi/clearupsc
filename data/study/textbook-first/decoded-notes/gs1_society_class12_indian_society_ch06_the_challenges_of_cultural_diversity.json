@@ -136,7 +136,7 @@
       "source_trace": "NCERT Class 12 Indian Society Ch6 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
-      "difficulty_level": 3,
+      "difficulty_level": 1,
       "concepts_tested": [
         "6.1 The ImporTance of communITy IdenTITy"
       ]
@@ -150,7 +150,7 @@
         "When these diverse communities are also part of a larger entity like a nation, then difficulties may be created by competition or conflict between..."
       ],
       "correct_answer": 0,
-      "pattern": "statement",
+      "pattern": "match",
       "source_trace": "NCERT Class 12 Indian Society Ch6 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
@@ -204,13 +204,103 @@
         "We don’t have to do anything to be born into a community – in fact, no one has any choice about which family or..."
       ],
       "correct_answer": 0,
-      "pattern": "statement",
+      "pattern": "match",
       "source_trace": "NCERT Class 12 Indian Society Ch6 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
-      "difficulty_level": 3,
+      "difficulty_level": 4,
       "concepts_tested": [
         "The Challenges of Cultural Diversity"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of The Challenges of Cultural Diversity, which statement is supported by the source text about Challenges?",
+      "options": [
+        "These kinds of identities are called ‘ascriptive’ – that is, they are determined by the birth and do not involve any choice on the...",
+        "It is an odd fact of social life that people feel a deep Indian Society 98",
+        "sense of security and satisfaction in belonging to communities in which their membership is entirely accidental.",
+        "We often identify so strongly with communities we have done noting to ‘deserve’ - passed no exam, demonstrated no skill or competence..."
+      ],
+      "correct_answer": 0,
+      "pattern": "not_type",
+      "source_trace": "NCERT Class 12 Indian Society Ch6 pg 1",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "Challenges"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of The Challenges of Cultural Diversity, which statement is supported by the source text about Cultural?",
+      "options": [
+        "This is very unlike belonging to, say, a profession or team.",
+        "Doctors or architects have to pass exams and demonstrate their competence.",
+        "Even in sports, a certain level of skill and performance are a necessary pre-condition for membership in a team.",
+        "But our membership in our families or religious or regional communities is without preconditions, and yet it is total."
+      ],
+      "correct_answer": 0,
+      "pattern": "statement",
+      "source_trace": "NCERT Class 12 Indian Society Ch6 pg 2",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "Cultural"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of The Challenges of Cultural Diversity, which statement is supported by the source text about Diversity?",
+      "options": [
+        "In fact, most ascriptive identities are very hard to shake off; even if we choose to disown them, others may continue to identify us...",
+        "Perhaps it is because of this accidental, unconditional and yet almost inescapable belonging that we can often be so emotionally attached to our community...",
+        "Expanding and overlapping circles of community ties (family, kinship, caste, ethnicity, language, region or religion) give meaning to our world and give us a...",
+        "That is why people often react emotionally or even violently whenever there is a perceived threat to their community identity."
+      ],
+      "correct_answer": 0,
+      "pattern": "match",
+      "source_trace": "NCERT Class 12 Indian Society Ch6 pg 2",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "Diversity"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of The Challenges of Cultural Diversity, which statement is supported by the source text about The ImporTance of?",
+      "options": [
+        "A second feature of ascriptive identities and community feeling is that they are universal.",
+        "Everyone has a motherland, a mother tongue, a family, a faith… This may not necessarily be strictly true of every individual, but it is...",
+        "And we are all equally committed and loyal to our respective identities.",
+        "Once again it is possible to come across people who may not be particularly committed to one or the other aspect of their identity."
+      ],
+      "correct_answer": 0,
+      "pattern": "not_type",
+      "source_trace": "NCERT Class 12 Indian Society Ch6 pg 2",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 5,
+      "concepts_tested": [
+        "The ImporTance of"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of The Challenges of Cultural Diversity, which statement is supported by the source text about IdenTITy Every?",
+      "options": [
+        "But the possibility of this commitment is potentially available to most people.",
+        "Because of this, conflicts that involve our communities (whether of nation, language, religion, caste or region) are very hard to deal with.",
+        "Each side in the conflict thinks of the other side as a hated enemy, and there is a tendency to exaggerate the virtues of...",
+        "Thus, when two nations are at war, patriots in each nation see the other as the enemy aggressor; each side believes that God and..."
+      ],
+      "correct_answer": 0,
+      "pattern": "statement",
+      "source_trace": "NCERT Class 12 Indian Society Ch6 pg 2",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 5,
+      "concepts_tested": [
+        "IdenTITy Every"
       ]
     }
   ],
@@ -220,7 +310,7 @@
     "generation_method": "local_source_only_extractive_decode"
   },
   "content_model": "clearupsc_textbook_decoded_from_source_v1",
-  "decode_status": "textbook_decoded",
+  "decode_status": "textbook_verified",
   "source": {
     "book": "NCERT Class 12 Indian Society",
     "chapter": 6,
@@ -232,5 +322,5 @@
   "source_trace": "NCERT Class 12 Indian Society | Chapter 6: The Challenges of Cultural Diversity | https://ncert.nic.in/textbook/pdf/lesy106.pdf | sha256:4bc2dc466e8519bba56581069d2fc109c614c2bf2f43d9204d0e75a49e324422",
   "raw_text_path": "data/study/textbook-first/raw-text/gs1_society_class12_indian_society_ch06_the_challenges_of_cultural_diversity.txt",
   "generated_by": "local_source_only_extractive_decode",
-  "generated_at": "2026-05-26T19:53:48.840Z"
+  "generated_at": "2026-05-26T20:26:55.123Z"
 }

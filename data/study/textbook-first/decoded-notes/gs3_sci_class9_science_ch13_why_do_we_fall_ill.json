@@ -128,7 +128,7 @@
       "source_trace": "NCERT Class 9 Science Ch13 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
-      "difficulty_level": 3,
+      "difficulty_level": 1,
       "concepts_tested": [
         "253 Earth as a S ystem: Energy, Matter, and Life"
       ]
@@ -142,7 +142,7 @@
         "We will explore how energy and matter move, interact across the Earth’s spheres, and how a change in one affects others."
       ],
       "correct_answer": 0,
-      "pattern": "statement",
+      "pattern": "match",
       "source_trace": "NCERT Class 9 Science Ch13 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
@@ -196,13 +196,103 @@
         "At the same time, the rise in atmospheric temperature could eventually accelerate the melting of glaciers and polar ice in the cryosphere, which may..."
       ],
       "correct_answer": 0,
+      "pattern": "match",
+      "source_trace": "NCERT Class 9 Science Ch13 pg 1",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "257 Earth as a System: Energy, Matter, and Life"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Why Do We Fall Ill, which statement is supported by the source text about 13.1.2 Latitude and Earth’s shape?",
+      "options": [
+        "This could disturb the ecosystems within the biosphere by causing a habitat loss.",
+        "Does the solar radiation heat the Earth’s surface evenly?",
+        "Let us explore how solar radiation varies from the equator to the poles, the oceans to the mountains, and drives many of Earth’s natural...",
+        "13.1 Uneven Heating of the Earth Solar radiation is the main source of energy on the Earth."
+      ],
+      "correct_answer": 0,
+      "pattern": "not_type",
+      "source_trace": "NCERT Class 9 Science Ch13 pg 1",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "13.1.2 Latitude and Earth’s shape"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Why Do We Fall Ill, which statement is supported by the source text about 13.1.3 Role of the atmosphere?",
+      "options": [
+        "It reaches the Earth as electromagnetic (EM) waves that travel through a vacuum at Fig.",
+        "Exploration|Grade 9 254 the speed of light (unlike EM waves, sound waves, which you studied in Chapter 10, Sound Waves: Characteristics and Applications, are...",
+        "EM waves cover a wide range of frequencies, from high frequency or short wavelength radiation (gamma rays and X-rays) to low frequency or long...",
+        "The high frequency EM waves, such as gamma rays and X-rays have very high energy and can be harmful for life on Earth."
+      ],
+      "correct_answer": 0,
       "pattern": "statement",
       "source_trace": "NCERT Class 9 Science Ch13 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
-      "difficulty_level": 3,
+      "difficulty_level": 4,
       "concepts_tested": [
-        "257 Earth as a System: Energy, Matter, and Life"
+        "13.1.3 Role of the atmosphere"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Why Do We Fall Ill, which statement is supported by the source text about 259 Earth as a System: Energy, Matter, and Life?",
+      "options": [
+        "The entire range of electromagnetic radiation called electromagnetic spectrum is shown in Fig.",
+        "However, the solar radiation reaching Earth is concentrated mainly in the ultraviolet (UV), visible and infrared (IR) range — about 99 per cent of...",
+        "These three regions of the spectrum shape the Earth’s climate and support life.",
+        "Gamma rays and X-rays are mostly filtered by the Earth’s upper atmosphere, while microwaves and radio waves carry very little energy to significantly warm..."
+      ],
+      "correct_answer": 0,
+      "pattern": "match",
+      "source_trace": "NCERT Class 9 Science Ch13 pg 2",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "259 Earth as a System: Energy, Matter, and Life"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Why Do We Fall Ill, which statement is supported by the source text about 13.2 Uneven Heating Causes Wind and Ocean?",
+      "options": [
+        "Short wavelength UV radiation is mostly absorbed by the ozone layer in the upper atmosphere, protecting life and contributing to some atmospheric heating.",
+        "Visible light from the Sun reaches the Earth’s surface and provides energy for photosynthesis, which is the primary source of food for most organisms.",
+        "Infrared radiation warms the Earth’s surface, which then re-radiates this heat back into the atmosphere.",
+        "A portion of this outgoing heat is trapped by the greenhouse gases, such as carbon dioxide (CO2), methane (CH4) and water vapour, keeping the..."
+      ],
+      "correct_answer": 0,
+      "pattern": "not_type",
+      "source_trace": "NCERT Class 9 Science Ch13 pg 2",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 5,
+      "concepts_tested": [
+        "13.2 Uneven Heating Causes Wind and Ocean"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Why Do We Fall Ill, which statement is supported by the source text about 13.2.1 Local winds?",
+      "options": [
+        "The UV rays lie in the wavelength range of 100 nm to 400 nm [1 nanometre (nm) = 10–9 m] and have a much...",
+        "Prolonged exposure to these rays can damage the eyes and skin, and increase the risk of cancer.",
+        "Therefore, people should use UV protective glasses and sunscreen if they are likely to be exposed to UV rays.",
+        "UV rays are also useful in killing germs in water purifiers and help power fluorescent lights."
+      ],
+      "correct_answer": 0,
+      "pattern": "statement",
+      "source_trace": "NCERT Class 9 Science Ch13 pg 2",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 5,
+      "concepts_tested": [
+        "13.2.1 Local winds"
       ]
     }
   ],
@@ -212,7 +302,7 @@
     "generation_method": "local_source_only_extractive_decode"
   },
   "content_model": "clearupsc_textbook_decoded_from_source_v1",
-  "decode_status": "textbook_decoded",
+  "decode_status": "textbook_verified",
   "source": {
     "book": "NCERT Class 9 Science",
     "chapter": 13,
@@ -224,5 +314,5 @@
   "source_trace": "NCERT Class 9 Science | Chapter 13: Why Do We Fall Ill | https://ncert.nic.in/textbook/pdf/iesc113.pdf | sha256:c690fbd95e16f6e82f386f8e543114ee61954a829d2e58476850d6f5fb067723",
   "raw_text_path": "data/study/textbook-first/raw-text/gs3_sci_class9_science_ch13_why_do_we_fall_ill.txt",
   "generated_by": "local_source_only_extractive_decode",
-  "generated_at": "2026-05-26T19:54:42.953Z"
+  "generated_at": "2026-05-26T20:27:51.789Z"
 }

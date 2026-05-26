@@ -120,7 +120,7 @@
       "source_trace": "NCERT Class 7 Science Ch11 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
-      "difficulty_level": 3,
+      "difficulty_level": 1,
       "concepts_tested": [
         "LIGHT 123"
       ]
@@ -134,7 +134,7 @@
         "Do you know, what happens when light falls on a polished or a shiny surface?"
       ],
       "correct_answer": 0,
-      "pattern": "statement",
+      "pattern": "match",
       "source_trace": "NCERT Class 7 Science Ch11 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
@@ -188,13 +188,103 @@
         "Place the torch in such a way that its light is seen along the chart paper on the board."
       ],
       "correct_answer": 0,
-      "pattern": "statement",
+      "pattern": "match",
       "source_trace": "NCERT Class 7 Science Ch11 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
-      "difficulty_level": 3,
+      "difficulty_level": 4,
       "concepts_tested": [
         "11.2 REFLECTION OF LIGHT"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Transportation in Animals and Plants, which statement is supported by the source text about LIGHT 125?",
+      "options": [
+        "Now adjust its position so that the light from the torch strikes the plane mirror at an angle (Fig.",
+        "Does the mirror change the direction of light that falls on it?",
+        "Do you find any change in the direction of reflected light?",
+        "Look into the mirror along the direction of the reflected light."
+      ],
+      "correct_answer": 0,
+      "pattern": "not_type",
+      "source_trace": "NCERT Class 7 Science Ch11 pg 2",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "LIGHT 125"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Transportation in Animals and Plants, which statement is supported by the source text about CAUTION?",
+      "options": [
+        "This activity shows how light gets reflected from a plane mirror.",
+        "Let us play around with the images formed in mirrors and know a little more about them.",
+        "11.5 Reflection of light from a mirror Paheli wants to know, what makes things visible to us?",
+        "Boojho thinks that objects are visible only when light reflected from them reaches our eyes."
+      ],
+      "correct_answer": 0,
+      "pattern": "statement",
+      "source_trace": "NCERT Class 7 Science Ch11 pg 2",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "CAUTION"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Transportation in Animals and Plants, which statement is supported by the source text about SCIENCE 126?",
+      "options": [
+        "It is better if this activity is performed in the presence of a teacher or an elder person.",
+        "It appears as if a similar candle is placed behind the mirror.",
+        "The candle, which appears behind the mirror, is the image of the candle formed by the mirror (Fig.",
+        "Now move the candle to different positions in front of the mirror."
+      ],
+      "correct_answer": 0,
+      "pattern": "match",
+      "source_trace": "NCERT Class 7 Science Ch11 pg 2",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "SCIENCE 126"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Transportation in Animals and Plants, which statement is supported by the source text about LIGHT 127?",
+      "options": [
+        "SCIENCE 126 cannot be obtained on the screen in either case.",
+        "If a chess board is not available, draw on a chart paper 64 (8×8) squares of equal size.",
+        "Place any small object, such as a pencil sharpner, at the boundary of the third square counting from the mirror (Fig.",
+        "Now shift the object to the boundary of the fourth square."
+      ],
+      "correct_answer": 0,
+      "pattern": "not_type",
+      "source_trace": "NCERT Class 7 Science Ch11 pg 3",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 5,
+      "concepts_tested": [
+        "LIGHT 127"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Transportation in Animals and Plants, which statement is supported by the source text about 11.3 RIGHT OR L EFT!?",
+      "options": [
+        "Did you find any relation between the distance of the image from the mirror and that of the object in front of it?",
+        "Did the flame appear on top of the candle as in the object?",
+        "An image formed by a plane mirror is erect and of the same size as the object.",
+        "You will find that the image of the candle Boojho noted in his notebook: Is it not surprising that my image is of the..."
+      ],
+      "correct_answer": 0,
+      "pattern": "statement",
+      "source_trace": "NCERT Class 7 Science Ch11 pg 3",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 5,
+      "concepts_tested": [
+        "11.3 RIGHT OR L EFT!"
       ]
     }
   ],
@@ -204,7 +294,7 @@
     "generation_method": "local_source_only_extractive_decode"
   },
   "content_model": "clearupsc_textbook_decoded_from_source_v1",
-  "decode_status": "textbook_decoded",
+  "decode_status": "textbook_verified",
   "source": {
     "book": "NCERT Class 7 Science",
     "chapter": 11,
@@ -216,5 +306,5 @@
   "source_trace": "NCERT Class 7 Science | Chapter 11: Transportation in Animals and Plants | https://ncert.nic.in/textbook/pdf/gesc111.pdf | sha256:680700c68cfd0aafe0e49ad0fa76b887e154ea7641bab5b17b22e479da4f5164",
   "raw_text_path": "data/study/textbook-first/raw-text/gs3_sci_class7_science_ch11_transportation_in_animals_and_plants.txt",
   "generated_by": "local_source_only_extractive_decode",
-  "generated_at": "2026-05-26T19:54:36.437Z"
+  "generated_at": "2026-05-26T20:27:44.965Z"
 }

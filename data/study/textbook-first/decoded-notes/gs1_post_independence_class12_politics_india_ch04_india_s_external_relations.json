@@ -136,7 +136,7 @@
       "source_trace": "NCERT Class 12 Politics in India since Independence Ch4 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
-      "difficulty_level": 3,
+      "difficulty_level": 1,
       "concepts_tested": [
         "56 Politics in India since Independence"
       ]
@@ -150,7 +150,7 @@
         "International context India was born as an independent nation-state in a very trying and challenging international context."
       ],
       "correct_answer": 0,
-      "pattern": "statement",
+      "pattern": "match",
       "source_trace": "NCERT Class 12 Politics in India since Independence Ch4 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
@@ -204,13 +204,103 @@
         "Moreover, their economic and security dependence on the more powerful states occasionally influences their foreign policy."
       ],
       "correct_answer": 0,
+      "pattern": "match",
+      "source_trace": "NCERT Class 12 Politics in India since Independence Ch4 pg 1",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "62 Politics in India since Independence"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of India's External Relations, which statement is supported by the source text about 64 Politics in India since Independence?",
+      "options": [
+        "In the period immediately after the Second world war, many developing nations chose to support the foreign policy preferences of the powerful countries who...",
+        "This resulted in the division of countries of the world into two clear camps.",
+        "One was under the influence of the United States and its western allies and the other was under the influence of the then Soviet...",
+        "There was also the experiment called Non- Aligned Movement in which India had played an important role."
+      ],
+      "correct_answer": 0,
+      "pattern": "not_type",
+      "source_trace": "NCERT Class 12 Politics in India since Independence Ch4 pg 1",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "64 Politics in India since Independence"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of India's External Relations, which statement is supported by the source text about 66 Politics in India since Independence?",
+      "options": [
+        "However, the end of the Cold war changed the context of international relations entirely.",
+        "But when India achieved its freedom and started framing What does independence consist of?",
+        "It consists fundamentally and basically of foreign relations.",
+        "Once foreign relations go out of your hands into the charge of somebody else, to that extent and in that measure you are not..."
+      ],
+      "correct_answer": 0,
       "pattern": "statement",
       "source_trace": "NCERT Class 12 Politics in India since Independence Ch4 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
-      "difficulty_level": 3,
+      "difficulty_level": 4,
       "concepts_tested": [
-        "62 Politics in India since Independence"
+        "66 Politics in India since Independence"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of India's External Relations, which statement is supported by the source text about 68 Politics in India since Independence?",
+      "options": [
+        "Jawaharlal Nehru during a debate in the Constituent Assembly in March 1949. ““ 4chapter IndIa’s external relatIons",
+        "56 Politics in India since Independence its foreign policy, the Cold war was just beginning and the world was getting divided into these two...",
+        "Did India belong to any of these two camps in global politics of the fifties and the sixties? was it successful in conducting its...",
+        "The Policy of non-alignment The Indian national movement was not an isolated process."
+      ],
+      "correct_answer": 0,
+      "pattern": "match",
+      "source_trace": "NCERT Class 12 Politics in India since Independence Ch4 pg 1",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "68 Politics in India since Independence"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of India's External Relations, which statement is supported by the source text about 70 Politics in India since Independence?",
+      "options": [
+        "It was a part of the worldwide struggle against colonialism and imperialism.",
+        "It influenced the liberation movements of many Asian and African countries. prior to India’s Independence, there were contacts between the nationalist leaders of India...",
+        "The creation of the Indian National Army (INA) by Netaji Subhash Chandra Bose during the Second world war was the clearest manifestation of the...",
+        "The foreign policy of a nation reflects the interplay of domestic and external factors."
+      ],
+      "correct_answer": 0,
+      "pattern": "not_type",
+      "source_trace": "NCERT Class 12 Politics in India since Independence Ch4 pg 2",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 5,
+      "concepts_tested": [
+        "70 Politics in India since Independence"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of India's External Relations, which statement is supported by the source text about USSR.?",
+      "options": [
+        "Therefore, the noble ideals that inspired India’s struggle for freedom influenced the making of its foreign policy.",
+        "But India’s attainment of independence coincided with the beginning of the Cold war era, a period which was marked by the political, economic, and...",
+        "The same period also witnessed developments like the establishment of the UN, the creation of nuclear weapons, the emergence of Communist The Constitutional principles...",
+        "You may come back to this question after reading the chapter."
+      ],
+      "correct_answer": 0,
+      "pattern": "statement",
+      "source_trace": "NCERT Class 12 Politics in India since Independence Ch4 pg 2",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 5,
+      "concepts_tested": [
+        "USSR."
       ]
     }
   ],
@@ -220,7 +310,7 @@
     "generation_method": "local_source_only_extractive_decode"
   },
   "content_model": "clearupsc_textbook_decoded_from_source_v1",
-  "decode_status": "textbook_decoded",
+  "decode_status": "textbook_verified",
   "source": {
     "book": "NCERT Class 12 Politics in India since Independence",
     "chapter": 4,
@@ -232,5 +322,5 @@
   "source_trace": "NCERT Class 12 Politics in India since Independence | Chapter 4: India's External Relations | https://ncert.nic.in/textbook/pdf/leps204.pdf | sha256:fdd6c29cf27de5087cfe00079db7f550b134420dd46caff751fd19b750038894",
   "raw_text_path": "data/study/textbook-first/raw-text/gs1_post_independence_class12_politics_india_ch04_india_s_external_relations.txt",
   "generated_by": "local_source_only_extractive_decode",
-  "generated_at": "2026-05-26T19:53:46.432Z"
+  "generated_at": "2026-05-26T20:26:52.577Z"
 }

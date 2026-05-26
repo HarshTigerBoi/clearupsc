@@ -128,7 +128,7 @@
       "source_trace": "NCERT Class 8 Science Ch8 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
-      "difficulty_level": 3,
+      "difficulty_level": 1,
       "concepts_tested": [
         "FORCE AND PRESSURE FORCE AND PRESSURE"
       ]
@@ -142,7 +142,7 @@
         "In all these situations the ball is either made to move faster or slower or its direction of motion is changed."
       ],
       "correct_answer": 0,
-      "pattern": "statement",
+      "pattern": "match",
       "source_trace": "NCERT Class 8 Science Ch8 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
@@ -196,13 +196,103 @@
         "Do you notice that each of the actions can be grouped as a pull or a push or both?"
       ],
       "correct_answer": 0,
-      "pattern": "statement",
+      "pattern": "match",
       "source_trace": "NCERT Class 8 Science Ch8 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
-      "difficulty_level": 3,
+      "difficulty_level": 4,
       "concepts_tested": [
         "8.2 Forces are due to an"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Cell Structure and Functions, which statement is supported by the source text about SCIENCE 96?",
+      "options": [
+        "Can we infer from this, that to move an object, it has to be pushed or pulled?",
+        "In science, a push or a pull on an object is called a force.",
+        "Thus, we can say that the motion imparted to objects was due to the action of a force.",
+        "8.2 Forces are due to an Interaction Suppose a man is standing behind a stationary car [Fig.8.2(a)]."
+      ],
+      "correct_answer": 0,
+      "pattern": "not_type",
+      "source_trace": "NCERT Class 8 Science Ch8 pg 1",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "SCIENCE 96"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Cell Structure and Functions, which statement is supported by the source text about 8.3 Exploring Forces?",
+      "options": [
+        "Suppose the man now begins to push the car [Fig.8.2(b)], that is, he applies a force on it.",
+        "8.3 shows three situations that may be familiar to you.",
+        "Can you decide who is pulling and who is pushing in these cases?",
+        "8.3 (a), both the girls appear to push each other while Fig."
+      ],
+      "correct_answer": 0,
+      "pattern": "statement",
+      "source_trace": "NCERT Class 8 Science Ch8 pg 2",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "8.3 Exploring Forces"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Cell Structure and Functions, which statement is supported by the source text about FORCE AND PRESSURE 97?",
+      "options": [
+        "8.3 (a) : Who is pushing whom? direction of the applied force.",
+        "8.3 (c) : Who is pulling whom? the pair of girls in Fig.",
+        "The girls in the two situations shown here are applying force on each other.",
+        "From these examples, we can infer that at least two objects must interact for a force to come into play."
+      ],
+      "correct_answer": 0,
+      "pattern": "match",
+      "source_trace": "NCERT Class 8 Science Ch8 pg 2",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "FORCE AND PRESSURE 97"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Cell Structure and Functions, which statement is supported by the source text about 8.4 A Force can Change the?",
+      "options": [
+        "Thus, an interaction of one object with another object results in a force between the two objects.",
+        "SCIENCE 96 Does it mean that the net force on an object is zero if the two forces acting on it in opposite directions...",
+        "The team that pulls harder, that is, applies a larger force, finally wins the game.",
+        "What do these examples suggest about the nature of force?"
+      ],
+      "correct_answer": 0,
+      "pattern": "not_type",
+      "source_trace": "NCERT Class 8 Science Ch8 pg 2",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 5,
+      "concepts_tested": [
+        "8.4 A Force can Change the"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Cell Structure and Functions, which statement is supported by the source text about SCIENCE 98?",
+      "options": [
+        "Forces applied on an object in the same direction add to one another.",
+        "Now recall what happened when you and your friend pushed the heavy box in the same direction in Activity 8.2.",
+        "If the two forces act in the opposite directions on an object, the net force acting on it is the difference between the two...",
+        "What did you observe in Activity 8.2 when both of you were pushing the heavy box from opposite directions?"
+      ],
+      "correct_answer": 0,
+      "pattern": "statement",
+      "source_trace": "NCERT Class 8 Science Ch8 pg 3",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 5,
+      "concepts_tested": [
+        "SCIENCE 98"
       ]
     }
   ],
@@ -212,7 +302,7 @@
     "generation_method": "local_source_only_extractive_decode"
   },
   "content_model": "clearupsc_textbook_decoded_from_source_v1",
-  "decode_status": "textbook_decoded",
+  "decode_status": "textbook_verified",
   "source": {
     "book": "NCERT Class 8 Science",
     "chapter": 8,
@@ -224,5 +314,5 @@
   "source_trace": "NCERT Class 8 Science | Chapter 8: Cell Structure and Functions | https://ncert.nic.in/textbook/pdf/hesc108.pdf | sha256:5f90703bdf4a20e45567489035646b1883c38e6e15a8040c53832c636b0457d0",
   "raw_text_path": "data/study/textbook-first/raw-text/gs3_sci_class8_science_ch08_cell_structure_and_functions.txt",
   "generated_by": "local_source_only_extractive_decode",
-  "generated_at": "2026-05-26T19:54:38.724Z"
+  "generated_at": "2026-05-26T20:27:47.456Z"
 }

@@ -136,7 +136,7 @@
       "source_trace": "NCERT Class 8 Resources and Development Ch2 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
-      "difficulty_level": 3,
+      "difficulty_level": 1,
       "concepts_tested": [
         "GLOSSARY"
       ]
@@ -150,7 +150,7 @@
         "In this chapter, you will read more about what this means in the Indian context."
       ],
       "correct_answer": 0,
-      "pattern": "statement",
+      "pattern": "match",
       "source_trace": "NCERT Class 8 Resources and Development Ch2 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
@@ -204,13 +204,103 @@
         "Secularism refers to this separation of religion from the State."
       ],
       "correct_answer": 0,
-      "pattern": "statement",
+      "pattern": "match",
       "source_trace": "NCERT Class 8 Resources and Development Ch2 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
-      "difficulty_level": 3,
+      "difficulty_level": 4,
       "concepts_tested": [
         "Water"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Land Soil Water Natural Vegetation and Wildlife Resources, which statement is supported by the source text about Natural?",
+      "options": [
+        "Why do you think retaliation is not the proper response to this problem?",
+        "What would happen if different groups followed this path?",
+        "The three drawings in this chapter were done by students of your age.",
+        "Chapter 2: Understanding Secularism Tanvi, Abhilasha and Snehal, VI B, Srijan School, Delhi."
+      ],
+      "correct_answer": 0,
+      "pattern": "not_type",
+      "source_trace": "NCERT Class 8 Resources and Development Ch2 pg 1",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "Natural"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Land Soil Water Natural Vegetation and Wildlife Resources, which statement is supported by the source text about Vegetation?",
+      "options": [
+        "Social and Political Life 20 Discuss in class: Can there be different views within the same religion?",
+        "Why is it Important to Separate Religion from the State?",
+        "As discussed above, the most important aspect of secularism is its separation of religion from State power.",
+        "This is important for a country to function democratically."
+      ],
+      "correct_answer": 0,
+      "pattern": "statement",
+      "source_trace": "NCERT Class 8 Resources and Development Ch2 pg 2",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "Vegetation"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Land Soil Water Natural Vegetation and Wildlife Resources, which statement is supported by the source text about Wildlife?",
+      "options": [
+        "Almost all countries of the world will have more than one religious group living in them.",
+        "Within these religious groups, there will most likely be one group that is in a majority.",
+        "If this majority religious group has access to State power, then it could quite easily use this power and financial resources to discriminate against...",
+        "This tyranny of the majority could result in the discrimination, coercion and at times even the killing of religious minorities."
+      ],
+      "correct_answer": 0,
+      "pattern": "match",
+      "source_trace": "NCERT Class 8 Resources and Development Ch2 pg 2",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "Wildlife"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Land Soil Water Natural Vegetation and Wildlife Resources, which statement is supported by the source text about Resources?",
+      "options": [
+        "The majority could quite easily prevent minorities from practising their religions.",
+        "Any form of domination based on religion is in violation of the rights that a democratic society guarantees to each and every citizen irrespective...",
+        "Therefore, the tyranny of the majority and the violation of Fundamental Rights that can result is one reason why it is important to separate...",
+        "Another reason that it is important to separate religion from the State in democratic societies is because we also need to protect the freedom..."
+      ],
+      "correct_answer": 0,
+      "pattern": "not_type",
+      "source_trace": "NCERT Class 8 Resources and Development Ch2 pg 2",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 5,
+      "concepts_tested": [
+        "Resources"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Land Soil Water Natural Vegetation and Wildlife Resources, which statement is supported by the source text about Social and Political Life?",
+      "options": [
+        "To understand this point better, let us take the practice of untouchability.",
+        "You might feel that you dislike this practice within Hinduism and therefore, you want to try and reform it.",
+        "However, if State power were in the hands of those Hindus who support untouchability, then do you think that you would have an easy...",
+        "Even if you were part of the dominant religious group, you might face a lot of resistance from fellow members of your community."
+      ],
+      "correct_answer": 0,
+      "pattern": "statement",
+      "source_trace": "NCERT Class 8 Resources and Development Ch2 pg 2",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 5,
+      "concepts_tested": [
+        "Social and Political Life"
       ]
     }
   ],
@@ -220,7 +310,7 @@
     "generation_method": "local_source_only_extractive_decode"
   },
   "content_model": "clearupsc_textbook_decoded_from_source_v1",
-  "decode_status": "textbook_decoded",
+  "decode_status": "textbook_verified",
   "source": {
     "book": "NCERT Class 8 Resources and Development",
     "chapter": 2,
@@ -232,5 +322,5 @@
   "source_trace": "NCERT Class 8 Resources and Development | Chapter 2: Land Soil Water Natural Vegetation and Wildlife Resources | https://ncert.nic.in/textbook/pdf/hess302.pdf | sha256:03e32a86e4e8805ce194970f35c61eb9d973b0acdea26f51c73b93cb223a75ff",
   "raw_text_path": "data/study/textbook-first/raw-text/gs1_geo_class8_resources_development_ch02_land_soil_water_natural_vegetation_and_wildlife_resources.txt",
   "generated_by": "local_source_only_extractive_decode",
-  "generated_at": "2026-05-26T19:54:07.772Z"
+  "generated_at": "2026-05-26T20:27:15.047Z"
 }

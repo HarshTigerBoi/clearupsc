@@ -124,7 +124,7 @@
       "source_trace": "NCERT Class 12 Fundamentals of Human Geography Ch1 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
-      "difficulty_level": 3,
+      "difficulty_level": 1,
       "concepts_tested": [
         "1 Agnew J. Livingstone, David N. and Rogers, A.; (1996) Blackwell"
       ]
@@ -138,7 +138,7 @@
         "Make a list of physical and human components of your surroundings."
       ],
       "correct_answer": 0,
-      "pattern": "statement",
+      "pattern": "match",
       "source_trace": "NCERT Class 12 Fundamentals of Human Geography Ch1 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
@@ -192,13 +192,103 @@
         "Networks of road, railways and water ways have often been described as “arteries of circulation”."
       ],
       "correct_answer": 0,
+      "pattern": "match",
+      "source_trace": "NCERT Class 12 Fundamentals of Human Geography Ch1 pg 1",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "6 Fundamentals of Human Geography"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Human Geography Nature and Scope, which statement is supported by the source text about Human Geography Nature and Scope?",
+      "options": [
+        "Can you collect such terms and expressions from your own language?",
+        "The basic questions now arises, can we separate nature and human when they are so intricately intertwined?",
+        "Human Geography Defined Human Geography Defined Human Geography Defined Human Geography Defined Human Geography Defined • “Human geography is the synthetic study of relationship...",
+        "Ratzel Synthesis has been emphasised in the above definition. • “Human geography is the study of the changing relationship between the unresting man and..."
+      ],
+      "correct_answer": 0,
+      "pattern": "not_type",
+      "source_trace": "NCERT Class 12 Fundamentals of Human Geography Ch1 pg 1",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "Human Geography Nature and Scope"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Human Geography Nature and Scope, which statement is supported by the source text about Human?",
+      "options": [
+        "Semple Dynamism in the relationship is the keyword in Semple’s definition. • “Conception resulting from a more synthetic knowledge of thephysical laws governing our...",
+        "Paul Vidal de la Blache Human geography offers a new conception of the interrelationships between earth and human beings.",
+        "NATURE OF HUMAN GEOGRAPHY Human geography studies the inter-relationship between the physical environment and socio- cultural environment created by human beings through mutual interaction...",
+        "You have already studied the elements of physical environment in class XI in the book entitled Fundamentals of Physical Geography (NCERT 2006)."
+      ],
+      "correct_answer": 0,
       "pattern": "statement",
       "source_trace": "NCERT Class 12 Fundamentals of Human Geography Ch1 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
-      "difficulty_level": 3,
+      "difficulty_level": 4,
       "concepts_tested": [
-        "6 Fundamentals of Human Geography"
+        "Human"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Human Geography Nature and Scope, which statement is supported by the source text about Geography?",
+      "options": [
+        "You know that these elements are landforms, soils, climate, water, natural vegetation and diverse flora and fauna.",
+        "Can you make a list of elements which human beings have created through their activities on the stage provided by the physical environment?",
+        "Houses, villages, cities, road-rail networks, industries, farms, ports, items of our daily use and all other elements of material culture have been created by...",
+        "While physical environment has been greatly modified by human beings, it has also, in turn, impacted human lives."
+      ],
+      "correct_answer": 0,
+      "pattern": "match",
+      "source_trace": "NCERT Class 12 Fundamentals of Human Geography Ch1 pg 1",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "Geography"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Human Geography Nature and Scope, which statement is supported by the source text about Nature?",
+      "options": [
+        "Naturalisation of Humans and Humanisation of Nature Human beings interact with their physical environment with the help of technology.",
+        "It is not important what human beings produce and create but it is extremely important ‘with the help of what tools and techniques do...",
+        "Technology indicates the level of cultural development of society.",
+        "Human beings were able to develop technology after they developed better understanding of natural laws."
+      ],
+      "correct_answer": 0,
+      "pattern": "not_type",
+      "source_trace": "NCERT Class 12 Fundamentals of Human Geography Ch1 pg 1",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 5,
+      "concepts_tested": [
+        "Nature"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Human Geography Nature and Scope, which statement is supported by the source text about Scope?",
+      "options": [
+        "For example, the understanding of concepts of friction and heat helped us discover fire.",
+        "Similarly, understanding of the secrets of DNA and genetics enabled us to conquer many diseases.",
+        "We use the laws of aerodynamics to develop faster planes.",
+        "You can see that knowledge about Nature is extremely important to develop technology and technology loosens the shackles of environment on human beings."
+      ],
+      "correct_answer": 0,
+      "pattern": "statement",
+      "source_trace": "NCERT Class 12 Fundamentals of Human Geography Ch1 pg 1",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 5,
+      "concepts_tested": [
+        "Scope"
       ]
     }
   ],
@@ -208,7 +298,7 @@
     "generation_method": "local_source_only_extractive_decode"
   },
   "content_model": "clearupsc_textbook_decoded_from_source_v1",
-  "decode_status": "textbook_decoded",
+  "decode_status": "textbook_verified",
   "source": {
     "book": "NCERT Class 12 Fundamentals of Human Geography",
     "chapter": 1,
@@ -220,5 +310,5 @@
   "source_trace": "NCERT Class 12 Fundamentals of Human Geography | Chapter 1: Human Geography Nature and Scope | https://ncert.nic.in/textbook/pdf/legy101.pdf | sha256:793cdd4b82cdddfc866f24772c678b2cf98a98e22fbba077b480ebc06a64e5ae",
   "raw_text_path": "data/study/textbook-first/raw-text/gs1_geo_class12_human_ch01_human_geography_nature_and_scope.txt",
   "generated_by": "local_source_only_extractive_decode",
-  "generated_at": "2026-05-26T19:53:51.166Z"
+  "generated_at": "2026-05-26T20:26:57.546Z"
 }

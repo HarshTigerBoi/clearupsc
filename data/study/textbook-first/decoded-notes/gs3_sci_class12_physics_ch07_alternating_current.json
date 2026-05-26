@@ -115,7 +115,7 @@
       "source_trace": "NCERT Class 12 Physics Ch7 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
-      "difficulty_level": 3,
+      "difficulty_level": 1,
       "concepts_tested": [
         "7.1 INTRODUCTION"
       ]
@@ -129,7 +129,7 @@
         "Further, electrical energy can also be transmitted economically over long distances."
       ],
       "correct_answer": 0,
-      "pattern": "statement",
+      "pattern": "match",
       "source_trace": "NCERT Class 12 Physics Ch7 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
@@ -183,13 +183,103 @@
         "To find the value of current through the resistor, we apply Kirchhoff’s loop rule ε( ) t = ∑ 0 (refer to Section 3.12),..."
       ],
       "correct_answer": 0,
+      "pattern": "match",
+      "source_trace": "NCERT Class 12 Physics Ch7 pg 1",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "7.2 AC VOLTAGE APPLIED TO A RESISTOR"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Alternating Current, which statement is supported by the source text about GEORGE WESTINGHOUSE (1846 – 1914)?",
+      "options": [
+        "7.1 to get = sin m v t i R ω or sin m v i t R ω = Since R is a...",
+        "The voltage across a pure resistor and the current through it, given by Eqs.",
+        "(7.1) and (7.2) are plotted as a function of time in Fig.",
+        "Note, in particular that both v and i reach zero, minimum and maximum values at the same time."
+      ],
+      "correct_answer": 0,
+      "pattern": "not_type",
+      "source_trace": "NCERT Class 12 Physics Ch7 pg 1",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "GEORGE WESTINGHOUSE (1846 – 1914)"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Alternating Current, which statement is supported by the source text about p P i R I R = = = (7.7)?",
+      "options": [
+        "Clearly, the voltage and current are in phase with each other.",
+        "We see that, like the applied voltage, the current varies sinusoidally and has corresponding positive and negative values during each cycle.",
+        "Thus, the sum of the instantaneous current values over one complete cycle is zero, and the average current is zero.",
+        "The fact that the average current is zero, however, does FIGURE 7.1 AC voltage applied to a resistor."
+      ],
+      "correct_answer": 0,
       "pattern": "statement",
       "source_trace": "NCERT Class 12 Physics Ch7 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
-      "difficulty_level": 3,
+      "difficulty_level": 4,
       "concepts_tested": [
-        "7.2 AC VOLTAGE APPLIED TO A RESISTOR"
+        "p P i R I R = = = (7.7)"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Alternating Current, which statement is supported by the source text about EXAMPLE?",
+      "options": [
+        "FIGURE 7.2 In a pure resistor, the voltage and current are in phase.",
+        "The minima, zero and maxima occur at the same respective times.",
+        "179 Alternating Current GEORGE WESTINGHOUSE (1846 – 1914) George Westinghouse (1846 – 1914) A leading proponent of the use of alternating current over direct...",
+        "Thus, he came into conflict with Thomas Alva Edison, an advocate of direct current."
+      ],
+      "correct_answer": 0,
+      "pattern": "match",
+      "source_trace": "NCERT Class 12 Physics Ch7 pg 1",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "EXAMPLE"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Alternating Current, which statement is supported by the source text about 7.3 REPRESENTATION OF AC CURRENT AND VOLTAGE?",
+      "options": [
+        "Westinghouse was convinced that the technology of alternating current was the key to the electrical future.",
+        "He founded the famous Company named after him and enlisted the services of Nicola Tesla and other inventors in the development of alternating current...",
+        "As you know, Joule heating is given by i2R and depends on i2 (which is always positive whether i is positive or negative) and...",
+        "Thus, there is Joule heating and dissipation of electrical energy when an ac current passes through a resistor."
+      ],
+      "correct_answer": 0,
+      "pattern": "not_type",
+      "source_trace": "NCERT Class 12 Physics Ch7 pg 2",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 5,
+      "concepts_tested": [
+        "7.3 REPRESENTATION OF AC CURRENT AND VOLTAGE"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Alternating Current, which statement is supported by the source text about BY ROTATING VECTORS — PHASORS?",
+      "options": [
+        "The instantaneous power dissipated in the resistor is 2 2 2 sin m p i R i R t ω = = (7.4) The...",
+        "Since, i2 m and R are constants, 2 2 sin m p i R t ω = < > [7.5(b)] Using the trigonometric identity,...",
+        "It is called, root mean square (rms) or effective current (Fig.",
+        "7.3) and is denoted by Irms or I. * The average value of a function F (t ) over a period T is given..."
+      ],
+      "correct_answer": 0,
+      "pattern": "statement",
+      "source_trace": "NCERT Class 12 Physics Ch7 pg 2",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 5,
+      "concepts_tested": [
+        "BY ROTATING VECTORS — PHASORS"
       ]
     }
   ],
@@ -199,7 +289,7 @@
     "generation_method": "local_source_only_extractive_decode"
   },
   "content_model": "clearupsc_textbook_decoded_from_source_v1",
-  "decode_status": "textbook_decoded",
+  "decode_status": "textbook_verified",
   "source": {
     "book": "NCERT Class 12 Physics",
     "chapter": 7,
@@ -211,5 +301,5 @@
   "source_trace": "NCERT Class 12 Physics | Chapter 7: Alternating Current | https://ncert.nic.in/textbook/pdf/leph107.pdf | sha256:0d5759d1dda452a9a553e68756d31b5a4e5df7177f4d82d678cb0d32fe3b818f",
   "raw_text_path": "data/study/textbook-first/raw-text/gs3_sci_class12_physics_ch07_alternating_current.txt",
   "generated_by": "local_source_only_extractive_decode",
-  "generated_at": "2026-05-26T19:54:33.567Z"
+  "generated_at": "2026-05-26T20:27:42.081Z"
 }

@@ -266,10 +266,10 @@ function mergeGuestStats(
   const personalizedTopic = personalized?.nextTopicKey ? topics.find((topic) => topic.key === personalized.nextTopicKey) : null;
   const studiedTopicKeys = new Set(progressRecords.filter((item) => item.status !== "not_started").map((item) => item.topic_key));
   const hasStudiedDecodedChapter = topics.some(
-    (topic) => topic.textbookFirst && topic.contentQuality === "textbook_decoded" && studiedTopicKeys.has(topic.key),
+    (topic) => topic.textbookFirst && isTextbookSourceQuality(topic.contentQuality) && studiedTopicKeys.has(topic.key),
   );
   const firstDecodedChapter = topics.find(
-    (topic) => topic.textbookFirst && topic.contentQuality === "textbook_decoded" && !studiedTopicKeys.has(topic.key),
+    (topic) => topic.textbookFirst && isTextbookSourceQuality(topic.contentQuality) && !studiedTopicKeys.has(topic.key),
   );
 
   const guestXp = readGuestXp();
@@ -346,6 +346,10 @@ function mergeGuestStats(
           }
         : stats.nextAction,
   } satisfies UserStats;
+}
+
+function isTextbookSourceQuality(value?: string | null) {
+  return value === "textbook_decoded" || value === "textbook_verified";
 }
 
 function normaliseGuestStatus(value: string | undefined): TopicStatus {

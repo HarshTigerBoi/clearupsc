@@ -115,7 +115,7 @@
       "source_trace": "NCERT Class 11 Biology Ch1 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
-      "difficulty_level": 3,
+      "difficulty_level": 1,
       "concepts_tested": [
         "DIVERSITY IN THE LIVING WORLD"
       ]
@@ -129,7 +129,7 @@
         "Systematic and monumental description of life forms brought in, out of necessity, detailed systems of identification, nomenclature and classification."
       ],
       "correct_answer": 0,
-      "pattern": "statement",
+      "pattern": "match",
       "source_trace": "NCERT Class 11 Biology Ch1 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
@@ -183,13 +183,103 @@
         "The beauty of a galloping horse, of the migrating birds, the valley of flowers or the attacking shark evokes awe and a deep sense..."
       ],
       "correct_answer": 0,
-      "pattern": "statement",
+      "pattern": "match",
       "source_trace": "NCERT Class 11 Biology Ch1 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
-      "difficulty_level": 3,
+      "difficulty_level": 4,
       "concepts_tested": [
         "1.1 Diversity in the"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of The Living World, which statement is supported by the source text about 1.2 Taxonomic?",
+      "options": [
+        "The ecological conflict and cooperation among members of a population and among populations of a community or even the molecular traffic inside a cell...",
+        "The first is a technical one and seeks answer to what living is as opposed to the non-living, and the second is a philosophical...",
+        "As scientists, we shall not attempt answering the second question.",
+        "1.1 DIVERSITY IN THE LIVING WORLD If you look around you will see a large variety of living organisms, be it potted plants, insects,..."
+      ],
+      "correct_answer": 0,
+      "pattern": "not_type",
+      "source_trace": "NCERT Class 11 Biology Ch1 pg 2",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "1.2 Taxonomic"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of The Living World, which statement is supported by the source text about 4 BIOLOGY?",
+      "options": [
+        "There are also several organisms that you cannot see with your naked eye but they are all around you.",
+        "If you were to increase the area that you make observations in, the range and variety of organisms that you see would increase.",
+        "Obviously, if you were to visit a dense forest, you would probably see a much greater number and kinds of living organisms in it.",
+        "Each different kind of plant, animal or organism that you see, represents a species."
+      ],
+      "correct_answer": 0,
+      "pattern": "statement",
+      "source_trace": "NCERT Class 11 Biology Ch1 pg 2",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "4 BIOLOGY"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of The Living World, which statement is supported by the source text about THE LIVING WORLD 5?",
+      "options": [
+        "The number of species that are known and described range between 1.7-1.8 million.",
+        "This refers to biodiversity or the number and THE LIVING WORLD CHAPTER 1 1.1 Diversity in the Living World 1.2 Taxonomic Categories",
+        "We should remember here that as we explore new areas, and even old ones, new organisms are continuously being identified.",
+        "As stated earlier, there are millions of plants and animals in the world; we know the plants and animals in our own area by..."
+      ],
+      "correct_answer": 0,
+      "pattern": "match",
+      "source_trace": "NCERT Class 11 Biology Ch1 pg 2",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "THE LIVING WORLD 5"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of The Living World, which statement is supported by the source text about 6 BIOLOGY?",
+      "options": [
+        "These local names would vary from place to place, even within a country.",
+        "Probably you would recognise the confusion that would be created if we did not find ways and means to talk to each other, to...",
+        "Hence, there is a need to standardise the naming of living organisms such that a particular organism is known by the same name all...",
+        "Obviously, nomenclature or naming is only possible when the organism is described correctly and we know to what organism the name is attached to."
+      ],
+      "correct_answer": 0,
+      "pattern": "not_type",
+      "source_trace": "NCERT Class 11 Biology Ch1 pg 3",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 5,
+      "concepts_tested": [
+        "6 BIOLOGY"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of The Living World, which statement is supported by the source text about 1.2 TAXONOMIC CATEGORIES?",
+      "options": [
+        "In order to facilitate the study, number of scientists have established procedures to assign a scientific name to each known organism.",
+        "For plants, scientific names are based on agreed principles and criteria, which are provided in International Code for Botanical Nomenclature (ICBN).",
+        "Animal taxonomists have evolved International Code of Zoological Nomenclature (ICZN).",
+        "The scientific names ensure that each organism has only one name."
+      ],
+      "correct_answer": 0,
+      "pattern": "statement",
+      "source_trace": "NCERT Class 11 Biology Ch1 pg 3",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 5,
+      "concepts_tested": [
+        "1.2 TAXONOMIC CATEGORIES"
       ]
     }
   ],
@@ -199,7 +289,7 @@
     "generation_method": "local_source_only_extractive_decode"
   },
   "content_model": "clearupsc_textbook_decoded_from_source_v1",
-  "decode_status": "textbook_decoded",
+  "decode_status": "textbook_verified",
   "source": {
     "book": "NCERT Class 11 Biology",
     "chapter": 1,
@@ -211,5 +301,5 @@
   "source_trace": "NCERT Class 11 Biology | Chapter 1: The Living World | https://ncert.nic.in/textbook/pdf/kebo101.pdf | sha256:e6b49c5eb878864ef1bd714799588fbf2f55afb30d72cac25e08bc5eab7778fd",
   "raw_text_path": "data/study/textbook-first/raw-text/gs3_env_class11_biology_ch01_the_living_world.txt",
   "generated_by": "local_source_only_extractive_decode",
-  "generated_at": "2026-05-26T19:54:20.042Z"
+  "generated_at": "2026-05-26T20:27:28.004Z"
 }

@@ -120,7 +120,7 @@
       "source_trace": "NCERT Class 8 Science Ch12 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
-      "difficulty_level": 3,
+      "difficulty_level": 1,
       "concepts_tested": [
         "SOME NATURAL PHENOMENA SOME NATURAL PHENOMENA"
       ]
@@ -134,7 +134,7 @@
         "They were, therefore, afraid of lightning and thought that the wrath of gods was visiting them."
       ],
       "correct_answer": 0,
-      "pattern": "statement",
+      "pattern": "match",
       "source_trace": "NCERT Class 8 Science Ch12 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
@@ -188,13 +188,103 @@
         "Scientific discoveries are a result of hardwork by many people."
       ],
       "correct_answer": 0,
+      "pattern": "match",
+      "source_trace": "NCERT Class 8 Science Ch12 pg 1",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "SOME NATURAL PHENOMENA 151"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Friction, which statement is supported by the source text about 12.2 Charging by Rubbing?",
+      "options": [
+        "SOME NATURAL PHENOMENA 151 a plastic scale on your dry hair, the scale can attract very small pieces of paper.",
+        "12.2 Charging by Rubbing Activity 12.1 Take a used ballpen refill and rub it vigorously with a piece of polythene.",
+        "Take care not to touch the rubbed end of the refill with your hand or with a metallic object.",
+        "Repeat the activity with small pieces of dry leaf, husk and mustard seeds."
+      ],
+      "correct_answer": 0,
+      "pattern": "not_type",
+      "source_trace": "NCERT Class 8 Science Ch12 pg 1",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "12.2 Charging by Rubbing"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Friction, which statement is supported by the source text about SCIENCE 152?",
+      "options": [
+        "When a plastic refill is rubbed with polythene, it acquires a small electric charge.",
+        "Similarly, when a plastic comb is rubbed with dry hair, it acquires a small charge.",
+        "In the process of charging the refill and the plastic comb, polythene and hair also get charged.",
+        "Let’s try to charge some other objects that are familiar to you."
+      ],
+      "correct_answer": 0,
       "pattern": "statement",
       "source_trace": "NCERT Class 8 Science Ch12 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
-      "difficulty_level": 3,
+      "difficulty_level": 4,
       "concepts_tested": [
-        "SOME NATURAL PHENOMENA 151"
+        "SCIENCE 152"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Friction, which statement is supported by the source text about 12.3 Types of Charges and?",
+      "options": [
+        "Try to charge each by rubbing with the materials mentioned in the Table.",
+        "SCIENCE 152 12.3 Types of Charges and Their Interaction We will select some objects from Table 12.1 for the next activity.",
+        "Hang them in such a way that they do not touch each other (Fig.",
+        "Rub both the balloons with a woollen cloth and release them."
+      ],
+      "correct_answer": 0,
+      "pattern": "match",
+      "source_trace": "NCERT Class 8 Science Ch12 pg 1",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "12.3 Types of Charges and"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Friction, which statement is supported by the source text about SOME NATURAL PHENOMENA 153?",
+      "options": [
+        "Be careful not to touch the charged end with your hand.",
+        "In this activity we have brought close together the charged objects that were made of the same material.",
+        "What happens if two charged objects made of different materials are brought close to each other?",
+        "(b) Rub a refill and place it gently in a glass tumbler as before (Fig."
+      ],
+      "correct_answer": 0,
+      "pattern": "not_type",
+      "source_trace": "NCERT Class 8 Science Ch12 pg 2",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 5,
+      "concepts_tested": [
+        "SOME NATURAL PHENOMENA 153"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Friction, which statement is supported by the source text about 12.4 Transfer of Charge?",
+      "options": [
+        "Bring an inflated charged balloon near the refill and observe.",
+        "12.2 : Interaction between like charges Now let us repeat this activity with the used pen refills.",
+        "Place it carefully in a glass tumbler using the tumbler as a stand (Fig.",
+        "12.3 : Unlike charges attract each other Let’s summarise the observations: l A charged balloon repelled a charged balloon. l A charged refill repelled..."
+      ],
+      "correct_answer": 0,
+      "pattern": "statement",
+      "source_trace": "NCERT Class 8 Science Ch12 pg 2",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 5,
+      "concepts_tested": [
+        "12.4 Transfer of Charge"
       ]
     }
   ],
@@ -204,7 +294,7 @@
     "generation_method": "local_source_only_extractive_decode"
   },
   "content_model": "clearupsc_textbook_decoded_from_source_v1",
-  "decode_status": "textbook_decoded",
+  "decode_status": "textbook_verified",
   "source": {
     "book": "NCERT Class 8 Science",
     "chapter": 12,
@@ -216,5 +306,5 @@
   "source_trace": "NCERT Class 8 Science | Chapter 12: Friction | https://ncert.nic.in/textbook/pdf/hesc112.pdf | sha256:e505885f9d40b41c76aa41ccaee7d08524bcef2977fac5200238e02050118f4d",
   "raw_text_path": "data/study/textbook-first/raw-text/gs3_sci_class8_science_ch12_friction.txt",
   "generated_by": "local_source_only_extractive_decode",
-  "generated_at": "2026-05-26T19:54:39.616Z"
+  "generated_at": "2026-05-26T20:27:48.370Z"
 }

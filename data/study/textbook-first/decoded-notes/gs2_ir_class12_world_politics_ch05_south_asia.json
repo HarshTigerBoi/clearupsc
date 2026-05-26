@@ -136,7 +136,7 @@
       "source_trace": "NCERT Class 12 Contemporary World Politics Ch5 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
-      "difficulty_level": 3,
+      "difficulty_level": 1,
       "concepts_tested": [
         "1994 UNDP’s Human Development Report, which contends,"
       ]
@@ -150,7 +150,7 @@
         "Chapter 5 Security in the Contemporary World The concern about human security was reflected in the 1994 UNDP’s Human Development Report, which contends, “the..."
       ],
       "correct_answer": 0,
-      "pattern": "statement",
+      "pattern": "match",
       "source_trace": "NCERT Class 12 Contemporary World Politics Ch5 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
@@ -204,13 +204,103 @@
         "Every time another country does something or fails to do something, this may damage the core values of one’s country."
       ],
       "correct_answer": 0,
+      "pattern": "match",
+      "source_trace": "NCERT Class 12 Contemporary World Politics Ch5 pg 1",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "Asia"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of South Asia, which statement is supported by the source text about Security in the Contemporary World The?",
+      "options": [
+        "Every time a person is robbed in the streets, the security of ordinary people as they live their daily lives is harmed.",
+        "Yet, we would be paralysed if we took such an extensive view of security: everywhere we looked, the world would be full of dangers.",
+        "S o w e a r e b r o u g h t t o a conclusion: security relates only to extremely dangerous...",
+        "Having said that, we must admit that security remains a slippery idea."
+      ],
+      "correct_answer": 0,
+      "pattern": "not_type",
+      "source_trace": "NCERT Class 12 Contemporary World Politics Ch5 pg 1",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "Security in the Contemporary World The"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of South Asia, which statement is supported by the source text about Human Development Report?",
+      "options": [
+        "For instance, have societies always had the same conception of security?",
+        "It would be surprising if they did because Who decides about my security?",
+        "Do you think this is paradoxical term? © Ares, Cagle Cartoons Inc.",
+        "Security in the Contemporary World 65 so many things change in the world around us."
+      ],
+      "correct_answer": 0,
       "pattern": "statement",
       "source_trace": "NCERT Class 12 Contemporary World Politics Ch5 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
-      "difficulty_level": 3,
+      "difficulty_level": 4,
       "concepts_tested": [
-        "Asia"
+        "Human Development Report"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of South Asia, which statement is supported by the source text about Contemporary World Politics?",
+      "options": [
+        "And, at any given time in world history, do all societies have the same conception of security?",
+        "Again, it would be amazing if six hundred and fifty crore people, organised in nearly 200 countries, had the same conception of security!",
+        "Let us begin by putting the various notions of security under two groups: traditional and non-traditional conceptions of security. traditional notions: external Most of...",
+        "In the traditional conception of security, the greatest danger to a country is from military threats."
+      ],
+      "correct_answer": 0,
+      "pattern": "match",
+      "source_trace": "NCERT Class 12 Contemporary World Politics Ch5 pg 2",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "Contemporary World Politics"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of South Asia, which statement is supported by the source text about Taming Peace Have?",
+      "options": [
+        "The source of this danger is another country which by threatening military action endangers the core values of sovereignty, independence and territorial integrity.",
+        "Military action also endangers the lives of ordinary citizens.",
+        "It is unlikely that in a war only soldiers will be hurt or killed.",
+        "Quite often, ordinary men and women are made targets of war, to break their support of the war."
+      ],
+      "correct_answer": 0,
+      "pattern": "not_type",
+      "source_trace": "NCERT Class 12 Contemporary World Politics Ch5 pg 2",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 5,
+      "concepts_tested": [
+        "Taming Peace Have"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of South Asia, which statement is supported by the source text about Cagle Cartoons Inc?",
+      "options": [
+        "In responding to the threat of war, a government has three basic choices: to surrender; to prevent the other side from attacking by promising...",
+        "Governments may choose to surrender when actually confronted by war, but they will not advertise this as the policy of the country.",
+        "Therefore, security policy is concer ned with preventing war, which is called deterrence, and with limiting or ending war, which is called defence.",
+        "Traditional security policy has a third component called balance of power."
+      ],
+      "correct_answer": 0,
+      "pattern": "statement",
+      "source_trace": "NCERT Class 12 Contemporary World Politics Ch5 pg 2",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 5,
+      "concepts_tested": [
+        "Cagle Cartoons Inc"
       ]
     }
   ],
@@ -220,7 +310,7 @@
     "generation_method": "local_source_only_extractive_decode"
   },
   "content_model": "clearupsc_textbook_decoded_from_source_v1",
-  "decode_status": "textbook_decoded",
+  "decode_status": "textbook_verified",
   "source": {
     "book": "NCERT Class 12 Contemporary World Politics",
     "chapter": 5,
@@ -232,5 +322,5 @@
   "source_trace": "NCERT Class 12 Contemporary World Politics | Chapter 5: South Asia | https://ncert.nic.in/textbook/pdf/leps105.pdf | sha256:845442e1694cb5c9c0d3829ca1de2749282fdecb58782686429143b567dea40e",
   "raw_text_path": "data/study/textbook-first/raw-text/gs2_ir_class12_world_politics_ch05_south_asia.txt",
   "generated_by": "local_source_only_extractive_decode",
-  "generated_at": "2026-05-26T19:54:01.544Z"
+  "generated_at": "2026-05-26T20:27:08.511Z"
 }

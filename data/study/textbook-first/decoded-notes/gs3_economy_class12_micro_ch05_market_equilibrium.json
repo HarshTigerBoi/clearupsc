@@ -136,7 +136,7 @@
       "source_trace": "NCERT Class 12 Micro Ch5 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
-      "difficulty_level": 3,
+      "difficulty_level": 1,
       "concepts_tested": [
         "5.1 EQUILIBRIUM, EXCESS DEMAND, EXCESS SUPPLY"
       ]
@@ -150,7 +150,7 @@
         "5.1 EQUILIBRIUM, EXCESS DEMAND, EXCESS SUPPLY A perfectly competitive market consists of buyers and sellers who are driven by their self-interested objectives."
       ],
       "correct_answer": 0,
-      "pattern": "statement",
+      "pattern": "match",
       "source_trace": "NCERT Class 12 Micro Ch5 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
@@ -204,13 +204,103 @@
         "Out-of-equilibrium Behaviour From the time of Adam Smith (1723-1790), it has been maintained that in a perfectly competitive market an ‘Invisible Hand’ is at..."
       ],
       "correct_answer": 0,
+      "pattern": "match",
+      "source_trace": "NCERT Class 12 Micro Ch5 pg 1",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "75 Market"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Market Equilibrium, which statement is supported by the source text about w = MRPL?",
+      "options": [
+        "Our intuition also tells us that this ‘Invisible Hand’ should raise the prices in case of ‘excess demand’ and lower the prices in case...",
+        "Throughout our analysis we shall maintain that the ‘Invisible Hand’ plays this very important role.",
+        "Moreover, we shall take it that the ‘Invisible Hand’ by following this process is able to reach the equilibrium.",
+        "This assumption will be taken to hold in all that we discuss in the text."
+      ],
+      "correct_answer": 0,
+      "pattern": "not_type",
+      "source_trace": "NCERT Class 12 Micro Ch5 pg 1",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "w = MRPL"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Market Equilibrium, which statement is supported by the source text about and MRPL = MR × MPL?",
+      "options": [
+        "5.1.1 Market Equilibrium: Fixed Number of Firms Recall that in Chapter 2 we have derived the market demand curve for price- taking consumers, and...",
+        "In this section with the help of these two curves we will look at how supply and demand forces work together to determine where...",
+        "We will also study how the equilibrium price and quantity change due to shifts in demand and supply curves.",
+        "Figure 5.1 illustrates equilibrium for a perfectly competitive market with a fixed number of firms."
+      ],
+      "correct_answer": 0,
       "pattern": "statement",
       "source_trace": "NCERT Class 12 Micro Ch5 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
-      "difficulty_level": 3,
+      "difficulty_level": 4,
       "concepts_tested": [
-        "75 Market"
+        "and MRPL = MR × MPL"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Market Equilibrium, which statement is supported by the source text about 77 Market Equilibrium?",
+      "options": [
+        "Here SS denotes the market supply curve and DD denotes the market demand curve for a commodity.",
+        "The market supply curve SS shows how much of the commodity, firms would wish to supply at different prices, and the demand curve DD...",
+        "Graphically, an equilibrium is a point where the market supply curve intersects the market demand curve because this is where the market demand equals...",
+        "At any other point, either there is excess supply or Market Equilibrium with Fixed Number of Firms."
+      ],
+      "correct_answer": 0,
+      "pattern": "match",
+      "source_trace": "NCERT Class 12 Micro Ch5 pg 1",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "77 Market Equilibrium"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Market Equilibrium, which statement is supported by the source text about 79 Market Equilibrium?",
+      "options": [
+        "Equilibrium occurs at the intersection of the market demand curve DD and market supply curve SS.",
+        "The equilibrium quantity is q* and the equilibrium price is p*.",
+        "At a price greater than p*, there will be excess supply, and at a price below p*, there will be excess demand.",
+        "To see what happens when market demand does not equal market supply, let us look in figure 5.1 again."
+      ],
+      "correct_answer": 0,
+      "pattern": "not_type",
+      "source_trace": "NCERT Class 12 Micro Ch5 pg 1",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 5,
+      "concepts_tested": [
+        "79 Market Equilibrium"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Market Equilibrium, which statement is supported by the source text about 5.1.2 Market Equilibrium: Free Entry and Exit?",
+      "options": [
+        "In Figure 5.1, if the prevailing price is p1, the market demand is q1 whereas the market supply is 1 q' .",
+        "Therefore, there is excess demand in the market equal to 1 q' q1.",
+        "Some consumers who are either unable to obtain the commodity at all or obtain it in insufficient quantity will be willing to pay more...",
+        "All other things remaining the same as price rises, quantity demanded falls and quantity supplied increases."
+      ],
+      "correct_answer": 0,
+      "pattern": "statement",
+      "source_trace": "NCERT Class 12 Micro Ch5 pg 2",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 5,
+      "concepts_tested": [
+        "5.1.2 Market Equilibrium: Free Entry and Exit"
       ]
     }
   ],
@@ -220,7 +310,7 @@
     "generation_method": "local_source_only_extractive_decode"
   },
   "content_model": "clearupsc_textbook_decoded_from_source_v1",
-  "decode_status": "textbook_decoded",
+  "decode_status": "textbook_verified",
   "source": {
     "book": "NCERT Class 12 Introductory Microeconomics",
     "chapter": 5,
@@ -232,5 +322,5 @@
   "source_trace": "NCERT Class 12 Introductory Microeconomics | Chapter 5: Market Equilibrium | https://ncert.nic.in/textbook/pdf/leec205.pdf | sha256:07fc8f4b6ade7c0dc92cfd11c7b387053db6b2d8ce4450e56aef721d924cd8a0",
   "raw_text_path": "data/study/textbook-first/raw-text/gs3_economy_class12_micro_ch05_market_equilibrium.txt",
   "generated_by": "local_source_only_extractive_decode",
-  "generated_at": "2026-05-26T19:54:19.807Z"
+  "generated_at": "2026-05-26T20:27:27.726Z"
 }

@@ -136,7 +136,7 @@
       "source_trace": "NCERT Class 10 Science Ch7 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
-      "difficulty_level": 3,
+      "difficulty_level": 1,
       "concepts_tested": [
         "7 CHAPTER"
       ]
@@ -150,7 +150,7 @@
         "It is the large numbers of organisms belonging to a single species that bring them to our notice."
       ],
       "correct_answer": 0,
-      "pattern": "statement",
+      "pattern": "match",
       "source_trace": "NCERT Class 10 Science Ch7 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
@@ -204,13 +204,103 @@
         "Therefore, a basic event in reproduction is the creation of a DNA copy."
       ],
       "correct_answer": 0,
+      "pattern": "match",
+      "source_trace": "NCERT Class 10 Science Ch7 pg 1",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "ORGANISMS ORGANISMS ORGANISMS ORGANISMS ORGANISMS"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Control and Coordination, which statement is supported by the source text about 7.2.1 Fission?",
+      "options": [
+        "Cells use chemical reactions to build copies of their DNA.",
+        "This creates two copies of the DNA in a reproducing cell, and they will need to be separated from each other.",
+        "However, keeping one copy of DNA in the original cell and simply pushing the other one out would not work,",
+        "Science 114 ? because the copy pushed out would not have any organised cellular structure for maintaining life processes."
+      ],
+      "correct_answer": 0,
+      "pattern": "not_type",
+      "source_trace": "NCERT Class 10 Science Ch7 pg 1",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "7.2.1 Fission"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Control and Coordination, which statement is supported by the source text about 7.2.2 Fragmentation?",
+      "options": [
+        "Therefore, DNA copying is accompanied by the creation of an additional cellular apparatus, and then the DNA copies separate, each with its own cellular...",
+        "These two cells are of course similar, but are they likely to be absolutely identical?",
+        "The answer to this question will depend on how accurately the copying reactions involved occur.",
+        "Therefore, it is only to be expected that the process of copying the DNA will have some variations each time."
+      ],
+      "correct_answer": 0,
       "pattern": "statement",
       "source_trace": "NCERT Class 10 Science Ch7 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
-      "difficulty_level": 3,
+      "difficulty_level": 4,
       "concepts_tested": [
-        "ORGANISMS ORGANISMS ORGANISMS ORGANISMS ORGANISMS"
+        "7.2.2 Fragmentation"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Control and Coordination, which statement is supported by the source text about 7.2.3 Regeneration?",
+      "options": [
+        "As a result, the DNA copies generated will be similar, but may not be identical to the original.",
+        "Some of these variations might be so drastic that the new DNA copy cannot work with the cellular apparatus it inherits.",
+        "On the other hand, there could still be many other variations in the DNA copies that would not lead to such a drastic outcome.",
+        "Thus, the surviving cells are similar to, but subtly different from each other."
+      ],
+      "correct_answer": 0,
+      "pattern": "match",
+      "source_trace": "NCERT Class 10 Science Ch7 pg 1",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "7.2.3 Regeneration"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Control and Coordination, which statement is supported by the source text about 7.2.4 Budding?",
+      "options": [
+        "This inbuilt tendency for variation during reproduction is the basis for evolution, as we will discuss in the next chapter.",
+        "7.1.1 The Importance of Variation Populations of organisms fill well-defined places, or niches, in the ecosystem, using their ability to reproduce.",
+        "The consistency of DNA copying during reproduction is important for the maintenance of body design features that allow the organism to use that particular...",
+        "Reproduction is therefore linked to the stability of populations of species."
+      ],
+      "correct_answer": 0,
+      "pattern": "not_type",
+      "source_trace": "NCERT Class 10 Science Ch7 pg 1",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 5,
+      "concepts_tested": [
+        "7.2.4 Budding"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Control and Coordination, which statement is supported by the source text about 7.2.5 Vegetative Propagation?",
+      "options": [
+        "However, niches can change because of reasons beyond the control of the organisms.",
+        "Temperatures on earth can go up or down, water levels can vary, or there could be meteorite hits, to think of a few examples.",
+        "If a population of reproducing organisms were suited to a particular niche and if the niche were drastically altered, the population could be wiped...",
+        "However, if some variations were to be present in a few individuals in these populations, there would be some chance for them to survive."
+      ],
+      "correct_answer": 0,
+      "pattern": "statement",
+      "source_trace": "NCERT Class 10 Science Ch7 pg 1",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 5,
+      "concepts_tested": [
+        "7.2.5 Vegetative Propagation"
       ]
     }
   ],
@@ -220,7 +310,7 @@
     "generation_method": "local_source_only_extractive_decode"
   },
   "content_model": "clearupsc_textbook_decoded_from_source_v1",
-  "decode_status": "textbook_decoded",
+  "decode_status": "textbook_verified",
   "source": {
     "book": "NCERT Class 10 Science",
     "chapter": 7,
@@ -232,5 +322,5 @@
   "source_trace": "NCERT Class 10 Science | Chapter 7: Control and Coordination | https://ncert.nic.in/textbook/pdf/jesc107.pdf | sha256:575cb5a50b488a46715e500d4cbeaf3b687bf01f9da7989c928d35f1a3a88ec0",
   "raw_text_path": "data/study/textbook-first/raw-text/gs3_sci_class10_science_ch07_control_and_coordination.txt",
   "generated_by": "local_source_only_extractive_decode",
-  "generated_at": "2026-05-26T19:54:25.770Z"
+  "generated_at": "2026-05-26T20:27:34.097Z"
 }

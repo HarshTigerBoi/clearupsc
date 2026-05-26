@@ -136,7 +136,7 @@
       "source_trace": "NCERT Class 11 Introducing Sociology Ch1 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
-      "difficulty_level": 3,
+      "difficulty_level": 1,
       "concepts_tested": [
         "CHAPTER 1"
       ]
@@ -150,7 +150,7 @@
         "Or is it respect or social recognition or individual satisfaction that decides the worth of a job?"
       ],
       "correct_answer": 0,
-      "pattern": "statement",
+      "pattern": "match",
       "source_trace": "NCERT Class 11 Introducing Sociology Ch1 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
@@ -204,13 +204,103 @@
         "The problem of choosing subjects in the senior secondary school is a source of personal worry for the individual student."
       ],
       "correct_answer": 0,
+      "pattern": "match",
+      "source_trace": "NCERT Class 11 Introducing Sociology Ch1 pg 1",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "TH E SO C I O L O G I C A L IM A G I N A T I O N :"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Sociology and Society, which statement is supported by the source text about THE PERSONAL PROBLEM AND THE?",
+      "options": [
+        "That this is a broader public issue, affecting students as a collective entity is self evident.",
+        "One of the tasks of sociology is to unravel the connection between a personal problem and a public issue.",
+        "We have already seen that a ‘good job’ means different things to different societies.",
+        "The social esteem that a particular kind of job has or does not have for an individual depends on the culture of his/her ‘relevant..."
+      ],
+      "correct_answer": 0,
+      "pattern": "not_type",
+      "source_trace": "NCERT Class 11 Introducing Sociology Ch1 pg 1",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "THE PERSONAL PROBLEM AND THE"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Sociology and Society, which statement is supported by the source text about PUBLIC ISSUE?",
+      "options": [
+        "Second, this chapter therefore looks at how the individual in modern times belongs to more than one society.",
+        "Third, this chapter introduces sociology as a systematic study of society, distinct from philosophical and religious reflections, as well as our everyday common sense...",
+        "Fourth, this distinct way of studying society can be better understood if we look back historically at the intellectual ideas and material contexts within...",
+        "These ideas and material developments were mainly western but with global consequences."
+      ],
+      "correct_answer": 0,
       "pattern": "statement",
       "source_trace": "NCERT Class 11 Introducing Sociology Ch1 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
-      "difficulty_level": 3,
+      "difficulty_level": 4,
       "concepts_tested": [
-        "TH E SO C I O L O G I C A L IM A G I N A T I O N :"
+        "PUBLIC ISSUE"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Sociology and Society, which statement is supported by the source text about 3 SOCIOLOGY AND SOCIETY?",
+      "options": [
+        "Fifth, we look at this global aspect and the manner in which sociology emerged in India.",
+        "It is important to remember that just as each of us have a biography, so does a discipline.",
+        "Understanding the history of a discipline helps understand the discipline.",
+        "Finally the scope of sociology and its relationship to other disciplines is discussed."
+      ],
+      "correct_answer": 0,
+      "pattern": "match",
+      "source_trace": "NCERT Class 11 Introducing Sociology Ch1 pg 1",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "3 SOCIOLOGY AND SOCIETY"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Sociology and Society, which statement is supported by the source text about 4 INTRODUCING SOCIOLOGY?",
+      "options": [
+        "II TH E SO C I O L O G I C A L IM A G I N A T I O N...",
+        "This is a point that sociologists over several generations have been concerned with.",
+        "Wright Mills rests his vision of the sociological imagination precisely in the unravelling of how the personal and public are related.",
+        "3 SOCIOLOGY AND SOCIETY The sociological imagination enables us to grasp history and biography and the relations between the two within society."
+      ],
+      "correct_answer": 0,
+      "pattern": "not_type",
+      "source_trace": "NCERT Class 11 Introducing Sociology Ch1 pg 1",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 5,
+      "concepts_tested": [
+        "4 INTRODUCING SOCIOLOGY"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Sociology and Society, which statement is supported by the source text about PLURALITIES AND INEQUALITIES?",
+      "options": [
+        "That is its task and promise… Perhaps the most fruitful distinction with which the sociological imagination works is between ‘the personal troubles of the...",
+        "Troubles occur within the character of the individual and within the range of his immediate relations with others; they have to do with his...",
+        "Issues have to do with matters that transcend these local environments of the individual and the range of his inner life.",
+        "The facts of contemporary history are also facts about the success and the failure of individual men and women."
+      ],
+      "correct_answer": 0,
+      "pattern": "statement",
+      "source_trace": "NCERT Class 11 Introducing Sociology Ch1 pg 2",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 5,
+      "concepts_tested": [
+        "PLURALITIES AND INEQUALITIES"
       ]
     }
   ],
@@ -220,7 +310,7 @@
     "generation_method": "local_source_only_extractive_decode"
   },
   "content_model": "clearupsc_textbook_decoded_from_source_v1",
-  "decode_status": "textbook_decoded",
+  "decode_status": "textbook_verified",
   "source": {
     "book": "NCERT Class 11 Introducing Sociology",
     "chapter": 1,
@@ -232,5 +322,5 @@
   "source_trace": "NCERT Class 11 Introducing Sociology | Chapter 1: Sociology and Society | https://ncert.nic.in/textbook/pdf/kesy101.pdf | sha256:426c13fca655cac86c3822ade4c77a32aa453b9572489f4a20ad8339aa08d60b",
   "raw_text_path": "data/study/textbook-first/raw-text/gs1_society_class11_introducing_sociology_ch01_sociology_and_society.txt",
   "generated_by": "local_source_only_extractive_decode",
-  "generated_at": "2026-05-26T19:54:10.158Z"
+  "generated_at": "2026-05-26T20:27:17.630Z"
 }

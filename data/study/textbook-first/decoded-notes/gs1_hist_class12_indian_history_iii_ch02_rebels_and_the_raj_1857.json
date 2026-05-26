@@ -136,7 +136,7 @@
       "source_trace": "NCERT Class 12 Themes in Indian History III Ch2 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
-      "difficulty_level": 3,
+      "difficulty_level": 1,
       "concepts_tested": [
         "THEMES IN INDIAN HISTORY – PART III 258"
       ]
@@ -150,7 +150,7 @@
         "It was the month of Ramzan, the Muslim holy month of prayer and fasting."
       ],
       "correct_answer": 0,
-      "pattern": "statement",
+      "pattern": "match",
       "source_trace": "NCERT Class 12 Themes in Indian History III Ch2 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
@@ -204,13 +204,103 @@
         "Cantonment after cantonment in the Gangetic valley and some to the west of Delhi rose in mutiny."
       ],
       "correct_answer": 0,
+      "pattern": "match",
+      "source_trace": "NCERT Class 12 Themes in Indian History III Ch2 pg 1",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "THEMES IN INDIAN HISTORY – PART III 260"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Rebels and the Raj 1857, which statement is supported by the source text about 1.2 Lines of communication?",
+      "options": [
+        "Pattern of the Uprising If one were to place the dates of these mutinies in chronological order, it would appear that as the news...",
+        "The sequence of events in every cantonment followed a similar pattern.",
+        "1.1 How the mutinies began The sepoys began their action with a signal: in many places it was the firing of the evening gun...",
+        "They first seized the bell of arms and plundered the treasury."
+      ],
+      "correct_answer": 0,
+      "pattern": "not_type",
+      "source_trace": "NCERT Class 12 Themes in Indian History III Ch2 pg 1",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "1.2 Lines of communication"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Rebels and the Raj 1857, which statement is supported by the source text about THEMES IN INDIAN HISTORY – PART III 262?",
+      "options": [
+        "They then attacked government buildings – the jail, treasury, telegraph office, record room, bungalows – burning all records.",
+        "Everything and everybody connected with the white man became a target.",
+        "Proclamations in Hindi, Urdu and Persian were put up in the cities calling upon the population, both Hindus and Muslims, to unite, rise and...",
+        "When ordinary people began joining the revolt, the targets of attack widened."
+      ],
+      "correct_answer": 0,
       "pattern": "statement",
       "source_trace": "NCERT Class 12 Themes in Indian History III Ch2 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
-      "difficulty_level": 3,
+      "difficulty_level": 4,
       "concepts_tested": [
-        "THEMES IN INDIAN HISTORY – PART III 260"
+        "THEMES IN INDIAN HISTORY – PART III 262"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Rebels and the Raj 1857, which statement is supported by the source text about 1.3 Leaders and followers?",
+      "options": [
+        "In major towns like Lucknow, Kanpur and Bareilly, money- lenders and the rich also became the objects of rebel wrath.",
+        "Peasants not only saw them as oppressors but also as allies of the British.",
+        "The mutiny in the sepoy ranks quickly became a rebellion.",
+        "There was a general defiance of all kinds of authority and hierarchy."
+      ],
+      "correct_answer": 0,
+      "pattern": "match",
+      "source_trace": "NCERT Class 12 Themes in Indian History III Ch2 pg 1",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "1.3 Leaders and followers"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Rebels and the Raj 1857, which statement is supported by the source text about THEMES IN INDIAN HISTORY – PART III 264?",
+      "options": [
+        "Firangi, a term of Persian origin, possibly derived from Frank (from which France gets its name), is used in Urdu and Hindi, often in...",
+        "10.2 Ordinary people join the sepoys in attacking the British in Lucknow.",
+        "THEMES IN INDIAN HISTORY – PART III 260 In the months of May and June, the British had no answer to the actions of...",
+        "Individual Britons tried to save their own lives and the lives of their families."
+      ],
+      "correct_answer": 0,
+      "pattern": "not_type",
+      "source_trace": "NCERT Class 12 Themes in Indian History III Ch2 pg 1",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 5,
+      "concepts_tested": [
+        "THEMES IN INDIAN HISTORY – PART III 264"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Rebels and the Raj 1857, which statement is supported by the source text about 1.4 Rumours and prophecies?",
+      "options": [
+        "British rule, as one British officer noted, “collapsed like a house made of cards’’.",
+        "Source 1 Ordinary life in extraordinary times What happened in the cities during the months of the revolt?",
+        "Reports from different cities tell us about the breakdown in routine activities.",
+        "Read these reports from the Delhi Urdu Akhbar, 14 June 1857: The same thing is true for vegetables and saag (spinach)."
+      ],
+      "correct_answer": 0,
+      "pattern": "statement",
+      "source_trace": "NCERT Class 12 Themes in Indian History III Ch2 pg 2",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 5,
+      "concepts_tested": [
+        "1.4 Rumours and prophecies"
       ]
     }
   ],
@@ -220,7 +310,7 @@
     "generation_method": "local_source_only_extractive_decode"
   },
   "content_model": "clearupsc_textbook_decoded_from_source_v1",
-  "decode_status": "textbook_decoded",
+  "decode_status": "textbook_verified",
   "source": {
     "book": "NCERT Class 12 Themes in Indian History III",
     "chapter": 2,
@@ -232,5 +322,5 @@
   "source_trace": "NCERT Class 12 Themes in Indian History III | Chapter 2: Rebels and the Raj 1857 | https://ncert.nic.in/textbook/pdf/lehs302.pdf | sha256:e02ca91b281517a1900b90fa872ea08d3373b85c4df332465f94062329534559",
   "raw_text_path": "data/study/textbook-first/raw-text/gs1_hist_class12_indian_history_iii_ch02_rebels_and_the_raj_1857.txt",
   "generated_by": "local_source_only_extractive_decode",
-  "generated_at": "2026-05-26T19:53:43.024Z"
+  "generated_at": "2026-05-26T20:26:49.193Z"
 }

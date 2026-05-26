@@ -115,7 +115,7 @@
       "source_trace": "NCERT Class 11 An Introduction to Indian Art Ch4 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
-      "difficulty_level": 3,
+      "difficulty_level": 1,
       "concepts_tested": [
         "POST-MAURYAN TRENDS IN"
       ]
@@ -129,7 +129,7 @@
         "At Bharhut, narrative panels are shown with fewer characters but as the time progresses, apart from the main character in the story, others also..."
       ],
       "correct_answer": 0,
-      "pattern": "statement",
+      "pattern": "match",
       "source_trace": "NCERT Class 11 An Introduction to Indian Art Ch4 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
@@ -183,13 +183,103 @@
         "In one such narrative, showing Queen Mayadevi’s (mother of Siddhartha Gautam) dream, a descending elephant is shown."
       ],
       "correct_answer": 0,
-      "pattern": "statement",
+      "pattern": "match",
       "source_trace": "NCERT Class 11 An Introduction to Indian Art Ch4 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
-      "difficulty_level": 3,
+      "difficulty_level": 4,
       "concepts_tested": [
         "AN INTRODUCTION TO INDIAN ART 30"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Post-Mauryan Trends in Indian Art and Architecture, which statement is supported by the source text about POST-MAURYAN TRENDS IN INDIAN ART AND ARCHITECTURE 31?",
+      "options": [
+        "The queen is shown reclining on the bed whereas an elephant is shown on the top heading towards the womb of Queen Mayadevi.",
+        "On the other hand, the depiction of a Jataka story is very simple—narrated by clubbing the events according to the geographical location of the...",
+        "The other event in the same picture frame depicts the King standing with his army and about to shoot an arrow at the deer,...",
+        "POST-MAURYAN TRENDS IN INDIAN ART AND ARCHITECTURE 29 rescued by the deer is also shown along with the king pointing a finger at the..."
+      ],
+      "correct_answer": 0,
+      "pattern": "not_type",
+      "source_trace": "NCERT Class 11 An Introduction to Indian Art Ch4 pg 1",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "POST-MAURYAN TRENDS IN INDIAN ART AND ARCHITECTURE 31"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Post-Mauryan Trends in Indian Art and Architecture, which statement is supported by the source text about AN INTRODUCTION TO INDIAN ART 32?",
+      "options": [
+        "According to the story, the man promised the deer after his rescue that he would not disclose his identity to anybody.",
+        "But when the king makes a proclamation of reward for disclosing the identity of the deer, he turns hostile and takes the king to...",
+        "Interestingly, with the rise in the construction of stupas in various parts of the country, regional stylistic variations also began to emerge.",
+        "One main characteristic in all the male images of first–second centuries BCE is the knotted headgear."
+      ],
+      "correct_answer": 0,
+      "pattern": "statement",
+      "source_trace": "NCERT Class 11 An Introduction to Indian Art Ch4 pg 2",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "AN INTRODUCTION TO INDIAN ART 32"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Post-Mauryan Trends in Indian Art and Architecture, which statement is supported by the source text about POST-MAURYAN TRENDS IN INDIAN ART AND ARCHITECTURE 33?",
+      "options": [
+        "Some of the sculptures found at Bharhut are displayed in Indian Museum, Kolkata.",
+        "Sanchi The next phase of sculptural development at Sanchi Stupa-1, Mathura, and Vengi in Andhra Pradesh (Guntur District) is noteworthy in the stylistic progression.",
+        "Stupa-1 at Sanchi has upper as well as lower pradakshinapatha or circumambulatory path.",
+        "It has four beautifully decorated toranas depicting various events from the life of the Buddha and the Jatakas."
+      ],
+      "correct_answer": 0,
+      "pattern": "match",
+      "source_trace": "NCERT Class 11 An Introduction to Indian Art Ch4 pg 2",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "POST-MAURYAN TRENDS IN INDIAN ART AND ARCHITECTURE 33"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Post-Mauryan Trends in Indian Art and Architecture, which statement is supported by the source text about AN INTRODUCTION TO INDIAN ART 34?",
+      "options": [
+        "Figure compositions are in high relief, filling up the entire space.",
+        "Depiction of posture gets naturalistic and there is no stiffness in the body.",
+        "Heads have considerable projection in the picture space.",
+        "Rigidity Chhatri Harmika Anda Medhi Vedika Pradakshina patha Torana Plan of Stupa-1, Sanchi"
+      ],
+      "correct_answer": 0,
+      "pattern": "not_type",
+      "source_trace": "NCERT Class 11 An Introduction to Indian Art Ch4 pg 2",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 5,
+      "concepts_tested": [
+        "AN INTRODUCTION TO INDIAN ART 34"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Post-Mauryan Trends in Indian Art and Architecture, which statement is supported by the source text about POST-MAURYAN TRENDS IN INDIAN ART AND ARCHITECTURE 35?",
+      "options": [
+        "AN INTRODUCTION TO INDIAN ART 30 in the contours gets reduced and images are given movement.",
+        "At Sanchi Stupa-1, narratives get more elaborated; however, the depiction of the dream episode remains very simple showing the reclining image of the queen...",
+        "The historical narratives such as the siege of Kushinara, Buddha’s visit to Kapilavastu, visit of Ashoka to the Ramgrama Stupa are carved with considerable...",
+        "In Mathura, images of this period bear the same quality but are different in the depiction of physiognomic details."
+      ],
+      "correct_answer": 0,
+      "pattern": "statement",
+      "source_trace": "NCERT Class 11 An Introduction to Indian Art Ch4 pg 3",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 5,
+      "concepts_tested": [
+        "POST-MAURYAN TRENDS IN INDIAN ART AND ARCHITECTURE 35"
       ]
     }
   ],
@@ -199,7 +289,7 @@
     "generation_method": "local_source_only_extractive_decode"
   },
   "content_model": "clearupsc_textbook_decoded_from_source_v1",
-  "decode_status": "textbook_decoded",
+  "decode_status": "textbook_verified",
   "source": {
     "book": "NCERT Class 11 An Introduction to Indian Art",
     "chapter": 4,
@@ -211,5 +301,5 @@
   "source_trace": "NCERT Class 11 An Introduction to Indian Art | Chapter 4: Post-Mauryan Trends in Indian Art and Architecture | https://ncert.nic.in/textbook/pdf/kefa104.pdf | sha256:e1d67fef1724dd2b0866582f2987df2fc2c7a922192975bdccab274d7014c446",
   "raw_text_path": "data/study/textbook-first/raw-text/gs1_art_class11_indian_art_ch04_post_mauryan_trends_in_indian_art_and_architecture.txt",
   "generated_by": "local_source_only_extractive_decode",
-  "generated_at": "2026-05-26T19:54:04.794Z"
+  "generated_at": "2026-05-26T20:27:11.933Z"
 }

@@ -136,7 +136,7 @@
       "source_trace": "NCERT Class 8 Resources and Development Ch5 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
-      "difficulty_level": 3,
+      "difficulty_level": 1,
       "concepts_tested": [
         "73 Chapter 5: Understanding Marginalisation"
       ]
@@ -150,7 +150,7 @@
         "The Unit focuses on three groups, namely the Adivasis, the Muslims and the Dalits."
       ],
       "correct_answer": 0,
-      "pattern": "statement",
+      "pattern": "match",
       "source_trace": "NCERT Class 8 Resources and Development Ch5 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
@@ -204,13 +204,103 @@
         "Moreover, struggles for justice have produced memorable poetry and songs that often do not find a place in textbooks."
       ],
       "correct_answer": 0,
-      "pattern": "statement",
+      "pattern": "match",
       "source_trace": "NCERT Class 8 Resources and Development Ch5 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
-      "difficulty_level": 3,
+      "difficulty_level": 4,
       "concepts_tested": [
         "Unit Four"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Industries, which statement is supported by the source text about Note Equality?",
+      "options": [
+        "This chapter does contain several issues that may lead to contentious discussions within the classroom space.",
+        "Children are aware of such issues and we have to find a mature way of discussing these.",
+        "You play a crucial role in facilitating these discussions in order to ensure that no child or group of children feel discriminated against, ridiculed...",
+        "Social and Political Life 62 Chapter 5 Understanding Marginalisation What Does it Mean to be Socially Marginalised?"
+      ],
+      "correct_answer": 0,
+      "pattern": "not_type",
+      "source_trace": "NCERT Class 8 Resources and Development Ch5 pg 1",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "Note Equality"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Industries, which statement is supported by the source text about Over the?",
+      "options": [
+        "To be marginalised is to be forced to occupy the sides or fringes and thus not be at the centre of things.",
+        "This is something that some of you have probably experienced in the classroom or playground.",
+        "If you are not like most people in your class, that is, if your taste in music or films is different, if your accent...",
+        "So, often, you end up feeling that you are ‘not with it’ – as if what you say, feel and think and how you..."
+      ],
+      "correct_answer": 0,
+      "pattern": "statement",
+      "source_trace": "NCERT Class 8 Resources and Development Ch5 pg 2",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "Over the"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Industries, which statement is supported by the source text about Rashsundari Devi and Rokeya Begum?",
+      "options": [
+        "As in the classroom, in the social environment too, groups of people or communities may have the experience of being excluded.",
+        "Their marginalisation can be because they speak a different language, follow different customs or belong to a different religious group from the majority community.",
+        "They may also feel marginalised because they are poor, considered to be of ‘low’ social status and viewed as being less human than others.",
+        "Sometimes, marginalised groups are viewed with hostility and fear."
+      ],
+      "correct_answer": 0,
+      "pattern": "match",
+      "source_trace": "NCERT Class 8 Resources and Development Ch5 pg 2",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "Rashsundari Devi and Rokeya Begum"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Industries, which statement is supported by the source text about Fundamental Rights?",
+      "options": [
+        "This sense of difference and exclusion leads to communities not having access to resources and opportunities and in their inability to assert their rights.",
+        "They experience a sense of disadvantage and powerlessness vis-a-vis more powerful and dominant sections of society who own land, are wealthy, better educated and...",
+        "Thus, marginalisation is seldom experienced in one sphere.",
+        "Economic, social, cultural and political factors work together to make certain groups in society feel marginalised."
+      ],
+      "correct_answer": 0,
+      "pattern": "not_type",
+      "source_trace": "NCERT Class 8 Resources and Development Ch5 pg 2",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 5,
+      "concepts_tested": [
+        "Fundamental Rights"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Industries, which statement is supported by the source text about The Unit?",
+      "options": [
+        "In this chapter, you will read about two communities that are considered to be socially marginalised in India today.",
+        "Forest officials and contractors cut down large parts of it.",
+        "If we protested they beat us and then took us to court, where we did not have our lawyers and could not fight our...",
+        "They said there was iron ore under our land, they wanted to mine it."
+      ],
+      "correct_answer": 0,
+      "pattern": "statement",
+      "source_trace": "NCERT Class 8 Resources and Development Ch5 pg 2",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 5,
+      "concepts_tested": [
+        "The Unit"
       ]
     }
   ],
@@ -220,7 +310,7 @@
     "generation_method": "local_source_only_extractive_decode"
   },
   "content_model": "clearupsc_textbook_decoded_from_source_v1",
-  "decode_status": "textbook_decoded",
+  "decode_status": "textbook_verified",
   "source": {
     "book": "NCERT Class 8 Resources and Development",
     "chapter": 5,
@@ -232,5 +322,5 @@
   "source_trace": "NCERT Class 8 Resources and Development | Chapter 5: Industries | https://ncert.nic.in/textbook/pdf/hess305.pdf | sha256:c4e5c53e957accf3e4c6fc98f063bba4f830bca8e8e550f3446ae1ec2dafe2ea",
   "raw_text_path": "data/study/textbook-first/raw-text/gs1_geo_class8_resources_development_ch05_industries.txt",
   "generated_by": "local_source_only_extractive_decode",
-  "generated_at": "2026-05-26T19:54:08.463Z"
+  "generated_at": "2026-05-26T20:27:15.861Z"
 }

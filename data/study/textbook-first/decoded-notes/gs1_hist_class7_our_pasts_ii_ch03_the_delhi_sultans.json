@@ -115,7 +115,7 @@
       "source_trace": "NCERT Class 7 Our Pasts II Ch3 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
-      "difficulty_level": 3,
+      "difficulty_level": 1,
       "concepts_tested": [
         "DELHI: 12 th TO 15 th CENTURY"
       ]
@@ -129,7 +129,7 @@
         "Understanding Delhi under the Sultans Histories are known as (singular)/ (plural), in Persian, the language of administration under the Delhi Sultans."
       ],
       "correct_answer": 0,
-      "pattern": "statement",
+      "pattern": "match",
       "source_trace": "NCERT Class 7 Our Pasts II Ch3 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
@@ -183,13 +183,103 @@
         "(3) These authors advised rulers on the need to preserve an “ideal” social order based on birthright and gender distinctions."
       ],
       "correct_answer": 0,
-      "pattern": "statement",
+      "pattern": "match",
       "source_trace": "NCERT Class 7 Our Pasts II Ch3 pg 2",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
-      "difficulty_level": 3,
+      "difficulty_level": 4,
       "concepts_tested": [
         "KHALJI DYNASTY"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of The Delhi Sultans, which statement is supported by the source text about TUGHLUQ DYNASTY?",
+      "options": [
+        "In 1236 Sultan Iltutmish’s daughter, Raziyya, b e c a m e S u l t a n .",
+        "Th e c h ro n i c l e r o f th e a g e , Minhaj-us-Siraj, recognised that she was...",
+        "Nor were the nobles happy at her attempts to rule independently.",
+        "What Minhaj-us-Siraj thought about Raziyya: What other important female rulers of India did?"
+      ],
+      "correct_answer": 0,
+      "pattern": "not_type",
+      "source_trace": "NCERT Class 7 Our Pasts II Ch3 pg 2",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "TUGHLUQ DYNASTY"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of The Delhi Sultans, which statement is supported by the source text about SAYYID DYNASTY?",
+      "options": [
+        "Minhaj-us-Siraj thought that the queen’s rule went against the ideal social order created by God, in which women were supposed to be subordinate to...",
+        "He therefore asked: “In the register of God’s creation, since her account did not fall under the column of men, how did she gain...",
+        "This was in contrast to the queen Rudramadevi (1262–1289), of the Kakatiya dynasty of Warangal, part of modern Andhra Pradesh.",
+        "Rudramadevi changed her name on her inscriptions and pretended she was a man."
+      ],
+      "correct_answer": 0,
+      "pattern": "statement",
+      "source_trace": "NCERT Class 7 Our Pasts II Ch3 pg 3",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "SAYYID DYNASTY"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of The Delhi Sultans, which statement is supported by the source text about LODI DYNASTY?",
+      "options": [
+        "Her title is interesting: it comes from “didi” or “elder sister”, an obviously affectionate term given to a loved ruler by her subjects.",
+        "Why do you think it was so difficult for a woman to be a ruler? ?",
+        "A Closer Look: Administration under the Khaljis and Tughluqs The consolidation of a kingdom as vast as the Delhi Sultanate needed reliable governors and...",
+        "Rather than appointing aristocrats and landed chieftains as governors, the early Delhi Sultans, especially Iltutmish, favoured their special slaves purchased for military service, called..."
+      ],
+      "correct_answer": 0,
+      "pattern": "match",
+      "source_trace": "NCERT Class 7 Our Pasts II Ch3 pg 3",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "LODI DYNASTY"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of The Delhi Sultans, which statement is supported by the source text about 32 OUR PASTS – II?",
+      "options": [
+        "They were carefully trained to man some Since they were totally dependent upon their master, the Sultan could trust and rely upon them.",
+        "Client Someone who is under the protection of another; a dependent or hanger-on.",
+        "Slaves rather than sons The Sultans were advised: A slave, whom one has brought up and promoted, must be looked after for it needs...",
+        "The Khaljis and Tughluqs continued to use and also raised people of humble birth, who were often their clients, to high political positions."
+      ],
+      "correct_answer": 0,
+      "pattern": "not_type",
+      "source_trace": "NCERT Class 7 Our Pasts II Ch3 pg 3",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 5,
+      "concepts_tested": [
+        "32 OUR PASTS – II"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of The Delhi Sultans, which statement is supported by the source text about 33 DELHI: 12TH TO 15TH...?",
+      "options": [
+        "However, this also introduced an element of political instability.",
+        "Slaves and clients were loyal to their masters and patrons, but not to their heirs.",
+        "As a result the accession of a new monarch The patronage of these humble people by the Delhi Sultans also shocked many elites and...",
+        "Ziyauddin Barani, a mid-fourteenth-century chronicler, reported their appointments as a sign of the Sultan’s loss of political judgement and his incapacity to rule."
+      ],
+      "correct_answer": 0,
+      "pattern": "statement",
+      "source_trace": "NCERT Class 7 Our Pasts II Ch3 pg 4",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 5,
+      "concepts_tested": [
+        "33 DELHI: 12TH TO 15TH..."
       ]
     }
   ],
@@ -199,7 +289,7 @@
     "generation_method": "local_source_only_extractive_decode"
   },
   "content_model": "clearupsc_textbook_decoded_from_source_v1",
-  "decode_status": "textbook_decoded",
+  "decode_status": "textbook_verified",
   "source": {
     "book": "NCERT Class 7 Our Pasts II",
     "chapter": 3,
@@ -211,5 +301,5 @@
   "source_trace": "NCERT Class 7 Our Pasts II | Chapter 3: The Delhi Sultans | https://ncert.nic.in/textbook/pdf/gess103.pdf | sha256:897fb315a6f8489538ede02ee1bd3bf2a9ef472f3726971e132970e4ab611e40",
   "raw_text_path": "data/study/textbook-first/raw-text/gs1_hist_class7_our_pasts_ii_ch03_the_delhi_sultans.txt",
   "generated_by": "local_source_only_extractive_decode",
-  "generated_at": "2026-05-26T19:53:57.350Z"
+  "generated_at": "2026-05-26T20:27:04.018Z"
 }

@@ -136,7 +136,7 @@
       "source_trace": "NCERT Class 10 India and the Contemporary World II Ch2 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
-      "difficulty_level": 3,
+      "difficulty_level": 1,
       "concepts_tested": [
         "1 The First World War, Khilafat and Non-Cooperation"
       ]
@@ -150,7 +150,7 @@
         "But each class and group felt the effects of colonialism differently, their experiences were varied, and their notions of freedom were not always the..."
       ],
       "correct_answer": 0,
-      "pattern": "statement",
+      "pattern": "match",
       "source_trace": "NCERT Class 10 India and the Contemporary World II Ch2 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
@@ -204,13 +204,103 @@
         "Then in 1918-19 and 1920-21, crops failed in many parts of India, resulting in acute shortages of food."
       ],
       "correct_answer": 0,
+      "pattern": "match",
+      "source_trace": "NCERT Class 10 India and the Contemporary World II Ch2 pg 1",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "2 Differing Strands within the Movement"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Nationalism in India, which statement is supported by the source text about 2.1 The Movement in the Towns?",
+      "options": [
+        "According to the census of 1921, 12 to 13 million people perished as a result of famines and the epidemic.",
+        "People hoped that their hardships would end after the war was over.",
+        "At this stage a new leader appeared and suggested a new mode of struggle.",
+        "1.1 The Idea of Satyagraha Mahatma Gandhi returned to India in January 1915."
+      ],
+      "correct_answer": 0,
+      "pattern": "not_type",
+      "source_trace": "NCERT Class 10 India and the Contemporary World II Ch2 pg 1",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "2.1 The Movement in the Towns"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Nationalism in India, which statement is supported by the source text about 2.2 Rebellion in the Countryside?",
+      "options": [
+        "As you know, he had come from South Africa where he had successfully fought New words Forced recruitment – A process by which the...",
+        "2 – Indian workers in South Africa march through Volksrust, 6 November 1913.",
+        "Mahatma Gandhi was leading the workers from Newcastle to Transvaal.",
+        "When the marchers were stopped and Gandhiji arrested, thousands of more workers joined the satyagraha against racist laws that denied rights to non-whites."
+      ],
+      "correct_answer": 0,
       "pattern": "statement",
       "source_trace": "NCERT Class 10 India and the Contemporary World II Ch2 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
-      "difficulty_level": 3,
+      "difficulty_level": 4,
       "concepts_tested": [
-        "2 Differing Strands within the Movement"
+        "2.2 Rebellion in the Countryside"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Nationalism in India, which statement is supported by the source text about 2.3 Swaraj in the Plantations?",
+      "options": [
+        "31 Nationalism in India the racist regime with a novel method of mass agitation, which he called satyagraha.",
+        "The idea of satyagraha emphasised the power of truth and the need to search for truth.",
+        "It suggested that if the cause was true, if the struggle was against injustice, then physical force was not necessary to fight the oppressor.",
+        "Without seeking vengeance or being aggressive, a satyagrahi could win the battle through non- violence."
+      ],
+      "correct_answer": 0,
+      "pattern": "match",
+      "source_trace": "NCERT Class 10 India and the Contemporary World II Ch2 pg 2",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "2.3 Swaraj in the Plantations"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Nationalism in India, which statement is supported by the source text about 3 Towards Civil Disobedience?",
+      "options": [
+        "This could be done by appealing to the conscience of the oppressor.",
+        "People – including the oppressors – had to be persuaded to see the truth, instead of being forced to accept truth through the use...",
+        "By this struggle, truth was bound to ultimately triumph.",
+        "Mahatma Gandhi believed that this dharma of non-violence could unite all Indians."
+      ],
+      "correct_answer": 0,
+      "pattern": "not_type",
+      "source_trace": "NCERT Class 10 India and the Contemporary World II Ch2 pg 2",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 5,
+      "concepts_tested": [
+        "3 Towards Civil Disobedience"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Nationalism in India, which statement is supported by the source text about 3.1 The Salt March and the Civil Disobedience Movement?",
+      "options": [
+        "After arriving in India, Mahatma Gandhi successfully organised satyagraha movements in various places.",
+        "In 1917 he travelled to Champaran in Bihar to inspire the peasants to struggle against the oppressive plantation system.",
+        "In 1918, Mahatma Gandhi went to Ahmedabad to organise a satyagraha movement amongst cotton mill workers.",
+        "Then in 1918, he organised a satyagraha to support the peasants of the Kheda district of Gujarat."
+      ],
+      "correct_answer": 0,
+      "pattern": "statement",
+      "source_trace": "NCERT Class 10 India and the Contemporary World II Ch2 pg 2",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 5,
+      "concepts_tested": [
+        "3.1 The Salt March and the Civil Disobedience Movement"
       ]
     }
   ],
@@ -220,7 +310,7 @@
     "generation_method": "local_source_only_extractive_decode"
   },
   "content_model": "clearupsc_textbook_decoded_from_source_v1",
-  "decode_status": "textbook_decoded",
+  "decode_status": "textbook_verified",
   "source": {
     "book": "NCERT Class 10 India and the Contemporary World II",
     "chapter": 2,
@@ -232,5 +322,5 @@
   "source_trace": "NCERT Class 10 India and the Contemporary World II | Chapter 2: Nationalism in India | https://ncert.nic.in/textbook/pdf/jess302.pdf | sha256:774b4b9d379b94888a9dd124c079a34c913f845d51ad193b4c5695d3b961a03f",
   "raw_text_path": "data/study/textbook-first/raw-text/gs1_hist_class10_contemporary_world_ii_ch02_nationalism_in_india.txt",
   "generated_by": "local_source_only_extractive_decode",
-  "generated_at": "2026-05-26T19:54:09.195Z"
+  "generated_at": "2026-05-26T20:27:16.599Z"
 }

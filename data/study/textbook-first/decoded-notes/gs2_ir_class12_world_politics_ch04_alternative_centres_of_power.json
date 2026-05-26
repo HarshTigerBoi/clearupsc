@@ -136,7 +136,7 @@
       "source_trace": "NCERT Class 12 Contemporary World Politics Ch4 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
-      "difficulty_level": 3,
+      "difficulty_level": 1,
       "concepts_tested": [
         "1941 August: Signing of the Atlantic Charter by the US"
       ]
@@ -150,7 +150,7 @@
         "The emblem has a world map with olive branches around it, signifying world peace."
       ],
       "correct_answer": 0,
-      "pattern": "statement",
+      "pattern": "match",
       "source_trace": "NCERT Class 12 Contemporary World Politics Ch4 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
@@ -204,13 +204,103 @@
         "International organisations help with matters of war and peace."
       ],
       "correct_answer": 0,
+      "pattern": "match",
+      "source_trace": "NCERT Class 12 Contemporary World Politics Ch4 pg 1",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "1945 June 26: Signing of the UN Charter by 50 nations (Poland"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Alternative Centres of Power, which statement is supported by the source text about 1945 October 24: the UN was founded (hence October 24?",
+      "options": [
+        "They also help countries cooperate to make better living conditions for us all.",
+        "Countries have conflicts and differences with each other.",
+        "That does not necessarily mean they must go to war to deal with their That’s what they say about the parliament too — a...",
+        "During June 2006, Israel attacked Lebanon, saying that it was necessary to control the militant group called Hezbollah."
+      ],
+      "correct_answer": 0,
+      "pattern": "not_type",
+      "source_trace": "NCERT Class 12 Contemporary World Politics Ch4 pg 1",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "1945 October 24: the UN was founded (hence October 24"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Alternative Centres of Power, which statement is supported by the source text about 1945 October 30: India joins the UN?",
+      "options": [
+        "Large numbers of civilians were killed and many public buildings and even residential areas came under Israeli bombardment.",
+        "The UN passed a resolution on this only in August and the Israel army withdrew from the region only in October.",
+        "Both these cartoons comment on the role of the UN and its Secretary-General in this episode. © Harry Harrison, Cagle Cartoons Inc. © Petar...",
+        "They can, instead, discuss contentious issues and find peaceful solutions; indeed, even though this is rarely noticed, most conflicts and differences are resolved without..."
+      ],
+      "correct_answer": 0,
       "pattern": "statement",
       "source_trace": "NCERT Class 12 Contemporary World Politics Ch4 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
-      "difficulty_level": 3,
+      "difficulty_level": 4,
       "concepts_tested": [
-        "1945 June 26: Signing of the UN Charter by 50 nations (Poland"
+        "1945 October 30: India joins the UN"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Alternative Centres of Power, which statement is supported by the source text about FOUNDING OF THE UNITED NATIONS?",
+      "options": [
+        "The role of an international organisation can be important in this context.",
+        "An international organisation is not a super-state with authority over its members.",
+        "Once created, it can help member states resolve their problems peacefully.",
+        "International organisations are helpful in another way."
+      ],
+      "correct_answer": 0,
+      "pattern": "match",
+      "source_trace": "NCERT Class 12 Contemporary World Politics Ch4 pg 2",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "FOUNDING OF THE UNITED NATIONS"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Alternative Centres of Power, which statement is supported by the source text about UN SECRETARIES-GENERAL?",
+      "options": [
+        "Nations can usually see that there are some things they must do together.",
+        "There are issues that are so challenging that they can only be dealt with when everyone works together.",
+        "Some diseases can only be eradicated if everyone in the world cooperates in inoculating or vaccinating their populations.",
+        "As temperatures rise because of the increase in greenhouse gases in the atmosphere, there is a danger that sea levels will also rise, thereby..."
+      ],
+      "correct_answer": 0,
+      "pattern": "not_type",
+      "source_trace": "NCERT Class 12 Contemporary World Politics Ch4 pg 2",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 5,
+      "concepts_tested": [
+        "UN SECRETARIES-GENERAL"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Alternative Centres of Power, which statement is supported by the source text about WORLD BANK?",
+      "options": [
+        "Of course, each country can try to find its own solution to the effects of global warming.",
+        "But in the end a more effective approach is to stop the warming itself.",
+        "This requires at least all of the major industrial powers to cooperate.",
+        "Unfortunately, recognising the need for cooperation and actually cooperating are two different things."
+      ],
+      "correct_answer": 0,
+      "pattern": "statement",
+      "source_trace": "NCERT Class 12 Contemporary World Politics Ch4 pg 2",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 5,
+      "concepts_tested": [
+        "WORLD BANK"
       ]
     }
   ],
@@ -220,7 +310,7 @@
     "generation_method": "local_source_only_extractive_decode"
   },
   "content_model": "clearupsc_textbook_decoded_from_source_v1",
-  "decode_status": "textbook_decoded",
+  "decode_status": "textbook_verified",
   "source": {
     "book": "NCERT Class 12 Contemporary World Politics",
     "chapter": 4,
@@ -232,5 +322,5 @@
   "source_trace": "NCERT Class 12 Contemporary World Politics | Chapter 4: Alternative Centres of Power | https://ncert.nic.in/textbook/pdf/leps104.pdf | sha256:598be274c34d30ad29cee799186eff39a68c92cc7700fe05a2800bc74348846e",
   "raw_text_path": "data/study/textbook-first/raw-text/gs2_ir_class12_world_politics_ch04_alternative_centres_of_power.txt",
   "generated_by": "local_source_only_extractive_decode",
-  "generated_at": "2026-05-26T19:54:01.325Z"
+  "generated_at": "2026-05-26T20:27:08.288Z"
 }

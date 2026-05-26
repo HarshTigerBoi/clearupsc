@@ -128,7 +128,7 @@
       "source_trace": "NCERT Class 11 Biology Ch6 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
-      "difficulty_level": 3,
+      "difficulty_level": 1,
       "concepts_tested": [
         "ANATOMY OF FLOWERING PLANTS 71"
       ]
@@ -142,7 +142,7 @@
         "Internal structures also show adaptations to diverse environments."
       ],
       "correct_answer": 0,
-      "pattern": "statement",
+      "pattern": "match",
       "source_trace": "NCERT Class 11 Biology Ch6 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
@@ -196,13 +196,103 @@
         "The trichomes help in preventing water loss due to transpiration."
       ],
       "correct_answer": 0,
+      "pattern": "match",
+      "source_trace": "NCERT Class 11 Biology Ch6 pg 1",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "CHAPTER 6"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Anatomy of Flowering Plants, which statement is supported by the source text about 6.1 The Tissue?",
+      "options": [
+        "6.1.2 The Ground Tissue System All tissues except epidermis and vascular bundles constitute the ground tissue.",
+        "It consists of simple tissues such as parenchyma, collenchyma and sclerenchyma.",
+        "Parenchymatous cells are usually present in cortex, pericycle, pith and medullary rays, in the primary stems and roots.",
+        "In leaves, the ground tissue consists of thin-walled chloroplast containing cells and is called mesophyll. arranged cells, which form a continuous layer."
+      ],
+      "correct_answer": 0,
+      "pattern": "not_type",
+      "source_trace": "NCERT Class 11 Biology Ch6 pg 1",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "6.1 The Tissue"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Anatomy of Flowering Plants, which statement is supported by the source text about 6.2 Anatomy of?",
+      "options": [
+        "Epidermal cells are parenchymatous with a small amount of cytoplasm lining the cell wall and a large vacuole.",
+        "The outside of the epidermis is often covered with a waxy thick layer called the cuticle which prevents the loss of water.",
+        "Stomata are structures present in the epidermis of leaves.",
+        "Stomata regulate the process of transpiration and gaseous exchange."
+      ],
+      "correct_answer": 0,
       "pattern": "statement",
       "source_trace": "NCERT Class 11 Biology Ch6 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
-      "difficulty_level": 3,
+      "difficulty_level": 4,
       "concepts_tested": [
-        "CHAPTER 6"
+        "6.2 Anatomy of"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Anatomy of Flowering Plants, which statement is supported by the source text about 72 BIOLOGY?",
+      "options": [
+        "Each stoma is composed of two bean- shaped cells known as guard cells which enclose stomatal pore.",
+        "The outer walls of guard cells (away from the stomatal pore) are thin and the inner walls (towards the stomatal pore) are highly thickened.",
+        "The guard cells possess chloroplasts and regulate the opening and closing of stomata.",
+        "Sometimes, a few epidermal cells, in the vicinity of the guard cells become specialised in their shape and size and are known as subsidiary..."
+      ],
+      "correct_answer": 0,
+      "pattern": "match",
+      "source_trace": "NCERT Class 11 Biology Ch6 pg 1",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "72 BIOLOGY"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Anatomy of Flowering Plants, which statement is supported by the source text about 6.1.2 The Ground Tissue System?",
+      "options": [
+        "The stomatal aperture, guard cells and the surrounding subsidiary cells are together called stomatal apparatus (Figure 6.1).",
+        "Figure 6.1 Diagrammatic representation: (a) stomata with bean-shaped guard cells (b) stomata with dumb-bell shaped guard cell Epidermal cells Subsidiary cells Guard cells Stomatal...",
+        "ANATOMY OF FLOWERING PLANTS 73 6.1.3 The Vascular Tissue System The vascular system consists of complex tissues, the phloem and the xylem.The xylem and...",
+        "In dicotyledonous stems, cambium is present between phloem and xylem."
+      ],
+      "correct_answer": 0,
+      "pattern": "not_type",
+      "source_trace": "NCERT Class 11 Biology Ch6 pg 1",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 5,
+      "concepts_tested": [
+        "6.1.2 The Ground Tissue System"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Anatomy of Flowering Plants, which statement is supported by the source text about ANATOMY OF FLOWERING PLANTS 73?",
+      "options": [
+        "Such vascular bundles because of the presence of cambium possess the ability to form secondary xylem and phloem tissues, and hence are called open...",
+        "In the monocotyledons, the vascular bundles have no cambium present in them.",
+        "Hence, since they do not form secondary tissues they are referred to as closed.",
+        "When xylem and phloem within a vascular bundle are arranged in an alternate manner along the different radii, the arrangement is called radial such..."
+      ],
+      "correct_answer": 0,
+      "pattern": "statement",
+      "source_trace": "NCERT Class 11 Biology Ch6 pg 2",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 5,
+      "concepts_tested": [
+        "ANATOMY OF FLOWERING PLANTS 73"
       ]
     }
   ],
@@ -212,7 +302,7 @@
     "generation_method": "local_source_only_extractive_decode"
   },
   "content_model": "clearupsc_textbook_decoded_from_source_v1",
-  "decode_status": "textbook_decoded",
+  "decode_status": "textbook_verified",
   "source": {
     "book": "NCERT Class 11 Biology",
     "chapter": 6,
@@ -224,5 +314,5 @@
   "source_trace": "NCERT Class 11 Biology | Chapter 6: Anatomy of Flowering Plants | https://ncert.nic.in/textbook/pdf/kebo106.pdf | sha256:b341d037ddeaebcf435cea4ca5050bee10fae452d9c20480d639ab2580fa5b66",
   "raw_text_path": "data/study/textbook-first/raw-text/gs3_env_class11_biology_ch06_anatomy_of_flowering_plants.txt",
   "generated_by": "local_source_only_extractive_decode",
-  "generated_at": "2026-05-26T19:54:21.167Z"
+  "generated_at": "2026-05-26T20:27:29.254Z"
 }

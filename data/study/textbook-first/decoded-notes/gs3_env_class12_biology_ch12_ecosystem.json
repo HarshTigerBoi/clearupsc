@@ -107,7 +107,7 @@
       "source_trace": "NCERT Class 12 Biology Ch12 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
-      "difficulty_level": 3,
+      "difficulty_level": 1,
       "concepts_tested": [
         "CHAPTER 12"
       ]
@@ -121,7 +121,7 @@
         "We will also look at the relationships – cycles, chains, webs – that are created as a result of these energy flows within the..."
       ],
       "correct_answer": 0,
-      "pattern": "statement",
+      "pattern": "match",
       "source_trace": "NCERT Class 12 Biology Ch12 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
@@ -175,13 +175,103 @@
         "This is fairly a self-sustainable unit and rather simple example that explain even the complex interactions that exist in an aquatic ecosystem."
       ],
       "correct_answer": 0,
+      "pattern": "match",
+      "source_trace": "NCERT Class 12 Biology Ch12 pg 1",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "12.4 Energy Flow"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Ecosystem, which statement is supported by the source text about 12.5 Ecological Pyramids?",
+      "options": [
+        "A pond is a shallow water body in which all the above mentioned four basic components of an ecosystem are well exhibited.",
+        "The abiotic component is the water with all the dissolved inorganic and organic substances and the rich soil deposit at the bottom of the...",
+        "The solar input, the cycle of temperature, day-length and other climatic conditions regulate the rate of function of the entire pond.",
+        "The autotrophic components include the phytoplankton, some algae and the floating, submerged and marginal plants found at the edges."
+      ],
+      "correct_answer": 0,
+      "pattern": "not_type",
+      "source_trace": "NCERT Class 12 Biology Ch12 pg 1",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "12.5 Ecological Pyramids"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Ecosystem, which statement is supported by the source text about BIOLOGY?",
+      "options": [
+        "The consumers are represented by the zooplankton, the free swimming and bottom dwelling forms.",
+        "The decomposers are the fungi, bacteria and flagellates especially abundant in the bottom of the pond.",
+        "This system performs all the functions of any ecosystem and of the biosphere as a whole, i.e., conversion of inorganic into organic material with...",
+        "There is unidirectional movement of energy towards the higher trophic levels and its dissipation and loss as heat to the environment."
+      ],
+      "correct_answer": 0,
       "pattern": "statement",
       "source_trace": "NCERT Class 12 Biology Ch12 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
-      "difficulty_level": 3,
+      "difficulty_level": 4,
       "concepts_tested": [
-        "12.4 Energy Flow"
+        "BIOLOGY"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Ecosystem, which statement is supported by the source text about 12.1 ECOSYSTEM – STRUCTURE AND FUNCTION?",
+      "options": [
+        "12.2 PRODUCTIVITY A constant input of solar energy is the basic requirement for any ecosystem to function and sustain.",
+        "207 ECOSYSTEM biomass or organic matter produced per unit area over a time period by plants during photosynthesis.",
+        "It is expressed in terms of weight (g m–2) or energy (kcal m–2).",
+        "It is expressed in terms of gm–2 yr –1 or (kcal m–2) yr–1 to compare the productivity of different ecosystems."
+      ],
+      "correct_answer": 0,
+      "pattern": "match",
+      "source_trace": "NCERT Class 12 Biology Ch12 pg 1",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "12.1 ECOSYSTEM – STRUCTURE AND FUNCTION"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Ecosystem, which statement is supported by the source text about 12.2 PRODUCTIVITY?",
+      "options": [
+        "It can be divided into gross primary productivity (GPP) and net primary productivity (NPP).",
+        "Gross primary productivity of an ecosystem is the rate of production of organic matter during photosynthesis.",
+        "A considerable amount of GPP is utilised by plants in respiration.",
+        "Gross primary productivity minus respiration losses (R), is the net primary productivity (NPP)."
+      ],
+      "correct_answer": 0,
+      "pattern": "not_type",
+      "source_trace": "NCERT Class 12 Biology Ch12 pg 2",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 5,
+      "concepts_tested": [
+        "12.2 PRODUCTIVITY"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Ecosystem, which statement is supported by the source text about GPP – R = NPP?",
+      "options": [
+        "GPP – R = NPP Net primary productivity is the available biomass for the consumption to heterotrophs (herbiviores and decomposers).",
+        "Secondary productivity is defined as the rate of formation of new organic matter by consumers.",
+        "Primary productivity depends on the plant species inhabiting a particular area.",
+        "It also depends on a variety of environmental factors, availability of nutrients and photosynthetic capacity of plants."
+      ],
+      "correct_answer": 0,
+      "pattern": "statement",
+      "source_trace": "NCERT Class 12 Biology Ch12 pg 2",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 5,
+      "concepts_tested": [
+        "GPP – R = NPP"
       ]
     }
   ],
@@ -191,7 +281,7 @@
     "generation_method": "local_source_only_extractive_decode"
   },
   "content_model": "clearupsc_textbook_decoded_from_source_v1",
-  "decode_status": "textbook_decoded",
+  "decode_status": "textbook_verified",
   "source": {
     "book": "NCERT Class 12 Biology",
     "chapter": 12,
@@ -203,5 +293,5 @@
   "source_trace": "NCERT Class 12 Biology | Chapter 12: Ecosystem | https://ncert.nic.in/textbook/pdf/lebo112.pdf | sha256:6d73b01f7ad5492d08a67b695ae8c05230631f20b1b40c791ab7435b39d0e59e",
   "raw_text_path": "data/study/textbook-first/raw-text/gs3_env_class12_biology_ch12_ecosystem.txt",
   "generated_by": "local_source_only_extractive_decode",
-  "generated_at": "2026-05-26T19:53:40.140Z"
+  "generated_at": "2026-05-26T20:26:46.220Z"
 }

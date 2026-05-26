@@ -115,7 +115,7 @@
       "source_trace": "NCERT Class 12 Fundamentals of Human Geography Ch2 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
-      "difficulty_level": 3,
+      "difficulty_level": 1,
       "concepts_tested": [
         "PATTERNS OF POPULATION"
       ]
@@ -129,7 +129,7 @@
         "We shall discuss the patterns of their distribution and density here."
       ],
       "correct_answer": 0,
-      "pattern": "statement",
+      "pattern": "match",
       "source_trace": "NCERT Class 12 Fundamentals of Human Geography Ch2 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
@@ -183,13 +183,103 @@
         "So, people prefer to live in areas where fresh water is easily available."
       ],
       "correct_answer": 0,
+      "pattern": "match",
+      "source_trace": "NCERT Class 12 Fundamentals of Human Geography Ch2 pg 1",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "DISTRIBUTION OF POPULATION"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of World Population Distribution Density and Growth, which statement is supported by the source text about POPULATION GROWTH?",
+      "options": [
+        "Water is used for drinking, bathing and cooking – and also for cattle, crops, industries and navigation.",
+        "It is because of this that river valleys are among the most densely populated areas of the world.",
+        "(ii) Landforms: People prefer living on flat plains and gentle slopes.",
+        "This is because such areas are favourable for the production of crops and to build roads and industries."
+      ],
+      "correct_answer": 0,
+      "pattern": "not_type",
+      "source_trace": "NCERT Class 12 Fundamentals of Human Geography Ch2 pg 1",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "POPULATION GROWTH"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of World Population Distribution Density and Growth, which statement is supported by the source text about CBR/CDR?",
+      "options": [
+        "The mountainous and hilly areas hinder the development of transport network and hence initially do not favour agricultural and industrial development.",
+        "The Ganga plains are among the most densely populated areas of the world while the mountains zones in the Himalayas are scarcely populated.",
+        "(iii) Climate: An extreme climate such as very hot or cold deserts are uncomfortable for human habitation.",
+        "Areas with a comfortable climate, where there is not much seasonal variation attract more people."
+      ],
+      "correct_answer": 0,
       "pattern": "statement",
       "source_trace": "NCERT Class 12 Fundamentals of Human Geography Ch2 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
-      "difficulty_level": 3,
+      "difficulty_level": 4,
       "concepts_tested": [
-        "DISTRIBUTION OF POPULATION"
+        "CBR/CDR"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of World Population Distribution Density and Growth, which statement is supported by the source text about DEMOGRAPHIC TRANSITION?",
+      "options": [
+        "Areas with very heavy rainfall or extreme and harsh climates have low population.",
+        "Mediterranean regions were inhabited from early periods in history due to their pleasant climate.",
+        "(iv) Soils: Fertile soils are important for agricultural and allied activities.",
+        "Therefore, areas which have fertile loamy soils have more people living on them as these can support intensive agriculture."
+      ],
+      "correct_answer": 0,
+      "pattern": "match",
+      "source_trace": "NCERT Class 12 Fundamentals of Human Geography Ch2 pg 1",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "DEMOGRAPHIC TRANSITION"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of World Population Distribution Density and Growth, which statement is supported by the source text about POPULATION CONTROL MEASURES?",
+      "options": [
+        "Can you name some areas in India which are thinly populated due to poor soils?",
+        "Economic Factors Economic Factors Economic Factors Economic Factors Economic Factors (i) Minerals: Areas with mineral deposits attract industries.",
+        "So, skilled and semi–skilled workers move to these areas and make them densely populated.",
+        "Katanga Zambia copper belt in Africa is one such good example."
+      ],
+      "correct_answer": 0,
+      "pattern": "not_type",
+      "source_trace": "NCERT Class 12 Fundamentals of Human Geography Ch2 pg 1",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 5,
+      "concepts_tested": [
+        "POPULATION CONTROL MEASURES"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of World Population Distribution Density and Growth, which statement is supported by the source text about World Population Distribution Density and Growth?",
+      "options": [
+        "(ii) Urbanisation: Cities offer better employment opportunities, educational and medical facilities, better means of transport and communication.",
+        "Good civic amenities and the attraction of city life draw people to the cities.",
+        "It leads to rural to urban migration and cities grow in size.",
+        "Mega cities of the world continue to attract large number of migrants every year."
+      ],
+      "correct_answer": 0,
+      "pattern": "statement",
+      "source_trace": "NCERT Class 12 Fundamentals of Human Geography Ch2 pg 1",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 5,
+      "concepts_tested": [
+        "World Population Distribution Density and Growth"
       ]
     }
   ],
@@ -199,7 +289,7 @@
     "generation_method": "local_source_only_extractive_decode"
   },
   "content_model": "clearupsc_textbook_decoded_from_source_v1",
-  "decode_status": "textbook_decoded",
+  "decode_status": "textbook_verified",
   "source": {
     "book": "NCERT Class 12 Fundamentals of Human Geography",
     "chapter": 2,
@@ -211,5 +301,5 @@
   "source_trace": "NCERT Class 12 Fundamentals of Human Geography | Chapter 2: World Population Distribution Density and Growth | https://ncert.nic.in/textbook/pdf/legy102.pdf | sha256:6a47f5f79c162acba7b4e59cee9259619ffa6ea2db9ab0c49237feeb684cff3b",
   "raw_text_path": "data/study/textbook-first/raw-text/gs1_geo_class12_human_ch02_world_population_distribution_density_and_growth.txt",
   "generated_by": "local_source_only_extractive_decode",
-  "generated_at": "2026-05-26T19:53:51.385Z"
+  "generated_at": "2026-05-26T20:26:57.804Z"
 }

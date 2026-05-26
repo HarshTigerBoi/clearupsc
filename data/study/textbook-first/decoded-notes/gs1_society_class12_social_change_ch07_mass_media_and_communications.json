@@ -136,7 +136,7 @@
       "source_trace": "NCERT Class 12 Social Change and Development in India Ch7 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
-      "difficulty_level": 3,
+      "difficulty_level": 1,
       "concepts_tested": [
         "7.1 The B eginnings of Modern Mass Media"
       ]
@@ -150,7 +150,7 @@
         "Many shops in cities increasingly have a small television set."
       ],
       "correct_answer": 0,
-      "pattern": "statement",
+      "pattern": "match",
       "source_trace": "NCERT Class 12 Social Change and Development in India Ch7 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
@@ -204,13 +204,103 @@
         "This helps us realise that like any other social institution the structure and content o f m a s s m e d i..."
       ],
       "correct_answer": 0,
+      "pattern": "match",
+      "source_trace": "NCERT Class 12 Social Change and Development in India Ch7 pg 2",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "Media"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Mass Media and Communications, which statement is supported by the source text about Communications?",
+      "options": [
+        "For instance, we see how central the state and its vision of development influenced the media in the first decades after independence.",
+        "And how in the post 1990 period of globalisation, the market has a key role to play.",
+        "Second, this help us better appreciate how the relationship between mass media and communication with society is dialectical.",
+        "The nature and role of mass media is influenced by the society in which it is located."
+      ],
+      "correct_answer": 0,
+      "pattern": "not_type",
+      "source_trace": "NCERT Class 12 Social Change and Development in India Ch7 pg 2",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "Communications"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Mass Media and Communications, which statement is supported by the source text about Internet and?",
+      "options": [
+        "At the same time the far reaching influence of mass media on society cannot be over-emphasised.",
+        "We shall see this dialectical relationship when we discuss in this chapter—(a) the role of media in colonial India, (b) in the first decades...",
+        "Third, mass communication is different from other means of communication as it requires a formal structural organisation to meet large-scale capital, production and management...",
+        "You will find, therefore, that the state and/or the market have a major role in the structure and functioning of mass media."
+      ],
+      "correct_answer": 0,
       "pattern": "statement",
       "source_trace": "NCERT Class 12 Social Change and Development in India Ch7 pg 2",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
-      "difficulty_level": 3,
+      "difficulty_level": 4,
       "concepts_tested": [
-        "Media"
+        "Internet and"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Mass Media and Communications, which statement is supported by the source text about Identify the?",
+      "options": [
+        "Mass media functions through very large organisations with major investments and large body of employees.",
+        "Fourth, there are sharp differences between how easily different sections of people can use mass media.",
+        "You will recall the concept of digital divide from the last chapter.",
+        "7.1 The B eginnings of Modern Mass Media The first modern mass media institution began with the development of the printing press."
+      ],
+      "correct_answer": 0,
+      "pattern": "match",
+      "source_trace": "NCERT Class 12 Social Change and Development in India Ch7 pg 2",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "Identify the"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Mass Media and Communications, which statement is supported by the source text about Discuss the?",
+      "options": [
+        "Although the history of print in certain societies dates back to many centuries, the first attempts at printing books using modern technologies began in...",
+        "This technique was first developed by Johann Gutenberg in 1440.",
+        "Initial attempts at printing were restricted to religious books.",
+        "With the Industrial Revolution, the print industry also grew."
+      ],
+      "correct_answer": 0,
+      "pattern": "not_type",
+      "source_trace": "NCERT Class 12 Social Change and Development in India Ch7 pg 3",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 5,
+      "concepts_tested": [
+        "Discuss the"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Mass Media and Communications, which statement is supported by the source text about The CBSE Board?",
+      "options": [
+        "The first products of the press were restricted to an audience of literate elites.",
+        "It was only in the mid 19th century, with further development in technologies, transportation and literacy that newspapers began to reach out to a...",
+        "People living in different corners of the country found themselves reading or hearing the same news.",
+        "It has been suggested that this was in many ways responsible for people across a country to feel connected and develop a sense of..."
+      ],
+      "correct_answer": 0,
+      "pattern": "statement",
+      "source_trace": "NCERT Class 12 Social Change and Development in India Ch7 pg 3",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 5,
+      "concepts_tested": [
+        "The CBSE Board"
       ]
     }
   ],
@@ -220,7 +310,7 @@
     "generation_method": "local_source_only_extractive_decode"
   },
   "content_model": "clearupsc_textbook_decoded_from_source_v1",
-  "decode_status": "textbook_decoded",
+  "decode_status": "textbook_verified",
   "source": {
     "book": "NCERT Class 12 Social Change and Development in India",
     "chapter": 7,
@@ -232,5 +322,5 @@
   "source_trace": "NCERT Class 12 Social Change and Development in India | Chapter 7: Mass Media and Communications | https://ncert.nic.in/textbook/pdf/lesy207.pdf | sha256:72681767057da5546f9502e42401608a4944e34b94ed5a1795eef76ebbcab49a",
   "raw_text_path": "data/study/textbook-first/raw-text/gs1_society_class12_social_change_ch07_mass_media_and_communications.txt",
   "generated_by": "local_source_only_extractive_decode",
-  "generated_at": "2026-05-26T19:54:00.157Z"
+  "generated_at": "2026-05-26T20:27:06.976Z"
 }

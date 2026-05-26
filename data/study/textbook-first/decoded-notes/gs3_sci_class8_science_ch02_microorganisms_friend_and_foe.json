@@ -128,7 +128,7 @@
       "source_trace": "NCERT Class 8 Science Ch2 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
-      "difficulty_level": 3,
+      "difficulty_level": 1,
       "concepts_tested": [
         "MICROORGANISMS : FRIEND AND FOE MICROORGANISMS : FRIEND AND FOE"
       ]
@@ -142,7 +142,7 @@
         "These observations show that water and soil are full of tiny organisms, though not all of them fall into the category of microbes."
       ],
       "correct_answer": 0,
-      "pattern": "statement",
+      "pattern": "match",
       "source_trace": "NCERT Class 8 Science Ch2 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
@@ -196,13 +196,103 @@
         "2.3 : Protozoa Bread mould Penicillium Aspergillus 2024-25"
       ],
       "correct_answer": 0,
-      "pattern": "statement",
+      "pattern": "match",
       "source_trace": "NCERT Class 8 Science Ch2 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
-      "difficulty_level": 3,
+      "difficulty_level": 4,
       "concepts_tested": [
         "2.2 Where do Microorganisms"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Microorganisms Friend and Foe, which statement is supported by the source text about 2.3 Microorganisms and Us?",
+      "options": [
+        "MICROORGANISMS : FRIEND AND FOE 19 2.2 Where do Microorganisms Live?",
+        "Microorganisms may be single-celled like bacteria, some algae and protozoa, or multicellular, such as many algae and fungi.",
+        "They live in all types of environment, ranging from ice cold climate to hot springs; and deserts to marshy lands.",
+        "They are also found inside the bodies of animals including humans."
+      ],
+      "correct_answer": 0,
+      "pattern": "not_type",
+      "source_trace": "NCERT Class 8 Science Ch2 pg 2",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "2.3 Microorganisms and Us"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Microorganisms Friend and Foe, which statement is supported by the source text about SCIENCE 20?",
+      "options": [
+        "Some microorganisms grow on other organisms while others exist freely.",
+        "2.3 Microorganisms and Us Microorganisms play an important role in our lives.",
+        "Some of them are beneficial in many ways whereas some others are harmful and cause diseases.",
+        "Microorganisms have been used for the production of alcohol since ages."
+      ],
+      "correct_answer": 0,
+      "pattern": "statement",
+      "source_trace": "NCERT Class 8 Science Ch2 pg 2",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "SCIENCE 20"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Microorganisms Friend and Foe, which statement is supported by the source text about MICROORGANISMS : FRIEND AND FOE 21?",
+      "options": [
+        "Friendly Microorganisms Microorganisms are used for various purposes.",
+        "They are used in the preparation of curd, bread and cake.",
+        "Of these, the bacterium, Lactobacillus promotes the formation of curd.",
+        "Bacteria are also involved in the making of cheese, pickles and many other food items."
+      ],
+      "correct_answer": 0,
+      "pattern": "match",
+      "source_trace": "NCERT Class 8 Science Ch2 pg 2",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "MICROORGANISMS : FRIEND AND FOE 21"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Microorganisms Friend and Foe, which statement is supported by the source text about SCIENCE 22?",
+      "options": [
+        "An important ingredient of rava (sooji ) idlis and bhaturas is curd.",
+        "Bacteria and yeast are also helpful for fermentation of rice idlis and dosa batter.",
+        "2.5 : Viruses I saw that my mother added a little curd to warm milk to set curd for the next day.",
+        "For example, the organic wastes (vegetable peels, remains of animals, faeces, etc.) are broken down into harmless and usable substances by bacteria."
+      ],
+      "correct_answer": 0,
+      "pattern": "not_type",
+      "source_trace": "NCERT Class 8 Science Ch2 pg 2",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 5,
+      "concepts_tested": [
+        "SCIENCE 22"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Microorganisms Friend and Foe, which statement is supported by the source text about 2.4 Harmful Microorganisms?",
+      "options": [
+        "Recall that bacteria are also used in the preparation of medicines.",
+        "In agriculture they are used to increase soil fertility by fixing nitrogen.",
+        "Making of Curd and Bread You have learnt in Class VII that milk is turned into curd by bacteria.",
+        "SCIENCE 20 spoon of yeast powder to the sugar solution."
+      ],
+      "correct_answer": 0,
+      "pattern": "statement",
+      "source_trace": "NCERT Class 8 Science Ch2 pg 2",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 5,
+      "concepts_tested": [
+        "2.4 Harmful Microorganisms"
       ]
     }
   ],
@@ -212,7 +302,7 @@
     "generation_method": "local_source_only_extractive_decode"
   },
   "content_model": "clearupsc_textbook_decoded_from_source_v1",
-  "decode_status": "textbook_decoded",
+  "decode_status": "textbook_verified",
   "source": {
     "book": "NCERT Class 8 Science",
     "chapter": 2,
@@ -224,5 +314,5 @@
   "source_trace": "NCERT Class 8 Science | Chapter 2: Microorganisms Friend and Foe | https://ncert.nic.in/textbook/pdf/hesc102.pdf | sha256:9ed99dd59080f8a94a2c092b78809537247a819c20c3051deca5dc09499850dc",
   "raw_text_path": "data/study/textbook-first/raw-text/gs3_sci_class8_science_ch02_microorganisms_friend_and_foe.txt",
   "generated_by": "local_source_only_extractive_decode",
-  "generated_at": "2026-05-26T19:54:37.335Z"
+  "generated_at": "2026-05-26T20:27:45.996Z"
 }

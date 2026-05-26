@@ -136,7 +136,7 @@
       "source_trace": "NCERT Class 11 Themes in World History Ch2 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
-      "difficulty_level": 3,
+      "difficulty_level": 1,
       "concepts_tested": [
         "30 THEMES IN WORLD HISTORY"
       ]
@@ -150,7 +150,7 @@
         "From among the Greek states, in the late fourth century BCE, the ruler of the kingdom of Macedon, Alexander, undertook a series of military..."
       ],
       "correct_answer": 0,
-      "pattern": "statement",
+      "pattern": "match",
       "source_trace": "NCERT Class 11 Themes in World History Ch2 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
@@ -204,13 +204,103 @@
         "There were changes in the political structure of the empire from the late first century BCE, and it was substantially Christianised after the emperor..."
       ],
       "correct_answer": 0,
-      "pattern": "statement",
+      "pattern": "match",
       "source_trace": "NCERT Class 11 Themes in World History Ch2 pg 2",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
-      "difficulty_level": 3,
+      "difficulty_level": 4,
       "concepts_tested": [
         "34 THEMES IN WORLD HISTORY"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of An Empire Across Three Continents, which statement is supported by the source text about (C. 100 BCE TO 1300 CE)?",
+      "options": [
+        "To make government easier, the Roman Empire was divided into eastern and western halves in the fourth century CE.",
+        "But in the west, there was a breakdown of the arrangements that existed between Rome and the tribes in frontier areas (Goths, Visigoths, Vandals...",
+        "These arrangements dealt with trade, military recruitment and EMPIRES Ruins at Greek city of Corinth.",
+        "32 THEMES IN WORLD HISTORY settlement, and the tribes increasingly attacked the Roman administration."
+      ],
+      "correct_answer": 0,
+      "pattern": "not_type",
+      "source_trace": "NCERT Class 11 Themes in World History Ch2 pg 2",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "(C. 100 BCE TO 1300 CE)"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of An Empire Across Three Continents, which statement is supported by the source text about DATES?",
+      "options": [
+        "Conflicts increased in scale, and coincided with internal dissensions in the empire, leading to the collapse of the empire in the west by the...",
+        "Tribes established their own kingdoms within the former empire, though, with the prompting of the Christian Church, a Holy Roman Empire was formed from...",
+        "Between the seventh century and the fifteenth century, almost all the lands of the eastern Roman Empire (centred on Constantinople) came to be taken...",
+        "There was a close interaction between Greek and Islamic traditions in the region."
+      ],
+      "correct_answer": 0,
+      "pattern": "statement",
+      "source_trace": "NCERT Class 11 Themes in World History Ch2 pg 3",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "DATES"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of An Empire Across Three Continents, which statement is supported by the source text about AFRICA?",
+      "options": [
+        "The trading networks of the area and its prosperity attracted the attention of pastoral peoples to the north including various Turkic tribes, who often...",
+        "The last of these peoples to attack the area and attempt to control it were the Mongols, under Genghis Khan and his successors, who...",
+        "All these attempts to make and maintain empires were driven by the search to control the resources of the trading networks that existed in...",
+        "All the empires evolved administrative systems to give stability to trade."
+      ],
+      "correct_answer": 0,
+      "pattern": "match",
+      "source_trace": "NCERT Class 11 Themes in World History Ch2 pg 3",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "AFRICA"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of An Empire Across Three Continents, which statement is supported by the source text about EUROPE?",
+      "options": [
+        "They also evolved The Great Mosque, Damascus, completed in 714.",
+        "The achievements of one empire were often taken up by its successor.",
+        "Over time, the area came to be marked by Persian, Greek, Latin and Arabic above many other languages that were spoken and written.",
+        "This was partly due to disputes and conflict over resources in various regions."
+      ],
+      "correct_answer": 0,
+      "pattern": "not_type",
+      "source_trace": "NCERT Class 11 Themes in World History Ch2 pg 3",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 5,
+      "concepts_tested": [
+        "EUROPE"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of An Empire Across Three Continents, which statement is supported by the source text about TIMELINE-II?",
+      "options": [
+        "It was also due to the crisis that developed in relations between empires and pastoral peoples to the north – from whom empires derived...",
+        "It is worth noting that not all empires were city- centric.",
+        "The Mongol empire of Genghis Khan and his successors is a good example of how an empire could be maintained by pastoral people for...",
+        "Religions that appealed to peoples of different ethnic origins, who often spoke different languages, were important in the making of large empires."
+      ],
+      "correct_answer": 0,
+      "pattern": "statement",
+      "source_trace": "NCERT Class 11 Themes in World History Ch2 pg 4",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 5,
+      "concepts_tested": [
+        "TIMELINE-II"
       ]
     }
   ],
@@ -220,7 +310,7 @@
     "generation_method": "local_source_only_extractive_decode"
   },
   "content_model": "clearupsc_textbook_decoded_from_source_v1",
-  "decode_status": "textbook_decoded",
+  "decode_status": "textbook_verified",
   "source": {
     "book": "NCERT Class 11 Themes in World History",
     "chapter": 2,
@@ -232,5 +322,5 @@
   "source_trace": "NCERT Class 11 Themes in World History | Chapter 2: An Empire Across Three Continents | https://ncert.nic.in/textbook/pdf/kehs102.pdf | sha256:c035c3494a4cbe946764f24bdab0b2154575ff168e38abe039ccd13210b357b5",
   "raw_text_path": "data/study/textbook-first/raw-text/gs1_hist_class11_themes_world_history_ch02_an_empire_across_three_continents.txt",
   "generated_by": "local_source_only_extractive_decode",
-  "generated_at": "2026-05-26T19:53:53.432Z"
+  "generated_at": "2026-05-26T20:26:59.919Z"
 }

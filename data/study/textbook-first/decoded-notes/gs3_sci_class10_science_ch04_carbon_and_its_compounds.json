@@ -115,7 +115,7 @@
       "source_trace": "NCERT Class 10 Science Ch4 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
-      "difficulty_level": 3,
+      "difficulty_level": 1,
       "concepts_tested": [
         "4 CHAPTER"
       ]
@@ -129,7 +129,7 @@
         "The amount of carbon present in the earth’s crust and in the atmosphere is quite meagre."
       ],
       "correct_answer": 0,
-      "pattern": "statement",
+      "pattern": "match",
       "source_trace": "NCERT Class 10 Science Ch4 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
@@ -183,13 +183,103 @@
         "In Class IX, we learnt about the combining capacity of various elements and how it depends on the number of valence electrons."
       ],
       "correct_answer": 0,
+      "pattern": "match",
+      "source_trace": "NCERT Class 10 Science Ch4 pg 1",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "4.2.2 Chains, Branches and Rings"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Carbon and Its Compounds, which statement is supported by the source text about 1 Methane CH4?",
+      "options": [
+        "Let us now look at the electronic configuration of carbon.",
+        "What would be the distribution of electrons in various shells of carbon?",
+        "We know that the reactivity of elements is explained as their tendency to attain a completely filled outer shell, that is, attain noble gas...",
+        "Elements forming ionic compounds achieve this by either gaining or losing electrons from the outermost shell."
+      ],
+      "correct_answer": 0,
+      "pattern": "not_type",
+      "source_trace": "NCERT Class 10 Science Ch4 pg 1",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "1 Methane CH4"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Carbon and Its Compounds, which statement is supported by the source text about 2 Ethane C2H6?",
+      "options": [
+        "In the case of carbon, it has four electrons in its outermost shell and needs to gain or lose four electrons to attain noble...",
+        "If it were to gain or lose electrons – (i) It could gain four electrons forming C4– anion.",
+        "But it would be difficult for the nucleus with six protons to hold on to ten electrons, that is, four extra electrons.",
+        "But it would require a large amount of energy to remove four electrons leaving behind a carbon cation with six protons in its nucleus..."
+      ],
+      "correct_answer": 0,
       "pattern": "statement",
       "source_trace": "NCERT Class 10 Science Ch4 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
-      "difficulty_level": 3,
+      "difficulty_level": 4,
       "concepts_tested": [
-        "4.2.2 Chains, Branches and Rings"
+        "2 Ethane C2H6"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Carbon and Its Compounds, which statement is supported by the source text about 3 Propane C3H8?",
+      "options": [
+        "Carbon overcomes this problem by sharing its valence electrons with other atoms of carbon or with atoms of other elements.",
+        "Not just carbon, but many other elements form molecules by sharing electrons in this manner.",
+        "The shared electrons ‘belong’ to the outermost shells of both the atoms and lead to both atoms attaining the noble gas configuration.",
+        "Before going on to compounds of carbon, let us look at some simple molecules formed by the sharing of valence electrons."
+      ],
+      "correct_answer": 0,
+      "pattern": "match",
+      "source_trace": "NCERT Class 10 Science Ch4 pg 1",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "3 Propane C3H8"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Carbon and Its Compounds, which statement is supported by the source text about 4 Butane C4H10?",
+      "options": [
+        "The simplest molecule formed in this manner is that of hydrogen.",
+        "As you have learnt earlier, the atomic number of hydrogen is 1.",
+        "Hence hydrogen has one electron in its K shell and it requires one more electron to fill the K shell.",
+        "So two hydrogen atoms share their electrons to form a molecule of hydrogen, H2."
+      ],
+      "correct_answer": 0,
+      "pattern": "not_type",
+      "source_trace": "NCERT Class 10 Science Ch4 pg 1",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 5,
+      "concepts_tested": [
+        "4 Butane C4H10"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Carbon and Its Compounds, which statement is supported by the source text about 5 Pentane C5H12?",
+      "options": [
+        "This allows each hydrogen atom to attain the Table 4.1 Melting points and boiling points of some compounds of carbon Compound Melting Boiling point...",
+        "Science 60 Figure 4.4 Triple bond between two nitrogen atoms Figure 4.3 Double bond between two oxygen atoms electronic configuration of the nearest noble...",
+        "We can depict this using dots or crosses to represent valence electrons (Fig.",
+        "The shared pair of electrons is said to constitute a single covalent bond between the two hydrogen atoms."
+      ],
+      "correct_answer": 0,
+      "pattern": "statement",
+      "source_trace": "NCERT Class 10 Science Ch4 pg 1",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 5,
+      "concepts_tested": [
+        "5 Pentane C5H12"
       ]
     }
   ],
@@ -199,7 +289,7 @@
     "generation_method": "local_source_only_extractive_decode"
   },
   "content_model": "clearupsc_textbook_decoded_from_source_v1",
-  "decode_status": "textbook_decoded",
+  "decode_status": "textbook_verified",
   "source": {
     "book": "NCERT Class 10 Science",
     "chapter": 4,
@@ -211,5 +301,5 @@
   "source_trace": "NCERT Class 10 Science | Chapter 4: Carbon and Its Compounds | https://ncert.nic.in/textbook/pdf/jesc104.pdf | sha256:efbb053ea8cedf29bc6891834613fdbcc17772e369f6b35405f3bb4701c41abe",
   "raw_text_path": "data/study/textbook-first/raw-text/gs3_sci_class10_science_ch04_carbon_and_its_compounds.txt",
   "generated_by": "local_source_only_extractive_decode",
-  "generated_at": "2026-05-26T19:54:25.072Z"
+  "generated_at": "2026-05-26T20:27:33.333Z"
 }

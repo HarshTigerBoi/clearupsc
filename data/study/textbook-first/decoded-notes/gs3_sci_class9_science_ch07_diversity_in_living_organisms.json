@@ -136,7 +136,7 @@
       "source_trace": "NCERT Class 9 Science Ch7 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
-      "difficulty_level": 3,
+      "difficulty_level": 1,
       "concepts_tested": [
         "7.1 Work Done by a Constant Force"
       ]
@@ -150,7 +150,7 @@
         "7.1: Energy required to carry out tasks comes from various sources Food provides energy to walk Electricity provides energy to rotate a fan Fuel..."
       ],
       "correct_answer": 0,
-      "pattern": "statement",
+      "pattern": "match",
       "source_trace": "NCERT Class 9 Science Ch7 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
@@ -204,13 +204,103 @@
         "Now, suppose you lift all the 3 bags together to the same height (Fig."
       ],
       "correct_answer": 0,
+      "pattern": "match",
+      "source_trace": "NCERT Class 9 Science Ch7 pg 1",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "7.1.2 Positive and negative work done"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Diversity in Living Organisms, which statement is supported by the source text about 7.2 The Work-Energy Theorem?",
+      "options": [
+        "You would need to apply a force 3 times larger than that required for a single bag.",
+        "7.2b, the work done by you would be 3 times the work required to lift 1 bag.",
+        "This shows that applying a larger force over the same distance allows you to proportionally do more work.",
+        "Next, consider lifting a single 5 kg bag of wheat but to a height of 3 m (Fig."
+      ],
+      "correct_answer": 0,
+      "pattern": "not_type",
+      "source_trace": "NCERT Class 9 Science Ch7 pg 1",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "7.2 The Work-Energy Theorem"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Diversity in Living Organisms, which statement is supported by the source text about 7.3 Forms of Energy?",
+      "options": [
+        "You would have carried out 3 times more work as compared to the work required to lift the same bag by 1 m.",
+        "Or if the same machine is used three times in succession to lift the bag by 1 m each time, it would require 3...",
+        "Thus, applying the same force over a larger distance allows you to proportionally do more work.",
+        "The scientific definition of work done by a force is based on the above observations."
+      ],
+      "correct_answer": 0,
       "pattern": "statement",
       "source_trace": "NCERT Class 9 Science Ch7 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
-      "difficulty_level": 3,
+      "difficulty_level": 4,
       "concepts_tested": [
-        "7.1.2 Positive and negative work done"
+        "7.3 Forms of Energy"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Diversity in Living Organisms, which statement is supported by the source text about 7.4 Mechanical Energy?",
+      "options": [
+        "The work done by a constant force acting on an object in bringing about a certain displacement can be defined as: work done on...",
+        "(7.1) can be used even if the force and displacement, both are in a horizontal direction, or any other direction for that matter.",
+        "For example, consider an object upon which a constant force F is acting, and it undergoes a displacement s in the direction of force...",
+        "Then, the work done W by the force on the object is W = F × s (7.2) F (b) Fig."
+      ],
+      "correct_answer": 0,
+      "pattern": "match",
+      "source_trace": "NCERT Class 9 Science Ch7 pg 1",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "7.4 Mechanical Energy"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Diversity in Living Organisms, which statement is supported by the source text about 7.4.1 Kinetic energy?",
+      "options": [
+        "7.3: Work done by a force while displacing an object in (a) horizontal direction, and (b) vertical direction (a) s s F While describing...",
+        "7.2: Lifting bags to a height (a) (b) (c) (d) Work = 3 W Work = W Work = 3 W Work = 3...",
+        "Exploration|Grade 9 118 The SI unit of work done is joule which is represented by J.",
+        "The SI unit of force is the newton (N) and the SI unit of displacement is the metre (m)."
+      ],
+      "correct_answer": 0,
+      "pattern": "not_type",
+      "source_trace": "NCERT Class 9 Science Ch7 pg 1",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 5,
+      "concepts_tested": [
+        "7.4.1 Kinetic energy"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Diversity in Living Organisms, which statement is supported by the source text about 7.4.2 Potential energy?",
+      "options": [
+        "(7.2), 1 joule can be defined as 1 J = 1 N × 1 m That is, 1 joule of work is done on...",
+        "Since 1 N = 1 kg m s–2, note that 1 J = 1 kg m s–2 × 1 m = 1 kg m2...",
+        "7.4, the force on an object is plotted on the Y-axis against the displacement in the direction of force on the X-axis.",
+        "In this case, the work done on the object by the force is equal to the area of the shaded rectangle in the graph..."
+      ],
+      "correct_answer": 0,
+      "pattern": "statement",
+      "source_trace": "NCERT Class 9 Science Ch7 pg 2",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 5,
+      "concepts_tested": [
+        "7.4.2 Potential energy"
       ]
     }
   ],
@@ -220,7 +310,7 @@
     "generation_method": "local_source_only_extractive_decode"
   },
   "content_model": "clearupsc_textbook_decoded_from_source_v1",
-  "decode_status": "textbook_decoded",
+  "decode_status": "textbook_verified",
   "source": {
     "book": "NCERT Class 9 Science",
     "chapter": 7,
@@ -232,5 +322,5 @@
   "source_trace": "NCERT Class 9 Science | Chapter 7: Diversity in Living Organisms | https://ncert.nic.in/textbook/pdf/iesc107.pdf | sha256:90171eb6b71ddb64de9fc33bbd813dc483a7a284d0a063134edb14ea3567bf38",
   "raw_text_path": "data/study/textbook-first/raw-text/gs3_sci_class9_science_ch07_diversity_in_living_organisms.txt",
   "generated_by": "local_source_only_extractive_decode",
-  "generated_at": "2026-05-26T19:54:41.515Z"
+  "generated_at": "2026-05-26T20:27:50.239Z"
 }

@@ -120,7 +120,7 @@
       "source_trace": "NCERT Class 7 Our Pasts II Ch5 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
-      "difficulty_level": 3,
+      "difficulty_level": 1,
       "concepts_tested": [
         "49 TRIBES, NOMADS AND"
       ]
@@ -134,7 +134,7 @@
         "Under the Delhi Sultans and the Mughals, this hierarchy between social classes grew further."
       ],
       "correct_answer": 0,
-      "pattern": "statement",
+      "pattern": "match",
       "source_trace": "NCERT Class 7 Our Pasts II Ch5 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
@@ -188,13 +188,103 @@
         "A few exceptions apart, tribal people did not keep written records."
       ],
       "correct_answer": 0,
+      "pattern": "match",
+      "source_trace": "NCERT Class 7 Our Pasts II Ch5 pg 1",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "53 TRIBES, NOMADS AND"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Rulers and Buildings, which statement is supported by the source text about 55 TRIBES, NOMADS AND?",
+      "options": [
+        "Present- day historians have started using such oral traditions to write tribal histories.",
+        "Tribal people were found in almost every region of varied at different points of time.",
+        "Their chief, Kamal Khan Gakkhar, was made a noble ( ) by Emperor Akbar.",
+        "In Multan and Sind, the Langahs and Arghuns dominated extensive regions before they were subdued by the Mughals."
+      ],
+      "correct_answer": 0,
+      "pattern": "not_type",
+      "source_trace": "NCERT Class 7 Our Pasts II Ch5 pg 1",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "55 TRIBES, NOMADS AND"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Rulers and Buildings, which statement is supported by the source text about 57 TRIBES, NOMADS AND?",
+      "options": [
+        "The Balochis were another large and powerful On a physical map of the subcontinent, identify the areas in which tribal people may have lived....",
+        "51 TRIBES, NOMADS AND SETTLED COMMUNITIES tribe in the north-west.",
+        "They were divided into many smaller clans under different chiefs.",
+        "In the western Himalaya lived the shepherd tribe of Gaddis."
+      ],
+      "correct_answer": 0,
       "pattern": "statement",
       "source_trace": "NCERT Class 7 Our Pasts II Ch5 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
-      "difficulty_level": 3,
+      "difficulty_level": 4,
       "concepts_tested": [
-        "53 TRIBES, NOMADS AND"
+        "57 TRIBES, NOMADS AND"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Rulers and Buildings, which statement is supported by the source text about 59 TRIBES, NOMADS AND?",
+      "options": [
+        "The distant north-eastern part of the subcontinent too was entirely dominated by tribes – the Nagas, Ahoms and many others.",
+        "In many areas of present-day Bihar and Jharkhand, Chero chiefdoms had emerged by the twelfth century.",
+        "Raja Man Singh, Akbar’s famous general, attacked and defeated the Cheros in 1591.",
+        "A large amount of booty was taken from them, but they were not entirely subdued."
+      ],
+      "correct_answer": 0,
+      "pattern": "match",
+      "source_trace": "NCERT Class 7 Our Pasts II Ch5 pg 2",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "59 TRIBES, NOMADS AND"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Rulers and Buildings, which statement is supported by the source text about KEYWORDS?",
+      "options": [
+        "Under Aurangzeb, Mughal forces captured many Chero fortresses and subjugated the tribe.",
+        "The Mundas and Santals were among the other important tribes that lived in this region and also in Orissa and Bengal.",
+        "52 The Maharashtra highlands and Karnataka were home to Kolis, Berads and numerous others.",
+        "Further south there were large tribal populations of Koragas, Vetars, Maravars and many others."
+      ],
+      "correct_answer": 0,
+      "pattern": "not_type",
+      "source_trace": "NCERT Class 7 Our Pasts II Ch5 pg 2",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 5,
+      "concepts_tested": [
+        "KEYWORDS"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Rulers and Buildings, which statement is supported by the source text about Rulers and Buildings?",
+      "options": [
+        "The large tribe of Bhils was spread across western and central India.",
+        "By the late sixteenth cen t ur y, m an y of t he m had become settled agriculturists and some even zamindars.",
+        "Many Bhil clans, nevertheless, remained hunter-gatherers.",
+        "The Gonds were found in great numbers across the present-day states of Chhattisgarh, Madhya Pradesh, Maharashtra and Andhra Pradesh."
+      ],
+      "correct_answer": 0,
+      "pattern": "statement",
+      "source_trace": "NCERT Class 7 Our Pasts II Ch5 pg 3",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 5,
+      "concepts_tested": [
+        "Rulers and Buildings"
       ]
     }
   ],
@@ -204,7 +294,7 @@
     "generation_method": "local_source_only_extractive_decode"
   },
   "content_model": "clearupsc_textbook_decoded_from_source_v1",
-  "decode_status": "textbook_decoded",
+  "decode_status": "textbook_verified",
   "source": {
     "book": "NCERT Class 7 Our Pasts II",
     "chapter": 5,
@@ -216,5 +306,5 @@
   "source_trace": "NCERT Class 7 Our Pasts II | Chapter 5: Rulers and Buildings | https://ncert.nic.in/textbook/pdf/gess105.pdf | sha256:0842e632b9171320ee8bba13e8521afce360ce1d1017978ec996629f9ddc9edb",
   "raw_text_path": "data/study/textbook-first/raw-text/gs1_hist_class7_our_pasts_ii_ch05_rulers_and_buildings.txt",
   "generated_by": "local_source_only_extractive_decode",
-  "generated_at": "2026-05-26T19:53:57.763Z"
+  "generated_at": "2026-05-26T20:27:04.521Z"
 }

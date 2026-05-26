@@ -115,7 +115,7 @@
       "source_trace": "NCERT Class 12 Micro Ch3 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
-      "difficulty_level": 3,
+      "difficulty_level": 1,
       "concepts_tested": [
         "3.1 PRODUCTION FUNCTION"
       ]
@@ -129,7 +129,7 @@
         "A car manufacturer uses land for a factory, machinery, labour, and various other inputs (steel, aluminium, rubber etc) to produce cars."
       ],
       "correct_answer": 0,
-      "pattern": "statement",
+      "pattern": "match",
       "source_trace": "NCERT Class 12 Micro Ch3 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
@@ -183,13 +183,103 @@
         "For simplicity, we assume that the farmer uses only two inputs to produce wheat: land and labour."
       ],
       "correct_answer": 0,
+      "pattern": "match",
+      "source_trace": "NCERT Class 12 Micro Ch3 pg 1",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "3.3 TOTAL PRODUCT, AVERAGE PRODUCT AND MARGINAL PRODUCT"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Production and Costs, which statement is supported by the source text about 3.3.1 Total Product?",
+      "options": [
+        "A production function tells us the maximum amount of wheat he can produce for a given amount of land that he uses, and a...",
+        "Suppose that he uses 2 hours of labour/ day and 1 hectare of land to produce a maximum of 2 tonnes of wheat.",
+        "Then, a function that describes this relation is called a production function.",
+        "One possible example of the form this could take is: q = K × L, Where, q is the amount of wheat produced, K..."
+      ],
+      "correct_answer": 0,
+      "pattern": "not_type",
+      "source_trace": "NCERT Class 12 Micro Ch3 pg 1",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "3.3.1 Total Product"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Production and Costs, which statement is supported by the source text about 3.3.2 Average Product?",
+      "options": [
+        "Describing a production function in this manner tells us the exact relation between inputs and output.",
+        "Since by definition we are taking the maximum output for any level of inputs, a production function deals only with the efficient use of...",
+        "Efficiency implies that it is not possible to get any more output from the same level of inputs.",
+        "A production function is defined for a given technology."
+      ],
+      "correct_answer": 0,
       "pattern": "statement",
       "source_trace": "NCERT Class 12 Micro Ch3 pg 1",
       "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
       "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
-      "difficulty_level": 3,
+      "difficulty_level": 4,
       "concepts_tested": [
-        "3.3 TOTAL PRODUCT, AVERAGE PRODUCT AND MARGINAL PRODUCT"
+        "3.3.2 Average Product"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Production and Costs, which statement is supported by the source text about 3.3.3 Marginal Product?",
+      "options": [
+        "It is the technological knowledge that determines the maximum levels of output that can be produced using different combinations of inputs.",
+        "If the technology improves, the maximum levels of output obtainable for different input combinations increase.",
+        "The inputs that a firm uses in the production process are called factors of production.",
+        "In order to produce output, a firm may require any number of different inputs."
+      ],
+      "correct_answer": 0,
+      "pattern": "match",
+      "source_trace": "NCERT Class 12 Micro Ch3 pg 1",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 4,
+      "concepts_tested": [
+        "3.3.3 Marginal Product"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Production and Costs, which statement is supported by the source text about 3.4 THE LAW OF DIMINISHING MARGINAL PRODUCT AND?",
+      "options": [
+        "However, for the time being, here we consider a firm that produces output using only two factors of production – labour and capital.",
+        "Our production function, therefore, tells us the maximum quantity of output (q) that can be produced by using different combinations of these two factors...",
+        "We may write the production function as q = f(L,K) (3.1) where, L is labour and K is capital and q is the maximum...",
+        "A numerical example of production function is given in Table 3.1."
+      ],
+      "correct_answer": 0,
+      "pattern": "not_type",
+      "source_trace": "NCERT Class 12 Micro Ch3 pg 1",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 5,
+      "concepts_tested": [
+        "3.4 THE LAW OF DIMINISHING MARGINAL PRODUCT AND"
+      ]
+    },
+    {
+      "question_text": "In the NCERT discussion of Production and Costs, which statement is supported by the source text about THE LAW OF VARIABLE PROPORTIONS?",
+      "options": [
+        "The left column shows the amount of labour and the top row shows the amount of capital.",
+        "As we move to the right along any row, capital increases and as we move down along any column, labour increases.",
+        "For different values of the two factors, 37 Production and Costs Table 3.1: Production Function Factor Capital 0 1 2 3 4 5 6...",
+        "38 Introductory Microeconomics the table shows the corresponding output levels."
+      ],
+      "correct_answer": 0,
+      "pattern": "statement",
+      "source_trace": "NCERT Class 12 Micro Ch3 pg 1",
+      "trap_explanation": "The distractors are also chapter-linked statements, but they do not answer the specific concept asked in the stem.",
+      "approach_technique": "Identify the concept in the stem, then match it to the statement with the same source context.",
+      "difficulty_level": 5,
+      "concepts_tested": [
+        "THE LAW OF VARIABLE PROPORTIONS"
       ]
     }
   ],
@@ -199,7 +289,7 @@
     "generation_method": "local_source_only_extractive_decode"
   },
   "content_model": "clearupsc_textbook_decoded_from_source_v1",
-  "decode_status": "textbook_decoded",
+  "decode_status": "textbook_verified",
   "source": {
     "book": "NCERT Class 12 Introductory Microeconomics",
     "chapter": 3,
@@ -211,5 +301,5 @@
   "source_trace": "NCERT Class 12 Introductory Microeconomics | Chapter 3: Production and Costs | https://ncert.nic.in/textbook/pdf/leec203.pdf | sha256:03634018c6b7e686456d4e62284fa409cc8167a7c1762ce523127a2b76e2e996",
   "raw_text_path": "data/study/textbook-first/raw-text/gs3_economy_class12_micro_ch03_production_and_costs.txt",
   "generated_by": "local_source_only_extractive_decode",
-  "generated_at": "2026-05-26T19:54:19.334Z"
+  "generated_at": "2026-05-26T20:27:27.230Z"
 }
