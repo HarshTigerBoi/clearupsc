@@ -1,4 +1,7 @@
+"use client";
+
 import Link from "next/link";
+import { usePathname } from "next/navigation";
 
 const links = [
   ["Home", "/"],
@@ -17,6 +20,10 @@ const links = [
 ];
 
 export default function Footer() {
+  const pathname = usePathname();
+
+  if (pathname === "/") return null;
+
   return (
     <footer className="bg-[#1a2744] text-white">
       <div className="mx-auto grid max-w-7xl gap-8 px-4 py-10 sm:px-6 md:grid-cols-[1fr_2fr] lg:px-8">
