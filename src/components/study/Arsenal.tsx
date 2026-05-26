@@ -74,14 +74,28 @@ export default function Arsenal({ topicKey, topicTitle, practiceQuestionCount, t
           {(related.length ? related : ["Meaning", "Institutions", "Current affairs"]).map((branch) => (
             <Link
               key={`${topicKey}-${branch}`}
-              href={`/study?search=${encodeURIComponent(branch)}`}
+              href={looksLikeTopicKey(branch) ? `/study/${branch}` : `/study?search=${encodeURIComponent(branch)}`}
               className="min-h-11 rounded-full border border-slate-200 bg-slate-50 px-4 py-2 text-sm font-black text-[#1a2744] transition hover:border-[#f97316] hover:text-[#f97316]"
             >
-              {branch}
+              {formatTopicLabel(branch)}
             </Link>
           ))}
         </div>
       </section>
     </div>
   );
+}
+
+function looksLikeTopicKey(value: string) {
+  return /^[a-z0-9]+(?:_[a-z0-9]+)+$/.test(value);
+}
+
+function formatTopicLabel(value: string) {
+  if (!looksLikeTopicKey(value)) return value;
+  return value
+    .replace(/^gs(\d)_/, "GS$1 ")
+    .replace(/^csat_/, "CSAT ")
+    .replace(/^essay_/, "Essay ")
+    .replace(/_/g, " ")
+    .replace(/\b\w/g, (char) => char.toUpperCase());
 }

@@ -1,5 +1,5 @@
 # Captain Handoff - ClearUPSC
-## Status: All 8 Master Plan Prompts Complete
+## Status: Phase 6 Complete - Scale And Performance
 
 ## Product State
 - Live site: https://clearupsc.vercel.app
@@ -10,11 +10,12 @@
 
 ## Core Course Layer
 - 1196 UPSC topics with structured notes
-- 5980 real factual MCQs with plausible distractors and explanations
+- 10000 real factual MCQs with plausible distractors and explanations
 - 565 official UPSC Mains PYQs imported from UPSC-Star
 - 10 full Prelims mock tests with 100 questions each
-- Study flow: Get It, Learn It, Memorise It, Revise It, Read It, Prove It
+- Study flow: Get It, Learn It, Memorise It, Quick Recall, Revise It, Arsenal, Read It, Prove It
 - Mark Complete & Continue moves users to the next topic
+- Every topic now has 3 connected topic suggestions in structured_notes.connected_topics
 
 ## Completed Master Plan Prompts
 1. DONE - Personalized study sequence from onboarding
@@ -66,6 +67,26 @@
 - Current affairs flashcard creation
 - Mock test question mappings
 - Vercel auto-deploy from GitHub main branch
+- Mobile bottom navigation and dark theme polish across main pages
+- Dynamic SEO metadata for study pages
+- Lazy loading on heavy study steps: Quick Recall, Arsenal and Prove It
+- Question bank expansion script: scripts/codex-expand-questions.mjs
+- Topic connection script: scripts/codex-add-topic-connections.mjs
+
+## Latest Phase 6 Results
+- MCQ expansion completed successfully:
+  - Starting MCQs: 5980
+  - Added MCQs: 4020
+  - Final MCQs: 10000
+  - Added options: 16080
+  - Failed topics: 0
+- Topic connection map completed successfully:
+  - Topics updated: 1196
+  - Each topic has 3 connected topic keys
+  - Arsenal now links connected topic keys directly to /study/[topicKey]
+- Verification:
+  - npm run lint passed
+  - npm run build passed
 
 ## What Remains
 1. Payments

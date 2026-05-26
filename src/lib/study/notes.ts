@@ -24,6 +24,7 @@ export interface StructuredTopicNotes {
   ncert_coverage: string[];
   prelims_traps: string[];
   mains_angles: string[];
+  connected_topics: string[];
 }
 
 export function parseStructuredNotes(raw: unknown, fallback: { title: string; wikiSummary?: string | null }): StructuredTopicNotes {
@@ -75,6 +76,7 @@ function normalizeJsonNotes(value: unknown, fallback: { title: string; wikiSumma
     ncert_coverage: normalizeStringList(record.ncert_coverage, extractCoverage(full, title), 12),
     prelims_traps: normalizeStringList(record.prelims_traps, extractPrelimsTraps(full), 10),
     mains_angles: normalizeStringList(record.mains_angles, extractMainsAngles(full), 10),
+    connected_topics: normalizeStringList(record.connected_topics, [], 6),
   };
 }
 
@@ -99,6 +101,7 @@ function notesFromPlainText(text: string, fallback: { title: string; wikiSummary
     ncert_coverage: extractCoverage(full, title),
     prelims_traps: extractPrelimsTraps(full),
     mains_angles: extractMainsAngles(full),
+    connected_topics: [],
   };
 }
 
@@ -117,6 +120,7 @@ function emptyNotes(title: string, wikiSummary?: string | null): StructuredTopic
     ncert_coverage: [`Understand the basic meaning of ${title}.`, "Read the mapped NCERT chapter or source."],
     prelims_traps: ["Watch for extreme words and mismatched institutions."],
     mains_angles: ["Define the topic, explain why it matters, add one example, and conclude with a way forward."],
+    connected_topics: [],
   };
 }
 
