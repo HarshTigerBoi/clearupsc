@@ -1,5 +1,6 @@
 import { createClient } from "@/lib/supabase/server";
 import { hasSupabaseConfig } from "@/lib/supabase/config";
+import { buildPersonalizedWeekPlan, generatePersonalizedTopicSequence } from "@/lib/study/personalized-plan";
 import { SYLLABUS } from "@/data/syllabus";
 import { PYQS } from "@/data/pyqs";
 import type {
@@ -588,12 +589,13 @@ async function autoFlagWeakTopic(userId: string, subject: string) {
 
 export async function getDashboardStats(userId: string): Promise<UserStats> {
   const supabase = await createClient();
-  const [{ progress }, plan, flashcards, history, planName] = await Promise.all([
+  const [{ progress }, plan, flashcards, history, planName, profile] = await Promise.all([
     getSyllabusProgress(userId),
     getTodayPlan(userId),
     getDueFlashcards(userId),
     getAnswerHistory(userId),
     getCurrentPlan(userId),
+    getUserProfile(userId),
   ]);
 
   const topics = await getTopicsFromDb();
@@ -606,14 +608,32 @@ export async function getDashboardStats(userId: string): Promise<UserStats> {
   const weakAreas = await getWeakTopicProgress(userId, topics, needsRevision);
 
   const { data: streak } = await supabase.from("user_streaks").select("current_streak").eq("user_id", userId).maybeSingle();
+  const { count: mockCount } = await supabase
+    .from("mock_test_attempts")
+    .select("id", { count: "exact", head: true })
+    .eq("user_id", userId)
+    .eq("status", "evaluated");
+  const { data: lastMock } = await supabase
+    .from("mock_test_attempts")
+    .select("total_score")
+    .eq("user_id", userId)
+    .eq("status", "evaluated")
+    .order("submitted_at", { ascending: false })
+    .limit(1)
+    .maybeSingle();
+  const mockTrend = (mockCount ?? 0) === 0
+    ? "Start your first mock"
+    : lastMock?.total_score
+      ? `Last score: ${Number(lastMock.total_score).toFixed(0)}/200`
+      : "No trend yet";
 
   return {
     plan: planName,
-    nextAction: buildNextAction(progress, topics, flashcards.length, studied),
+    nextAction: buildNextAction(progress, topics, flashcards.length, studied, profile),
     syllabusCompletion: Math.round((completed / topics.length) * 100),
     currentStreak: Number(streak?.current_streak ?? 0),
     cardsDue: flashcards.length,
-    mockScoreTrend: "No trend yet",
+    mockScoreTrend: mockTrend,
     weakAreas,
     todayTasks: plan.tasks,
     recentScores: history.map((item) => item.score).filter((score) => score > 0).slice(0, 4),
@@ -647,18 +667,33 @@ async function getWeakTopicProgress(
   return weakAreas.length ? weakAreas : fallback.slice(0, 5);
 }
 
-function buildNextAction(progress: TopicProgressRecord[], topics: Awaited<ReturnType<typeof getTopicsFromDb>>, cardsDue: number, studiedCount: number): UserStats["nextAction"] {
+type OnboardingProfile = Awaited<ReturnType<typeof getUserProfile>>;
+
+function buildNextAction(
+  progress: TopicProgressRecord[],
+  topics: Awaited<ReturnType<typeof getTopicsFromDb>>,
+  cardsDue: number,
+  studiedCount: number,
+  profile: OnboardingProfile,
+): UserStats["nextAction"] {
+  const personalized = generatePersonalizedTopicSequence({ profile, topics, progress });
+  const personalizedTopic = topics.find((topic) => topic.key === personalized.nextTopicKey);
+
+  // Brand-new user with no progress
   if (!progress.length) {
     return {
       title: "Start Your First Topic",
-      subtitle: "Begin with Judiciary because it unlocks constitutional thinking, rights, courts and current affairs across GS2.",
-      buttonLabel: "Start Judiciary",
-      href: "/study/gs2_polity_judiciary",
-      topicTitle: "Judiciary",
+      subtitle: personalizedTopic
+        ? `${personalized.reason}. This topic will give you a strong entry point into the UPSC syllabus.`
+        : "Begin with Judiciary because it unlocks constitutional thinking, rights, courts and current affairs across GS2.",
+      buttonLabel: "Start Studying",
+      href: personalizedTopic ? `/study/${personalizedTopic.key}` : "/study/gs2_polity_judiciary",
+      topicTitle: personalizedTopic?.title ?? "Judiciary",
       stepLabel: "Step 1: Get It",
     };
   }
 
+  // Resume in-progress topic
   const inProgress = [...progress]
     .filter((item) => item.status === "in_progress")
     .sort((a, b) => new Date(b.last_studied_at ?? 0).getTime() - new Date(a.last_studied_at ?? 0).getTime())[0];
@@ -675,7 +710,8 @@ function buildNextAction(progress: TopicProgressRecord[], topics: Awaited<Return
     };
   }
 
-  if (cardsDue > 0) {
+  // Flashcard recall (but only if user has studied 3+ topics, so new users aren't confused by starter cards)
+  if (cardsDue > 0 && studiedCount >= 3) {
     return {
       title: "Revise Before You Forget",
       subtitle: `${cardsDue} flashcard${cardsDue === 1 ? "" : "s"} are due now. Clear recall first so today's study does not leak away.`,
@@ -685,6 +721,7 @@ function buildNextAction(progress: TopicProgressRecord[], topics: Awaited<Return
     };
   }
 
+  // Mock test suggestion after sufficient coverage
   if (studiedCount >= 20) {
     return {
       title: "Take a Mock Test",
@@ -694,18 +731,13 @@ function buildNextAction(progress: TopicProgressRecord[], topics: Awaited<Return
     };
   }
 
-  const started = new Set(progress.map((item) => item.topic_key));
-  const nextHistoryTopic =
-    topics.find((topic) => topic.subject === "GS1" && topic.key.includes("history") && !started.has(topic.key)) ??
-    topics.find((topic) => topic.subject === "GS1" && !started.has(topic.key)) ??
-    topics.find((topic) => !started.has(topic.key));
-
+  // Personalised next topic
   return {
     title: "Study Next Topic",
-    subtitle: "Build steady coverage by taking the next untouched GS1 History topic before adding new practice pressure.",
+    subtitle: `${personalized.reason}. Consistent daily progress beats cramming every time.`,
     buttonLabel: "Open Next Topic",
-    href: nextHistoryTopic ? `/study/${nextHistoryTopic.key}` : "/study",
-    topicTitle: nextHistoryTopic?.title ?? "Study Course",
+    href: personalizedTopic ? `/study/${personalizedTopic.key}` : "/study",
+    topicTitle: personalizedTopic?.title ?? "Study Course",
     stepLabel: "Step 1: Get It",
   };
 }
@@ -730,6 +762,10 @@ export async function completeOnboarding(userId: string, profile: UserProfile) {
   );
   if (error) throw new ProductDataError("Could not save onboarding profile.");
 
+  const topics = await getTopicsFromDb();
+  const { progress } = await getSyllabusProgress(userId);
+  const weekPlan = buildPersonalizedWeekPlan({ profile, topics, progress });
+
   for (let day = 0; day < 7; day += 1) {
     const date = new Date(Date.now() + day * 24 * 60 * 60 * 1000).toISOString().slice(0, 10);
     const { data: plan } = await supabase
@@ -738,11 +774,16 @@ export async function completeOnboarding(userId: string, profile: UserProfile) {
       .select("id")
       .single();
     if (plan?.id) {
-      await supabase.from("study_plan_tasks").insert([
-        { plan_id: plan.id, topic_key: day % 2 === 0 ? "gs2_polity_constitution" : "gs3_economy_inclusive_growth", task_type: "read", duration_minutes: 60 },
-        { plan_id: plan.id, topic_key: profile.weakSubjects[0] ? inferWeakTopicKey(profile.weakSubjects[0]) : "gs1_history_modern", task_type: "revise", duration_minutes: 45 },
-        { plan_id: plan.id, topic_key: "current_affairs", task_type: "current_affairs", duration_minutes: 30 },
-      ]);
+      const dayTasks = weekPlan[day] ?? weekPlan[0]!;
+      await supabase.from("study_plan_tasks").delete().eq("plan_id", plan.id);
+      await supabase.from("study_plan_tasks").insert(
+        dayTasks.map((task) => ({
+          plan_id: plan.id,
+          topic_key: task.topicKey,
+          task_type: task.taskType,
+          duration_minutes: task.durationMinutes,
+        })),
+      );
     }
   }
 

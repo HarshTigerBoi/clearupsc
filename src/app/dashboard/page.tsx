@@ -7,7 +7,8 @@ import { ArrowRight, Brain, CheckCircle2, Flame, PenLine, Repeat, Target } from 
 import { Bar, BarChart, Line, LineChart, ResponsiveContainer, Tooltip, XAxis, YAxis } from "recharts";
 import { PageHeader } from "@/components/layout/PageHeader";
 import ProductShell from "@/components/product/ProductShell";
-import type { UserStats } from "@/types";
+import { generatePersonalizedTopicSequence, type PersonalizationProfile } from "@/lib/study/personalized-plan";
+import type { Topic, TopicProgressRecord, TopicStatus, UserStats } from "@/types";
 
 const quickActions = [
   { href: "/planner", label: "Open today's plan", helper: "Study without deciding again", icon: Target },
@@ -17,12 +18,15 @@ const quickActions = [
 
 export default function DashboardPage() {
   const [guestProgress, setGuestProgress] = useState<Record<string, { status?: string; last_score?: number | null; mistakes_count?: number; updated_at?: string }>>({});
+  const [guestProfile, setGuestProfile] = useState<PersonalizationProfile>(null);
 
   useEffect(() => {
     try {
       setGuestProgress(JSON.parse(window.localStorage.getItem("clearupsc_guest_topic_progress") || "{}"));
+      setGuestProfile(JSON.parse(window.localStorage.getItem("clearupsc_guest_onboarding") || "null"));
     } catch {
       setGuestProgress({});
+      setGuestProfile(null);
     }
   }, []);
 
@@ -35,7 +39,19 @@ export default function DashboardPage() {
     },
   });
 
-  const stats = useMemo(() => mergeGuestStats(statsQuery.data, guestProgress), [guestProgress, statsQuery.data]);
+  const topicsQuery = useQuery({
+    queryKey: ["study", "topics"],
+    queryFn: async () => {
+      const response = await fetch("/api/study/topics");
+      if (!response.ok) throw new Error("Topics unavailable");
+      return ((await response.json()) as { topics: Topic[] }).topics;
+    },
+  });
+
+  const stats = useMemo(
+    () => mergeGuestStats(statsQuery.data, guestProgress, guestProfile, topicsQuery.data ?? []),
+    [guestProfile, guestProgress, statsQuery.data, topicsQuery.data],
+  );
   const analyticsQuery = useQuery({
     queryKey: ["user", "analytics"],
     queryFn: async () => {
@@ -196,10 +212,25 @@ export default function DashboardPage() {
   );
 }
 
-function mergeGuestStats(stats: UserStats | undefined, progress: Record<string, { status?: string; last_score?: number | null; mistakes_count?: number; updated_at?: string }>) {
+function mergeGuestStats(
+  stats: UserStats | undefined,
+  progress: Record<string, { status?: string; last_score?: number | null; mistakes_count?: number; updated_at?: string }>,
+  profile: PersonalizationProfile,
+  topics: Topic[],
+) {
   if (!stats) return stats;
   const entries = Object.entries(progress);
-  if (!entries.length) return stats;
+  const progressRecords: TopicProgressRecord[] = entries.map(([topicKey, item]) => ({
+    topic_key: topicKey,
+    status: normaliseGuestStatus(item.status),
+    last_score: item.last_score ?? undefined,
+    mistakes_count: item.mistakes_count ?? 0,
+    last_studied_at: item.updated_at ?? null,
+  }));
+  const personalized = topics.length ? generatePersonalizedTopicSequence({ profile, topics, progress: progressRecords }) : null;
+  const personalizedTopic = personalized?.nextTopicKey ? topics.find((topic) => topic.key === personalized.nextTopicKey) : null;
+
+  if (!entries.length && !personalizedTopic) return stats;
 
   const completed = entries.filter(([, item]) => item.status === "completed" || item.status === "done").length;
   const inProgress = entries
@@ -229,6 +260,15 @@ function mergeGuestStats(stats: UserStats | undefined, progress: Record<string, 
           topicTitle: inProgress[0].replace(/^gs\d?_?/, "").replaceAll("_", " "),
           stepLabel: "Resume study",
         }
+      : personalizedTopic
+        ? {
+            title: completed > 0 ? "Study Next Topic" : "Start Your First Topic",
+            subtitle: `${personalized?.reason ?? "Following your personalized UPSC sequence"}. Guest progress is saved in this browser.`,
+            buttonLabel: completed > 0 ? "Open Next Topic" : "Start Studying",
+            href: `/study/${personalizedTopic.key}`,
+            topicTitle: personalizedTopic.title,
+            stepLabel: "Step 1: Get It",
+          }
       : completed > 0
         ? {
             title: "Study Next Topic",
@@ -240,6 +280,11 @@ function mergeGuestStats(stats: UserStats | undefined, progress: Record<string, 
           }
         : stats.nextAction,
   } satisfies UserStats;
+}
+
+function normaliseGuestStatus(value: string | undefined): TopicStatus {
+  if (value === "done" || value === "completed" || value === "in_progress" || value === "needs_revision" || value === "not_started") return value;
+  return "not_started";
 }
 
 function NextActionCard({ stats }: { stats: UserStats }) {
