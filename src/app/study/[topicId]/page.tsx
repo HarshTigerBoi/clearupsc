@@ -1,6 +1,6 @@
 "use client";
 
-import { useEffect, useMemo, useState } from "react";
+import { useEffect, useMemo, useRef, useState } from "react";
 import Link from "next/link";
 import { useRouter } from "next/navigation";
 import { motion } from "framer-motion";
@@ -82,6 +82,7 @@ export default function StudyTopicPage({ params }: { params: { topicId: string }
   const [actionPanel, setActionPanel] = useState<"flashcard" | "note" | null>(null);
   const [flashcard, setFlashcard] = useState({ question: "", answer: "" });
   const [note, setNote] = useState({ title: "", content: "" });
+  const sessionStartedAt = useRef(Date.now());
 
   const query = useQuery({
     queryKey: ["study-topic", params.topicId],
@@ -94,10 +95,11 @@ export default function StudyTopicPage({ params }: { params: { topicId: string }
 
   const markStudied = useMutation({
     mutationFn: async () => {
+      const timeSpentSeconds = Math.max(1, Math.round((Date.now() - sessionStartedAt.current) / 1000));
       const response = await fetch(`/api/syllabus/${params.topicId}`, {
         method: "PATCH",
         headers: { "Content-Type": "application/json" },
-        body: JSON.stringify({ status: "completed" }),
+        body: JSON.stringify({ status: "completed", time_spent_seconds: timeSpentSeconds }),
       });
       if (!response.ok) throw new Error("Could not mark topic studied");
     },
@@ -142,6 +144,10 @@ export default function StudyTopicPage({ params }: { params: { topicId: string }
     },
     onError: () => setNotice("Sign in first, then notes will save to your workspace."),
   });
+
+  useEffect(() => {
+    sessionStartedAt.current = Date.now();
+  }, [params.topicId]);
 
   useEffect(() => {
     const updateFromScroll = () => {

@@ -221,11 +221,12 @@ export async function getSyllabusProgress(userId: string) {
   };
 }
 
-export async function updateTopicProgress(userId: string, topicKey: string, status: TopicProgressRecord["status"]) {
+export async function updateTopicProgress(userId: string, topicKey: string, status: TopicProgressRecord["status"], timeSpentSeconds = 0) {
   const supabase = await createClient();
   const topics = await getTopicsFromDb();
   const topic = topics.find((item) => item.key === topicKey);
   if (!topic) throw new ProductDataError("Topic not found.", 404);
+  const safeSeconds = Math.max(0, Math.round(timeSpentSeconds));
   const { data, error } = await supabase
     .from("topic_progress")
     .upsert(
@@ -235,11 +236,12 @@ export async function updateTopicProgress(userId: string, topicKey: string, stat
         status,
         confidence_score: status === "completed" || status === "done" ? 80 : status === "needs_revision" ? 35 : 50,
         last_studied_at: status === "not_started" ? null : new Date().toISOString(),
+        time_spent_seconds: safeSeconds,
         updated_at: new Date().toISOString(),
       },
       { onConflict: "user_id,topic_key" },
     )
-    .select("topic_key,status,confidence_score,last_studied_at")
+    .select("topic_key,status,confidence_score,last_studied_at,time_spent_seconds")
     .single();
   if (error || !data) throw new ProductDataError("Could not update topic progress.");
   return data;
