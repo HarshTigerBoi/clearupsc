@@ -182,6 +182,15 @@ export interface InterviewQuestion {
 
 export interface UserStats {
   plan: PlanName;
+  nextAction: {
+    title: string;
+    subtitle: string;
+    buttonLabel: string;
+    href: string;
+    topicTitle?: string;
+    stepLabel?: string;
+    cardCount?: number;
+  };
   syllabusCompletion: number;
   currentStreak: number;
   cardsDue: number;

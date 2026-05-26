@@ -16,6 +16,14 @@ function guestStats() {
   const today = new Intl.DateTimeFormat("en-CA", { timeZone: "Asia/Kolkata" }).format(new Date());
   return {
     plan: "free",
+    nextAction: {
+      title: "Start Your First Topic",
+      subtitle: "Begin with Judiciary because it gives you the fastest entry into GS2 Polity, rights, courts and current affairs.",
+      buttonLabel: "Start Judiciary",
+      href: "/study/gs2_polity_judiciary",
+      topicTitle: "Judiciary",
+      stepLabel: "Step 1: Get It",
+    },
     syllabusCompletion: 0,
     currentStreak: 0,
     cardsDue: 3,

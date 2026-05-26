@@ -570,6 +570,7 @@ export async function getDashboardStats(userId: string): Promise<UserStats> {
 
   const topics = await getTopicsFromDb();
   const completed = progress.filter((item) => item.status === "completed" || item.status === "done").length;
+  const studied = progress.filter((item) => item.status !== "not_started").length;
   const needsRevision = progress.filter((item) => item.status === "needs_revision").map((item) => {
     const topic = topics.find((candidate) => candidate.key === item.topic_key);
     return topic?.title ?? item.topic_key;
@@ -579,6 +580,7 @@ export async function getDashboardStats(userId: string): Promise<UserStats> {
 
   return {
     plan: planName,
+    nextAction: buildNextAction(progress, topics, flashcards.length, studied),
     syllabusCompletion: Math.round((completed / topics.length) * 100),
     currentStreak: Number(streak?.current_streak ?? 0),
     cardsDue: flashcards.length,
@@ -586,6 +588,69 @@ export async function getDashboardStats(userId: string): Promise<UserStats> {
     weakAreas: needsRevision.slice(0, 4),
     todayTasks: plan.tasks,
     recentScores: history.map((item) => item.score).filter((score) => score > 0).slice(0, 4),
+  };
+}
+
+function buildNextAction(progress: TopicProgressRecord[], topics: Awaited<ReturnType<typeof getTopicsFromDb>>, cardsDue: number, studiedCount: number): UserStats["nextAction"] {
+  if (!progress.length) {
+    return {
+      title: "Start Your First Topic",
+      subtitle: "Begin with Judiciary because it unlocks constitutional thinking, rights, courts and current affairs across GS2.",
+      buttonLabel: "Start Judiciary",
+      href: "/study/gs2_polity_judiciary",
+      topicTitle: "Judiciary",
+      stepLabel: "Step 1: Get It",
+    };
+  }
+
+  const inProgress = [...progress]
+    .filter((item) => item.status === "in_progress")
+    .sort((a, b) => new Date(b.last_studied_at ?? 0).getTime() - new Date(a.last_studied_at ?? 0).getTime())[0];
+
+  if (inProgress) {
+    const topic = topics.find((candidate) => candidate.key === inProgress.topic_key);
+    return {
+      title: "Continue Where You Left Off",
+      subtitle: "You already opened this topic. Resume the learning flow instead of starting another loose thread.",
+      buttonLabel: "Continue Topic",
+      href: `/study/${inProgress.topic_key}`,
+      topicTitle: topic?.title ?? inProgress.topic_key.replaceAll("_", " "),
+      stepLabel: "Step 2: Learn It",
+    };
+  }
+
+  if (cardsDue > 0) {
+    return {
+      title: "Revise Before You Forget",
+      subtitle: `${cardsDue} flashcard${cardsDue === 1 ? "" : "s"} are due now. Clear recall first so today's study does not leak away.`,
+      buttonLabel: "Review Flashcards",
+      href: "/flashcards",
+      cardCount: cardsDue,
+    };
+  }
+
+  if (studiedCount >= 20) {
+    return {
+      title: "Take a Mock Test",
+      subtitle: "You have studied 20+ topics. It is time to convert coverage into exam temperament and weak-area data.",
+      buttonLabel: "Start Mock Test",
+      href: "/prelims/mock-tests",
+    };
+  }
+
+  const started = new Set(progress.map((item) => item.topic_key));
+  const nextHistoryTopic =
+    topics.find((topic) => topic.subject === "GS1" && topic.key.includes("history") && !started.has(topic.key)) ??
+    topics.find((topic) => topic.subject === "GS1" && !started.has(topic.key)) ??
+    topics.find((topic) => !started.has(topic.key));
+
+  return {
+    title: "Study Next Topic",
+    subtitle: "Build steady coverage by taking the next untouched GS1 History topic before adding new practice pressure.",
+    buttonLabel: "Open Next Topic",
+    href: nextHistoryTopic ? `/study/${nextHistoryTopic.key}` : "/study",
+    topicTitle: nextHistoryTopic?.title ?? "Study Course",
+    stepLabel: "Step 1: Get It",
   };
 }
 
