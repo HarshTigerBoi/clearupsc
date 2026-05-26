@@ -41,6 +41,30 @@ export default function CurrentAffairsPage() {
     onSuccess: () => setMessage("Added to notes."),
     onError: () => setMessage("Apply the latest Supabase schema to enable saved notes."),
   });
+  const addFlashcard = useMutation({
+    mutationFn: async (item: CurrentAffair) => {
+      const payload = {
+        title: item.title,
+        prelimsHook: item.prelimsHook || item.upscAngle || item.summary,
+        mainsAngle: item.mainsAngle,
+        staticLink: item.staticLink,
+      };
+      const response = await fetch("/api/current-affairs/flashcard", {
+        method: "POST",
+        headers: { "Content-Type": "application/json" },
+        body: JSON.stringify(payload),
+      });
+      const data = (await response.json()) as { guest?: boolean; error?: string };
+      if (data.error) throw new Error(data.error);
+      if (data.guest) {
+        const current = JSON.parse(window.localStorage.getItem("clearupsc_guest_flashcards") || "[]");
+        window.localStorage.setItem("clearupsc_guest_flashcards", JSON.stringify([{ topic_key: item.staticLink || "current_affairs", question: `Current affairs hook: ${item.title}`, answer: payload.prelimsHook, created_at: new Date().toISOString() }, ...current]));
+      }
+      return data;
+    },
+    onSuccess: (data) => setMessage(data.guest ? "Flashcard saved on this device." : "Added to flashcards."),
+    onError: () => setMessage("Could not add flashcard right now."),
+  });
   const quiz = useMemo(() => {
     return items.slice(0, 5).map((item, index) => {
       const correct = item.tags[0] ?? "GS2";
@@ -74,22 +98,43 @@ export default function CurrentAffairsPage() {
         </div>
         <div className="mt-6 space-y-4">
           {items.map((item) => (
-            <article key={item.title} className="rounded-2xl border border-slate-200 bg-white p-5 shadow-sm">
+            <article key={item.title} className="rounded-2xl border border-slate-800 bg-[#0f172a] p-5 text-white shadow-sm">
               <div className="flex flex-wrap items-center gap-2">
-                <span className="rounded-full bg-[#1a2744] px-3 py-1 text-xs font-bold text-white">{item.date}</span>
+                <span className="rounded-full bg-white/10 px-3 py-1 text-xs font-bold text-white">{item.date}</span>
                 {item.tags.map((tag) => (
                   <span key={tag} className="rounded-full bg-orange-100 px-3 py-1 text-xs font-bold text-orange-700">{tag}</span>
                 ))}
+                {item.source ? <span className="rounded-full bg-slate-800 px-3 py-1 text-xs font-bold text-slate-200">{item.source}</span> : null}
               </div>
-              <h2 className="mt-4 text-2xl font-black text-[#1a2744]">{item.title}</h2>
-              <p className="mt-3 text-sm leading-6 text-slate-700">{item.summary}</p>
-              <div className="mt-4 rounded-2xl bg-slate-50 p-4">
-                <p className="text-sm font-bold text-[#1a2744]">UPSC angle</p>
-                <p className="mt-1 text-sm leading-6 text-slate-500">{item.upscAngle}</p>
+              <h2 className="mt-4 break-words text-2xl font-black text-white">{item.title}</h2>
+              <p className="mt-3 text-sm leading-6 text-slate-300">{item.summary}</p>
+              <div className="mt-4 rounded-2xl bg-white/5 p-4">
+                <p className="text-sm font-black text-[#f97316]">UPSC Angle</p>
+                <p className="mt-1 text-sm leading-6 text-slate-100">{item.upscAngle || "Link this development to the relevant GS paper and implementation challenge."}</p>
               </div>
-              <div className="mt-4 flex flex-wrap gap-2">
-                <button onClick={() => addNote.mutate(item)} className="min-h-11 rounded-full bg-[#1a2744] px-4 text-sm font-black text-white">Add to Notes</button>
-                <a href="/flashcards" className="inline-flex min-h-11 items-center rounded-full bg-orange-100 px-4 text-sm font-black text-orange-700">Add Flashcard</a>
+              <div className="mt-3 rounded-2xl border border-orange-300/40 bg-orange-500/10 p-4">
+                <p className="text-sm font-black text-orange-200">Prelims Hook</p>
+                <p className="mt-1 text-sm leading-6 text-orange-50">{item.prelimsHook || "Identify the institution, scheme, data point or ministry in the headline."}</p>
+              </div>
+              <div className="mt-3 rounded-2xl bg-white/5 p-4">
+                <p className="text-sm font-black text-[#f97316]">Mains Angle</p>
+                <p className="mt-1 text-sm leading-6 text-slate-100">{item.mainsAngle || item.upscAngle || "Use this as an example in a 150-word answer with context, mechanism and challenge."}</p>
+              </div>
+              <div className="mt-4 flex flex-col gap-2 sm:flex-row sm:flex-wrap">
+                {item.staticLink ? (
+                  <Link href={`/study/${item.staticLink}`} className="inline-flex min-h-11 items-center justify-center rounded-full bg-white px-4 text-sm font-black text-[#1a2744]">
+                    Related Topic
+                  </Link>
+                ) : null}
+                {item.sourceUrl ? (
+                  <a href={item.sourceUrl} target="_blank" rel="noreferrer" className="inline-flex min-h-11 items-center justify-center rounded-full bg-white/10 px-4 text-sm font-black text-white ring-1 ring-white/10">
+                    Source
+                  </a>
+                ) : null}
+                <button onClick={() => addNote.mutate(item)} className="min-h-11 rounded-full bg-white/10 px-4 text-sm font-black text-white ring-1 ring-white/10">Add to Notes</button>
+                <button onClick={() => addFlashcard.mutate(item)} disabled={addFlashcard.isPending} className="min-h-11 rounded-full bg-[#f97316] px-4 text-sm font-black text-white disabled:opacity-60">
+                  {addFlashcard.isPending ? "Adding..." : "Add to Flashcard"}
+                </button>
               </div>
             </article>
           ))}

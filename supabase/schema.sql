@@ -183,6 +183,10 @@ create table if not exists public.current_affairs (
 
 alter table public.current_affairs add column if not exists category text;
 alter table public.current_affairs add column if not exists source text;
+alter table public.current_affairs add column if not exists upsc_angle text;
+alter table public.current_affairs add column if not exists static_link text;
+alter table public.current_affairs add column if not exists prelims_hook text;
+alter table public.current_affairs add column if not exists mains_angle text;
 
 create table if not exists public.pyq_questions (
   id uuid primary key default gen_random_uuid(),

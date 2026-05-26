@@ -140,6 +140,12 @@ export interface CurrentAffair {
   tags: string[];
   summary: string;
   upscAngle: string;
+  sourceUrl?: string | null;
+  source?: string | null;
+  category?: string | null;
+  staticLink?: string | null;
+  prelimsHook?: string | null;
+  mainsAngle?: string | null;
 }
 
 export interface MockTest {

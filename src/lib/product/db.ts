@@ -1,5 +1,6 @@
 import { createClient } from "@/lib/supabase/server";
 import { hasSupabaseConfig } from "@/lib/supabase/config";
+import { enrichCurrentAffairFallback } from "@/lib/current-affairs/enrichment";
 import { buildPersonalizedWeekPlan, generatePersonalizedTopicSequence } from "@/lib/study/personalized-plan";
 import { SYLLABUS } from "@/data/syllabus";
 import { PYQS } from "@/data/pyqs";
@@ -967,19 +968,38 @@ function inferWeakTopicKey(subject: string) {
 
 export async function getCurrentAffairsFromDb() {
   const supabase = await createClient();
-  const { data, error } = await supabase
+  const enriched = await supabase
     .from("current_affairs")
-    .select("date,title,summary,tags,upsc_relevance")
+    .select("date,title,summary,tags,upsc_relevance,upsc_angle,static_link,prelims_hook,mains_angle,source_url,category,source")
     .order("date", { ascending: false })
     .limit(14);
+
+  const legacy = enriched.error
+    ? await supabase
+      .from("current_affairs")
+      .select("date,title,summary,tags,upsc_relevance,source_url,category,source")
+      .order("date", { ascending: false })
+      .limit(14)
+    : null;
+  const data = enriched.error ? legacy?.data : enriched.data;
+  const error = enriched.error ? legacy?.error : enriched.error;
   if (error) throw new ProductDataError("Could not load current affairs.");
-  return (data ?? []).map((item) => ({
-    date: String(item.date),
-    title: String(item.title),
-    tags: Array.isArray(item.tags) ? item.tags.map(String) : [],
-    summary: String(item.summary),
-    upscAngle: String(item.upsc_relevance ?? ""),
-  }));
+  return (data ?? []).map((item) => {
+    const fallback = enrichCurrentAffairFallback(item);
+    return {
+      date: String(item.date),
+      title: String(item.title),
+      tags: Array.isArray(item.tags) ? item.tags.map(String) : [],
+      summary: String(item.summary),
+      upscAngle: String("upsc_angle" in item && item.upsc_angle ? item.upsc_angle : item.upsc_relevance ?? fallback.upscAngle),
+      sourceUrl: item.source_url ? String(item.source_url) : null,
+      source: item.source ? String(item.source) : null,
+      category: item.category ? String(item.category) : null,
+      staticLink: "static_link" in item && item.static_link ? String(item.static_link) : fallback.staticLink,
+      prelimsHook: "prelims_hook" in item && item.prelims_hook ? String(item.prelims_hook) : fallback.prelimsHook,
+      mainsAngle: "mains_angle" in item && item.mains_angle ? String(item.mains_angle) : fallback.mainsAngle,
+    };
+  });
 }
 
 export async function getUserProfile(userId: string) {
