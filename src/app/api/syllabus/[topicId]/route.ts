@@ -5,6 +5,9 @@ import { ProductDataError, requireProductUser, updateTopicProgress } from "@/lib
 const statusSchema = z.object({
   status: z.enum(["not_started", "in_progress", "completed", "needs_revision", "done"]),
   time_spent_seconds: z.number().int().min(0).optional(),
+  correct_count: z.number().int().min(0).optional(),
+  mistakes_count: z.number().int().min(0).optional(),
+  last_score: z.number().int().min(0).max(100).optional(),
 });
 
 export async function PATCH(request: Request, { params }: { params: { topicId: string } }) {
@@ -12,7 +15,14 @@ export async function PATCH(request: Request, { params }: { params: { topicId: s
   if (!parsed.success) return fail("Invalid syllabus status", 400, parsed.error.flatten());
   try {
     const { user } = await requireProductUser();
-    return ok(await updateTopicProgress(user.id, params.topicId, parsed.data.status, parsed.data.time_spent_seconds ?? 0));
+    return ok(
+      await updateTopicProgress(user.id, params.topicId, parsed.data.status, {
+        timeSpentSeconds: parsed.data.time_spent_seconds,
+        correctCount: parsed.data.correct_count,
+        mistakesCount: parsed.data.mistakes_count,
+        lastScore: parsed.data.last_score,
+      }),
+    );
   } catch (error) {
     if (error instanceof ProductDataError && error.status === 401) {
       return ok({
@@ -21,6 +31,9 @@ export async function PATCH(request: Request, { params }: { params: { topicId: s
         confidence_score: parsed.data.status === "completed" || parsed.data.status === "done" ? 80 : 50,
         last_studied_at: new Date().toISOString(),
         time_spent_seconds: parsed.data.time_spent_seconds ?? 0,
+        correct_count: parsed.data.correct_count ?? 0,
+        mistakes_count: parsed.data.mistakes_count ?? 0,
+        last_score: parsed.data.last_score ?? null,
         guest: true,
       });
     }

@@ -34,6 +34,9 @@ export interface TopicProgressRecord {
   status: TopicStatus;
   confidence_score?: number;
   last_studied_at?: string | null;
+  correct_count?: number;
+  mistakes_count?: number;
+  last_score?: number;
 }
 
 export interface PYQOption {
@@ -195,7 +198,7 @@ export interface UserStats {
   currentStreak: number;
   cardsDue: number;
   mockScoreTrend: string;
-  weakAreas: string[];
+  weakAreas: Array<{ topicKey: string; title: string; lastScore: number | null; mistakesCount: number }>;
   todayTasks: StudyPlanTask[];
   recentScores: number[];
 }

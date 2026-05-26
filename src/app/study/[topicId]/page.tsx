@@ -265,7 +265,7 @@ export default function StudyTopicPage({ params }: { params: { topicId: string }
             </StepSection>
 
             <StepSection id="prove-it" step="06" label="Prove It" title="Official + Pattern Questions" tone="white">
-              <QuestionPractice questions={data.quizQuestions} />
+              <QuestionPractice topicId={params.topicId} questions={data.quizQuestions} />
             </StepSection>
 
             <CompleteAndContinue
@@ -714,14 +714,38 @@ function NcertViewer({ ncerts, coverage }: { ncerts: NcertRef[]; coverage: strin
   );
 }
 
-function QuestionPractice({ questions }: { questions: QuizQuestion[] }) {
+function QuestionPractice({ topicId, questions }: { topicId: string; questions: QuizQuestion[] }) {
   const [answers, setAnswers] = useState<Record<string, string>>({});
+  const reportedScoreRef = useRef("");
   const answerable = questions.filter((question) => !question.reviewOnly && question.correct);
   const attempted = answerable.filter((question) => answers[question.id]).length;
-  const correct = answerable.filter((question) => answers[question.id] === question.correct).length;
+  const scoredAnswers = answerable
+    .filter((question) => answers[question.id])
+    .map((question) => ({ id: question.id, isCorrect: answers[question.id] === question.correct }));
+  const correct = scoredAnswers.filter((answer) => answer.isCorrect).length;
+  const mistakes = scoredAnswers.filter((answer) => !answer.isCorrect).length;
   const done = answerable.length > 0 && attempted === answerable.length;
   const score = answerable.length ? Math.round((correct / answerable.length) * 100) : 0;
   const chartData = [{ name: "Confidence", score }];
+
+  useEffect(() => {
+    if (!done) return;
+    const signature = `${topicId}:${correct}:${mistakes}:${score}`;
+    if (reportedScoreRef.current === signature) return;
+    reportedScoreRef.current = signature;
+    fetch(`/api/syllabus/${topicId}`, {
+      method: "PATCH",
+      headers: { "Content-Type": "application/json" },
+      body: JSON.stringify({
+        status: "in_progress",
+        correct_count: correct,
+        mistakes_count: mistakes,
+        last_score: score,
+      }),
+    }).catch(() => {
+      reportedScoreRef.current = "";
+    });
+  }, [correct, done, mistakes, score, topicId]);
 
   if (!questions.length) {
     return <div className="rounded-3xl bg-white p-6 text-sm text-slate-600 shadow-sm">Questions are being mapped for this topic.</div>;

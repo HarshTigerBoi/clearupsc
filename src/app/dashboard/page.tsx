@@ -107,12 +107,19 @@ export default function DashboardPage() {
                   <div className="space-y-6">
                     <div className="rounded-2xl border border-slate-200 bg-white p-5 shadow-sm">
                       <p className="text-sm font-bold uppercase tracking-[0.14em] text-[#f97316]">Weak areas</p>
-                      <div className="mt-4 flex flex-wrap gap-2">
+                      <div className="mt-4 grid gap-2">
                         {stats.weakAreas.length ? (
                           stats.weakAreas.map((area) => (
-                            <span key={area} className="rounded-full border border-red-200 bg-red-50 px-3 py-1 text-sm font-bold text-red-700">
-                              {area}
-                            </span>
+                            <Link
+                              key={area.topicKey}
+                              href={`/study/${area.topicKey}`}
+                              className="flex items-center justify-between gap-3 rounded-2xl border border-red-200 bg-red-50 px-4 py-3 text-sm font-bold text-red-800 hover:border-red-300"
+                            >
+                              <span>{area.title}</span>
+                              <span className="shrink-0 rounded-full bg-white px-3 py-1 text-xs font-black text-red-700">
+                                {area.lastScore === null ? "Unscored" : `${area.lastScore}%`}
+                              </span>
+                            </Link>
                           ))
                         ) : (
                           <p className="text-sm text-slate-500">No weak topics flagged yet.</p>

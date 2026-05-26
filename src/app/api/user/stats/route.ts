@@ -28,7 +28,11 @@ function guestStats() {
     currentStreak: 0,
     cardsDue: 3,
     mockScoreTrend: "Start your first mock",
-    weakAreas: ["Constitution & Polity", "Indian Economy", "Environment"],
+    weakAreas: [
+      { topicKey: "gs2_polity_judiciary", title: "Constitution & Polity", lastScore: null, mistakesCount: 0 },
+      { topicKey: "gs3_economy_basics", title: "Indian Economy", lastScore: null, mistakesCount: 0 },
+      { topicKey: "gs3_environment_climate_change", title: "Environment", lastScore: null, mistakesCount: 0 },
+    ],
     todayTasks: [
       { id: "guest-plan-1", topicKey: "gs3_economy", topicTitle: "Indian Economy - Overview", taskType: "read", durationMinutes: 45, completed: false, date: today },
       { id: "guest-plan-2", topicKey: "practice", topicTitle: "10-question UPSC sprint", taskType: "practice", durationMinutes: 20, completed: false, date: today },

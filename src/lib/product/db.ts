@@ -208,39 +208,65 @@ export async function completeTask(userId: string, taskId: string, completed: bo
 export async function getSyllabusProgress(userId: string) {
   const supabase = await createClient();
   const topics = await getTopicsFromDb();
-  const { data, error } = await supabase.from("topic_progress").select("topic_key,status,confidence_score,last_studied_at").eq("user_id", userId);
+  const enriched = await supabase.from("topic_progress").select("topic_key,status,confidence_score,last_studied_at,correct_count,mistakes_count,last_score").eq("user_id", userId);
+  const legacy = enriched.error
+    ? await supabase.from("topic_progress").select("topic_key,status,confidence_score,last_studied_at").eq("user_id", userId)
+    : null;
+  const data = enriched.error ? legacy?.data : enriched.data;
+  const error = enriched.error ? legacy?.error : enriched.error;
   if (error) throw new ProductDataError("Could not load syllabus progress.");
   return {
     topics,
-    progress: (data ?? []).map((row) => ({
-      topic_key: String(row.topic_key),
-      status: row.status as TopicProgressRecord["status"],
-      confidence_score: Number(row.confidence_score ?? 0),
-      last_studied_at: row.last_studied_at ? String(row.last_studied_at) : null,
-    })),
+    progress: (data ?? []).map((rawRow) => {
+      const row = rawRow as Record<string, unknown>;
+      return {
+        topic_key: String(row.topic_key),
+        status: row.status as TopicProgressRecord["status"],
+        confidence_score: Number(row.confidence_score ?? 0),
+        last_studied_at: row.last_studied_at ? String(row.last_studied_at) : null,
+        correct_count: Number(row.correct_count ?? 0),
+        mistakes_count: Number(row.mistakes_count ?? 0),
+        last_score: row.last_score === null || row.last_score === undefined ? undefined : Number(row.last_score),
+      };
+    }),
   };
 }
 
-export async function updateTopicProgress(userId: string, topicKey: string, status: TopicProgressRecord["status"], timeSpentSeconds = 0) {
+interface TopicProgressMetrics {
+  timeSpentSeconds?: number;
+  correctCount?: number;
+  mistakesCount?: number;
+  lastScore?: number;
+}
+
+export async function updateTopicProgress(
+  userId: string,
+  topicKey: string,
+  status: TopicProgressRecord["status"],
+  progressMetrics: number | TopicProgressMetrics = {},
+) {
   const supabase = await createClient();
   const topics = await getTopicsFromDb();
   const topic = topics.find((item) => item.key === topicKey);
   if (!topic) throw new ProductDataError("Topic not found.", 404);
-  const safeSeconds = Math.max(0, Math.round(timeSpentSeconds));
+  const metrics = typeof progressMetrics === "number" ? { timeSpentSeconds: progressMetrics } : progressMetrics;
+  const safeSeconds = metrics.timeSpentSeconds === undefined ? undefined : Math.max(0, Math.round(metrics.timeSpentSeconds));
+  const updatePayload: Record<string, unknown> = {
+    user_id: userId,
+    topic_key: topicKey,
+    status,
+    confidence_score: status === "completed" || status === "done" ? 80 : status === "needs_revision" ? 35 : 50,
+    last_studied_at: status === "not_started" ? null : new Date().toISOString(),
+    updated_at: new Date().toISOString(),
+  };
+  if (safeSeconds !== undefined) updatePayload.time_spent_seconds = safeSeconds;
+  if (metrics.correctCount !== undefined) updatePayload.correct_count = Math.max(0, Math.round(metrics.correctCount));
+  if (metrics.mistakesCount !== undefined) updatePayload.mistakes_count = Math.max(0, Math.round(metrics.mistakesCount));
+  if (metrics.lastScore !== undefined) updatePayload.last_score = Math.max(0, Math.min(100, Math.round(metrics.lastScore)));
+
   const { data, error } = await supabase
     .from("topic_progress")
-    .upsert(
-      {
-        user_id: userId,
-        topic_key: topicKey,
-        status,
-        confidence_score: status === "completed" || status === "done" ? 80 : status === "needs_revision" ? 35 : 50,
-        last_studied_at: status === "not_started" ? null : new Date().toISOString(),
-        time_spent_seconds: safeSeconds,
-        updated_at: new Date().toISOString(),
-      },
-      { onConflict: "user_id,topic_key" },
-    )
+    .upsert(updatePayload, { onConflict: "user_id,topic_key" })
     .select("topic_key,status,confidence_score,last_studied_at,time_spent_seconds")
     .single();
   if (error || !data) throw new ProductDataError("Could not update topic progress.");
@@ -575,8 +601,9 @@ export async function getDashboardStats(userId: string): Promise<UserStats> {
   const studied = progress.filter((item) => item.status !== "not_started").length;
   const needsRevision = progress.filter((item) => item.status === "needs_revision").map((item) => {
     const topic = topics.find((candidate) => candidate.key === item.topic_key);
-    return topic?.title ?? item.topic_key;
+    return { topicKey: item.topic_key, title: topic?.title ?? item.topic_key.replaceAll("_", " "), lastScore: item.last_score ?? null, mistakesCount: item.mistakes_count ?? 0 };
   });
+  const weakAreas = await getWeakTopicProgress(userId, topics, needsRevision);
 
   const { data: streak } = await supabase.from("user_streaks").select("current_streak").eq("user_id", userId).maybeSingle();
 
@@ -587,10 +614,37 @@ export async function getDashboardStats(userId: string): Promise<UserStats> {
     currentStreak: Number(streak?.current_streak ?? 0),
     cardsDue: flashcards.length,
     mockScoreTrend: "No trend yet",
-    weakAreas: needsRevision.slice(0, 4),
+    weakAreas,
     todayTasks: plan.tasks,
     recentScores: history.map((item) => item.score).filter((score) => score > 0).slice(0, 4),
   };
+}
+
+async function getWeakTopicProgress(
+  userId: string,
+  topics: Awaited<ReturnType<typeof getTopicsFromDb>>,
+  fallback: UserStats["weakAreas"],
+): Promise<UserStats["weakAreas"]> {
+  const supabase = await createClient();
+  const { data, error } = await supabase
+    .from("topic_progress")
+    .select("topic_key,last_score,mistakes_count")
+    .eq("user_id", userId)
+    .or("last_score.lt.60,mistakes_count.gt.2")
+    .order("mistakes_count", { ascending: false })
+    .limit(5);
+
+  if (error) return fallback.slice(0, 5);
+
+  const topicByKey = new Map(topics.map((topic) => [topic.key, topic.title]));
+  const weakAreas = (data ?? []).map((item) => ({
+    topicKey: String(item.topic_key),
+    title: topicByKey.get(String(item.topic_key)) ?? String(item.topic_key).replaceAll("_", " "),
+    lastScore: item.last_score === null || item.last_score === undefined ? null : Number(item.last_score),
+    mistakesCount: Number(item.mistakes_count ?? 0),
+  }));
+
+  return weakAreas.length ? weakAreas : fallback.slice(0, 5);
 }
 
 function buildNextAction(progress: TopicProgressRecord[], topics: Awaited<ReturnType<typeof getTopicsFromDb>>, cardsDue: number, studiedCount: number): UserStats["nextAction"] {
