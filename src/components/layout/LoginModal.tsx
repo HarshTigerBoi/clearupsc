@@ -42,7 +42,7 @@ export function LoginModal({ open, onClose }: { open: boolean; onClose: () => vo
 
     if (error) {
       setStatus("error");
-      setMessage("Could not send magic link. Check Supabase keys and auth settings.");
+      setMessage(`Auth error: ${error?.message || error?.status || JSON.stringify(error)}`);
       return;
     }
 
