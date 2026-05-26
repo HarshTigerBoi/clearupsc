@@ -1,6 +1,17 @@
 import Link from "next/link";
+import { redirect } from "next/navigation";
+import { hasSupabaseConfig } from "@/lib/supabase/config";
+import { createClient } from "@/lib/supabase/server";
 
-export default function LandingPage() {
+export default async function LandingPage() {
+  if (hasSupabaseConfig()) {
+    const supabase = await createClient();
+    const {
+      data: { user },
+    } = await supabase.auth.getUser();
+    if (user) redirect("/dashboard");
+  }
+
   return (
     <section className="flex min-h-[calc(100vh-65px)] items-center justify-center bg-[#0a0a0a] px-4 text-white">
       <div className="mx-auto flex w-full max-w-4xl flex-col items-center text-center">

@@ -2,102 +2,165 @@
 
 import { useState } from "react";
 import { useRouter } from "next/navigation";
-import ProductShell from "@/components/product/ProductShell";
-import { Button } from "@/components/ui/button";
 
-const weakOptions = ["Modern History", "Polity", "Economy", "Environment", "CSAT", "Ethics"];
+const optionalSubjects = [
+  "Sociology",
+  "Political Science & IR",
+  "Anthropology",
+  "Geography",
+  "History",
+  "Public Administration",
+  "Philosophy",
+  "Psychology",
+  "Law",
+  "Mathematics",
+  "Commerce & Accountancy",
+  "Literature",
+  "Help me choose",
+];
 
 export default function OnboardingPage() {
   const router = useRouter();
   const [step, setStep] = useState(0);
+  const [saving, setSaving] = useState(false);
+  const [error, setError] = useState("");
   const [form, setForm] = useState({
-    attemptNumber: 1,
-    educationalBackground: "engineering",
-    dailyHoursAvailable: 6,
-    optionalSubject: "help me choose",
-    targetExamYear: 2027,
-    weakSubjects: ["Economy"],
-    strongSubjects: ["Polity"],
-    prelimsClearedBefore: false,
+    targetExamYear: 2026,
+    optionalSubject: "Help me choose",
+    dailyHoursAvailable: 4,
+    weakestPaper: "GS2",
+    currentLevel: "Beginner",
   });
 
   async function finish() {
-    await fetch("/api/onboarding/complete", {
+    setSaving(true);
+    setError("");
+    const response = await fetch("/api/onboarding/complete", {
       method: "POST",
       headers: { "Content-Type": "application/json" },
-      body: JSON.stringify(form),
+      body: JSON.stringify({
+        attemptNumber: form.currentLevel === "Advanced" ? 3 : form.currentLevel === "Intermediate" ? 2 : 1,
+        educationalBackground: form.currentLevel,
+        dailyHoursAvailable: form.dailyHoursAvailable,
+        optionalSubject: form.optionalSubject,
+        targetExamYear: form.targetExamYear,
+        weakSubjects: form.weakestPaper === "Equal" ? [] : [form.weakestPaper],
+        strongSubjects: form.weakestPaper === "Equal" ? ["Balanced GS"] : [],
+        prelimsClearedBefore: form.currentLevel === "Advanced",
+      }),
     });
+
+    if (!response.ok) {
+      setSaving(false);
+      setError("Sign in first, then onboarding can build your dashboard.");
+      return;
+    }
+
     router.push("/dashboard");
   }
 
   const screens = [
-    <Field key="attempt" title="Attempt number" helper="This controls plan intensity. First attempt gets more foundation time.">
-      {[1, 2, 3].map((value) => (
-        <Choice key={value} active={form.attemptNumber === value} onClick={() => setForm({ ...form, attemptNumber: value })}>{value === 3 ? "3rd+" : `${value}${value === 1 ? "st" : "nd"}`}</Choice>
-      ))}
-    </Field>,
-    <Field key="background" title="Academic background" helper="The app uses this for optional and answer examples.">
-      {["engineering", "arts", "science", "law", "commerce"].map((value) => (
-        <Choice key={value} active={form.educationalBackground === value} onClick={() => setForm({ ...form, educationalBackground: value })}>{value}</Choice>
-      ))}
-    </Field>,
-    <Field key="hours" title="Daily hours available" helper="The planner stays realistic instead of heroic.">
-      {[4, 6, 8, 10].map((value) => (
-        <Choice key={value} active={form.dailyHoursAvailable === value} onClick={() => setForm({ ...form, dailyHoursAvailable: value })}>{value}+ hours</Choice>
-      ))}
-    </Field>,
-    <Field key="optional" title="Optional subject" helper="You can change this later.">
-      {["help me choose", "Sociology", "PSIR", "Anthropology", "Geography"].map((value) => (
-        <Choice key={value} active={form.optionalSubject === value} onClick={() => setForm({ ...form, optionalSubject: value })}>{value}</Choice>
-      ))}
-    </Field>,
-    <Field key="weak" title="Weak areas" helper="These appear more often in plans, flashcards and mocks.">
-      {weakOptions.map((value) => (
-        <Choice
-          key={value}
-          active={form.weakSubjects.includes(value)}
-          onClick={() =>
-            setForm({
-              ...form,
-              weakSubjects: form.weakSubjects.includes(value) ? form.weakSubjects.filter((item) => item !== value) : [...form.weakSubjects, value],
-            })
-          }
-        >
-          {value}
-        </Choice>
-      ))}
-    </Field>,
+    <Question key="year" eyebrow="Step 1 of 5" title="When is your UPSC exam?">
+      <ChoiceGrid>
+        {[2026, 2027, 2028].map((year) => (
+          <Choice key={year} active={form.targetExamYear === year} onClick={() => setForm({ ...form, targetExamYear: year })}>
+            {year}
+          </Choice>
+        ))}
+      </ChoiceGrid>
+    </Question>,
+    <Question key="optional" eyebrow="Step 2 of 5" title="Which optional subject?">
+      <select
+        value={form.optionalSubject}
+        onChange={(event) => setForm({ ...form, optionalSubject: event.target.value })}
+        className="mt-6 min-h-14 w-full rounded-md border border-white/10 bg-white/5 px-4 text-sm font-black text-white outline-none focus:border-[#f97316]"
+      >
+        {optionalSubjects.map((subject) => (
+          <option key={subject} value={subject} className="bg-[#0a0a0a] text-white">
+            {subject}
+          </option>
+        ))}
+      </select>
+    </Question>,
+    <Question key="hours" eyebrow="Step 3 of 5" title="How many hours can you study daily?">
+      <ChoiceGrid>
+        {[2, 4, 6, 8].map((hours) => (
+          <Choice key={hours} active={form.dailyHoursAvailable === hours} onClick={() => setForm({ ...form, dailyHoursAvailable: hours })}>
+            {hours === 8 ? "8+" : hours}
+          </Choice>
+        ))}
+      </ChoiceGrid>
+    </Question>,
+    <Question key="weakest" eyebrow="Step 4 of 5" title="Which GS paper feels weakest?">
+      <ChoiceGrid>
+        {["GS1", "GS2", "GS3", "GS4", "Equal"].map((paper) => (
+          <Choice key={paper} active={form.weakestPaper === paper} onClick={() => setForm({ ...form, weakestPaper: paper })}>
+            {paper}
+          </Choice>
+        ))}
+      </ChoiceGrid>
+    </Question>,
+    <Question key="level" eyebrow="Step 5 of 5" title="What is your current level?">
+      <ChoiceGrid>
+        {["Beginner", "Intermediate", "Advanced"].map((level) => (
+          <Choice key={level} active={form.currentLevel === level} onClick={() => setForm({ ...form, currentLevel: level })}>
+            {level}
+          </Choice>
+        ))}
+      </ChoiceGrid>
+    </Question>,
   ];
 
   return (
-    <ProductShell>
-      <section className="mx-auto max-w-3xl px-4 py-10 sm:px-6 lg:px-8">
-        <div className="rounded-3xl border border-slate-200 bg-white p-6 shadow-sm">
-          <p className="text-sm font-black uppercase tracking-[0.2em] text-[#f97316]">Onboarding {step + 1}/5</p>
-          <div className="mt-5">{screens[step]}</div>
-          <div className="mt-8 flex justify-between">
-            <Button variant="outline" onClick={() => setStep((value) => Math.max(0, value - 1))}>Back</Button>
-            <Button onClick={() => (step === screens.length - 1 ? finish() : setStep((value) => value + 1))}>{step === screens.length - 1 ? "Build my dashboard" : "Next"}</Button>
-          </div>
+    <main className="grid min-h-[calc(100vh-65px)] place-items-center bg-[#0a0a0a] px-4 py-8 text-white">
+      <section className="w-full max-w-2xl rounded-2xl border border-white/10 bg-white/[0.03] p-5 shadow-2xl sm:p-8">
+        {screens[step]}
+        {error ? <p className="mt-5 rounded-md border border-red-500/30 bg-red-500/10 px-4 py-3 text-sm font-bold text-red-200">{error}</p> : null}
+        <div className="mt-9 flex items-center justify-between gap-3">
+          <button
+            type="button"
+            onClick={() => setStep((value) => Math.max(0, value - 1))}
+            className="min-h-12 rounded-md border border-white/10 px-5 text-sm font-black text-white transition hover:border-[#f97316] hover:text-[#f97316]"
+          >
+            Back
+          </button>
+          <button
+            type="button"
+            onClick={() => (step === screens.length - 1 ? finish() : setStep((value) => value + 1))}
+            disabled={saving}
+            className="min-h-12 rounded-md bg-[#f97316] px-5 text-sm font-black text-white transition hover:bg-[#ea580c] disabled:opacity-60"
+          >
+            {step === screens.length - 1 ? (saving ? "Saving..." : "Build Dashboard") : "Next"}
+          </button>
         </div>
       </section>
-    </ProductShell>
+    </main>
   );
 }
 
-function Field({ title, helper, children }: { title: string; helper: string; children: React.ReactNode }) {
+function Question({ eyebrow, title, children }: { eyebrow: string; title: string; children: React.ReactNode }) {
   return (
     <div>
-      <h1 className="text-3xl font-black text-[#1a2744]">{title}</h1>
-      <p className="mt-2 text-sm leading-6 text-slate-500">{helper}</p>
-      <div className="mt-6 grid gap-3 sm:grid-cols-2">{children}</div>
+      <p className="text-xs font-black uppercase tracking-[0.22em] text-[#f97316]">{eyebrow}</p>
+      <h1 className="mt-4 text-4xl font-black tracking-normal text-white sm:text-5xl">{title}</h1>
+      {children}
     </div>
   );
 }
 
+function ChoiceGrid({ children }: { children: React.ReactNode }) {
+  return <div className="mt-6 grid gap-3 sm:grid-cols-2">{children}</div>;
+}
+
 function Choice({ active, onClick, children }: { active: boolean; onClick: () => void; children: React.ReactNode }) {
   return (
-    <button onClick={onClick} className={`rounded-2xl border p-4 text-left text-sm font-black capitalize ${active ? "border-[#f97316] bg-orange-50 text-[#1a2744]" : "border-slate-200 text-slate-600 hover:bg-slate-50"}`}>
+    <button
+      type="button"
+      onClick={onClick}
+      className={`min-h-14 rounded-md border px-4 text-left text-sm font-black transition ${
+        active ? "border-[#f97316] bg-[#f97316] text-white" : "border-white/10 bg-white/5 text-zinc-300 hover:border-[#f97316] hover:text-white"
+      }`}
+    >
       {children}
     </button>
   );

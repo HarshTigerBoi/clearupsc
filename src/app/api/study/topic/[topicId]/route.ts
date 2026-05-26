@@ -32,7 +32,7 @@ export async function GET(_request: NextRequest, { params }: { params: { topicId
     const pyqs = await getTopicPyqs(supabase, String(topic.key), String(topic.subject));
     const notes = topic.structured_notes || defaultStructuredNotes(String(topic.title), String(topic.subject));
     const notesStructured = parseStructuredNotes(notes, { title: String(topic.title), wikiSummary: wiki?.summary ?? null });
-    const siblings = await getSiblingTopics(supabase, String(topic.key), String(topic.parent_key ?? ""), String(topic.subject));
+    const siblings = await getSiblingTopics(supabase, String(topic.key), String(topic.subject));
     const quizQuestions = buildQuizQuestions(pyqs, mcqs);
     const ncertRefs = normalizeNcertRefs(topic.ncert_refs, String(topic.key));
     const sources = normalizeSources(topic.govt_sources, String(topic.subject), String(topic.title));
@@ -124,14 +124,13 @@ async function getTopicPyqs(supabase: Awaited<ReturnType<typeof createClient>>, 
   return [];
 }
 
-async function getSiblingTopics(supabase: Awaited<ReturnType<typeof createClient>>, topicKey: string, parentKey: string, subject: string) {
-  let query = supabase
+async function getSiblingTopics(supabase: Awaited<ReturnType<typeof createClient>>, topicKey: string, subject: string) {
+  const query = supabase
     .from("topics")
     .select("key,title,subject,parent_key")
     .eq("subject", subject)
     .order("parent_key", { ascending: true })
     .order("title", { ascending: true });
-  if (parentKey) query = query.eq("parent_key", parentKey);
   const { data, error } = await query.limit(200);
   if (error || !data?.length) return { prev: null, next: null };
   const index = data.findIndex((item) => item.key === topicKey);

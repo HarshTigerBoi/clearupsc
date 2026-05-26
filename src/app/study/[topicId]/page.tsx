@@ -2,6 +2,7 @@
 
 import { useEffect, useMemo, useState } from "react";
 import Link from "next/link";
+import { useRouter } from "next/navigation";
 import { motion } from "framer-motion";
 import { Bar, BarChart, ResponsiveContainer, XAxis, YAxis } from "recharts";
 import { useMutation, useQuery } from "@tanstack/react-query";
@@ -74,8 +75,8 @@ const steps = [
 ] as const;
 
 export default function StudyTopicPage({ params }: { params: { topicId: string } }) {
+  const router = useRouter();
   const [activeStep, setActiveStep] = useState(0);
-  const [stepSixSeen, setStepSixSeen] = useState(false);
   const [notice, setNotice] = useState("");
   const [sessionStarted, setSessionStarted] = useState(false);
   const [actionPanel, setActionPanel] = useState<"flashcard" | "note" | null>(null);
@@ -100,7 +101,11 @@ export default function StudyTopicPage({ params }: { params: { topicId: string }
       });
       if (!response.ok) throw new Error("Could not mark topic studied");
     },
-    onSuccess: () => setNotice("Topic marked complete. Your syllabus progress has been updated."),
+    onSuccess: () => {
+      const nextKey = query.data?.nextTopic?.key;
+      setNotice(nextKey ? "Topic complete. Opening the next topic." : "Topic complete. Returning to dashboard.");
+      router.push(nextKey ? `/study/${nextKey}` : "/dashboard");
+    },
     onError: () => setNotice("Sign in first, then this will update your syllabus progress."),
   });
 
@@ -147,7 +152,6 @@ export default function StudyTopicPage({ params }: { params: { topicId: string }
         if (element.getBoundingClientRect().top <= 220) current = index;
       }
       setActiveStep(current);
-      if (current >= 5) setStepSixSeen(true);
     };
     const observer = new IntersectionObserver(
       (entries) => {
@@ -158,7 +162,6 @@ export default function StudyTopicPage({ params }: { params: { topicId: string }
         const index = steps.findIndex((step) => step.id === visible.target.id);
         if (index >= 0) {
           setActiveStep(index);
-          if (index >= 5) setStepSixSeen(true);
         }
       },
       { rootMargin: "-30% 0px -55% 0px", threshold: [0.15, 0.3, 0.5] },
@@ -259,6 +262,12 @@ export default function StudyTopicPage({ params }: { params: { topicId: string }
               <QuestionPractice questions={data.quizQuestions} />
             </StepSection>
 
+            <CompleteAndContinue
+              nextTopic={data.nextTopic}
+              pending={markStudied.isPending}
+              onComplete={() => markStudied.mutate()}
+            />
+
             <ActionPanel
               active={actionPanel}
               flashcard={flashcard}
@@ -290,16 +299,33 @@ export default function StudyTopicPage({ params }: { params: { topicId: string }
             Write Answer
           </Link>
         </div>
-        {stepSixSeen ? (
-          <button
-            onClick={() => markStudied.mutate()}
-            className="fixed bottom-28 right-4 z-40 inline-flex min-h-12 items-center gap-2 rounded-full bg-green-600 px-5 text-sm font-black text-white shadow-2xl md:bottom-24"
-          >
-            <CheckCircle2 className="h-4 w-4" /> Mark Topic Complete
-          </button>
-        ) : null}
       </main>
     </ProductShell>
+  );
+}
+
+function CompleteAndContinue({ nextTopic, pending, onComplete }: { nextTopic: TopicLink | null; pending: boolean; onComplete: () => void }) {
+  return (
+    <section className="rounded-[2rem] border border-green-200 bg-white p-5 shadow-sm sm:p-7">
+      <div className="flex flex-col gap-5 lg:flex-row lg:items-center lg:justify-between">
+        <div>
+          <p className="text-xs font-black uppercase tracking-[0.18em] text-green-700">Study flow complete</p>
+          <h2 className="mt-2 text-3xl font-black text-[#1a2744]">Mark Complete & Continue</h2>
+          <p className="mt-2 max-w-2xl text-sm leading-6 text-slate-600">
+            Save this topic as completed in your progress tracker and move straight to {nextTopic ? nextTopic.title : "your dashboard"}.
+          </p>
+        </div>
+        <button
+          type="button"
+          onClick={onComplete}
+          disabled={pending}
+          className="inline-flex min-h-12 shrink-0 items-center justify-center gap-2 rounded-full bg-green-600 px-5 text-sm font-black text-white shadow-sm transition hover:bg-green-700 disabled:opacity-60"
+        >
+          <CheckCircle2 className="h-4 w-4" />
+          {pending ? "Saving..." : "Mark Complete & Continue"}
+        </button>
+      </div>
+    </section>
   );
 }
 

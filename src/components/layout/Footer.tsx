@@ -22,7 +22,7 @@ const links = [
 export default function Footer() {
   const pathname = usePathname();
 
-  if (pathname === "/") return null;
+  if (pathname === "/" || pathname === "/onboarding") return null;
 
   return (
     <footer className="bg-[#1a2744] text-white">
