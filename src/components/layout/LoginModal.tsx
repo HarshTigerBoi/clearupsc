@@ -31,9 +31,13 @@ export function LoginModal({ open, onClose }: { open: boolean; onClose: () => vo
 
     const supabase = createClient();
     const origin = window.location.origin;
+    const next = new URLSearchParams(window.location.search).get("next");
+    const callbackUrl = next?.startsWith("/")
+      ? `${origin}/auth/callback?next=${encodeURIComponent(next)}`
+      : `${origin}/auth/callback`;
     const { error } = await supabase.auth.signInWithOtp({
       email,
-      options: { emailRedirectTo: `${origin}/auth/callback` },
+      options: { emailRedirectTo: callbackUrl },
     });
 
     if (error) {
