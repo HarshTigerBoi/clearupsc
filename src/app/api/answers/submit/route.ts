@@ -1,6 +1,7 @@
 import { z } from "zod";
 import { fail, ok } from "@/lib/api/response";
 import { evaluateAnswer } from "@/lib/answer-writing/evaluator";
+import { awardUserXp } from "@/lib/gamification/xp";
 import { ProductDataError, requireProductUser, storeAnswerEvaluation } from "@/lib/product/db";
 
 const answerSchema = z.object({
@@ -14,9 +15,10 @@ export async function POST(request: Request) {
   const parsed = answerSchema.safeParse(await request.json().catch(() => ({})));
   if (!parsed.success) return fail("Invalid answer submission", 400, parsed.error.flatten());
   try {
-    const { user } = await requireProductUser();
+    const { supabase, user } = await requireProductUser();
     const evaluation = evaluateAnswer(parsed.data.answerText, { questionText: parsed.data.questionText });
     const saved = await storeAnswerEvaluation(user.id, parsed.data, evaluation);
+    const xp = await awardUserXp(supabase, user.id, "answer_submitted");
     return ok({
       submission: {
         id: saved.id,
@@ -27,6 +29,7 @@ export async function POST(request: Request) {
         submittedAt: saved.submittedAt,
       },
       evaluation,
+      xp,
       persisted: true,
       aiMode: "deterministic-rubric",
     });

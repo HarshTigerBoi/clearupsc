@@ -7,6 +7,7 @@ import { Clock, Loader2, PenLine } from "lucide-react";
 import { PageHeader } from "@/components/layout/PageHeader";
 import ProductShell from "@/components/product/ProductShell";
 import { Button } from "@/components/ui/button";
+import { addGuestXp } from "@/lib/gamification/xp";
 import type { AnswerEvaluation } from "@/types";
 
 const questions = [
@@ -63,7 +64,10 @@ export default function AnswerWritingPracticePage() {
         setError(data.error ?? "Evaluation is unavailable right now.");
         return;
       }
-      if (data.evaluation) setEvaluation(data.evaluation);
+      if (data.evaluation) {
+        addGuestXp("answer_submitted");
+        setEvaluation(data.evaluation);
+      }
     } finally {
       setLoading(false);
       setRunning(false);

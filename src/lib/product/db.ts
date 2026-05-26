@@ -588,6 +588,35 @@ export async function finishMockAttempt(userId: string, testId: string, answers:
     subjectMap.set(question.subject, current);
   }
 
+  const attemptedRows = questions
+    .filter((question) => answers[question.id])
+    .map((question) => ({
+      user_id: userId,
+      question_id: question.id,
+      selected_option: answers[question.id],
+      is_correct: answers[question.id] === question.correct,
+      time_taken_seconds: Math.max(0, Math.round((timeTakenMinutes * 60) / Math.max(1, questions.length))),
+    }));
+  if (attemptedRows.length) {
+    await supabase.from("mcq_attempts").insert(attemptedRows);
+  }
+  const mistakeFlashcards = questions
+    .filter((question) => answers[question.id] && answers[question.id] !== question.correct && question.topicKey)
+    .slice(0, 20)
+    .map((question) => ({
+      user_id: userId,
+      topic_key: question.topicKey,
+      question: `Why was this mock answer wrong? ${question.question}`.slice(0, 400),
+      answer: question.explanation,
+      next_review_at: new Date().toISOString(),
+      interval_days: 1,
+      ease_factor: 2.5,
+      repetitions: 0,
+    }));
+  if (mistakeFlashcards.length) {
+    await supabase.from("flashcard_queue").insert(mistakeFlashcards);
+  }
+
   const unattempted = questions.length - correct - wrong;
   const score = Number((correct * 2 - wrong * 0.67).toFixed(2));
   const attemptPayload = {
@@ -750,13 +779,14 @@ async function autoFlagWeakTopic(userId: string, subject: string) {
 
 export async function getDashboardStats(userId: string): Promise<UserStats> {
   const supabase = await createClient();
-  const [{ progress }, plan, flashcards, history, planName, profile] = await Promise.all([
+  const [{ progress }, plan, flashcards, history, planName, profile, totalXp] = await Promise.all([
     getSyllabusProgress(userId),
     getTodayPlan(userId),
     getDueFlashcards(userId),
     getAnswerHistory(userId),
     getCurrentPlan(userId),
     getUserProfile(userId),
+    getUserTotalXp(userId),
   ]);
 
   const topics = await getTopicsFromDb();
@@ -802,7 +832,15 @@ export async function getDashboardStats(userId: string): Promise<UserStats> {
     weakAreas,
     todayTasks: plan.tasks,
     recentScores: history.map((item) => item.score).filter((score) => score > 0).slice(0, 4),
+    totalXp,
   };
+}
+
+async function getUserTotalXp(userId: string) {
+  const supabase = await createClient();
+  const { data, error } = await supabase.from("user_profiles").select("total_xp").eq("user_id", userId).maybeSingle();
+  if (error) return 0;
+  return Number(data?.total_xp ?? 0);
 }
 
 async function getWeakTopicProgress(

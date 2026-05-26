@@ -2,11 +2,13 @@
 
 import Link from "next/link";
 import { useState } from "react";
-import { BarChart3, Menu, X, type LucideIcon } from "lucide-react";
+import { AlertTriangle, BarChart3, Menu, Shuffle, X, type LucideIcon } from "lucide-react";
 
 const menuItems: Array<{ href: string; label: string; icon?: LucideIcon }> = [
   { href: "/study", label: "Study" },
   { href: "/practice", label: "Practice" },
+  { href: "/practice/mixed", label: "Mixed Practice", icon: Shuffle },
+  { href: "/practice/mistakes", label: "Mistake Journal", icon: AlertTriangle },
   { href: "/prelims/mock-tests", label: "Mock Tests" },
   { href: "/current-affairs", label: "Current Affairs" },
   { href: "/planner", label: "Planner" },

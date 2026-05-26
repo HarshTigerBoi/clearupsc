@@ -1,5 +1,6 @@
 import { z } from "zod";
 import { fail, ok } from "@/lib/api/response";
+import { awardUserXp } from "@/lib/gamification/xp";
 import { ProductDataError, requireProductUser, updateTopicProgress } from "@/lib/product/db";
 
 const statusSchema = z.object({
@@ -18,9 +19,8 @@ export async function PATCH(request: Request, { params }: { params: { topicId: s
   const parsed = statusSchema.safeParse(await request.json().catch(() => ({})));
   if (!parsed.success) return fail("Invalid syllabus status", 400, parsed.error.flatten());
   try {
-    const { user } = await requireProductUser();
-    return ok(
-      await updateTopicProgress(user.id, params.topicId, parsed.data.status, {
+    const { supabase, user } = await requireProductUser();
+    const progress = await updateTopicProgress(user.id, params.topicId, parsed.data.status, {
         timeSpentSeconds: parsed.data.time_spent_seconds,
         correctCount: parsed.data.correct_count,
         mistakesCount: parsed.data.mistakes_count,
@@ -29,8 +29,16 @@ export async function PATCH(request: Request, { params }: { params: { topicId: s
         easeFactor: parsed.data.ease_factor,
         reviewIntervalDays: parsed.data.review_interval_days,
         reviewCount: parsed.data.review_count,
-      }),
-    );
+      });
+    const xp = [];
+    if (parsed.data.status === "completed" || parsed.data.status === "done") {
+      xp.push(await awardUserXp(supabase, user.id, "topic_completed"));
+    }
+    if (typeof parsed.data.last_score === "number") {
+      if (parsed.data.last_score >= 100) xp.push(await awardUserXp(supabase, user.id, "prove_it_perfect"));
+      else if (parsed.data.last_score >= 60) xp.push(await awardUserXp(supabase, user.id, "prove_it_solid"));
+    }
+    return ok({ ...progress, xp });
   } catch (error) {
     if (error instanceof ProductDataError && error.status === 401) {
       return ok({

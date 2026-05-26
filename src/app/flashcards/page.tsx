@@ -5,6 +5,7 @@ import { useMutation, useQuery } from "@tanstack/react-query";
 import { PageHeader } from "@/components/layout/PageHeader";
 import ProductShell from "@/components/product/ProductShell";
 import { Button } from "@/components/ui/button";
+import { addGuestXp } from "@/lib/gamification/xp";
 import type { Flashcard } from "@/types";
 
 const qualityLabels = [
@@ -45,6 +46,7 @@ export default function FlashcardsPage() {
   const review = useCallback(async (quality: number) => {
     if (!card) return;
     await reviewMutation.mutateAsync({ id: card.id, quality });
+    if (quality >= 4) addGuestXp("flashcard_correct");
     setDone((current) => current + 1);
     setIndex((current) => current + 1);
     setFlipped(false);

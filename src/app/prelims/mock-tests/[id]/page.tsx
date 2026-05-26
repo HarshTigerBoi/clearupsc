@@ -5,6 +5,7 @@ import { useEffect, useState } from "react";
 import { Clock, Loader2 } from "lucide-react";
 import ProductShell from "@/components/product/ProductShell";
 import { Button } from "@/components/ui/button";
+import { addGuestXp } from "@/lib/gamification/xp";
 import type { MockResult, PYQQuestion } from "@/types";
 
 type PublicQuestion = Omit<PYQQuestion, "correct" | "explanation">;
@@ -60,7 +61,10 @@ export default function ActiveMockPage({ params }: { params: { id: string } }) {
     });
     const data = (await response.json()) as { result?: MockResult; error?: string };
     if (data.error) setError(data.error);
-    if (data.result) setResult(data.result);
+    if (data.result) {
+      addGuestXp("mock_completed");
+      setResult(data.result);
+    }
   }
 
   async function addRepairPlanToStudyPlan() {

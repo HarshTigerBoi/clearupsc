@@ -1,5 +1,6 @@
 import { z } from "zod";
 import { fail, ok } from "@/lib/api/response";
+import { awardUserXp } from "@/lib/gamification/xp";
 import { buildMockRepairPlan, finishMockAttempt, getQuestionPool, ProductDataError, requireProductUser } from "@/lib/product/db";
 
 const submitSchema = z.object({
@@ -12,8 +13,9 @@ export async function POST(request: Request, { params }: { params: { id: string 
   const parsed = submitSchema.safeParse(await request.json().catch(() => ({})));
   if (!parsed.success) return fail("Invalid mock submission", 400, parsed.error.flatten());
   try {
-    const { user } = await requireProductUser();
-    return ok({ result: await finishMockAttempt(user.id, params.id, parsed.data.answers, parsed.data.timeTakenMinutes, parsed.data.attemptId) });
+    const { supabase, user } = await requireProductUser();
+    const result = await finishMockAttempt(user.id, params.id, parsed.data.answers, parsed.data.timeTakenMinutes, parsed.data.attemptId);
+    return ok({ result, xp: await awardUserXp(supabase, user.id, "mock_completed") });
   } catch (error) {
     if (error instanceof ProductDataError && error.status === 401) {
       return ok({ result: await scoreGuestMock(params.id, parsed.data.answers) });

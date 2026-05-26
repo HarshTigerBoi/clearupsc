@@ -38,6 +38,7 @@ function guestStats() {
       { id: "guest-plan-2", topicKey: "practice", topicTitle: "10-question UPSC sprint", taskType: "practice", durationMinutes: 20, completed: false, date: today },
     ],
     recentScores: [],
+    totalXp: 0,
     guest: true,
   };
 }

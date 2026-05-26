@@ -6,6 +6,7 @@ import {
   FilePenLine,
   Home,
   LineChart,
+  AlertTriangle,
   MessageSquareText,
   NotebookPen,
   Newspaper,
@@ -13,6 +14,7 @@ import {
   LibraryBig,
   ScrollText,
   ShieldCheck,
+  Shuffle,
   UserRound,
 } from "lucide-react";
 
@@ -22,6 +24,8 @@ const items = [
   { href: "/syllabus", label: "Syllabus", icon: BookOpenCheck },
   { href: "/study", label: "Study Course", icon: LibraryBig },
   { href: "/study/ncert", label: "NCERT Library", icon: LibraryBig },
+  { href: "/practice/mixed", label: "Mixed Practice", icon: Shuffle },
+  { href: "/practice/mistakes", label: "Mistakes", icon: AlertTriangle },
   { href: "/answer-writing/practice", label: "Answer Writing", icon: FilePenLine },
   { href: "/flashcards", label: "Flashcards", icon: Repeat },
   { href: "/revision", label: "Revision", icon: CalendarCheck },

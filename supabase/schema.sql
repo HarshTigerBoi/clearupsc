@@ -20,6 +20,7 @@ create table if not exists public.user_profiles (
   prelims_cleared_before boolean default false,
   weak_subjects text[] default '{}',
   strong_subjects text[] default '{}',
+  total_xp int default 0,
   onboarding_complete boolean default false,
   created_at timestamptz default now(),
   updated_at timestamptz default now()

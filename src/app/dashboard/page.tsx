@@ -6,7 +6,9 @@ import { useQuery } from "@tanstack/react-query";
 import { ArrowRight, Brain, CheckCircle2, Flame, PenLine, Repeat, Target } from "lucide-react";
 import { Bar, BarChart, Line, LineChart, ResponsiveContainer, Tooltip, XAxis, YAxis } from "recharts";
 import { PageHeader } from "@/components/layout/PageHeader";
+import XPBar from "@/components/gamification/XPBar";
 import ProductShell from "@/components/product/ProductShell";
+import { readGuestXp } from "@/lib/gamification/xp";
 import { generatePersonalizedTopicSequence, type PersonalizationProfile } from "@/lib/study/personalized-plan";
 import type { Topic, TopicProgressRecord, TopicStatus, UserStats } from "@/types";
 
@@ -95,6 +97,7 @@ export default function DashboardPage() {
         {stats ? (
           <>
             <NextActionCard stats={stats} />
+            <XPBar totalXp={stats.totalXp ?? 0} />
             <Link
               href="/dashboard/analytics"
               className="mt-3 inline-flex min-h-11 items-center gap-2 rounded-md px-1 text-sm font-black text-[#f97316] transition hover:text-[#ea580c]"
@@ -254,7 +257,8 @@ function mergeGuestStats(
   const personalized = topics.length ? generatePersonalizedTopicSequence({ profile, topics, progress: progressRecords }) : null;
   const personalizedTopic = personalized?.nextTopicKey ? topics.find((topic) => topic.key === personalized.nextTopicKey) : null;
 
-  if (!entries.length && !personalizedTopic) return stats;
+  const guestXp = readGuestXp();
+  if (!entries.length && !personalizedTopic) return guestXp ? { ...stats, totalXp: Math.max(stats.totalXp ?? 0, guestXp) } : stats;
 
   const completed = entries.filter(([, item]) => item.status === "completed" || item.status === "done").length;
   const studied = entries.filter(([, item]) => normaliseGuestStatus(item.status) !== "not_started").length;
@@ -280,6 +284,7 @@ function mergeGuestStats(
     ...stats,
     syllabusCompletion: Math.max(stats.syllabusCompletion, Math.round((completed / 1196) * 100)),
     weakAreas: weakAreas.length ? weakAreas : stats.weakAreas,
+    totalXp: Math.max(stats.totalXp ?? 0, guestXp),
     nextAction: inProgress
       ? {
           title: "Continue Where You Left Off",

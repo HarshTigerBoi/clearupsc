@@ -11,6 +11,7 @@ import ProductShell from "@/components/product/ProductShell";
 import Arsenal from "@/components/study/Arsenal";
 import QuickRecall from "@/components/study/QuickRecall";
 import { LoadingSkeleton } from "@/components/ui/state";
+import { addGuestXp } from "@/lib/gamification/xp";
 import { findNcertUrlForText } from "@/lib/study/ncert-urls";
 import { calculateNextReview, qualityFromScore } from "@/lib/study/spaced-repetition";
 
@@ -157,6 +158,7 @@ export default function StudyTopicPage({ params }: { params: { topicId: string }
       if (!response.ok) return;
     },
     onSuccess: () => {
+      addGuestXp("topic_completed");
       const nextKey = query.data?.nextTopic?.key;
       setNotice(nextKey ? "Topic complete. Opening the next topic." : "Topic complete. Returning to dashboard.");
       router.push(nextKey ? `/study/${nextKey}` : "/dashboard");
@@ -803,6 +805,7 @@ function NcertViewer({ ncerts, coverage }: { ncerts: NcertRef[]; coverage: strin
 function QuestionPractice({ topicId, questions, progress }: { topicId: string; questions: QuizQuestion[]; progress: TopicPayload["progress"] }) {
   const [answers, setAnswers] = useState<Record<string, string>>({});
   const reportedScoreRef = useRef("");
+  const reportedMistakesRef = useRef<Record<string, boolean>>({});
   const answerable = questions.filter((question) => !question.reviewOnly && question.correct);
   const attempted = answerable.filter((question) => answers[question.id]).length;
   const scoredAnswers = answerable
@@ -825,6 +828,8 @@ function QuestionPractice({ topicId, questions, progress }: { topicId: string; q
     const easeFactor = Number(progress?.ease_factor ?? guestProgress.ease_factor ?? 2.5);
     const reviewCount = Number(progress?.review_count ?? guestProgress.review_count ?? 0);
     const review = calculateNextReview(quality, currentInterval, easeFactor);
+    if (score >= 100) addGuestXp("prove_it_perfect");
+    else if (score >= 60) addGuestXp("prove_it_solid");
     saveGuestProgress(topicId, {
       status: "in_progress",
       correct_count: correct,
@@ -852,6 +857,46 @@ function QuestionPractice({ topicId, questions, progress }: { topicId: string; q
       reportedScoreRef.current = "";
     });
   }, [correct, done, mistakes, progress?.ease_factor, progress?.review_count, progress?.review_interval_days, score, topicId]);
+
+  async function chooseAnswer(question: QuizQuestion, selectedOption: string) {
+    if (answers[question.id]) return;
+    setAnswers((current) => ({ ...current, [question.id]: selectedOption }));
+    if (question.reviewOnly || !question.correct || selectedOption === question.correct || reportedMistakesRef.current[question.id]) return;
+    reportedMistakesRef.current[question.id] = true;
+    const selected = question.options.find((option) => option.label === selectedOption);
+    const correctOption = question.options.find((option) => option.label === question.correct);
+    saveGuestCollection("clearupsc_guest_mistakes", {
+      questionId: question.id,
+      topicKey: topicId,
+      question: question.question,
+      selectedOption,
+      selectedText: selected?.text ?? "",
+      correctOption: question.correct,
+      correctText: correctOption?.text ?? "",
+      explanation: question.explanation,
+      source: question.source,
+      attemptedAt: new Date().toISOString(),
+    });
+    saveGuestCollection("clearupsc_guest_flashcards", {
+      topic_key: topicId,
+      question: `Why was this wrong? ${question.question}`,
+      answer: question.explanation,
+      source: "prove_it_mistake",
+    });
+    await fetch("/api/mistakes", {
+      method: "POST",
+      headers: { "Content-Type": "application/json" },
+      body: JSON.stringify({
+        questionId: question.id,
+        selectedOption,
+        correctOption: question.correct,
+        isCorrect: false,
+        topicKey: topicId,
+        question: question.question,
+        explanation: question.explanation,
+      }),
+    }).catch(() => {});
+  }
 
   if (!questions.length) {
     return <div className="rounded-3xl bg-white p-6 text-sm text-slate-600 shadow-sm">Questions are being mapped for this topic.</div>;
@@ -890,7 +935,7 @@ function QuestionPractice({ topicId, questions, progress }: { topicId: string; q
                 return (
                     <button
                       key={`${question.id}-${option.label}`}
-                      onClick={() => setAnswers((current) => ({ ...current, [question.id]: option.label }))}
+                      onClick={() => chooseAnswer(question, option.label)}
                       className={`min-h-14 w-full rounded-2xl border px-4 py-3 text-left text-sm font-bold leading-6 transition sm:text-base ${
                       showCorrect
                         ? "border-green-300 bg-green-50 text-green-800"

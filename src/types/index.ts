@@ -221,4 +221,5 @@ export interface UserStats {
   weakAreas: Array<{ topicKey: string; title: string; lastScore: number | null; mistakesCount: number }>;
   todayTasks: StudyPlanTask[];
   recentScores: number[];
+  totalXp?: number;
 }
