@@ -6,6 +6,7 @@ export const XP_ACTIONS = {
   prove_it_solid: 25,
   flashcard_correct: 10,
   mixed_practice_complete: 30,
+  daily_challenge: 20,
   daily_streak: 20,
   answer_submitted: 40,
   mock_completed: 150,

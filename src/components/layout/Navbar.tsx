@@ -2,7 +2,7 @@
 
 import Link from "next/link";
 import { useState } from "react";
-import { AlertTriangle, BarChart3, Menu, Shuffle, X, type LucideIcon } from "lucide-react";
+import { AlertTriangle, BarChart3, Menu, ScrollText, Shuffle, X, type LucideIcon } from "lucide-react";
 
 const menuItems: Array<{ href: string; label: string; icon?: LucideIcon }> = [
   { href: "/study", label: "Study" },
@@ -16,6 +16,7 @@ const menuItems: Array<{ href: string; label: string; icon?: LucideIcon }> = [
   { href: "/dashboard/analytics", label: "My Analytics", icon: BarChart3 },
   { href: "/flashcards", label: "Flashcards" },
   { href: "/answer-writing/practice", label: "Answer Writing" },
+  { href: "/essay", label: "Essay Practice", icon: ScrollText },
   { href: "/interview", label: "Interview Prep" },
   { href: "/pricing", label: "Pricing" },
 ];

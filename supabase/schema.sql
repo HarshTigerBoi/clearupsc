@@ -21,6 +21,7 @@ create table if not exists public.user_profiles (
   weak_subjects text[] default '{}',
   strong_subjects text[] default '{}',
   total_xp int default 0,
+  streak_freezes_remaining int default 2,
   onboarding_complete boolean default false,
   created_at timestamptz default now(),
   updated_at timestamptz default now()
@@ -299,6 +300,13 @@ create table if not exists public.user_streaks (
   total_study_days int default 0
 );
 
+create table if not exists public.daily_challenges (
+  id uuid primary key default gen_random_uuid(),
+  date date not null unique,
+  question_id text not null,
+  created_at timestamptz default now()
+);
+
 create table if not exists public.user_badges (
   id uuid primary key default gen_random_uuid(),
   user_id uuid references auth.users(id) on delete cascade not null,
@@ -340,6 +348,7 @@ alter table public.mock_test_attempts enable row level security;
 alter table public.daf_entries enable row level security;
 alter table public.mock_interview_sessions enable row level security;
 alter table public.user_streaks enable row level security;
+alter table public.daily_challenges enable row level security;
 alter table public.user_badges enable row level security;
 alter table public.notifications enable row level security;
 
@@ -362,6 +371,7 @@ create policy "MCQ attempts own" on public.mcq_attempts for all using (auth.uid(
 create policy "DAF own" on public.daf_entries for all using (auth.uid() = user_id) with check (auth.uid() = user_id);
 create policy "Interview own" on public.mock_interview_sessions for all using (auth.uid() = user_id) with check (auth.uid() = user_id);
 create policy "Streaks own" on public.user_streaks for all using (auth.uid() = user_id) with check (auth.uid() = user_id);
+create policy "Daily challenges readable" on public.daily_challenges for select using (true);
 create policy "Badges own" on public.user_badges for select using (auth.uid() = user_id);
 create policy "Notifications own" on public.notifications for all using (auth.uid() = user_id) with check (auth.uid() = user_id);
 create policy "Essay own" on public.essay_submissions for all using (auth.uid() = user_id) with check (auth.uid() = user_id);

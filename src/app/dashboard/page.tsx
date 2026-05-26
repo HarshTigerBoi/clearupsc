@@ -5,6 +5,8 @@ import { useEffect, useMemo, useState } from "react";
 import { useQuery } from "@tanstack/react-query";
 import { ArrowRight, Brain, CheckCircle2, Flame, PenLine, Repeat, Target } from "lucide-react";
 import { Bar, BarChart, Line, LineChart, ResponsiveContainer, Tooltip, XAxis, YAxis } from "recharts";
+import DailyChallenge from "@/components/dashboard/DailyChallenge";
+import StreakCounter from "@/components/dashboard/StreakCounter";
 import { PageHeader } from "@/components/layout/PageHeader";
 import XPBar from "@/components/gamification/XPBar";
 import ProductShell from "@/components/product/ProductShell";
@@ -96,6 +98,8 @@ export default function DashboardPage() {
 
         {stats ? (
           <>
+            <DailyChallenge />
+            <StreakCounter fallbackStreak={stats.currentStreak} />
             <NextActionCard stats={stats} />
             <XPBar totalXp={stats.totalXp ?? 0} />
             <Link
