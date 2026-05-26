@@ -422,40 +422,82 @@ export async function getQuestionPool(testId: string): Promise<PYQQuestion[]> {
   const supabase = await createClient();
   const { data: test } = await supabase.from("mock_tests").select("test_type,duration_minutes").eq("id", testId).maybeSingle();
   const limit = test?.test_type === "prelims_full" ? 100 : Number(test?.duration_minutes ?? 20) >= 120 ? 80 : 30;
+
+  const { data: mapped } = await supabase
+    .from("mock_test_questions")
+    .select("question_order,questions(id,topic_key,question_text,year,tags,explanation,source_label,trap_type,question_options(option_label,option_text,is_correct))")
+    .eq("mock_test_id", testId)
+    .order("question_order", { ascending: true });
+
+  const mappedQuestions = (mapped ?? [])
+    .map((row) => mapDbQuestion((row.questions as unknown[] | undefined)?.[0] ?? row.questions))
+    .filter((item): item is PYQQuestion => Boolean(item));
+
+  if (mappedQuestions.length >= Math.min(limit, 10)) return mappedQuestions.slice(0, limit);
+
   const { data } = await supabase
     .from("questions")
-    .select("id,question_text,year,tags,explanation,source_label,trap_type,question_options(option_label,option_text,is_correct)")
+    .select("id,topic_key,question_text,year,tags,explanation,source_label,trap_type,question_options(option_label,option_text,is_correct)")
     .eq("question_type", "mcq")
     .not("explanation", "is", null)
     .limit(limit);
-  const dbQuestions = (data ?? []).map((row): PYQQuestion | null => {
-    const optionsRaw = row.question_options as Array<{ option_label?: string; option_text?: string; is_correct?: boolean }> | null;
-    if (!optionsRaw || optionsRaw.length < 4) return null;
-    const correct = optionsRaw.find((option) => option.is_correct)?.option_label;
-    const labels = ["A", "B", "C", "D"] as const;
-    if (!labels.includes(correct as (typeof labels)[number])) return null;
-    return {
-      id: String(row.id),
-      subject: inferSubject(row.tags),
-      year: Number(row.year ?? 2024),
-      question: String(row.question_text),
-      options: optionsRaw
-        .sort((a, b) => String(a.option_label).localeCompare(String(b.option_label)))
-        .map((option) => ({ label: option.option_label as "A" | "B" | "C" | "D", text: String(option.option_text) })),
-      correct: correct as "A" | "B" | "C" | "D",
-      explanation: String(row.explanation ?? "Read the statement carefully, connect it with syllabus demand, and remove options that are absolute or conceptually disconnected."),
-      sourceLabel: String(row.source_label ?? "ClearUPSC Pattern"),
-      sourceType: String(row.source_label ?? "").toLowerCase().includes("official") ? "official_pyq" : "clearupsc_original",
-      trapType: String(row.trap_type ?? "Concept trap"),
-    };
-  }).filter((item): item is PYQQuestion => Boolean(item));
+  const dbQuestions = (data ?? []).map((row) => mapDbQuestion(row)).filter((item): item is PYQQuestion => Boolean(item));
 
   if (dbQuestions.length >= Math.min(limit, 10)) return dbQuestions.slice(0, limit);
   return testId.includes("2") ? PYQS.filter((question) => ["Economy", "Polity"].includes(question.subject)).slice(0, 10) : PYQS.slice(0, 10);
 }
 
-function inferSubject(tags: unknown): PYQQuestion["subject"] {
+function mapDbQuestion(row: unknown): PYQQuestion | null {
+  const question = row as {
+    id?: unknown;
+    topic_key?: unknown;
+    question_text?: unknown;
+    year?: unknown;
+    tags?: unknown;
+    explanation?: unknown;
+    source_label?: unknown;
+    trap_type?: unknown;
+    question_options?: Array<{ option_label?: unknown; option_text?: unknown; is_correct?: unknown }> | null;
+  } | null;
+
+  if (!question) return null;
+  const optionsRaw = question.question_options;
+  if (!optionsRaw || optionsRaw.length < 4) return null;
+  const correct = optionsRaw.find((option) => option.is_correct)?.option_label;
+  const labels = ["A", "B", "C", "D"] as const;
+  if (!labels.includes(correct as (typeof labels)[number])) return null;
+
+  return {
+    id: String(question.id),
+    subject: inferSubject(question.tags, question.topic_key),
+    year: Number(question.year ?? 2024),
+    question: String(question.question_text),
+    options: optionsRaw
+      .sort((a, b) => String(a.option_label).localeCompare(String(b.option_label)))
+      .map((option) => ({ label: option.option_label as "A" | "B" | "C" | "D", text: String(option.option_text) })),
+    correct: correct as "A" | "B" | "C" | "D",
+    explanation: String(question.explanation ?? "Review the core concept behind the correct option and eliminate close distractors from the same topic area."),
+    sourceLabel: String(question.source_label ?? "ClearUPSC Pattern"),
+    sourceType: String(question.source_label ?? "").toLowerCase().includes("official") ? "official_pyq" : "clearupsc_original",
+    topicKey: question.topic_key ? String(question.topic_key) : null,
+    trapType: String(question.trap_type ?? "Concept trap"),
+  };
+}
+
+function inferSubject(tags: unknown, topicKey?: unknown): PYQQuestion["subject"] {
   const joined = Array.isArray(tags) ? tags.join(" ").toLowerCase() : "";
+  const key = String(topicKey ?? "").toLowerCase();
+  if (key.includes("csat")) return "CSAT";
+  if (key.includes("ethics") || key.startsWith("gs4")) return "Ethics";
+  if (key.includes("security")) return "Security";
+  if (key.includes("society")) return "Society";
+  if (key.includes("governance")) return "Governance";
+  if (key.includes("polity")) return "Polity";
+  if (key.includes("geography")) return "Geography";
+  if (key.includes("economy") || key.includes("agriculture")) return "Economy";
+  if (key.includes("environment")) return "Environment";
+  if (key.includes("science")) return "Science";
+  if (key.includes("history") || key.includes("culture")) return "History";
   if (joined.includes("polity")) return "Polity";
   if (joined.includes("geography")) return "Geography";
   if (joined.includes("economy")) return "Economy";
