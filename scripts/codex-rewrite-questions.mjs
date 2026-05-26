@@ -297,7 +297,7 @@ async function main() {
       processed += 1;
       generated.push(...makeQuestions(topic));
 
-      if (processed % 100 === 0) {
+      if (processed % 200 === 0) {
         console.log(`[progress] generated questions for ${processed} topics (${generated.length} questions)`);
       }
     }
@@ -347,6 +347,8 @@ async function main() {
         insertedQuestions,
         insertedOptions,
         expectedQuestions: processed * QUESTIONS_PER_TOPIC,
+        failed: 0,
+        failedTopics: [],
       },
       null,
       2,
@@ -363,81 +365,9 @@ async function clearQuestionBank() {
 
 function makeQuestions(topic) {
   if (topic.key === "gs2_polity_local_bodies") return localBodiesQuestions(topic);
+  if (topic.key === "gs3_economy_basics") return economyBasicsQuestions(topic);
 
-  const notes = parseNotes(topic.structured_notes);
-  const title = clean(topic.title);
-  const subject = clean(topic.subject || "UPSC");
-  const pack = factualPackFor(topic);
-  const concise = uniquePairs([
-    ...pack.concise.map(([term, definition]) => ({ term, definition })),
-    ...realConcise(notes),
-  ]).slice(0, 12);
-  const bullets = uniqueStrings([...pack.bullets, ...realBullets(notes)]).slice(0, 10);
-  const anchors = uniquePairs([
-    ...pack.anchors.map(([term, definition]) => ({ term, definition })),
-    ...realAnchors(notes),
-  ]);
-
-  const usableConcise = concise.length >= 4 ? concise : fallbackConcise(subject);
-  const usableBullets = bullets.length >= 4 ? bullets : fallbackBullets(subject);
-  const questions = [];
-
-  const first = usableConcise[0];
-  questions.push(
-    buildQuestion(topic, 1, {
-      text: `With reference to ${title}, which of the following correctly describes "${first.term}"?`,
-      correct: first.definition,
-      distractors: distractorDefinitions(usableConcise, first.term, subject),
-      explanation: `"${first.term}" is correctly described as: ${first.definition}`,
-      trap: "Term-definition mismatch",
-    }),
-  );
-
-  const second = usableConcise[1] ?? usableConcise[0];
-  questions.push(
-    buildQuestion(topic, 2, {
-      text: `In the context of ${title}, the description "${second.definition}" refers to which term?`,
-      correct: second.term,
-      distractors: distractorTerms(usableConcise, second.term, subject),
-      explanation: `The description points to ${second.term}. Other options refer to different institutions, concepts or provisions.`,
-      trap: "Concept identification",
-    }),
-  );
-
-  const correctFact = usableBullets[0];
-  questions.push(
-    buildQuestion(topic, 3, {
-      text: `Which of the following statements about ${title} is correct?`,
-      correct: correctFact,
-      distractors: wrongFacts(correctFact, usableBullets, subject),
-      explanation: `The correct factual statement is: ${correctFact}`,
-      trap: "Factual reversal",
-    }),
-  );
-
-  const third = usableConcise[2] ?? usableConcise[0];
-  questions.push(
-    buildQuestion(topic, 4, {
-      text: `Which of the following pairs is correctly matched with reference to ${title}?`,
-      correct: `${third.term} - ${third.definition}`,
-      distractors: mismatchedPairs(usableConcise, third.term, subject),
-      explanation: `${third.term} is correctly matched with its actual definition. The other options mismatch terms with unrelated descriptions.`,
-      trap: "Incorrectly matched pair",
-    }),
-  );
-
-  const anchor = anchors[0] ?? usableConcise[3] ?? usableConcise[0];
-  questions.push(
-    buildQuestion(topic, 5, {
-      text: `Which of the following is most directly associated with ${title}?`,
-      correct: anchor.term,
-      distractors: anchorDistractors(anchor.term, subject, usableConcise),
-      explanation: `${anchor.term} is directly associated with ${title}. ${anchor.definition}`,
-      trap: "Institution/source confusion",
-    }),
-  );
-
-  return questions.slice(0, QUESTIONS_PER_TOPIC);
+  return questionBlueprintsFor(topic).map((row, index) => buildQuestion(topic, index + 1, row));
 }
 
 function factualPackFor(topic) {
@@ -517,6 +447,807 @@ function localBodiesQuestions(topic) {
     },
   ];
   return rows.map((row, index) => buildQuestion(topic, index + 1, row));
+}
+
+function economyBasicsQuestions(topic) {
+  const rows = [
+    {
+      text: "Which of the following best defines GDP?",
+      correct: "Total market value of all final goods and services produced within a country in a given period",
+      distractors: [
+        "Total value added by all sectors before adding net product taxes",
+        "Total government revenue collected from taxes and non-tax sources",
+        "Total value of goods and services exported minus imported",
+      ],
+      explanation: "GDP measures final goods and services produced within a country. GVA measures value added by sectors, while trade balance compares exports and imports.",
+      trap: "Indicator-definition trap",
+    },
+    {
+      text: "Which institution is responsible for setting India's policy repo rate?",
+      correct: "Monetary Policy Committee",
+      distractors: ["Finance Commission", "GST Council", "NITI Aayog"],
+      explanation: "The Monetary Policy Committee of RBI decides the policy repo rate. Finance Commission handles fiscal transfers, GST Council handles GST recommendations, and NITI Aayog is a policy think tank.",
+      trap: "Institution-function trap",
+    },
+    {
+      text: "The GST Council is established under which constitutional provision?",
+      correct: "Article 279A",
+      distractors: ["Article 280", "Article 112", "Article 324"],
+      explanation: "Article 279A provides for the GST Council. Article 280 relates to Finance Commission, Article 112 to Union Budget, and Article 324 to Election Commission.",
+      trap: "Article-number trap",
+    },
+    {
+      text: "Which of the following correctly describes Fiscal Deficit?",
+      correct: "Total expenditure minus total receipts excluding borrowings",
+      distractors: [
+        "Revenue expenditure minus revenue receipts",
+        "Total imports minus total exports",
+        "Money supply growth minus inflation rate",
+      ],
+      explanation: "Fiscal Deficit shows the government's total borrowing requirement. Revenue deficit is limited to the revenue account, while import-export gap is current or trade account related.",
+      trap: "Deficit-concept trap",
+    },
+    {
+      text: "Which of the following pairs is correctly matched?",
+      correct: "FRBM Act, 2003 - Fiscal discipline and deficit management",
+      distractors: [
+        "IBC, 2016 - Consumer price inflation targeting",
+        "GST Council - Monetary policy rate setting",
+        "NITI Aayog - Constitutional tax devolution body",
+      ],
+      explanation: "FRBM Act focuses on fiscal discipline. IBC deals with insolvency, GST Council with GST recommendations, and NITI Aayog is not a constitutional tax devolution body.",
+      trap: "Institution-law matching trap",
+    },
+  ];
+  return rows.map((row, index) => buildQuestion(topic, index + 1, row));
+}
+
+function questionBlueprintsFor(topic) {
+  const pack = factualQuestionPacks[classifyQuestionPack(topic)] ?? factualQuestionPacks.ethics;
+  return pack.map((row) => ({
+    ...row,
+    text: row.text.replaceAll("{title}", clean(topic.title)),
+  }));
+}
+
+const factualQuestionPacks = {
+  constitution: [
+    {
+      text: "Which part of the Constitution contains Fundamental Rights?",
+      correct: "Part III",
+      distractors: ["Part IV", "Part IVA", "Part V"],
+      explanation: "Fundamental Rights are placed in Part III of the Constitution. Part IV contains Directive Principles, Part IVA contains Fundamental Duties, and Part V deals with the Union.",
+      trap: "Constitution part trap",
+    },
+    {
+      text: "Which Article gives the right to constitutional remedies before the Supreme Court?",
+      correct: "Article 32",
+      distractors: ["Article 14", "Article 19", "Article 21"],
+      explanation: "Article 32 allows direct movement of the Supreme Court for enforcement of Fundamental Rights. Articles 14, 19 and 21 are substantive Fundamental Rights.",
+      trap: "Article-number trap",
+    },
+    {
+      text: "The Basic Structure doctrine was propounded in which case?",
+      correct: "Kesavananda Bharati v State of Kerala (1973)",
+      distractors: ["Golaknath v State of Punjab (1967)", "Minerva Mills v Union of India (1980)", "I.R. Coelho v State of Tamil Nadu (2007)"],
+      explanation: "Kesavananda Bharati (1973) held that Parliament may amend the Constitution but cannot destroy its Basic Structure.",
+      trap: "Landmark-case trap",
+    },
+    {
+      text: "Which amendment added the words socialist, secular and integrity to the Preamble?",
+      correct: "42nd Amendment Act, 1976",
+      distractors: ["24th Amendment Act, 1971", "44th Amendment Act, 1978", "86th Amendment Act, 2002"],
+      explanation: "The 42nd Amendment Act, 1976 added socialist, secular and integrity to the Preamble.",
+      trap: "Amendment trap",
+    },
+    {
+      text: "Which Article lays down the procedure for amendment of the Constitution?",
+      correct: "Article 368",
+      distractors: ["Article 13", "Article 32", "Article 356"],
+      explanation: "Article 368 provides the procedure for constitutional amendment. Article 13 concerns laws inconsistent with Fundamental Rights.",
+      trap: "Article-function trap",
+    },
+  ],
+  judiciary: [
+    {
+      text: "Which Articles deal with the Supreme Court of India?",
+      correct: "Articles 124-147",
+      distractors: ["Articles 52-78", "Articles 79-122", "Articles 214-231"],
+      explanation: "Articles 124 to 147 deal with the Supreme Court. Articles 214 to 231 deal with High Courts.",
+      trap: "Article-range trap",
+    },
+    {
+      text: "Original jurisdiction of the Supreme Court in Centre-State disputes is provided by which Article?",
+      correct: "Article 131",
+      distractors: ["Article 32", "Article 136", "Article 143"],
+      explanation: "Article 131 gives the Supreme Court exclusive original jurisdiction in specified disputes involving the Union and States.",
+      trap: "Jurisdiction article trap",
+    },
+    {
+      text: "Special Leave Petition power of the Supreme Court is under which Article?",
+      correct: "Article 136",
+      distractors: ["Article 131", "Article 137", "Article 143"],
+      explanation: "Article 136 gives the Supreme Court discretionary Special Leave Petition power.",
+      trap: "Jurisdiction article trap",
+    },
+    {
+      text: "Which case struck down the NJAC as violating Basic Structure?",
+      correct: "Supreme Court Advocates-on-Record Association v Union of India (2015)",
+      distractors: ["S.P. Gupta v Union of India (1981)", "Second Judges Case (1993)", "Presidential Reference (1998)"],
+      explanation: "The 2015 NJAC judgment struck down the 99th Amendment and NJAC Act, preserving judicial primacy in appointments.",
+      trap: "Judges cases trap",
+    },
+    {
+      text: "What is the retirement age of a Supreme Court judge?",
+      correct: "65 years",
+      distractors: ["60 years", "62 years", "70 years"],
+      explanation: "Supreme Court judges retire at 65 years. High Court judges retire at 62 years.",
+      trap: "Age-limit trap",
+    },
+  ],
+  local_bodies: [
+    {
+      text: "Which amendment gave constitutional status to Panchayati Raj Institutions?",
+      correct: "73rd Amendment Act, 1992",
+      distractors: ["42nd Amendment Act, 1976", "44th Amendment Act, 1978", "74th Amendment Act, 1992"],
+      explanation: "The 73rd Amendment inserted Part IX and the Eleventh Schedule for Panchayats.",
+      trap: "Amendment trap",
+    },
+    {
+      text: "Which amendment gave constitutional status to Municipalities?",
+      correct: "74th Amendment Act, 1992",
+      distractors: ["73rd Amendment Act, 1992", "86th Amendment Act, 2002", "97th Amendment Act, 2011"],
+      explanation: "The 74th Amendment inserted Part IXA and the Twelfth Schedule for Municipalities.",
+      trap: "Amendment trap",
+    },
+    {
+      text: "Article 243G relates to which of the following?",
+      correct: "Powers, authority and responsibilities of Panchayats",
+      distractors: ["Reservation of seats in Panchayats", "State Election Commission for Panchayats", "Duration of Panchayats"],
+      explanation: "Article 243G enables State Legislatures to devolve powers and responsibilities to Panchayats.",
+      trap: "Article-function trap",
+    },
+    {
+      text: "Which Schedule lists 29 subjects for Panchayats?",
+      correct: "Eleventh Schedule",
+      distractors: ["Seventh Schedule", "Tenth Schedule", "Twelfth Schedule"],
+      explanation: "The Eleventh Schedule contains 29 subjects for Panchayats. The Twelfth Schedule has 18 municipal subjects.",
+      trap: "Schedule trap",
+    },
+    {
+      text: "Who conducts elections to Panchayats and Municipalities?",
+      correct: "State Election Commission",
+      distractors: ["Election Commission of India", "State Finance Commission", "District Planning Committee"],
+      explanation: "State Election Commissions conduct local body elections under Articles 243K and 243ZA.",
+      trap: "Institution-function trap",
+    },
+  ],
+  federalism: [
+    {
+      text: "Which Schedule divides subjects into Union, State and Concurrent Lists?",
+      correct: "Seventh Schedule",
+      distractors: ["Fifth Schedule", "Sixth Schedule", "Tenth Schedule"],
+      explanation: "The Seventh Schedule distributes legislative subjects across Union, State and Concurrent Lists.",
+      trap: "Schedule trap",
+    },
+    {
+      text: "Finance Commission is provided under which Article?",
+      correct: "Article 280",
+      distractors: ["Article 263", "Article 279A", "Article 324"],
+      explanation: "Article 280 provides for the Finance Commission. Article 279A provides for the GST Council.",
+      trap: "Article-number trap",
+    },
+    {
+      text: "Which case is known for limiting arbitrary use of President's Rule?",
+      correct: "S.R. Bommai v Union of India (1994)",
+      distractors: ["Kesavananda Bharati v State of Kerala (1973)", "Minerva Mills v Union of India (1980)", "I.R. Coelho v State of Tamil Nadu (2007)"],
+      explanation: "S.R. Bommai strengthened federalism by allowing judicial review of Article 356 proclamations.",
+      trap: "Federalism case trap",
+    },
+    {
+      text: "GST Council is provided under which Article?",
+      correct: "Article 279A",
+      distractors: ["Article 246", "Article 263", "Article 280"],
+      explanation: "Article 279A creates the GST Council. Article 280 creates the Finance Commission.",
+      trap: "Fiscal federalism article trap",
+    },
+    {
+      text: "In India, residuary legislative powers are vested in which authority?",
+      correct: "Parliament",
+      distractors: ["State Legislatures", "Inter-State Council", "Finance Commission"],
+      explanation: "Unlike some federations, India gives residuary legislative powers to Parliament.",
+      trap: "Federal feature trap",
+    },
+  ],
+  parliament: [
+    {
+      text: "Article 79 of the Constitution deals with which institution?",
+      correct: "Parliament",
+      distractors: ["Supreme Court", "Election Commission", "Finance Commission"],
+      explanation: "Article 79 provides that Parliament consists of the President and two Houses.",
+      trap: "Article-institution trap",
+    },
+    {
+      text: "A Money Bill is defined under which Article?",
+      correct: "Article 110",
+      distractors: ["Article 108", "Article 111", "Article 112"],
+      explanation: "Article 110 defines Money Bill. Article 112 deals with the Annual Financial Statement.",
+      trap: "Parliamentary article trap",
+    },
+    {
+      text: "Anti-defection provisions are contained in which Schedule?",
+      correct: "Tenth Schedule",
+      distractors: ["Seventh Schedule", "Eighth Schedule", "Ninth Schedule"],
+      explanation: "The Tenth Schedule contains anti-defection provisions added by the 52nd Amendment.",
+      trap: "Schedule trap",
+    },
+    {
+      text: "Which House of Parliament is not subject to dissolution?",
+      correct: "Rajya Sabha",
+      distractors: ["Lok Sabha", "Vidhan Sabha", "Municipal Council"],
+      explanation: "Rajya Sabha is a permanent House, while Lok Sabha can be dissolved.",
+      trap: "House-feature trap",
+    },
+    {
+      text: "Who certifies a Bill as a Money Bill in Lok Sabha?",
+      correct: "Speaker of Lok Sabha",
+      distractors: ["President of India", "Chairman of Rajya Sabha", "Finance Minister"],
+      explanation: "The Speaker of Lok Sabha certifies whether a Bill is a Money Bill.",
+      trap: "Authority trap",
+    },
+  ],
+  executive: [
+    {
+      text: "Article 52 provides for which office?",
+      correct: "President of India",
+      distractors: ["Vice-President of India", "Prime Minister of India", "Governor of a State"],
+      explanation: "Article 52 says there shall be a President of India.",
+      trap: "Article-office trap",
+    },
+    {
+      text: "The Council of Ministers aids and advises the President under which Article?",
+      correct: "Article 74",
+      distractors: ["Article 72", "Article 75", "Article 78"],
+      explanation: "Article 74 provides for the Council of Ministers to aid and advise the President.",
+      trap: "Executive article trap",
+    },
+    {
+      text: "President's ordinance-making power is under which Article?",
+      correct: "Article 123",
+      distractors: ["Article 110", "Article 111", "Article 213"],
+      explanation: "Article 123 gives ordinance power to the President. Article 213 gives similar power to Governors.",
+      trap: "Ordinance article trap",
+    },
+    {
+      text: "Governor of a State is provided under which Article?",
+      correct: "Article 153",
+      distractors: ["Article 123", "Article 163", "Article 213"],
+      explanation: "Article 153 provides that there shall be a Governor for each State.",
+      trap: "State executive article trap",
+    },
+    {
+      text: "The Council of Ministers at the Union level is collectively responsible to whom?",
+      correct: "Lok Sabha",
+      distractors: ["Rajya Sabha", "President", "Supreme Court"],
+      explanation: "Article 75 makes the Council of Ministers collectively responsible to the Lok Sabha.",
+      trap: "Responsibility trap",
+    },
+  ],
+  governance: [
+    {
+      text: "The Right to Information Act was enacted in which year?",
+      correct: "2005",
+      distractors: ["2002", "2009", "2013"],
+      explanation: "The RTI Act was enacted in 2005 to promote transparency and citizen access to information.",
+      trap: "Year trap",
+    },
+    {
+      text: "Which body hears second appeals under the RTI Act for Union public authorities?",
+      correct: "Central Information Commission",
+      distractors: ["Central Vigilance Commission", "Lokpal", "National Human Rights Commission"],
+      explanation: "The Central Information Commission hears RTI appeals and complaints for Union public authorities.",
+      trap: "Institution-function trap",
+    },
+    {
+      text: "The Lokpal and Lokayuktas Act was enacted in which year?",
+      correct: "2013",
+      distractors: ["2005", "2010", "2018"],
+      explanation: "The Lokpal and Lokayuktas Act, 2013 created the anti-corruption ombudsman framework.",
+      trap: "Year trap",
+    },
+    {
+      text: "Social audit is most directly associated with which welfare law?",
+      correct: "MGNREGA, 2005",
+      distractors: ["RTI Act, 2005", "Aadhaar Act, 2016", "Consumer Protection Act, 2019"],
+      explanation: "MGNREGA mandates social audit through Gram Sabha-linked accountability mechanisms.",
+      trap: "Law-tool trap",
+    },
+    {
+      text: "Which platform is primarily used for government e-market procurement?",
+      correct: "GeM",
+      distractors: ["DigiLocker", "UMANG", "CoWIN"],
+      explanation: "Government e-Marketplace, or GeM, is used for public procurement. DigiLocker stores documents, UMANG integrates services, and CoWIN managed vaccination.",
+      trap: "Digital platform trap",
+    },
+  ],
+  ir: [
+    {
+      text: "The Panchsheel principles were articulated in which year?",
+      correct: "1954",
+      distractors: ["1947", "1962", "1971"],
+      explanation: "Panchsheel, the five principles of peaceful coexistence, was articulated in 1954.",
+      trap: "Year trap",
+    },
+    {
+      text: "The Indus Waters Treaty was signed in which year?",
+      correct: "1960",
+      distractors: ["1954", "1972", "1996"],
+      explanation: "The Indus Waters Treaty between India and Pakistan was signed in 1960 with World Bank involvement.",
+      trap: "Treaty year trap",
+    },
+    {
+      text: "Which grouping consists of India, United States, Japan and Australia?",
+      correct: "QUAD",
+      distractors: ["BRICS", "SCO", "BIMSTEC"],
+      explanation: "QUAD consists of India, United States, Japan and Australia.",
+      trap: "Grouping membership trap",
+    },
+    {
+      text: "Which agreement is associated with India-Pakistan bilateral resolution after the 1971 war?",
+      correct: "Simla Agreement, 1972",
+      distractors: ["Tashkent Agreement, 1966", "Lahore Declaration, 1999", "Indus Waters Treaty, 1960"],
+      explanation: "The Simla Agreement, 1972 followed the 1971 war and is a key India-Pakistan bilateral framework.",
+      trap: "Agreement trap",
+    },
+    {
+      text: "Which Article enables Parliament to make laws for implementing international agreements?",
+      correct: "Article 253",
+      distractors: ["Article 246", "Article 263", "Article 280"],
+      explanation: "Article 253 empowers Parliament to legislate for implementing international treaties and agreements.",
+      trap: "Article trap",
+    },
+  ],
+  economy: [
+    {
+      text: "Which of the following best defines GDP?",
+      correct: "Total market value of final goods and services produced within a country in a given period",
+      distractors: ["Value of output minus intermediate consumption", "Government expenditure minus government receipts", "Exports minus imports of goods and services"],
+      explanation: "GDP measures final output produced within a country's domestic territory in a given period.",
+      trap: "Indicator-definition trap",
+    },
+    {
+      text: "Which body sets India's policy repo rate?",
+      correct: "Monetary Policy Committee",
+      distractors: ["Finance Commission", "GST Council", "NITI Aayog"],
+      explanation: "The Monetary Policy Committee of RBI sets the policy repo rate under India's inflation-targeting framework.",
+      trap: "Institution-function trap",
+    },
+    {
+      text: "GST was launched in India on which date?",
+      correct: "1 July 2017",
+      distractors: ["1 April 1991", "1 January 2005", "1 July 2020"],
+      explanation: "GST was launched on 1 July 2017 after the 101st Constitutional Amendment.",
+      trap: "Date trap",
+    },
+    {
+      text: "Which Act is associated with fiscal discipline and deficit management?",
+      correct: "FRBM Act, 2003",
+      distractors: ["IBC, 2016", "RBI Act, 1934", "FEMA, 1999"],
+      explanation: "The Fiscal Responsibility and Budget Management Act, 2003 aims at fiscal discipline and deficit management.",
+      trap: "Act-purpose trap",
+    },
+    {
+      text: "NITI Aayog replaced which institution in 2015?",
+      correct: "Planning Commission",
+      distractors: ["Finance Commission", "National Development Council", "Competition Commission of India"],
+      explanation: "NITI Aayog replaced the Planning Commission in 2015 as a policy think tank.",
+      trap: "Institution replacement trap",
+    },
+  ],
+  agriculture: [
+    {
+      text: "Which body recommends Minimum Support Prices to the Government of India?",
+      correct: "CACP",
+      distractors: ["FCI", "NABARD", "APEDA"],
+      explanation: "The Commission for Agricultural Costs and Prices recommends MSPs; the government announces them.",
+      trap: "Institution-function trap",
+    },
+    {
+      text: "PMFBY was launched in which year?",
+      correct: "2016",
+      distractors: ["2005", "2014", "2019"],
+      explanation: "Pradhan Mantri Fasal Bima Yojana was launched in 2016 as a crop insurance scheme.",
+      trap: "Scheme year trap",
+    },
+    {
+      text: "PM-KISAN provides how much annual income support to eligible farmer families?",
+      correct: "Rs 6000",
+      distractors: ["Rs 2000", "Rs 10000", "Rs 12000"],
+      explanation: "PM-KISAN provides Rs 6000 per year in three instalments to eligible farmer families.",
+      trap: "Scheme amount trap",
+    },
+    {
+      text: "Agriculture is placed in which list of the Seventh Schedule?",
+      correct: "State List",
+      distractors: ["Union List", "Concurrent List", "Residuary List"],
+      explanation: "Agriculture is primarily a State List subject, though trade in foodstuffs has concurrent aspects.",
+      trap: "Federal list trap",
+    },
+    {
+      text: "Which committee recommended MSP at C2 plus 50 percent?",
+      correct: "M.S. Swaminathan Commission",
+      distractors: ["Shanta Kumar Committee", "Ashok Dalwai Committee", "Narasimham Committee"],
+      explanation: "The National Commission on Farmers chaired by M.S. Swaminathan recommended MSP at C2 plus 50 percent.",
+      trap: "Committee recommendation trap",
+    },
+  ],
+  environment: [
+    {
+      text: "The Environment Protection Act was enacted in which year?",
+      correct: "1986",
+      distractors: ["1972", "1980", "2010"],
+      explanation: "The Environment Protection Act, 1986 is an umbrella environmental law enacted after the Bhopal disaster.",
+      trap: "Environmental law year trap",
+    },
+    {
+      text: "Which Act created the National Green Tribunal?",
+      correct: "NGT Act, 2010",
+      distractors: ["Environment Protection Act, 1986", "Forest Conservation Act, 1980", "Wildlife Protection Act, 1972"],
+      explanation: "The National Green Tribunal Act, 2010 created the NGT for environmental adjudication.",
+      trap: "Act-institution trap",
+    },
+    {
+      text: "The Paris Agreement was adopted in which year?",
+      correct: "2015",
+      distractors: ["1992", "1997", "2010"],
+      explanation: "The Paris Agreement was adopted in 2015 under the UNFCCC framework.",
+      trap: "Climate agreement year trap",
+    },
+    {
+      text: "Which convention emerged from the Rio Earth Summit, 1992?",
+      correct: "Convention on Biological Diversity",
+      distractors: ["Montreal Protocol", "Ramsar Convention", "Stockholm Convention"],
+      explanation: "The Convention on Biological Diversity was opened for signature at the Rio Earth Summit in 1992.",
+      trap: "Convention trap",
+    },
+    {
+      text: "Which case is associated with precautionary principle and polluter pays principle in India?",
+      correct: "Vellore Citizens Welfare Forum v Union of India (1996)",
+      distractors: ["M.C. Mehta v Union of India (Oleum Gas Leak)", "T.N. Godavarman v Union of India", "Subhash Kumar v State of Bihar"],
+      explanation: "Vellore Citizens Welfare Forum accepted sustainable development, precautionary principle and polluter pays principle in Indian law.",
+      trap: "Environmental case trap",
+    },
+  ],
+  science: [
+    {
+      text: "Which mission achieved India's soft landing near the Moon's south polar region in 2023?",
+      correct: "Chandrayaan-3",
+      distractors: ["Chandrayaan-1", "Chandrayaan-2", "Mangalyaan"],
+      explanation: "Chandrayaan-3 achieved India's lunar soft landing in 2023.",
+      trap: "Space mission trap",
+    },
+    {
+      text: "India's first solar observatory mission is called what?",
+      correct: "Aditya-L1",
+      distractors: ["AstroSat", "Mangalyaan", "RISAT-2B"],
+      explanation: "Aditya-L1 is India's first solar observatory mission.",
+      trap: "Space mission trap",
+    },
+    {
+      text: "Aryabhata, India's first satellite, was launched in which year?",
+      correct: "1975",
+      distractors: ["1969", "1980", "1984"],
+      explanation: "Aryabhata, India's first satellite, was launched in 1975.",
+      trap: "Space chronology trap",
+    },
+    {
+      text: "Which law governs personal data processing in India?",
+      correct: "Digital Personal Data Protection Act, 2023",
+      distractors: ["Information Technology Act, 2000", "Telegraph Act, 1885", "Aadhaar Act, 2016"],
+      explanation: "The Digital Personal Data Protection Act, 2023 is India's dedicated personal data protection law.",
+      trap: "Technology law trap",
+    },
+    {
+      text: "Gaganyaan is associated with which field?",
+      correct: "Human spaceflight",
+      distractors: ["Solar observation", "Deep ocean mining", "Nuclear fusion research"],
+      explanation: "Gaganyaan is India's human spaceflight programme.",
+      trap: "Mission-purpose trap",
+    },
+  ],
+  security: [
+    {
+      text: "The National Investigation Agency was created under which Act?",
+      correct: "NIA Act, 2008",
+      distractors: ["UAPA, 1967", "Official Secrets Act, 1923", "Disaster Management Act, 2005"],
+      explanation: "The National Investigation Agency was created under the NIA Act, 2008.",
+      trap: "Security law trap",
+    },
+    {
+      text: "UAPA was originally enacted in which year?",
+      correct: "1967",
+      distractors: ["1955", "1985", "2008"],
+      explanation: "The Unlawful Activities (Prevention) Act was enacted in 1967.",
+      trap: "Law year trap",
+    },
+    {
+      text: "Which global body sets standards against money laundering and terror financing?",
+      correct: "FATF",
+      distractors: ["Interpol", "UNHRC", "IAEA"],
+      explanation: "The Financial Action Task Force sets global standards for anti-money laundering and counter-terror financing.",
+      trap: "Institution-function trap",
+    },
+    {
+      text: "The Disaster Management Act was enacted in which year?",
+      correct: "2005",
+      distractors: ["1999", "2008", "2013"],
+      explanation: "The Disaster Management Act, 2005 created the NDMA, SDMAs and DDMAs.",
+      trap: "Act year trap",
+    },
+    {
+      text: "Which Article refers to the Union's duty to protect States against external aggression and internal disturbance?",
+      correct: "Article 355",
+      distractors: ["Article 352", "Article 356", "Article 360"],
+      explanation: "Article 355 imposes a duty on the Union to protect States against external aggression and internal disturbance.",
+      trap: "Emergency article trap",
+    },
+  ],
+  history_ancient: [
+    {
+      text: "The Mature Harappan phase is generally dated to which period?",
+      correct: "c. 2600-1900 BCE",
+      distractors: ["c. 1500-1000 BCE", "c. 600-300 BCE", "c. 320-550 CE"],
+      explanation: "The Mature Harappan or urban phase is generally dated to c. 2600-1900 BCE.",
+      trap: "Chronology trap",
+    },
+    {
+      text: "The Great Bath was discovered at which Harappan site?",
+      correct: "Mohenjo-daro",
+      distractors: ["Harappa", "Lothal", "Dholavira"],
+      explanation: "The Great Bath is a major structure at Mohenjo-daro.",
+      trap: "Site-feature trap",
+    },
+    {
+      text: "Which is considered the oldest Veda?",
+      correct: "Rigveda",
+      distractors: ["Yajurveda", "Samaveda", "Atharvaveda"],
+      explanation: "Rigveda is considered the oldest Veda.",
+      trap: "Text chronology trap",
+    },
+    {
+      text: "Mahavira is traditionally regarded as which Tirthankara of Jainism?",
+      correct: "24th",
+      distractors: ["1st", "12th", "23rd"],
+      explanation: "Mahavira is regarded as the 24th Tirthankara of Jainism.",
+      trap: "Religious tradition trap",
+    },
+    {
+      text: "Arthashastra is associated with which thinker?",
+      correct: "Kautilya",
+      distractors: ["Patanjali", "Kalidasa", "Banabhatta"],
+      explanation: "Arthashastra is associated with Kautilya or Chanakya, adviser to Chandragupta Maurya.",
+      trap: "Text-author trap",
+    },
+  ],
+  history_modern: [
+    {
+      text: "Indian National Congress was founded in which year?",
+      correct: "1885",
+      distractors: ["1857", "1905", "1916"],
+      explanation: "The Indian National Congress was founded in 1885.",
+      trap: "Movement chronology trap",
+    },
+    {
+      text: "Bengal was partitioned by Lord Curzon in which year?",
+      correct: "1905",
+      distractors: ["1892", "1909", "1919"],
+      explanation: "The Partition of Bengal was announced in 1905 and triggered the Swadeshi Movement.",
+      trap: "Chronology trap",
+    },
+    {
+      text: "The Jallianwala Bagh massacre occurred in which year?",
+      correct: "1919",
+      distractors: ["1905", "1916", "1922"],
+      explanation: "The Jallianwala Bagh massacre occurred on 13 April 1919.",
+      trap: "Event year trap",
+    },
+    {
+      text: "The Dandi March was launched in which year?",
+      correct: "1930",
+      distractors: ["1920", "1928", "1942"],
+      explanation: "Gandhi launched the Dandi March in 1930 as part of the Civil Disobedience Movement.",
+      trap: "Movement year trap",
+    },
+    {
+      text: "The Quit India Movement was launched in which year?",
+      correct: "1942",
+      distractors: ["1930", "1935", "1946"],
+      explanation: "The Quit India Movement was launched in August 1942.",
+      trap: "Movement year trap",
+    },
+  ],
+  geography: [
+    {
+      text: "Plate tectonics explains which of the following?",
+      correct: "Movement of lithospheric plates",
+      distractors: ["Seasonal reversal of winds", "Daily sea-land breeze circulation", "Formation of black cotton soil"],
+      explanation: "Plate tectonics explains the movement of lithospheric plates and associated earthquakes, volcanoes and mountains.",
+      trap: "Physical process trap",
+    },
+    {
+      text: "The Indian monsoon is primarily associated with which phenomenon?",
+      correct: "Seasonal reversal of winds",
+      distractors: ["Permanent planetary winds only", "Ocean salinity inversion", "Tidal oscillation"],
+      explanation: "The monsoon is marked by seasonal reversal of winds and seasonal rainfall.",
+      trap: "Climatology concept trap",
+    },
+    {
+      text: "Which soil is dominant in the northern plains of India?",
+      correct: "Alluvial soil",
+      distractors: ["Black soil", "Laterite soil", "Arid soil"],
+      explanation: "Alluvial soil deposited by rivers dominates the Indo-Gangetic plains.",
+      trap: "Soil-region trap",
+    },
+    {
+      text: "Which organisation issues official weather and monsoon forecasts in India?",
+      correct: "India Meteorological Department",
+      distractors: ["Geological Survey of India", "Survey of India", "Central Water Commission"],
+      explanation: "The India Meteorological Department is responsible for weather and monsoon forecasts.",
+      trap: "Institution-function trap",
+    },
+    {
+      text: "The Himalayas are best described as which type of mountains?",
+      correct: "Young fold mountains",
+      distractors: ["Block mountains", "Residual mountains", "Volcanic mountains"],
+      explanation: "The Himalayas are young fold mountains formed by the collision of Indian and Eurasian plates.",
+      trap: "Landform trap",
+    },
+  ],
+  society: [
+    {
+      text: "Which Article abolishes untouchability?",
+      correct: "Article 17",
+      distractors: ["Article 14", "Article 15", "Article 16"],
+      explanation: "Article 17 abolishes untouchability and forbids its practice in any form.",
+      trap: "Rights article trap",
+    },
+    {
+      text: "The SC/ST Prevention of Atrocities Act was enacted in which year?",
+      correct: "1989",
+      distractors: ["1955", "1976", "2005"],
+      explanation: "The SC/ST Prevention of Atrocities Act was enacted in 1989.",
+      trap: "Social justice law year trap",
+    },
+    {
+      text: "Which judgment recognised transgender persons' right to self-identification?",
+      correct: "NALSA v Union of India (2014)",
+      distractors: ["Indra Sawhney v Union of India (1992)", "Vishaka v State of Rajasthan (1997)", "Navtej Singh Johar v Union of India (2018)"],
+      explanation: "NALSA (2014) recognised transgender persons' rights and self-identification.",
+      trap: "Rights case trap",
+    },
+    {
+      text: "The latest completed Census of India is which one?",
+      correct: "Census 2011",
+      distractors: ["Census 2001", "Census 2021", "Census 2024"],
+      explanation: "Census 2011 is the latest completed Census; the next Census has been delayed.",
+      trap: "Data source trap",
+    },
+    {
+      text: "Which case laid down guidelines against workplace sexual harassment before the 2013 law?",
+      correct: "Vishaka v State of Rajasthan (1997)",
+      distractors: ["Shayara Bano v Union of India (2017)", "Joseph Shine v Union of India (2018)", "Puttaswamy v Union of India (2017)"],
+      explanation: "Vishaka (1997) laid down workplace sexual harassment guidelines until Parliament enacted legislation.",
+      trap: "Gender justice case trap",
+    },
+  ],
+  ethics: [
+    {
+      text: "Which term means consistency between values, words and actions?",
+      correct: "Integrity",
+      distractors: ["Empathy", "Objectivity", "Accountability"],
+      explanation: "Integrity means consistency between values, words and actions.",
+      trap: "Ethics definition trap",
+    },
+    {
+      text: "Probity in governance most directly means which of the following?",
+      correct: "Uprightness and honesty in public office",
+      distractors: ["Emotional persuasion of citizens", "Strict secrecy in all decisions", "Maximising personal discretion"],
+      explanation: "Probity means uprightness, honesty and ethical conduct in public office.",
+      trap: "Ethics concept trap",
+    },
+    {
+      text: "The Nolan Principles are associated with which country?",
+      correct: "United Kingdom",
+      distractors: ["India", "United States", "France"],
+      explanation: "The Nolan Principles are seven principles of public life from the United Kingdom.",
+      trap: "Thinker/report source trap",
+    },
+    {
+      text: "Which report of the 2nd ARC is associated with Ethics in Governance?",
+      correct: "Fourth Report",
+      distractors: ["First Report", "Sixth Report", "Twelfth Report"],
+      explanation: "The 2nd ARC Fourth Report is titled Ethics in Governance.",
+      trap: "Report-number trap",
+    },
+    {
+      text: "Conflict of interest in public service is best handled by which approach?",
+      correct: "Disclosure, recusal and transparent decision-making",
+      distractors: ["Concealment until a complaint is filed", "Personal judgement without disclosure", "Delegating only after benefit is received"],
+      explanation: "Conflict of interest should be handled through disclosure, recusal where needed, and transparent procedures.",
+      trap: "Case-study action trap",
+    },
+  ],
+  csat: [
+    {
+      text: "CSAT Paper II in UPSC Prelims carries how many marks?",
+      correct: "200 marks",
+      distractors: ["100 marks", "250 marks", "300 marks"],
+      explanation: "CSAT Paper II carries 200 marks and is qualifying in nature.",
+      trap: "Exam-pattern trap",
+    },
+    {
+      text: "What is the minimum qualifying standard in CSAT Paper II?",
+      correct: "33 percent",
+      distractors: ["25 percent", "40 percent", "50 percent"],
+      explanation: "UPSC requires candidates to score at least 33 percent in CSAT Paper II.",
+      trap: "Exam-pattern trap",
+    },
+    {
+      text: "A valid inference in a CSAT passage must be based on what?",
+      correct: "Information stated or necessarily implied in the passage",
+      distractors: ["Outside factual knowledge", "The reader's personal opinion", "The most extreme option"],
+      explanation: "CSAT inference questions must be answered from passage evidence, not outside assumptions.",
+      trap: "Comprehension trap",
+    },
+    {
+      text: "If a worker completes a job in x days, one day's work is represented as what?",
+      correct: "1/x",
+      distractors: ["x/100", "x/2", "100/x"],
+      explanation: "In time and work, a worker finishing a job in x days completes 1/x of the work in one day.",
+      trap: "Formula trap",
+    },
+    {
+      text: "To convert speed from km/h to m/s, multiply by which factor?",
+      correct: "5/18",
+      distractors: ["18/5", "1000/60", "60/1000"],
+      explanation: "Speed in km/h is converted to m/s by multiplying by 5/18.",
+      trap: "Unit conversion trap",
+    },
+  ],
+};
+
+function classifyQuestionPack(topic) {
+  const key = String(topic.key ?? "").toLowerCase();
+  const title = String(topic.title ?? "").toLowerCase();
+  const subject = String(topic.subject ?? "").toLowerCase();
+
+  if (subject === "csat") return "csat";
+  if (subject === "essay") return "ethics";
+  if (subject === "gs4" || key.includes("ethics") || key.includes("case_studies")) return "ethics";
+  if (subject === "gs1") {
+    if (key.includes("geography") || title.includes("geography") || title.includes("climate") || title.includes("river") || title.includes("soil") || title.includes("monsoon")) return "geography";
+    if (key.includes("society") || title.includes("society") || title.includes("women") || title.includes("population") || title.includes("urban") || title.includes("communal") || title.includes("regional")) return "society";
+    if (key.includes("ancient")) return "history_ancient";
+    return "history_modern";
+  }
+  if (subject === "gs2") {
+    if (key.includes("local_bodies")) return "local_bodies";
+    if (key.includes("judiciary")) return "judiciary";
+    if (key.includes("federalism")) return "federalism";
+    if (key.includes("parliament")) return "parliament";
+    if (key.includes("executive")) return "executive";
+    if (key.includes("governance") || key.includes("rti") || key.includes("social_justice") || title.includes("health") || title.includes("education") || title.includes("welfare")) return "governance";
+    if (key.includes("ir") || title.includes("international") || title.includes("bilateral") || title.includes("foreign") || title.includes("neighbour")) return "ir";
+    return "constitution";
+  }
+  if (subject === "gs3") {
+    if (key.includes("agriculture") || title.includes("agriculture") || title.includes("food") || title.includes("msp") || title.includes("farm")) return "agriculture";
+    if (key.includes("environment") || title.includes("environment") || title.includes("climate") || title.includes("biodiversity") || title.includes("pollution") || title.includes("forest")) return "environment";
+    if (key.includes("science") || title.includes("technology") || title.includes("space") || title.includes("isro") || title.includes("biotech") || title.includes("ai")) return "science";
+    if (key.includes("security") || title.includes("security") || title.includes("terror") || title.includes("cyber") || title.includes("disaster")) return "security";
+    return "economy";
+  }
+  return "ethics";
 }
 
 function buildQuestion(topic, slot, input) {
