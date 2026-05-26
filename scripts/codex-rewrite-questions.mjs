@@ -47,6 +47,237 @@ const subjectDistractors = {
   },
 };
 
+const factualPacks = {
+  constitution: {
+    concise: [
+      ["Preamble", "Introductory statement declaring India sovereign, socialist, secular, democratic and republic."],
+      ["Article 12", "Defines State for enforcement of Fundamental Rights."],
+      ["Article 13", "Invalidates laws inconsistent with Fundamental Rights."],
+      ["Article 32", "Right to constitutional remedies before the Supreme Court."],
+      ["Article 368", "Procedure for constitutional amendment."],
+      ["Basic Structure", "Kesavananda Bharati doctrine limiting Parliament's amending power."],
+    ],
+    bullets: ["Constitution was adopted on 26 November 1949.", "Constitution came into force on 26 January 1950.", "42nd Amendment added socialist, secular and integrity.", "44th Amendment removed Right to Property from Part III.", "Basic Structure doctrine came in 1973."],
+    anchors: [["Kesavananda Bharati v State of Kerala (1973)", "Established Basic Structure doctrine."], ["Minerva Mills v Union of India (1980)", "Protected balance between Fundamental Rights and DPSPs."]],
+  },
+  judiciary: {
+    concise: [
+      ["Supreme Court", "Apex court of India under Articles 124-147."],
+      ["Original Jurisdiction", "Article 131 jurisdiction in Centre-State and inter-State disputes."],
+      ["Writ Jurisdiction", "Article 32 jurisdiction to enforce Fundamental Rights."],
+      ["Special Leave Petition", "Article 136 discretionary appellate power."],
+      ["Judicial Review", "Court power to strike down unconstitutional laws; part of Basic Structure."],
+      ["Collegium System", "Judicial appointments system evolved through the Three Judges Cases."],
+    ],
+    bullets: ["Article 124 establishes Supreme Court.", "SC judges retire at 65 years.", "HC judges retire at 62 years.", "Article 32 is itself a Fundamental Right.", "NJAC was struck down in 2015."],
+    anchors: [["Kesavananda Bharati v State of Kerala (1973)", "Basic Structure doctrine."], ["L. Chandra Kumar v Union of India (1997)", "Judicial review over tribunals is Basic Structure."]],
+  },
+  local_bodies: {
+    concise: [
+      ["73rd Amendment Act, 1992", "Inserted Part IX and Eleventh Schedule for Panchayats."],
+      ["74th Amendment Act, 1992", "Inserted Part IXA and Twelfth Schedule for Municipalities."],
+      ["Article 243G", "Powers, authority and responsibilities of Panchayats."],
+      ["Article 243W", "Powers, authority and responsibilities of Municipalities."],
+      ["State Election Commission", "Conducts Panchayat and Municipal elections under Articles 243K and 243ZA."],
+      ["State Finance Commission", "Recommends finances for local bodies under Articles 243I and 243Y."],
+    ],
+    bullets: ["Part IX covers Panchayats.", "Part IXA covers Municipalities.", "Eleventh Schedule has 29 subjects.", "Twelfth Schedule has 18 subjects.", "Local body term is five years."],
+    anchors: [["Balwant Rai Mehta Committee (1957)", "Recommended democratic decentralisation and three-tier Panchayati Raj."], ["L.M. Singhvi Committee (1986)", "Recommended constitutional recognition for Panchayats."]],
+  },
+  federalism: {
+    concise: [
+      ["Seventh Schedule", "Divides subjects into Union, State and Concurrent Lists."],
+      ["Article 246", "Distributes legislative powers between Union and States."],
+      ["Article 263", "Provides for Inter-State Council."],
+      ["Article 280", "Provides for Finance Commission."],
+      ["GST Council", "Article 279A body for GST-related recommendations."],
+      ["Article 356", "President's Rule on failure of constitutional machinery in a State."],
+    ],
+    bullets: ["India has a federal system with unitary bias.", "Finance Commission is under Article 280.", "GST Council is under Article 279A.", "S.R. Bommai limited misuse of Article 356.", "Residuary powers lie with Parliament."],
+    anchors: [["S.R. Bommai v Union of India (1994)", "Restricted arbitrary President's Rule."], ["Sarkaria Commission (1983)", "Reviewed Centre-State relations."]],
+  },
+  parliament: {
+    concise: [
+      ["Article 79", "Constitutes Parliament with President, Lok Sabha and Rajya Sabha."],
+      ["Lok Sabha", "House of the People with members directly elected from territorial constituencies."],
+      ["Rajya Sabha", "Council of States and permanent House not subject to dissolution."],
+      ["Money Bill", "Article 110 bill dealing only with specified financial matters."],
+      ["Anti-Defection Law", "Tenth Schedule law against political defections."],
+      ["Parliamentary Privileges", "Special rights and immunities of Parliament and its members."],
+    ],
+    bullets: ["Article 79 defines Parliament.", "Money Bill is defined in Article 110.", "Rajya Sabha is a permanent House.", "Tenth Schedule was added by 52nd Amendment.", "Speaker decides Money Bill certification."],
+    anchors: [["Kihoto Hollohan v Zachillhu (1992)", "Upheld Tenth Schedule with judicial review."], ["Raja Ram Pal v Lok Sabha (2007)", "Recognised judicial review over parliamentary privileges."]],
+  },
+  executive: {
+    concise: [
+      ["Article 52", "Provides that there shall be a President of India."],
+      ["Article 74", "Council of Ministers aids and advises the President."],
+      ["Article 75", "Deals with appointment and responsibility of Prime Minister and ministers."],
+      ["Collective Responsibility", "Council of Ministers is collectively responsible to Lok Sabha."],
+      ["Governor", "State executive head under Article 153."],
+      ["Ordinance Power", "President's Article 123 and Governor's Article 213 legislative power during recess."],
+    ],
+    bullets: ["President is elected indirectly.", "Council of Ministers is collectively responsible to Lok Sabha.", "Article 123 covers President's ordinance power.", "Article 153 provides Governor.", "Prime Minister is appointed by President."],
+    anchors: [["Shamsher Singh v State of Punjab (1974)", "President and Governor normally act on ministerial advice."], ["Nabam Rebia v Deputy Speaker (2016)", "Limited Governor's discretion in Assembly matters."]],
+  },
+  governance: {
+    concise: [
+      ["RTI Act 2005", "Law giving citizens access to information from public authorities."],
+      ["Central Information Commission", "Appeal and complaint body under RTI Act for Union public authorities."],
+      ["Lokpal Act 2013", "Anti-corruption ombudsman law for specified public functionaries."],
+      ["Citizen Charter", "Public document declaring service standards and grievance redress."],
+      ["Social Audit", "Community verification of public works and welfare delivery."],
+      ["DBT", "Direct Benefit Transfer of subsidies or benefits to bank accounts."],
+    ],
+    bullets: ["RTI Act was enacted in 2005.", "Lokpal Act was enacted in 2013.", "MGNREGA mandates social audit.", "DBT uses JAM architecture.", "Citizen charters are service-delivery tools."],
+    anchors: [["Vineet Narain v Union of India (1997)", "Strengthened investigative independence and accountability."], ["PUCL Right to Food case", "Linked welfare delivery with Article 21."]],
+  },
+  ir: {
+    concise: [
+      ["Panchsheel", "Five principles of peaceful coexistence articulated in 1954."],
+      ["Strategic Autonomy", "India's ability to make independent foreign policy choices."],
+      ["Indus Waters Treaty 1960", "India-Pakistan river water treaty brokered by World Bank."],
+      ["QUAD", "Grouping of India, United States, Japan and Australia."],
+      ["UNCLOS", "UN Convention governing law of the sea and maritime rights."],
+      ["International Solar Alliance", "India-France initiative for solar cooperation."],
+    ],
+    bullets: ["Indus Waters Treaty was signed in 1960.", "Simla Agreement was signed in 1972.", "Land Boundary Agreement with Bangladesh was operationalised in 2015.", "QUAD has India, US, Japan and Australia.", "Article 253 supports treaty implementation laws."],
+    anchors: [["Simla Agreement (1972)", "Framework for India-Pakistan bilateral resolution."], ["Paris Agreement (2015)", "Global climate agreement under UNFCCC."]],
+  },
+  economy: {
+    concise: [
+      ["GDP", "Market value of final goods and services produced within a country."],
+      ["GVA", "Value of output minus intermediate consumption."],
+      ["Fiscal Deficit", "Government borrowing requirement when expenditure exceeds receipts excluding borrowings."],
+      ["CPI", "Consumer Price Index used for inflation targeting in India."],
+      ["Repo Rate", "Rate at which RBI lends to banks against eligible securities."],
+      ["GST Council", "Article 279A constitutional body for GST recommendations."],
+    ],
+    bullets: ["LPG reforms began in 1991.", "GST launched on 1 July 2017.", "RBI was established in 1935.", "RBI was nationalised in 1949.", "Inflation target is 4 percent plus or minus 2 percent."],
+    anchors: [["Urjit Patel Committee", "Recommended CPI-based inflation targeting."], ["N.K. Singh Committee", "Reviewed FRBM framework."]],
+  },
+  agriculture: {
+    concise: [
+      ["MSP", "Minimum Support Price announced by government for selected crops."],
+      ["CACP", "Commission recommending MSP to government."],
+      ["PM-KISAN", "Income support scheme providing Rs 6000 per year to eligible farmer families."],
+      ["PMFBY", "Crop insurance scheme launched in 2016."],
+      ["e-NAM", "Electronic National Agriculture Market platform."],
+      ["FPO", "Farmer Producer Organisation for collective bargaining and marketing."],
+    ],
+    bullets: ["MSP is announced for 23 crops.", "PMFBY was launched in 2016.", "PM-KISAN gives Rs 6000 per year.", "Agriculture is a State List subject.", "Swaminathan Commission recommended C2 plus 50 percent MSP."],
+    anchors: [["M.S. Swaminathan Commission", "Recommended MSP at C2 plus 50 percent."], ["Shanta Kumar Committee", "Recommended FCI and PDS reforms."]],
+  },
+  environment: {
+    concise: [
+      ["Environment Protection Act 1986", "Umbrella environmental law enacted after Bhopal disaster."],
+      ["Forest Conservation Act 1980", "Regulates diversion of forest land for non-forest purposes."],
+      ["Wildlife Protection Act 1972", "Provides legal protection to wild animals, birds and plants."],
+      ["NGT Act 2010", "Created National Green Tribunal for environmental adjudication."],
+      ["Paris Agreement 2015", "Climate agreement under UNFCCC to limit global warming."],
+      ["CBD", "Convention on Biological Diversity adopted at Rio Earth Summit 1992."],
+    ],
+    bullets: ["Wildlife Protection Act was enacted in 1972.", "Environment Protection Act was enacted in 1986.", "NGT Act was enacted in 2010.", "Paris Agreement was adopted in 2015.", "CBD emerged from Rio Summit 1992."],
+    anchors: [["Vellore Citizens Welfare Forum v Union of India (1996)", "Accepted precautionary principle and polluter pays principle."], ["M.C. Mehta cases", "Expanded Indian environmental jurisprudence."]],
+  },
+  science: {
+    concise: [
+      ["ISRO", "India's national space agency under Department of Space."],
+      ["Chandrayaan-3", "ISRO mission that achieved lunar soft landing in 2023."],
+      ["Aditya-L1", "India's first solar observatory mission."],
+      ["Gaganyaan", "India's human spaceflight programme."],
+      ["Biotechnology", "Use of biological systems for products, medicine and agriculture."],
+      ["Digital Personal Data Protection Act 2023", "Indian law governing personal data processing."],
+    ],
+    bullets: ["Chandrayaan-3 landed in 2023.", "Aryabhata satellite was launched in 1975.", "Aditya-L1 studies the Sun.", "Gaganyaan is India's human spaceflight programme.", "DPDP Act was enacted in 2023."],
+    anchors: [["National Quantum Mission", "Mission to build quantum technology capacity."], ["Anusandhan National Research Foundation Act 2023", "Creates framework to fund research and innovation."]],
+  },
+  security: {
+    concise: [
+      ["UAPA 1967", "Law for prevention of unlawful activities and terrorism-related offences."],
+      ["NIA Act 2008", "Created National Investigation Agency."],
+      ["FATF", "Global body setting standards against money laundering and terror financing."],
+      ["Left Wing Extremism", "Internal security challenge linked to Maoist violence."],
+      ["Cyber Security", "Protection of networks, data and systems from digital threats."],
+      ["Disaster Management Act 2005", "Law creating NDMA, SDMAs and DDMAs."],
+    ],
+    bullets: ["NIA Act was enacted in 2008.", "UAPA was enacted in 1967.", "Disaster Management Act was enacted in 2005.", "FATF monitors terror financing risks.", "Article 355 concerns Union duty to protect States."],
+    anchors: [["Kargil Review Committee", "Reviewed national security after Kargil conflict."], ["National Cyber Security Policy 2013", "Policy framework for cyber security."]],
+  },
+  history_ancient: {
+    concise: [
+      ["Indus Valley Civilization", "Bronze Age urban civilization c. 2600-1900 BCE."],
+      ["Great Bath", "Ritual bathing structure found at Mohenjo-daro."],
+      ["Rigveda", "Oldest Veda of early Vedic tradition."],
+      ["Mahajanapadas", "Sixteen major states around 6th century BCE."],
+      ["Buddhism", "Religion founded by Gautama Buddha based on Four Noble Truths."],
+      ["Mauryan Empire", "Empire founded by Chandragupta Maurya."],
+    ],
+    bullets: ["Mature Harappan phase is c. 2600-1900 BCE.", "Rigveda is the oldest Veda.", "Buddha taught Four Noble Truths.", "Mahavira was the 24th Tirthankara.", "Ashoka's Kalinga War was around 261 BCE."],
+    anchors: [["Arthashastra", "Kautilya's text on statecraft."], ["Allahabad Prashasti", "Praises Samudragupta."]],
+  },
+  history_modern: {
+    concise: [
+      ["Regulating Act 1773", "First major British parliamentary control over Company administration."],
+      ["Revolt of 1857", "Major uprising beginning at Meerut against Company rule."],
+      ["Indian National Congress", "Founded in 1885 as platform for nationalist politics."],
+      ["Swadeshi Movement", "Movement after Bengal Partition 1905 promoting boycott and indigenous goods."],
+      ["Non-Cooperation Movement", "Gandhian mass movement launched in 1920."],
+      ["Quit India Movement", "Movement launched on 8 August 1942 demanding British withdrawal."],
+    ],
+    bullets: ["INC was founded in 1885.", "Bengal was partitioned in 1905.", "Jallianwala Bagh massacre occurred in 1919.", "Dandi March began in 1930.", "Quit India Movement began in 1942."],
+    anchors: [["Government of India Act 1935", "Provided provincial autonomy and federal scheme."], ["Cabinet Mission Plan 1946", "Proposed Constituent Assembly framework."]],
+  },
+  geography: {
+    concise: [
+      ["Plate Tectonics", "Theory explaining movement of lithospheric plates."],
+      ["Monsoon", "Seasonal reversal of winds causing major rainfall in India."],
+      ["Western Ghats", "Mountain chain parallel to India's western coast."],
+      ["Alluvial Soil", "Fertile soil deposited by rivers, dominant in northern plains."],
+      ["Himalayas", "Young fold mountains formed by Indian-Eurasian plate collision."],
+      ["IMD", "India Meteorological Department responsible for weather and monsoon forecasts."],
+    ],
+    bullets: ["Himalayas are young fold mountains.", "Western Ghats are older than Himalayas.", "Alluvial soil dominates northern plains.", "IMD issues monsoon forecasts.", "El Nino can weaken Indian monsoon."],
+    anchors: [["Disaster Management Act 2005", "Created disaster management institutional framework."], ["Cauvery Water Disputes Tribunal", "Important river water dispute mechanism."]],
+  },
+  society: {
+    concise: [
+      ["Article 14", "Equality before law and equal protection of laws."],
+      ["Article 15", "Prohibits discrimination on specified grounds."],
+      ["Article 17", "Abolishes untouchability."],
+      ["SC/ST Act 1989", "Law preventing atrocities against Scheduled Castes and Scheduled Tribes."],
+      ["NALSA Judgment 2014", "Recognised transgender persons' rights and self-identification."],
+      ["Census 2011", "Latest completed Census of India."],
+    ],
+    bullets: ["Article 17 abolishes untouchability.", "SC/ST Act was enacted in 1989.", "NALSA judgment came in 2014.", "Census 2011 is latest completed Census.", "Vishaka guidelines came in 1997."],
+    anchors: [["Indra Sawhney v Union of India (1992)", "OBC reservation and 50 percent ceiling."], ["Vishaka v State of Rajasthan (1997)", "Workplace sexual harassment guidelines."]],
+  },
+  ethics: {
+    concise: [
+      ["Integrity", "Consistency between values, words and actions."],
+      ["Probity", "Uprightness and honesty in public office."],
+      ["Objectivity", "Decision-making based on evidence and public interest."],
+      ["Accountability", "Obligation to explain and accept responsibility for decisions."],
+      ["Emotional Intelligence", "Ability to understand and manage emotions in self and others."],
+      ["Nolan Principles", "Seven principles of public life from the United Kingdom."],
+    ],
+    bullets: ["2nd ARC reported on Ethics in Governance.", "Nolan principles are seven public-life principles.", "Probity means uprightness in public office.", "Integrity requires consistency in action.", "Conflict of interest must be disclosed and managed."],
+    anchors: [["2nd ARC Fourth Report", "Ethics in Governance report."], ["Gandhian Talisman", "Ethical test focused on weakest person."]],
+  },
+  csat: {
+    concise: [
+      ["CSAT Paper II", "UPSC Prelims qualifying paper carrying 200 marks."],
+      ["Qualifying Mark", "Minimum 33 percent marks required in CSAT."],
+      ["Negative Marking", "One-third penalty for wrong objective answers."],
+      ["Inference", "Conclusion that follows from given information."],
+      ["Assumption", "Unstated premise necessary for an argument."],
+      ["Average", "Sum of observations divided by number of observations."],
+    ],
+    bullets: ["CSAT Paper II carries 200 marks.", "CSAT has 80 questions.", "Qualifying standard is 33 percent.", "Wrong answers carry one-third penalty.", "Inference must follow from passage evidence."],
+    anchors: [["Article 320", "Constitutional provision connected with PSC examination functions."], ["UPSC Notification", "Official source for exam pattern and qualifying rules."]],
+  },
+};
+
 async function main() {
   let offset = 0;
   let processed = 0;
@@ -136,9 +367,16 @@ function makeQuestions(topic) {
   const notes = parseNotes(topic.structured_notes);
   const title = clean(topic.title);
   const subject = clean(topic.subject || "UPSC");
-  const concise = realConcise(notes).slice(0, 12);
-  const bullets = realBullets(notes).slice(0, 10);
-  const anchors = realAnchors(notes);
+  const pack = factualPackFor(topic);
+  const concise = uniquePairs([
+    ...pack.concise.map(([term, definition]) => ({ term, definition })),
+    ...realConcise(notes),
+  ]).slice(0, 12);
+  const bullets = uniqueStrings([...pack.bullets, ...realBullets(notes)]).slice(0, 10);
+  const anchors = uniquePairs([
+    ...pack.anchors.map(([term, definition]) => ({ term, definition })),
+    ...realAnchors(notes),
+  ]);
 
   const usableConcise = concise.length >= 4 ? concise : fallbackConcise(subject);
   const usableBullets = bullets.length >= 4 ? bullets : fallbackBullets(subject);
@@ -200,6 +438,44 @@ function makeQuestions(topic) {
   );
 
   return questions.slice(0, QUESTIONS_PER_TOPIC);
+}
+
+function factualPackFor(topic) {
+  const key = String(topic.key ?? "").toLowerCase();
+  const title = String(topic.title ?? "").toLowerCase();
+  const subject = String(topic.subject ?? "").toLowerCase();
+
+  if (subject === "csat") return factualPacks.csat;
+  if (subject === "essay") return factualPacks.ethics;
+  if (subject === "gs4" || key.includes("ethics") || key.includes("case_studies")) return factualPacks.ethics;
+
+  if (subject === "gs1") {
+    if (key.includes("geography") || title.includes("geography") || title.includes("climate") || title.includes("river") || title.includes("soil") || title.includes("monsoon")) return factualPacks.geography;
+    if (key.includes("society") || title.includes("society") || title.includes("women") || title.includes("population") || title.includes("urban") || title.includes("communal") || title.includes("regional")) return factualPacks.society;
+    if (key.includes("ancient")) return factualPacks.history_ancient;
+    return factualPacks.history_modern;
+  }
+
+  if (subject === "gs2") {
+    if (key.includes("local_bodies")) return factualPacks.local_bodies;
+    if (key.includes("judiciary")) return factualPacks.judiciary;
+    if (key.includes("federalism")) return factualPacks.federalism;
+    if (key.includes("parliament")) return factualPacks.parliament;
+    if (key.includes("executive")) return factualPacks.executive;
+    if (key.includes("governance") || key.includes("rti") || key.includes("social_justice") || title.includes("health") || title.includes("education") || title.includes("welfare")) return factualPacks.governance;
+    if (key.includes("ir") || title.includes("international") || title.includes("bilateral") || title.includes("foreign") || title.includes("neighbour")) return factualPacks.ir;
+    return factualPacks.constitution;
+  }
+
+  if (subject === "gs3") {
+    if (key.includes("agriculture") || title.includes("agriculture") || title.includes("food") || title.includes("msp") || title.includes("farm")) return factualPacks.agriculture;
+    if (key.includes("environment") || title.includes("environment") || title.includes("climate") || title.includes("biodiversity") || title.includes("pollution") || title.includes("forest")) return factualPacks.environment;
+    if (key.includes("science") || title.includes("technology") || title.includes("space") || title.includes("isro") || title.includes("biotech") || title.includes("ai")) return factualPacks.science;
+    if (key.includes("security") || title.includes("security") || title.includes("terror") || title.includes("cyber") || title.includes("disaster")) return factualPacks.security;
+    return factualPacks.economy;
+  }
+
+  return factualPacks.ethics;
 }
 
 function localBodiesQuestions(topic) {
