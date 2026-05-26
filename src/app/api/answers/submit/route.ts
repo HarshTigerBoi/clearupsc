@@ -1,6 +1,6 @@
 import { z } from "zod";
-import { evaluateAnswer } from "@/lib/ai/answer-eval";
 import { fail, ok } from "@/lib/api/response";
+import { evaluateAnswer } from "@/lib/answer-writing/evaluator";
 import { ProductDataError, requireProductUser, storeAnswerEvaluation } from "@/lib/product/db";
 
 const answerSchema = z.object({
@@ -15,7 +15,7 @@ export async function POST(request: Request) {
   if (!parsed.success) return fail("Invalid answer submission", 400, parsed.error.flatten());
   try {
     const { user } = await requireProductUser();
-    const evaluation = await evaluateAnswer(parsed.data);
+    const evaluation = evaluateAnswer(parsed.data.answerText, { questionText: parsed.data.questionText });
     const saved = await storeAnswerEvaluation(user.id, parsed.data, evaluation);
     return ok({
       submission: {
@@ -28,11 +28,11 @@ export async function POST(request: Request) {
       },
       evaluation,
       persisted: true,
-      aiMode: process.env.ANTHROPIC_API_KEY ? "anthropic" : "local-rubric",
+      aiMode: "deterministic-rubric",
     });
   } catch (error) {
     if (error instanceof ProductDataError && error.status === 401) {
-      const evaluation = await evaluateAnswer(parsed.data);
+      const evaluation = evaluateAnswer(parsed.data.answerText, { questionText: parsed.data.questionText });
       return ok({
         submission: {
           id: `guest-${Date.now()}`,
@@ -45,7 +45,7 @@ export async function POST(request: Request) {
         evaluation,
         persisted: false,
         guest: true,
-        aiMode: process.env.ANTHROPIC_API_KEY ? "anthropic" : "local-rubric",
+        aiMode: "deterministic-rubric",
       });
     }
     if (error instanceof ProductDataError) return fail(error.message, error.status);

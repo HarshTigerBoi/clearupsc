@@ -116,9 +116,8 @@ export default function AnswerWritingPracticePage() {
                 {[
                   ["Content", evaluation.content_score, 40],
                   ["Structure", evaluation.structure_score, 25],
-                  ["Clarity", evaluation.clarity_score, 20],
-                  ["Depth", evaluation.depth_score, 10],
-                  ["Presentation", evaluation.presentation_score, 5],
+                  ["Depth", evaluation.depth_score, 20],
+                  ["Presentation", evaluation.presentation_score, 15],
                 ].map(([label, score, max]) => (
                   <div key={String(label)}>
                     <div className="flex justify-between text-sm font-bold text-slate-600">
@@ -135,7 +134,14 @@ export default function AnswerWritingPracticePage() {
                     {evaluation.improvements.map((item) => <li key={item}>{item}</li>)}
                   </ul>
                 </div>
+                <div>
+                  <p className="font-black text-[#1a2744]">What worked</p>
+                  <ul className="mt-2 list-disc space-y-2 pl-5 text-sm leading-6 text-slate-600">
+                    {evaluation.strengths.map((item) => <li key={item}>{item}</li>)}
+                  </ul>
+                </div>
                 <div className="rounded-2xl bg-slate-50 p-4 text-sm leading-6 text-slate-700">{evaluation.model_answer_hint}</div>
+                <div className="rounded-2xl bg-orange-50 p-4 text-sm leading-6 text-orange-800">{evaluation.overall_feedback}</div>
               </div>
             ) : (
               <div className="mt-4 rounded-2xl bg-slate-50 p-5 text-sm leading-6 text-slate-600">
