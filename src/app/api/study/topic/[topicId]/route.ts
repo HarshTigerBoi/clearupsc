@@ -29,6 +29,7 @@ export async function GET(_request: NextRequest, { params }: { params: { topicId
     const wiki = await getCachedWikiSummary(supabase, String(topic.key), wikiSlug);
     const progress = user ? await getProgress(supabase, user.id, String(topic.key)) : null;
     const mcqs = await getTopicMcqs(supabase, String(topic.key));
+    const practiceQuestionCount = await getPracticeQuestionCount(supabase, String(topic.key));
     const pyqs = await getTopicPyqs(supabase, String(topic.key), String(topic.subject));
     const notes = topic.structured_notes || defaultStructuredNotes(String(topic.title), String(topic.subject));
     const notesStructured = parseStructuredNotes(notes, { title: String(topic.title), wikiSummary: wiki?.summary ?? null });
@@ -55,6 +56,7 @@ export async function GET(_request: NextRequest, { params }: { params: { topicId
       },
       ncertRefs,
       quizQuestions,
+      practiceQuestionCount,
     });
   } catch {
     return fail("Could not load study topic.", 500);
@@ -76,6 +78,21 @@ async function getProgress(supabase: Awaited<ReturnType<typeof createClient>>, u
     .eq("topic_key", topicKey)
     .maybeSingle();
   return data ?? null;
+}
+
+async function getPracticeQuestionCount(supabase: Awaited<ReturnType<typeof createClient>>, topicKey: string) {
+  const enriched = await supabase
+    .from("questions")
+    .select("id", { count: "exact", head: true })
+    .eq("question_type", "mcq")
+    .eq("topic_key", topicKey);
+  if (!enriched.error) return enriched.count ?? 0;
+
+  const legacy = await supabase
+    .from("questions")
+    .select("id", { count: "exact", head: true })
+    .eq("topic_key", topicKey);
+  return legacy.count ?? 0;
 }
 
 async function getTopicMcqs(supabase: Awaited<ReturnType<typeof createClient>>, topicKey: string) {

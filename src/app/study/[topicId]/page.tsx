@@ -8,6 +8,8 @@ import { Bar, BarChart, ResponsiveContainer, XAxis, YAxis } from "recharts";
 import { useMutation, useQuery } from "@tanstack/react-query";
 import { ArrowLeft, ArrowRight, BookOpen, CheckCircle2, ChevronRight, ExternalLink, FileText, Target, Trophy } from "lucide-react";
 import ProductShell from "@/components/product/ProductShell";
+import Arsenal from "@/components/study/Arsenal";
+import QuickRecall from "@/components/study/QuickRecall";
 import { LoadingSkeleton } from "@/components/ui/state";
 import { findNcertUrlForText } from "@/lib/study/ncert-urls";
 import { calculateNextReview, qualityFromScore } from "@/lib/study/spaced-repetition";
@@ -73,15 +75,18 @@ interface TopicPayload {
   nextTopic: TopicLink | null;
   readTime: { full: string; revision: string };
   quizQuestions: QuizQuestion[];
+  practiceQuestionCount: number;
 }
 
 const steps = [
-  { id: "get-it", label: "Get It", title: "Understand It First" },
-  { id: "learn-it", label: "Learn It", title: "Full Notes" },
-  { id: "memorise-it", label: "Memorise It", title: "Concise Notes" },
-  { id: "revise-it", label: "Revise It", title: "Last Night Notes" },
-  { id: "read-it", label: "Read It", title: "NCERT" },
-  { id: "prove-it", label: "Prove It", title: "Official + Pattern Questions" },
+  { id: "get-it", step: "01", label: "Get It", title: "Understand It First" },
+  { id: "learn-it", step: "02", label: "Learn It", title: "Full Notes" },
+  { id: "memorise-it", step: "03", label: "Memorise It", title: "Concise Notes" },
+  { id: "quick-recall", step: "03.5", label: "Quick Recall", title: "Active Recall" },
+  { id: "revise-it", step: "04", label: "Revise It", title: "Last Night Notes" },
+  { id: "arsenal", step: "05", label: "Arsenal", title: "Exam Warrior Layer" },
+  { id: "read-it", step: "06", label: "Read It", title: "NCERT" },
+  { id: "prove-it", step: "07", label: "Prove It", title: "Official + Pattern Questions" },
 ] as const;
 
 function saveGuestProgress(topicId: string, patch: Record<string, unknown>) {
@@ -296,6 +301,10 @@ export default function StudyTopicPage({ params }: { params: { topicId: string }
               <ConciseTable rows={data.notesStructured.concise_notes} />
             </StepSection>
 
+            <StepSection id="quick-recall" step="03.5" label="03.5 QUICK RECALL" title="Recall Before You Read Again" tone="white">
+              <QuickRecall topicKey={params.topicId} conciseNotes={data.notesStructured.concise_notes} />
+            </StepSection>
+
             <StepSection id="revise-it" step="04" label="Revise It" title="Last Night Notes" tone="white">
               <div className="mb-4 inline-flex rounded-full bg-red-100 px-4 py-2 text-xs font-black uppercase tracking-[0.16em] text-red-700">
                 Revise Before Exam
@@ -310,11 +319,22 @@ export default function StudyTopicPage({ params }: { params: { topicId: string }
               </ul>
             </StepSection>
 
-            <StepSection id="read-it" step="05" label="Read It" title="NCERT" tone="gray">
+            <StepSection id="arsenal" step="05" label="Arsenal" title="Exam Warrior Layer" tone="gray">
+              <Arsenal
+                topicKey={data.topic.key}
+                topicTitle={data.topic.title}
+                practiceQuestionCount={data.practiceQuestionCount ?? data.quizQuestions.length}
+                traps={data.notesStructured.prelims_traps}
+                mainsAngles={data.notesStructured.mains_angles}
+                connectedTopics={data.notesStructured.mindmap.branches}
+              />
+            </StepSection>
+
+            <StepSection id="read-it" step="06" label="Read It" title="NCERT" tone="gray">
               <NcertViewer ncerts={ncertRefs} coverage={data.notesStructured.ncert_coverage} />
             </StepSection>
 
-            <StepSection id="prove-it" step="06" label="Prove It" title="Official + Pattern Questions" tone="white">
+            <StepSection id="prove-it" step="07" label="Prove It" title="Official + Pattern Questions" tone="white">
               <QuestionPractice topicId={params.topicId} questions={data.quizQuestions} progress={data.progress} />
             </StepSection>
 
@@ -445,7 +465,7 @@ function qualityLabel(value?: string | null) {
 }
 
 function StudyLoopCard({ started, onStart }: { started: boolean; onStart: () => void }) {
-  const items = ["Easy explanation", "Full notes", "Concise revision", "NCERT", "10 MCQs", "Flashcard", "Answer writing", "Progress"];
+  const items = ["Easy explanation", "Full notes", "Quick recall", "Arsenal", "NCERT", "MCQs", "Answer writing", "Progress"];
   return (
     <section className="rounded-[2rem] border border-indigo-100 bg-gradient-to-br from-[#1a2744] to-[#312e81] p-5 text-white shadow-sm sm:p-6">
       <div className="flex flex-col gap-5 lg:flex-row lg:items-center lg:justify-between">
@@ -481,7 +501,7 @@ function StepSidebar({ activeStep }: { activeStep: number }) {
               className={`flex w-full items-center gap-3 rounded-2xl px-3 py-2 text-left text-xs font-black transition ${activeStep === index ? "bg-[#1a2744] text-white" : "text-slate-500 hover:bg-slate-50"}`}
             >
               <span className={`h-2.5 w-2.5 rounded-full ${activeStep >= index ? "bg-[#f97316]" : "bg-slate-300"}`} />
-              {index + 1}. {step.label}
+              {step.step}. {step.label}
             </button>
           ))}
         </nav>
@@ -494,7 +514,7 @@ function MobileProgress({ activeStep }: { activeStep: number }) {
   return (
       <div className="fixed inset-x-3 bottom-24 z-30 rounded-2xl border border-slate-200 bg-white/95 p-3 shadow-2xl backdrop-blur lg:hidden">
       <div className="flex items-center justify-between text-xs font-black text-[#1a2744]">
-        <span>Step {activeStep + 1} of 6</span>
+        <span>Step {steps[activeStep].step} of {steps.length}</span>
         <span>{steps[activeStep].label}</span>
       </div>
       <div className="mt-2 h-2 overflow-hidden rounded-full bg-slate-100">
