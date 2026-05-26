@@ -602,6 +602,8 @@ export async function finishMockAttempt(userId: string, testId: string, answers:
   }
 
   const subjectBreakdown = Array.from(subjectMap.entries()).map(([subject, value]) => ({ subject, ...value }));
+  const repairPlan = await buildMockRepairPlan(userId, subjectBreakdown);
+  await updateProfileWeakSubjects(userId, repairPlan.subjects.map((item) => item.subject));
   return {
     score,
     correct,
@@ -610,7 +612,134 @@ export async function finishMockAttempt(userId: string, testId: string, answers:
     totalQuestions: questions.length,
     subjectBreakdown,
     weakAreas: subjectBreakdown.filter((item) => item.correct / item.total < 0.5).map((item) => item.subject),
+    repairPlan,
   };
+}
+
+type MockSubjectScore = { subject: string; correct: number; total: number };
+
+export async function buildMockRepairPlan(userId: string | null, subjectBreakdown: MockSubjectScore[]): Promise<NonNullable<MockResult["repairPlan"]>> {
+  const topics = await getTopicsFromDb();
+  const progress = userId ? (await getSyllabusProgress(userId).catch(() => ({ progress: [] }))).progress : [];
+  const progressByTopic = new Map(progress.map((item) => [item.topic_key, item]));
+  const weakSubjects = [...subjectBreakdown]
+    .filter((item) => item.total > 0)
+    .map((item) => ({ ...item, scorePercent: Math.round((item.correct / item.total) * 100) }))
+    .sort((a, b) => a.scorePercent - b.scorePercent || b.total - a.total)
+    .slice(0, 3);
+
+  return {
+    subjects: weakSubjects.map((weak) => {
+      const matching = topics
+        .filter((topic) => topicMatchesMockSubject(topic, weak.subject))
+        .map((topic) => {
+          const item = progressByTopic.get(topic.key);
+          const lowScore = item?.last_score !== undefined && item.last_score < 70;
+          const mistakes = (item?.mistakes_count ?? 0) > 0;
+          const unstudied = !item || item.status === "not_started";
+          const priority = (lowScore ? 100 : 0) + (mistakes ? 50 + (item?.mistakes_count ?? 0) : 0) + (unstudied ? 35 : 0) + (topic.upscWeightage ?? 1);
+          return { topic, item, priority };
+        })
+        .sort((a, b) => b.priority - a.priority || (b.topic.upscWeightage ?? 0) - (a.topic.upscWeightage ?? 0))
+        .slice(0, 5);
+
+      return {
+        subject: weak.subject,
+        correct: weak.correct,
+        total: weak.total,
+        scorePercent: weak.scorePercent,
+        topics: matching.map(({ topic, item }) => ({
+          key: topic.key,
+          title: topic.title,
+          href: `/study/${topic.key}`,
+          reason: item?.last_score !== undefined && item.last_score < 70
+            ? `Last topic score ${item.last_score}%`
+            : item?.mistakes_count
+              ? `${item.mistakes_count} mistakes logged`
+              : "Not studied yet",
+        })),
+      };
+    }),
+  };
+}
+
+function topicMatchesMockSubject(topic: Awaited<ReturnType<typeof getTopicsFromDb>>[number], subject: string) {
+  const haystack = `${topic.key} ${topic.title} ${topic.subject}`.toLowerCase();
+  const lower = subject.toLowerCase();
+  const aliases: Record<string, string[]> = {
+    polity: ["polity", "constitution", "judiciary", "parliament", "federalism", "local_bodies"],
+    governance: ["governance", "rti", "welfare", "schemes", "citizen", "transparency"],
+    economy: ["economy", "inflation", "banking", "budget", "fiscal", "monetary", "gdp", "agriculture"],
+    environment: ["environment", "ecology", "biodiversity", "climate", "pollution", "conservation"],
+    geography: ["geography", "physical", "monsoon", "river", "soil", "climate", "mapping"],
+    history: ["history", "ancient", "medieval", "modern", "culture", "freedom"],
+    science: ["science", "technology", "space", "isro", "biotech", "defence", "cyber"],
+    ethics: ["ethics", "integrity", "aptitude", "probity", "case_studies"],
+    security: ["security", "border", "terrorism", "cyber", "internal_security"],
+    society: ["society", "social", "women", "population", "poverty", "education", "health"],
+    csat: ["csat", "comprehension", "reasoning", "quant", "aptitude"],
+  };
+  const terms = aliases[lower] ?? [lower];
+  return terms.some((term) => haystack.includes(term));
+}
+
+async function updateProfileWeakSubjects(userId: string, weakSubjects: string[]) {
+  if (!weakSubjects.length) return;
+  const supabase = await createClient();
+  const profile = await getUserProfile(userId).catch(() => null);
+  const existing = Array.isArray(profile?.weak_subjects) ? profile.weak_subjects.map(String) : [];
+  const merged = Array.from(new Set([...weakSubjects, ...existing])).slice(0, 8);
+  await supabase.from("user_profiles").upsert(
+    {
+      user_id: userId,
+      weak_subjects: merged,
+      updated_at: new Date().toISOString(),
+    },
+    { onConflict: "user_id" },
+  );
+}
+
+export async function addMockRepairTopicsToPlan(userId: string, topicKeys: string[]) {
+  const supabase = await createClient();
+  const uniqueTopicKeys = Array.from(new Set(topicKeys)).slice(0, 15);
+  if (!uniqueTopicKeys.length) return { inserted: 0 };
+  const topics = await getTopicsFromDb();
+  const validKeys = uniqueTopicKeys.filter((key) => topics.some((topic) => topic.key === key));
+  let inserted = 0;
+
+  for (let day = 0; day < 3; day += 1) {
+    const date = new Date(Date.now() + day * 24 * 60 * 60 * 1000).toISOString().slice(0, 10);
+    const dayKeys = validKeys.filter((_, index) => index % 3 === day);
+    if (!dayKeys.length) continue;
+
+    const { data: plan, error: planError } = await supabase
+      .from("study_plans")
+      .upsert({ user_id: userId, date, total_hours: 4 }, { onConflict: "user_id,date" })
+      .select("id")
+      .single();
+    if (planError || !plan?.id) continue;
+
+    const { data: existing } = await supabase
+      .from("study_plan_tasks")
+      .select("topic_key,task_type")
+      .eq("plan_id", plan.id);
+    const existingKeys = new Set((existing ?? []).map((task) => `${task.topic_key}:revise`));
+    const tasks = dayKeys
+      .filter((key) => !existingKeys.has(`${key}:revise`))
+      .map((key) => ({
+        plan_id: plan.id,
+        topic_key: key,
+        task_type: "revise",
+        duration_minutes: 35,
+      }));
+
+    if (tasks.length) {
+      const { error } = await supabase.from("study_plan_tasks").insert(tasks);
+      if (!error) inserted += tasks.length;
+    }
+  }
+
+  return { inserted };
 }
 
 async function autoFlagWeakTopic(userId: string, subject: string) {

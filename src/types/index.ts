@@ -159,6 +159,16 @@ export interface MockResult {
   totalQuestions: number;
   subjectBreakdown: Array<{ subject: string; correct: number; total: number }>;
   weakAreas: string[];
+  repairPlan?: {
+    subjects: Array<{
+      subject: string;
+      correct: number;
+      total: number;
+      scorePercent: number;
+      topics: Array<{ key: string; title: string; href: string; reason: string }>;
+    }>;
+  };
+  guest?: boolean;
 }
 
 export interface DafEntry {

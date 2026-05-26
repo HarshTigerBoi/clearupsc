@@ -1,6 +1,6 @@
 import { z } from "zod";
 import { fail, ok } from "@/lib/api/response";
-import { finishMockAttempt, getQuestionPool, ProductDataError, requireProductUser } from "@/lib/product/db";
+import { buildMockRepairPlan, finishMockAttempt, getQuestionPool, ProductDataError, requireProductUser } from "@/lib/product/db";
 
 const submitSchema = z.object({
   answers: z.record(z.string(), z.enum(["A", "B", "C", "D"]).optional()),
@@ -43,6 +43,7 @@ async function scoreGuestMock(testId: string, answers: Record<string, "A" | "B" 
   }
 
   const subjectBreakdown = Array.from(subjectMap.entries()).map(([subject, value]) => ({ subject, ...value }));
+  const repairPlan = await buildMockRepairPlan(null, subjectBreakdown);
   return {
     score: Number((correct * 2 - wrong * 0.67).toFixed(2)),
     correct,
@@ -51,6 +52,7 @@ async function scoreGuestMock(testId: string, answers: Record<string, "A" | "B" 
     totalQuestions: questions.length,
     subjectBreakdown,
     weakAreas: subjectBreakdown.filter((item) => item.correct / item.total < 0.5).map((item) => item.subject),
+    repairPlan,
     guest: true,
   };
 }

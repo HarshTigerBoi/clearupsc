@@ -1,5 +1,6 @@
 "use client";
 
+import Link from "next/link";
 import { useEffect, useState } from "react";
 import { Clock, Loader2 } from "lucide-react";
 import ProductShell from "@/components/product/ProductShell";
@@ -17,6 +18,8 @@ export default function ActiveMockPage({ params }: { params: { id: string } }) {
   const [paused, setPaused] = useState(false);
   const [loading, setLoading] = useState(true);
   const [error, setError] = useState("");
+  const [repairSaving, setRepairSaving] = useState(false);
+  const [repairMessage, setRepairMessage] = useState("");
 
   useEffect(() => {
     let cancelled = false;
@@ -60,6 +63,33 @@ export default function ActiveMockPage({ params }: { params: { id: string } }) {
     if (data.result) setResult(data.result);
   }
 
+  async function addRepairPlanToStudyPlan() {
+    const topicKeys = result?.repairPlan?.subjects.flatMap((subject) => subject.topics.map((topic) => topic.key)) ?? [];
+    if (!topicKeys.length) return;
+    setRepairSaving(true);
+    setRepairMessage("");
+    try {
+      const response = await fetch(`/api/mock-tests/${params.id}/repair-plan`, {
+        method: "POST",
+        headers: { "Content-Type": "application/json" },
+        body: JSON.stringify({ topicKeys }),
+      });
+      const data = (await response.json()) as { inserted?: number; guest?: boolean; error?: string };
+      if (data.error) {
+        setRepairMessage(data.error);
+      } else if (data.guest) {
+        window.localStorage.setItem("clearupsc_guest_mock_repair_plan", JSON.stringify({ topicKeys, savedAt: new Date().toISOString() }));
+        setRepairMessage("Saved on this device. Sign in when you want cloud sync.");
+      } else {
+        setRepairMessage(`${data.inserted ?? topicKeys.length} repair tasks added for the next 3 days.`);
+      }
+    } catch {
+      setRepairMessage("Could not add this repair plan right now.");
+    } finally {
+      setRepairSaving(false);
+    }
+  }
+
   return (
     <ProductShell>
       <section className="mx-auto max-w-4xl px-4 py-6 sm:px-6 sm:py-8 lg:px-8">
@@ -96,6 +126,38 @@ export default function ActiveMockPage({ params }: { params: { id: string } }) {
                 <p className="font-black text-[#1a2744]">Review method</p>
                 <p className="mt-1 text-sm text-slate-600">Re-attempt wrong subjects first, then open the related syllabus topic and add one flashcard for every repeated fact you missed.</p>
               </div>
+              {result.repairPlan?.subjects.length ? (
+                <div className="mt-5 rounded-2xl border border-orange-200 bg-orange-50 p-4 sm:p-5">
+                  <div className="flex flex-col gap-3 sm:flex-row sm:items-start sm:justify-between">
+                    <div>
+                      <p className="text-xs font-black uppercase tracking-[0.12em] text-orange-700">Your Repair Plan</p>
+                      <h2 className="mt-2 text-2xl font-black text-[#1a2744]">Fix This Week</h2>
+                      <p className="mt-1 text-sm leading-6 text-slate-700">These topics target the three weakest subjects from this mock and feed your plan automatically.</p>
+                    </div>
+                    <Button onClick={addRepairPlanToStudyPlan} disabled={repairSaving} className="min-h-12 w-full bg-[#f97316] text-white hover:bg-[#ea580c] sm:w-auto">
+                      {repairSaving ? "Adding..." : "Add to My Plan"}
+                    </Button>
+                  </div>
+                  {repairMessage ? <p className="mt-3 rounded-xl bg-white p-3 text-sm font-bold text-[#1a2744]">{repairMessage}</p> : null}
+                  <div className="mt-4 space-y-4">
+                    {result.repairPlan.subjects.map((subject) => (
+                      <div key={subject.subject} className="rounded-2xl bg-white p-4">
+                        <p className="font-black text-[#1a2744]">
+                          {subject.subject} <span className="text-sm font-bold text-slate-500">- scored {subject.correct}/{subject.total} ({subject.scorePercent}%)</span>
+                        </p>
+                        <div className="mt-3 grid gap-2">
+                          {subject.topics.map((topic) => (
+                            <Link key={topic.key} href={topic.href} className="block min-h-12 rounded-xl border border-slate-200 px-3 py-3 text-sm font-bold leading-6 text-[#1a2744] hover:border-[#f97316] hover:bg-orange-50">
+                              {topic.title}
+                              <span className="block text-xs font-semibold text-slate-500">{topic.reason}</span>
+                            </Link>
+                          ))}
+                        </div>
+                      </div>
+                    ))}
+                  </div>
+                </div>
+              ) : null}
             </div>
           ) : loading ? (
             <div className="mt-8 flex items-center gap-3 text-sm font-bold text-slate-500">
