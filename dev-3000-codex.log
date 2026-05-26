@@ -9,25 +9,37 @@
  ✓ Starting...
 > [PWA] PWA support is disabled
 > [PWA] PWA support is disabled
- ✓ Ready in 2.8s
+ ✓ Ready in 2.1s
  ○ Compiling /study/[topicId] ...
- ✓ Compiled /study/[topicId] in 5.8s (2541 modules)
- GET /study/csat_comprehension 200 in 6406ms
- ○ Compiling /api/study/topic/[topicId] ...
- ✓ Compiled /api/study/topic/[topicId] in 2.4s (1365 modules)
- GET /api/study/topic/csat_comprehension 200 in 6318ms
- ✓ Compiled in 478ms (2532 modules)
- ✓ Compiled in 321ms (1259 modules)
- ✓ Compiled in 175ms (1259 modules)
- ✓ Compiled in 280ms (1259 modules)
- GET /study/csat_comprehension 200 in 185ms
- ✓ Compiled /api/study/topic/[topicId] in 245ms (1365 modules)
- GET /api/study/topic/csat_comprehension 200 in 2081ms
- ✓ Compiled in 242ms (1259 modules)
- ✓ Compiled in 315ms (1259 modules)
- ✓ Compiled in 168ms (1259 modules)
- ✓ Compiled in 181ms (1259 modules)
- ✓ Compiled in 178ms (1259 modules)
- ✓ Compiled in 351ms (1259 modules)
- ✓ Compiled in 245ms (1259 modules)
- ✓ Compiled in 261ms (1259 modules)
+ ✓ Compiled /study/[topicId] in 8.6s (2544 modules)
+ GET /study/gs2_polity_judiciary 200 in 8832ms
+ GET /_next/static/webpack/2515ca75f87de20a.webpack.hot-update.json 404 in 8850ms
+ GET /study/gs2_polity_judiciary 200 in 336ms
+ ✓ Compiled /api/study/topic/[topicId] in 363ms (1366 modules)
+ GET /api/study/topic/gs2_polity_judiciary 200 in 2517ms
+ GET /study/gs2_polity_judiciary 200 in 150ms
+ GET /api/study/topic/gs2_polity_judiciary 200 in 1490ms
+ GET /study/gs2_polity_local_bodies 200 in 40ms
+ GET /study/gs3_economy_basics 200 in 32ms
+ GET /api/study/topic/gs2_polity_local_bodies 200 in 1860ms
+ GET /api/study/topic/gs3_economy_basics 200 in 1608ms
+ GET /study/csat_comprehension 200 in 41ms
+ GET /api/study/topic/csat_comprehension 200 in 1289ms
+ GET /study/gs2_polity_local_bodies 200 in 39ms
+ GET /api/study/topic/gs2_polity_local_bodies 200 in 1408ms
+ ✓ Compiled in 295ms (1259 modules)
+ ✓ Compiled in 162ms (1259 modules)
+ GET /study/gs2_polity_local_bodies 200 in 32ms
+ GET /api/study/topic/gs2_polity_local_bodies 200 in 1597ms
+ ✓ Compiled in 451ms (2624 modules)
+ ✓ Compiled in 200ms (1259 modules)
+ GET /study/gs2_polity_local_bodies 200 in 170ms
+ GET /api/study/topic/gs2_polity_local_bodies 200 in 1445ms
+ ✓ Compiled in 183ms (1259 modules)
+ ✓ Compiled /_not-found in 593ms (2613 modules)
+ ○ Compiling /_error ...
+ ✓ Compiled /_error in 1415ms (2839 modules)
+ GET /_next/static/css/app/layout.css?v=1779751315460 500 in 3202ms
+ GET /_next/static/css/app/layout.css?v=1779751316054 500 in 2503ms
+ GET /study/gs2_polity_local_bodies 500 in 213ms
+[?25h
