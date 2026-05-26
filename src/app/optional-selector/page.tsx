@@ -47,7 +47,7 @@ export default function OptionalSelectorPage() {
     setStartError("");
 
     if (!hasSupabaseConfig()) {
-      router.push("/auth/signin?next=/onboarding");
+      router.push(`/auth/signin?next=${encodeURIComponent("/onboarding?force=1")}`);
       return;
     }
 
@@ -57,7 +57,7 @@ export default function OptionalSelectorPage() {
     } = await supabase.auth.getUser();
 
     if (!user) {
-      router.push("/auth/signin?next=/onboarding");
+      router.push(`/auth/signin?next=${encodeURIComponent("/onboarding?force=1")}`);
       return;
     }
 
@@ -76,7 +76,7 @@ export default function OptionalSelectorPage() {
       return;
     }
 
-    router.push("/onboarding");
+    router.push("/onboarding?force=1");
   }
 
   return (

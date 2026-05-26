@@ -88,6 +88,10 @@ export async function middleware(request: NextRequest) {
   }
 
   if (pathname === "/onboarding") {
+    if (request.nextUrl.searchParams.get("force") === "1") {
+      return supabaseResponse;
+    }
+
     const { data: profile } = await supabase
       .from("user_profiles")
       .select("onboarding_complete")
