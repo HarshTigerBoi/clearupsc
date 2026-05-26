@@ -1,40 +1,93 @@
-# Captain Handoff — ClearUPSC
-## Status: Core Product Complete
+# Captain Handoff - ClearUPSC
+## Status: All 8 Master Plan Prompts Complete
 
-## What Is Done
-- 1196 topics with real structured notes (400-600 words each)
+## Product State
+- Live site: https://clearupsc.vercel.app
+- GitHub: https://github.com/HarshTigerBoi/clearupsc
+- Stack: Next.js 14, TypeScript, Tailwind, Supabase, Vercel
+- Local project: C:\Users\harsh\Documents\Codex\2026-05-09\files-mentioned-by-the-user-ttp\clearupsc
+- Product direction: guest-first full access, sign-in optional for cloud sync
+
+## Core Course Layer
+- 1196 UPSC topics with structured notes
 - 5980 real factual MCQs with plausible distractors and explanations
-- 565 official UPSC Mains PYQs imported (2013-2021, source: UPSC-Star)
-- 10 full Prelims mock tests, 100 questions each
-- 43 current affairs entries with real PIB sources
-- Full progress tracking: time spent, correct count, mistakes count, last score
-- Weak area detection: topics where last_score < 60 or mistakes > 2
-- Adaptive dashboard with ONE primary next action card
+- 565 official UPSC Mains PYQs imported from UPSC-Star
+- 10 full Prelims mock tests with 100 questions each
+- Study flow: Get It, Learn It, Memorise It, Revise It, Read It, Prove It
+- Mark Complete & Continue moves users to the next topic
+
+## Completed Master Plan Prompts
+1. DONE - Personalized study sequence from onboarding
+   - Onboarding answers now influence dashboard next action and study plan order.
+   - Guest mode uses localStorage onboarding/progress for recommendations.
+
+2. DONE - SM-2 spaced repetition engine
+   - Topic progress stores review schedule fields.
+   - Prove It scores influence review timing.
+   - Dashboard revision card uses due topic reviews.
+
+3. DONE - Deterministic answer writing evaluator
+   - No AI key required.
+   - Scores answer writing by content, structure, clarity, depth and presentation.
+   - Saves submissions and shows feedback.
+
+4. DONE - Complete NCERT URL mapping
+   - NCERT URL map added.
+   - Read It section shows official NCERT PDF links where mapped.
+   - NCERT library refresh script updated.
+
+5. DONE - Mobile UX audit and fixes
+   - 375px audit completed.
+   - Homepage, optional selector, onboarding, dashboard, study page, Prove It and mock tests fixed.
+   - No horizontal overflow on audited main pages.
+
+6. DONE - Mock test repair plan
+   - Mock results show "Fix This Week".
+   - Finds weakest subjects and recommends repair topics.
+   - Add to My Plan saves tasks for the next 3 days.
+   - Weak subjects update user_profiles automatically.
+
+7. DONE - Current affairs complete system
+   - 43 current affairs entries enhanced.
+   - Fields added: upsc_angle, static_link, prelims_hook, mains_angle.
+   - Cards show UPSC Angle, Prelims Hook, Mains Angle, Related Topic and Add to Flashcard.
+
+8. DONE - End-to-end product flow
+   - Homepage -> Optional Selector -> Sign In optional -> Onboarding -> Dashboard -> Study -> Next Topic works.
+   - GitHub OAuth works.
+   - Guest-first access remains preserved.
+
+## Other Completed Work
 - Minimal dark homepage with hamburger navigation
-- GitHub OAuth sign-in (no email rate limits)
-- Connected onboarding flow: optional selector → sign in → onboarding → dashboard → study
-- Study page: Get It, Learn It, Memorise It, Revise It, Read It, Prove It
-- Auto-continue: Mark Complete → next topic loads automatically
-- GitHub repo: HarshTigerBoi/clearupsc → Vercel auto-deploy
+- GitHub OAuth sign-in only, avoiding email magic-link rate limits
+- Adaptive dashboard with one primary next action card
+- Progress tracking: time spent, correct count, mistakes count, last score
+- Weak area detection from topic scores and mock performance
+- Current affairs flashcard creation
+- Mock test question mappings
+- Vercel auto-deploy from GitHub main branch
 
-## What Still Needs Work
-1. Onboarding answers not yet used to personalize topic sequence
-2. Real Prelims PYQs — no verified MCQ answer key dataset found publicly
-3. NCERT layer — links exist but many still show "coming soon"
-4. Answer writing AI evaluation — needs Anthropic API key
-5. Current affairs cron — runs on Vercel but needs SMTP for email digest
-6. Mobile UX — some pages need 375px polish
-7. Payments — Razorpay not activated yet
+## What Remains
+1. Payments
+   - Razorpay activation and production subscription flow.
 
-## Stack
-Next.js 14, TypeScript, Tailwind, Supabase, Vercel
-Local: C:\Users\harsh\Documents\Codex\2026-05-09\files-mentioned-by-the-user-ttp\clearupsc
-Live: https://clearupsc.vercel.app
-GitHub: https://github.com/HarshTigerBoi/clearupsc
+2. Real Prelims PYQs
+   - Need verified official Prelims MCQs with answer keys.
+   - Public structured answer-key dataset was not found.
+
+3. Content Quality Audit
+   - Topic-by-topic review for depth, factual precision and source quality.
+   - Priority: high-weight GS2 Polity, GS3 Economy, GS3 Environment, Modern History.
+
+4. Interview Prep Module
+   - Strengthen DAF-based question generation.
+   - Add board-style mock interview sessions and evaluation history.
+
+5. Essay Module
+   - Dedicated essay prompts, outlines, scoring rubric and model frameworks.
+   - Connect essay practice to dashboard streak and average score.
 
 ## How To Continue
-Paste this file to new Claude and say: continue captain mode
-
 For every new Claude/Codex session, start with:
 
 ```txt
@@ -43,14 +96,8 @@ Check git status before changing anything.
 Continue from existing work, do not overwrite.
 ```
 
-## Next 5 Session Prompts For Codex
+Next best session:
 
-Session 1: Check git status first. Check existing personalization work in src/lib/product/db.ts. Build personalized study sequence from onboarding answers - exam year, weak subjects, daily hours, experience level. Update dashboard next action and study_plan_tasks to reflect personalized order.
-
-Session 2: Implement spaced repetition. After topic completion schedule review at 1, 3, 7, 14, 30 days. Store next_review_at in topic_progress. Dashboard shows topics due today. High score = longer interval. Low score = shorter interval.
-
-Session 3: Mobile UX polish. Fix every page at 375px - no horizontal scroll, tap-friendly questions, stacking dashboard cards, smooth hamburger menu, clean onboarding on small screens.
-
-Session 4: NCERT layer. Map all Class 6-12 NCERT chapters to official ncert.nic.in URLs. Update Read It section to show real clickable links for every topic.
-
-Session 5: Essay and answer writing module. User picks Mains PYQ, types answer, app scores against rubric - intro, structure, examples, conclusion, word count. Store in answer_submissions. Show streak and average score on dashboard.
+```txt
+Audit the live app end to end as a serious UPSC aspirant. Identify the top 10 product gaps that still prevent ClearUPSC from feeling like a premium paid course, then fix the highest-impact one first.
+```
