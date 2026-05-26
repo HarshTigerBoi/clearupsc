@@ -44,6 +44,7 @@ interface AnalyticsResponse {
     trend: "improving" | "declining" | "stable" | "none";
     label: string;
   };
+  guest?: boolean;
 }
 
 export default function AnalyticsDashboardPage() {
@@ -57,6 +58,7 @@ export default function AnalyticsDashboardPage() {
   });
 
   const analytics = analyticsQuery.data;
+  const isGuest = Boolean(analytics?.guest);
 
   return (
     <ProductShell>
@@ -85,54 +87,72 @@ export default function AnalyticsDashboardPage() {
             <div className="mt-8 grid gap-5">
               <section className="grid gap-5 lg:grid-cols-[0.9fr_1.1fr]">
                 <Card title="Overall Progress" eyebrow="Section 1" icon={CircleGauge}>
-                  <div className="flex flex-col items-center justify-center gap-5 sm:flex-row">
-                    <ProgressRing value={analytics.overallProgress.percentComplete} />
-                    <div className="text-center sm:text-left">
-                      <p className="text-4xl font-black text-white">{analytics.overallProgress.percentComplete}% Complete</p>
-                      <p className="mt-3 text-sm text-zinc-400">
-                        {analytics.overallProgress.studiedTopics} topics studied | {analytics.overallProgress.remainingTopics} remaining
-                      </p>
-                      <p className="mt-2 text-xs font-bold uppercase tracking-[0.16em] text-zinc-500">
-                        {analytics.overallProgress.completedTopics}/{analytics.overallProgress.totalTopics} completed
-                      </p>
+                  {isGuest ? (
+                    <GuestPrompt title="Sign in to track your progress" body="Your completed topics, revision streak and score history will stay synced across devices." />
+                  ) : (
+                    <div className="flex flex-col items-center justify-center gap-5 sm:flex-row">
+                      <ProgressRing value={analytics.overallProgress.percentComplete} />
+                      <div className="text-center sm:text-left">
+                        <p className="text-4xl font-black text-white">{analytics.overallProgress.percentComplete}% Complete</p>
+                        <p className="mt-3 text-sm text-zinc-400">
+                          {analytics.overallProgress.studiedTopics} topics studied | {analytics.overallProgress.remainingTopics} remaining
+                        </p>
+                        <p className="mt-2 text-xs font-bold uppercase tracking-[0.16em] text-zinc-500">
+                          {analytics.overallProgress.completedTopics}/{analytics.overallProgress.totalTopics} completed
+                        </p>
+                      </div>
                     </div>
-                  </div>
+                  )}
                 </Card>
 
                 <Card title="Subject Mastery" eyebrow="Section 2" icon={BarChart3}>
-                  <div className="space-y-4">
-                    {analytics.subjectMastery.map((item) => (
-                      <div key={item.subject}>
-                        <div className="mb-2 flex items-center justify-between gap-3 text-sm">
-                          <span className="font-black text-zinc-100">{item.subject}</span>
-                          <span className="font-bold text-zinc-400">
-                            {item.percent}% mastered · {item.completed}/{item.total || 0}
-                          </span>
+                  {isGuest ? (
+                    <GuestPrompt title="Your mastery will appear here as you study" body="Complete topics and MCQs to unlock GS-wise mastery bars." />
+                  ) : (
+                    <div className="space-y-4">
+                      {analytics.subjectMastery.map((item) => (
+                        <div key={item.subject}>
+                          <div className="mb-2 flex items-center justify-between gap-3 text-sm">
+                            <span className="font-black text-zinc-100">{item.subject}</span>
+                            <span className="font-bold text-zinc-400">
+                              {item.percent}% mastered - {item.completed}/{item.total || 0}
+                            </span>
+                          </div>
+                          <div className="h-3 overflow-hidden rounded-full bg-zinc-800">
+                            <div className={`h-full rounded-full ${barColor(item.band)}`} style={{ width: `${Math.max(2, item.percent)}%` }} />
+                          </div>
                         </div>
-                        <div className="h-3 overflow-hidden rounded-full bg-zinc-800">
-                          <div className={`h-full rounded-full ${barColor(item.band)}`} style={{ width: `${Math.max(2, item.percent)}%` }} />
-                        </div>
-                      </div>
-                    ))}
-                  </div>
+                      ))}
+                    </div>
+                  )}
                 </Card>
               </section>
 
               <section className="grid gap-5 lg:grid-cols-[0.75fr_1.25fr]">
                 <Card title="Estimated Prelims Score" eyebrow="Section 3" icon={Target}>
                   <div className="rounded-xl border border-zinc-800 bg-zinc-950 p-5">
-                    <p className="text-5xl font-black text-white">{analytics.estimatedPrelims.estimatedScore} / 200</p>
-                    <p className="mt-2 text-sm font-bold uppercase tracking-[0.16em] text-zinc-500">estimated</p>
-                    <p className={`mt-5 inline-flex rounded-full px-3 py-1 text-xs font-black ${bandPill(analytics.estimatedPrelims.band)}`}>
-                      {analytics.estimatedPrelims.label}
-                    </p>
-                    <p className="mt-4 text-sm leading-6 text-zinc-400">
-                      Based on average MCQ score of {analytics.estimatedPrelims.averageScore}% with a conservative 70% confidence factor.
-                    </p>
+                    {isGuest ? (
+                      <GuestPrompt
+                        title="Complete 10+ topics to see your score estimate"
+                        body="ClearUPSC will use your MCQ scores to estimate a conservative Prelims score."
+                      />
+                    ) : (
+                      <>
+                        <p className="text-5xl font-black text-white">{analytics.estimatedPrelims.estimatedScore} / 200</p>
+                        <p className="mt-2 text-sm font-bold uppercase tracking-[0.16em] text-zinc-500">estimated</p>
+                        <p className={`mt-5 inline-flex rounded-full px-3 py-1 text-xs font-black ${bandPill(analytics.estimatedPrelims.band)}`}>
+                          {analytics.estimatedPrelims.label}
+                        </p>
+                        <p className="mt-4 text-sm leading-6 text-zinc-400">
+                          Based on average MCQ score of {analytics.estimatedPrelims.averageScore}% with a conservative 70% confidence factor.
+                        </p>
+                      </>
+                    )}
                   </div>
                 </Card>
 
                 <Card title="14-Day Activity" eyebrow="Section 4" icon={Clock3}>
+                  {isGuest ? <p className="mb-4 rounded-xl border border-zinc-800 bg-zinc-950 px-4 py-3 text-sm text-zinc-400">Start studying to see your activity.</p> : null}
                   <div className="h-72">
                     <ResponsiveContainer width="100%" height="100%">
                       <BarChart data={analytics.activity14Days}>
@@ -279,6 +299,21 @@ function StateCard({ title, body }: { title: string; body: string }) {
     <div className="mt-8 rounded-2xl border border-zinc-800 bg-[#111] p-5 text-sm">
       <p className="font-black text-white">{title}</p>
       <p className="mt-1 text-zinc-400">{body}</p>
+    </div>
+  );
+}
+
+function GuestPrompt({ title, body }: { title: string; body: string }) {
+  return (
+    <div className="rounded-xl border border-zinc-800 bg-zinc-950 p-5">
+      <p className="text-2xl font-black text-white">{title}</p>
+      <p className="mt-3 text-sm leading-6 text-zinc-400">{body}</p>
+      <Link
+        href="/auth/signin?next=/dashboard/analytics"
+        className="mt-5 inline-flex min-h-11 items-center justify-center rounded-md bg-[#f97316] px-4 text-sm font-black text-white transition hover:bg-[#ea580c]"
+      >
+        Sign In With GitHub
+      </Link>
     </div>
   );
 }

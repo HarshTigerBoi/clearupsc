@@ -2,15 +2,16 @@
 
 import Link from "next/link";
 import { useState } from "react";
-import { Menu, X } from "lucide-react";
+import { BarChart3, Menu, X, type LucideIcon } from "lucide-react";
 
-const menuItems = [
+const menuItems: Array<{ href: string; label: string; icon?: LucideIcon }> = [
   { href: "/study", label: "Study" },
   { href: "/practice", label: "Practice" },
   { href: "/prelims/mock-tests", label: "Mock Tests" },
   { href: "/current-affairs", label: "Current Affairs" },
   { href: "/planner", label: "Planner" },
   { href: "/dashboard", label: "Dashboard" },
+  { href: "/dashboard/analytics", label: "My Analytics", icon: BarChart3 },
   { href: "/flashcards", label: "Flashcards" },
   { href: "/answer-writing/practice", label: "Answer Writing" },
   { href: "/interview", label: "Interview Prep" },
@@ -68,6 +69,7 @@ export default function Navbar() {
                 className="rounded-md px-2 py-3 text-3xl font-black tracking-normal text-zinc-200 transition hover:bg-white/5 hover:text-[#f97316] sm:text-4xl"
                 onClick={() => setMenuOpen(false)}
               >
+                {item.icon ? <item.icon className="mr-3 inline h-7 w-7 align-[-0.1em] sm:h-8 sm:w-8" aria-hidden="true" /> : null}
                 {item.label}
               </Link>
             ))}
