@@ -26,9 +26,14 @@ export async function GET(_request: NextRequest, { params }: { params: { topicId
     } = await supabase.auth.getUser();
     if (chapterTopic) {
       const progress = user ? await getProgress(supabase, user.id, chapterTopic.key) : null;
+      const { data: decodedTopic } = await supabase
+        .from("topics")
+        .select("structured_notes,content_quality")
+        .eq("key", chapterTopic.key)
+        .maybeSingle();
       const overlay = loadTextbookChapterOverlay(chapterTopic.key);
       const chapterWithOverlay = mergeTextbookChapterOverlay(chapterTopic, overlay);
-      return ok(buildChapterTopicPayload(chapterWithOverlay, progress));
+      return ok(buildChapterTopicPayload(chapterWithOverlay, progress, decodedTopic));
     }
     const { data: topic, error } = await supabase
       .from("topics")
@@ -76,7 +81,11 @@ export async function GET(_request: NextRequest, { params }: { params: { topicId
   }
 }
 
-function buildChapterTopicPayload(chapter: ChapterTopicRecord, progress: Awaited<ReturnType<typeof getProgress>>) {
+function buildChapterTopicPayload(
+  chapter: ChapterTopicRecord,
+  progress: Awaited<ReturnType<typeof getProgress>>,
+  decodedTopic?: { structured_notes?: unknown; content_quality?: string | null } | null,
+) {
   const navigation = getChapterNavigation(chapter.key);
   const ncertRef = {
     classLevel: chapter.source.book.match(/Class\s+\d+/)?.[0] ?? "NCERT",
@@ -87,6 +96,10 @@ function buildChapterTopicPayload(chapter: ChapterTopicRecord, progress: Awaited
     url: chapter.source.pdf_url,
   };
   const pendingLine = `Source decode pending for ${chapter.source.book}, Chapter ${chapter.source.chapter}: ${chapter.source.chapter_title}. Open the official NCERT source before studying this chapter.`;
+  const decodedRecord = decodedTopic?.content_quality === "textbook_decoded" ? parseDecodedNotesRecord(decodedTopic.structured_notes) : null;
+  const decodedNotes = decodedRecord ? parseStructuredNotes(decodedRecord, { title: chapter.title }) : null;
+  const decodedMcqs = decodedRecord ? buildTextbookQuizQuestions(decodedRecord, chapter.key) : [];
+  const contentQuality = decodedRecord ? "textbook_decoded" : chapter.decode_status;
   return {
     topic: {
       key: chapter.key,
@@ -95,9 +108,9 @@ function buildChapterTopicPayload(chapter: ChapterTopicRecord, progress: Awaited
       parent_key: null,
       exam_stage: chapter.paper,
       upsc_weightage: chapter.upsc_weightage,
-      content_quality: chapter.decode_status,
+      content_quality: contentQuality,
       textbook_first: true,
-      decode_status: chapter.decode_status,
+      decode_status: contentQuality,
       source: chapter.source,
       concepts: chapter.concepts,
       mcqs: chapter.mcqs,
@@ -107,26 +120,27 @@ function buildChapterTopicPayload(chapter: ChapterTopicRecord, progress: Awaited
     },
     wiki: null,
     ncert: [ncertRef],
-    notes: pendingLine,
-    notesStructured: {
-      analogy: {
-        heading: "Source Decode Pending",
-        body: pendingLine,
+    notes: decodedNotes?.full_notes ?? pendingLine,
+    notesStructured:
+      decodedNotes ?? {
+        analogy: {
+          heading: "Source Decode Pending",
+          body: pendingLine,
+        },
+        full_notes: pendingLine,
+        concise_notes: chapter.concise_notes,
+        revision_bullets: chapter.revision_bullets,
+        mindmap: {
+          center: chapter.title,
+          branches: chapter.related_chapters.length ? chapter.related_chapters : ["Source", "Concept map", "Decode", "PYQ trace", "MCQs", "Mains"],
+        },
+        cases: [],
+        schemes: [],
+        ncert_coverage: [`${chapter.source.book}, Chapter ${chapter.source.chapter}: ${chapter.source.chapter_title}`, `Page range: ${chapter.source.page_range}`],
+        prelims_traps: [],
+        mains_angles: chapter.mains_framework.structure,
+        connected_topics: chapter.related_chapters,
       },
-      full_notes: pendingLine,
-      concise_notes: chapter.concise_notes,
-      revision_bullets: chapter.revision_bullets,
-      mindmap: {
-        center: chapter.title,
-        branches: chapter.related_chapters.length ? chapter.related_chapters : ["Source", "Concept map", "Decode", "PYQ trace", "MCQs", "Mains"],
-      },
-      cases: [],
-      schemes: [],
-      ncert_coverage: [`${chapter.source.book}, Chapter ${chapter.source.chapter}: ${chapter.source.chapter_title}`, `Page range: ${chapter.source.page_range}`],
-      prelims_traps: [],
-      mains_angles: chapter.mains_framework.structure,
-      connected_topics: chapter.related_chapters,
-    },
     sources: [
       {
         name: chapter.source.book,
@@ -135,18 +149,56 @@ function buildChapterTopicPayload(chapter: ChapterTopicRecord, progress: Awaited
       },
     ],
     progress,
-    mcqs: chapter.mcqs,
+    mcqs: decodedRecord?.mcqs ?? chapter.mcqs,
     pyqs: [],
     prevTopic: navigation.prev ? { key: navigation.prev.key, title: navigation.prev.title } : null,
     nextTopic: navigation.next ? { key: navigation.next.key, title: navigation.next.title } : null,
     readTime: {
-      full: "Pending source decode",
-      revision: "Pending source decode",
+      full: decodedNotes ? "~45 min full study" : "Pending source decode",
+      revision: decodedNotes ? "~8 min revision" : "Pending source decode",
     },
     ncertRefs: [ncertRef],
-    quizQuestions: [],
-    practiceQuestionCount: chapter.mcqs.length,
+    quizQuestions: decodedMcqs,
+    practiceQuestionCount: decodedMcqs.length || chapter.mcqs.length,
   };
+}
+
+function parseDecodedNotesRecord(raw: unknown) {
+  if (!raw) return null;
+  if (typeof raw === "string") {
+    try {
+      const parsed = JSON.parse(raw);
+      return parsed && typeof parsed === "object" ? (parsed as Record<string, any>) : null;
+    } catch {
+      return null;
+    }
+  }
+  return raw && typeof raw === "object" ? (raw as Record<string, any>) : null;
+}
+
+function buildTextbookQuizQuestions(decoded: Record<string, any>, topicKey: string) {
+  const labels = ["A", "B", "C", "D"];
+  if (!Array.isArray(decoded.mcqs)) return [];
+  return decoded.mcqs.slice(0, 5).map((mcq: Record<string, any>, index: number) => {
+    const correctIndex = Number.isInteger(mcq.correct_answer) ? mcq.correct_answer : 0;
+    return {
+      id: `${topicKey}-textbook-mcq-${index + 1}`,
+      source: String(mcq.source_trace ?? decoded.source_trace ?? "NCERT source-traced MCQ"),
+      year: null,
+      question: String(mcq.question_text ?? ""),
+      options: Array.isArray(mcq.options)
+        ? mcq.options.slice(0, 4).map((option: unknown, optionIndex: number) => ({
+            label: labels[optionIndex] ?? String(optionIndex + 1),
+            text: String(option),
+          }))
+        : [],
+      correct: labels[correctIndex] ?? "A",
+      explanation: String(mcq.trap_explanation ?? mcq.approach_technique ?? "Use the NCERT source trace to verify the supported statement."),
+      reviewOnly: false,
+      trapType: String(mcq.pattern ?? "statement"),
+      relatedStudyUrl: `/study/${topicKey}`,
+    };
+  });
 }
 
 async function getProgress(supabase: Awaited<ReturnType<typeof createClient>>, userId: string, topicKey: string) {

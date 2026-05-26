@@ -348,11 +348,9 @@ export default function StudyTopicClient({ params }: { params: { topicId: string
             </StepSection>
 
             <StepSection id="prove-it" step="07" label="Prove It" title="Official + Pattern Questions" tone="white">
-              <LazyStepMount label="Prove It">
-                <Suspense fallback={<LazyStepSkeleton label="Prove It" />}>
-                  <LazyQuestionPractice topicId={params.topicId} questions={data.quizQuestions} progress={data.progress} />
-                </Suspense>
-              </LazyStepMount>
+              <Suspense fallback={<LazyStepSkeleton label="Prove It" />}>
+                <LazyQuestionPractice topicId={params.topicId} questions={data.quizQuestions} progress={data.progress} />
+              </Suspense>
             </StepSection>
 
             <CompleteAndContinue

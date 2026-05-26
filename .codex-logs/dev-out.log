@@ -1,0 +1,29 @@
+
+> clearupsc@0.1.0 dev
+> next dev
+
+  ▲ Next.js 14.2.35
+  - Local:        http://localhost:3000
+  - Environments: .env.local
+
+ ✓ Starting...
+> [PWA] PWA support is disabled
+> [PWA] PWA support is disabled
+ ✓ Ready in 4s
+ ○ Compiling /study/[topicId] ...
+ ✓ Compiled /study/[topicId] in 10.6s (2597 modules)
+ GET /study/gs2_polity_class11_constitution_ch01_why_and_how 200 in 10994ms
+ GET / 200 in 1671ms
+ GET /_next/static/webpack/d7989fa217c36a9a.webpack.hot-update.json 404 in 11061ms
+ GET /study/gs2_polity_class11_constitution_ch01_why_and_how 200 in 569ms
+ ○ Compiling /api/study/topic/[topicId] ...
+ ✓ Compiled /api/study/topic/[topicId] in 3.4s (1373 modules)
+ GET /api/study/topic/gs2_polity_class11_constitution_ch01_why_and_how 200 in 4429ms
+ ✓ Compiled in 977ms (1257 modules)
+ ✓ Compiled in 514ms (1257 modules)
+ GET /study/gs1_geo_class11_phys_ch03_interior_of_earth 200 in 199ms
+ GET /api/study/topic/gs1_geo_class11_phys_ch03_interior_of_earth 200 in 347ms
+ GET /study/gs1_geo_class11_phys_ch04_distribution_oceans_continents 200 in 98ms
+ GET /api/study/topic/gs1_geo_class11_phys_ch04_distribution_oceans_continents 200 in 350ms
+ GET /study/gs2_polity_class11_constitution_ch01_why_and_how 200 in 94ms
+ GET /api/study/topic/gs2_polity_class11_constitution_ch01_why_and_how 200 in 456ms

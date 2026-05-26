@@ -108,7 +108,8 @@ function splitSentences(value) {
     .map((sentence) => normalizeSpace(sentence))
     .filter((sentence) => sentence.length >= 45)
     .filter((sentence) => !/^(Fig\.|Table|Exercises?|Activity|Project|References?)\b/i.test(sentence))
-    .filter((sentence) => !/\b(select the correct answer|answer the following|we will try and answer|base our answer)\b/i.test(sentence));
+    .filter((sentence) => !/\b(select the correct answer|answer the following|we will try and answer|base our answer)\b/i.test(sentence))
+    .filter((sentence) => !/\bthink of\b.{0,80}\blike\b/i.test(sentence));
 }
 
 function pageSentences(text) {
@@ -174,12 +175,13 @@ function findSentenceForTerm(term, sentences) {
 
 function buildAnalogy(chapter, sentences) {
   const opener = sentences.slice(0, 4).map((row) => row.sentence).join(" ");
+  const clueTerms = keywordTerms(chapter, sentences, loadConceptCandidates(chapter.key)).slice(0, 4).join(", ");
   return [
     `Think of "${chapter.title}" through the chapter's own opening images: ${truncateWords(opener, 45)}`,
-    "The easy idea is that the visible surface is only the outside cover.",
-    "The chapter keeps asking how we can know what is inside when no one can directly reach the deep interior.",
-    "So the learner must read clues: rocks, mines, drilling, volcanic material, heat, gravity, magnetism and earthquake waves.",
-    "Like solving a hidden-layer puzzle, each clue tells something about the crust, mantle, core and volcanic activity without inventing anything beyond the textbook.",
+    "The easy idea is to follow the chapter's own clues one by one instead of memorising a loose definition.",
+    `First notice the words and examples the text repeats: ${clueTerms || chapter.source.chapter_title}.`,
+    "Then connect each example to the question the chapter is trying to answer.",
+    "Like solving a source-backed puzzle, every useful point must come from the chapter text itself and stay traceable to the NCERT source.",
   ].join(" ");
 }
 
@@ -187,11 +189,11 @@ function buildFullNotes(chapter, sentences) {
   const sourceLine = `Source: ${chapter.source.book}, Chapter ${chapter.source.chapter}: ${chapter.source.chapter_title}`;
   const chosen = uniqueByText([
     ...sentences.slice(0, 16),
-    ...sentences.filter(({ sentence }) => /source|interior|direct|indirect|crust|mantle|core|wave|volcan|magma|lava|earthquake|density|temperature|pressure|mineral|rock/i.test(sentence)).slice(0, 36),
+    ...sentences.filter(({ sentence }) => /source|chapter|explain|reason|process|system|structure|feature|question|constitution|right|government|society|economy|resource|history|earth|interior|direct|indirect|crust|mantle|core|wave|volcan|magma|lava|earthquake|density|temperature|pressure|mineral|rock/i.test(sentence)).slice(0, 36),
     ...sentences.slice(-10),
   ]).slice(0, 52);
   const sections = [
-    `${chapter.title} is decoded here only from the NCERT chapter text. The chapter begins by asking how the nature of the earth should be imagined and why the interior cannot be known in the same direct way as the surface. It connects the hidden interior with visible results on the surface, especially landscape development, earthquakes, tsunamis and volcanic activity.`,
+    `${chapter.title} is decoded here only from the NCERT chapter text. The chapter begins with its own framing, examples and questions, then builds the topic through source-backed facts. The notes below keep that order: first the opening problem, then the important terms, then the mechanisms, examples and exam-useful connections that appear in the chapter itself.`,
     ...chosen.map(({ sentence }) => `The text explains that ${sentence.charAt(0).toLowerCase()}${sentence.slice(1)}`),
   ];
   let full = sections.join("\n\n");
