@@ -6,6 +6,7 @@ import { requireSupabaseEnv } from "./script-env.mjs";
 const { url, serviceKey } = requireSupabaseEnv();
 const supabase = createClient(url, serviceKey, { auth: { persistSession: false } });
 const ncertLibrary = loadNcertLibrary();
+const ncertUrlMap = loadNcertUrlMap();
 
 const topics = await fetchAllTopics("key,title,subject,ncert_refs,structured_notes");
 
@@ -49,7 +50,7 @@ writeReport("ncert-library-report.json", report);
 console.log(JSON.stringify(report, null, 2));
 
 function refsForTopic(topic) {
-  const direct = ncertLibrary.filter((chapter) => chapter.topicKeys.includes(topic.key));
+  const direct = ncertLibrary.filter((chapter) => chapter.topicKeys.includes(topic.key)).map(enrichNcertUrl);
   if (direct.length) return direct;
   const coverage = normalizeCoverage(topic.structured_notes);
   const lower = `${topic.key} ${topic.title} ${topic.subject} ${coverage.join(" ")}`.toLowerCase();
@@ -64,8 +65,33 @@ function refsForTopic(topic) {
     .filter((item) => item.score >= 2)
     .sort((a, b) => b.score - a.score)
     .slice(0, 2)
-    .map((item) => item.chapter);
+    .map((item) => enrichNcertUrl(item.chapter));
   return scored;
+}
+
+function enrichNcertUrl(chapter) {
+  const officialUrl = findNcertUrl(`${chapter.classLevel} ${chapter.subject} ${chapter.book}`) || findNcertUrl(`${chapter.classLevel} ${chapter.book}`);
+  if (!officialUrl || String(chapter.url).toLowerCase().endsWith(".pdf")) return chapter;
+  return { ...chapter, url: officialUrl };
+}
+
+function findNcertUrl(value) {
+  const normalized = normalizeText(value);
+  const entries = Object.entries(ncertUrlMap).map(([label, url]) => ({ label, url, normalized: normalizeText(label) }));
+  const direct = entries.find((entry) => normalized.includes(entry.normalized) || entry.normalized.includes(normalized));
+  if (direct) return direct.url;
+  const scored = entries
+    .map((entry) => ({
+      ...entry,
+      score: entry.normalized.split(" ").filter((word) => word.length > 3 && normalized.includes(word)).length,
+    }))
+    .filter((entry) => entry.score >= 2)
+    .sort((a, b) => b.score - a.score)[0];
+  return scored?.url ?? null;
+}
+
+function normalizeText(value) {
+  return String(value).toLowerCase().replace(/[^a-z0-9]+/g, " ").replace(/\s+/g, " ").trim();
 }
 
 function normalizeCoverage(notes) {
@@ -87,6 +113,13 @@ function loadNcertLibrary() {
   const match = source.match(/export const NCERT_LIBRARY[^=]*=\s*\[([\s\S]*?)\];/);
   if (!match) throw new Error("Could not read NCERT_LIBRARY from src/lib/study/ncert.ts");
   return Function(`return [${match[1]}];`)();
+}
+
+function loadNcertUrlMap() {
+  const source = readFileSync(join(process.cwd(), "src", "lib", "study", "ncert-urls.ts"), "utf8");
+  const match = source.match(/export const NCERT_URL_MAP\s*=\s*(\{[\s\S]*?\})\s*as const;/);
+  if (!match) throw new Error("Could not read NCERT_URL_MAP from src/lib/study/ncert-urls.ts");
+  return Function(`return (${match[1]});`)();
 }
 
 function chunks(items, size) {

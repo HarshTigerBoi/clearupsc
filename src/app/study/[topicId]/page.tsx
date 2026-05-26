@@ -9,6 +9,7 @@ import { useMutation, useQuery } from "@tanstack/react-query";
 import { ArrowLeft, ArrowRight, BookOpen, CheckCircle2, ChevronRight, ExternalLink, FileText, Target, Trophy } from "lucide-react";
 import ProductShell from "@/components/product/ProductShell";
 import { LoadingSkeleton } from "@/components/ui/state";
+import { findNcertUrlForText } from "@/lib/study/ncert-urls";
 import { calculateNextReview, qualityFromScore } from "@/lib/study/spaced-repetition";
 
 interface StructuredTopicNotes {
@@ -691,8 +692,9 @@ function ConciseTable({ rows }: { rows: StructuredTopicNotes["concise_notes"] })
 }
 
 function NcertViewer({ ncerts, coverage }: { ncerts: NcertRef[]; coverage: string[] }) {
-  const primary = ncerts[0] ?? null;
-  const hasCoverage = coverage.length > 0;
+    const primary = ncerts[0] ?? null;
+    const hasCoverage = coverage.length > 0;
+    const coverageItems = coverage.slice(0, 8).map((item) => ({ item, url: findNcertUrlForText(item) }));
   if (!primary && !hasCoverage) {
     return (
       <div className="rounded-3xl border border-slate-200 bg-white p-6 shadow-sm">
@@ -742,15 +744,30 @@ function NcertViewer({ ncerts, coverage }: { ncerts: NcertRef[]; coverage: strin
       ) : null}
       {hasCoverage ? (
         <div className="mt-5 rounded-2xl border border-amber-200 bg-amber-50 p-4">
-          <p className="text-xs font-black uppercase tracking-[0.16em] text-amber-700">NCERT coverage in these notes</p>
-          <div className="mt-3 grid gap-2">
-            {coverage.slice(0, 8).map((item) => (
-              <div key={item} className="rounded-xl bg-white/80 px-3 py-2 text-sm font-bold leading-6 text-amber-950">
-                {item}
-              </div>
-            ))}
+            <p className="text-xs font-black uppercase tracking-[0.16em] text-amber-700">NCERT coverage in these notes</p>
+            <div className="mt-3 grid gap-2">
+              {coverageItems.map(({ item, url }) =>
+                url ? (
+                  <a
+                    key={item}
+                    href={url}
+                    target="_blank"
+                    rel="noreferrer"
+                    className="rounded-xl bg-white/80 px-3 py-2 text-sm font-bold leading-6 text-amber-950 transition hover:bg-white hover:text-[#f97316]"
+                  >
+                    <span className="block">{item}</span>
+                    <span className="mt-1 inline-flex items-center gap-1 text-xs font-black uppercase tracking-[0.12em] text-[#f97316]">
+                      Open Official PDF <ExternalLink className="h-3 w-3" />
+                    </span>
+                  </a>
+                ) : (
+                  <div key={item} className="rounded-xl bg-white/80 px-3 py-2 text-sm font-bold leading-6 text-amber-950">
+                    {item}
+                  </div>
+                ),
+              )}
+            </div>
           </div>
-        </div>
       ) : (
         <div className="mt-5 rounded-2xl border border-slate-200 bg-slate-50 p-4 text-sm font-bold text-slate-600">
           Detailed NCERT chapter coverage is being reviewed for this topic.
