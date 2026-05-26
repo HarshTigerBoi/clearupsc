@@ -27,6 +27,11 @@ export interface Topic {
   parent?: string;
   upscWeightage?: number;
   examStage?: "prelims" | "mains" | "both";
+  contentQuality?: string | null;
+  textbookFirst?: boolean;
+  sourceBook?: string;
+  sourceChapter?: number;
+  sourceChapterTitle?: string;
 }
 
 export interface TopicProgressRecord {

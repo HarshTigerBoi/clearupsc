@@ -53,26 +53,24 @@ export async function getCurrentPlan(userId: string) {
 
 export async function getTopicsFromDb() {
   const supabase = await createClient();
-  const chapterTopics = NCERT_CHAPTER_TOPICS.map((topic) => ({
-    key: topic.key,
-    title: topic.title,
-    subject: topic.subject.split(" ")[0] as (typeof SYLLABUS)[number]["subject"],
-    parent: undefined,
-    examStage: topic.paper as (typeof SYLLABUS)[number]["examStage"],
-    upscWeightage: topic.upsc_weightage,
-  }));
-  const rows: Array<{ key: unknown; subject: unknown; parent_key: unknown; title: unknown; exam_stage: unknown; upsc_weightage: unknown }> = [];
+  const rows: Array<{ key: unknown; subject: unknown; parent_key: unknown; title: unknown; exam_stage: unknown; upsc_weightage: unknown; content_quality?: unknown }> = [];
   for (let from = 0; ; from += 1000) {
     const { data, error } = await supabase
       .from("topics")
-      .select("key,subject,parent_key,title,exam_stage,upsc_weightage")
+      .select("key,subject,parent_key,title,exam_stage,upsc_weightage,content_quality")
       .order("subject", { ascending: true })
       .order("key", { ascending: true })
       .range(from, from + 999);
-    if (error) return [...chapterTopics, ...SYLLABUS.filter((topic) => !LEGACY_TOPIC_REDIRECTS[topic.key])];
+    if (error) return [
+      ...NCERT_CHAPTER_TOPICS.map((topic) => chapterTopicToListItem(topic, topic.decode_status)),
+      ...SYLLABUS.filter((topic) => !LEGACY_TOPIC_REDIRECTS[topic.key]),
+    ];
     rows.push(...(data ?? []));
     if (!data || data.length < 1000) break;
   }
+
+  const rowByKey = new Map(rows.map((row) => [String(row.key), row]));
+  const chapterTopics = NCERT_CHAPTER_TOPICS.map((topic) => chapterTopicToListItem(topic, String(rowByKey.get(topic.key)?.content_quality ?? topic.decode_status)));
 
   if (!rows.length) return [...chapterTopics, ...SYLLABUS.filter((topic) => !LEGACY_TOPIC_REDIRECTS[topic.key])];
 
@@ -85,8 +83,26 @@ export async function getTopicsFromDb() {
       parent: topic.parent_key ? String(topic.parent_key) : undefined,
       examStage: topic.exam_stage as (typeof SYLLABUS)[number]["examStage"],
       upscWeightage: Number(topic.upsc_weightage ?? 1),
+      contentQuality: topic.content_quality ? String(topic.content_quality) : null,
+      textbookFirst: false,
     }));
   return [...chapterTopics, ...dbTopics.filter((topic) => !chapterTopics.some((chapter) => chapter.key === topic.key))];
+}
+
+function chapterTopicToListItem(topic: (typeof NCERT_CHAPTER_TOPICS)[number], contentQuality: string | null) {
+  return {
+    key: topic.key,
+    title: topic.title,
+    subject: topic.subject.split(" ")[0] as (typeof SYLLABUS)[number]["subject"],
+    parent: undefined,
+    examStage: topic.paper as (typeof SYLLABUS)[number]["examStage"],
+    upscWeightage: topic.upsc_weightage,
+    contentQuality,
+    textbookFirst: true,
+    sourceBook: topic.source.book,
+    sourceChapter: topic.source.chapter,
+    sourceChapterTitle: topic.source.chapter_title,
+  };
 }
 
 export async function ensureTodayPlan(userId: string) {
@@ -893,6 +909,23 @@ function buildNextAction(
 ): UserStats["nextAction"] {
   const personalized = generatePersonalizedTopicSequence({ profile, topics, progress });
   const personalizedTopic = topics.find((topic) => topic.key === personalized.nextTopicKey);
+  const decodedChapter = firstUnstudiedDecodedChapter(topics, progress);
+  const hasStudiedDecodedChapter = progress.some((item) => {
+    if (item.status === "not_started") return false;
+    const topic = topics.find((candidate) => candidate.key === item.topic_key);
+    return topic?.textbookFirst && topic.contentQuality === "textbook_decoded";
+  });
+
+  if (!hasStudiedDecodedChapter && decodedChapter) {
+    return {
+      title: `Start with Real NCERT: ${decodedChapter.title}`,
+      subtitle: "Your first textbook-first chapter is source traced from the official NCERT flow. Start here before broad generated topic study.",
+      buttonLabel: "Start Real NCERT",
+      href: `/study/${decodedChapter.key}`,
+      topicTitle: decodedChapter.title,
+      stepLabel: "NCERT Source Verified",
+    };
+  }
 
   // Brand-new user with no progress
   if (!progress.length) {
@@ -955,6 +988,11 @@ function buildNextAction(
     topicTitle: personalizedTopic?.title ?? "Study Course",
     stepLabel: "Step 1: Get It",
   };
+}
+
+function firstUnstudiedDecodedChapter(topics: Awaited<ReturnType<typeof getTopicsFromDb>>, progress: TopicProgressRecord[]) {
+  const studied = new Set(progress.filter((item) => item.status !== "not_started").map((item) => item.topic_key));
+  return topics.find((topic) => topic.textbookFirst && topic.contentQuality === "textbook_decoded" && !studied.has(topic.key));
 }
 
 export async function completeOnboarding(userId: string, profile: UserProfile) {

@@ -1,0 +1,2872 @@
+{
+  "generated_at": "2026-05-26T20:07:26.087Z",
+  "decoded_chapters_seen": 317,
+  "decoded_chapters_linked": 317,
+  "updated_existing_topics": 38,
+  "total_links_added": 30,
+  "rows": [
+    {
+      "key": "gs1_art_class11_indian_art_ch01_prehistoric_rock_paintings",
+      "title": "Prehistoric Rock Paintings",
+      "status": "linked",
+      "targets": [
+        "gs1_history_ancient",
+        "gs1_history_medieval"
+      ]
+    },
+    {
+      "key": "gs1_art_class11_indian_art_ch02_arts_of_the_indus_valley",
+      "title": "Arts of the Indus Valley",
+      "status": "linked",
+      "targets": [
+        "gs1_history_ancient",
+        "gs1_history_medieval"
+      ]
+    },
+    {
+      "key": "gs1_art_class11_indian_art_ch03_arts_of_the_mauryan_period",
+      "title": "Arts of the Mauryan Period",
+      "status": "linked",
+      "targets": [
+        "gs1_history_ancient",
+        "gs1_history_medieval"
+      ]
+    },
+    {
+      "key": "gs1_art_class11_indian_art_ch04_post_mauryan_trends_in_indian_art_and_architecture",
+      "title": "Post-Mauryan Trends in Indian Art and Architecture",
+      "status": "linked",
+      "targets": [
+        "gs1_history_ancient",
+        "gs1_history_medieval"
+      ]
+    },
+    {
+      "key": "gs1_art_class11_indian_art_ch05_later_mural_traditions",
+      "title": "Later Mural Traditions",
+      "status": "linked",
+      "targets": [
+        "gs1_history_ancient",
+        "gs1_history_medieval"
+      ]
+    },
+    {
+      "key": "gs1_art_class11_indian_art_ch06_temple_architecture_and_sculpture",
+      "title": "Temple Architecture and Sculpture",
+      "status": "linked",
+      "targets": [
+        "gs1_history_ancient",
+        "gs1_history_medieval"
+      ]
+    },
+    {
+      "key": "gs1_art_class11_indian_art_ch07_indian_bronze_sculpture",
+      "title": "Indian Bronze Sculpture",
+      "status": "linked",
+      "targets": [
+        "gs1_history_ancient",
+        "gs1_history_medieval"
+      ]
+    },
+    {
+      "key": "gs1_art_class11_indian_art_ch08_some_aspects_of_indo_islamic_architecture",
+      "title": "Some Aspects of Indo-Islamic Architecture",
+      "status": "linked",
+      "targets": [
+        "gs1_history_ancient",
+        "gs1_history_medieval"
+      ]
+    },
+    {
+      "key": "gs1_geo_class10_contemporary_india_ii_ch01_resources_and_development",
+      "title": "Resources and Development",
+      "status": "linked",
+      "targets": [
+        "gs1_geography_resources",
+        "gs1_geography_indian_geography"
+      ]
+    },
+    {
+      "key": "gs1_geo_class10_contemporary_india_ii_ch02_forest_and_wildlife_resources",
+      "title": "Forest and Wildlife Resources",
+      "status": "linked",
+      "targets": [
+        "gs1_geography_resources",
+        "gs1_geography_indian_geography"
+      ]
+    },
+    {
+      "key": "gs1_geo_class10_contemporary_india_ii_ch03_water_resources",
+      "title": "Water Resources",
+      "status": "linked",
+      "targets": [
+        "gs1_geography_resources",
+        "gs1_geography_indian_geography"
+      ]
+    },
+    {
+      "key": "gs1_geo_class10_contemporary_india_ii_ch04_agriculture",
+      "title": "Agriculture",
+      "status": "linked",
+      "targets": [
+        "gs1_geography_resources",
+        "gs1_geography_indian_geography"
+      ]
+    },
+    {
+      "key": "gs1_geo_class10_contemporary_india_ii_ch05_minerals_and_energy_resources",
+      "title": "Minerals and Energy Resources",
+      "status": "linked",
+      "targets": [
+        "gs1_geography_resources",
+        "gs1_geography_indian_geography"
+      ]
+    },
+    {
+      "key": "gs1_geo_class10_contemporary_india_ii_ch06_manufacturing_industries",
+      "title": "Manufacturing Industries",
+      "status": "linked",
+      "targets": [
+        "gs1_geography_resources",
+        "gs1_geography_indian_geography"
+      ]
+    },
+    {
+      "key": "gs1_geo_class10_contemporary_india_ii_ch07_lifelines_of_national_economy",
+      "title": "Lifelines of National Economy",
+      "status": "linked",
+      "targets": [
+        "gs1_geography_resources",
+        "gs1_geography_indian_geography"
+      ]
+    },
+    {
+      "key": "gs1_geo_class11_india_ch01_location",
+      "title": "India: Location",
+      "status": "linked",
+      "targets": [
+        "gs1_geography_indian_geography"
+      ]
+    },
+    {
+      "key": "gs1_geo_class11_india_ch02_structure_physiography",
+      "title": "Structure and Physiography",
+      "status": "linked",
+      "targets": [
+        "gs1_geography_indian_geography"
+      ]
+    },
+    {
+      "key": "gs1_geo_class11_india_ch03_drainage_system",
+      "title": "Drainage System",
+      "status": "linked",
+      "targets": [
+        "gs1_art_class11_living_craft_traditions_ch03_craft_traditions_of_india_past_present_and_future",
+        "gs1_geo_class9_contemporary_india_i_ch03_drainage"
+      ]
+    },
+    {
+      "key": "gs1_geo_class11_india_ch04_climate",
+      "title": "Climate",
+      "status": "linked",
+      "targets": [
+        "gs1_geography_indian_geography"
+      ]
+    },
+    {
+      "key": "gs1_geo_class11_india_ch05_natural_vegetation",
+      "title": "Natural Vegetation",
+      "status": "linked",
+      "targets": [
+        "gs1_geography_indian_geography"
+      ]
+    },
+    {
+      "key": "gs1_geo_class11_india_ch06_soils",
+      "title": "Soils",
+      "status": "linked",
+      "targets": [
+        "gs1_geography_indian_geography"
+      ]
+    },
+    {
+      "key": "gs1_geo_class11_phys_ch01_geography_as_discipline",
+      "title": "Geography as a Discipline",
+      "status": "linked",
+      "targets": [
+        "gs1_geography",
+        "gs1_geography_physical"
+      ]
+    },
+    {
+      "key": "gs1_geo_class11_phys_ch02_origin_evolution_earth",
+      "title": "The Origin and Evolution of the Earth",
+      "status": "linked",
+      "targets": [
+        "gs1_geography_physical"
+      ]
+    },
+    {
+      "key": "gs1_geo_class11_phys_ch03_interior_of_earth",
+      "title": "Interior of the Earth",
+      "status": "linked",
+      "targets": [
+        "gs1_geography_physical",
+        "gs1_geography_geomorphology"
+      ]
+    },
+    {
+      "key": "gs1_geo_class11_phys_ch04_distribution_oceans_continents",
+      "title": "Distribution of Oceans and Continents",
+      "status": "linked",
+      "targets": [
+        "gs1_geography_physical"
+      ]
+    },
+    {
+      "key": "gs1_geo_class11_phys_ch05_minerals_and_rocks",
+      "title": "Minerals and Rocks",
+      "status": "linked",
+      "targets": [
+        "gs1_geography_physical",
+        "gs1_geography_resources"
+      ]
+    },
+    {
+      "key": "gs1_geo_class11_phys_ch06_geomorphic_processes",
+      "title": "Geomorphic Processes",
+      "status": "linked",
+      "targets": [
+        "gs1_geography_geomorphology",
+        "gs1_geography_physical"
+      ]
+    },
+    {
+      "key": "gs1_geo_class11_phys_ch07_landforms_evolution",
+      "title": "Landforms and their Evolution",
+      "status": "linked",
+      "targets": [
+        "gs1_geography_geomorphology",
+        "gs1_geography_physical"
+      ]
+    },
+    {
+      "key": "gs1_geo_class11_phys_ch08_composition_and_structure_of_atmosphere",
+      "title": "Composition and Structure of Atmosphere",
+      "status": "linked",
+      "targets": [
+        "gs1_geography_physical"
+      ]
+    },
+    {
+      "key": "gs1_geo_class11_phys_ch09_solar_radiation_heat_balance_and_temperature",
+      "title": "Solar Radiation Heat Balance and Temperature",
+      "status": "linked",
+      "targets": [
+        "gs1_geography_physical"
+      ]
+    },
+    {
+      "key": "gs1_geo_class11_phys_ch10_atmospheric_circulation_and_weather_systems",
+      "title": "Atmospheric Circulation and Weather Systems",
+      "status": "linked",
+      "targets": [
+        "gs1_geography_physical"
+      ]
+    },
+    {
+      "key": "gs1_geo_class11_phys_ch11_water_in_the_atmosphere",
+      "title": "Water in the Atmosphere",
+      "status": "linked",
+      "targets": [
+        "gs1_geography_physical"
+      ]
+    },
+    {
+      "key": "gs1_geo_class11_phys_ch12_world_climate_and_climate_change",
+      "title": "World Climate and Climate Change",
+      "status": "linked",
+      "targets": [
+        "gs1_geography_physical"
+      ]
+    },
+    {
+      "key": "gs1_geo_class11_phys_ch13_water_oceans",
+      "title": "Water Oceans",
+      "status": "linked",
+      "targets": [
+        "gs1_geography_physical"
+      ]
+    },
+    {
+      "key": "gs1_geo_class11_phys_ch14_movements_of_ocean_water",
+      "title": "Movements of Ocean Water",
+      "status": "linked",
+      "targets": [
+        "gs1_geography_physical"
+      ]
+    },
+    {
+      "key": "gs1_geo_class12_human_ch01_human_geography_nature_and_scope",
+      "title": "Human Geography Nature and Scope",
+      "status": "linked",
+      "targets": [
+        "gs1_geo_class12_human_ch09_international_trade"
+      ]
+    },
+    {
+      "key": "gs1_geo_class12_human_ch02_world_population_distribution_density_and_growth",
+      "title": "World Population Distribution Density and Growth",
+      "status": "linked",
+      "targets": [
+        "gs1_geo_class12_human_ch09_international_trade",
+        "gs1_geography_world_geography"
+      ]
+    },
+    {
+      "key": "gs1_geo_class12_human_ch03_population_composition",
+      "title": "Population Composition",
+      "status": "linked",
+      "targets": [
+        "gs1_geo_class12_human_ch09_international_trade"
+      ]
+    },
+    {
+      "key": "gs1_geo_class12_human_ch04_human_development",
+      "title": "Human Development",
+      "status": "linked",
+      "targets": [
+        "gs1_geo_class12_human_ch09_international_trade"
+      ]
+    },
+    {
+      "key": "gs1_geo_class12_human_ch05_primary_activities",
+      "title": "Primary Activities",
+      "status": "linked",
+      "targets": [
+        "gs1_geo_class12_human_ch09_international_trade",
+        "gs1_hist_class12_indian_history_ii_ch05_the_mughal_courts"
+      ]
+    },
+    {
+      "key": "gs1_geo_class12_human_ch06_secondary_activities",
+      "title": "Secondary Activities",
+      "status": "linked",
+      "targets": [
+        "gs1_geo_class12_human_ch09_international_trade"
+      ]
+    },
+    {
+      "key": "gs1_geo_class12_human_ch07_tertiary_and_quaternary_activities",
+      "title": "Tertiary and Quaternary Activities",
+      "status": "linked",
+      "targets": [
+        "gs1_geo_class12_human_ch09_international_trade"
+      ]
+    },
+    {
+      "key": "gs1_geo_class12_human_ch08_transport_and_communication",
+      "title": "Transport and Communication",
+      "status": "linked",
+      "targets": [
+        "gs1_geo_class12_india_people_economy_ch10_transport_and_communication",
+        "gs1_geo_class12_human_ch09_international_trade"
+      ]
+    },
+    {
+      "key": "gs1_geo_class12_india_people_economy_ch01_population_distribution_density_growth_and_composition",
+      "title": "Population Distribution Density Growth and Composition",
+      "status": "linked",
+      "targets": [
+        "gs1_geography_indian_geography",
+        "gs1_geography_resources"
+      ]
+    },
+    {
+      "key": "gs1_geo_class12_india_people_economy_ch02_migration",
+      "title": "Migration",
+      "status": "linked",
+      "targets": [
+        "gs1_geography_indian_geography",
+        "gs1_geography_resources"
+      ]
+    },
+    {
+      "key": "gs1_geo_class12_india_people_economy_ch03_human_development",
+      "title": "Human Development",
+      "status": "linked",
+      "targets": [
+        "gs1_geography_indian_geography",
+        "gs1_geography_resources"
+      ]
+    },
+    {
+      "key": "gs1_geo_class12_india_people_economy_ch04_human_settlements",
+      "title": "Human Settlements",
+      "status": "linked",
+      "targets": [
+        "gs1_geography_indian_geography",
+        "gs1_geography_resources"
+      ]
+    },
+    {
+      "key": "gs1_geo_class12_india_people_economy_ch05_land_resources_and_agriculture",
+      "title": "Land Resources and Agriculture",
+      "status": "linked",
+      "targets": [
+        "gs1_geography_indian_geography",
+        "gs1_geography_resources"
+      ]
+    },
+    {
+      "key": "gs1_geo_class12_india_people_economy_ch06_water_resources",
+      "title": "Water Resources",
+      "status": "linked",
+      "targets": [
+        "gs1_geography_indian_geography",
+        "gs1_geography_resources"
+      ]
+    },
+    {
+      "key": "gs1_geo_class12_india_people_economy_ch07_mineral_and_energy_resources",
+      "title": "Mineral and Energy Resources",
+      "status": "linked",
+      "targets": [
+        "gs1_geography_indian_geography",
+        "gs1_geography_resources"
+      ]
+    },
+    {
+      "key": "gs1_geo_class12_india_people_economy_ch08_manufacturing_industries",
+      "title": "Manufacturing Industries",
+      "status": "linked",
+      "targets": [
+        "gs1_geography_indian_geography",
+        "gs1_geography_resources"
+      ]
+    },
+    {
+      "key": "gs1_geo_class12_india_people_economy_ch09_planning_and_sustainable_development",
+      "title": "Planning and Sustainable Development",
+      "status": "linked",
+      "targets": [
+        "gs1_geography_indian_geography",
+        "gs1_geography_resources"
+      ]
+    },
+    {
+      "key": "gs1_geo_class7_our_environment_ch01_environment",
+      "title": "Environment",
+      "status": "linked",
+      "targets": [
+        "gs1_geography",
+        "gs3_environment"
+      ]
+    },
+    {
+      "key": "gs1_geo_class7_our_environment_ch02_inside_our_earth",
+      "title": "Inside Our Earth",
+      "status": "linked",
+      "targets": [
+        "gs1_geography",
+        "gs3_environment"
+      ]
+    },
+    {
+      "key": "gs1_geo_class7_our_environment_ch03_our_changing_earth",
+      "title": "Our Changing Earth",
+      "status": "linked",
+      "targets": [
+        "gs1_geography",
+        "gs3_environment"
+      ]
+    },
+    {
+      "key": "gs1_geo_class7_our_environment_ch04_air",
+      "title": "Air",
+      "status": "linked",
+      "targets": [
+        "gs1_geography",
+        "gs3_environment"
+      ]
+    },
+    {
+      "key": "gs1_geo_class7_our_environment_ch05_water",
+      "title": "Water",
+      "status": "linked",
+      "targets": [
+        "gs1_geography",
+        "gs3_environment"
+      ]
+    },
+    {
+      "key": "gs1_geo_class7_our_environment_ch06_natural_vegetation_and_wildlife",
+      "title": "Natural Vegetation and Wildlife",
+      "status": "linked",
+      "targets": [
+        "gs1_geography",
+        "gs3_environment"
+      ]
+    },
+    {
+      "key": "gs1_geo_class7_our_environment_ch07_human_environment_settlement_transport_and_communication",
+      "title": "Human Environment Settlement Transport and Communication",
+      "status": "linked",
+      "targets": [
+        "gs1_geography",
+        "gs3_environment"
+      ]
+    },
+    {
+      "key": "gs1_geo_class8_resources_development_ch01_resources",
+      "title": "Resources",
+      "status": "linked",
+      "targets": [
+        "gs1_geography_resources",
+        "gs3_environment"
+      ]
+    },
+    {
+      "key": "gs1_geo_class8_resources_development_ch02_land_soil_water_natural_vegetation_and_wildlife_resources",
+      "title": "Land Soil Water Natural Vegetation and Wildlife Resources",
+      "status": "linked",
+      "targets": [
+        "gs1_geography_resources",
+        "gs3_environment"
+      ]
+    },
+    {
+      "key": "gs1_geo_class8_resources_development_ch03_mineral_and_power_resources",
+      "title": "Mineral and Power Resources",
+      "status": "linked",
+      "targets": [
+        "gs1_geography_resources",
+        "gs3_environment"
+      ]
+    },
+    {
+      "key": "gs1_geo_class8_resources_development_ch04_agriculture",
+      "title": "Agriculture",
+      "status": "linked",
+      "targets": [
+        "gs1_geography_resources",
+        "gs3_environment"
+      ]
+    },
+    {
+      "key": "gs1_geo_class8_resources_development_ch05_industries",
+      "title": "Industries",
+      "status": "linked",
+      "targets": [
+        "gs1_geography_resources",
+        "gs3_environment"
+      ]
+    },
+    {
+      "key": "gs1_geo_class8_resources_development_ch06_human_resources",
+      "title": "Human Resources",
+      "status": "linked",
+      "targets": [
+        "gs1_geography_resources",
+        "gs3_environment"
+      ]
+    },
+    {
+      "key": "gs1_hist_class10_contemporary_world_ii_ch01_rise_of_nationalism_in_europe",
+      "title": "Rise of Nationalism in Europe",
+      "status": "linked",
+      "targets": [
+        "gs1_history_world",
+        "gs1_history_modern"
+      ]
+    },
+    {
+      "key": "gs1_hist_class10_contemporary_world_ii_ch02_nationalism_in_india",
+      "title": "Nationalism in India",
+      "status": "linked",
+      "targets": [
+        "gs1_history_world",
+        "gs1_history_modern"
+      ]
+    },
+    {
+      "key": "gs1_hist_class10_contemporary_world_ii_ch03_the_making_of_a_global_world",
+      "title": "The Making of a Global World",
+      "status": "linked",
+      "targets": [
+        "gs1_history_world",
+        "gs1_history_modern"
+      ]
+    },
+    {
+      "key": "gs1_hist_class10_contemporary_world_ii_ch04_the_age_of_industrialisation",
+      "title": "The Age of Industrialisation",
+      "status": "linked",
+      "targets": [
+        "gs1_history_world",
+        "gs1_history_modern"
+      ]
+    },
+    {
+      "key": "gs1_hist_class10_contemporary_world_ii_ch05_print_culture_and_the_modern_world",
+      "title": "Print Culture and the Modern World",
+      "status": "linked",
+      "targets": [
+        "gs1_history_world",
+        "gs1_history_modern"
+      ]
+    },
+    {
+      "key": "gs1_hist_class11_themes_world_history_ch01_writing_and_city_life",
+      "title": "Writing and City Life",
+      "status": "linked",
+      "targets": [
+        "gs1_history_world"
+      ]
+    },
+    {
+      "key": "gs1_hist_class11_themes_world_history_ch02_an_empire_across_three_continents",
+      "title": "An Empire Across Three Continents",
+      "status": "linked",
+      "targets": [
+        "gs1_history_world"
+      ]
+    },
+    {
+      "key": "gs1_hist_class11_themes_world_history_ch03_nomadic_empires",
+      "title": "Nomadic Empires",
+      "status": "linked",
+      "targets": [
+        "gs1_history_world"
+      ]
+    },
+    {
+      "key": "gs1_hist_class11_themes_world_history_ch04_the_three_orders",
+      "title": "The Three Orders",
+      "status": "linked",
+      "targets": [
+        "gs1_history_world"
+      ]
+    },
+    {
+      "key": "gs1_hist_class11_themes_world_history_ch05_changing_cultural_traditions",
+      "title": "Changing Cultural Traditions",
+      "status": "linked",
+      "targets": [
+        "gs1_history_world"
+      ]
+    },
+    {
+      "key": "gs1_hist_class11_themes_world_history_ch06_displacing_indigenous_peoples",
+      "title": "Displacing Indigenous Peoples",
+      "status": "linked",
+      "targets": [
+        "gs1_history_world"
+      ]
+    },
+    {
+      "key": "gs1_hist_class11_themes_world_history_ch07_paths_to_modernisation",
+      "title": "Paths to Modernisation",
+      "status": "linked",
+      "targets": [
+        "gs1_history_world"
+      ]
+    },
+    {
+      "key": "gs1_hist_class12_indian_history_i_ch01_bricks_beads_and_bones",
+      "title": "Bricks Beads and Bones",
+      "status": "linked",
+      "targets": [
+        "gs1_history_ancient"
+      ]
+    },
+    {
+      "key": "gs1_hist_class12_indian_history_i_ch02_kings_farmers_and_towns",
+      "title": "Kings Farmers and Towns",
+      "status": "linked",
+      "targets": [
+        "gs1_history_ancient"
+      ]
+    },
+    {
+      "key": "gs1_hist_class12_indian_history_i_ch03_kinship_caste_and_class",
+      "title": "Kinship Caste and Class",
+      "status": "linked",
+      "targets": [
+        "gs1_history_ancient"
+      ]
+    },
+    {
+      "key": "gs1_hist_class12_indian_history_i_ch04_thinkers_beliefs_and_buildings",
+      "title": "Thinkers Beliefs and Buildings",
+      "status": "linked",
+      "targets": [
+        "gs1_history_ancient"
+      ]
+    },
+    {
+      "key": "gs1_hist_class12_indian_history_ii_ch01_through_the_eyes_of_travellers",
+      "title": "Through the Eyes of Travellers",
+      "status": "linked",
+      "targets": [
+        "gs1_history_medieval"
+      ]
+    },
+    {
+      "key": "gs1_hist_class12_indian_history_ii_ch02_bhakti_sufi_traditions",
+      "title": "Bhakti Sufi Traditions",
+      "status": "linked",
+      "targets": [
+        "gs1_history_medieval"
+      ]
+    },
+    {
+      "key": "gs1_hist_class12_indian_history_ii_ch03_an_imperial_capital_vijayanagara",
+      "title": "An Imperial Capital Vijayanagara",
+      "status": "linked",
+      "targets": [
+        "gs1_history_medieval"
+      ]
+    },
+    {
+      "key": "gs1_hist_class12_indian_history_ii_ch04_peasants_zamindars_and_the_state",
+      "title": "Peasants Zamindars and the State",
+      "status": "linked",
+      "targets": [
+        "gs1_history_medieval"
+      ]
+    },
+    {
+      "key": "gs1_hist_class12_indian_history_iii_ch01_colonialism_and_the_countryside",
+      "title": "Colonialism and the Countryside",
+      "status": "linked",
+      "targets": [
+        "gs1_history_modern"
+      ]
+    },
+    {
+      "key": "gs1_hist_class12_indian_history_iii_ch02_rebels_and_the_raj_1857",
+      "title": "Rebels and the Raj 1857",
+      "status": "linked",
+      "targets": [
+        "gs1_history_modern"
+      ]
+    },
+    {
+      "key": "gs1_hist_class12_indian_history_iii_ch03_mahatma_gandhi_and_the_nationalist_movement",
+      "title": "Mahatma Gandhi and the Nationalist Movement",
+      "status": "linked",
+      "targets": [
+        "gs1_history_modern"
+      ]
+    },
+    {
+      "key": "gs1_hist_class12_indian_history_iii_ch04_framing_the_constitution",
+      "title": "Framing the Constitution",
+      "status": "linked",
+      "targets": [
+        "gs1_history_modern"
+      ]
+    },
+    {
+      "key": "gs1_hist_class7_our_pasts_ii_ch01_tracing_changes_through_a_thousand_years",
+      "title": "Tracing Changes Through a Thousand Years",
+      "status": "linked",
+      "targets": [
+        "gs1_history_medieval"
+      ]
+    },
+    {
+      "key": "gs1_hist_class7_our_pasts_ii_ch02_new_kings_and_kingdoms",
+      "title": "New Kings and Kingdoms",
+      "status": "linked",
+      "targets": [
+        "gs1_history_medieval"
+      ]
+    },
+    {
+      "key": "gs1_hist_class7_our_pasts_ii_ch03_the_delhi_sultans",
+      "title": "The Delhi Sultans",
+      "status": "linked",
+      "targets": [
+        "gs1_history_medieval"
+      ]
+    },
+    {
+      "key": "gs1_hist_class7_our_pasts_ii_ch04_the_mughal_empire",
+      "title": "The Mughal Empire",
+      "status": "linked",
+      "targets": [
+        "gs1_history_medieval"
+      ]
+    },
+    {
+      "key": "gs1_hist_class7_our_pasts_ii_ch05_rulers_and_buildings",
+      "title": "Rulers and Buildings",
+      "status": "linked",
+      "targets": [
+        "gs1_history_medieval"
+      ]
+    },
+    {
+      "key": "gs1_hist_class7_our_pasts_ii_ch06_towns_traders_and_craftspersons",
+      "title": "Towns Traders and Craftspersons",
+      "status": "linked",
+      "targets": [
+        "gs1_history_medieval"
+      ]
+    },
+    {
+      "key": "gs1_hist_class7_our_pasts_ii_ch07_tribes_nomads_and_settled_communities",
+      "title": "Tribes Nomads and Settled Communities",
+      "status": "linked",
+      "targets": [
+        "gs1_history_medieval"
+      ]
+    },
+    {
+      "key": "gs1_hist_class7_our_pasts_ii_ch08_devotional_paths_to_the_divine",
+      "title": "Devotional Paths to the Divine",
+      "status": "linked",
+      "targets": [
+        "gs1_history_medieval"
+      ]
+    },
+    {
+      "key": "gs1_hist_class8_our_pasts_iii_ch01_how_when_and_where",
+      "title": "How When and Where",
+      "status": "linked",
+      "targets": [
+        "gs1_history_modern"
+      ]
+    },
+    {
+      "key": "gs1_hist_class8_our_pasts_iii_ch02_from_trade_to_territory",
+      "title": "From Trade to Territory",
+      "status": "linked",
+      "targets": [
+        "gs1_history_modern"
+      ]
+    },
+    {
+      "key": "gs1_hist_class8_our_pasts_iii_ch03_ruling_the_countryside",
+      "title": "Ruling the Countryside",
+      "status": "linked",
+      "targets": [
+        "gs1_history_modern"
+      ]
+    },
+    {
+      "key": "gs1_hist_class8_our_pasts_iii_ch04_tribals_dikus_and_the_vision_of_a_golden_age",
+      "title": "Tribals Dikus and the Vision of a Golden Age",
+      "status": "linked",
+      "targets": [
+        "gs1_history_modern"
+      ]
+    },
+    {
+      "key": "gs1_hist_class8_our_pasts_iii_ch05_when_people_rebel_1857",
+      "title": "When People Rebel 1857",
+      "status": "linked",
+      "targets": [
+        "gs1_history_modern"
+      ]
+    },
+    {
+      "key": "gs1_hist_class8_our_pasts_iii_ch06_weavers_iron_smelters_and_factory_owners",
+      "title": "Weavers Iron Smelters and Factory Owners",
+      "status": "linked",
+      "targets": [
+        "gs1_history_modern"
+      ]
+    },
+    {
+      "key": "gs1_hist_class8_our_pasts_iii_ch07_civilising_the_native_educating_the_nation",
+      "title": "Civilising the Native Educating the Nation",
+      "status": "linked",
+      "targets": [
+        "gs1_history_modern"
+      ]
+    },
+    {
+      "key": "gs1_hist_class8_our_pasts_iii_ch08_women_caste_and_reform",
+      "title": "Women Caste and Reform",
+      "status": "linked",
+      "targets": [
+        "gs1_history_modern"
+      ]
+    },
+    {
+      "key": "gs1_post_independence_class12_politics_india_ch01_challenges_of_nation_building",
+      "title": "Challenges of Nation Building",
+      "status": "linked",
+      "targets": [
+        "gs1_history_post_independence",
+        "gs2_polity"
+      ]
+    },
+    {
+      "key": "gs1_post_independence_class12_politics_india_ch02_era_of_one_party_dominance",
+      "title": "Era of One Party Dominance",
+      "status": "linked",
+      "targets": [
+        "gs1_history_post_independence",
+        "gs2_polity"
+      ]
+    },
+    {
+      "key": "gs1_post_independence_class12_politics_india_ch03_politics_of_planned_development",
+      "title": "Politics of Planned Development",
+      "status": "linked",
+      "targets": [
+        "gs1_history_post_independence",
+        "gs2_polity"
+      ]
+    },
+    {
+      "key": "gs1_post_independence_class12_politics_india_ch04_india_s_external_relations",
+      "title": "India's External Relations",
+      "status": "linked",
+      "targets": [
+        "gs1_history_post_independence",
+        "gs2_polity"
+      ]
+    },
+    {
+      "key": "gs1_post_independence_class12_politics_india_ch05_challenges_to_and_restoration_of_congress_system",
+      "title": "Challenges to and Restoration of Congress System",
+      "status": "linked",
+      "targets": [
+        "gs1_history_post_independence",
+        "gs2_polity"
+      ]
+    },
+    {
+      "key": "gs1_post_independence_class12_politics_india_ch06_rise_of_popular_movements",
+      "title": "Rise of Popular Movements",
+      "status": "linked",
+      "targets": [
+        "gs1_history_post_independence",
+        "gs2_polity"
+      ]
+    },
+    {
+      "key": "gs1_post_independence_class12_politics_india_ch07_regional_aspirations",
+      "title": "Regional Aspirations",
+      "status": "linked",
+      "targets": [
+        "gs1_history_post_independence",
+        "gs2_polity"
+      ]
+    },
+    {
+      "key": "gs1_post_independence_class12_politics_india_ch08_recent_developments_in_indian_politics",
+      "title": "Recent Developments in Indian Politics",
+      "status": "linked",
+      "targets": [
+        "gs1_history_post_independence",
+        "gs2_polity"
+      ]
+    },
+    {
+      "key": "gs1_society_class11_introducing_sociology_ch01_sociology_and_society",
+      "title": "Sociology and Society",
+      "status": "linked",
+      "targets": [
+        "gs1_society"
+      ]
+    },
+    {
+      "key": "gs1_society_class11_introducing_sociology_ch02_terms_concepts_and_their_use_in_sociology",
+      "title": "Terms Concepts and Their Use in Sociology",
+      "status": "linked",
+      "targets": [
+        "gs1_society"
+      ]
+    },
+    {
+      "key": "gs1_society_class11_introducing_sociology_ch03_understanding_social_institutions",
+      "title": "Understanding Social Institutions",
+      "status": "linked",
+      "targets": [
+        "gs1_society"
+      ]
+    },
+    {
+      "key": "gs1_society_class11_introducing_sociology_ch04_culture_and_socialisation",
+      "title": "Culture and Socialisation",
+      "status": "linked",
+      "targets": [
+        "gs1_society"
+      ]
+    },
+    {
+      "key": "gs1_society_class11_introducing_sociology_ch05_doing_sociology_research_methods",
+      "title": "Doing Sociology Research Methods",
+      "status": "linked",
+      "targets": [
+        "gs1_society"
+      ]
+    },
+    {
+      "key": "gs1_society_class11_understanding_society_ch01_social_structure_stratification_and_social_processes",
+      "title": "Social Structure Stratification and Social Processes",
+      "status": "linked",
+      "targets": [
+        "gs1_society"
+      ]
+    },
+    {
+      "key": "gs1_society_class11_understanding_society_ch02_social_change_and_social_order_in_rural_and_urban_society",
+      "title": "Social Change and Social Order in Rural and Urban Society",
+      "status": "linked",
+      "targets": [
+        "gs1_society"
+      ]
+    },
+    {
+      "key": "gs1_society_class11_understanding_society_ch03_environment_and_society",
+      "title": "Environment and Society",
+      "status": "linked",
+      "targets": [
+        "gs1_society"
+      ]
+    },
+    {
+      "key": "gs1_society_class11_understanding_society_ch04_introducing_western_sociologists",
+      "title": "Introducing Western Sociologists",
+      "status": "linked",
+      "targets": [
+        "gs1_society"
+      ]
+    },
+    {
+      "key": "gs1_society_class11_understanding_society_ch05_indian_sociologists",
+      "title": "Indian Sociologists",
+      "status": "linked",
+      "targets": [
+        "gs1_society"
+      ]
+    },
+    {
+      "key": "gs1_society_class12_indian_society_ch01_introducing_indian_society",
+      "title": "Introducing Indian Society",
+      "status": "linked",
+      "targets": [
+        "gs1_society"
+      ]
+    },
+    {
+      "key": "gs1_society_class12_indian_society_ch02_the_demographic_structure",
+      "title": "The Demographic Structure",
+      "status": "linked",
+      "targets": [
+        "gs1_society"
+      ]
+    },
+    {
+      "key": "gs1_society_class12_indian_society_ch03_social_institutions_continuity_and_change",
+      "title": "Social Institutions Continuity and Change",
+      "status": "linked",
+      "targets": [
+        "gs1_society"
+      ]
+    },
+    {
+      "key": "gs1_society_class12_indian_society_ch04_the_market_as_a_social_institution",
+      "title": "The Market as a Social Institution",
+      "status": "linked",
+      "targets": [
+        "gs1_society"
+      ]
+    },
+    {
+      "key": "gs1_society_class12_indian_society_ch05_patterns_of_social_inequality_and_exclusion",
+      "title": "Patterns of Social Inequality and Exclusion",
+      "status": "linked",
+      "targets": [
+        "gs1_society"
+      ]
+    },
+    {
+      "key": "gs1_society_class12_indian_society_ch06_the_challenges_of_cultural_diversity",
+      "title": "The Challenges of Cultural Diversity",
+      "status": "linked",
+      "targets": [
+        "gs1_society"
+      ]
+    },
+    {
+      "key": "gs1_society_class12_indian_society_ch07_suggestions_for_project_work",
+      "title": "Suggestions for Project Work",
+      "status": "linked",
+      "targets": [
+        "gs1_society"
+      ]
+    },
+    {
+      "key": "gs1_society_class12_social_change_ch01_structural_change",
+      "title": "Structural Change",
+      "status": "linked",
+      "targets": [
+        "gs1_society"
+      ]
+    },
+    {
+      "key": "gs1_society_class12_social_change_ch02_cultural_change",
+      "title": "Cultural Change",
+      "status": "linked",
+      "targets": [
+        "gs1_society"
+      ]
+    },
+    {
+      "key": "gs1_society_class12_social_change_ch03_the_story_of_indian_democracy",
+      "title": "The Story of Indian Democracy",
+      "status": "linked",
+      "targets": [
+        "gs1_society"
+      ]
+    },
+    {
+      "key": "gs1_society_class12_social_change_ch04_change_and_development_in_rural_society",
+      "title": "Change and Development in Rural Society",
+      "status": "linked",
+      "targets": [
+        "gs1_society"
+      ]
+    },
+    {
+      "key": "gs1_society_class12_social_change_ch05_change_and_development_in_industrial_society",
+      "title": "Change and Development in Industrial Society",
+      "status": "linked",
+      "targets": [
+        "gs1_society"
+      ]
+    },
+    {
+      "key": "gs1_society_class12_social_change_ch06_globalisation_and_social_change",
+      "title": "Globalisation and Social Change",
+      "status": "linked",
+      "targets": [
+        "gs1_society"
+      ]
+    },
+    {
+      "key": "gs1_society_class12_social_change_ch07_mass_media_and_communications",
+      "title": "Mass Media and Communications",
+      "status": "linked",
+      "targets": [
+        "gs1_society"
+      ]
+    },
+    {
+      "key": "gs1_society_class12_social_change_ch08_social_movements",
+      "title": "Social Movements",
+      "status": "linked",
+      "targets": [
+        "gs1_society"
+      ]
+    },
+    {
+      "key": "gs2_ir_class12_world_politics_ch01_cold_war_era",
+      "title": "Cold War Era",
+      "status": "linked",
+      "targets": [
+        "gs2_ir_class12_world_politics_ch08_environment_and_natural_resources",
+        "gs2_ir_class12_world_politics_ch09_globalisation"
+      ]
+    },
+    {
+      "key": "gs2_ir_class12_world_politics_ch02_disintegration_of_ussr",
+      "title": "Disintegration of USSR",
+      "status": "linked",
+      "targets": [
+        "gs2_ir_class12_world_politics_ch08_environment_and_natural_resources",
+        "gs2_ir_class12_world_politics_ch09_globalisation"
+      ]
+    },
+    {
+      "key": "gs2_ir_class12_world_politics_ch03_us_hegemony",
+      "title": "US Hegemony",
+      "status": "linked",
+      "targets": [
+        "gs2_ir_class12_world_politics_ch08_environment_and_natural_resources",
+        "gs2_ir_class12_world_politics_ch09_globalisation"
+      ]
+    },
+    {
+      "key": "gs2_ir_class12_world_politics_ch04_alternative_centres_of_power",
+      "title": "Alternative Centres of Power",
+      "status": "linked",
+      "targets": [
+        "gs2_ir_class12_world_politics_ch08_environment_and_natural_resources",
+        "gs2_ir_class12_world_politics_ch09_globalisation"
+      ]
+    },
+    {
+      "key": "gs2_ir_class12_world_politics_ch05_south_asia",
+      "title": "South Asia",
+      "status": "linked",
+      "targets": [
+        "gs2_ir_class12_world_politics_ch08_environment_and_natural_resources",
+        "gs2_ir_class12_world_politics_ch09_globalisation"
+      ]
+    },
+    {
+      "key": "gs2_ir_class12_world_politics_ch06_international_organisations",
+      "title": "International Organisations",
+      "status": "linked",
+      "targets": [
+        "gs2_ir_class12_world_politics_ch08_environment_and_natural_resources",
+        "gs2_ir_class12_world_politics_ch09_globalisation"
+      ]
+    },
+    {
+      "key": "gs2_ir_class12_world_politics_ch07_security_in_the_contemporary_world",
+      "title": "Security in the Contemporary World",
+      "status": "linked",
+      "targets": [
+        "gs2_ir_class12_world_politics_ch08_environment_and_natural_resources",
+        "gs2_ir_class12_world_politics_ch09_globalisation"
+      ]
+    },
+    {
+      "key": "gs2_polity_class10_democratic_politics_ii_ch01_power_sharing",
+      "title": "Power Sharing",
+      "status": "linked",
+      "targets": [
+        "gs2_polity_federalism"
+      ]
+    },
+    {
+      "key": "gs2_polity_class10_democratic_politics_ii_ch02_federalism",
+      "title": "Federalism",
+      "status": "linked",
+      "targets": [
+        "gs2_polity_federalism"
+      ]
+    },
+    {
+      "key": "gs2_polity_class10_democratic_politics_ii_ch03_democracy_and_diversity",
+      "title": "Democracy and Diversity",
+      "status": "linked",
+      "targets": [
+        "gs2_polity_federalism"
+      ]
+    },
+    {
+      "key": "gs2_polity_class10_democratic_politics_ii_ch04_gender_religion_and_caste",
+      "title": "Gender Religion and Caste",
+      "status": "linked",
+      "targets": [
+        "gs2_polity_federalism"
+      ]
+    },
+    {
+      "key": "gs2_polity_class10_democratic_politics_ii_ch05_popular_struggles_and_movements",
+      "title": "Popular Struggles and Movements",
+      "status": "linked",
+      "targets": [
+        "gs2_polity_federalism"
+      ]
+    },
+    {
+      "key": "gs2_polity_class11_constitution_ch01_why_and_how",
+      "title": "Constitution: Why and How?",
+      "status": "linked",
+      "targets": [
+        "gs2_polity_constitution"
+      ]
+    },
+    {
+      "key": "gs2_polity_class11_constitution_ch02_rights",
+      "title": "Rights in the Indian Constitution",
+      "status": "linked",
+      "targets": [
+        "gs2_polity_constitution"
+      ]
+    },
+    {
+      "key": "gs2_polity_class11_constitution_ch03_election_and_representation",
+      "title": "Election and Representation",
+      "status": "linked",
+      "targets": [
+        "gs2_polity_constitution"
+      ]
+    },
+    {
+      "key": "gs2_polity_class11_constitution_ch04_executive",
+      "title": "Executive",
+      "status": "linked",
+      "targets": [
+        "gs2_polity_constitution"
+      ]
+    },
+    {
+      "key": "gs2_polity_class11_constitution_ch05_legislature",
+      "title": "Legislature",
+      "status": "linked",
+      "targets": [
+        "gs2_polity_constitution"
+      ]
+    },
+    {
+      "key": "gs2_polity_class11_constitution_ch06_judiciary",
+      "title": "Judiciary",
+      "status": "linked",
+      "targets": [
+        "gs2_polity_constitution"
+      ]
+    },
+    {
+      "key": "gs2_polity_class11_constitution_ch07_federalism",
+      "title": "Federalism",
+      "status": "linked",
+      "targets": [
+        "gs2_polity_federalism"
+      ]
+    },
+    {
+      "key": "gs2_polity_class11_constitution_ch08_local_governments",
+      "title": "Local Governments",
+      "status": "linked",
+      "targets": [
+        "gs2_polity_constitution"
+      ]
+    },
+    {
+      "key": "gs2_polity_class11_constitution_ch09_constitution_as_a_living_document",
+      "title": "Constitution as a Living Document",
+      "status": "linked",
+      "targets": [
+        "gs2_polity_constitution"
+      ]
+    },
+    {
+      "key": "gs2_polity_class11_constitution_ch10_the_philosophy_of_the_constitution",
+      "title": "The Philosophy of the Constitution",
+      "status": "linked",
+      "targets": [
+        "gs2_polity_constitution"
+      ]
+    },
+    {
+      "key": "gs2_polity_class11_theory_ch01_political_theory_an_introduction",
+      "title": "Political Theory an Introduction",
+      "status": "linked",
+      "targets": [
+        "gs2_polity_class11_theory_ch09_peace",
+        "gs2_polity_class11_theory_ch10_development"
+      ]
+    },
+    {
+      "key": "gs2_polity_class11_theory_ch02_freedom",
+      "title": "Freedom",
+      "status": "linked",
+      "targets": [
+        "gs2_polity_class11_theory_ch09_peace",
+        "gs2_polity_class11_theory_ch10_development"
+      ]
+    },
+    {
+      "key": "gs2_polity_class11_theory_ch03_equality",
+      "title": "Equality",
+      "status": "linked",
+      "targets": [
+        "gs2_polity_class11_theory_ch09_peace",
+        "gs2_polity_class11_theory_ch10_development"
+      ]
+    },
+    {
+      "key": "gs2_polity_class11_theory_ch04_social_justice",
+      "title": "Social Justice",
+      "status": "linked",
+      "targets": [
+        "gs2_polity_class6_social_political_life_i_ch04_key_elements_of_a_democratic_government",
+        "gs2_polity_class11_theory_ch09_peace"
+      ]
+    },
+    {
+      "key": "gs2_polity_class11_theory_ch05_rights",
+      "title": "Rights",
+      "status": "linked",
+      "targets": [
+        "gs2_polity_class11_theory_ch09_peace",
+        "gs2_polity_class11_theory_ch10_development"
+      ]
+    },
+    {
+      "key": "gs2_polity_class11_theory_ch06_citizenship",
+      "title": "Citizenship",
+      "status": "linked",
+      "targets": [
+        "gs2_polity_class10_democratic_politics_ii_ch06_political_parties",
+        "gs2_polity_class11_theory_ch09_peace"
+      ]
+    },
+    {
+      "key": "gs2_polity_class11_theory_ch07_nationalism",
+      "title": "Nationalism",
+      "status": "linked",
+      "targets": [
+        "gs2_polity_class11_theory_ch09_peace",
+        "gs2_polity_class11_theory_ch10_development"
+      ]
+    },
+    {
+      "key": "gs2_polity_class11_theory_ch08_secularism",
+      "title": "Secularism",
+      "status": "linked",
+      "targets": [
+        "gs2_polity_class11_theory_ch09_peace",
+        "gs2_polity_class11_theory_ch10_development"
+      ]
+    },
+    {
+      "key": "gs2_polity_class7_social_political_life_ii_ch01_on_equality",
+      "title": "On Equality",
+      "status": "linked",
+      "targets": [
+        "gs2_governance"
+      ]
+    },
+    {
+      "key": "gs2_polity_class7_social_political_life_ii_ch02_role_of_the_government_in_health",
+      "title": "Role of the Government in Health",
+      "status": "linked",
+      "targets": [
+        "gs2_governance"
+      ]
+    },
+    {
+      "key": "gs2_polity_class7_social_political_life_ii_ch03_how_the_state_government_works",
+      "title": "How the State Government Works",
+      "status": "linked",
+      "targets": [
+        "gs2_governance"
+      ]
+    },
+    {
+      "key": "gs2_polity_class7_social_political_life_ii_ch04_growing_up_as_boys_and_girls",
+      "title": "Growing up as Boys and Girls",
+      "status": "linked",
+      "targets": [
+        "gs2_governance"
+      ]
+    },
+    {
+      "key": "gs2_polity_class7_social_political_life_ii_ch05_women_change_the_world",
+      "title": "Women Change the World",
+      "status": "linked",
+      "targets": [
+        "gs2_governance"
+      ]
+    },
+    {
+      "key": "gs2_polity_class7_social_political_life_ii_ch06_understanding_media",
+      "title": "Understanding Media",
+      "status": "linked",
+      "targets": [
+        "gs2_governance"
+      ]
+    },
+    {
+      "key": "gs2_polity_class7_social_political_life_ii_ch07_markets_around_us",
+      "title": "Markets Around Us",
+      "status": "linked",
+      "targets": [
+        "gs2_governance"
+      ]
+    },
+    {
+      "key": "gs2_polity_class7_social_political_life_ii_ch08_a_shirt_in_the_market",
+      "title": "A Shirt in the Market",
+      "status": "linked",
+      "targets": [
+        "gs2_governance"
+      ]
+    },
+    {
+      "key": "gs2_polity_class8_social_political_life_iii_ch01_the_indian_constitution",
+      "title": "The Indian Constitution",
+      "status": "linked",
+      "targets": [
+        "gs2_polity_constitution",
+        "gs2_governance"
+      ]
+    },
+    {
+      "key": "gs2_polity_class8_social_political_life_iii_ch02_understanding_secularism",
+      "title": "Understanding Secularism",
+      "status": "linked",
+      "targets": [
+        "gs2_polity_constitution",
+        "gs2_governance"
+      ]
+    },
+    {
+      "key": "gs2_polity_class8_social_political_life_iii_ch03_parliament_and_the_making_of_laws",
+      "title": "Parliament and the Making of Laws",
+      "status": "linked",
+      "targets": [
+        "gs2_polity_constitution",
+        "gs2_governance"
+      ]
+    },
+    {
+      "key": "gs2_polity_class8_social_political_life_iii_ch04_judiciary",
+      "title": "Judiciary",
+      "status": "linked",
+      "targets": [
+        "gs2_polity_constitution",
+        "gs2_governance"
+      ]
+    },
+    {
+      "key": "gs2_polity_class8_social_political_life_iii_ch05_understanding_marginalisation",
+      "title": "Understanding Marginalisation",
+      "status": "linked",
+      "targets": [
+        "gs2_polity_constitution",
+        "gs2_governance"
+      ]
+    },
+    {
+      "key": "gs2_polity_class8_social_political_life_iii_ch06_confronting_marginalisation",
+      "title": "Confronting Marginalisation",
+      "status": "linked",
+      "targets": [
+        "gs2_polity_constitution",
+        "gs2_governance"
+      ]
+    },
+    {
+      "key": "gs2_polity_class8_social_political_life_iii_ch07_public_facilities",
+      "title": "Public Facilities",
+      "status": "linked",
+      "targets": [
+        "gs2_polity_constitution",
+        "gs2_governance"
+      ]
+    },
+    {
+      "key": "gs2_polity_class8_social_political_life_iii_ch08_law_and_social_justice",
+      "title": "Law and Social Justice",
+      "status": "linked",
+      "targets": [
+        "gs2_polity_constitution",
+        "gs2_governance"
+      ]
+    },
+    {
+      "key": "gs3_economy_class10_development_ch01_development",
+      "title": "Development",
+      "status": "linked",
+      "targets": [
+        "gs3_economy"
+      ]
+    },
+    {
+      "key": "gs3_economy_class10_development_ch02_sectors_of_the_indian_economy",
+      "title": "Sectors of the Indian Economy",
+      "status": "linked",
+      "targets": [
+        "gs3_economy"
+      ]
+    },
+    {
+      "key": "gs3_economy_class10_development_ch03_money_and_credit",
+      "title": "Money and Credit",
+      "status": "linked",
+      "targets": [
+        "gs3_economy"
+      ]
+    },
+    {
+      "key": "gs3_economy_class10_development_ch04_globalisation_and_the_indian_economy",
+      "title": "Globalisation and the Indian Economy",
+      "status": "linked",
+      "targets": [
+        "gs3_economy"
+      ]
+    },
+    {
+      "key": "gs3_economy_class10_development_ch05_consumer_rights",
+      "title": "Consumer Rights",
+      "status": "linked",
+      "targets": [
+        "gs3_economy"
+      ]
+    },
+    {
+      "key": "gs3_economy_class11_indian_development_ch01_indian_economy_on_the_eve_of_independence",
+      "title": "Indian Economy on the Eve of Independence",
+      "status": "linked",
+      "targets": [
+        "gs3_economy"
+      ]
+    },
+    {
+      "key": "gs3_economy_class11_indian_development_ch02_indian_economy_1950_1990",
+      "title": "Indian Economy 1950-1990",
+      "status": "linked",
+      "targets": [
+        "gs3_economy"
+      ]
+    },
+    {
+      "key": "gs3_economy_class11_indian_development_ch03_liberalisation_privatisation_and_globalisation",
+      "title": "Liberalisation Privatisation and Globalisation",
+      "status": "linked",
+      "targets": [
+        "gs3_economy"
+      ]
+    },
+    {
+      "key": "gs3_economy_class11_indian_development_ch04_poverty",
+      "title": "Poverty",
+      "status": "linked",
+      "targets": [
+        "gs3_economy"
+      ]
+    },
+    {
+      "key": "gs3_economy_class11_indian_development_ch05_human_capital_formation",
+      "title": "Human Capital Formation",
+      "status": "linked",
+      "targets": [
+        "gs3_economy"
+      ]
+    },
+    {
+      "key": "gs3_economy_class11_indian_development_ch06_rural_development",
+      "title": "Rural Development",
+      "status": "linked",
+      "targets": [
+        "gs3_economy"
+      ]
+    },
+    {
+      "key": "gs3_economy_class11_indian_development_ch07_employment",
+      "title": "Employment",
+      "status": "linked",
+      "targets": [
+        "gs3_economy"
+      ]
+    },
+    {
+      "key": "gs3_economy_class11_indian_development_ch08_infrastructure",
+      "title": "Infrastructure",
+      "status": "linked",
+      "targets": [
+        "gs3_economy"
+      ]
+    },
+    {
+      "key": "gs3_economy_class12_macro_ch01_national_income_accounting",
+      "title": "National Income Accounting",
+      "status": "linked",
+      "targets": [
+        "gs3_economy"
+      ]
+    },
+    {
+      "key": "gs3_economy_class12_macro_ch02_money_and_banking",
+      "title": "Money and Banking",
+      "status": "linked",
+      "targets": [
+        "gs3_economy_banking"
+      ]
+    },
+    {
+      "key": "gs3_economy_class12_macro_ch03_determination_of_income_and_employment",
+      "title": "Determination of Income and Employment",
+      "status": "linked",
+      "targets": [
+        "gs3_economy"
+      ]
+    },
+    {
+      "key": "gs3_economy_class12_macro_ch04_government_budget_and_the_economy",
+      "title": "Government Budget and the Economy",
+      "status": "linked",
+      "targets": [
+        "gs3_economy"
+      ]
+    },
+    {
+      "key": "gs3_economy_class12_macro_ch05_balance_of_payments",
+      "title": "Balance of Payments",
+      "status": "linked",
+      "targets": [
+        "gs3_economy"
+      ]
+    },
+    {
+      "key": "gs3_economy_class12_micro_ch01_introduction",
+      "title": "Introduction",
+      "status": "linked",
+      "targets": [
+        "gs3_economy"
+      ]
+    },
+    {
+      "key": "gs3_economy_class12_micro_ch02_consumer_behaviour",
+      "title": "Consumer Behaviour",
+      "status": "linked",
+      "targets": [
+        "gs3_economy"
+      ]
+    },
+    {
+      "key": "gs3_economy_class12_micro_ch03_production_and_costs",
+      "title": "Production and Costs",
+      "status": "linked",
+      "targets": [
+        "gs3_economy"
+      ]
+    },
+    {
+      "key": "gs3_economy_class12_micro_ch04_theory_of_the_firm",
+      "title": "Theory of the Firm",
+      "status": "linked",
+      "targets": [
+        "gs3_economy"
+      ]
+    },
+    {
+      "key": "gs3_economy_class12_micro_ch05_market_equilibrium",
+      "title": "Market Equilibrium",
+      "status": "linked",
+      "targets": [
+        "gs3_economy"
+      ]
+    },
+    {
+      "key": "gs3_env_class11_biology_ch01_the_living_world",
+      "title": "The Living World",
+      "status": "linked",
+      "targets": [
+        "gs3_environment"
+      ]
+    },
+    {
+      "key": "gs3_env_class11_biology_ch02_biological_classification",
+      "title": "Biological Classification",
+      "status": "linked",
+      "targets": [
+        "gs3_environment"
+      ]
+    },
+    {
+      "key": "gs3_env_class11_biology_ch03_plant_kingdom",
+      "title": "Plant Kingdom",
+      "status": "linked",
+      "targets": [
+        "gs3_environment"
+      ]
+    },
+    {
+      "key": "gs3_env_class11_biology_ch04_animal_kingdom",
+      "title": "Animal Kingdom",
+      "status": "linked",
+      "targets": [
+        "gs3_environment"
+      ]
+    },
+    {
+      "key": "gs3_env_class11_biology_ch05_morphology_of_flowering_plants",
+      "title": "Morphology of Flowering Plants",
+      "status": "linked",
+      "targets": [
+        "gs3_environment"
+      ]
+    },
+    {
+      "key": "gs3_env_class11_biology_ch06_anatomy_of_flowering_plants",
+      "title": "Anatomy of Flowering Plants",
+      "status": "linked",
+      "targets": [
+        "gs3_environment"
+      ]
+    },
+    {
+      "key": "gs3_env_class11_biology_ch07_structural_organisation_in_animals",
+      "title": "Structural Organisation in Animals",
+      "status": "linked",
+      "targets": [
+        "gs3_environment"
+      ]
+    },
+    {
+      "key": "gs3_env_class11_biology_ch08_cell_the_unit_of_life",
+      "title": "Cell The Unit of Life",
+      "status": "linked",
+      "targets": [
+        "gs3_environment"
+      ]
+    },
+    {
+      "key": "gs3_env_class11_biology_ch09_biomolecules",
+      "title": "Biomolecules",
+      "status": "linked",
+      "targets": [
+        "gs3_environment"
+      ]
+    },
+    {
+      "key": "gs3_env_class11_biology_ch10_cell_cycle_and_cell_division",
+      "title": "Cell Cycle and Cell Division",
+      "status": "linked",
+      "targets": [
+        "gs3_environment"
+      ]
+    },
+    {
+      "key": "gs3_env_class11_biology_ch11_transport_in_plants",
+      "title": "Transport in Plants",
+      "status": "linked",
+      "targets": [
+        "gs3_environment"
+      ]
+    },
+    {
+      "key": "gs3_env_class11_biology_ch12_mineral_nutrition",
+      "title": "Mineral Nutrition",
+      "status": "linked",
+      "targets": [
+        "gs3_environment"
+      ]
+    },
+    {
+      "key": "gs3_env_class11_biology_ch13_photosynthesis_in_higher_plants",
+      "title": "Photosynthesis in Higher Plants",
+      "status": "linked",
+      "targets": [
+        "gs3_environment"
+      ]
+    },
+    {
+      "key": "gs3_env_class11_biology_ch14_respiration_in_plants",
+      "title": "Respiration in Plants",
+      "status": "linked",
+      "targets": [
+        "gs3_environment"
+      ]
+    },
+    {
+      "key": "gs3_env_class11_biology_ch15_plant_growth_and_development",
+      "title": "Plant Growth and Development",
+      "status": "linked",
+      "targets": [
+        "gs3_environment"
+      ]
+    },
+    {
+      "key": "gs3_env_class11_biology_ch16_digestion_and_absorption",
+      "title": "Digestion and Absorption",
+      "status": "linked",
+      "targets": [
+        "gs3_environment"
+      ]
+    },
+    {
+      "key": "gs3_env_class11_biology_ch17_breathing_and_exchange_of_gases",
+      "title": "Breathing and Exchange of Gases",
+      "status": "linked",
+      "targets": [
+        "gs3_environment"
+      ]
+    },
+    {
+      "key": "gs3_env_class11_biology_ch18_body_fluids_and_circulation",
+      "title": "Body Fluids and Circulation",
+      "status": "linked",
+      "targets": [
+        "gs3_environment"
+      ]
+    },
+    {
+      "key": "gs3_env_class11_biology_ch19_excretory_products_and_their_elimination",
+      "title": "Excretory Products and Their Elimination",
+      "status": "linked",
+      "targets": [
+        "gs3_environment"
+      ]
+    },
+    {
+      "key": "gs3_env_class12_biology_ch01_reproduction_in_organisms",
+      "title": "Reproduction in Organisms",
+      "status": "linked",
+      "targets": [
+        "gs3_environment"
+      ]
+    },
+    {
+      "key": "gs3_env_class12_biology_ch02_sexual_reproduction_in_plants",
+      "title": "Sexual Reproduction in Plants",
+      "status": "linked",
+      "targets": [
+        "gs3_environment"
+      ]
+    },
+    {
+      "key": "gs3_env_class12_biology_ch03_human_reproduction",
+      "title": "Human Reproduction",
+      "status": "linked",
+      "targets": [
+        "gs3_environment"
+      ]
+    },
+    {
+      "key": "gs3_env_class12_biology_ch04_reproductive_health",
+      "title": "Reproductive Health",
+      "status": "linked",
+      "targets": [
+        "gs3_environment"
+      ]
+    },
+    {
+      "key": "gs3_env_class12_biology_ch05_principles_of_inheritance",
+      "title": "Principles of Inheritance",
+      "status": "linked",
+      "targets": [
+        "gs3_environment"
+      ]
+    },
+    {
+      "key": "gs3_env_class12_biology_ch06_molecular_basis_of_inheritance",
+      "title": "Molecular Basis of Inheritance",
+      "status": "linked",
+      "targets": [
+        "gs3_environment"
+      ]
+    },
+    {
+      "key": "gs3_env_class12_biology_ch07_human_health_and_disease",
+      "title": "Human Health and Disease",
+      "status": "linked",
+      "targets": [
+        "gs3_environment"
+      ]
+    },
+    {
+      "key": "gs3_env_class12_biology_ch08_microbes_in_human_welfare",
+      "title": "Microbes in Human Welfare",
+      "status": "linked",
+      "targets": [
+        "gs3_environment"
+      ]
+    },
+    {
+      "key": "gs3_env_class12_biology_ch09_biotechnology_principles_and_processes",
+      "title": "Biotechnology Principles and Processes",
+      "status": "linked",
+      "targets": [
+        "gs3_environment"
+      ]
+    },
+    {
+      "key": "gs3_env_class12_biology_ch10_biotechnology_and_its_applications",
+      "title": "Biotechnology and its Applications",
+      "status": "linked",
+      "targets": [
+        "gs3_environment"
+      ]
+    },
+    {
+      "key": "gs3_env_class12_biology_ch11_organisms_and_populations",
+      "title": "Organisms and Populations",
+      "status": "linked",
+      "targets": [
+        "gs3_environment"
+      ]
+    },
+    {
+      "key": "gs3_env_class12_biology_ch12_ecosystem",
+      "title": "Ecosystem",
+      "status": "linked",
+      "targets": [
+        "gs3_environment"
+      ]
+    },
+    {
+      "key": "gs3_env_class12_biology_ch13_biodiversity_and_conservation",
+      "title": "Biodiversity and Conservation",
+      "status": "linked",
+      "targets": [
+        "gs3_environment"
+      ]
+    },
+    {
+      "key": "gs3_sci_class10_science_ch01_chemical_reactions_and_equations",
+      "title": "Chemical Reactions and Equations",
+      "status": "linked",
+      "targets": [
+        "gs3_environment"
+      ]
+    },
+    {
+      "key": "gs3_sci_class10_science_ch02_acids_bases_and_salts",
+      "title": "Acids Bases and Salts",
+      "status": "linked",
+      "targets": [
+        "gs3_environment"
+      ]
+    },
+    {
+      "key": "gs3_sci_class10_science_ch03_metals_and_non_metals",
+      "title": "Metals and Non-Metals",
+      "status": "linked",
+      "targets": [
+        "gs3_environment"
+      ]
+    },
+    {
+      "key": "gs3_sci_class10_science_ch04_carbon_and_its_compounds",
+      "title": "Carbon and Its Compounds",
+      "status": "linked",
+      "targets": [
+        "gs3_environment"
+      ]
+    },
+    {
+      "key": "gs3_sci_class10_science_ch05_periodic_classification_of_elements",
+      "title": "Periodic Classification of Elements",
+      "status": "linked",
+      "targets": [
+        "gs3_environment"
+      ]
+    },
+    {
+      "key": "gs3_sci_class10_science_ch06_life_processes",
+      "title": "Life Processes",
+      "status": "linked",
+      "targets": [
+        "gs3_environment"
+      ]
+    },
+    {
+      "key": "gs3_sci_class10_science_ch07_control_and_coordination",
+      "title": "Control and Coordination",
+      "status": "linked",
+      "targets": [
+        "gs3_environment"
+      ]
+    },
+    {
+      "key": "gs3_sci_class10_science_ch08_how_do_organisms_reproduce",
+      "title": "How Do Organisms Reproduce",
+      "status": "linked",
+      "targets": [
+        "gs3_environment"
+      ]
+    },
+    {
+      "key": "gs3_sci_class10_science_ch09_heredity_and_evolution",
+      "title": "Heredity and Evolution",
+      "status": "linked",
+      "targets": [
+        "gs3_environment"
+      ]
+    },
+    {
+      "key": "gs3_sci_class10_science_ch10_light_reflection_and_refraction",
+      "title": "Light Reflection and Refraction",
+      "status": "linked",
+      "targets": [
+        "gs3_environment"
+      ]
+    },
+    {
+      "key": "gs3_sci_class10_science_ch11_the_human_eye_and_the_colourful_world",
+      "title": "The Human Eye and the Colourful World",
+      "status": "linked",
+      "targets": [
+        "gs3_environment"
+      ]
+    },
+    {
+      "key": "gs3_sci_class10_science_ch12_electricity",
+      "title": "Electricity",
+      "status": "linked",
+      "targets": [
+        "gs3_environment"
+      ]
+    },
+    {
+      "key": "gs3_sci_class10_science_ch13_magnetic_effects_of_electric_current",
+      "title": "Magnetic Effects of Electric Current",
+      "status": "linked",
+      "targets": [
+        "gs3_environment"
+      ]
+    },
+    {
+      "key": "gs3_sci_class11_chemistry_ch01_some_basic_concepts_of_chemistry",
+      "title": "Some Basic Concepts of Chemistry",
+      "status": "linked",
+      "targets": [
+        "gs3_environment"
+      ]
+    },
+    {
+      "key": "gs3_sci_class11_chemistry_ch02_structure_of_atom",
+      "title": "Structure of Atom",
+      "status": "linked",
+      "targets": [
+        "gs3_environment"
+      ]
+    },
+    {
+      "key": "gs3_sci_class11_chemistry_ch03_classification_of_elements_and_periodicity_in_properties",
+      "title": "Classification of Elements and Periodicity in Properties",
+      "status": "linked",
+      "targets": [
+        "gs3_environment"
+      ]
+    },
+    {
+      "key": "gs3_sci_class11_chemistry_ch04_chemical_bonding_and_molecular_structure",
+      "title": "Chemical Bonding and Molecular Structure",
+      "status": "linked",
+      "targets": [
+        "gs3_environment"
+      ]
+    },
+    {
+      "key": "gs3_sci_class11_chemistry_ch05_states_of_matter",
+      "title": "States of Matter",
+      "status": "linked",
+      "targets": [
+        "gs3_environment"
+      ]
+    },
+    {
+      "key": "gs3_sci_class11_chemistry_ch06_thermodynamics",
+      "title": "Thermodynamics",
+      "status": "linked",
+      "targets": [
+        "gs3_environment"
+      ]
+    },
+    {
+      "key": "gs3_sci_class11_physics_ch01_physical_world",
+      "title": "Physical World",
+      "status": "linked",
+      "targets": [
+        "gs3_sci_class10_science_ch14_sources_of_energy",
+        "gs3_sci_class11_physics_ch08_gravitation"
+      ]
+    },
+    {
+      "key": "gs3_sci_class11_physics_ch02_units_and_measurements",
+      "title": "Units and Measurements",
+      "status": "linked",
+      "targets": [
+        "gs3_sci_class10_science_ch14_sources_of_energy",
+        "gs3_sci_class11_physics_ch08_gravitation"
+      ]
+    },
+    {
+      "key": "gs3_sci_class11_physics_ch03_motion_in_a_straight_line",
+      "title": "Motion in a Straight Line",
+      "status": "linked",
+      "targets": [
+        "gs3_sci_class10_science_ch14_sources_of_energy",
+        "gs3_sci_class11_physics_ch08_gravitation"
+      ]
+    },
+    {
+      "key": "gs3_sci_class11_physics_ch04_motion_in_a_plane",
+      "title": "Motion in a Plane",
+      "status": "linked",
+      "targets": [
+        "gs3_sci_class10_science_ch14_sources_of_energy",
+        "gs3_sci_class11_physics_ch08_gravitation"
+      ]
+    },
+    {
+      "key": "gs3_sci_class11_physics_ch05_laws_of_motion",
+      "title": "Laws of Motion",
+      "status": "linked",
+      "targets": [
+        "gs3_sci_class10_science_ch14_sources_of_energy",
+        "gs3_sci_class11_physics_ch08_gravitation"
+      ]
+    },
+    {
+      "key": "gs3_sci_class11_physics_ch06_work_energy_and_power",
+      "title": "Work Energy and Power",
+      "status": "linked",
+      "targets": [
+        "gs3_sci_class10_science_ch14_sources_of_energy",
+        "gs3_sci_class11_physics_ch08_gravitation"
+      ]
+    },
+    {
+      "key": "gs3_sci_class11_physics_ch07_system_of_particles_and_rotational_motion",
+      "title": "System of Particles and Rotational Motion",
+      "status": "linked",
+      "targets": [
+        "gs3_sci_class10_science_ch14_sources_of_energy",
+        "gs3_sci_class11_chemistry_ch07_equilibrium"
+      ]
+    },
+    {
+      "key": "gs3_sci_class12_chemistry_ch01_solutions",
+      "title": "Solutions",
+      "status": "linked",
+      "targets": [
+        "gs3_environment"
+      ]
+    },
+    {
+      "key": "gs3_sci_class12_chemistry_ch02_electrochemistry",
+      "title": "Electrochemistry",
+      "status": "linked",
+      "targets": [
+        "gs3_environment"
+      ]
+    },
+    {
+      "key": "gs3_sci_class12_chemistry_ch03_chemical_kinetics",
+      "title": "Chemical Kinetics",
+      "status": "linked",
+      "targets": [
+        "gs3_environment"
+      ]
+    },
+    {
+      "key": "gs3_sci_class12_chemistry_ch04_the_d_and_f_block_elements",
+      "title": "The d and f Block Elements",
+      "status": "linked",
+      "targets": [
+        "gs3_environment"
+      ]
+    },
+    {
+      "key": "gs3_sci_class12_chemistry_ch05_coordination_compounds",
+      "title": "Coordination Compounds",
+      "status": "linked",
+      "targets": [
+        "gs3_environment"
+      ]
+    },
+    {
+      "key": "gs3_sci_class12_physics_ch01_electric_charges_and_fields",
+      "title": "Electric Charges and Fields",
+      "status": "linked",
+      "targets": [
+        "gs3_sci_class10_science_ch14_sources_of_energy",
+        "gs3_sci_class12_physics_ch09_ray_optics_and_optical_instruments"
+      ]
+    },
+    {
+      "key": "gs3_sci_class12_physics_ch02_electrostatic_potential_and_capacitance",
+      "title": "Electrostatic Potential and Capacitance",
+      "status": "linked",
+      "targets": [
+        "gs3_sci_class10_science_ch14_sources_of_energy",
+        "gs3_sci_class12_physics_ch09_ray_optics_and_optical_instruments"
+      ]
+    },
+    {
+      "key": "gs3_sci_class12_physics_ch03_current_electricity",
+      "title": "Current Electricity",
+      "status": "linked",
+      "targets": [
+        "gs3_science_and_tech_biotechnology_current_affairs_linkage",
+        "gs3_science_and_tech_defence_tech_current_affairs_linkage"
+      ]
+    },
+    {
+      "key": "gs3_sci_class12_physics_ch04_moving_charges_and_magnetism",
+      "title": "Moving Charges and Magnetism",
+      "status": "linked",
+      "targets": [
+        "gs3_sci_class10_science_ch14_sources_of_energy",
+        "gs3_sci_class12_physics_ch09_ray_optics_and_optical_instruments"
+      ]
+    },
+    {
+      "key": "gs3_sci_class12_physics_ch05_magnetism_and_matter",
+      "title": "Magnetism and Matter",
+      "status": "linked",
+      "targets": [
+        "gs3_sci_class12_physics_ch11_dual_nature_of_radiation_and_matter",
+        "gs3_sci_class10_science_ch14_sources_of_energy"
+      ]
+    },
+    {
+      "key": "gs3_sci_class12_physics_ch06_electromagnetic_induction",
+      "title": "Electromagnetic Induction",
+      "status": "linked",
+      "targets": [
+        "gs3_sci_class10_science_ch14_sources_of_energy",
+        "gs3_sci_class12_chemistry_ch06_haloalkanes_and_haloarenes"
+      ]
+    },
+    {
+      "key": "gs3_sci_class12_physics_ch07_alternating_current",
+      "title": "Alternating Current",
+      "status": "linked",
+      "targets": [
+        "gs3_science_and_tech_biotechnology_current_affairs_linkage",
+        "gs3_science_and_tech_defence_tech_current_affairs_linkage"
+      ]
+    },
+    {
+      "key": "gs3_sci_class12_physics_ch08_electromagnetic_waves",
+      "title": "Electromagnetic Waves",
+      "status": "linked",
+      "targets": [
+        "gs3_sci_class10_science_ch14_sources_of_energy",
+        "gs3_sci_class11_physics_ch08_gravitation"
+      ]
+    },
+    {
+      "key": "gs3_sci_class7_science_ch01_nutrition_in_plants",
+      "title": "Nutrition in Plants",
+      "status": "linked",
+      "targets": [
+        "gs3_environment"
+      ]
+    },
+    {
+      "key": "gs3_sci_class7_science_ch02_nutrition_in_animals",
+      "title": "Nutrition in Animals",
+      "status": "linked",
+      "targets": [
+        "gs3_environment"
+      ]
+    },
+    {
+      "key": "gs3_sci_class7_science_ch03_fibre_to_fabric",
+      "title": "Fibre to Fabric",
+      "status": "linked",
+      "targets": [
+        "gs3_environment"
+      ]
+    },
+    {
+      "key": "gs3_sci_class7_science_ch04_heat",
+      "title": "Heat",
+      "status": "linked",
+      "targets": [
+        "gs3_environment"
+      ]
+    },
+    {
+      "key": "gs3_sci_class7_science_ch05_acids_bases_and_salts",
+      "title": "Acids Bases and Salts",
+      "status": "linked",
+      "targets": [
+        "gs3_environment"
+      ]
+    },
+    {
+      "key": "gs3_sci_class7_science_ch06_physical_and_chemical_changes",
+      "title": "Physical and Chemical Changes",
+      "status": "linked",
+      "targets": [
+        "gs3_environment"
+      ]
+    },
+    {
+      "key": "gs3_sci_class7_science_ch07_weather_climate_and_adaptations_of_animals_to_climate",
+      "title": "Weather Climate and Adaptations of Animals to Climate",
+      "status": "linked",
+      "targets": [
+        "gs3_environment"
+      ]
+    },
+    {
+      "key": "gs3_sci_class7_science_ch08_winds_storms_and_cyclones",
+      "title": "Winds Storms and Cyclones",
+      "status": "linked",
+      "targets": [
+        "gs3_environment"
+      ]
+    },
+    {
+      "key": "gs3_sci_class7_science_ch09_soil",
+      "title": "Soil",
+      "status": "linked",
+      "targets": [
+        "gs3_environment"
+      ]
+    },
+    {
+      "key": "gs3_sci_class7_science_ch10_respiration_in_organisms",
+      "title": "Respiration in Organisms",
+      "status": "linked",
+      "targets": [
+        "gs3_environment"
+      ]
+    },
+    {
+      "key": "gs3_sci_class7_science_ch11_transportation_in_animals_and_plants",
+      "title": "Transportation in Animals and Plants",
+      "status": "linked",
+      "targets": [
+        "gs3_environment"
+      ]
+    },
+    {
+      "key": "gs3_sci_class7_science_ch12_reproduction_in_plants",
+      "title": "Reproduction in Plants",
+      "status": "linked",
+      "targets": [
+        "gs3_environment"
+      ]
+    },
+    {
+      "key": "gs3_sci_class7_science_ch13_motion_and_time",
+      "title": "Motion and Time",
+      "status": "linked",
+      "targets": [
+        "gs3_environment"
+      ]
+    },
+    {
+      "key": "gs3_sci_class8_science_ch01_crop_production_and_management",
+      "title": "Crop Production and Management",
+      "status": "linked",
+      "targets": [
+        "gs3_environment"
+      ]
+    },
+    {
+      "key": "gs3_sci_class8_science_ch02_microorganisms_friend_and_foe",
+      "title": "Microorganisms Friend and Foe",
+      "status": "linked",
+      "targets": [
+        "gs3_environment"
+      ]
+    },
+    {
+      "key": "gs3_sci_class8_science_ch03_synthetic_fibres_and_plastics",
+      "title": "Synthetic Fibres and Plastics",
+      "status": "linked",
+      "targets": [
+        "gs3_environment"
+      ]
+    },
+    {
+      "key": "gs3_sci_class8_science_ch04_materials_metals_and_non_metals",
+      "title": "Materials Metals and Non-Metals",
+      "status": "linked",
+      "targets": [
+        "gs3_environment"
+      ]
+    },
+    {
+      "key": "gs3_sci_class8_science_ch05_coal_and_petroleum",
+      "title": "Coal and Petroleum",
+      "status": "linked",
+      "targets": [
+        "gs3_environment"
+      ]
+    },
+    {
+      "key": "gs3_sci_class8_science_ch06_combustion_and_flame",
+      "title": "Combustion and Flame",
+      "status": "linked",
+      "targets": [
+        "gs3_environment"
+      ]
+    },
+    {
+      "key": "gs3_sci_class8_science_ch07_conservation_of_plants_and_animals",
+      "title": "Conservation of Plants and Animals",
+      "status": "linked",
+      "targets": [
+        "gs3_environment"
+      ]
+    },
+    {
+      "key": "gs3_sci_class8_science_ch08_cell_structure_and_functions",
+      "title": "Cell Structure and Functions",
+      "status": "linked",
+      "targets": [
+        "gs3_environment"
+      ]
+    },
+    {
+      "key": "gs3_sci_class8_science_ch09_reproduction_in_animals",
+      "title": "Reproduction in Animals",
+      "status": "linked",
+      "targets": [
+        "gs3_environment"
+      ]
+    },
+    {
+      "key": "gs3_sci_class8_science_ch10_reaching_the_age_of_adolescence",
+      "title": "Reaching the Age of Adolescence",
+      "status": "linked",
+      "targets": [
+        "gs3_environment"
+      ]
+    },
+    {
+      "key": "gs3_sci_class8_science_ch11_force_and_pressure",
+      "title": "Force and Pressure",
+      "status": "linked",
+      "targets": [
+        "gs3_environment"
+      ]
+    },
+    {
+      "key": "gs3_sci_class8_science_ch12_friction",
+      "title": "Friction",
+      "status": "linked",
+      "targets": [
+        "gs3_environment"
+      ]
+    },
+    {
+      "key": "gs3_sci_class8_science_ch13_sound",
+      "title": "Sound",
+      "status": "linked",
+      "targets": [
+        "gs3_environment"
+      ]
+    },
+    {
+      "key": "gs3_sci_class9_science_ch01_matter_in_our_surroundings",
+      "title": "Matter in Our Surroundings",
+      "status": "linked",
+      "targets": [
+        "gs3_environment"
+      ]
+    },
+    {
+      "key": "gs3_sci_class9_science_ch02_is_matter_around_us_pure",
+      "title": "Is Matter Around Us Pure",
+      "status": "linked",
+      "targets": [
+        "gs3_environment"
+      ]
+    },
+    {
+      "key": "gs3_sci_class9_science_ch03_atoms_and_molecules",
+      "title": "Atoms and Molecules",
+      "status": "linked",
+      "targets": [
+        "gs3_environment"
+      ]
+    },
+    {
+      "key": "gs3_sci_class9_science_ch04_structure_of_the_atom",
+      "title": "Structure of the Atom",
+      "status": "linked",
+      "targets": [
+        "gs3_environment"
+      ]
+    },
+    {
+      "key": "gs3_sci_class9_science_ch05_the_fundamental_unit_of_life",
+      "title": "The Fundamental Unit of Life",
+      "status": "linked",
+      "targets": [
+        "gs3_environment"
+      ]
+    },
+    {
+      "key": "gs3_sci_class9_science_ch06_tissues",
+      "title": "Tissues",
+      "status": "linked",
+      "targets": [
+        "gs3_environment"
+      ]
+    },
+    {
+      "key": "gs3_sci_class9_science_ch07_diversity_in_living_organisms",
+      "title": "Diversity in Living Organisms",
+      "status": "linked",
+      "targets": [
+        "gs3_environment"
+      ]
+    },
+    {
+      "key": "gs3_sci_class9_science_ch08_motion",
+      "title": "Motion",
+      "status": "linked",
+      "targets": [
+        "gs3_environment"
+      ]
+    },
+    {
+      "key": "gs3_sci_class9_science_ch09_force_and_laws_of_motion",
+      "title": "Force and Laws of Motion",
+      "status": "linked",
+      "targets": [
+        "gs3_environment"
+      ]
+    },
+    {
+      "key": "gs3_sci_class9_science_ch10_gravitation",
+      "title": "Gravitation",
+      "status": "linked",
+      "targets": [
+        "gs3_environment"
+      ]
+    },
+    {
+      "key": "gs3_sci_class9_science_ch11_work_and_energy",
+      "title": "Work and Energy",
+      "status": "linked",
+      "targets": [
+        "gs3_environment"
+      ]
+    },
+    {
+      "key": "gs3_sci_class9_science_ch12_sound",
+      "title": "Sound",
+      "status": "linked",
+      "targets": [
+        "gs3_environment"
+      ]
+    },
+    {
+      "key": "gs3_sci_class9_science_ch13_why_do_we_fall_ill",
+      "title": "Why Do We Fall Ill",
+      "status": "linked",
+      "targets": [
+        "gs3_environment"
+      ]
+    }
+  ],
+  "updated_topics": [
+    {
+      "key": "gs1_history_ancient",
+      "title": "Ancient India",
+      "added_refs": 0,
+      "total_refs": 13
+    },
+    {
+      "key": "gs1_history_medieval",
+      "title": "Medieval India",
+      "added_refs": 0,
+      "total_refs": 22
+    },
+    {
+      "key": "gs1_geography_resources",
+      "title": "Resources",
+      "added_refs": 0,
+      "total_refs": 24
+    },
+    {
+      "key": "gs1_geography_indian_geography",
+      "title": "Indian Geography",
+      "added_refs": 0,
+      "total_refs": 23
+    },
+    {
+      "key": "gs1_art_class11_living_craft_traditions_ch03_craft_traditions_of_india_past_present_and_future",
+      "title": "Craft Traditions of India Past Present and Future",
+      "added_refs": 0,
+      "total_refs": 2
+    },
+    {
+      "key": "gs1_geo_class9_contemporary_india_i_ch03_drainage",
+      "title": "Drainage",
+      "added_refs": 0,
+      "total_refs": 2
+    },
+    {
+      "key": "gs1_geography",
+      "title": "Geography",
+      "added_refs": 0,
+      "total_refs": 10
+    },
+    {
+      "key": "gs1_geography_physical",
+      "title": "Physical Geography",
+      "added_refs": 0,
+      "total_refs": 17
+    },
+    {
+      "key": "gs1_geography_geomorphology",
+      "title": "Geomorphology",
+      "added_refs": 0,
+      "total_refs": 5
+    },
+    {
+      "key": "gs1_geo_class12_human_ch09_international_trade",
+      "title": "International Trade",
+      "added_refs": 0,
+      "total_refs": 9
+    },
+    {
+      "key": "gs1_geography_world_geography",
+      "title": "World Geography",
+      "added_refs": 0,
+      "total_refs": 3
+    },
+    {
+      "key": "gs1_hist_class12_indian_history_ii_ch05_the_mughal_courts",
+      "title": "The Mughal Courts",
+      "added_refs": 0,
+      "total_refs": 2
+    },
+    {
+      "key": "gs1_geo_class12_india_people_economy_ch10_transport_and_communication",
+      "title": "Transport and Communication",
+      "added_refs": 0,
+      "total_refs": 2
+    },
+    {
+      "key": "gs3_environment",
+      "title": "Environment",
+      "added_refs": 0,
+      "total_refs": 110
+    },
+    {
+      "key": "gs1_history_world",
+      "title": "World History from 18th Century",
+      "added_refs": 0,
+      "total_refs": 14
+    },
+    {
+      "key": "gs1_history_modern",
+      "title": "Modern India & Freedom Struggle",
+      "added_refs": 0,
+      "total_refs": 20
+    },
+    {
+      "key": "gs1_history_post_independence",
+      "title": "Post Independence",
+      "added_refs": 0,
+      "total_refs": 9
+    },
+    {
+      "key": "gs2_polity",
+      "title": "Constitution & Polity",
+      "added_refs": 0,
+      "total_refs": 10
+    },
+    {
+      "key": "gs1_society",
+      "title": "Society",
+      "added_refs": 0,
+      "total_refs": 27
+    },
+    {
+      "key": "gs2_ir_class12_world_politics_ch08_environment_and_natural_resources",
+      "title": "Environment and Natural Resources",
+      "added_refs": 0,
+      "total_refs": 8
+    },
+    {
+      "key": "gs2_ir_class12_world_politics_ch09_globalisation",
+      "title": "Globalisation",
+      "added_refs": 0,
+      "total_refs": 8
+    },
+    {
+      "key": "gs2_polity_federalism",
+      "title": "Federalism, Devolution & Finance Commission",
+      "added_refs": 0,
+      "total_refs": 8
+    },
+    {
+      "key": "gs2_polity_constitution",
+      "title": "Constitutional History & Philosophy",
+      "added_refs": 0,
+      "total_refs": 19
+    },
+    {
+      "key": "gs2_polity_class11_theory_ch09_peace",
+      "title": "Peace",
+      "added_refs": 0,
+      "total_refs": 9
+    },
+    {
+      "key": "gs2_polity_class11_theory_ch10_development",
+      "title": "Development",
+      "added_refs": 0,
+      "total_refs": 7
+    },
+    {
+      "key": "gs2_polity_class6_social_political_life_i_ch04_key_elements_of_a_democratic_government",
+      "title": "Key Elements of a Democratic Government",
+      "added_refs": 0,
+      "total_refs": 2
+    },
+    {
+      "key": "gs2_polity_class10_democratic_politics_ii_ch06_political_parties",
+      "title": "Political Parties",
+      "added_refs": 0,
+      "total_refs": 2
+    },
+    {
+      "key": "gs2_governance",
+      "title": "Governance",
+      "added_refs": 0,
+      "total_refs": 18
+    },
+    {
+      "key": "gs3_economy",
+      "title": "Indian Economy – Overview",
+      "added_refs": 0,
+      "total_refs": 24
+    },
+    {
+      "key": "gs3_economy_banking",
+      "title": "Banking, Money Markets & NPAs",
+      "added_refs": 0,
+      "total_refs": 3
+    },
+    {
+      "key": "gs3_sci_class10_science_ch14_sources_of_energy",
+      "title": "Sources of Energy",
+      "added_refs": 13,
+      "total_refs": 14
+    },
+    {
+      "key": "gs3_sci_class11_physics_ch08_gravitation",
+      "title": "Gravitation",
+      "added_refs": 7,
+      "total_refs": 8
+    },
+    {
+      "key": "gs3_sci_class11_chemistry_ch07_equilibrium",
+      "title": "Equilibrium",
+      "added_refs": 1,
+      "total_refs": 2
+    },
+    {
+      "key": "gs3_sci_class12_physics_ch09_ray_optics_and_optical_instruments",
+      "title": "Ray Optics and Optical Instruments",
+      "added_refs": 3,
+      "total_refs": 4
+    },
+    {
+      "key": "gs3_science_and_tech_biotechnology_current_affairs_linkage",
+      "title": "Biotechnology: current affairs linkage",
+      "added_refs": 2,
+      "total_refs": 4
+    },
+    {
+      "key": "gs3_science_and_tech_defence_tech_current_affairs_linkage",
+      "title": "Defence tech: current affairs linkage",
+      "added_refs": 2,
+      "total_refs": 4
+    },
+    {
+      "key": "gs3_sci_class12_physics_ch11_dual_nature_of_radiation_and_matter",
+      "title": "Dual Nature of Radiation and Matter",
+      "added_refs": 1,
+      "total_refs": 2
+    },
+    {
+      "key": "gs3_sci_class12_chemistry_ch06_haloalkanes_and_haloarenes",
+      "title": "Haloalkanes and Haloarenes",
+      "added_refs": 1,
+      "total_refs": 2
+    }
+  ]
+}

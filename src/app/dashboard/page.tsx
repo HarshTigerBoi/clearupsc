@@ -264,9 +264,16 @@ function mergeGuestStats(
   }));
   const personalized = topics.length ? generatePersonalizedTopicSequence({ profile, topics, progress: progressRecords }) : null;
   const personalizedTopic = personalized?.nextTopicKey ? topics.find((topic) => topic.key === personalized.nextTopicKey) : null;
+  const studiedTopicKeys = new Set(progressRecords.filter((item) => item.status !== "not_started").map((item) => item.topic_key));
+  const hasStudiedDecodedChapter = topics.some(
+    (topic) => topic.textbookFirst && topic.contentQuality === "textbook_decoded" && studiedTopicKeys.has(topic.key),
+  );
+  const firstDecodedChapter = topics.find(
+    (topic) => topic.textbookFirst && topic.contentQuality === "textbook_decoded" && !studiedTopicKeys.has(topic.key),
+  );
 
   const guestXp = readGuestXp();
-  if (!entries.length && !personalizedTopic) return guestXp ? { ...stats, totalXp: Math.max(stats.totalXp ?? 0, guestXp) } : stats;
+  if (!entries.length && !personalizedTopic && !firstDecodedChapter) return guestXp ? { ...stats, totalXp: Math.max(stats.totalXp ?? 0, guestXp) } : stats;
 
   const completed = entries.filter(([, item]) => item.status === "completed" || item.status === "done").length;
   const studied = entries.filter(([, item]) => normaliseGuestStatus(item.status) !== "not_started").length;
@@ -293,7 +300,16 @@ function mergeGuestStats(
     syllabusCompletion: Math.max(stats.syllabusCompletion, Math.round((completed / 1196) * 100)),
     weakAreas: weakAreas.length ? weakAreas : stats.weakAreas,
     totalXp: Math.max(stats.totalXp ?? 0, guestXp),
-    nextAction: inProgress
+    nextAction: !hasStudiedDecodedChapter && firstDecodedChapter
+      ? {
+          title: `Start with Real NCERT: ${firstDecodedChapter.title}`,
+          subtitle: "Your first textbook-first chapter is source traced from the official NCERT flow. Start here before broad generated topic study.",
+          buttonLabel: "Start Real NCERT",
+          href: `/study/${firstDecodedChapter.key}`,
+          topicTitle: firstDecodedChapter.title,
+          stepLabel: "NCERT Source Verified",
+        }
+      : inProgress
       ? {
           title: "Continue Where You Left Off",
           subtitle: "This progress is saved in this browser. Sign in later only if you want cloud sync.",

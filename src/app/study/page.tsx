@@ -3,7 +3,7 @@
 import { useMemo, useState } from "react";
 import Link from "next/link";
 import { useQuery } from "@tanstack/react-query";
-import { BookOpenCheck, CheckCircle2, Search } from "lucide-react";
+import { BookOpenCheck, CheckCircle2, Search, ShieldCheck } from "lucide-react";
 import { PageHeader } from "@/components/layout/PageHeader";
 import ProductShell from "@/components/product/ProductShell";
 import type { Topic } from "@/types";
@@ -26,6 +26,11 @@ export default function StudyHomePage() {
       return (paper === "All" || topic.subject === paper) && text.includes(search.toLowerCase());
     });
   }, [query.data, paper, search]);
+  const decodedChapters = useMemo(
+    () => topics.filter((topic) => topic.textbookFirst && topic.contentQuality === "textbook_decoded"),
+    [topics],
+  );
+  const syllabusTopics = useMemo(() => topics.filter((topic) => !topic.textbookFirst), [topics]);
 
   return (
     <ProductShell>
@@ -55,8 +60,42 @@ export default function StudyHomePage() {
             ))}
           </div>
         </div>
-        <div className="mt-6 grid gap-3 md:grid-cols-2 xl:grid-cols-3">
-          {topics.slice(0, 120).map((topic) => (
+        <section className="mt-8">
+          <div className="flex flex-col gap-2 sm:flex-row sm:items-end sm:justify-between">
+            <div>
+              <p className="text-xs font-black uppercase tracking-[0.18em] text-green-700">NCERT Source Chapters</p>
+              <h2 className="mt-1 text-2xl font-black text-[#1a2744]">Verified textbook-first chapters</h2>
+              <p className="mt-1 text-sm text-slate-500">{decodedChapters.length} decoded chapters are ready from source-traced NCERT text.</p>
+            </div>
+            <span className="inline-flex w-fit items-center gap-2 rounded-full bg-green-100 px-4 py-2 text-xs font-black uppercase tracking-[0.12em] text-green-700">
+              <ShieldCheck className="h-4 w-4" /> NCERT Verified
+            </span>
+          </div>
+          <div className="mt-4 grid gap-3 md:grid-cols-2 xl:grid-cols-3">
+            {decodedChapters.slice(0, 60).map((topic) => (
+              <Link key={topic.key} href={`/study/${topic.key}`} className="rounded-3xl border border-green-200 bg-white p-5 shadow-sm hover:border-green-500">
+                <div className="flex items-center justify-between gap-3">
+                  <BookOpenCheck className="h-5 w-5 text-green-600" />
+                  <span className="rounded-full bg-green-100 px-3 py-1 text-[11px] font-black uppercase tracking-[0.1em] text-green-700">NCERT Verified</span>
+                </div>
+                <h3 className="mt-3 font-black text-[#1a2744]">{topic.title}</h3>
+                <p className="mt-1 text-sm leading-6 text-slate-500">
+                  {topic.sourceBook ? `${topic.sourceBook}, Chapter ${topic.sourceChapter}` : `${topic.subject} | ${topic.examStage ?? "both"}`}
+                </p>
+              </Link>
+            ))}
+          </div>
+          {decodedChapters.length > 60 ? <p className="mt-4 text-sm text-slate-500">Showing first 60 NCERT verified matches. Search or filter to narrow all {decodedChapters.length} decoded chapters.</p> : null}
+        </section>
+
+        <section className="mt-10">
+          <div>
+            <p className="text-xs font-black uppercase tracking-[0.18em] text-slate-500">Full Syllabus Topics</p>
+            <h2 className="mt-1 text-2xl font-black text-[#1a2744]">Existing UPSC topic bank</h2>
+            <p className="mt-1 text-sm text-slate-500">{syllabusTopics.length} syllabus topics remain available below, now with NCERT source links where mapped.</p>
+          </div>
+        <div className="mt-4 grid gap-3 md:grid-cols-2 xl:grid-cols-3">
+          {syllabusTopics.slice(0, 120).map((topic) => (
             <Link key={topic.key} href={`/study/${topic.key}`} className="rounded-3xl border border-slate-200 bg-white p-5 shadow-sm hover:border-[#f97316]">
               <BookOpenCheck className="h-5 w-5 text-[#f97316]" />
               <h2 className="mt-3 font-black text-[#1a2744]">{topic.title}</h2>
@@ -64,7 +103,8 @@ export default function StudyHomePage() {
             </Link>
           ))}
         </div>
-        {topics.length > 120 ? <p className="mt-4 text-sm text-slate-500">Showing first 120 matches. Search or filter to narrow the full topic bank.</p> : null}
+        {syllabusTopics.length > 120 ? <p className="mt-4 text-sm text-slate-500">Showing first 120 syllabus matches. Search or filter to narrow the full topic bank.</p> : null}
+        </section>
       </section>
     </ProductShell>
   );

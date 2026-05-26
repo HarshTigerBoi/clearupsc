@@ -55,10 +55,22 @@ interface NcertRef {
   book: string;
   chapter: string;
   url: string;
+  decodedChapterKey?: string;
+  officialUrl?: string;
+  sourceType?: string;
 }
 
 interface TopicPayload {
-  topic: { key: string; title: string; subject: string; parent_key?: string | null; exam_stage: string; upsc_weightage: number; content_quality?: string | null };
+  topic: {
+    key: string;
+    title: string;
+    subject: string;
+    parent_key?: string | null;
+    exam_stage: string;
+    upsc_weightage: number;
+    content_quality?: string | null;
+    source?: { book?: string; chapter?: number; chapter_title?: string };
+  };
   wiki: null | { summary: string; description: string; imageUrl: string; sourceUrl: string; attribution: string };
   notes: string;
   notesStructured: StructuredTopicNotes;
@@ -422,6 +434,7 @@ function CompleteAndContinue({ nextTopic, pending, onComplete }: { nextTopic: To
 
 function Hero({ data }: { data: TopicPayload }) {
   const paperLabel = data.topic.subject.replace("GS", "GS-");
+  const isTextbookDecoded = data.topic.content_quality === "textbook_decoded";
   return (
     <section className="border-b border-slate-200 bg-white">
       <div className="mx-auto max-w-7xl px-4 py-6 sm:px-6 lg:px-8">
@@ -436,7 +449,19 @@ function Hero({ data }: { data: TopicPayload }) {
               <ChevronRight className="h-4 w-4" />
               <span className="text-[#1a2744]">{data.topic.title}</span>
             </div>
-              <h1 className="mt-4 break-words text-4xl font-black tracking-tight text-[#1a2744] sm:text-6xl">{data.topic.title}</h1>
+              <div className="mt-4 flex flex-col gap-3 sm:flex-row sm:items-center">
+                <h1 className="break-words text-4xl font-black tracking-tight text-[#1a2744] sm:text-6xl">{data.topic.title}</h1>
+                {isTextbookDecoded ? (
+                  <span className="inline-flex w-fit items-center gap-2 rounded-full bg-green-100 px-4 py-2 text-xs font-black uppercase tracking-[0.12em] text-green-700">
+                    <CheckCircle2 className="h-4 w-4" /> ✓ NCERT Source Verified
+                  </span>
+                ) : null}
+              </div>
+              {isTextbookDecoded && data.topic.source?.book ? (
+                <p className="mt-3 text-sm font-bold leading-6 text-green-700">
+                  Source: {data.topic.source.book}, Chapter {data.topic.source.chapter}
+                </p>
+              ) : null}
             <div className="mt-4 flex flex-wrap gap-2">
               <Badge>{data.topic.exam_stage}</Badge>
               <Badge>{data.readTime.full}</Badge>
@@ -727,7 +752,8 @@ function ConciseTable({ rows }: { rows: StructuredTopicNotes["concise_notes"] })
 }
 
 function NcertViewer({ ncerts, coverage }: { ncerts: NcertRef[]; coverage: string[] }) {
-    const primary = ncerts[0] ?? null;
+    const decodedRefs = ncerts.filter((item) => item.decodedChapterKey || item.sourceType === "textbook_decoded_chapter" || item.url.startsWith("/study/"));
+    const primary = ncerts.find((item) => !decodedRefs.includes(item)) ?? null;
     const hasCoverage = coverage.length > 0;
     const coverageItems = coverage.slice(0, 8).map((item) => ({ item, url: findNcertUrlForText(item) }));
   if (!primary && !hasCoverage) {
@@ -748,6 +774,28 @@ function NcertViewer({ ncerts, coverage }: { ncerts: NcertRef[]; coverage: strin
       <div className="mb-4 rounded-2xl bg-indigo-50 p-4 text-sm font-bold leading-6 text-indigo-900">
         Now that you understand the topic, the NCERT will feel easy.
       </div>
+      {decodedRefs.length ? (
+        <div className="mb-5 grid gap-3">
+          {decodedRefs.slice(0, 4).map((item) => (
+            <Link
+              key={`${item.decodedChapterKey ?? item.url}-${item.chapter}`}
+              href={item.decodedChapterKey ? `/study/${item.decodedChapterKey}` : item.url}
+              className="rounded-2xl border border-green-200 bg-green-50 p-4 transition hover:border-green-500 hover:bg-green-100"
+            >
+              <div className="flex flex-col gap-3 sm:flex-row sm:items-center sm:justify-between">
+                <div>
+                  <p className="text-xs font-black uppercase tracking-[0.16em] text-green-700">NCERT Source Chapter Available</p>
+                  <h3 className="mt-2 text-lg font-black leading-6 text-green-950">{item.chapter}</h3>
+                  <p className="mt-1 text-sm leading-6 text-green-800">{item.book}</p>
+                </div>
+                <span className="inline-flex min-h-10 shrink-0 items-center gap-2 rounded-full bg-white px-4 text-sm font-black text-green-700">
+                  Study from official NCERT source <ArrowRight className="h-4 w-4" />
+                </span>
+              </div>
+            </Link>
+          ))}
+        </div>
+      ) : null}
       {primary ? (
         <div className="flex flex-col gap-3 sm:flex-row sm:items-center sm:justify-between">
           <div>
