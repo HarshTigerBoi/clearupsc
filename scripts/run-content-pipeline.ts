@@ -2,6 +2,7 @@ import fs from "node:fs";
 import path from "node:path";
 import { createRequire } from "node:module";
 import { pathToFileURL } from "node:url";
+import { createClient as createSupabaseClient } from "@supabase/supabase-js";
 import type { ChapterTopic, ConceptDecode, UPSCPatternMCQ } from "../src/lib/types/ncert-types";
 import type { RedTeamAuditReport } from "../src/lib/utils/red-team-auditor";
 import type { AiEditorReport } from "../src/lib/utils/ai-editor-loop";
@@ -42,6 +43,7 @@ interface PipelineOptions {
   conceptLimit: number;
   provider?: "anthropic" | "openai" | "gemini";
   dryRun: boolean;
+  saveLocal: boolean;
 }
 
 interface PipelineUtilities {
@@ -151,6 +153,7 @@ function parseArgs(argv: string[]): PipelineOptions {
     conceptLimit: Number(args.get("--concept-limit") ?? 15),
     provider: args.get("--provider") ? (String(args.get("--provider")) as "anthropic" | "openai" | "gemini") : undefined,
     dryRun: Boolean(args.get("--dry-run")),
+    saveLocal: Boolean(args.get("--save-local")),
   };
 }
 
@@ -226,6 +229,63 @@ function savePassedPayload(options: PipelineOptions, payload: ChapterTopic) {
   const outputPath = path.join(options.outputDir, `${options.chapterKey}.json`);
   fs.writeFileSync(outputPath, `${JSON.stringify(payload, null, 2)}\n`);
   return outputPath;
+}
+
+async function saveFinalPayload(options: PipelineOptions, payload: ChapterTopic, mode: "pass" | "override") {
+  if (options.dryRun) {
+    const outputPath = path.join(repoRoot, "data", "content-reports", `${options.chapterKey}.pipeline-dry-run.json`);
+    fs.mkdirSync(path.dirname(outputPath), { recursive: true });
+    fs.writeFileSync(outputPath, `${JSON.stringify(payload, null, 2)}\n`);
+    return {
+      target: "dry-run-file",
+      path: outputPath,
+    };
+  }
+
+  if (options.saveLocal) {
+    return {
+      target: "local-file",
+      path: savePassedPayload(options, payload),
+    };
+  }
+
+  await upsertChapterPayloadToSupabase(payload, mode);
+  return {
+    target: "supabase",
+    path: `ncert_chapters:${payload.key}`,
+  };
+}
+
+async function upsertChapterPayloadToSupabase(payload: ChapterTopic, mode: "pass" | "override") {
+  const supabaseUrl = process.env.SUPABASE_URL || process.env.NEXT_PUBLIC_SUPABASE_URL;
+  const serviceKey = process.env.SUPABASE_SERVICE_ROLE_KEY;
+  if (!supabaseUrl || !serviceKey) {
+    throw new Error("Missing SUPABASE_URL/NEXT_PUBLIC_SUPABASE_URL or SUPABASE_SERVICE_ROLE_KEY for ncert_chapters upsert.");
+  }
+
+  const supabase = createSupabaseClient(supabaseUrl, serviceKey, {
+    auth: {
+      persistSession: false,
+      autoRefreshToken: false,
+    },
+  });
+  const contentPayload = {
+    ...payload,
+    pipeline_save_status: mode === "override" ? "auto-approved_via_override" : "red_team_passed",
+  };
+  const { error } = await supabase
+    .from("ncert_chapters")
+    .upsert({
+      topic_key: payload.key,
+      subject: payload.subject,
+      book: payload.source.book,
+      chapter_number: payload.source.chapter,
+      content_payload: contentPayload,
+    }, { onConflict: "topic_key" });
+
+  if (error) {
+    throw new Error(`Supabase ncert_chapters upsert failed for ${payload.key}: ${error.message}`);
+  }
 }
 
 async function runPipeline(options: PipelineOptions) {
@@ -348,15 +408,9 @@ async function runPipeline(options: PipelineOptions) {
     console.log(JSON.stringify(latestReport, null, 2));
 
     if (latestReport.status === "PASS") {
-      const outputPath = options.dryRun
-        ? path.join(repoRoot, "data", "content-reports", `${options.chapterKey}.pipeline-dry-run.json`)
-        : savePassedPayload(options, latestPayload);
-      if (options.dryRun) {
-        fs.mkdirSync(path.dirname(outputPath), { recursive: true });
-        fs.writeFileSync(outputPath, `${JSON.stringify(latestPayload, null, 2)}\n`);
-      }
-      console.log(`[Stage 6: Result] PASS saved to ${path.relative(repoRoot, outputPath).replaceAll("\\", "/")}`);
-      return { payload: latestPayload, report: latestReport, outputPath };
+      const saveResult = await saveFinalPayload(options, latestPayload, "pass");
+      console.log(`[Stage 6: Result] PASS saved to ${formatSaveTarget(saveResult)}`);
+      return { payload: latestPayload, report: latestReport, outputPath: saveResult.path };
     }
 
     feedback = formatAuditReport(latestReport);
@@ -390,9 +444,14 @@ async function runPipeline(options: PipelineOptions) {
     });
   }
 
-  const outputPath = savePassedPayload(options, overridePayload);
-  console.log(`[Stage 7: Synthetic Override] ${overridePayload.status} saved to ${path.relative(repoRoot, outputPath).replaceAll("\\", "/")}`);
-  return { payload: overridePayload, report: latestReport, outputPath };
+  const saveResult = await saveFinalPayload(options, overridePayload, "override");
+  console.log(`[Stage 7: Synthetic Override] ${overridePayload.status} saved to ${formatSaveTarget(saveResult)}`);
+  return { payload: overridePayload, report: latestReport, outputPath: saveResult.path };
+}
+
+function formatSaveTarget(saveResult: { target: string; path: string }) {
+  if (saveResult.target === "supabase") return saveResult.path;
+  return path.relative(repoRoot, saveResult.path).replaceAll("\\", "/");
 }
 
 function buildFailureLog(report: RedTeamAuditReport | null, payload: ChapterTopic | null) {
