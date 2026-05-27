@@ -25,7 +25,8 @@
     "content:textbook-packets": "node scripts/extract-textbook-first-source-packets.mjs",
     "content:textbook-start-decodes": "node scripts/start-textbook-first-decodes.mjs",
     "content:textbook-sync-topics": "node scripts/sync-textbook-first-topics.mjs",
-    "content:textbook-decode-all": "node scripts/decode-textbook-first-raw-texts.mjs"
+    "content:textbook-decode-all": "node scripts/decode-textbook-first-raw-texts.mjs",
+    "content:pipeline": "node --disable-warning=MODULE_TYPELESS_PACKAGE_JSON scripts/run-content-pipeline.ts"
   },
   "dependencies": {
     "@radix-ui/react-accordion": "^1.2.12",

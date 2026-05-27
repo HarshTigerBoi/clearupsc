@@ -6,7 +6,8 @@ export type AuditReason =
   | "Too Complex"
   | "Missing Analogy"
   | "Hallucination Detected"
-  | "MCQs Not Complex Enough";
+  | "MCQs Not Complex Enough"
+  | "Invalid JSON";
 
 export interface AuditFinding {
   status: "REJECTED";

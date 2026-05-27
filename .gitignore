@@ -29,6 +29,8 @@
 /data/study/textbook-first/raw-pdfs/
 /data/study/textbook-first/raw-text/
 /data/study/textbook-first/raw-meta/
+/data/content-reports/failed_audits.log
+/data/content-reports/*.pipeline-dry-run.json
 
 # debug
 npm-debug.log*
