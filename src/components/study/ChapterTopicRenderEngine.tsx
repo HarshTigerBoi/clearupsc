@@ -74,7 +74,7 @@ function ConceptMapper({ concepts }: { concepts: ConceptDecode[] }) {
 
           <section className="mt-5 rounded-2xl border border-amber-200 bg-amber-50 p-4 sm:p-5">
             <p className="text-xs font-black uppercase tracking-[0.16em] text-amber-700">Layer 1: The Analogy</p>
-            <h3 className="mt-2 text-lg font-black text-amber-950">Think of it like this</h3>
+            <h3 className="mt-2 text-lg font-black text-amber-950">Simple source-backed explanation</h3>
             <div className="mt-3 space-y-3 text-base leading-8 text-amber-950">
               {paragraphs(concept.simple_explanation).map((paragraph) => <p key={paragraph}>{paragraph}</p>)}
             </div>

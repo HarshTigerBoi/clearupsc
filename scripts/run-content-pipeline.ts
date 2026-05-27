@@ -5,13 +5,13 @@ import { pathToFileURL } from "node:url";
 import type { ChapterTopic, ConceptDecode, UPSCPatternMCQ } from "../src/lib/types/ncert-types";
 import type { RedTeamAuditReport } from "../src/lib/utils/red-team-auditor";
 import type { AiEditorReport } from "../src/lib/utils/ai-editor-loop";
+import type { SyntheticOverrideChapterTopic } from "../src/lib/api/synthetic-override";
 
 const require = createRequire(import.meta.url);
 const { sanitizeNcertText } = require("./sanitize-ncert.js");
 
 const repoRoot = process.cwd();
 const defaultOutputDir = path.join(repoRoot, "src", "data", "chapters");
-const failedAuditLogPath = path.join(repoRoot, "data", "content-reports", "failed_audits.log");
 
 function loadLocalEnv() {
   const envPath = path.join(repoRoot, ".env.local");
@@ -77,15 +77,18 @@ interface PipelineUtilities {
     provider?: "anthropic" | "openai" | "gemini";
     maxRewriteAttempts?: number;
   }) => Promise<{ chapter: ChapterTopic; report: AiEditorReport }>;
+  generateSyntheticOverrideChapter: (input: SyntheticOverrideInput) => Promise<SyntheticOverrideChapterTopic>;
+  generateLocalSyntheticOverrideChapter: (input: SyntheticOverrideInput) => SyntheticOverrideChapterTopic;
 }
 
 async function loadPipelineUtilities(): Promise<PipelineUtilities> {
-  const [auditor, decode, mcqs, pyqs, editor] = await Promise.all([
+  const [auditor, decode, mcqs, pyqs, editor, syntheticOverride] = await Promise.all([
     import(pathToFileURL(path.join(repoRoot, "src", "lib", "utils", "red-team-auditor.ts")).href),
     import(pathToFileURL(path.join(repoRoot, "src", "lib", "api", "generate-decode.ts")).href),
     import(pathToFileURL(path.join(repoRoot, "src", "lib", "api", "generate-mcqs.ts")).href),
     import(pathToFileURL(path.join(repoRoot, "src", "lib", "api", "pyq-matcher.ts")).href),
     import(pathToFileURL(path.join(repoRoot, "src", "lib", "utils", "ai-editor-loop.ts")).href),
+    import(pathToFileURL(path.join(repoRoot, "src", "lib", "api", "synthetic-override.ts")).href),
   ]);
   return {
     auditChapterTopic: auditor.auditChapterTopic,
@@ -95,7 +98,23 @@ async function loadPipelineUtilities(): Promise<PipelineUtilities> {
     generateUpscPatternMcqs: mcqs.generateUpscPatternMcqs,
     injectPyqConnections: pyqs.injectPyqConnections,
     editChapterTopicWithAi: editor.editChapterTopicWithAi,
+    generateSyntheticOverrideChapter: syntheticOverride.generateSyntheticOverrideChapter,
+    generateLocalSyntheticOverrideChapter: syntheticOverride.generateLocalSyntheticOverrideChapter,
   };
+}
+
+interface SyntheticOverrideInput {
+  sanitizedText: string;
+  key: string;
+  title: string;
+  subject: string;
+  book: string;
+  chapterNumber: number;
+  pageRange: string;
+  pdfUrl: string;
+  sourceTrace: string;
+  failureLog: string;
+  provider?: "anthropic" | "openai" | "gemini";
 }
 
 function parseArgs(argv: string[]): PipelineOptions {
@@ -209,25 +228,6 @@ function savePassedPayload(options: PipelineOptions, payload: ChapterTopic) {
   return outputPath;
 }
 
-function appendFailedAudit(options: PipelineOptions, payload: ChapterTopic | null, report: RedTeamAuditReport | null, sanitizedText: string) {
-  fs.mkdirSync(path.dirname(failedAuditLogPath), { recursive: true });
-  fs.appendFileSync(
-    failedAuditLogPath,
-    `${JSON.stringify(
-      {
-        failed_at: new Date().toISOString(),
-        input: options.input,
-        chapter_key: options.chapterKey,
-        report,
-        sanitized_characters: sanitizedText.length,
-        payload,
-      },
-      null,
-      2,
-    )}\n---\n`,
-  );
-}
-
 async function runPipeline(options: PipelineOptions) {
   loadLocalEnv();
   ensureValidArgs(options);
@@ -239,6 +239,8 @@ async function runPipeline(options: PipelineOptions) {
     generateUpscPatternMcqs,
     injectPyqConnections,
     editChapterTopicWithAi,
+    generateSyntheticOverrideChapter,
+    generateLocalSyntheticOverrideChapter,
   } = await loadPipelineUtilities();
 
   const inputPath = path.resolve(repoRoot, options.input);
@@ -361,10 +363,49 @@ async function runPipeline(options: PipelineOptions) {
     console.log(`[Stage 6: Retry Loop] REJECTED. Feedback for next attempt:\n${feedback}`);
   }
 
-  appendFailedAudit(options, latestPayload, latestReport, sanitizedText);
-  console.log(`[Stage 6: Result] failed ${options.maxRetries} attempts. Logged to ${path.relative(repoRoot, failedAuditLogPath).replaceAll("\\", "/")}`);
-  process.exitCode = 1;
-  return { payload: latestPayload, report: latestReport, outputPath: failedAuditLogPath };
+  console.log(`[Stage 7: Synthetic Override] retry_count === ${options.maxRetries}. Triggering override failsafe.`);
+  const overrideInput: SyntheticOverrideInput = {
+    sanitizedText,
+    key: options.chapterKey,
+    title: options.title,
+    subject: options.subject,
+    book: options.book,
+    chapterNumber: options.chapterNumber,
+    pageRange: options.pageRange,
+    pdfUrl: options.pdfUrl,
+    sourceTrace,
+    failureLog: buildFailureLog(latestReport, latestPayload),
+    provider: options.provider,
+  };
+
+  let overridePayload: SyntheticOverrideChapterTopic;
+  try {
+    overridePayload = await generateSyntheticOverrideChapter(overrideInput);
+  } catch (error) {
+    const message = error instanceof Error ? error.message : String(error);
+    console.log(`[Stage 7: Synthetic Override] provider override failed. Using local source-sentence fallback: ${message}`);
+    overridePayload = generateLocalSyntheticOverrideChapter({
+      ...overrideInput,
+      failureLog: `${overrideInput.failureLog}\nSynthetic override provider failure: ${message}`,
+    });
+  }
+
+  const outputPath = savePassedPayload(options, overridePayload);
+  console.log(`[Stage 7: Synthetic Override] ${overridePayload.status} saved to ${path.relative(repoRoot, outputPath).replaceAll("\\", "/")}`);
+  return { payload: overridePayload, report: latestReport, outputPath };
+}
+
+function buildFailureLog(report: RedTeamAuditReport | null, payload: ChapterTopic | null) {
+  return JSON.stringify({
+    report,
+    payload_summary: payload
+      ? {
+          key: payload.key,
+          concepts: payload.concepts.length,
+          mcqs: payload.mcqs.length,
+        }
+      : null,
+  }, null, 2);
 }
 
 if (import.meta.url === `file://${process.argv[1].replaceAll("\\", "/")}` || process.argv[1]?.endsWith("run-content-pipeline.ts")) {
